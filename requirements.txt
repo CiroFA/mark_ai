@@ -1,0 +1,10 @@
+yfinance
+faiss-cpu
+openai
+beautifulsoup4
+sqlalchemy
+pandas
+numpy
+pymysql
+python-dotenv
+
