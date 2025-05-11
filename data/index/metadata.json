@@ -1,0 +1,772 @@
+[
+  {
+    "filename": "AAPL_10-K_000032019324000123_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AAPL_10-K_000032019324000123_chunk1.txt"
+  },
+  {
+    "filename": "AAPL_10-Q_000032019325000057_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AAPL_10-Q_000032019325000057_chunk1.txt"
+  },
+  {
+    "filename": "ABBV_10-K_000155115225000020_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ABBV_10-K_000155115225000020_chunk1.txt"
+  },
+  {
+    "filename": "ABBV_10-Q_000155115225000029_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ABBV_10-Q_000155115225000029_chunk1.txt"
+  },
+  {
+    "filename": "ABT_10-K_000162828025007110_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ABT_10-K_000162828025007110_chunk1.txt"
+  },
+  {
+    "filename": "ABT_10-Q_000162828025021090_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ABT_10-Q_000162828025021090_chunk1.txt"
+  },
+  {
+    "filename": "ACN_10-K_000146737324000278_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ACN_10-K_000146737324000278_chunk1.txt"
+  },
+  {
+    "filename": "ACN_10-Q_000146737325000100_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ACN_10-Q_000146737325000100_chunk1.txt"
+  },
+  {
+    "filename": "ADBE_10-K_000079634325000004_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ADBE_10-K_000079634325000004_chunk1.txt"
+  },
+  {
+    "filename": "ADBE_10-Q_000079634325000059_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ADBE_10-Q_000079634325000059_chunk1.txt"
+  },
+  {
+    "filename": "AMD_10-K_000000248825000012_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AMD_10-K_000000248825000012_chunk1.txt"
+  },
+  {
+    "filename": "AMD_10-Q_000000248825000047_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AMD_10-Q_000000248825000047_chunk1.txt"
+  },
+  {
+    "filename": "AMGN_10-K_000031815425000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AMGN_10-K_000031815425000010_chunk1.txt"
+  },
+  {
+    "filename": "AMGN_10-Q_000031815425000020_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AMGN_10-Q_000031815425000020_chunk1.txt"
+  },
+  {
+    "filename": "AMZN_10-K_000101872425000004_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AMZN_10-K_000101872425000004_chunk1.txt"
+  },
+  {
+    "filename": "AMZN_10-Q_000101872425000036_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AMZN_10-Q_000101872425000036_chunk1.txt"
+  },
+  {
+    "filename": "AVGO_10-K_000173016824000139_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AVGO_10-K_000173016824000139_chunk1.txt"
+  },
+  {
+    "filename": "AVGO_10-Q_000173016825000021_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AVGO_10-Q_000173016825000021_chunk1.txt"
+  },
+  {
+    "filename": "AXP_10-K_000000496225000016_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AXP_10-K_000000496225000016_chunk1.txt"
+  },
+  {
+    "filename": "AXP_10-Q_000000496225000045_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\AXP_10-Q_000000496225000045_chunk1.txt"
+  },
+  {
+    "filename": "BAC_10-K_000007085825000139_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BAC_10-K_000007085825000139_chunk1.txt"
+  },
+  {
+    "filename": "BAC_10-Q_000007085825000200_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BAC_10-Q_000007085825000200_chunk1.txt"
+  },
+  {
+    "filename": "BA_10-K_000001292725000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BA_10-K_000001292725000015_chunk1.txt"
+  },
+  {
+    "filename": "BA_10-Q_000001292725000031_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BA_10-Q_000001292725000031_chunk1.txt"
+  },
+  {
+    "filename": "BKNG_10-K_000107553125000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BKNG_10-K_000107553125000010_chunk1.txt"
+  },
+  {
+    "filename": "BKNG_10-Q_000107553125000024_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BKNG_10-Q_000107553125000024_chunk1.txt"
+  },
+  {
+    "filename": "BLK_10-K_000095017025026584_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BLK_10-K_000095017025026584_chunk1.txt"
+  },
+  {
+    "filename": "BLK_10-Q_000095017025065838_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BLK_10-Q_000095017025065838_chunk1.txt"
+  },
+  {
+    "filename": "BRK-B_10-K_000095017025025210_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BRK-B_10-K_000095017025025210_chunk1.txt"
+  },
+  {
+    "filename": "BRK-B_10-Q_000095017025063112_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BRK-B_10-Q_000095017025063112_chunk1.txt"
+  },
+  {
+    "filename": "BSX_10-K_000088572525000011_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BSX_10-K_000088572525000011_chunk1.txt"
+  },
+  {
+    "filename": "BSX_10-Q_000088572525000026_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BSX_10-Q_000088572525000026_chunk1.txt"
+  },
+  {
+    "filename": "BX_10-K_000119312525042469_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BX_10-K_000119312525042469_chunk1.txt"
+  },
+  {
+    "filename": "BX_10-Q_000119312525111595_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\BX_10-Q_000119312525111595_chunk1.txt"
+  },
+  {
+    "filename": "CAT_10-K_000001823025000008_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CAT_10-K_000001823025000008_chunk1.txt"
+  },
+  {
+    "filename": "CAT_10-Q_000001823025000016_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CAT_10-Q_000001823025000016_chunk1.txt"
+  },
+  {
+    "filename": "CMCSA_10-K_000116669125000011_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CMCSA_10-K_000116669125000011_chunk1.txt"
+  },
+  {
+    "filename": "CMCSA_10-Q_000116669125000021_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CMCSA_10-Q_000116669125000021_chunk1.txt"
+  },
+  {
+    "filename": "COST_10-K_000090983224000049_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\COST_10-K_000090983224000049_chunk1.txt"
+  },
+  {
+    "filename": "COST_10-Q_000090983225000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\COST_10-Q_000090983225000015_chunk1.txt"
+  },
+  {
+    "filename": "CRM_10-K_000110852425000006_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CRM_10-K_000110852425000006_chunk1.txt"
+  },
+  {
+    "filename": "CRM_10-Q_000110852424000034_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CRM_10-Q_000110852424000034_chunk1.txt"
+  },
+  {
+    "filename": "CSCO_10-K_000085887724000017_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CSCO_10-K_000085887724000017_chunk1.txt"
+  },
+  {
+    "filename": "CSCO_10-Q_000085887725000007_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CSCO_10-Q_000085887725000007_chunk1.txt"
+  },
+  {
+    "filename": "CVX_10-K_000009341025000009_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CVX_10-K_000009341025000009_chunk1.txt"
+  },
+  {
+    "filename": "CVX_10-Q_000009341025000019_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\CVX_10-Q_000009341025000019_chunk1.txt"
+  },
+  {
+    "filename": "C_10-K_000083100125000067_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\C_10-K_000083100125000067_chunk1.txt"
+  },
+  {
+    "filename": "C_10-Q_000083100125000086_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\C_10-Q_000083100125000086_chunk1.txt"
+  },
+  {
+    "filename": "DE_10-K_000155837024016169_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\DE_10-K_000155837024016169_chunk1.txt"
+  },
+  {
+    "filename": "DE_10-Q_000155837025001714_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\DE_10-Q_000155837025001714_chunk1.txt"
+  },
+  {
+    "filename": "DHR_10-K_000031361625000043_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\DHR_10-K_000031361625000043_chunk1.txt"
+  },
+  {
+    "filename": "DHR_10-Q_000031361625000088_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\DHR_10-Q_000031361625000088_chunk1.txt"
+  },
+  {
+    "filename": "DIS_10-K_000174448924000276_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\DIS_10-K_000174448924000276_chunk1.txt"
+  },
+  {
+    "filename": "DIS_10-Q_000174448925000098_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\DIS_10-Q_000174448925000098_chunk1.txt"
+  },
+  {
+    "filename": "GE_10-K_000004054525000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\GE_10-K_000004054525000015_chunk1.txt"
+  },
+  {
+    "filename": "GE_10-Q_000004054525000062_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\GE_10-Q_000004054525000062_chunk1.txt"
+  },
+  {
+    "filename": "GOOGL_10-K_000165204425000014_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\GOOGL_10-K_000165204425000014_chunk1.txt"
+  },
+  {
+    "filename": "GOOGL_10-Q_000165204425000043_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\GOOGL_10-Q_000165204425000043_chunk1.txt"
+  },
+  {
+    "filename": "GS_10-K_000088698225000005_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\GS_10-K_000088698225000005_chunk1.txt"
+  },
+  {
+    "filename": "GS_10-Q_000088698225000009_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\GS_10-Q_000088698225000009_chunk1.txt"
+  },
+  {
+    "filename": "HD_10-K_000035495025000085_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\HD_10-K_000035495025000085_chunk1.txt"
+  },
+  {
+    "filename": "HD_10-Q_000035495024000240_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\HD_10-Q_000035495024000240_chunk1.txt"
+  },
+  {
+    "filename": "HON_10-K_000077384025000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\HON_10-K_000077384025000010_chunk1.txt"
+  },
+  {
+    "filename": "HON_10-Q_000077384025000037_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\HON_10-Q_000077384025000037_chunk1.txt"
+  },
+  {
+    "filename": "IBM_10-K_000005114325000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\IBM_10-K_000005114325000015_chunk1.txt"
+  },
+  {
+    "filename": "IBM_10-Q_000005114325000032_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\IBM_10-Q_000005114325000032_chunk1.txt"
+  },
+  {
+    "filename": "INTU_10-K_000089687824000039_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\INTU_10-K_000089687824000039_chunk1.txt"
+  },
+  {
+    "filename": "INTU_10-Q_000089687825000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\INTU_10-Q_000089687825000015_chunk1.txt"
+  },
+  {
+    "filename": "ISRG_10-K_000103526725000017_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ISRG_10-K_000103526725000017_chunk1.txt"
+  },
+  {
+    "filename": "ISRG_10-Q_000103526725000109_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ISRG_10-Q_000103526725000109_chunk1.txt"
+  },
+  {
+    "filename": "JNJ_10-K_000020040625000038_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\JNJ_10-K_000020040625000038_chunk1.txt"
+  },
+  {
+    "filename": "JNJ_10-Q_000020040625000119_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\JNJ_10-Q_000020040625000119_chunk1.txt"
+  },
+  {
+    "filename": "JPM_10-K_000001961725000270_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\JPM_10-K_000001961725000270_chunk1.txt"
+  },
+  {
+    "filename": "JPM_10-Q_000001961725000421_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\JPM_10-Q_000001961725000421_chunk1.txt"
+  },
+  {
+    "filename": "KO_10-K_000002134425000011_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\KO_10-K_000002134425000011_chunk1.txt"
+  },
+  {
+    "filename": "KO_10-Q_000002134425000029_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\KO_10-Q_000002134425000029_chunk1.txt"
+  },
+  {
+    "filename": "LIN_10-K_000162828025007990_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\LIN_10-K_000162828025007990_chunk1.txt"
+  },
+  {
+    "filename": "LIN_10-Q_000162828025021379_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\LIN_10-Q_000162828025021379_chunk1.txt"
+  },
+  {
+    "filename": "LLY_10-K_000005947825000067_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\LLY_10-K_000005947825000067_chunk1.txt"
+  },
+  {
+    "filename": "LLY_10-Q_000005947825000132_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\LLY_10-Q_000005947825000132_chunk1.txt"
+  },
+  {
+    "filename": "MA_10-K_000114139125000011_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MA_10-K_000114139125000011_chunk1.txt"
+  },
+  {
+    "filename": "MA_10-Q_000114139125000090_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MA_10-Q_000114139125000090_chunk1.txt"
+  },
+  {
+    "filename": "MCD_10-K_000006390825000012_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MCD_10-K_000006390825000012_chunk1.txt"
+  },
+  {
+    "filename": "MCD_10-Q_000006390824000156_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MCD_10-Q_000006390824000156_chunk1.txt"
+  },
+  {
+    "filename": "META_10-K_000132680125000017_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\META_10-K_000132680125000017_chunk1.txt"
+  },
+  {
+    "filename": "META_10-Q_000132680125000054_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\META_10-Q_000132680125000054_chunk1.txt"
+  },
+  {
+    "filename": "MRK_10-K_000162828025007732_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MRK_10-K_000162828025007732_chunk1.txt"
+  },
+  {
+    "filename": "MRK_10-Q_000162828025021834_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MRK_10-Q_000162828025021834_chunk1.txt"
+  },
+  {
+    "filename": "MSFT_10-K_000095017024087843_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MSFT_10-K_000095017024087843_chunk1.txt"
+  },
+  {
+    "filename": "MSFT_10-Q_000095017025061046_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MSFT_10-Q_000095017025061046_chunk1.txt"
+  },
+  {
+    "filename": "MS_10-K_000089542125000304_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MS_10-K_000089542125000304_chunk1.txt"
+  },
+  {
+    "filename": "MS_10-Q_000089542125000343_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\MS_10-Q_000089542125000343_chunk1.txt"
+  },
+  {
+    "filename": "NEE_10-K_000075330825000011_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NEE_10-K_000075330825000011_chunk1.txt"
+  },
+  {
+    "filename": "NEE_10-Q_000075330825000024_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NEE_10-Q_000075330825000024_chunk1.txt"
+  },
+  {
+    "filename": "NFLX_10-K_000106528025000044_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NFLX_10-K_000106528025000044_chunk1.txt"
+  },
+  {
+    "filename": "NFLX_10-Q_000106528025000176_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NFLX_10-Q_000106528025000176_chunk1.txt"
+  },
+  {
+    "filename": "NOW_10-K_000137371525000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NOW_10-K_000137371525000010_chunk1.txt"
+  },
+  {
+    "filename": "NOW_10-Q_000137371525000126_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NOW_10-Q_000137371525000126_chunk1.txt"
+  },
+  {
+    "filename": "NVDA_10-K_000104581025000023_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NVDA_10-K_000104581025000023_chunk1.txt"
+  },
+  {
+    "filename": "NVDA_10-Q_000104581024000316_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\NVDA_10-Q_000104581024000316_chunk1.txt"
+  },
+  {
+    "filename": "ORCL_10-K_000095017024075605_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ORCL_10-K_000095017024075605_chunk1.txt"
+  },
+  {
+    "filename": "ORCL_10-Q_000095017025037143_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\ORCL_10-Q_000095017025037143_chunk1.txt"
+  },
+  {
+    "filename": "PEP_10-K_000007747625000007_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PEP_10-K_000007747625000007_chunk1.txt"
+  },
+  {
+    "filename": "PEP_10-Q_000007747625000019_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PEP_10-Q_000007747625000019_chunk1.txt"
+  },
+  {
+    "filename": "PFE_10-K_000007800325000054_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PFE_10-K_000007800325000054_chunk1.txt"
+  },
+  {
+    "filename": "PFE_10-Q_000007800325000114_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PFE_10-Q_000007800325000114_chunk1.txt"
+  },
+  {
+    "filename": "PGR_10-K_000008066125000007_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PGR_10-K_000008066125000007_chunk1.txt"
+  },
+  {
+    "filename": "PGR_10-Q_000008066125000023_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PGR_10-Q_000008066125000023_chunk1.txt"
+  },
+  {
+    "filename": "PG_10-K_000008042424000083_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PG_10-K_000008042424000083_chunk1.txt"
+  },
+  {
+    "filename": "PG_10-Q_000008042425000037_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PG_10-Q_000008042425000037_chunk1.txt"
+  },
+  {
+    "filename": "PLTR_10-K_000132165525000022_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PLTR_10-K_000132165525000022_chunk1.txt"
+  },
+  {
+    "filename": "PLTR_10-Q_000132165525000066_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PLTR_10-Q_000132165525000066_chunk1.txt"
+  },
+  {
+    "filename": "PM_10-K_000141332925000013_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PM_10-K_000141332925000013_chunk1.txt"
+  },
+  {
+    "filename": "PM_10-Q_000141332925000094_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\PM_10-Q_000141332925000094_chunk1.txt"
+  },
+  {
+    "filename": "QCOM_10-K_000080432824000075_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\QCOM_10-K_000080432824000075_chunk1.txt"
+  },
+  {
+    "filename": "QCOM_10-Q_000080432825000031_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\QCOM_10-Q_000080432825000031_chunk1.txt"
+  },
+  {
+    "filename": "RTX_10-K_000010182925000005_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\RTX_10-K_000010182925000005_chunk1.txt"
+  },
+  {
+    "filename": "RTX_10-Q_000010182925000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\RTX_10-Q_000010182925000015_chunk1.txt"
+  },
+  {
+    "filename": "SCHW_10-K_000031670925000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\SCHW_10-K_000031670925000010_chunk1.txt"
+  },
+  {
+    "filename": "SCHW_10-Q_000031670925000023_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\SCHW_10-Q_000031670925000023_chunk1.txt"
+  },
+  {
+    "filename": "SPGI_10-K_000006404025000052_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\SPGI_10-K_000006404025000052_chunk1.txt"
+  },
+  {
+    "filename": "SPGI_10-Q_000006404025000126_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\SPGI_10-Q_000006404025000126_chunk1.txt"
+  },
+  {
+    "filename": "SYK_10-K_000031076425000023_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\SYK_10-K_000031076425000023_chunk1.txt"
+  },
+  {
+    "filename": "SYK_10-Q_000031076425000075_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\SYK_10-Q_000031076425000075_chunk1.txt"
+  },
+  {
+    "filename": "TJX_10-K_000010919825000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TJX_10-K_000010919825000010_chunk1.txt"
+  },
+  {
+    "filename": "TJX_10-Q_000010919824000059_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TJX_10-Q_000010919824000059_chunk1.txt"
+  },
+  {
+    "filename": "TMO_10-K_000009774525000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TMO_10-K_000009774525000010_chunk1.txt"
+  },
+  {
+    "filename": "TMO_10-Q_000009774525000041_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TMO_10-Q_000009774525000041_chunk1.txt"
+  },
+  {
+    "filename": "TMUS_10-K_000128369925000012_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TMUS_10-K_000128369925000012_chunk1.txt"
+  },
+  {
+    "filename": "TMUS_10-Q_000128369925000079_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TMUS_10-Q_000128369925000079_chunk1.txt"
+  },
+  {
+    "filename": "TSLA_10-K_000162828025003063_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TSLA_10-K_000162828025003063_chunk1.txt"
+  },
+  {
+    "filename": "TSLA_10-Q_000162828025018911_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TSLA_10-Q_000162828025018911_chunk1.txt"
+  },
+  {
+    "filename": "TXN_10-K_000009747625000007_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TXN_10-K_000009747625000007_chunk1.txt"
+  },
+  {
+    "filename": "TXN_10-Q_000009747625000027_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\TXN_10-Q_000009747625000027_chunk1.txt"
+  },
+  {
+    "filename": "T_10-K_000073271725000013_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\T_10-K_000073271725000013_chunk1.txt"
+  },
+  {
+    "filename": "T_10-Q_000073271725000023_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\T_10-Q_000073271725000023_chunk1.txt"
+  },
+  {
+    "filename": "UBER_10-K_000154315125000008_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\UBER_10-K_000154315125000008_chunk1.txt"
+  },
+  {
+    "filename": "UBER_10-Q_000154315125000015_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\UBER_10-Q_000154315125000015_chunk1.txt"
+  },
+  {
+    "filename": "UNH_10-K_000073176625000063_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\UNH_10-K_000073176625000063_chunk1.txt"
+  },
+  {
+    "filename": "UNH_10-Q_000073176625000131_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\UNH_10-Q_000073176625000131_chunk1.txt"
+  },
+  {
+    "filename": "UNP_10-K_000010088525000042_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\UNP_10-K_000010088525000042_chunk1.txt"
+  },
+  {
+    "filename": "UNP_10-Q_000010088525000151_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\UNP_10-Q_000010088525000151_chunk1.txt"
+  },
+  {
+    "filename": "VRTX_10-K_000087532025000053_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\VRTX_10-K_000087532025000053_chunk1.txt"
+  },
+  {
+    "filename": "VRTX_10-Q_000087532025000192_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\VRTX_10-Q_000087532025000192_chunk1.txt"
+  },
+  {
+    "filename": "VZ_10-K_000073271225000006_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\VZ_10-K_000073271225000006_chunk1.txt"
+  },
+  {
+    "filename": "VZ_10-Q_000073271225000024_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\VZ_10-Q_000073271225000024_chunk1.txt"
+  },
+  {
+    "filename": "V_10-K_000140316124000058_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\V_10-K_000140316124000058_chunk1.txt"
+  },
+  {
+    "filename": "V_10-Q_000140316125000037_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\V_10-Q_000140316125000037_chunk1.txt"
+  },
+  {
+    "filename": "WFC_10-K_000007297125000066_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\WFC_10-K_000007297125000066_chunk1.txt"
+  },
+  {
+    "filename": "WFC_10-Q_000007297125000129_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\WFC_10-Q_000007297125000129_chunk1.txt"
+  },
+  {
+    "filename": "WMT_10-K_000010416925000021_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\WMT_10-K_000010416925000021_chunk1.txt"
+  },
+  {
+    "filename": "WMT_10-Q_000010416924000178_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\WMT_10-Q_000010416924000178_chunk1.txt"
+  },
+  {
+    "filename": "XOM_10-K_000003408825000010_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\XOM_10-K_000003408825000010_chunk1.txt"
+  },
+  {
+    "filename": "XOM_10-Q_000003408825000024_chunk1.txt",
+    "length": 2224,
+    "path": "c:\\Users\\carbo\\OneDrive\\Desktop\\task1\\chunks\\XOM_10-Q_000003408825000024_chunk1.txt"
+  }
+]
