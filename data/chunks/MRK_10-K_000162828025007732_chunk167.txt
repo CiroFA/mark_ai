@@ -1,0 +1,74 @@
+expected level of future discount or rebate obligations associated with the sale.
+The Company maintains a returns policy that allows its U.S. pharmaceutical customers to return product within a specified period prior to and subsequent to the expiration date (generally,
+three
+to
+six months
+before and
+12
+months after product expiration). The estimate of the provision for returns is based upon historical experience with actual returns. Additionally, the Company considers factors such as levels of inventory in the distribution channel, product dating and expiration period, whether products have been discontinued, entrance in the market of generic or other competition, changes in formularies or launch of over-the-counter products, among others. Outside of the U.S., returns are only allowed in certain countries on a limited basis.
+Merck’s payment terms for U.S. pharmaceutical customers are typically
+36
+days from receipt of invoice and for U.S. animal health customers are typically
+30
+days from receipt of invoice; however, certain products have longer payment terms, including
+Keytruda (
+pembrolizumab
+)
+, which has payment terms of
+90
+days. Payment terms for vaccine sales in the U.S. typically range from
+30
+days to
+60
+days. Outside of the U.S., payment terms are typically
+30
+days to
+90
+days, although certain markets have longer payment terms.
+See Note 18 for disaggregated revenue disclosures.
+Depreciation —
+Depreciation is provided over the estimated useful lives of the assets, principally using the straight-line method. For tax purposes, accelerated tax methods are used. The estimated useful lives primarily range from
+25
+to
+45
+years for
+Buildings
+, and from
+3
+to
+15
+years for
+Machinery, equipment and office furnishings
+.
+Depreciation expense was $
+2.1
+billion in 2024, $
+1.8
+billion in 2023 and $
+1.8
+billion in 2022.
+Advertising and Promotion Costs —
+Advertising and promotion costs are expensed as incurred.
+The Company recorded advertising and promotion expenses of $
+2.4
+billion in 2024, $
+2.3
+billion in 2023 and $
+2.2
+billion in 2022.
+Software Capitalization —
+The Company capitalizes certain costs incurred in connection with obtaining or developing internal-use software including external direct costs of material and services, and payroll costs for employees directly involved with the software development. These costs are included in
+Property, plant and equipment
+. In addition, the Company capitalizes certain costs incurred to implement a cloud computing arrangement
+81
+Table of Content
+s
+that is considered a service agreement, which are included in
+Other Assets
+. Capitalized software costs are being amortized over periods ranging from
+2
+to
+10
+years, with the longer lives generally associated with enterprise-wide projects implemented over multiple years. Costs incurred during the preliminary project stage and post-implementation stage, as well as maintenance and training costs, are expensed as incurred.
+Goodwill —
+Goodwill represents the excess of the

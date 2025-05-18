@@ -1,0 +1,47 @@
+of the company’s stock options and other factors. The expected life of options granted, which represents the period of time that the options are expected to be outstanding, is based primarily on historical exercise experience. The expected dividend yield is based on the company’s most recent history and expectation of dividend payouts. The risk-free rate is based on the U.S. Treasury yield curve in effect at the time of grant for a period commensurate with the estimated expected life. If factors change and result in different assumptions in future periods, the stock option expense that the company records for future grants may differ significantly from what the company has recorded in the current period.
+The weighted-average fair value of options granted during 2024 was $
+112.63
+($
+83.69
+in 2023 and $
+45.07
+in 2022) based on the Black-Scholes Options-Pricing model. The increase in the grant date fair value year-over-year is primarily attributable to the increase in the stock price.
+The following weighted-average assumptions were used to value the grants in 2024, 2023 and 2022:
+73
+Table of Contents
+The following table summarizes option activity under the plans as of December 31, 2024 and changes during the period then ended (averages are calculated on a weighted basis; life in years; intrinsic value expressed in millions):
+The aggregate intrinsic value represents the difference between the company’s closing stock price of $
+418.67
+as of December 31, 2024 and the exercise price multiplied by the number of in the money options outstanding as of that date. The total intrinsic value of stock options exercised during 2024 was $
+327
+million ($
+283
+million and $
+176
+million in 2023 and 2022, respectively).
+Cash received from option exercises under all share-based payment arrangements for 2024 was $
+31
+million ($
+33
+million and $
+36
+million in 2023 and 2022, respectively). The cash tax benefit realized from share-based compensation totaled $
+89
+million for 2024 ($
+86
+million and $
+61
+million cash tax benefit in 2023 and 2022, respectively).
+As of December 31, 2024, $
+21
+million of unrecognized compensation cost related to non-vested stock options is expected to be recognized over a weighted-average period of approximately
+1
+year.
+Performance-Based and Restricted Stock Unit Awards
+In 2024, the company granted
+301,358
+performance-based stock unit awards under the 2021 Plan to senior management that vest, subject to the attainment of pre-established minimum performance criteria, principally on the third anniversary of their date of grant. These awards are tied to either after tax return on capital ("ROC") performance or relative total shareholder return ("TSR") performance versus that of a blended group of companies that is comprised of the S&P 500, excluding the Financial sector, and Eurofirst 300. The actual number of shares issued in settlement of a vested award can range from
+zero
+to
+200
+percent of the target number of shares granted based upon the

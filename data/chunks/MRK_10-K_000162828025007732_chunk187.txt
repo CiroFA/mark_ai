@@ -1,0 +1,17 @@
+useful life of the asset, based upon the anticipated date the site will be closed or divested or the equipment disposed of, and depreciation expense as determined utilizing the useful life prior to the restructuring actions. All the sites will continue to operate up through the respective closure dates and, since future undiscounted cash flows are sufficient to recover the respective book values, Merck is recording accelerated depreciation over the revised useful life of the site assets. Anticipated site closure dates, particularly related to manufacturing locations, have been and may continue to be adjusted to reflect changes resulting from regulatory or other factors.
+Separation costs are associated with actual headcount reductions, as well as involuntary headcount reductions which were probable and could be reasonably estimated.
+Other exit costs in 2024, 2023 and 2022 include asset impairment, facility shut-down and other related costs, as well as pretax gains and losses resulting from the sales of facilities and related assets. Additionally, other activity includes certain employee-related costs associated with pension and other postretirement benefit plans (see Note 13) and share-based compensation.
+94
+Table of Content
+s
+The following table summarizes the charges and spending relating to restructuring program activities:
+6.
+Financial Instruments
+Derivative Instruments and Hedging Activities
+The Company manages the impact of foreign exchange rate movements and interest rate movements on its earnings, cash flows and fair values of assets and liabilities through operational means and through the use of various financial instruments, including derivative instruments.
+A significant portion of the Company’s revenues and earnings in foreign affiliates is exposed to changes in foreign exchange rates. The objectives of and accounting related to the Company’s foreign currency risk management program, as well as its interest rate risk management activities are discussed below.
+Foreign Currency Risk Management
+The Company has established revenue hedging, balance sheet risk management and net investment hedging programs to protect against volatility of future foreign currency cash flows and changes in fair value caused by changes in foreign exchange rates.
+The objective of the revenue hedging program is to reduce the variability caused by changes in foreign exchange rates that would affect the U.S. dollar value of future cash flows derived from foreign currency denominated sales, primarily the euro, Japanese yen and Chinese renminbi. To achieve this objective, the Company will hedge a portion of its forecasted foreign currency denominated third-party and intercompany distributor entity sales (forecasted sales) that are expected to occur over its planning cycle, typically no more than
+two years
+into the future. The Company will layer in hedges over time, increasing the portion of forecasted sales hedged as it gets closer to the expected date of the

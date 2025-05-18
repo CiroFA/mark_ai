@@ -1,0 +1,20 @@
+instruments, certain deferred tax assets and other capital deductions.
+2.
+Supplementary leverage exposure is the sum of Adjusted average assets used in the Tier 1 leverage ratio and other adjustments, primarily: (i) for derivatives, potential future exposure and the effective notional principal amount of sold credit protection offset by qualifying purchased credit protection; (ii) the counterparty credit risk for repo-style transactions; and (iii) the credit equivalent amount for off-balance sheet exposures.
+3.
+Required ratios are inclusive of any buffers applicable as of the date presented.
+U.S. Bank Subsidiaries’ Regulatory Capital and Capital Ratios
+The OCC establishes capital requirements for the U.S. Bank Subsidiaries, and evaluates their compliance with such capital requirements. Regulatory capital requirements for the U.S. Bank Subsidiaries are calculated in a similar manner to the Firm’s regulatory capital requirements, although G-SIB capital surcharge and SCB requirements do not apply to the U.S. Bank Subsidiaries.
+The OCC’s regulatory capital framework includes Prompt Corrective Action (“PCA”) standards, including “well-capitalized” PCA standards that are based on specified regulatory capital ratio minimums. For the Firm to remain an FHC, its U.S. Bank Subsidiaries must remain well-capitalized in accordance with the OCC’s PCA standards. In addition,
+failure by the U.S. Bank Subsidiaries to meet minimum capital requirements may result in certain mandatory and discretionary actions by regulators that, if undertaken, could have a direct material effect on the U.S. Bank Subsidiaries’ and the Firm’s financial statements.
+At March 31, 2025 and December 31, 2024, MSBNA and MSPBNA risk-based capital ratios are based on the Standardized Approach rules. Beginning on January 1, 2020, MSBNA and MSPBNA elected to defer the effect of the adoption of CECL on risk-based capital amounts and ratios, as well as RWA, adjusted average assets and supplementary leverage exposure calculations, over a five-year transition period. The deferral impacts began to phase in at 25% per year from January 1, 2022, were phased-in at 75% from January 1, 2024 and were fully phased-in from January 1, 2025.
+MSBNA’s Regulatory Capital
+MSPBNA’s Regulatory Capital
+1.
+Required ratios are inclusive of any buffers applicable as of the date presented. Failure to maintain the buffers would result in restrictions on the ability to make capital distributions, including the payment of dividends.
+Additionally, MSBNA is conditionally registered with the SEC as a security-based swap dealer and is registered with the CFTC as a swap dealer. However, as MSBNA is prudentially regulated as a bank, its capital requirements continue to be determined by the OCC.
+Other Regulatory Capital Requirements
+MS&Co. Regulatory Capital
+MS&Co. is registered as a broker-dealer and a futures commission merchant with the SEC and the CFTC,
+respectively, and is registered as a swap dealer with the CFTC.
+As an

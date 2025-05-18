@@ -1,0 +1,43 @@
+21
+(1)    Investment banking fees are primarily composed of underwriting, advisory, loan syndication structuring and other related financing activity.
+(2)    Includes revenues earned by Citi that are subject to a revenue sharing arrangement with
+Banking
+—Corporate Lending for Investment Banking,
+Markets
+and
+Services
+products sold to Corporate Lending clients.
+(3)    Citi assesses its
+Markets
+business performance on a total revenue basis, as offsets may occur across revenue line items. For example, securities that generate
+Net interest income
+may be risk managed by derivatives that are recorded in
+Principal transactions
+revenue within
+Non-interest revenue
+. For a description of the composition of these revenue line items, see Notes 4, 5 and 6.
+(4)    Management uses this information in reviewing the segment’s results and believes it is useful to investors concerning underlying segment performance and trends.
+(5)    Excludes loans that are carried at fair value for all periods.
+NM  Not meaningful
+2024 vs. 2023
+Net income
+of $4.9 billion increased 27%, driven by higher revenues, partially offset by higher cost of credit.
+Revenues
+increased 6%, driven by higher Equity Markets and Fixed Income Markets revenues. Citi expects that revenues in its
+Markets
+businesses will reflect the overall market environment during 2025.
+Fixed Income Markets revenues
+increased 1%, driven by spread products and other fixed income, partially offset by lower revenues in rates and currencies. Rates and currencies revenues decreased 6%, largely reflecting lower volatility and a strong prior-year performance, partially offset by the smaller impact of the Argentina currency devaluation
+.
+Spread products and other fixed income revenues increased 20%, largely driven by increased client activity due to growth in asset-backed financing, securitization activity and underwriting fees. These increases were partially offset by a decline in commodities revenues on lower overall volatility.
+Equity Markets revenues increased
+26%, driven by growth in cash equities due to higher client activity and volumes. The increase in revenues was also due to growth in equity derivative revenues on higher volatility, which also included the impact from an episodic gain related to the Visa B exchange. The increase in revenues was also driven by growth in prime services, as Equity Markets continued to experience an increase in prime balances
+.
+Expenses
+were largely unchanged, as higher legal expenses and higher volume-related expenses were offset by productivity savings.
+Provisions
+were
+$463 million, compared to $438 million in the prior year, primarily driven by higher net credit losses, partially offset by a lower ACL build on other assets.
+Net credit losses were $168 million, compared to $32 million in the prior year, largely driven by higher losses on loans in spread products.
+The net ACL build was $295 million, compared to a net build of $406 million in the prior year
+. The lower net ACL build was

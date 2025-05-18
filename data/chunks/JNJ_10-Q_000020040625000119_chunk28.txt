@@ -1,0 +1,19 @@
+third-party purchases of materials denominated in a foreign currency. The Company uses cross currency interest rate swaps to manage currency risk primarily related to borrowings. Both types of derivatives are designated as cash flow hedges.
+Additionally, the Company uses interest rate swaps as an instrument to manage interest rate risk related to fixed rate borrowings.  These derivatives are designated as fair value hedges. The Company uses cross currency interest rate swaps and forward foreign exchange contracts designated as net investment hedges. Additionally, the Company uses forward foreign exchange contracts to offset its exposure to certain foreign currency assets and liabilities. These forward foreign exchange contracts are not designated as hedges, and therefore, changes in the fair values of these derivatives are recognized in earnings, thereby offsetting the current earnings effect of the related foreign currency assets and liabilities.
+The Company does not enter into derivative financial instruments for trading or speculative purposes, or that contain credit risk related contingent features. The Company maintains credit support agreements (CSA) with certain derivative counterparties establishing collateral thresholds based on respective credit ratings and netting agreements. As of March 30, 2025, the cumulative amount of cash collateral paid by the Company under the CSA amounted to $
+1.9
+billion net, related to net investment and cash flow hedges. On an ongoing basis, the Company monitors counter-party credit ratings. The Company considers credit non-performance risk to be low because the Company primarily enters into agreements with commercial institutions that have at least an investment grade credit rating.  Refer to the table on significant financial assets and liabilities measured at fair value contained in this footnote for receivables and payables with these commercial institutions. As of March 30, 2025, the Company had notional amounts outstanding for forward foreign exchange contracts, cross currency interest rate swaps and interest rate swaps of $
+45.2
+billion, $
+40.0
+billion and $
+9.0
+billion, respectively. As of December 29, 2024, the Company had notional amounts outstanding for forward foreign exchange contracts, cross currency interest rate swaps and interest rate swaps of $
+45.1
+billion, $
+40.5
+billion and $
+9.0
+billion, respectively.
+All derivative instruments are recorded on the balance sheet at fair value. Changes in the fair value of derivatives are recorded each period in current earnings or other comprehensive income, depending on whether the derivative is designated as part of a hedge transaction, and if so, the type of hedge transaction.
+The designation as a cash flow hedge is made at the entrance date of the derivative contract. At inception, all derivatives are expected to be highly effective. Foreign exchange contracts designated as cash flow hedges are accounted for under the forward method and all

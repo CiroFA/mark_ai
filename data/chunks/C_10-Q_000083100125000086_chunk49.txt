@@ -1,0 +1,31 @@
+portfolios are referred to as the Banking Book, and Citi uses multiple metrics to measure its Banking Book interest rate risk, including Interest Rate Exposure (IRE). For additional information, see “Market Risk—Market Risk of Non-Trading Portfolios—Banking Book Interest Rate Risk” in Citi’s 2024 Form 10-K.
+70
+Interest Rate Risk of Investment Portfolios—Impact on
+AOCI
+Citi measures the potential impacts of changes in interest rates on the value of its
+AOCI
+, which can in turn impact Citi’s common equity and tangible common equity. This will impact Citi’s CET1 and other regulatory capital ratios. Citi seeks to manage its exposure to changes in the market level of interest rates, while limiting the potential impact on its
+AOCI
+and regulatory capital position.
+AOCI
+at risk is managed as part of the Company-wide interest rate risk position.
+AOCI
+at risk considers potential changes in
+AOCI
+(and the corresponding impact on the CET1 Capital ratio) relative to Citi’s capital generation capacity.
+Citi uses 100 basis point (bps) shocks in each scenario to reflect its net interest income sensitivity to unanticipated changes in market interest rates, as potential monetary policy decisions and changes in economic conditions may be reflected in current market-implied forward rates.
+The following table presents the 12-month estimated impact to Citi’s net interest income,
+AOCI
+and the CET1 Capital ratio, each assuming an unanticipated parallel instantaneous 100 bps increase in interest rates:
+(1)
+Excludes trading book and fair value option banking book portfolios and replaces them with the associated transfer pricing.
+(2)
+Includes the effect of changes in interest rates on
+AOCI
+related to investment securities, cash flow hedges and pension liability adjustments.
+(3)
+Excludes the effect of changes in interest rates on
+AOCI
+related to cash flow hedges, as those changes are excluded from CET1 Capital.
+As presented in the table above, Citi’s balance sheet is asset sensitive (assets reprice faster than liabilities), resulting in higher net interest income in increasing interest rate scenarios. The estimated impact to Citi’s net interest income in a 100 bps upward rate shock scenario as of March 31, 2025 remained relatively stable year-over-year and continued to reflect the IRE sensitivity of non-U.S. dollar currencies. At progressively higher interest rate levels, the marginal net interest income benefit is lower, as Citi assumes it will pass on a larger share of rate changes to depositors (i.e., higher betas), further reducing Citi’s IRE sensitivity. Currency-specific interest rate changes and balance sheet factors may drive quarter-to-quarter volatility in Citi’s estimated IRE for a 100 bps upward rate shock.
+All other currencies of $1.5 billion as of March 31, 2025 in the table above includes the impact from the following top five non-U.S. dollar currencies by absolute size: approximately $(0.1) billion from the euro, $0.2 billion from the British pound sterling

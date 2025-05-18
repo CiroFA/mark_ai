@@ -1,0 +1,66 @@
+material.
+12.
+Borrowings:
+Short-Term Debt
+The company's total short-term debt at March 31, 2025 and December 31, 2024 was $
+6,913
+million and $
+5,089
+million, respectively, and primarily consisted of current maturities of long-term debt detailed in
+“
+Long-Term Debt
+”
+below.
+25
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+Long-Term Debt
+Pre-Swap Borrowing
+(1)
+Includes notes, debentures, bank loans and secured borrowings.
+(2)
+The portion of the company’s fixed-rate debt obligations that is hedged is reflected in the Consolidated Balance Sheet as an amount equal to the sum of the debt’s carrying value and a fair value adjustment representing changes in the fair value of the hedged debt obligations attributable to movements in benchmark interest rates.
+26
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+The company’s indenture governing its debt securities and its various credit facilities each contain significant covenants which obligate the company to promptly pay principal and interest, limit the aggregate amount of secured indebtedness and sale and leaseback transactions to
+10
+percent of the company’s consolidated net tangible assets, and restrict the company’s ability to merge or consolidate unless certain conditions are met. The credit facilities also include a covenant on the company’s consolidated net interest expense ratio, which cannot be less than
+2.20
+to 1.0, as well as a cross default provision with respect to other defaulted indebtedness of at least $
+500
+million.
+The company is in compliance with its debt covenants and provides periodic certifications to its lenders. The failure to comply with its debt covenants could constitute an event of default with respect to the debt to which such provisions apply. If certain events of default were to occur, the principal and interest on the debt to which such event of default applied would become immediately due and payable.
+In the first quarter of 2024, IBM International Capital Pte. Ltd (IIC), a wholly owned finance subsidiary of the company, issued $
+5.5
+billion of U.S. dollar fixed-rate notes (IIC Notes) in tranches with maturities ranging from
+2
+to
+30
+years and coupons ranging from
+4.6
+to
+5.3
+percent. IIC is a 100 percent owned finance subsidiary of IBM, as described by the SEC in Rule 13-01(a)(4)(vi) of Regulation S-X, the primary purpose of which is to borrow money to be made available for the benefit of IBM and its affiliates. The IIC Notes are fully and unconditionally guaranteed by IBM, and no other subsidiary of IBM guarantees the IIC Notes.
+On February 10, 2025, the company issued $
+3.6
+billion of Euro fixed-rate notes in tranches with maturities ranging from
+5
+to
+20
+years and coupons ranging from
+2.9
+to
+3.8
+percent; and $
+4.75
+billion of U.S. dollar fixed-rate notes in tranches with maturities ranging from
+3
+to
+30
+years and coupons ranging from
+4.65
+to
+5.7
+percent.
+Pre-swap annual contractual obligations of long-term debt

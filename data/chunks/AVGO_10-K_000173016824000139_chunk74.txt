@@ -1,0 +1,24 @@
+scalability, agility, automation, insights, resiliency and security making it easy for customers to run their mission-critical workloads. We also offer mission-critical fibre channel storage area networking (“FC SAN”) products and related software in the form of modules, switches and subsystems incorporating multiple semiconductor products. Unless stated otherwise or the context otherwise requires, references to “Broadcom,” “we,” “our,” and “us” mean Broadcom and its consolidated subsidiaries. We have
+two
+reportable segments: semiconductor solutions and infrastructure software. See Note 13. “Segment Information” for additional information.
+On November 22, 2023, we completed the acquisition of VMware, Inc. (“VMware”) in a cash-and-stock transaction (the “VMware Merger”). The VMware stockholders received approximately $
+30,788
+million in cash and
+544
+million shares of Broadcom common stock (on a split adjusted basis) with a fair value of $
+53,398
+million. VMware was a leading provider of multi-cloud services for all applications, enabling digital innovation with enterprise control. We acquired VMware to enhance our infrastructure software capabilities. The accompanying consolidated financial statements include the results of operations of VMware commencing on November 22, 2023. See Note 4. “Acquisitions” for additional information.
+Basis of Presentation
+We operate on a
+52- or 53-week
+fiscal year ending on the Sunday closest to October 31. Our fiscal year ended November 3, 2024 (“fiscal year 2024”) was a 53-week fiscal year, with the first fiscal quarter containing 14 weeks. Our fiscal year ended October 29, 2023 (“fiscal year 2023”) and fiscal year ended October 30, 2022 (“fiscal year 2022”) were both 52-week fiscal years.
+The accompanying consolidated financial statements include the accounts of Broadcom and its subsidiaries and have been prepared in accordance with generally accepted accounting principles in the United States (“GAAP”). All intercompany balances and transactions have been eliminated in consolidation.
+On July 12, 2024, we completed a
+ten
+-for-one forward stock split of our common stock through the filing of an amendment (“Amendment”) to our Amended and Restated Certificate of Incorporation. The Amendment proportionately increased the number of shares of our authorized common stock without changing the par value of $
+0.001
+per share. All share, equity award and per share amounts and related stockholders’ equity balances presented in the accompanying consolidated financial statements and notes thereto have been retroactively adjusted, where applicable, to reflect the stock split.
+2.
+Summary of Significant Accounting Policies
+Foreign currency remeasurement.
+We operate in a U.S. dollar functional currency environment. Foreign currency assets and liabilities for monetary accounts are remeasured into U.S. dollars at current exchange rates. Non-monetary items such as inventory and property, plant and equipment, are measured and recorded

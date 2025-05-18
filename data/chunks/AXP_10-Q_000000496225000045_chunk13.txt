@@ -1,0 +1,20 @@
+Basel III minimum requirements and applicable regulatory buffers as defined by the federal banking regulators, which includes the stress capital buffer (SCB) for American Express Company and the capital conservation buffer for AENB.
+The following table presents American Express Company’s regulatory risk-based capital and risk-weighted assets as of March 31, 2025:
+Table 17: Regulatory Risk-Based Capital Components and Risk-Weighted Assets
+The following are definitions for our regulatory risk-based capital and leverage ratios, which are calculated as per standard regulatory guidance:
+Risk-Weighted Assets
+— Assets are weighted for risk according to a formula used by the Federal Reserve to conform to capital adequacy guidelines. On- and off-balance sheet items are risk weighted, with off-balance sheet items converted to balance sheet equivalents, using risk conversion factors, before being assigned a risk weight. Off-balance sheet exposures comprise a minimal part of the total risk-weighted assets.
+Common Equity Tier 1 Risk-Based Capital Ratio
+— Calculated as CET1 capital, divided by risk-weighted assets. CET1 capital is common shareholders’ equity, adjusted for ineligible goodwill and intangible assets and certain deferred tax assets.
+Tier 1 Risk-Based Capital Ratio
+— Calculated as Tier 1 capital divided by risk-weighted assets. Tier 1 capital is the sum of CET1 capital, preferred shares and third-party non-controlling interests in consolidated subsidiaries, adjusted for capital held by insurance subsidiaries. We have $1.6 billion of preferred shares outstanding to help address a portion of the Tier 1 capital requirements in excess of common equity requirements.
+21
+Table of Contents
+Total Risk-Based Capital Ratio
+— Calculated as the sum of Tier 1 capital and Tier 2 capital, divided by risk-weighted assets. Tier 2 capital is the sum of the allowable allowance for credit losses and $1,750 million of eligible subordinated notes, adjusted for capital held by insurance subsidiaries. The $1,750 million of eligible subordinated notes includes the $500 million subordinated debt issued in April 2024, the $500 million subordinated debt issued in July 2023 and the $750 million subordinated debt issued in May 2022.
+Tier 1 Leverage Ratio
+— Calculated as Tier 1 capital divided by average total consolidated assets for the most recent quarter.
+Supplementary Leverage Ratio
+— Calculated as Tier 1 capital divided by total leverage exposure. Total leverage exposure includes total average on-balance sheet assets and certain off-balance sheet exposures, less amounts permitted to be deducted from Tier 1 capital.
+We continue to include accumulated other comprehensive income (loss) in regulatory capital.
+We are subject to an annual supervisory stress test conducted by the Federal Reserve. We submitted our annual capital plan to the Federal Reserve in April 2025. Our current SCB of 2.5 percent is effective until September 30, 2025. The Federal Reserve is expected to notify

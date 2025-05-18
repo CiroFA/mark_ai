@@ -1,0 +1,41 @@
+external credit ratings defined by S&P and Moody’s.
+(b)
+Amounts are shown on a gross basis, before the benefit of legally enforceable master netting agreements including cash collateral netting.
+111
+Note 5 –
+Noninterest revenue and noninterest expense
+Noninterest revenue
+Refer to Note 6 of JPMorganChase’s 2024 Form 10-K for a discussion of the components of and accounting policies for the Firm’s noninterest revenue.
+Investment banking fees
+The following table presents the components of investment banking fees.
+Principal transactions
+The following table presents all realized and unrealized gains and losses recorded in principal transactions revenue. This table excludes interest income and interest expense on trading assets and liabilities, which are an integral part of the overall performance of the Firm’s client-driven market-making activities in CIB and fund deployment activities in Treasury and CIO. Refer to Note 6 for further information on interest income and interest expense.
+Trading revenue is presented primarily by instrument type. The Firm’s client-driven market-making businesses generally utilize a variety of instrument types in connection with their market-making and related risk-management activities; accordingly, the trading revenue presented in the table below is not representative of the total revenue of any individual LOB.
+(a)
+Includes the impact of changes in funding valuation adjustments on derivatives.
+(b)
+Includes the impact of changes in credit valuation adjustments on derivatives, net of the associated hedging activities.
+Lending- and deposit-related fees
+The following table presents the components of lending- and deposit-related fees.
+(a)
+Includes the amortization of the fair value discount on certain acquired lending-related commitments associated with First Republic, predominantly in AWM and CIB. The discount, which is deferred in other liabilities and recognized on a straight-line basis over the commitment period, continues to decline as commitments expire.
+Deposit-related fees include the impact of credits earned by clients that reduce such fees.
+Asset management fees
+The following table presents the components of asset management fees.
+Commissions and other fees
+The following table presents the components of commissions and other fees.
+(a)
+Includes annuity sales commissions, depositary receipt-related service fees and travel-related sales commissions, as well as other service fees, which are recognized as revenue when the services are rendered.
+Mortgage fees and related income
+: refer to Note 14 for additional information.
+112
+Card income
+The following
+table presents the components of card income.
+(a)
+Predominantly represents the amortization of account origination costs and annual fees, which are deferred and recognized on a straight-line basis over a
+12-month
+period.
+Other income
+The following table presents certain components of other income.
+Refer to Note 16 for information on operating lease income included within

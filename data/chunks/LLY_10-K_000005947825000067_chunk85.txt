@@ -1,0 +1,22 @@
+Value of $100 Invested on Last Business Day of 2019 Comparison of Five-Year Cumulative Total Shareholder Return Among Lilly, S&P 500 Stock Index, and Peer Group
+(1)
+(1)
+We constructed the peer group as the industry index for this graph. It is comprised of the following companies in the pharmaceutical and biotechnology industries: AbbVie Inc.; Amgen Inc.; AstraZeneca PLC; Biogen Inc.; Bristol-Myers Squibb Company; Gilead Sciences Inc.; GlaxoSmithKline plc; Johnson & Johnson; Merck & Co., Inc.; Novartis AG; Novo Nordisk A/S; Pfizer Inc.; Roche Holding AG; Sanofi S.A.; and Takeda Pharmaceutical Company Limited. The peer group used for performance benchmarking aligns with the peer group used for executive compensation purposes for 2024.
+40
+Item 6.         [Reserved]
+Item 7.
+Management's Discussion and Analysis of Results of Operations and Financial Condition
+(Tables present dollars in millions, except per-share data)
+General
+Management's discussion and analysis of results of operations and financial condition is intended to assist the reader in understanding and assessing significant changes and trends related to our results of operations and financial position. This discussion and analysis should be read in conjunction with Item 8, "Financial Statements and Supplementary Data." Certain statements in this Item 7 constitute forward-looking statements. Various risks and uncertainties, including those discussed in "Forward-Looking Statements" and Item 1A, "Risk Factors," may cause our actual results, financial position, and cash generated from operations to differ from these forward-looking statements.
+EXECUTIVE OVERVIEW
+This section provides an overview of our financial results, our clinical development pipeline, and other matters affecting our company and industry.
+Financial Results
+The following table summarizes certain financial information:
+Revenue increased in 2024 driven by increased volume and, to a lesser extent, higher realized prices. The increase in revenue in 2024 was primarily driven by Mounjaro, Zepbound, and Verzenio, partially offset by Trulicity.
+Net income and earnings per share increased in 2024, primarily due to higher gross margin, partially offset by increased research and development expenses, marketing, selling, and administrative expenses, and asset impairment, restructuring, and other special charges.
+See "Results of Operations" for additional information.
+41
+Clinical Development Pipeline
+Our long-term success depends on our ability to continually discover or acquire, develop, and commercialize innovative medicines. We currently have approximately 55 new medicine candidates in clinical development or under regulatory review, and a larger number of projects in the discovery phase.
+The following select new molecular entities (NMEs) and new indication line extension (NILEX) products are currently in Phase 2 or Phase 3 clinical trials or have been submitted for regulatory review or have recently received regulatory approval in the

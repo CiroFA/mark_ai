@@ -1,0 +1,50 @@
+1,564
+and $
+1,260
+in 2024, 2023 and 2022, respectively.
+Note 18 –
+Share-Based Compensation and Other Compensation Arrangements
+Share-Based Compensation
+Our 2023 Incentive Stock Plan, permits awards of incentive and non-qualified stock options, stock appreciation rights, restricted stock or units, performance restricted stock or units, and other stock and cash-based awards to our employees, officers, directors, consultants, and independent contractors. The aggregate number of shares of our common stock authorized for issuance under the plan is
+12,900,000
+, plus shares that remained or became available under our 2003 Incentive Stock Plan, as amended and restated. Following approval of our 2023 Incentive Stock Plan in 2023, no further awards have been or may be granted under our 2003 Incentive Stock Plan.
+Shares issued under the 2023 Incentive Stock Plan will be funded out of treasury shares, except to the extent there are insufficient treasury shares, in which case new shares will be issued. We believe we currently have adequate treasury shares to satisfy these issuances during 2025.
+102
+Table of
+Contents
+Share-based plans expense is primarily included in Total costs and expenses and General and administrative expense, as well as a portion allocated to production as inventoried costs.
+The share-based plans expense and related income tax benefit were as follows:
+Stock Options
+Options have been granted to our executive officers that are generally scheduled to vest and become exercisable
+three years
+after the grant date and expire
+ten years
+after the grant date. If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) may remain eligible to exercise some or all of their stock options depending on certain age and service conditions. The fair values of the stock options granted were estimated using a Monte-Carlo simulation model using the assumptions presented below. The model includes no expected dividend yield.
+Stock options granted during 2024 and 2023 were not material.
+In February 2022, we granted
+348,769
+premium-priced stock options to our executive officers as part of our long-term incentive program. These stock options have an exercise price equal to
+120
+% of the fair market value of our stock on the date of grant. If certain performance measures are met, the exercise price is reduced to
+110
+% of the grant date fair market value of our stock.
+Stock option activity for the year ended December 31, 2024 was as follows:
+The total intrinsic value of options exercised during the years ended December 31, 2024, 2023 and 2022 was $
+0
+, $
+80
+and $
+75
+, with a related tax benefit of $
+0
+, $
+18
+and $
+17
+, respectively. At December 31, 2024, there was $
+9
+of total unrecognized compensation cost related to options which is expected to be recognized over a weighted average period of
+3.1
+years. The fair value of options vested during the year ended December 31, 2024, was $
+32
+. No options vested

@@ -1,0 +1,28 @@
+adjustments on principal transactions revenue in the respective periods, excluding the effect of any associated hedging activities. The FVA presented below includes the impact of the Firm’s own credit quality on the inception value of liabilities as well as the impact of changes in the Firm’s own credit quality over time.
+Refer to Note 2 of JPMorganChase’s 2024 Form 10-K for further information about both credit and funding adjustments, as well as information about valuation adjustments on fair value option elected liabilities.
+92
+Assets and liabilities measured at fair value on a nonrecurring basis
+The following tables present the assets and liabilities held as of
+March 31, 2025 and 2024
+, for which nonrecurring fair value adjustments were recorded during the three months ended
+March 31, 2025 and 2024
+, by major product category and fair value hierarchy.
+(a)
+Included equity securities without readily determinable fair values that were adjusted based on observable price changes in orderly transactions from an identical or similar investment of the same issuer (measurement alternative). Of the $
+258
+million in level 3 assets measured at fair value on a nonrecurring basis as of March 31, 2025, $
+226
+million related to equity securities adjusted based on the measurement alternative. These equity securities are classified as level 3 due to the infrequency of the observable prices and/or the restrictions on the shares.
+Nonrecurring fair value changes
+The following table presents the total change in value of assets and liabilities for which fair value adjustments have been recognized for the three months ended March 31, 2025 and 2024, related to assets and liabilities held at those dates.
+(a)
+Included $
+34
+million and $(
+39
+) million for the three months ended March 31, 2025 and 2024, respectively, of net gains/(losses) as a result of the measurement alternative.
+93
+Equity securities without readily determinable fair values
+The Firm measures certain equity securities without readily determinable fair values at cost less impairment (if any), plus or minus observable price changes from an identical or similar investment of the same issuer (i.e., measurement alternative), with such changes recognized in other income.
+In its determination of the new carrying values upon observable price changes, the Firm may adjust the prices if deemed necessary to arrive at the Firm’s estimated fair values. Such adjustments may include adjustments to reflect the different rights and obligations of similar securities, and other adjustments that are consistent with the Firm’s valuation techniques for private equity direct investments.
+The following table presents the carrying value of equity securities without readily determinable fair values held as of March 31, 2025 and 2024, that are measured under the measurement alternative and the related adjustments recorded during the periods presented for those securities with observable price changes. These securities are included

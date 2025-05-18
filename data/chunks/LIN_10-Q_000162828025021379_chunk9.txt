@@ -1,0 +1,20 @@
+Dublin 2, D02 T380 Ireland. Linde’s principal executive offices are located at Forge, 43 Church Street West, Woking, Surrey GU21 6HT, United Kingdom and 10 Riverview Drive, Danbury, Connecticut, 06810, United States.
+Presentation of Condensed Consolidated Financial Statements
+-
+In the opinion of Linde management, the accompanying condensed consolidated financial statements include all adjustments necessary for a fair statement of the results for the interim periods presented and such adjustments are of a normal recurring nature. The accompanying condensed consolidated financial statements should be read in conjunction with the notes to the consolidated financial statements of Linde plc and subsidiaries in Linde's 2024 Annual Report on Form 10-K. There have been no material changes to the company’s significant accounting policies during 2025.
+Reclassifications
+– Certain prior periods' amounts have been reclassified to conform to the current year’s presentation.
+Accounting Standards to be Implemented
+Improvements to Income Tax Disclosures
+- In December 2023, the FASB issued guidance requiring enhanced disclosure related to income taxes. The standard requires additional or modified disclosures related to the income tax rate reconciliation, disaggregation of income taxes paid, and several other disclosures. The new standard is effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The adoption of this standard will only impact disclosures within the company's consolidated financial statements and the company is evaluating the impact this guidance will have on those disclosures. Linde will adopt this guidance for fiscal year 2025.
+Disaggregation of Income Statement Expenses
+- In November 2024, the FASB issued guidance requiring disaggregated disclosure of income statement expenses. The new standard is effective for fiscal years beginning after December 15, 2026, and interim periods with fiscal years after December 15, 2027, with early adoption permitted. The adoption of this standard will only impact disclosures within the company's consolidated financial statements and the company is evaluating the impact this guidance will have on those disclosures.
+2.
+Supplemental Information
+Receivables
+Linde applies loss rates that are lifetime expected credit losses at initial recognition of the receivables. These expected loss rates are based on an analysis of the actual historical default rates for each business, taking regional circumstances into account. If necessary, these historical default rates are adjusted to reflect the impact of current changes in the macroeconomic environment using forward-looking information. The loss rates are also evaluated based on the expectations of the responsible management team regarding the collectability of the receivables.
+Gross trade receivables aged less than one year were $
+4,847
+million and $
+4,573
+million at March 31, 2025 and December 31, 2024, respectively, and gross

@@ -1,0 +1,39 @@
+employees. Shares of our common stock may be purchased by employees at three-month intervals at
+90
+% of the fair market value on the last trading day of each three-month period. Employees may purchase shares having a value not exceeding
+15
+% of their gross compensation during an offering period.
+Employees purchased the following shares during the periods presented:
+As of June 30, 2024,
+68
+million shares of our common stock were reserved for future issuance through the ESPP.
+90
+PART II
+Item 8
+Savings Plans
+We have savings plans in the U.S. that qualify under Section 401(k) of the Internal Revenue Code, and a number of savings plans in international locations. Eligible U.S. employees may contribute a portion of their salary into the savings plans, subject to certain limitations. We match a portion of each dollar a participant contributes into the plans. Employer-funded retirement benefits for all plans were $
+1.7
+billion, $
+1.6
+billion, and $
+1.4
+billion in fiscal years 2024, 2023, and 2022, respectively, and were expensed as contributed.
+NOTE 19
+—
+SEGMENT INFORMATION AND GEOGRAPHIC DATA
+In its operation of the business, management, including our chief operating decision maker, who is also our Chief Executive Officer, reviews certain financial information, including segmented internal profit and loss statements prepared on a basis not consistent with GAAP. During the periods presented, we reported our financial performance based on the following segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.
+Our reportable segments are described below.
+Productivity and Business Processes
+Our Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and information services, spanning a variety of devices and platforms. This segment primarily comprises:
+•
+Office Commercial (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Copilot for Microsoft 365.
+•
+Office Consumer, including Microsoft 365 Consumer and Copilot Pro subscriptions, Office licensed on-premises, and other Office services.
+•
+LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions.
+•
+Dynamics business solutions, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications.
+Intelligent Cloud
+Our Intelligent Cloud segment consists of our public, private, and hybrid server products and cloud services that can power modern business and developers. This segment primarily comprises:
+•
+Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses

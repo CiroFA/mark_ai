@@ -1,0 +1,73 @@
+0001393818
+us-gaap:ConsolidatedEntitiesMember
+us-gaap:NoncontrollingInterestMember
+2021-12-31
+0001393818
+bx:BlackstoneIncMember
+us-gaap:NoncontrollingInterestMember
+2021-12-31
+0001393818
+us-gaap:CapitalUnitsMember
+2021-12-31
+iso4217:USD
+xbrli:pure
+xbrli:shares
+utr:Year
+utr:Day
+bx:Segment
+bx:Person
+iso4217:USD
+xbrli:shares
+bx:Loans
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-K
+(Mark One)
+OR
+Commission File Number:
+001-33551
+Blackstone Inc.
+(Exact name of registrant as specified in its charter)
+345 Park Avenue
+New York
+,
+New York
+10154
+(Address of principal executive offices)(Zip Code)
+(
+212
+)
+583-5000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+☒
+No
+☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+☐
+No
+☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate by check mark whether any of

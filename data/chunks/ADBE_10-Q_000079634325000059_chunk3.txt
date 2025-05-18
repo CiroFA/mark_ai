@@ -1,0 +1,32 @@
+for the three months ended February 28, 2025 and March 1, 2024 were as follows:
+Contract Balances
+A receivable is recorded when an unconditional right to invoice and receive payment exists, such that only the passage of time is required before payment of consideration is due. Included in trade receivables on the condensed consolidated balance sheets are unbilled receivable balances which have not yet been invoiced, and are typically related to license revenue or services which are delivered prior to invoicing. As of February 28, 2025, the balance of trade receivables, net of allowances for doubtful
+9
+Table of Contents
+ADOBE INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+accounts, was $
+1.97
+billion, inclusive of unbilled receivables of $
+78
+million. As of November 29, 2024, the balance of trade receivables, net of allowances for doubtful accounts, was $
+2.07
+billion, inclusive of unbilled receivables of $
+66
+million.
+We maintain an allowance for doubtful accounts which reflects our best estimate of potentially uncollectible trade receivables and is based on both specific and general reserves. We maintain general reserves on a collective basis by considering factors such as historical experience, credit-worthiness, the age of the trade receivable balances, current economic conditions and a reasonable and supportable forecast of future economic conditions. The allowance for doubtful accounts was $
+15
+million and $
+14
+million as of February 28, 2025 and November 29, 2024, respectively.
+A contract asset is recognized when a conditional right to consideration exists and transfer of control has occurred. Contract assets are included in prepaid expenses and other current assets for the current portion and other assets for the long-term portion on the condensed consolidated balance sheets. We regularly review contract asset balances for impairment, considering factors such as historical experience, credit-worthiness, age of the balance, current economic conditions and a reasonable and supportable forecast of future economic conditions. Contract asset impairments were not material for the three months ended February 28, 2025. Contract assets were $
+218
+million and $
+248
+million as of February 28, 2025 and November 29, 2024, respectively.
+Deferred revenue primarily consists of billings or payments received in advance of revenue recognition from subscription services, including non-cancellable and non-refundable committed funds and refundable customer deposits. Deferred revenue is recognized as revenue when transfer of control to customers has occurred. As of February 28, 2025, the balance of deferred revenue was $
+6.49
+billion, which includes $
+65
+million of refundable customer deposits. Arrangements with some of our enterprise customers with non-cancellable and non-refundable committed funds provide options to either renew monthly on-premise term-based licenses or use some or all funds to purchase other Adobe products or

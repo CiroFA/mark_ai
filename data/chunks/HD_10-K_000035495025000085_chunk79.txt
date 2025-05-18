@@ -1,0 +1,16 @@
+reportable
+segment. ASU No. 2023-07 is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, and early adoption is permitted. The guidance is required to be applied on a retrospective basis
+. We adopted ASU No. 2023-07 in the fourth quarter of fiscal 2024. The adoption of this guidance resulted in additional financial statement disclosures and had no impact to our consolidated financial condition, results of operations, or cash flows. See
+Note 2
+which includes the disclosures resulting from our adoption of this guidance.
+ASU No. 2022-04.
+In September 2022, the FASB issued ASU No. 2022-04, “Liabilities—Supplier Finance Programs (Topic 405-50): Disclosure of Supplier Finance Program Obligations,” to enhance the transparency of supplier finance programs used by an entity in connection with the purchase of goods and services. The standard requires entities that use supplier finance programs to disclose the key terms of such programs, along with an annual rollforward of the related obligations, including the amount of obligations confirmed and the amounts paid during the period. ASU No. 2022-04 was effective for fiscal years beginning after December 15, 2022, except for the required rollforward information, which was effective for fiscal years beginning after December 15, 2023. We adopted ASU No. 2022-04 in the first quarter of fiscal 2023, with the exception of the annual rollforward requirement, which was adopted on a prospective basis in the fourth quarter of fiscal 2024. The adoption of this guidance did not have an impact on our consolidated financial condition, results of operations, or cash flows.
+Accounting Pronouncements Not Yet Adopted
+ASU No. 2023-09.
+In December 2023, the FASB issued ASU No. 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which requires disclosure of disaggregated information about a reporting entity’s effective tax rate reconciliation as well as disclosures on income taxes paid by jurisdiction. ASU No. 2023-09 is effective for annual periods beginning after December 15, 2024. The guidance is required to be applied on a prospective basis, with the option to apply the standard retrospectively. Early adoption is permitted.
+We are currently evaluating the impact of the standard on our consolidated financial statement disclosures.
+Table
+of
+Contents
+ASU No. 2024-03.
+In November 2024, the FASB issued ASU No. 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,” which is intended to improve disclosures about a public business entity’s expenses by requiring disaggregated disclosure, in the notes to the financial statements, of prescribed categories of expenses within relevant income statement captions. ASU No. 2024-03 is effective for fiscal years beginning after December 15, 2026 and interim periods within fiscal

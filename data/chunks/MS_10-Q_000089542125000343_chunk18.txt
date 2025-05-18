@@ -1,0 +1,23 @@
+maintenance policies and the elements of our Liquidity Risk Management Framework.
+Unsecured Financing
+For a discussion of our unsecured financing activities, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Funding Management—Unsecured Financing” in the 2024 Form 10-K.
+Deposits
+1.
+Amounts represent balances swept from client brokerage accounts.
+2.
+Our Time deposits are predominantly brokered certificates of deposit.
+3.
+Our deposits are primarily held in U.S. offices.
+Deposits are primarily sourced from our Wealth Management clients and are considered to have stable, low-cost funding characteristics relative to other sources of funding. Each category of deposits presented above has a different cost profile and clients may respond differently to changes in interest rates and other macroeconomic conditions. Total deposits in the current quarter increased primarily due to increases in Savings and Time Deposits, partially offset by a reduction in Brokerage sweep deposits, largely due to net outflows to alternative cash equivalent and other investment products.
+Borrowings by Maturity at March 31, 2025
+1
+1.
+Original maturity in the table is generally based on contractual final maturity. For borrowings with put options, maturity represents the earliest put date.
+2.
+Includes only borrowings with original maturities greater than one year.
+Borrowings of $305 billion as of March 31, 2025 increased compared with $289 billion at December 31, 2024, primarily due to issuances net of maturities and redemptions.
+We believe that accessing debt investors through multiple distribution channels helps provide consistent access to the unsecured markets. In addition, the issuance of borrowings with original maturities greater than one year allows us to reduce reliance on short-term credit-sensitive instruments. Borrowings with original maturities greater than one year are generally managed to achieve staggered maturities, thereby mitigating refinancing risk, and to maximize investor diversification through sales to global institutional and retail clients across regions, currencies and product types.
+The availability and cost of financing to us can vary depending on market conditions, the volume of certain trading and lending activities, our credit ratings and the overall availability of credit. We also engage in, and may continue to engage in, repurchases of our borrowings as part of our market-making activities.
+For further information on Borrowings, see Note 12 to the financial statements.
+Credit Ratings
+We rely on external sources to finance a significant portion of our daily operations. Our credit ratings are one of the factors in the cost and availability of financing and can have an impact on certain trading revenues, particularly in those businesses where longer-term counterparty performance is a key consideration, such as certain OTC derivative transactions. When determining credit ratings,

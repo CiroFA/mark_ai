@@ -1,0 +1,22 @@
+China (APJC).
+Our consolidated financial statements include our accounts and investments consolidated under the voting interest model. The noncontrolling interests attributed to these investments are not presented as a separate component in the equity section of the Consolidated Balance Sheets as these amounts are not material for any of the fiscal periods presented. The share of earnings attributable to the noncontrolling interests are not presented separately in the Consolidated Statements of Operations as these amounts are not material for any of the fiscal periods presented.
+Certain reclassifications have been made to the amounts for prior years in order to conform to the current year’s presentation. We have evaluated subsequent events through the date that the financial statements were issued.
+2.
+Summary of Significant Accounting Policies
+(a) Cash and Cash Equivalents
+We consider all highly liquid investments purchased with an original or remaining maturity of three months or less at the date of purchase to be cash equivalents. Cash and cash equivalents are maintained with various financial institutions.
+(b) Available-for-Sale Debt Investments
+We classify our investments in fixed income securities as available-for-sale debt investments. Our available-for-sale debt investments primarily consist of U.S. government, U.S. government agency, non-U.S. government and agency, corporate debt, U.S. agency mortgage-backed securities, commercial paper and certificates of deposit. These available-for-sale debt investments are primarily held in the custody of a major financial institution. A specific identification method is used to determine the cost basis of available-for-sale debt investments sold. These investments are recorded in the Consolidated Balance Sheets at fair value. Unrealized gains and losses on these investments are included as a separate component of accumulated other comprehensive income (loss) (AOCI), net of tax. We classify our investments as current based on the nature of the investments and their availability for use in current operations.
+(c) Equity Instruments
+Our equity investments are accounted for as follows:
+•
+Marketable equity securities
+have readily determinable fair value (RDFV) that are measured and recorded at fair value through income.
+•
+Non-marketable equity securities
+do not have RDFV and are measured using a measurement alternative recorded at cost less any impairment, plus or minus changes resulting from qualifying observable price changes. For certain of these securities, we have elected to apply the net asset value (NAV) practical expedient. The NAV is the estimated fair value of these investments.
+•
+Equity method investments
+are securities we do not control, but are able to exert significant influence over the investee. These investments are measured at cost less any impairment, plus or minus our share of equity method investee income or loss.
+(d) Impairments of Investments
+For our available-for-sale debt

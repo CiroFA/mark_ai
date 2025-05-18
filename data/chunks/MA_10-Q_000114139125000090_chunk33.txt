@@ -1,0 +1,17 @@
+investments include fixed and variable rate securities that are sensitive to interest rate fluctuations.  Our policy is to invest in high quality securities, while providing adequate liquidity and maintaining diversification to avoid significant exposure.  A hypothetical 100 basis point adverse change in interest rates would not have a material impact to the fair value of our investments at March 31, 2025 and December 31, 2024.
+We are also exposed to interest rate risk related to our fixed-rate debt.  To manage this risk, we may enter into interest rate derivative contracts to hedge a portion of our fixed-rate debt that is exposed to changes in fair value attributable to changes in a benchmark interest rate.  The effect of a hypothetical 100 basis point adverse change in interest rates could result in a fair value loss of approximately $18 million and $20 million on the fair value of our interest rate derivative contracts designated as a fair value hedge of our fixed-rate debt at March 31, 2025 and December 31, 2024, respectively, before considering the offsetting effect of the underlying hedged activity.
+Item 4. Controls and procedures
+Evaluation of Disclosure Controls and Procedures
+Our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) are designed to ensure that information that is required to be disclosed in the reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission and to ensure that information required to be disclosed is accumulated and communicated to management, including our President and Chief Executive Officer and our Chief Financial Officer, to allow timely decisions regarding disclosure.  The President and Chief Executive Officer and the Chief Financial Officer, with assistance from other members of management, have reviewed the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Report and, based on their evaluation, have concluded that the disclosure controls and procedures were effective as of such date.
+Changes in Internal Control over Financial Reporting
+There was no change in Mastercard’s internal control over financial reporting that occurred during the three months ended March 31, 2025 that has materially affected, or is reasonably likely to materially affect, Mastercard's internal control over financial reporting.
+MASTERCARD MARCH 31, 2025 FORM 10-Q
+39
+PART II
+ITEM 1. LEGAL PROCEEDINGS
+Item 1. Legal proceedings
+Refer to Note 14 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part I, Item 1.
+Item 1A. Risk factors
+For a discussion of our risk factors, see Part I, Item 1A - Risk Factors of our 2024 Form 10-K.
+Item 2. Unregistered sales of equity securities and use of proceeds
+Issuer Purchases of Equity Securities

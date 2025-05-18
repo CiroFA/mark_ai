@@ -1,0 +1,17 @@
+hedge the exposure to variability in forecasted cash flows from floating-rate assets and liabilities and foreign currency–denominated revenue and expense. For qualifying cash flow hedges, changes in the fair value of the derivative are recorded in OCI and recognized in earnings as the hedged item affects earnings. Derivative amounts affecting earnings are recognized consistent with the classification of the hedged item – primarily noninterest revenue, net interest income and compensation expense. If the hedge relationship is terminated, then the change in value of the derivative recorded in AOCI is recognized in earnings when the cash flows that were hedged affect earnings. For hedge relationships that are discontinued because a forecasted transaction is expected to not occur according to the original hedge forecast, any related derivative values recorded in AOCI are immediately recognized in earnings.
+JPMorganChase uses net investment hedges to protect the value of the Firm’s net investments in certain non-U.S. subsidiaries or branches whose functional currencies are not the U.S. dollar. For qualifying net investment hedges, changes in the fair value of the derivatives due to changes in spot foreign exchange rates are recorded in OCI as translation adjustments. Amounts excluded from the assessment of effectiveness are recorded directly in earnings.
+The following table outlines the Firm’s primary uses of derivatives and the related hedge accounting designation or disclosure category.
+Notes to consolidated financial statements
+Notional amount of derivative contracts
+The following table summarizes the notional amount of free-standing derivative contracts outstanding as of December 31, 2024 and 2023.
+(a)
+Refer to the Credit derivatives discussion on pages 222–224 for more information on volumes and types of credit derivative contracts.
+(b)
+Represents the sum of gross long and gross short third-party notional derivative contracts.
+While the notional amounts disclosed above give an indication of the volume of the Firm’s derivatives activity, the notional amounts significantly exceed, in the Firm’s view, the possible losses that could arise from such transactions. For most derivative contracts, the notional amount is not exchanged; it is simply a reference amount used to calculate payments.
+Impact of derivatives on the Consolidated balance sheets
+The following table summarizes information on derivative receivables and payables (before and after netting adjustments) that are reflected on the Firm’s Consolidated balance sheets as of December 31, 2024 and 2023, by accounting designation (e.g., whether the derivatives were designated in qualifying hedge accounting relationships or not) and contract type.
+(a)
+Balances exclude structured notes for which the fair value option has been elected. Refer to Note 3 for further information.
+(b)
+As permitted under U.S. GAAP, the Firm has elected to net derivative receivables and derivative payables and the related

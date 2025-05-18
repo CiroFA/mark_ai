@@ -1,0 +1,21 @@
+States of America (GAAP) which we supplement with certain non-GAAP financial information. These non-GAAP measures should not be considered in isolation or as a substitute for the related GAAP measures, and other companies may define such measures differently. We encourage investors to review our financial statements and publicly-filed reports in their entirety and not to rely on any single financial measure. Core operating earnings/(loss), Core operating margins and Core earnings/(loss) per share exclude the FAS/CAS service cost adjustment. The FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. Core earnings/(loss) per share excludes both the FAS/CAS service cost adjustment and non-operating pension and postretirement income. Non-operating pension and postretirement income represents the components of net periodic benefit costs other than service cost. Pension costs, comprising service and prior service costs computed in accordance with GAAP are allocated to BCA and certain BGS businesses supporting commercial customers. Pension costs allocated to BDS and BGS businesses supporting government customers are computed in accordance with U.S. Government Cost Accounting Standards (CAS), which employ different actuarial assumptions and accounting conventions than GAAP. CAS costs are allocable to government contracts. Other postretirement benefit costs are allocated to all business segments based on CAS, which is generally based on benefits paid.
+The Pension FAS/CAS service cost adjustments recognized in Earnings/(loss) from operations were benefits of
+$193 million
+and
+$230 million
+for the
+three months ended March 31, 2025 and 2024
+. The lower benefits in 2025 were primarily due to reductions in allocated pension cost year over year. The non-operating pension income included in Other income, net was
+$43 million
+and
+$123 million
+for the
+three
+47
+Table of Contents
+months ended March 31, 2025 and 2024
+.
+The lower benefits in 2025 were primarily due to lower expected return on plan assets. For further discussion of pension and other postretirement costs see "Management’s Discussion and Analysis of Financial Condition and Results of Operations" on page 28 of our 2024 Annual Report on Form 10-K.
+Management uses Core operating earnings/(loss), Core operating margins and Core earnings/(loss) per share for purposes of evaluating and forecasting underlying business performance. Management believes these core earnings measures provide investors additional insights into operational performance as unallocated pension and other postretirement benefit costs primarily represent costs driven by market factors and costs not allocable to U.S. government contracts.
+Reconciliation of Non-GAAP Measures to GAAP Measures
+The table below reconciles the non-GAAP financial measures of Core operating earnings/(loss),

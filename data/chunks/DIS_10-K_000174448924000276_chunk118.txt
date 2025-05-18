@@ -1,0 +1,24 @@
+cash flows from the related assets, liabilities or forecasted transactions (see Notes 8 and 17).
+Income Taxes
+Deferred income tax assets and liabilities are recorded with respect to temporary differences in the accounting treatment of items for financial reporting purposes and for income tax purposes. Where, based on the weight of available evidence, it is more likely than not that some amount of recorded deferred tax assets will not be realized, a valuation allowance is established for the amount that, in management’s judgment, is sufficient to reduce the deferred tax asset to an amount that is more likely than not to be realized.
+A tax position must meet a minimum probability threshold before a financial statement benefit is recognized. The minimum threshold is defined as a tax position that is more likely than not to be sustained upon examination by the applicable taxing authority, including resolution of any related appeals or litigation processes, based on the technical merits of the position. The tax benefit to be recognized is measured as the largest amount of benefit that is greater than fifty percent likely of being realized upon ultimate settlement.
+Redeemable Noncontrolling Interest
+Hulu LLC
+The Company has a
+67
+% ownership interest in Hulu. In November 2023, NBC Universal (NBCU) exercised its right to require the Company to purchase their
+33
+% interest in Hulu at a redemption value based on NBCU’s equity ownership percentage of the greater of Hulu’s equity fair value or a guaranteed floor value of $
+27.5
+billion. In connection with the redemption, the Company will pay NBCU
+50
+% of the future tax benefits from the amortization of the purchase of NBCU’s interest in Hulu as the Company’s cash tax benefits are realized, generally over a
+15
+-year period. In December 2023, the Company paid NBCU $
+8.6
+billion, which reflected the guaranteed floor value less NBCU’s unpaid capital call contributions. If Hulu’s equity fair value is determined pursuant to a contractual appraisal process to be higher than the guaranteed floor value, the Company is required to pay NBCU its share of the difference between the equity fair value and the guaranteed floor value.
+88
+TABLE OF
+CONTENTS
+In May 2024, the Company and NBCU entered into a confidential arbitration to resolve a dispute regarding the contractual appraisal process, in which the parties seek declaratory relief, equitable relief and unspecified damages. The Company expects a decision in that arbitration in fiscal 2025. The outcome of the arbitration is uncertain, and we cannot reasonably estimate the impact of the arbitration on the appraisal process, and thus any impact on the determination of Hulu’s equity fair value and any additional amount we may be required to pay to acquire NBCU’s interest in Hulu.
+As part of the arbitration the Company disputes the validity of aspects of NBCU’s appraisal and the corresponding process. Consequently, completion of the appraisal process, including the manner of

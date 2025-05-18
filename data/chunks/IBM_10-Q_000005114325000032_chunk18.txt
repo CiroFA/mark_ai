@@ -1,0 +1,23 @@
+Report.
+Within the financial statements and tables presented, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes. Percentages presented are calculated from the underlying whole-dollar amounts. Certain prior-period amounts have been reclassified to conform to the change in current-period presentation. This is annotated where applicable.
+9
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+2.
+Accounting Changes:
+New Standards to be Implemented
+Disaggregation of Income Statement Expenses
+Standard/Description
+–Issuance date: November 2024. This guidance requires a new tabular disclosure of certain types of expenses (including purchases of inventory, employee compensation, depreciation and amortization) that are included within commonly presented expense captions on the income statement. The guidance also requires the disclosure of a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively. Additionally, the guidance requires the disclosure of the total amount of selling expenses and an entity’s definition of selling expenses. The disclosures are required on an interim and annual basis.
+Effective Date and Adoption Considerations
+–The guidance is effective for the company for annual reporting periods beginning in 2027, and for interim reporting periods beginning January 1, 2028. Early adoption is permitted. The company expects to adopt the guidance as of the effective date and to apply the guidance on a prospective basis.
+Effect on Financial Statements or Other Significant Matters
+–Given the scope of the work required to implement the new standard, the company began its assessment process in 2024 and established a cross-functional implementation team which is evaluating the need for any changes to systems, processes, data or controls to meet the additional disclosure requirements. As the guidance is a change to disclosures only, it will impact the Notes to the Consolidated Financial Statements but will not impact the consolidated financial results.
+Income Tax Disclosures
+Standard/Description
+–Issuance date: December 2023. This guidance requires disaggregated disclosure of the tax rate reconciliation into eight categories, with further disaggregation required for items greater than a specific threshold. Additionally, the guidance requires the disclosure of income taxes paid disaggregated by federal, state and foreign jurisdictions.
+Effective Date and Adoption Considerations
+–The guidance is effective for annual reporting periods beginning in 2025 and early adoption is permitted. The company expects to adopt the guidance as of the effective date.
+Effect on Financial Statements or Other Significant Matters
+–As the guidance is a change to disclosures only, it will impact the “Taxes” note within the company's annual financial statements but will not impact the consolidated financial results.
+Standards Implemented

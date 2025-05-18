@@ -1,0 +1,15 @@
+consolidated financial statements for further information about investments, Note 9 to the consolidated financial statements for further information about loans and Note 7 to the consolidated financial statements for further information about derivatives.
+•
+These measures do not reflect the diversification effect across asset categories or across other market risk measures.
+Credit and Funding Spread Sensitivity on Derivatives and Financial Liabilities.
+VaR excludes the impact of changes in counterparty credit spreads, our own credit spreads and unsecured funding spreads on derivatives, as well as changes in our own credit spreads (debt valuation adjustment) on financial liabilities for which the fair value option was elected. The estimated sensitivity to a one basis point increase in credit spreads (counterparty and our own) and unsecured funding spreads on derivatives (including hedges) was a loss of $1 million as of March 2025 and $2 million as of December 2024. In addition, the estimated sensitivity to a one basis point increase in our own credit spreads on financial liabilities for which the fair value option was elected was a gain of $49 million as of March 2025 and $43 million as of December 2024. However, the actual net impact of a change in our own credit spreads is also affected by the liquidity, duration and convexity (as the sensitivity is not linear to changes in yields) of those financial liabilities for which the fair value option was elected, as well as the relative performance of any hedges undertaken.
+Earnings-at-Risk.
+The table below presents the impact of a parallel shift in rates on our net revenues and preferred stock dividends over the next 12 months relative to the baseline scenario.
+In the table above, the EaR metric utilized various assumptions, including, among other things, balance sheet size and composition, prepayment behavior and deposit repricing, all of which have inherent uncertainties. The EaR metric does not represent a forecast of our net revenues and preferred stock dividends.
+Other Market Risk Considerations
+We make investments in securities that are accounted for as available-for-sale, held-to-maturity or under the equity method which are included in investments in the consolidated balance sheets. See Note 8 to the consolidated financial statements for further information.
+Direct investments in real estate are accounted for at cost less accumulated depreciation. See Note 12 to the consolidated financial statements for further information about other assets.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Financial Statement Linkages to Market Risk Measures
+We employ a variety of risk measures, each described in the respective sections above, to monitor market risk across the consolidated balance sheets and consolidated statements of earnings. The related gains and losses on these positions are included in market making, other principal transactions, interest income and

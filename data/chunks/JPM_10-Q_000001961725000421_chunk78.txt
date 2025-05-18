@@ -1,0 +1,32 @@
+sheets, the balances outstanding under its securities financing agreements with the same counterparty. In addition, the Firm exchanges securities and/or cash collateral with its counterparty to reduce the economic exposure with
+the counterparty, but such collateral is not eligible for net Consolidated balance sheet presentation. Where the Firm has obtained an appropriate legal opinion with respect to the counterparty master netting agreement, such collateral, along with securities financing balances that do not meet all these relevant netting criteria under U.S. GAAP, is presented in the table below as “Amounts not nettable on the Consolidated balance sheets,” and reduces the “Net amounts” presented. Where a legal opinion has not been either sought or obtained, the securities financing balances are presented gross in the “Net amounts” below. In transactions where the Firm is acting as the lender in a securities-for-securities lending agreement and receives securities that can be pledged or sold as collateral, the Firm recognizes the securities received at fair value within other assets and the obligation to return those securities within accounts payable and other liabilities on the Consolidated balance sheets.
+(a)
+Includes securities-for-securities lending agreements of $
+7.9
+billion and $
+5.9
+billion at March 31, 2025 and December 31, 2024, respectively, accounted for at fair value, where the Firm is acting as lender.
+(b)
+In some cases, collateral exchanged with a counterparty exceeds the net asset or liability balance with that counterparty. In such cases, the amounts reported in this column are limited to the related net asset or liability with that counterparty.
+(c)
+Includes securities financing agreements that provide collateral rights, but where an appropriate legal opinion with respect to the master netting agreement has not been either sought or obtained. At March 31, 2025 and December 31, 2024, included $
+8.6
+billion and $
+8.7
+billion, respectively, of securities purchased under resale agreements; $
+44.4
+billion and $
+42.9
+billion, respectively, of securities borrowed; $
+33.3
+billion and $
+40.9
+billion, respectively, of securities sold under repurchase agreements; and securities loaned and other which were not material.
+121
+The tables below present as of March 31, 2025 and December 31, 2024 the types of financial assets pledged in securities financing agreements and the remaining contractual maturity of the securities financing agreements.
+Transfers not qualifying for sale accounting
+At March 31, 2025 and December 31, 2024, the Firm held $
+910
+million and $
+805
+million, respectively, of financial assets for which the rights have been transferred to third parties; however, the transfers did not qualify as a sale in accordance with U.S. GAAP. These transfers have been recognized as collateralized financing transactions. The transferred assets are recorded in trading assets and loans, and the corresponding liabilities are recorded

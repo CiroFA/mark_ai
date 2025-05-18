@@ -1,0 +1,39 @@
+and obligations under financing and interconnection agreements. Payment guarantees and related contracts with respect to unconsolidated entities for which NEE or one of its subsidiaries are the guarantor are recorded on NEE’s consolidated balance sheets at fair value. At December 31, 2024, approximately $
+58
+million related to the fair value of the credit support provided under the CSCS agreement is recorded as noncurrent other liabilities on NEE's consolidated balance sheet.
+During 2024, 2023 and 2022, certain services, primarily engineering, construction, transportation, storage and maintenance services, were provided to subsidiaries of NEE by related parties that NEE accounts for under the equity method of accounting. Charges for these services amounted to approximately $
+749
+million, $
+656
+million and $
+579
+million for the years ended December 31, 2024, 2023 and 2022, respectively.
+9.
+Variable Interest Entities (VIEs)
+NEER
+– At December 31, 2024, NEE consolidates a number of VIEs within the NEER segment. Subsidiaries within the NEER segment are considered the primary beneficiary of these VIEs since they control the most significant activities of these VIEs, including operations and maintenance, and they have the obligation to absorb expected losses of these VIEs.
+Eight
+indirect subsidiaries of NextEra Energy Resources have an ownership interest ranging from approximately
+50
+% to
+67
+% in entities which own and operate solar generation facilities with generating capacity of approximately
+765
+MW. Each of the subsidiaries is considered a VIE since the non-managing members have no substantive rights over the managing members, and is consolidated by NextEra Energy Resources. These entities sell their electric output to third parties under power sales contracts with expiration dates ranging from 2035 through 2052. These entities have third-party debt which is secured by liens against the assets of the entities. The debt holders have no recourse to the general credit of NextEra Energy Resources for the repayment of debt. The assets and liabilities of these VIEs were approximately $
+1,708
+million and $
+520
+million, respectively, at December 31, 2024. There were
+eight
+of these consolidated VIEs at December 31, 2023 and the assets and liabilities of those VIEs at such date totaled approximately $
+1,796
+million and $
+1,085
+million, respectively. At December 31, 2024 and 2023, the assets and liabilities of these VIEs consisted primarily of property, plant and equipment and long-term debt.
+NextEra Energy Resources consolidates a VIE which has a
+10
+% direct ownership interest in wind and solar generation facilities which have the capability of producing approximately
+400
+MW and
+599
+MW, respectively. These entities sell their electric output under power sales contracts to third parties with expiration dates ranging from 2025 through 2040. These entities are also considered a VIE because the holders of differential membership interests in these entities do

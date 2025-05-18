@@ -1,0 +1,26 @@
+Property and equipment, net by segment is as follows (in millions):
+20
+Table of
+Contents
+Total net additions to property and equipment include technology infrastructure assets, which are allocated among the segments based on usage, with the majority allocated to the AWS segment. Total net additions to property and equipment include the effect of non-cash activity such as property and equipment acquired but not yet paid.
+Total net additions to property and equipment are as follows (in millions):
+___________________
+(1)
+Includes property and equipment added under finance leases of $
+7
+million and $
+54
+million in Q1 2024 and Q1 2025.
+(2)
+Includes property and equipment added under finance leases of $
+35
+million and $
+0
+million in Q1 2024 and Q1 2025.
+Depreciation and amortization expense on property and equipment, including corporate property and equipment, are allocated to all segments based on usage.
+Total depreciation and amortization expense, by segment, is as follows (in millions):
+21
+Table of
+Contents
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact, including statements regarding guidance, industry prospects, or future results of operations or financial position, made in this Quarterly Report on Form 10-Q are forward-looking. We use words such as anticipates, believes, expects, future, intends, and similar expressions to identify forward-looking statements. Forward-looking statements reflect management’s current expectations and are inherently uncertain. Actual results and outcomes could differ materially for a variety of reasons, including, among others, fluctuations in foreign exchange rates, changes in global economic conditions, tariff and trade policies, and customer demand and spending, inflation, interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and emerging technologies, the amount that Amazon.com invests in new business opportunities and the timing of those investments, the mix of products and services sold to customers, the mix of net sales derived from products as compared with services, the extent to which we owe income or other taxes, competition, management of growth, potential fluctuations in operating results, international growth and expansion, the outcomes of claims, litigation, government investigations, and other proceedings, fulfillment, sortation, delivery, and data center optimization, risks of inventory management, variability in demand, the degree to which we enter into, maintain, and develop commercial agreements, proposed and completed acquisitions and strategic transactions, payments risks, and risks of fulfillment throughput and productivity. In addition, global economic and geopolitical conditions and additional or unforeseen circumstances,

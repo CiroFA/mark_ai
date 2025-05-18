@@ -1,0 +1,27 @@
+Inputs
+Points—Percentage of par
+IR—Interest rate
+FX—Foreign exchange
+1.
+A single amount is disclosed for range and average when there is no significant difference between the minimum, maximum and average. Amounts represent weighted averages except where simple averages and the median of the inputs are more relevant.
+2.
+Includes derivative contracts with multiple risks (
+i.e.
+, hybrid products).
+The previous table provides information on the valuation techniques, significant unobservable inputs, and the ranges and averages for each major category of assets and liabilities measured at fair value on a recurring and nonrecurring basis with a significant Level 3 balance. The level of aggregation and breadth of products cause the range of inputs to be wide
+and not evenly distributed across the inventory of financial instruments. Further, the range of unobservable inputs may differ across firms in the financial services industry because of diversity in the types of products included in each firm’s inventory. Generally, there are no predictable relationships between multiple significant unobservable inputs attributable to a given valuation technique.
+For a description of the Firm’s significant unobservable inputs and qualitative information about the effect of hypothetical changes in the values of those inputs, see Note 4 to the financial statements in the 2024 Form 10-K. During the three months ended March 31, 2025, there were no significant revisions made to the descriptions of the Firm’s significant unobservable inputs.
+Net Asset Value Measurements
+Fund Interests
+Amounts in the previous table represent the Firm’s carrying value of general and limited partnership interests in fund investments, as well as any related performance-based income in the form of carried interest. The carrying amounts are measured based on the NAV of the fund taking into account the distribution terms applicable to the interest held. This same measurement applies whether the fund investments are accounted for under the equity method or fair value.
+For a description of the Firm’s investments in private equity and other funds, real estate funds and hedge funds, which are measured based on NAV, see Note 4 to the financial statements in the 2024 Form 10-K.
+See Note 13 for information regarding general partner guarantees, which include potential obligations to return performance fee distributions previously received. See Note 19 for information regarding unrealized carried interest at risk of reversal.
+Nonredeemable Funds by Contractual Maturity
+Nonrecurring Fair Value Measurements
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+1.
+For significant Level 3 balances, refer to “Significant Unobservable Inputs Used in Recurring and Nonrecurring Level 3 Fair Value Measurements” section herein for details of the significant unobservable inputs used for nonrecurring fair value measurement.
+Gains (Losses) from Nonrecurring Fair Value Remeasurements
+1
+1.
+Gains and

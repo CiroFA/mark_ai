@@ -1,0 +1,43 @@
+important factors that adversely affect our business. If any of the following risks actually occurs, our business, financial condition, results of operations, and future prospects could be materially and adversely affected. In that event, the trading price of our Class A common stock could decline, and you could lose part or all of your investment.
+Summary Risk Factors
+Our business is subject to a number of risks, including risks that may prevent us from achieving our business objectives or may adversely affect our business, financial condition, results of operations, cash flows, and prospects. These risks are discussed more fully below and include, but are not limited to, risks related to:
+Risks Related to Our Product Offerings
+•
+our ability to add and retain users and maintain levels of user engagement with our products;
+•
+the loss of, or reduction in spending by, our marketers;
+•
+reduced availability of data signals used by our ad targeting and measurement tools;
+•
+ineffective operation with mobile operating systems or changes in our relationships with mobile operating system partners;
+•
+failure of our new products, or changes to our existing products, to attract or retain users or generate revenue;
+Risks Related to Our Business Operations and Financial Results
+•
+our ability to compete effectively;
+•
+fluctuations in our financial results;
+•
+unfavorable media coverage and other risks affecting our ability to maintain and enhance our brands;
+•
+our ability to build, maintain, and scale our technical infrastructure, and risks associated with disruptions in our service, catastrophic events, and crises;
+•
+operating our business in multiple countries around the world;
+•
+litigation, including class action lawsuits;
+•
+acquisitions and our ability to successfully integrate our acquisitions;
+Risks Related to Government Regulation and Enforcement
+•
+government restrictions on access to Facebook or our other products, or other actions that impair our ability to sell or deliver advertising, in their countries;
+•
+complex and evolving U.S. and foreign privacy, data use, data combination, data protection, content and content moderation, competition, youth, safety, consumer protection, advertising, and other laws and regulations, including the General Data Protection Regulation (GDPR), Digital Markets Act (DMA), Digital Services Act (DSA), Artificial Intelligence Act (EU AI Act), and the UK Digital Markets, Competition and Consumer Act (DMCC);
+•
+the impact of government investigations, enforcement actions, and settlements, including litigation and investigations by privacy, consumer protection, and competition authorities, among others;
+51
+Table of Contents
+•
+our ability to comply with regulatory and legislative privacy requirements, including our consent order with the Federal Trade Commission (FTC);
+Risks Related to Data, Security, Platform Integrity, and Intellectual Property
+•
+the occurrence of security breaches, improper access to or disclosure of our data

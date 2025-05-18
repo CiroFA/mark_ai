@@ -1,0 +1,53 @@
+March 31, 2025 or for the year ended December 31, 2024.
+10.
+Leases:
+Accounting for Leases as a Lessor
+The following table presents amounts included in the Consolidated Income Statement related to lessor activity.
+(1)
+Excludes unguaranteed residual value.
+23
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+11.
+Intangible Assets Including Goodwill:
+Intangible Assets
+The following tables present the company's intangible asset balances by major asset class.
+(1)
+Amounts as of March 31, 2025 and December 31, 2024 include an increase in the net intangible asset balance of $
+63
+million and a decrease in the net intangible asset balance of $
+126
+million, respectively, due to foreign currency translation.
+(2)
+Other intangibles are primarily acquired proprietary and non-proprietary technology licenses, data, business processes, methodologies and systems.
+The net carrying amount of intangible assets increased $
+1,731
+million during the first three months of 2025, primarily due to additions of acquired intangibles from business combinations of $
+2,085
+million, driven by the acquisition of HashiCorp in the current quarter, and additions of capitalized software, partially offset by intangible asset amortization. The aggregate intangible asset amortization expense was $
+641
+million and $
+598
+million for the three months ended March 31, 2025 and 2024, respectively. During the three months ended March 31, 2025, the company retired $
+221
+million of fully amortized intangible assets, impacting both the gross carrying amount and accumulated amortization by this amount.
+The future amortization expense relating to intangible assets currently recorded in the Consolidated Balance Sheet was estimated to be the following at March 31, 2025:
+24
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+Goodwill
+The changes in the goodwill balances by segment for the three months ended March 31, 2025 and for the year ended December 31, 2024 were as follows:
+(1)
+Primarily driven by foreign currency translation.
+(2)
+In the first quarter of 2024, the company derecognized goodwill related to the divestiture of The Weather Company assets.
+Goodwill additions recorded in the three months ended March 31, 2025 were primarily driven by the acquisition of HashiCorp. Refer to note 5,
+“
+Acquisitions & Divestitures,
+”
+for additional information.
+There were
+no
+goodwill impairment losses recorded during the three months ended March 31, 2025 or the year ended December 31, 2024 and the company has
+no
+accumulated impairment losses. Purchase price adjustments recorded during the three months ended March 31, 2025 and the year ended December 31, 2024 were related to acquisitions that were still subject to the measurement period that ends at the earlier of 12 months from the acquisition date or when information becomes available. Net purchase price adjustments recorded in the three months ended March 31, 2025 and the year ended December 31, 2024 were not

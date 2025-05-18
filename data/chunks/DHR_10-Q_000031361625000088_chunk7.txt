@@ -1,0 +1,24 @@
+allocated corporate expenses.
+The following table presents identifiable assets as of March 28, 2025 and December 31, 2024 ($ in millions):
+The following table presents capital expenditures for the three-month periods ended March 28, 2025 and March 29, 2024 ($ in millions):
+10
+Table of Contents
+NOTE 6.
+INCOME TAXES
+The following table summarizes the Company’s effective tax rate:
+The Company operates globally, including in certain jurisdictions with lower tax rates than the United States (“U.S.”) federal statutory rate.  Therefore, the impact of Danaher’s global operations and benefits from tax credits and incentives contributes to a lower effective tax rate compared to the U.S. federal statutory tax rate.  For each period presented, the effective tax rate differs from the U.S. federal statutory rate of
+21.0
+% principally due to the impact of the Company’s global operations, research tax credits, foreign-derived intangible income and aggregate net discrete benefits or charges.
+For the three-month period ended March 28, 2025, net discrete tax benefits of $
+10
+million reduced the effective tax rate by
+0.9
+% and related primarily to changes in estimates of prior year tax filing positions, release of reserves for uncertain tax positions due to the expiration of statutes of limitation and excess tax benefits from stock-based compensation, net of charges related to changes in estimates associated with prior period uncertain tax positions.
+For the three-month period ended March 29, 2024, net discrete tax benefits of $
+36
+million reduced the effective tax rate by
+2.8
+% and related primarily to excess tax benefits from stock-based compensation, release of reserves for uncertain tax positions due to the expiration of statutes of limitation and changes in estimates associated with prior period uncertain tax positions.
+In the fourth quarter of 2022, the U.S. Internal Revenue Service (“IRS”) proposed significant adjustments to the Company’s taxable income for the years 2016 through 2018 with respect to the deferral of tax on certain premium income related to the Company’s self-insurance programs.  For income tax purposes, the recognition of premium income has been deferred in accordance with U.S. tax laws related to insurance.  The proposed adjustments would have increased the Company’s taxable income over the 2016 through 2018 periods by approximately $
+2.5
+billion.  In the first quarter of 2023, the Company settled these proposed adjustments with the IRS, although the audit is still open with respect to other matters for the 2016 through 2018 period.  The impact of the settlement with respect to the Company’s self-insurance policies was not material to the Company’s financial statements, including cash flows and the effective tax rate.  As the settlement with the IRS was specific to the audit period, the settlement does not preclude the IRS from proposing similar adjustments to the Company’s self-insurance programs with respect to periods after 2018.

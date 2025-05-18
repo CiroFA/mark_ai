@@ -1,0 +1,56 @@
+on Form 10-K.
+At March 31, 2025, the amount of collateral, calculated based on the terms of the contracts, that the Corporation and certain subsidiaries could be required to post to counterparties but had not yet posted to counterparties was $
+3.1
+billion, including $
+1.5
+billion for Bank of America, National Association (BANA).
+Some counterparties are currently able to unilaterally terminate certain contracts, or the Corporation or certain subsidiaries may be required to take other action such as find a suitable replacement or obtain a guarantee. At March 31, 2025 and December 31, 2024, the liability recorded for these derivative contracts was not significant.
+The following table presents the amount of additional collateral that would have been contractually required by derivative contracts and other trading agreements at March 31, 2025 if the rating agencies had downgraded their long-term senior debt ratings for the Corporation or certain subsidiaries by one incremental notch and by an additional second incremental notch. The table also presents derivative liabilities that would be subject to unilateral termination by counterparties upon downgrade of the Corporation's or certain subsidiaries’ long-term senior debt ratings.
+(1)
+Included in Bank of America Corporation collateral requirements in this table.
+Valuation Adjustments on Derivatives
+The table below presents credit valuation adjustment (CVA), DVA and FVA gains (losses) on derivatives (excluding the effect of any related hedge activities), which are recorded in market making and similar activities, for the three months ended March 31, 2025 and 2024.  For more information on the valuation adjustments on derivatives, see
+Note 3 – Derivatives
+to the Consolidated Financial Statements of the Corporation’s 2024 Annual Report on Form 10-K.
+(1)
+At March 31, 2025 and December 31, 2024, cumulative CVA reduced the derivative assets balance by $
+353
+million and $
+328
+million, cumulative FVA reduced the net derivative balance by $
+81
+million and $
+66
+million and cumulative DVA reduced the derivative liabilities balance by $
+299
+million and $
+272
+million.
+NOTE 4
+Securities
+The table below presents the amortized cost, gross unrealized gains and losses, and fair value of AFS debt securities, other debt securities carried at fair value and held-to-maturity (HTM) debt securities at March 31, 2025
+and
+December 31, 2024
+.
+(1)
+At March 31, 2025 and December 31, 2024, the underlying collateral type included approximately
+26
+percent and
+25
+percent prime and
+74
+percent and
+75
+percent subprime.
+(2)
+Primarily includes non-U.S. securities used to satisfy certain international regulatory requirements. Any changes in value are reported in market making and similar activities. For detail on the components, see
+Note 14 – Fair Value Measurements
+.
+(3)
+Includes securities pledged as collateral of $
+189.7
+billion and $
+184.6
+billion at March 31, 2025 and December 31, 2024.
+(4)
+The Corporation held debt securities from

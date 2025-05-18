@@ -1,0 +1,18 @@
+in 2024, was due to a decrease in share repurchases, partially offset by an increase in taxes paid related to net share settlement of RSUs.
+42
+Table of Contents
+Material Cash Requirements
+We currently anticipate that our available funds and cash flow from operations and financing activities will be sufficient to meet our operational cash needs and fund our investments in infrastructure and AI initiatives, share repurchases and dividend payments for at least the next 12 months and thereafter for the foreseeable future. We continuously evaluate our liquidity and capital resources, including our access to external capital, to ensure we can finance our future capital requirements.
+Leases and Contractual Commitments
+Our operating and finance leases include data centers, offices, certain network infrastructure and colocations. In addition to lease liabilities, we have leases that have not yet commenced of approximately $35.27 billion as of March 31, 2025, which will commence between the remainder of 2025 and 2034.
+We also have $30.05 billion of contractual commitments as of March 31, 2025 primarily related to our investments in servers and network infrastructure, and content costs.
+Long-term Debt
+As of March 31, 2025, we had outstanding long-term debt in the form of senior unsecured notes for an aggregate principal amount of $29.0 billion, which mature from 2027 through 2064. Short-term and long-term future interest payments obligations as of March 31, 2025 were $1.38 billion and $27.63 billion, respectively.
+Capital Return Program
+Share Repurchase
+Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and does not have an expiration date. During the three months ended March 31, 2025, we repurchased and subsequently retired 19 million shares of our Class A common stock for an aggregate amount of $13.40 billion. As of March 31, 2025, $37.95 billion remained available and authorized for repurchases.
+Dividend
+In February 2025, we increased our quarterly cash dividends from $0.50 to $0.525 per share of Class A and Class B common stock. During the three months ended March 31, 2025, we paid $1.33 billion of dividends and dividend equivalents. Subject to legally available funds and future declaration by our board of directors, we currently intend to continue to pay a quarterly cash dividend and dividend equivalents on our outstanding common stock.
+Taxes
+Cash paid for income taxes was $448 million during the three months ended March 31, 2025. Subsequently, we also made a $3.72 billion U.S. federal income tax payment in April 2025, which included the final installment payment of $718 million related to a one-time transition tax payable incurred as a result of the Tax Act.
+Our long-term income taxes include $10.92 billion related to the uncertain tax positions as of March 31, 2025. Due to uncertainties in the timing of the completion of tax audits, the timing of the resolution of these

@@ -1,0 +1,30 @@
+The following table presents the pretax impact that changes in the fair values of derivatives not designated as hedging instruments had on earnings (in millions):
+NOTE 7:
+SUPPLY CHAIN FINANCE PROGRAM
+Our current payment terms with the majority of our suppliers are 120 days. Certain financial institutions offer a voluntary supply chain finance (“SCF”) program, which enables our suppliers, at their sole discretion, to sell their receivables from the Company to these financial institutions on a non-recourse basis at a rate that leverages our credit rating and thus may be more beneficial to them. The SCF program is available to suppliers of goods and services included in cost of goods sold and selling, general and administrative expenses in our consolidated statement of income. The Company and our suppliers agree on contractual terms for the goods and services we procure, including prices, quantities and payment terms, regardless of whether the supplier elects to participate in the SCF program. The suppliers sell goods or services, as applicable, to the Company and issue the associated invoices to the Company based on the agreed-upon contractual terms. Then, if they are participating in the SCF program, our suppliers sell their invoices to the financial institutions. Our suppliers’ voluntary participation in the SCF program has no bearing on our payment terms. No guarantees are provided by the Company or any of our subsidiaries under the SCF program. We have no economic interest in a supplier’s decision to participate in the SCF program, and we have no direct financial relationship with the financial institutions, as it relates to the SCF program. Accordingly, amounts due to our suppliers that elected to participate in the SCF program are included in the line item
+accounts payable and accrued expenses
+in our consolidated balance sheet. All activity related to amounts due to suppliers that elected to participate in the SCF program is reflected within the operating activities section of our consolidated statement of cash flows. As of March 28, 2025 and December 31, 2024, the amount of obligations outstanding that the Company has confirmed as valid to the financial institutions under the SCF program was $
+1,231
+million and $
+1,330
+million, respectively.
+14
+NOTE 8:
+DEBT AND BORROWING ARRANGEMENTS
+Loans and notes payable consist primarily of commercial paper issued in the United States. As of March 28, 2025 and December 31, 2024, we had $
+5,045
+million and $
+1,139
+million, respectively, in outstanding commercial paper borrowings.
+During the three months ended March 28, 2025, our bottling operations in Africa refinanced $
+485
+million of current maturities of long-term debt into long-term debt
+.
+NOTE 9:
+COMMITMENTS AND CONTINGENCIES
+Guarantees
+As of March 28, 2025, we were contingently liable for guarantees of indebtedness owed by third parties of $
+726
+million, of which $
+56
+million was related to variable interest entities. Our guarantees are primarily

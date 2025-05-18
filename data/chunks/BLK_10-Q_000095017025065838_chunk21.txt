@@ -1,0 +1,16 @@
+reported amounts of revenue and expense during the reporting periods. Actual results could differ from those estimates.
+Certain financial information that normally is included in annual financial statements, including certain financial statement footnotes, is not required for interim reporting purposes and has been condensed or omitted herein. These condensed consolidated financial statements should be read in conjunction with the Company’s consolidated financial statements and footnotes related thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, which was filed with the Securities and Exchange Commission (“SEC”) on February 25, 2025 (“2024 Form 10-K”).
+The interim financial information at March 31, 2025 and for the three months ended March 31, 2025 and 2024 is unaudited. However, in the opinion of management, the interim information includes all normal recurring adjustments necessary for the fair presentation of the Company’s results for the periods presented. The results of operations for interim periods are not necessarily indicative of results to be expected for the full year.
+Certain prior period presentations were reclassified to ensure comparability with current period classifications.
+Recent Accounting Pronouncements Not Yet Adopted
+Income Tax Disclosure Requirements.
+In December 2023, the FASB issued ASU 2023-09,
+Improvements to Income Tax Disclosures
+(“ASU 2023-09”), which enhances annual income tax disclosures. The two primary enhancements disaggregate existing income tax disclosures related to the effective tax rate reconciliation and income taxes paid. The Company will include the required ASU 2023-09 disclosures within BlackRock's 2025 Annual Report on Form 10-K.
+6
+Disaggregation of Income Statement Expenses.
+In November 2024, the FASB issued ASU 2024-03,
+Disaggregation of Income Statement Expenses
+("ASU 2024-03"), which requires entities to disaggregate in a tabular presentation disclosures about specific types of expenses included in the expense captions presented on the face of the income statement, as well as disclosures about selling expenses. Specifically, ASU 2024-03 requires disaggregation of expense captions that include any of the following natural expenses: (1) purchases of inventory, (2) employee compensation, (3) depreciation, (4) intangible asset amortization, and (5) depreciation, depletion, and amortization recognized as part of oil- and gas-producing activities or other types of depletion expenses. The requirements are effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027 and are required to be applied prospectively with the option for retrospective application. Early adoption is permitted. The Company does not expect the additional disclosure requirements under ASU 2024-03 to have a material impact on the condensed consolidated financial statements.
+Fair Value Measurements
+Hierarchy of

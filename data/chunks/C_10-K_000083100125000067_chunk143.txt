@@ -1,0 +1,17 @@
+management to make highly difficult, complex or subjective judgments and estimates at times regarding matters that are inherently uncertain and susceptible to change (see also “Risk Factors—Operational Risks” above). Management has discussed each of these significant accounting policies, the related estimates and its judgments with the Audit Committee of the Citigroup Board of Directors.
+Valuations of Financial Instruments
+Citigroup holds debt and equity securities, derivatives, retained interests in securitizations, investments in private equity and other financial instruments. A portion of these assets and liabilities is reflected at fair value on Citi’s Consolidated Balance Sheet as
+Trading account assets
+,
+Available-for-sale securities
+and
+Trading account liabilities
+.
+Citi purchases securities under agreements to resell (reverse repos or resale agreements) and sells securities under agreements to repurchase (repos), a substantial portion of which is carried at fair value. In addition, certain loans, short-term borrowings, long-term debt and deposits, as well as certain securities borrowed and loaned positions that are collateralized with cash, are carried at fair value. Citigroup holds its investments, trading assets and liabilities, and resale and repurchase agreements on Citi’s Consolidated Balance Sheet to meet customer needs and to manage liquidity needs, interest rate risks and private equity investing.
+When available, Citi generally uses quoted market prices to determine fair value and classifies such items within Level 1 of the fair value hierarchy established under ASC 820-10,
+Fair Value Measurement
+. If quoted market prices are not available, fair value is based on internally developed valuation models that use, where possible, current market-based or independently sourced market parameters, such as interest rates, currency rates and option volatilities. Such models are often based on a discounted cash flow analysis. In addition, items valued using such internally generated valuation techniques are classified according to the lowest level input or value driver that is significant to the valuation. Thus, an item may be classified under the fair value hierarchy as Level 3 even though there may be some significant inputs that are readily observable.
+Citi is required to exercise subjective judgments relating to the applicability and functionality of internal valuation models, the significance of inputs or drivers to the valuation of an instrument and the degree of illiquidity and subsequent lack of observability in certain markets. The fair value of these instruments is reported on Citi’s Consolidated Balance Sheet with the changes in fair value recognized in either the Consolidated Statement of Income or in
+AOCI
+.
+Losses on available-for-sale securities whose fair values are less than the amortized cost, where Citi intends to sell the security or could more-likely-than-not be required to sell the security prior to recovery, are

@@ -1,0 +1,20 @@
+criteria including determining whether there has been an adverse change in expected future cash flows. If we do not expect to recover the entire amortized cost basis of the security, we consider the security to contain an expected credit loss, and we record the difference between the security’s amortized cost basis and its recoverable amount in earnings as an allowance for credit loss and the difference between the security’s recoverable amount and fair value in other comprehensive income. If we intend to sell the security or it is more likely than not we will be required to sell the security before recovery of its amortized cost basis, the security is considered impaired, and we recognize the entire difference between the security’s amortized cost basis and its fair value in earnings.
+See Note 3 for further information.
+CURRENT RECEIVABLES.
+Amounts due from customers arising from the sales of equipment and services are recorded at the outstanding amount, less allowance for losses. We regularly monitor the recoverability of our receivables.
+See Note 4 for further information.
+ALLOWANCE FOR CREDIT LOSSES.
+When we record customer receivables and contract assets arising from revenue transactions, as well as commercial mortgage loans and reinsurance recoverables in our run-off insurance operations, financial guarantees and certain commitments, we record an allowance for credit losses for the current expected credit losses (CECL) inherent in the asset over its expected life. The allowance for credit losses is a valuation account deducted from the amortized cost basis of the assets to present their net carrying value at the amount expected to be collected. Each period
+,
+the allowance for credit losses is adjusted through earnings to reflect expected credit losses over the remaining lives of the assets. We evaluate debt securities with unrealized losses to determine whether any of the losses arise from concerns about the issuer’s credit or the underlying collateral and record an allowance for credit losses, if required.
+We estimate expected credit losses based on relevant information about past events, including historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amount. When measuring expected credit losses, we pool assets with similar country risk and credit risk characteristics. Changes in the relevant information may significantly affect the estimates of expected credit losses.
+INVENTORIES.
+All inventories are stated at lower of cost or realizable values. Cost of inventories is primarily determined using the average cost method.
+See Note 5 for further information.
+44
+2024 FORM 10-K
+PROPERTY, PLANT AND EQUIPMENT.
+The cost of property, plant and equipment is generally depreciated on a straight-line basis over its estimated economic life.
+See Note 6 for further information.
+LEASE ACCOUNTING FOR LESSEE ARRANGEMENTS.
+We evaluate whether our contractual arrangements contain

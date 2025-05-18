@@ -1,142 +1,2940 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
+pgr-20250331
+PROGRESSIVE CORP/OH/
+0000080661
+12/31
+2025
+Q1
+false
+6.625
+335
+334
+319
+319
+368
+365
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+pgr:security
+pgr:segment
+0000080661
+2025-01-01
+2025-03-31
+0000080661
+2025-04-30
+0000080661
+2024-01-01
+2024-03-31
+0000080661
+2025-03-31
+0000080661
+2024-03-31
+0000080661
+2024-12-31
+0000080661
+us-gaap:PreferredStockMember
+2024-12-31
+0000080661
+us-gaap:PreferredStockMember
+2023-12-31
+0000080661
+us-gaap:PreferredStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:PreferredStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:PreferredStockMember
+2025-03-31
+0000080661
+us-gaap:PreferredStockMember
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStockMember
+2023-12-31
+0000080661
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000080661
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0000080661
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0000080661
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0000080661
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000080661
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000080661
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000080661
+us-gaap:RetainedEarningsMember
+2024-03-31
+0000080661
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000080661
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000080661
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000080661
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0000080661
+pgr:SerialPreferredStockMember
+2025-03-31
+0000080661
+pgr:SerialPreferredStockMember
+2024-03-31
+0000080661
+pgr:VotingPreferredStockMember
+2024-03-31
+0000080661
+pgr:VotingPreferredStockMember
+2025-03-31
+0000080661
+2023-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+2025-03-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+2025-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+2024-03-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+2024-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+2024-12-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+2024-12-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+2024-01-01
+2024-12-31
+0000080661
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CorporateDebtSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CorporateDebtSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:AvailableforsaleSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:AvailableforsaleSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+us-gaap:EquitySecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+us-gaap:EquitySecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:EquitySecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:EquitySecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:EquitySecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:EquitySecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FixedMaturitiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedMaturitiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FixedMaturitiesMember
+2025-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ShortTermInvestmentsMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ShortTermInvestmentsMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ShortTermInvestmentsMember
+2025-03-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:NonredeemablePreferredStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:NonredeemablePreferredStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:NonredeemablePreferredStockMember
+2025-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2025-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:CommonStocksByIndustryMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+pgr:OtherRiskInvestmentsMember
+2025-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FixedMaturitiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedMaturitiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FixedMaturitiesMember
+2024-03-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ShortTermInvestmentsMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ShortTermInvestmentsMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ShortTermInvestmentsMember
+2024-03-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:NonredeemablePreferredStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:NonredeemablePreferredStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:NonredeemablePreferredStockMember
+2024-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2024-03-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:CommonStocksByIndustryMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+pgr:OtherRiskInvestmentsMember
+2024-03-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:DebtSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FixedMaturitiesMember
+us-gaap:AssetBackedSecuritiesSecuritizedLoansAndReceivablesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FixedMaturitiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedMaturitiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FixedMaturitiesMember
+2024-12-31
+0000080661
+us-gaap:FixedMaturitiesMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ShortTermInvestmentsMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ShortTermInvestmentsMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ShortTermInvestmentsMember
+2024-12-31
+0000080661
+us-gaap:ShortTermInvestmentsMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:NonredeemablePreferredStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:NonredeemablePreferredStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:NonredeemablePreferredStockMember
+2024-12-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2024-12-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:CommonStocksByIndustryMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStockMember
+pgr:OtherRiskInvestmentsMember
+2024-12-31
+0000080661
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStockMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000080661
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:CorporateDebtSecuritiesMember
+2023-12-31
+0000080661
+us-gaap:NonredeemablePreferredStockMember
+2023-12-31
+0000080661
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2023-12-31
+0000080661
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CommonStocksByIndustryMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2023-12-31
+0000080661
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0000080661
+pgr:OtherRiskInvestmentsMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:NonredeemablePreferredStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:NonredeemablePreferredStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CommonStockMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:ThirdPartyPricingExemptionSecuritiesMember
+2025-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:NonredeemablePreferredStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:NonredeemablePreferredStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CommonStockMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:ThirdPartyPricingExemptionSecuritiesMember
+2024-03-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-01-01
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:NonredeemablePreferredStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:NonredeemablePreferredStockMember
+2024-01-01
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CommonStockMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:TotalQuantitativeLevelThreeSecuritiesMember
+2024-12-31
+0000080661
+us-gaap:FairValueInputsLevel3Member
+pgr:ThirdPartyPricingExemptionSecuritiesMember
+2024-12-31
+0000080661
+pgr:SeniorNotesTwoPointFourFivePercentDueTwentyTwentySevenMember
+2016-08-31
+0000080661
+pgr:SeniorNotesTwoPointFourFivePercentDueTwentyTwentySevenMember
+2025-03-31
+0000080661
+pgr:SeniorNotesTwoPointFourFivePercentDueTwentyTwentySevenMember
+2024-03-31
+0000080661
+pgr:SeniorNotesTwoPointFourFivePercentDueTwentyTwentySevenMember
+2024-12-31
+0000080661
+pgr:SeniorNotesTwoPointFiveZeroPercentDueTwentyTwentySevenMember
+2022-03-31
+0000080661
+pgr:SeniorNotesTwoPointFiveZeroPercentDueTwentyTwentySevenMember
+2025-03-31
+0000080661
+pgr:SeniorNotesTwoPointFiveZeroPercentDueTwentyTwentySevenMember
+2024-03-31
+0000080661
+pgr:SeniorNotesTwoPointFiveZeroPercentDueTwentyTwentySevenMember
+2024-12-31
+0000080661
+pgr:SeniorNotesSixPointSixTwoFivePercentDueTwentyTwentyNineMember
+1999-03-31
+0000080661
+pgr:SeniorNotesSixPointSixTwoFivePercentDueTwentyTwentyNineMember
+2025-03-31
+0000080661
+pgr:SeniorNotesSixPointSixTwoFivePercentDueTwentyTwentyNineMember
+2024-03-31
+0000080661
+pgr:SeniorNotesSixPointSixTwoFivePercentDueTwentyTwentyNineMember
+2024-12-31
+0000080661
+pgr:SeniorNotesFourPointZeroZeroPercentDueTwentyTwentyNineMember
+2018-10-31
+0000080661
+pgr:SeniorNotesFourPointZeroZeroPercentDueTwentyTwentyNineMember
+2025-03-31
+0000080661
+pgr:SeniorNotesFourPointZeroZeroPercentDueTwentyTwentyNineMember
+2024-03-31
+0000080661
+pgr:SeniorNotesFourPointZeroZeroPercentDueTwentyTwentyNineMember
+2024-12-31
+0000080661
+pgr:SeniorNotesThreePointTwoZeroPercentDueTwentyThirtyMember
+2020-03-31
+0000080661
+pgr:SeniorNotesThreePointTwoZeroPercentDueTwentyThirtyMember
+2025-03-31
+0000080661
+pgr:SeniorNotesThreePointTwoZeroPercentDueTwentyThirtyMember
+2024-03-31
+0000080661
+pgr:SeniorNotesThreePointTwoZeroPercentDueTwentyThirtyMember
+2024-12-31
+0000080661
+pgr:SeniorNotesThreePointZeroZeroPercentDueTwentyThirtyTwoMember
+2022-03-31
+0000080661
+pgr:SeniorNotesThreePointZeroZeroPercentDueTwentyThirtyTwoMember
+2025-03-31
+0000080661
+pgr:SeniorNotesThreePointZeroZeroPercentDueTwentyThirtyTwoMember
+2024-03-31
+0000080661
+pgr:SeniorNotesThreePointZeroZeroPercentDueTwentyThirtyTwoMember
+2024-12-31
+0000080661
+pgr:SeniorNotesSixPointTwoFivePercentDueTwentyThirtyTwoMember
+2002-11-30
+0000080661
+pgr:SeniorNotesSixPointTwoFivePercentDueTwentyThirtyTwoMember
+2025-03-31
+0000080661
+pgr:SeniorNotesSixPointTwoFivePercentDueTwentyThirtyTwoMember
+2024-03-31
+0000080661
+pgr:SeniorNotesSixPointTwoFivePercentDueTwentyThirtyTwoMember
+2024-12-31
+0000080661
+pgr:SeniorNotesFourPointNineFivePercentDueTwentyThirtyThreeMember
+2023-05-31
+0000080661
+pgr:SeniorNotesFourPointNineFivePercentDueTwentyThirtyThreeMember
+2025-03-31
+0000080661
+pgr:SeniorNotesFourPointNineFivePercentDueTwentyThirtyThreeMember
+2024-03-31
+0000080661
+pgr:SeniorNotesFourPointNineFivePercentDueTwentyThirtyThreeMember
+2024-12-31
+0000080661
+pgr:SeniorNotesfourpointthreefivepercentdue2044Member
+2014-04-30
+0000080661
+pgr:SeniorNotesfourpointthreefivepercentdue2044Member
+2025-03-31
+0000080661
+pgr:SeniorNotesfourpointthreefivepercentdue2044Member
+2024-03-31
+0000080661
+pgr:SeniorNotesfourpointthreefivepercentdue2044Member
+2024-12-31
+0000080661
+pgr:SeniorNotesthreepointsevenzeropercentduetwentyfortyfiveMember
+2015-01-31
+0000080661
+pgr:SeniorNotesthreepointsevenzeropercentduetwentyfortyfiveMember
+2025-03-31
+0000080661
+pgr:SeniorNotesthreepointsevenzeropercentduetwentyfortyfiveMember
+2024-03-31
+0000080661
+pgr:SeniorNotesthreepointsevenzeropercentduetwentyfortyfiveMember
+2024-12-31
+0000080661
+pgr:SeniorNotesfourpointonetwofivepercentduetwentyfortysevenMember
+2017-04-30
+0000080661
+pgr:SeniorNotesfourpointonetwofivepercentduetwentyfortysevenMember
+2025-03-31
+0000080661
+pgr:SeniorNotesfourpointonetwofivepercentduetwentyfortysevenMember
+2024-03-31
+0000080661
+pgr:SeniorNotesfourpointonetwofivepercentduetwentyfortysevenMember
+2024-12-31
+0000080661
+pgr:SeniorNotesFourPointTwoZeroPercentDueTwentyFortyEightMember
+2018-03-31
+0000080661
+pgr:SeniorNotesFourPointTwoZeroPercentDueTwentyFortyEightMember
+2025-03-31
+0000080661
+pgr:SeniorNotesFourPointTwoZeroPercentDueTwentyFortyEightMember
+2024-03-31
+0000080661
+pgr:SeniorNotesFourPointTwoZeroPercentDueTwentyFortyEightMember
+2024-12-31
+0000080661
+pgr:SeniorNotesThreePointNineFivePercentDueTwentyFiftyMember
+2020-03-31
+0000080661
+pgr:SeniorNotesThreePointNineFivePercentDueTwentyFiftyMember
+2025-03-31
+0000080661
+pgr:SeniorNotesThreePointNineFivePercentDueTwentyFiftyMember
+2024-03-31
+0000080661
+pgr:SeniorNotesThreePointNineFivePercentDueTwentyFiftyMember
+2024-12-31
+0000080661
+pgr:SeniorNotesThreePointSevenZeroPercentDueTwentyFiftyTwoMember
+2022-03-31
+0000080661
+pgr:SeniorNotesThreePointSevenZeroPercentDueTwentyFiftyTwoMember
+2025-03-31
+0000080661
+pgr:SeniorNotesThreePointSevenZeroPercentDueTwentyFiftyTwoMember
+2024-03-31
+0000080661
+pgr:SeniorNotesThreePointSevenZeroPercentDueTwentyFiftyTwoMember
+2024-12-31
+0000080661
+pgr:DiscretionaryLineofCreditMember
+2025-03-31
+0000080661
+pgr:DiscretionaryLineofCreditMember
+2024-01-01
+2024-12-31
+0000080661
+pgr:DiscretionaryLineofCreditMember
+2024-01-01
+2024-03-31
+0000080661
+pgr:DiscretionaryLineofCreditMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:ShortDurationInsuranceContractAccidentYear2024Member
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:ShortDurationInsuranceContractAccidentYear2023Member
+2025-01-01
+2025-03-31
+0000080661
+pgr:PersonalAutoMember
+pgr:PersonalLinesSegmentMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:PersonalPropertyMember
+pgr:PersonalLinesSegmentMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:ShortDurationInsuranceContractAccidentYear2023Member
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:ShortDurationInsuranceContractAccidentYear2022Member
+2024-01-01
+2024-03-31
+0000080661
+pgr:PersonalAutoMember
+pgr:PersonalLinesSegmentMember
+2024-01-01
+2024-03-31
+0000080661
+pgr:PersonalAutoMember
+pgr:PersonalLinesSegmentMember
+pgr:AgencyChannelMember
+2024-01-01
+2024-03-31
+0000080661
+pgr:CommercialLinesSegmentMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:CashAndCashEquivalentsMember
+2025-03-31
+0000080661
+us-gaap:CashAndCashEquivalentsMember
+2024-03-31
+0000080661
+us-gaap:CashAndCashEquivalentsMember
+2024-12-31
+0000080661
+us-gaap:OperatingSegmentsMember
+pgr:UnderwritingOperationsMember
+pgr:PersonalLinesSegmentMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:OperatingSegmentsMember
+pgr:UnderwritingOperationsMember
+pgr:CommercialLinesSegmentMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:OperatingSegmentsMember
+pgr:UnderwritingOperationsMember
+pgr:OtherIndemnitySegmentMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:OperatingSegmentsMember
+pgr:UnderwritingOperationsMember
+pgr:PersonalLinesSegmentMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:OperatingSegmentsMember
+pgr:UnderwritingOperationsMember
+pgr:CommercialLinesSegmentMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:OperatingSegmentsMember
+pgr:UnderwritingOperationsMember
+pgr:OtherIndemnitySegmentMember
+2024-01-01
+2024-03-31
+0000080661
+pgr:UnderwritingOperationsMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:UnderwritingOperationsMember
+2024-01-01
+2024-03-31
+0000080661
+pgr:O2024ADividendsMember
+2025-01-01
+2025-01-31
+0000080661
+pgr:O2023ADividendsMember
+2024-01-01
+2024-01-31
+0000080661
+pgr:O2025Q1DividendsMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:CommonStockMember
+pgr:O2025Q1DividendsMember
+2025-03-31
+0000080661
+pgr:O2024Q4DividendsMember
+2025-01-01
+2025-01-31
+0000080661
+pgr:O2024Q1DividendsMember
+2024-04-01
+2024-04-30
+0000080661
+pgr:O2023Q4DividendsMember
+2024-01-01
+2024-01-31
+0000080661
+2024-02-01
+2024-02-29
+0000080661
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-12-31
+0000080661
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0000080661
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0000080661
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-03-31
+0000080661
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-03-31
+0000080661
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-03-31
+0000080661
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-31
+0000080661
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-12-31
+0000080661
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-12-31
+0000080661
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+0000080661
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-01
+2024-03-31
+0000080661
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-03-31
+0000080661
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-03-31
+0000080661
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-03-31
+0000080661
+pgr:OfficerTradingArrangementMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:AndrewJ.QuiggMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:StevenA.BrozMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:LoriNiederstMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:SusanPatriciaGriffithMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:RemiKentMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:JohnMurphyMember
+2025-01-01
+2025-03-31
+0000080661
+pgr:StevenA.BrozMember
+2025-03-31
+0000080661
+pgr:SusanPatriciaGriffithMember
+2025-03-31
+0000080661
+pgr:RemiKentMember
+2025-03-31
+0000080661
+pgr:JohnMurphyMember
+2025-03-31
+0000080661
+pgr:LoriNiederstMember
+2025-03-31
+0000080661
+pgr:AndrewJ.QuiggMember
+2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+For the quarterly period ended
+March 31, 2025
+or
+For the transition period from
+to
+Commission File Number:
+001-09518
+THE PROGRESSIVE CORPORATION
+(Exact name of registrant as specified in its charter)
+(
+440
+)
+461-5000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒
+Yes
+☐
+No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒
+Yes
+☐
+No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐
+Yes
+☒
+No
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+Common Shares, $1.00 par value:
+586,223,643
+outstanding at April 30, 2025
+PART I—FINANCIAL INFORMATION
+Item 1. Financial Statements.
+The Progressive Corporation and Subsidiaries
+Consolidated Statements of Comprehensive Income
+(unaudited)
 1
-Twitter
+All of our outstanding Serial Preferred Shares, Series B, were redeemed in February 2024.
+See notes to consolidated financial statements.
+1
+The Progressive Corporation and Subsidiaries
+Consolidated Balance Sheets
+(unaudited)
+1
+Consists solely of long-term debt. See
+Note 4 – Debt
+for further discussion.
+See notes to consolidated financial statements.
 2
-Facebook
-3
-RSS
-4
-YouTube
+The Progressive Corporation and Subsidiaries
+Consolidated Statements of Changes in Shareholders’ Equity
+(unaudited)
+1
+See
+Note 9 – Dividends
+for further discussion.
+There are
+20
+million Serial Preferred Shares authorized. There are
 5
-Flickr
+million Voting Preference Shares authorized;
+no
+such shares have been issued.
+See notes to consolidated financial statements.
+3
+The Progressive Corporation and Subsidiaries
+Consolidated Statements of Cash Flows
+(unaudited)
+See notes to consolidated financial statements.
+4
+The Progressive Corporation and Subsidiaries
+Notes to Consolidated Financial Statements
+(unaudited)
+1.
+BASIS OF REPORTING AND ACCOUNTING
+The accompanying consolidated financial statements include the accounts of The Progressive Corporation and our wholly owned insurance subsidiaries and non-insurance subsidiaries and affiliates in which we have a controlling financial interest (Progressive).
+The consolidated financial statements reflect all normal recurring adjustments that, in the opinion of management, were necessary for a fair statement of the results for the interim periods presented. The results of operations for the period ended March 31, 2025, are not necessarily indicative of the results expected for the full year. These consolidated financial statements and the notes thereto should be read in conjunction with Progressive’s audited financial statements and accompanying notes included in Exhibit 13 to our Annual Report on Form 10-K for the year ended December 31, 2024 (2024 Annual Report to Shareholders).
+Premiums Receivable
+We perform analyses to evaluate our premiums receivable for expected credit losses. See our 2024 Annual Report to Shareholders for a discussion on our premiums receivable allowance for credit loss policy.
+The following table summarizes changes in our allowance for credit loss exposure on our premiums receivable:
+1
+Represents the incremental increase in other underwriting expenses.
+2
+Represents the portion of allowance that is reversed when the premiums receivable balances are written off. Premiums receivable balances are written off once we have exhausted our collection efforts.
+Property – Held for Sale
+At March 31, 2025 and 2024, and December 31, 2024, we had held for sale properties of $
+117
+million, $
+170
+million, and $
+129
+million, respectively, which are included in other assets on our consolidated balance sheets.
+New Accounting Standards
+We did not adopt any new accounting standards during the three months ended March 31, 2025, and there were no recently issued accounting standards that are expected to materially impact our financial condition or results of operations.
+5
+2.
+INVESTMENTS
+The following tables present the composition of our investment portfolio by major security type:
 6
-LinkedIn
+1
+At March 31, 2025 and 2024 and December 31, 2024, we had $
+297
+million, $
+16
+million, and $
+125
+million, respectively, of net unsettled security transactions included in other liabilities.
+The total fair value of the portfolio at March 31, 2025 and 2024 and December 31, 2024, included $
+3.5
+billion, $
+3.2
+billion, and $
+6.2
+billion, respectively, of securities held in a consolidated, non-insurance subsidiary of the holding company, net of unsettled security transactions. A portion of the investments held at December 31, 2024 were sold and proceeds used to pay our common share dividends in January 2025; see
+Note 9 – Dividends
+for additional information.
+The March 31, 2024, corporate and other debt securities in our
+Note 2 – Investments
+and
+Note 3 – Fair Value
+tables include amounts that were previously reported as redeemable preferred stocks. The reclassification was to reflect the accurate categorization based on the underlying features of these securities; see
+Note 2 – Investments
+in our 2024 Annual Report to Shareholders for further discussion.
+At March 31, 2025, bonds and certificates of deposit in the principal amount of $
+785
+million were on deposit to meet state insurance regulatory requirements. We did
+no
+t hold any securities of any one issuer, excluding U.S. government obligations, with an aggregate cost or fair value exceeding
+10%
+of total shareholders’ equity at March 31, 2025 or 2024, or December 31, 2024. At March 31, 2025, we did
+no
+t hold any debt securities that were non-income producing during the preceding 12 months.
+Hybrid Securities
+Certain securities in our fixed-maturity portfolio are accounted for as hybrid securities because they contain embedded derivatives that are not deemed to be clearly and closely related to the host investments. These securities are reported at fair value:
+Since the embedded derivatives (e.g., change-in-control put option, debt-to-equity conversion, or any other feature unrelated to the credit quality or risk of default of the issuer that could impact the amount or timing of our expected future cash flows) do not have observable intrinsic values, we use the fair value option to record the changes in fair value of these securities through income as a component of net realized gains (losses).
 7
-Pinterest
+Fixed Maturities
+The composition of fixed maturities by maturity at March 31, 2025, was:
+Asset-backed securities are classified in the maturity distribution table based upon their projected cash flows. All other securities that do not have a single maturity date are reported based upon expected average maturity. Contractual maturities may differ from expected maturities because the issuers of the securities may have the right to call or prepay obligations.
+Gross Unrealized Losses
+The following tables show the composition of gross unrealized losses by major security type and by the length of time that individual securities have been in a continuous unrealized loss position:
+A review of the securities in an unrealized loss position indicated that the issuers were current with respect to their interest obligations and that there was no evidence of deterioration of the current cash flow projections that would indicate we would not receive the remaining principal at maturity.
+We had
+three
+securities that had their credit ratings downgraded, with a combined fair value of $
+90
+million and an unrealized loss of $
+5
+million as of March 31, 2025. Based on our analysis of these securities, no credit loss allowance was required.
 8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Allowance For Credit and Uncollectible Losses
+We are required to measure the amount of potential credit losses for all fixed-maturity securities in an unrealized loss position. We did
+no
+t record any allowances for credit losses or any write-offs for credit losses deemed to be uncollectible during the first three months of 2025 or 2024, and did
+no
+t have a material credit loss allowance balance as of March 31, 2025 and 2024, or December 31, 2024. We considered several factors and inputs related to the individual securities as part of our analysis. The methodology and significant inputs used to measure the amount of credit losses in our portfolio included:
+•
+current performance indicators on the business model or underlying assets (e.g., delinquency rates, foreclosure rates, and default rates);
+•
+credit support (via current levels of subordination);
+•
+historical credit ratings; and
+•
+updated cash flow expectations based upon these performance indicators.
+In order to determine the amount of credit loss, if any, we initially reviewed securities in a loss position to determine whether it was likely that we would be required, or intended, to sell any of the securities prior to the recovery of their respective cost bases (which could be maturity). If we were likely to, or intended to, sell prior to a potential recovery, we would write off the unrealized loss. We did not have an intention to sell any securities in a gross unrealized loss position at March 31, 2025 or March 31, 2024.
+For those securities that we determined we were not likely to, or did not intend to, sell prior to a potential recovery,
+we performed additional analysis to determine if the loss was credit related. For securities subject to credit-related loss, we calculated the net present value (NPV) of the cash flows expected (i.e., expected recovery value) using the current book yield for each security. The NPV was then compared to the security’s current amortized value to determine if a credit loss existed. In the event that the NPV was below the amortized value, and the amount was determined to be material on any specific security, or in the aggregate, a credit loss would be deemed to exist, and either an allowance for credit losses would be created, or if an allowance currently existed, either a recovery of the previous allowance, or an incremental loss, would be recorded to net realized gains (losses) on securities.
+As of March 31, 2025 and 2024, and December 31, 2024, we believe that none of the unrealized losses on our fixed-maturity securities were related to material credit losses on any specific securities, or in the aggregate. We continue to expect all the securities in our fixed-maturity portfolio to pay their principal and interest obligations.
+In addition, we reviewed our accrued investment income outstanding on those securities in an unrealized loss position at March 31, 2025 and 2024, and December 31, 2024, to determine if the accrued interest amounts were uncollectible. Based on our analysis, we believe the issuers have sufficient liquidity and capital reserves to meet their current interest, and future principal obligations and, therefore, did
+no
+t write off any accrued income as uncollectible at March 31, 2025 and 2024, or December 31, 2024.
+9
+Realized Gains (Losses)
+The components of net realized gains (losses) for the three months ended March 31, were:
+Realized gains (losses) on securities sold are computed using the first-in-first-out method. During the first three months of 2025 and 2024, the majority of our security sales were U.S. Treasury Notes that were sold for duration management. We also selectively sold securities that we viewed as having less attractive risk/reward profiles during the first three months of 2025 and 2024.
+The following table reflects our holding period realized gains (losses) recognized on equity securities held at the respective quarter ends:
+10
+Net Investment Income
+The components of net investment income for the three months ended March 31, were:
+On a year-over-year basis, investment income (interest and dividends) increased
+32
+% for the three months ended March 31, 2025, compared to the same
+period last year
+. The increase primarily reflects growth in invested assets and an increase in recurring investment book yield. The book yield increase primarily reflected investing new cash from insurance operations, and proceeds from maturing bonds, in higher coupon rate securities.
+3.
+FAIR VALUE
+We have categorized our financial instruments, based on the degree of subjectivity inherent in the method by which they are valued, into a fair value hierarchy of three levels, as follows:
+•
+Level 1
+: Inputs are unadjusted, quoted prices in active markets for identical instruments at the measurement date (e.g., U.S. government obligations, which are continually priced on a daily basis, active exchange-traded equity securities, and certain short-term securities).
+•
+Level 2
+: Inputs (other than quoted prices included within Level 1) that are observable for the instrument either directly or indirectly. This includes: (i) quoted prices for similar instruments in active markets, (ii) quoted prices for identical or similar instruments in markets that are not active, (iii) inputs other than quoted prices that are observable for the instruments, and (iv) inputs that
+are derived principally from or corroborated by observable market data by correlation or other means.
+•
+Level 3
+: Inputs that are unobservable. Unobservable inputs reflect our subjective evaluation about the assumptions market participants would use in pricing the financial instrument (e.g., certain privately held investments).
+Determining the fair value of the investment portfolio is the responsibility of management. As part of that responsibility, we evaluate whether a market is distressed or inactive in determining the fair value for our portfolio. We review certain market level inputs to evaluate whether sufficient activity, volume, and new issuances exist to create an active market. Based on this evaluation, we concluded that there was sufficient activity related to the sectors and securities for which we obtained valuations.
+11
+The composition of the investment portfolio by major security type and our outstanding debt was:
+12
+Our portfolio valuations, excluding short-term investments, classified as either Level 1 or Level 2 in the above tables are priced exclusively by external sources, including pricing vendors, dealers/market makers, and exchange-quoted prices.
+Our short-term investments classified as Level 1 are highly liquid, actively marketed, and have a very short duration, primarily 90 days or less to redemption. These securities are held at their original cost, adjusted for any accretion of discount, since that value very closely approximates what
+an active market participant would be willing to pay for such securities. The remainder of our short-term investments are classified as Level 2 and are not priced externally since these securities continually trade at par value. These securities are classified as Level 2 since they are primarily longer-dated securities issued by municipalities that contain either liquidity facilities or mandatory put features within one year.
+At both March 31, 2025 and December 31, 2024, vendor-quoted prices represented
+93
+% of our Level 1 classifications (excluding short-term investments), compared to
+92
+% at March 31, 2024. The securities quoted by vendors in Level 1 primarily represent our holdings in U.S. Treasury Notes, which are frequently traded, and the quotes are considered similar to exchange-traded quotes. The balance of our Level 1 pricing comes from quotes obtained directly from trades made on active exchanges.
+At March 31, 2025 and 2024 and December 31, 2024, vendor-quoted prices comprised
+100
+% of our Level 2
+classifications (excluding short-term investments). In our process for selecting a source (e.g., dealer or pricing service) to provide pricing for securities in our portfolio, we reviewed documentation from the sources that detailed the pricing techniques and methodologies used by these sources and determined if their policies adequately considered market activity, either based on specific transactions for the particular security type or based on modeling of securities with similar credit quality, duration, yield, and structure that were recently transacted. Once a source is chosen, we continue to monitor any changes or modifications to their processes by reviewing their documentation on internal controls for pricing and market reviews. We review quality control measures of our sources as they become available to determine if any significant changes have occurred from period to period that might indicate issues or concerns regarding their evaluation or market coverage.
+As part of our pricing procedures, we obtain quotes from more than one source to help us fully evaluate the market price of securities. However, our internal pricing policy is to use a consistent source for individual securities in order to maintain the integrity of our valuation process. Quotes obtained from the sources are not considered binding offers to transact. Under our policy, when a review of the valuation received from our selected source appears to be outside of what is considered market level activity (which is defined as trading at spreads or yields significantly different than those of comparable securities or outside the general sector level movement without a reasonable explanation), we may use an alternate source’s price. To
+13
+the extent we determine that it may be prudent to substitute one source’s price for another, we will contact the initial source to obtain an understanding of the factors that may be contributing to the significant price variance.
+To allow us to determine if our initial source is providing a price that is outside of a reasonable range, we review our portfolio pricing on a weekly basis. When necessary, we challenge prices from our sources when a price provided does not match our expectations based on our evaluation of market trends and activity. Initially, we perform a review of our portfolio by sector to identify securities whose prices appear outside of a reasonable range. We then perform a more detailed review of fair values for securities disclosed as Level 2. We review dealer bids and quotes for these and/or similar securities to determine the market level context for our valuations. We then evaluate inputs relevant for each class of securities disclosed in the preceding hierarchy tables.
+For structured debt securities, including commercial, residential, and other asset-backed securities, we evaluate available market-related data for these and similar securities related to collateral, delinquencies, and defaults for historical trends and reasonably estimable projections, as well as historical prepayment rates and current prepayment assumptions and cash flow estimates. We further stratify each class of structured debt securities into more finite sectors (e.g., planned amortization class, first pay, second pay, senior, and subordinated) and use duration, credit quality, and coupon to determine if the fair value is appropriate.
+For corporate and other debt, nonredeemable preferred stock, and the notes issued by The Progressive Corporation (see
+Note 4 – Debt
+), we review securities by duration, credit quality, and coupon, as well as changes in interest rate and credit spread movements within that stratification. The review also includes recent trades, including: volume traded at various levels that establish a market; issuer specific fundamentals; and industry-specific economic news as it comes to light.
+For municipal securities (e.g., general obligations, revenue, and housing), we stratify the portfolio to evaluate securities by type, duration, credit quality, and coupon to review price changes relative to credit spread and interest rate changes. Additionally, we look to economic data as it relates to geographic location as an indication of price-to-call or maturity predictors. For municipal housing securities, we look to changes in cash flow projections, both historical and reasonably estimable projections, to understand yield changes and their effect on valuation.
+For short-term securities, we look at acquisition price relative to the coupon or yield. Since our short-term securities are typically 90 days or less to maturity, with the majority listed in Level 2 being 30 days or less to redemption, we believe that acquisition price is the best estimate of fair value.
+We also review data assumptions as supplied by our sources to determine if that data is relevant to current
+market conditions. In addition, we independently review each sector for transaction volumes, new issuances, and changes in spreads, as well as the overall movement of interest rates along the yield curve to determine if sufficient activity and liquidity exists to provide a credible source for our market valuations.
+During each valuation period, we create internal estimations of portfolio valuation (performance returns), based on current market-related activity (i.e., interest rate and credit spread movements and other credit-related factors) within each major sector of our portfolio. We compare our internally generated portfolio results with those generated based on quotes we receive externally and research material valuation differences. We compare our results to index returns for each major sector adjusting for duration and credit quality differences to better understand our portfolio’s results. Additionally, we review on a monthly basis our external sales transactions and compare the actual final market sales prices to previous market valuation prices. This review provides us further validation that our pricing sources are providing market level prices, since we are able to explain significant price changes (i.e., greater than 2%) as known events occur in the marketplace and affect a particular security’s price at sale.
+This analysis provides us with additional comfort regarding the source’s process, the quality of its review, and its willingness to improve its analysis based on feedback from clients. We believe this effort helps ensure that we are reporting the most representative fair values for our securities.
+After all the valuations are received and our review of Level 2 securities is complete, if the inputs used by vendors are determined to not contain sufficient observable market information, we will reclassify the affected securities to Level 3.
+Except as described below, our Level 3 securities are priced externally; however, due to several factors (e.g., nature of the securities, level of activity, and lack of similar securities trading to obtain observable market level inputs), these valuations are more subjective in nature.
+To the extent we receive prices from external sources (e.g., broker and valuation firm) for the Level 3 securities, we review those prices for reasonableness using internally developed assumptions and then compare our derived prices to the prices received from the external sources. Based on our review, all prices received from external sources remained unadjusted.
+If we do not receive prices from an external source, we perform an internal fair value comparison, which includes a review and analysis of market-comparable securities, to determine if fair value changes are needed. Based on this analysis, certain private equity investments included in the
+14
+Level 3 category remain valued at cost or were priced using a recent transaction as the basis for fair value. At least annually, these private equity investments are priced by an external source.
+Our Level 3 other risk investments include securities accounted for under the equity method of accounting and, therefore, are not subject to fair value reporting. Since these securities represent less than 0.1% of our total portfolio, we include them in our Level 3 disclosures and report the activity from these investments as “other” changes in the summary of changes in fair value table and
+categorize these securities as “pricing exemption securities” in the quantitative information table.
+During the first three months of 2025 and for the full year of 2024, there were no material assets or liabilities measured at fair value on a nonrecurring basis.
+Due to the relative size of the Level 3 securities’ fair values, compared to the total portfolio’s fair value, any changes in pricing methodology would not have a significant change in valuation that would materially impact net or comprehensive income.
+The following tables provide a summary of changes in fair value associated with Level 3 assets for the three months ended March 31, 2025 and 2024:
+1
+For fixed maturities, these amounts are included in accumulated other comprehensive income (loss) on our consolidated balance sheets. For equity securities, these amounts are included in our consolidated statements of comprehensive income.
+15
+The following tables provide a summary of the quantitative information about Level 3 fair value measurements for our applicable securities at March 31, 2025 and 2024, and December 31, 2024:
+16
+4.
+DEBT
+Debt at each of the balance sheet periods consisted of the following Senior Notes:
+There was
+no
+short-term debt outstanding as of the end of all periods presented.
+The Progressive Corporation has a line of credit with PNC Bank, National Association (PNC), in the maximum principal amount of $
+300
+million. See the 2024 Annual Report to Shareholders for a discussion of the terms of this line of credit. We had
+no
+borrowings under the line of credit that was available during the periods presented.
+17
+5.
+INCOME TAXES
+The effective tax rate for the three months ended March 31, 2025 and 2024, was
+20.7
+%
+.
+Deferred income taxes reflect the tax effects of temporary differences between the financial statement carrying amounts and the tax bases of assets and liabilities. Although realization of the deferred tax assets is not assured, management believes that it is more likely than not that the deferred tax assets will be realized based on our expectation that we will be able to fully utilize the deductions that are ultimately recognized for tax purposes and, therefore,
+no
+valuation allowance was needed at March 31, 2025 and 2024, and December 31, 2024.
+We had net current income taxes payable of
+$
+838
+million
+, $
+962
+million,
+and
+$
+26
+million at March 31, 2025 and 2024, and December 31, 2024, respectively, which were reported in accounts payable, accrued expenses, and other liabilities on our consolidated balance sheets. The balance may fluctuate from period to period due to normal timing differences.
+At March 31, 2025 and 2024, and December 31, 2024, we have
+not
+recorded any unrecognized tax benefits or related interest and penalties.
+6.
+LOSS AND LOSS ADJUSTMENT EXPENSE RESERVES
+Activity in the loss and loss adjustment expense reserves is summarized as follows:
+We experienced favorable reserve development of $
+278
+million and $
+11
+million during the first three months of 2025 and 2024, respectively, which is reflected as “incurred related to prior years
+”
+in the table above.
+First Quarter 2025
+•
+The favorable prior year reserve development included approximately $
+180
+million attributable to accident year 2024, $
+90
+million to accident year 2023, and the remainder to accident years 2022 and prior.
+•
+Our perso
+nal auto products incurred about $
+260
+million of favorable loss and loss adjustment expense (LAE) reserve development, with the agency and direct auto businesses each contributing about half. The favorable development was primarily due to lower than anticipated loss severity and frequency in Florida.
+•
+Our personal property products experienced about $
+30
+million of favorable development, primarily attributable to favorable development on 2024 catastrophe events.
+First Quarter 2024
+•
+The favorable prior year reserve development included approximately $
+50
+million of favorable development attributable to accident year 2023 and $
+15
+million to accident year 2022; partially offset by unfavorable development attributable to accident years 2021 and prior.
+•
+Our personal auto products incurred about $
+100
+million of favorable loss and LAE reserve development, in part due to lower than anticipated frequency in Florida following tort reform that passed in the first quarter 2023, with about
+60
+% attributable to the agency auto business and the balance in the direct auto business.
+•
+Our Commercial Lines business experienced about $
+70
+million of unfavorable development, primarily driven by higher than anticipated severity in our commercial auto business for California and New York.
+18
+7.
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash and cash equivalents include bank demand deposits and daily overnight reverse repurchase commitments of funds held in bank demand deposit accounts by certain subsidiaries. The amount of overnight reverse repurchase commitments, which are not considered part of the investment portfolio, held by these subsidiaries at March 31, 2025 and 2024, and December 31, 2024, were $
+78
+million, $
+108
+million, and $
+127
+million, respectively. Restricted cash and restricted cash equivalents include collateral held against unpaid deductibles and cash that is restricted to pay flood claims under the National Flood Insurance Program’s “Write Your Own” program, for which certain subsidiaries are participants.
+Non-cash activity included the following in the respective periods:
+1
+Declared but unpaid. See
+Note 9 – Dividends
+for further discussion.
+2
+From obtaining right-of-use assets.
+In the respective periods, we paid the following:
+8.
+SEGMENT INFORMATION
+Our Personal Lines segment writes insurance for personal autos, special lines products (e.g., recreational vehicles, such as motorcycles, RVs, and watercraft), personal residential property insurance for homeowners and renters, umbrella insurance, and flood insurance through the “Write Your Own” program for the National Flood Insurance Program. Property information for the three months ended March 31, 2024, was recast to conform to the current year presentation; see
+Note 10 – Segment Information
+in our 2024 Annual Report to Shareholders for further discussion.
+Our Commercial Lines segment writes auto-related liability and physical damage insurance, business-related
+general liability and commercial property insurance predominately for small businesses, and workers’ compensation insurance primarily for the transportation industry.
+Our service businesses provide insurance-related services, including serving as an agent for homeowners, general liability, and workers’ compensation insurance, among other products, through programs in our direct Personal Lines and Commercial Lines businesses. All segment revenues are generated from external customers; all intercompany transactions are eliminated in consolidation.
+19
+Following are the operating results for the respective periods:
+1
+Includes other underwriting businesses and run-off operations.
+2
+Includes policy acquisition costs, agents’ contingent commissions, and advertising costs attributable to our operating segments. A portion of our companywide advertising costs are also related to our service businesses.
+3
+Primarily consists of employee compensation and benefit costs, and the increase in the allowance for credit loss exposure on our premiums receivable.
+4
+Calculated as recurring investment income plus total net realized gains (losses) on securities, less investment expenses.
+20
+Our management uses underwriting margin and combined ratio as primary measures of underwriting profitability. The underwriting margin is the pretax underwriting profit (loss) expressed as a percentage of net premiums earned. Pretax underwriting profit (loss) is calculated as net premiums earned plus fees and other revenues, less: (i) losses and loss adjustment expenses; (ii) policy acquisition costs; and (iii) other underwriting expenses. Combined ratio is the complement of the underwriting margin. Fees and other revenues are netted against either loss adjustment expenses or underwriting expenses in the ratio calculations, based on the underlying activity that generated the revenue.
+Following are the underwriting margins and combined ratios for our underwriting operations for the respective periods:
+9.
+DIVIDENDS
+Following is a summary of our common and preferred share dividends that were declared and/or paid during the three months ended March 31, 2025 and 2024:
+1
+The accrual is based on an estimate of shares outstanding as of the record date and recorded as a component of accounts payable, accrued expenses, and other liabilities on our consolidated balance sheets until paid.
+2
+In February 2024, we redeemed all of our outstanding Serial Preferred Shares, Series B.
+21
+10.
+OTHER COMPREHENSIVE INCOME (LOSS)
+The components of other comprehensive income (loss), including reclassification adjustments by income statement line item, were as follows:
+In an effort to manage interest rate risk, we entered into forecasted transactions on certain of Progressive’s debt issuances. During the next 12 months, we expect to reclassify $
+1
+million (pretax) into interest expense, related to net unrealized losses on forecasted transactions (see
+Note 4 – Debt
+in our 2024 Annual Report to Shareholders for further discussion).
+22
+11.
+LITIGATION
+The Progressive Corporation and/or its insurance subsidiaries are named as defendants in various lawsuits arising out of claims made under insurance policies written by our insurance subsidiaries in the ordinary course of business. We consider all legal actions relating to such claims in establishing our loss and loss adjustment expense reserves.
+In addition, The Progressive Corporation and/or its insurance subsidiaries are named as defendants in a number of class action or individual lawsuits that challenge certain of the operations of the subsidiaries. The nature and volume of litigation pending against The Progressive Corporation and/or its insurance subsidiaries is similar to that which was disclosed in
+Note 12 – Litigation
+in our 2024 Annual Report to Shareholders.
+As of March 31, 2025, lawsuits have been certified or conditionally certified as class/collective actions in cases alleging that: we improperly value total loss claims by applying a negotiation adjustment in Alabama, Arkansas, Colorado, Georgia, Indiana, New York, Ohio, Pennsylvania, and South Carolina; we improperly fail to pay fees and taxes associated with total losses in Michigan; we improperly calculate basic economic loss as it relates to wage loss coverage in New York; we improperly reduce or deny personal injury protection benefits when medical expenses are paid initially by health insurance in Arkansas; and we sell illusory underinsured motorist coverage in New Mexico. Other insurance companies face many of these same issues. We plan to contest the pending lawsuits vigorously, but may pursue settlement negotiations in some cases, as we deem appropriate.
+Lawsuits arising from insurance policies and operations, including but not limited to allegations involving claims adjustment and vehicle valuation, may be filed
+contemporaneously in multiple states. As of March 31,
+2025, we are named as defendants in class action lawsuits
+pending in multiple states alleging that we improperly value total loss vehicle physical damage claims through the application of a negotiation adjustment in calculating such valuations, which includes
+nine
+states in which classes have been certified, as noted above, and lawsuits styled as putative class actions pending in additional states. These lawsuits, which were filed at different times by different plaintiffs, feature certain similar claims and also include different allegations and are subject to various state laws. While we believe we have meritorious defenses and we are vigorously contesting these lawsuits, an unfavorable result in, or a settlement of, a significant number of these lawsuits could, in aggregation, have a material adverse effect on our financial condition, cash flows, and/or results of operations. Based on information available to us, we determined that losses from these lawsuits are reasonably possible but neither probable nor reasonably estimable, other than for suits for which accruals have been established and are not material, as of March 31, 2025.
+With respect to our pending lawsuits that are not related to claims under insurance policies, the accruals that we have established were not material at March 31, 2025 and 2024, or December 31, 2024, and there were no material settlements during 2024 or the first three months of 2025. For most of these lawsuits, we do not consider any losses to be both probable and estimable, and we are unable to estimate a meaningful range of loss, if any, at this time, due to the factors discussed in
+Note 12 – Litigation
+in our 2024 Annual Report to Shareholders. In the event that any one or more of these lawsuits results in a substantial judgment against us, or settlement by us, or if our accruals (if any) prove to be inadequate, the resulting liability could have a material adverse effect on our consolidated financial condition, cash flows, and/or results of operations. For a further discussion on our pending litigation and related reserving policies, see
+Note 1 – Reporting and Accounting Policies
+and
+Note 12 – Litigation
+in our 2024 Annual Report to Shareholders.
+23
+ITEM 2.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+I.  OVERVIEW
+The Progressive Corporation’s insurance subsidiaries recognized substantial year-over-year growth in both premiums and policies in force during the first quarter 2025, compared to the same period last year, while maintaining an underwriting profit better than our 4% companywide calendar-year underwriting profit goal.
+We wrote $22.2 billion of net premiums written during the first quarter 2025, which was $3.2 billion more than we generated during the same period last year, and reported an underwriting profit margin of 14.0%. During the first three months of 2025, companywide net premiums written and earned increased 17% and 20%, respectively, compared to the same period last year, and policies in force increased 18%. Companywide policies in force grew by 1.3 million policies since December 31, 2024, and by 5.5 million since March 31, 2024, to end the first quarter 2025 with 36.3 million policies in force.
+Our Personal Lines segment experienced strong year-over-year growth for the first quarter 2025, with net premiums written increasing 20% and policies in force up 18%, compared to the same period in the prior year. This growth was primarily in our personal auto products and reflects new application growth mainly attributable to increased advertising spend and our continued efforts to work closely with our independent agents and to leverage our agent compensation program to reward writing profitable business.
+In Commercial Lines, we experienced solid growth with net premiums written up 5% and policies in force up 6%, during the first quarter 2025, compared to the same period last year. The growth in Commercial Lines premiums written primarily reflected the renewal of certain transportation network company (TNC) business policies that have higher rates and projected mileage, which is the basis for computing premiums, than the policies that renewed in the first quarter 2024.
+During the first quarter 2025, on a countrywide basis, we increased personal auto rates less than 1% and increased our personal property rates about 2%, in the aggregate. In our core commercial auto businesses (which excludes our TNC business, our Progressive Fleet & Specialty Programs (Fleet & Specialty) products, and our business owners’ policy (BOP) product), we increased rates in the aggregate about 1% during the first quarter 2025. We currently believe we are adequately priced in our personal auto products in most states and will continue to monitor the impact from tariffs and potential changes in the regulatory environment. We expect both the personal property and core commercial auto products to have near double-digit rate increases through the remainder of 2025.
+Starting in the first quarter 2025, the U.S. government announced additional tariffs on goods imported into the U.S. from numerous countries, which have, in response, resulted in additional tariffs against the U.S. We regularly model the potential impact tariffs could have on vehicle loss costs, the supply chain, the availability of parts, and general inflation, among other factors, although the dynamic international trade environment currently prevents us from accurately predicting how tariffs will ultimately impact our business. While our focus has been on trying to maintain stable rates for customers, tariffs and other retaliatory actions will likely result in higher loss costs, which could result in a reduction in profitability and higher than currently anticipated rate increases throughout 2025 and 2026.
+For the first quarter 2025, the year-over-year increase in net income primarily reflected an increase in underwriting income. The increase in recurring investment income, was offset by net realized losses during the first quarter 2025, compared to net realized gains in the same period last year.
+Comprehensive income increased $1.3 billion over the first quarter last year, which was primarily driven by a $0.9 billion decrease in net unrealized losses on our fixed-maturity securities, compared to a $0.2 billion net unrealized loss increase in the same period last year. The change in the unrealized losses we recognized during both periods were primarily driven by the then-current economic environment.
+At March 31, 2025, total capital (debt plus shareholders’ equity) was $35.8 billion, which was an increase of $3.4 billion from year-end 2024, primarily due to the $3.5 billion of comprehensive income earned in the first quarter 2025.
+A. Insurance Operations
+Our underwriting profit margin was 14.0% during the first quarter 2025, compared to 13.9% during the first quarter 2024. Our Personal Lines and Commercial Lines operating segments both generated strong profitability for the first three months of 2025. While underwriting profitability was relatively flat on a year-over-year basis, for the first quarter 2025, our companywide loss and loss adjustment expense (LAE) ratio decreased 2.0 points, which was mostly offset by a 1.9 point increase in the expense ratio. The decrease in the loss and LAE ratio was primarily driven by favorable prior accident years reserve development and decreased incurred personal and commercial auto accident frequency. The increase in our companywide expense ratio during the first quarter 2025 primarily reflected increased advertising expense. During the first quarter 2025, our advertising spend was $1.3 billion, which was 86%, or 2.3 points, greater than the first quarter last year.
+24
+We closely manage our expenses, monitoring both acquisition expenses and non-acquisition expenses, which we view as an important measure of operational efficiency as we seek to deliver our most competitive rates to consumers. We will continue to advertise to maximize growth as long as the advertising spend is efficient and we remain on track to achieve our calendar-year profitability goal.
+Our Personal Lines segment is comprised of our personal vehicle and property products. Personal Lines vehicles include both personal auto and special lines products. Our Personal Lines profitability for the first quarter 2025 was 14.3%, with personal vehicle and property products reporting 14.3% and 12.8%, respectively. In total, our special lines products, which are generally used less in cold weather months, had about a 1 point favorable impact on our total personal vehicle combined ratio for the first quarter 2025.
+Our Commercial Lines segment includes our core commercial auto products, TNC business, Fleet & Specialty products, and BOP product. Our total Commercial Lines underwriting profitability for the first quarter 2025 was 12.5%.
+During the first quarter 2025, our personal auto and core commercial auto businesses’ profitability benefited from higher average earned premium per policy, lower incurred loss frequency trends, and, in personal auto, favorable prior accident years reserve development.
+For the first quarter 2025, both segments generated strong net premiums written growth. Personal Lines net premiums written grew 20%, with the agency and direct personal vehicle businesses growing 17% and 25%, respectively, while personal property premium growth was flat. Commercial Lines net premiums written grew 5%.
+Changes in net premiums written are a function of new business applications (i.e., policies sold), business mix, premium per policy, and retention.
+During the first quarter 2025, we experienced a significant increase in total Personal Lines new business applications, primarily driven by increases in our personal vehicle products, due to increased advertising spend, our efforts to get back into the independent agents’ quote flows, and our competitiveness in the marketplace. New personal auto applications increased 32% during the first quarter 2025, compared to the same period in the prior year.
+In our personal property business, significant growth in new applications in our renters policies was offset by declines in our homeowners, condo, and dwelling products. The new application growth in our homeowners/condo products was down just over 55% on a year-over-year basis for the first quarter 2025, with decreases in both less volatile weather-related states and in the more volatile
+weather-related markets (e.g., coastal and hail-prone states).
+During the first quarter 2025, in our personal property business, we continued to focus on improving profitability and reducing exposure in more volatile weather-related markets, and, where permitted, on slowing growth and non-renewing policies. We prioritized insuring lower-risk properties (e.g., new construction, existing homes with newer roofs), accepting new business for homeowners/condo products only when bundled with a Progressive personal auto policy, where permitted, and continued to exit the non-owner-occupied home market. In addition, we expanded our cost sharing through mandatory wind and hail deductibles and roof depreciation schedules in markets where permitted. We plan to continue these actions during the remainder of 2025 in the more volatile weather-related markets and will continue to assess rate adequacy, at the state level, to determine readiness for new business growth.
+Total Commercial Lines net premiums written growth primarily reflected the renewal of certain of our TNC policies, due to rate increases and higher projected mileage for 2025, compared to 2024, which is the basis for computing premiums. Net premiums written growth for our core commercial auto products, which excludes the impact of the TNC renewal, was flat on a year-over-year basis.
+New applications in our core commercial auto business increased 8% during the first quarter 2025, compared to the same period last year, primarily due to an increase in quote volume and improved conversion in all of our business market targets (BMT), other than for-hire transportation and for-hire specialty, as discussed below. Excluding the impact of the for-hire transportation and specialty BMTs, which had a year-over-year decrease in new applications, our core commercial auto new application growth would have been 15% during the first quarter 2025. The for-hire transportation BMT continued to be adversely impacted by challenging freight market conditions that have caused a decline in the active number of motor carriers in this BMT.
+During the first quarter 2025, on a year-over-year basis, average written premium per policy was flat in personal auto and decreased 10% and 6% in our personal property and core commercial auto products, respectively. In aggregate, we took minimal personal auto rate increases during the first quarter 2025 on a companywide basis.
+The decrease in personal property average written premium per policy was due to a shift in the mix of business to more renters policies, which have lower average written premiums, and our continued focus on slowing growth in more volatile weather-related markets, which generally have higher risk and, therefore, higher average premiums per policy. These mix shifts in our personal property business were partially offset by aggregate rate increases of 15% taken over the last 12 months and higher premium coverages reflecting increased property values.
+25
+The decrease in average written premium per policy in our core commercial auto products was due to a shift in the mix of business, primarily driven by decreased demand in our for-hire transportation BMT and, to a lesser extent, the for-hire specialty BMT, partially offset by rate increases of about 6%, in the aggregate, over the trailing 12 months. Given that our personal property and commercial auto policies are predominately written for 12-month terms, rate actions take longer to earn into premium for these products.
+We will continue to monitor the factors that could impact our loss costs for both segments, which may include tariffs, as discussed above, new and used car prices, miles driven, driving patterns, loss severity, weather events, building materials, construction costs, inflation, and other factors, on a state-by-state basis.
+We believe a key element in improving the accuracy of our personal auto rating is Snapshot
+®
+, our usage-based insurance offering. During the first quarter 2025, the personal auto adoption rates for consumers enrolling in the program decreased 1% in agency and increased 9% in direct, compared to the same period last year. The increase in the direct adoption rate primarily reflected enhancements in the direct quoting process, in addition to the continued rollout of our newest Snapshot model. Snapshot is available in all states, other than California, and our latest segmentation model was available in states that represented 78% of our countrywide personal auto net premiums written (excluding California) on a trailing 12-month basis at quarter end. We continue to invest in our mobile application, with the majority of new enrollments choosing mobile devices for Snapshot monitoring.
+We realize that to grow policies in force, it is critical that we retain our customers for longer periods. Consequently, increasing retention continues to be one of our most important priorities. Our efforts to increase our share of Progressive auto and personal property bundled households (i.e., Robinsons) remains a key initiative, and we plan to continue to make investments to improve the customer experience in order to support that goal. Policy life expectancy, which is our actuarial estimate of the average length of time that a policy will remain in force before cancellation or lapse in coverage, is our primary measure of customer retention in our Personal Lines and Commercial Lines businesses.
+In personal auto, we evaluate personal auto retention using a trailing 12-month and a trailing 3-month policy life expectancy. Although the latter can reflect more volatility and is more sensitive to seasonality, we believe this measure is more responsive to current experience and may be an indicator for the future trend of our 12-month measure. Our trailing 12-month total personal auto policy life expectancy was down 5% year over year for the first quarter 2025. On a trailing 3-month basis, our personal auto policy life expectancy was down 6% for the first
+quarter 2025, compared to the same period last year, which we believe is due to increased shopping and the competitiveness in the marketplace.
+Our trailing 12-month policy life expectancy was down 17% for our personal property products. Our personal property retention decreased primarily as a result of a mix shift to more renters policies, which generally have a lower policy life expectancy, our actions to non-renew certain policies, and rate increases.
+For our core commercial auto products, our trailing 12-month policy life expectancy decreased 6%, compared to the prior year. While still below the prior year, the policy life expectancy has experienced sequential month-over-month improvement since the end of the third quarter 2024, which we believe is due to the moderation of our rate increases, compared to competitor rate increases, improving our competitiveness in the marketplace. The decrease in the core commercial auto policy life expectancy was across all BMTs, except tow, which reflected rate actions taken in 2023 and 2024, as well as the continued decrease in demand in the for-hire transportation BMT.
+B. Investments
+The fair value of our investment portfolio was $83.7 billion at March 31, 2025, compared to $80.3 billion at December 31, 2024. The increase from year-end 2024 reflected positive cash flows from insurance operations and investment returns, partially offset by the payment of our annual variable common share dividend.
+Our asset allocation strategy is to maintain 0%-25% of our portfolio in Group I securities, with the balance (75%-100%) of our portfolio in Group II securities (the securities allocated to Group I and II are defined below under
+Results of Operations – Investments
+). At March 31, 2025 and December 31, 2024, 5% and 6%, respectively, of our portfolio was allocated to Group I securities with the remainder to Group II securities.
+Our recurring investment income generated a pretax book yield of 4.1% for the first quarter 2025, compared to 3.7% for the same period in 2024. The increase from prior year primarily reflected investing new cash from insurance operations, and proceeds from maturing bonds, in higher coupon rate securities. Our investment portfolio produced a fully taxable equivalent (FTE) total return of 2.2% and 0.8% for the first quarter 2025 and 2024, respectively. Our fixed-income and common stock portfolios had FTE total returns of 2.5% and (5.0)%, respectively, for the first quarter 2025, compared to 0.3% and 9.9%, respectively, last year. The increase in the fixed-income portfolio FTE total return primarily reflected movements in Treasury yields year-over-year. The decrease in the common stock portfolio FTE total return reflected general market conditions.
+26
+At March 31, 2025 and 2024, and December 31, 2024, the fixed-income portfolio had a weighted average credit quality of AA-. At March 31, 2025, the fixed-income portfolio duration was 3.4 years, compared to 3.2 years at March 31, 2024, and 3.3 years at December 31, 2024. During 2025, we increased our duration to take advantage of higher yields in the market.
+At March 31, 2025, we continued to maintain a relatively conservative investment portfolio with a greater allocation to cash and treasuries. We believe that this portfolio allocation positions us well to benefit from the continuing dynamic market environment. We believe that we are in a very strong position as we move into the second quarter of 2025.
+II.  FINANCIAL CONDITION
+A. Liquidity and Capital Resources
+Progressive’s insurance operations create liquidity by collecting and investing premiums from new and renewal business in advance of paying claims, as well as our insurance subsidiaries producing aggregate calendar-year underwriting profits and positive cash flows. As primarily an auto insurer, our claims liabilities generally have a short-term duration.
+Operations generated positive cash flows of $5.1 billion and $4.2 billion for the three months ended March 31, 2025 and 2024, respectively. The increase in operating cash flow for the first three months of 2025, compared to the same period last year, was in part driven by the growth in profit from our underwriting operations. We believe cash flows will remain positive in the foreseeable future and do not expect we will need to raise capital to support our operations in that timeframe, although changes in market or regulatory conditions affecting the insurance industry, or other unforeseen events, may necessitate otherwise.
+As of March 31, 2025, we held $46.9 billion in short-term investments and U.S. Treasury securities, which represented 56% of our total portfolio at quarter end. Based on our portfolio allocation and investment strategies, we believe that we have sufficient readily available marketable securities to cover our claim payments and short-term obligations in the event our cash flows from operations were to be negative. While U.S. Treasury securities are viewed as having lower risk than many other investment opportunities, the U.S. Treasury announced it had reached its authorized borrowing limit and defaults under government obligations, including payments related to U.S. Treasury securities, could occur as soon as this summer. Although not likely probable, it is possible that the federal government could fail to raise the federal debt ceiling to avoid default. Any such default would likely have a material adverse impact on our cash flows and the value of our portfolio and our capital position. See
+Item 1A, Risk Factors
+in our Form 10-K filed with the U.S. Securities and Exchange Commission for the year ended December 31, 2024, for a discussion of certain matters that may affect our portfolio and capital position.
+Our total capital (debt plus shareholders’ equity) was $35.8 billion, based on book value, at March 31, 2025, compared to $28.7 billion at March 31, 2024, and $32.5 billion at
+December 31, 2024. The increase from year-end 2024, primarily reflected the comprehensive income recognized during the first three months of 2025. Our debt-to-total capital ratio was 19.2% at March 31, 2025, 24.0% at March 31, 2024, and 21.2% at December 31, 2024. Our debt-to-total capital ratios were consistent with our financial policy of maintaining a ratio of less than 30%.
+None of the covenants on our existing debt securities include rating or credit triggers that would require an adjustment of interest rate or an acceleration of principal payments in the event that our debt securities are downgraded by a rating agency. In April 2025, we renewed the unsecured discretionary line of credit with PNC Bank, National Association, in the maximum principal amount of $300 million. We did not engage in short-term borrowings, including any borrowings under the line of credit, to fund our operations or for liquidity purposes during the reported periods.
+We seek to deploy capital in a prudent manner and use multiple data sources and modeling tools to estimate the frequency, severity, and correlation of identified exposures, including, but not limited to, catastrophic and other insured losses, natural disasters, and other significant business interruptions, to estimate our potential capital needs.
+During the first three months of 2025, we returned capital to shareholders primarily through common share dividends and common share repurchases. In March 2025, our Board of Directors declared a $0.10 per common share dividend, or $59 million in the aggregate, that was paid in April 2025. In January 2025, we also paid common share dividends declared in the fourth quarter 2024, in the aggregate amount of $2.7 billion, or $4.60 per share (see
+Note 9 – Dividends
+for further discussion).
+Pursuant to our financial policies, we repurchase common shares to neutralize dilution from equity-based compensation granted during the year and opportunistically when we believe our shares are trading below our determination of long-term fair value. During the first three months of 2025, we repurchased 0.2 million common shares, at a total cost of $54 million, to satisfy tax withholding obligations in connection with the vesting of equity awards under our employee equity compensation plans. We will continue to make decisions on returning
+27
+capital to shareholders based on the strength of our overall capital position, the capital strength of our subsidiaries, and potential capital needs of our business.
+At March 31, 2025, we had $3.5 billion in a consolidated, non-insurance subsidiary of the holding company that can be used to fund corporate obligations and provide additional capital to the insurance subsidiaries to fund potential future growth and other opportunities. As of March 31, 2025, our estimated consolidated statutory surplus was $29.6 billion.
+During the first quarter 2025, our contractual obligations and critical accounting policies have not changed materially from those discussed in our 2024 Annual Report to Shareholders. There have not been any material changes in off-balance-sheet leverage, which includes purchase obligations and catastrophe excess of loss reinsurance contracts, from those discussed in our 2024 Annual Report to Shareholders.
+Based upon our capital planning and forecasting efforts, we believe we have sufficient capital resources and cash flows from operations to support our current business, scheduled principal and interest payments on our debt, anticipated quarterly dividends on our common shares, our contractual obligations, and other expected capital requirements for the foreseeable future.
+Nevertheless, we may decide to raise additional capital to take advantage of attractive terms in the market and provide additional financial flexibility. We currently have an effective shelf registration with the U.S. Securities and Exchange Commission so that we may periodically offer and sell an indeterminate aggregate amount of senior or subordinated debt securities, preferred stock, depository shares, common stock, purchase contracts, warrants, and units. The shelf registration enables us to raise funds, subject to market conditions, from the offering of any securities covered by the shelf registration as well as any combination thereof.
+III.  RESULTS OF OPERATIONS – UNDERWRITING
+A. Segment Overview
+We report our underwriting operations in two segments: Personal Lines and Commercial Lines. Our Personal Lines segment writes insurance for personal vehicles, which include personal auto and special lines products (e.g., recreational vehicles, such as motorcycles, RVs, and watercraft), personal residential property insurance for homeowners and renters, umbrella insurance, and flood insurance through the “Write Your Own” program for the National Flood Insurance Program. Since our personal auto products represented about 90% of our Personal Lines segment net premiums written at quarter end, much of the following discussion will focus on our personal auto products, both in total and by distribution channel. We will also discuss our personal property products as we continue to focus on improving profitability and reducing our concentration and exposure in more volatile weather-related markets.
+Our Commercial Lines segment writes auto-related liability and physical damage insurance, business-related general liability and commercial property insurance predominantly for small businesses, and workers’ compensation insurance primarily for the transportation industry and includes our core commercial auto products, TNC business, Fleet & Specialty products, and BOP product. Of our total Commercial Lines segment, our core commercial auto products represented about 80% of net premiums written and our TNC business represented about 15%, both on a trailing 12-month basis, as of the end of the first quarter 2025. Therefore, much of the following discussion focuses only on our core commercial auto products.
+The following table shows the composition of our companywide net premiums written, by segment, for the respective periods:
+Within our Personal Lines segment, we often categorize our personal auto product policyholders into four consumer segments:
+•
+Sam - inconsistently insured;
+•
+Diane - consistently insured and maybe a renter;
+•
+Wrights - homeowners who do not bundle auto and home; and
+•
+Robinsons - homeowners who bundle auto and home.
+28
+While our personal auto policies primarily have 6-month terms, to promote bundled personal auto and property growth, we write 12-month personal auto policies in our Platinum agencies. At March 31, 2025 and 2024, 12% and 14%, respectively, of our agency personal auto policies in force were 12-month policies. To the extent our agency application mix of annual personal auto policies changes, the shift in policy term could impact our average premiums in the agency channel, as 12-month policies have about twice the amount of net premiums written compared to 6-month policies.
+Our special lines and personal property products are written for 12-month terms. About 55% and 70%, respectively, of our special lines products and personal property business net premiums written was generated through the independent agency channel, with the balance through the direct channel.
+Within our Commercial Lines segment, our core commercial auto business operates in the following five traditional business market targets (BMT):
+•
+for-hire specialty;
+•
+for-hire transportation;
+•
+tow;
+•
+contractor; and
+•
+business auto.
+At March 31, 2025, about 90% of Commercial Lines policies in force had 12-month terms. The majority of our Commercial Lines business is written through the independent agency channel, although we continue to focus on growing our direct business, with about 10% of our core commercial auto premiums written through the direct channel.
+B. Profitability
+Profitability for our underwriting operations is defined by pretax underwriting profit or loss, which is calculated as net premiums earned plus fees and other revenues less losses and loss adjustment expenses, policy acquisition costs, and other underwriting expenses. We also use underwriting margin, which is underwriting profit or loss expressed as a percentage of net premiums earned, to analyze our results. For the respective periods, our underwriting profitability results were as follows:
+1
+Underwriting margins for our other indemnity businesses are not meaningful (NM) due to the low level of premiums earned by, and the variability of loss costs in, such businesses.
+While our underwriting profit margin was relatively flat on a year-over-year basis for the first quarter 2025, our companywide loss and loss adjustment expense (LAE) ratio decreased 2.0 points, which was mostly offset by a 1.9 point increase in the expense ratio.
+The decrease in the loss and LAE ratio was primarily driven by favorable prior accident years reserve development and decreased incurred personal and commercial auto accident frequency. The increase in our companywide expense ratio during the first quarter 2025, primarily reflected increased advertising expense. During the first quarter 2025, our advertising spend was $1.3 billion, which was 86%, or 2.3 points, greater than the first quarter last year.
+See the
+Losses and Loss Adjustment Expenses (LAE)
+section below for further discussion of our catastrophe losses, frequency and severity trends, and reserve development recognized during the periods and the
+Underwriting Expense
+section for further discussion of our advertising and non-acquisition expenses.
+29
+Further underwriting results for our Personal Lines business, Commercial Lines business, and our underwriting operations in total, were as follows:
+1
+Ratios are expressed as a percentage of net premiums earned. Fees and other revenues are netted against either loss adjustment expenses or underwriting expenses in the ratio calculations, based on the underlying activity that generated the revenue.
+2
+The accident year ratios include only the losses that occurred during the period noted. As a result, accident period results will change over time, either favorably or unfavorably, as we revise our estimates of loss costs when payments are made or reserves for that accident period are reviewed.
+30
+Losses and Loss Adjustment Expenses (LAE)
+Claims costs, our most significant expense, represent payments made, and estimated future payments to be made, to or on behalf of our policyholders, including expenses needed to adjust or settle claims. Claims costs are a function of loss severity and frequency and, for our personal auto and core commercial auto businesses, are influenced by inflation and driving patterns, among other
+factors, some of which are discussed below. In our personal property business, severity is primarily a function of construction costs and the age and complexity of the structure, among other factors. Accordingly, anticipated changes in these factors are taken into account when we establish premium rates and loss reserves. Loss reserves are estimates of future costs and our reserves are adjusted as underlying assumptions change and information develops.
+Our total loss and LAE ratio decreased 2.0 points for the first quarter 2025, compared to the same period last year, primarily due to increased favorable prior accident years reserve development and a decrease in loss frequency in the first quarter 2025, compared to the same period last year. On an accident year basis, our loss and LAE ratio was 0.7 points lower than the first quarter 2024.
+The following table shows our consolidated catastrophe losses and related combined ratio point impact, excluding loss adjustment expenses, incurred during the periods:
+1
+Represents catastrophe losses incurred during the period, including the impact of reinsurance, as a percent of net premiums earned for each segment.
+In the three months ended March 31, 2025, our catastrophe losses reflected severe weather events throughout the United States, with Texas accounting for nearly 40% of the losses. We have responded, and plan to continue to respond, promptly to catastrophic events when they occur in order to provide high-quality claims service to our customers.
+Changes in our estimate of our ultimate losses on catastrophes currently reserved, along with potential future catastrophes, could have a material impact on our financial condition, cash flows, or results of operations. We reinsure various risks including, but not limited to, catastrophic losses. We do not have catastrophe-specific reinsurance for our personal auto, special lines, or core commercial auto businesses. The personal property business reinsurance programs include catastrophe per occurrence excess of loss contracts and aggregate excess of loss contracts. We also purchase excess of loss reinsurance on our workers’ compensation insurance and our higher-limit commercial auto liability product offered by our Fleet & Specialty business, and on certain BOP product coverages.
+We evaluate our reinsurance programs during the renewal process, if not more frequently, to ensure our programs continue to effectively address the company’s risk tolerance. With respect to our personal property business, in the first quarter 2025, we entered into a new catastrophe
+aggregate excess of loss reinsurance contract for claims occurring in 2025 that has multiple layers of coverage. The first retention layer threshold ranges from $450 million to $475 million, excluding named tropical storms and hurricanes, and the second retention layer threshold is $525 million, including named tropical storms and hurricanes. The first and second layers provide coverage up to $75 million and $100 million, respectively. As part of the 2025 aggregate excess of loss program, we also entered into a severe convective storm parametric loss aggregate coverage, which covers a type of thunderstorm characterized by strong winds, heavy rain, large hail, thunder, lightning, and sometimes tornadoes. This parametric loss coverage provides $15 million of coverage, net of a retention of $665 million.
+While the total coverage limit and per-event retention will evolve to fit the growth of our business, we expect to remain a consistent purchaser of reinsurance coverage. While the availability of reinsurance is subject to many forces outside of our control, the types of reinsurance that
+we elected to purchase during the first quarter 2025 were readily available and competitively priced. On a year-over-year basis, we did not incur a material change in the aggregate costs of our reinsurance programs. See
+Item 1A, Risk Factors
+in our 2024 Form 10-K filed with the U.S. Securities and Exchange Commission, for the year ended December 31, 2024, for a discussion of certain risks related
+31
+to catastrophe events. See
+Item 1, Business – Reinsurance
+on Form 10-K for a discussion of our various reinsurance programs.
+The following discussion of our severity and frequency trends in our personal auto business excludes comprehensive coverage because of its inherent volatility, as it is typically linked to catastrophic losses generally resulting from adverse weather. For our core commercial auto business, the reported frequency and severity trends include comprehensive coverage. Comprehensive coverage insures against damage to a customer’s vehicle due to various causes other than collision, such as windstorm, hail, theft, falling objects, and glass breakage.
+On a calendar-year basis, the change in total personal auto incurred severity (i.e., average cost per claim, including both paid losses and the change in case reserves) over the prior-year period, was as follows:
+The year-over-year increase in total severity, in part, reflects the impact of lower salvage and subrogation recoveries on total loss claims during the first quarter of 2025, compared to higher recoveries in the first quarter last year. Excluding the impact of these recoveries, the change in severity for collision would have been consistent with that of property damage.
+To address inherent seasonality trends and lessen the effects of month-to-month variability in the commercial auto products, we use a trailing 12-month period in assessing severity. Since the loss patterns in the core commercial auto products are not indicative of our other commercial auto products (i.e., TNC and Fleet & Specialty businesses), disclosing severity and frequency trends excluding those businesses is more representative of our overall experience for the majority of our commercial products. As of the end of the first quarter 2025, our core commercial auto products’ trailing 12-month incurred
+severity increased 10%, compared to the same period last year, in part, due to prior years unfavorable development.
+It is a challenge to estimate future severity, but we continue to monitor changes in the underlying costs, such as tariffs, general inflation, used car prices, vehicle repair costs, medical costs, health care reform, court decisions, and jury verdicts, along with regulatory changes and other factors that may affect severity.
+The change in total personal auto incurred frequency, on a calendar-year basis, over the prior-year period, was as follows:
+The year-over-year decrease in frequency, in part, reflects a shift in the mix of business to a more preferred tier of customers (i.e., Wrights and Robinsons) and lower vehicle miles traveled during the first quarter 2025, compared to the same period last year.
+On a trailing 12-month basis, our core commercial auto products’ incurred frequency decreased 8% during the first quarter 2025, in part, due to a shift in the mix of business compared to the same period last year.
+We closely monitor changes in frequency, but the degree or direction of near-term frequency change is not something that we are able to predict with any certainty. We will continue to analyze trends to distinguish changes in our experience from other external factors, such as changes in the number of vehicles per household, miles driven, vehicle usage, gasoline prices, advances in vehicle safety, and unemployment rates, versus those resulting from shifts in the mix of our business or changes in driving patterns, and the ridesharing economy to allow us to react quickly to price for these trends and to reserve more accurately for our loss exposures.
+32
+The table below presents the actuarial adjustments implemented and the loss reserve development experienced on a companywide basis in the following periods:
+Total development consists of both actuarial adjustments and “all other development” on prior accident years. We use “accident year” generically to represent the year in which a loss occurred. The actuarial adjustments represent the net changes made by our actuarial staff to both current and prior accident year reserves based on regularly scheduled reviews. Through these reviews, our actuaries identify and measure variances in the projected frequency and severity trends, which allow them to adjust the reserves to reflect current cost trends.
+For the Personal Lines vehicle products and the Commercial Lines business, development for catastrophe losses would be reflected in “all other development,” discussed below, to the extent they relate to prior year reserves. For our Personal Lines property business, 100% of catastrophe losses are reviewed monthly, and any development on catastrophe reserves are included as part of the actuarial adjustments. We report these actuarial adjustments separately for the current and prior accident years to reflect these adjustments as part of the total prior accident years development.
+“All other development” represents claims settling for more or less than reserved, emergence of unrecorded claims at rates different than anticipated in our incurred but not recorded (IBNR) reserves, and changes in reserve estimates on specific claims. Although we believe the development from both the actuarial adjustments and “all other development” generally results from the same factors, we are unable to quantify the portion of the reserve development that might be applicable to any one or more of those underlying factors.
+Our objective is to establish case and IBNR reserves that are adequate to cover all loss costs, while incurring minimal variation from the date the reserves are initially established until losses are fully developed. Our ability to meet this objective is impacted by many factors, such as the factors impacting severity estimates described above and storms occurring close to quarter end.
+As reflected in the table above, we experienced favorable prior accident years development during the first three months of 2025, compared to relatively flat prior accident years development for the same period last year. The favorable development during the first three months of 2025 was, in part, due to lower than anticipated severity and frequency in Florida personal auto and, for personal property, favorable development on 2024 catastrophe events.
+See
+Note 6 – Loss and Loss Adjustment Expense Reserve
+s to the consolidated financial statements for a more detailed discussion of our prior accident years reserve development and
+Critical Accounting Policies
+in our 2024 Annual Report to Shareholders for discussion of the application of estimates and assumptions in the establishment of our loss reserves.
+Underwriting Expenses
+Underwriting expenses include policy acquisition costs and other underwriting expenses. The underwriting expense ratio is our underwriting expenses, net of certain fees and other revenues, expressed as a percentage of net premiums earned. For the first quarter 2025, our underwriting expense ratio was up 1.9 points, compared to the same period last year. The increase was primarily attributable to the increase in our advertising spend, partially offset by growth in net premiums earned. In total, our companywide advertising spend increased 86%, or 2.3 points, in the first quarter 2025, compared to the same period last year.
+Our total advertising spend for the first quarter 2025, was $1.3 billion, compared to $0.7 billion in the first quarter 2024. Our advertising spend in the first quarter 2025 exceeded the amount of advertising spend for any previous quarterly period. We invested heavily during the first quarter of the year to capture consumer shopping, and will continue to advertise to maximize growth, as long as we remain on track to achieve our profitability goal and can acquire customers at or below our target acquisition cost.
+33
+To analyze underwriting expenses, we also review our non-acquisition expense ratio (NAER), which excludes costs related to policy acquisition (e.g., advertising and agency commissions) from our underwriting expense ratio. By excluding acquisition costs from our underwriting expense ratio, we are able to understand costs other than those necessary to acquire new policies and grow the business.
+During the first quarter 2025, our NAER decreased 0.3
+points in our personal vehicle business and increased 1.2 points and 0.1 points in our personal property and core commercial auto businesses, respectively, compared to the same period last year. We remain committed to efficiently managing operational non-acquisition expenses.
+C. Growth
+For our underwriting operations, we analyze growth in terms of both premiums and policies. Net premiums written represent the premiums from policies written during the period, less any premiums ceded to reinsurers. Net premiums earned, which are a function of the premiums written in the current and prior periods, are earned as revenue over the life of the policy using a daily earnings convention. Policies in force, our preferred measure of growth since it removes the variability due to rate changes or mix shifts, represents all policies for which coverage was in effect as of the end of the period specified.
+To analyze growth, we review new policies, rate levels, and the retention characteristics of our segments. Although new policies are necessary to maintain a growing book of business, we recognize the importance of retaining our current customers as a critical component of our continued growth.
+34
+D. Personal Lines
+Our Personal Lines business offers vehicle (personal auto and special lines) and residential property insurance products to personal consumers, with the operating goal of optimizing the number of insured products within our policyholders’ households. In our discussion below, we report our personal auto and personal property business results separately as components of our Personal Lines segment to provide a further understanding of our products. Our personal auto business discussions are further separated between the agency and direct distribution channel. For the three months ended March 31, 2025, 42% of our personal auto business was written through the agency channel and 58% was written through the direct channel.
+Personal Auto - Agency
+The year-over-year changes our personal auto agency business were as follows:
+The personal auto agency business includes business written by more than 40,000 independent insurance agencies that represent Progressive, as well as brokerages in New York and California. During the first quarter 2025, we generated new agency personal auto application growth in 47 states and the District of Columbia, including nine of our top 10 largest agency states.
+Compared to the same period in the prior year, new application and policy in force growth varied by consumer segment:
+•
+Sams experienced a low double-digit increase in policies in force, with a significant increase in new applications during the first quarter 2025;
+•
+Dianes and Wrights experienced significant policies in force and new application growth during the first quarter 2025; and
+•
+Robinsons had a high single-digit increase in policies in force, with a significant decline in new applications during the first quarter 2025.
+During the first quarter 2025, on a year-over-year basis, we experienced an increase in agency auto quote volume of 16%, with a rate of conversion (i.e., converting a quote to a
+sale) increase of 11%, compared to the same period last year. All four of our consumer segments experienced an increase in both quote volume and conversion during the first quarter 2025, compared to the same period in the prior year, except Robinsons who had a single-digit decline in quotes and a significant decline in conversion. New applications, quotes, and conversion declined in Robinsons year over year due to several initiatives implemented in our personal property business that were focused on improving profitability, as discussed in the
+Personal Property
+section below. These initiatives, which began during the last half of 2024, focused primarily on home and condo coverages and impacted growth in bundled auto and homeowner policies.
+Our personal auto rates were relatively stable during the quarter. The decrease in written premium per policy for new and renewal personal auto agency business during the first quarter 2025, compared to the same period last year, was in part, attributable to a shift in the mix of business, including a shift to a higher percentage of 6-month policies, which have about half of the amount of net premiums written as policies with 12-month terms.
+Our trailing 3- and 12-month policy life expectancy in the agency auto business experienced a decrease at the end of the first quarter 2025, on a year-over-year basis, which we believe is primarily driven by a shift in the mix of business and increased consumer shopping.
+Personal Auto - Direct
+The year-over-year changes in our personal auto direct business were as follows:
+The personal auto direct business includes business written directly by Progressive online or by phone. During the first quarter 2025, we generated new direct personal auto application growth in 48 states and the District of Columbia, including nine of our top 10 largest direct states. During the first quarter 2025, each of our consumer segments experienced a significant increase in new applications year over year. Policies in force grew between 19% and 27% in each consumer segment, compared to the same period last year.
+35
+During the first quarter 2025, direct personal auto quote volume increased 22%, with a rate of conversion increase of 8%, compared to the same period last year, primarily driven by increased advertising spend and our competitiveness in the marketplace. All consumer segments saw a significant increase in quotes and a modest increase in the rate of conversion during the first quarter 2025, except for Robinsons where conversion was flat.
+The personal property profitability initiatives that negatively affected Robinsons new application, quote, and conversion growth in the agency channel were not as impactful to the direct channel as the majority of the property business bundles with personal auto in the direct channel is written through unaffiliated third-party carriers, which remain available even when we restrict writing our personal property products.
+Written premium per policy increased for new and renewal personal auto direct business during the first quarter 2025, compared to the same period last year, primarily driven by the rate increases made during the last 12 months.
+Our trailing 3- and 12-month policy life expectancy in the direct auto business experienced a decrease at the end of the first quarter 2025, on a year-over-year basis, which we believe is primarily driven by a shift in the mix of business and increased consumer shopping.
+Personal Property
+The year-over-year changes in our personal property business were as follows:
+Our personal property business writes residential property insurance for homeowners and renters, umbrella, and flood insurance through the “Write Your Own” program for the National Flood Insurance Program. Our personal property business insurance is written in the agency and direct channels.
+In addition to reducing our geographic footprint in more volatile weather-related markets (e.g., coastal and hail-
+prone states), we continued to focus on achieving profitability goals in markets that are less susceptible to
+catastrophes for our homeowners products, which we define as our total personal property business excluding renters and umbrella products. In the growth-oriented states, policies in force increased 14% on a year-over-year basis as of March 31, 2025. Policies in force decreased 12% in the volatile weather states as of the end of the first quarter 2025, compared to the same period in the prior year.
+During the first quarter 2025, we continued several initiatives, including: (i) prioritizing insuring lower-risk properties (e.g., new construction, existing homes with newer roofs); (ii) having underwriting restrictions in place in most states, to only accept new personal property business (e.g., home or condo) when the property policy is bundled with a Progressive personal auto policy, where permitted; (iii) restricting new business and non-renewing policies that provide coverage for non-owner-occupied properties (e.g., short-term vacation rental, secondary residence, etc.) in the majority of states; and, (iv) expanding our cost sharing with policyholders through mandatory wind and hail deductibles and roof depreciation schedules in markets where permitted.
+In addition, beginning in the second quarter 2024, following the required filings and notices, we began our efforts to non-renew up to 115,000 Property policies in Florida. This effort slowed while the moratoriums were in place in response to Hurricanes Helene and Milton, which temporarily limited an insurer’s ability to non-renew policies, but resumed once the moratoriums expired in December 2024. We currently expect this effort to be substantially completed by the end of the second quarter 2025.
+To try to ease the disruption of the non-renewals to our customers and agents, we reached an agreement with an unaffiliated Florida insurer to offer replacement policies to many of these policyholders, subject to the insurer’s underwriting and financial guidelines and agent appointments where applicable.
+Our written premium per policy decreased on a year-over-year basis for the first quarter 2025, primarily attributable to a shift in the mix of business to more renters policies, which have lower average written premiums, and a decline in homeowners policies in force in both volatile weather-related markets and non-owner-occupied properties, which both have higher average premiums. The effect of these declines were partially offset by rate increases taken during 2024 and higher premium coverages reflecting increased property values. During the first quarter 2025, we increased rates, in aggregate, about 2% in our personal property business. We intend to continue to make targeted rate increases in states where we are not achieving our profitability goals.
+36
+The policy life expectancy in our personal property business shortened during the first quarter 2025, compared to the same period last year, which we believe is primarily driven by a shift in the mix of business to more renters policies, the non-renewals for certain policies in volatile weather states, and rate increases made during the last 12 months.
+E. Commercial Lines
+The following table and discussion focuses on our core commercial auto products, which accounted for about 80% of our Commercial Lines segment net premiums written on a trailing 12-month basis, as of the end of the first quarter 2025. Year-over-year changes in our core commercial auto products were as follows:
+During the first quarter 2025, core commercial auto new application growth was positive in each of our BMTs, except for the for-hire transportation and for-hire specialty
+BMTs. The for-hire transportation BMT continued to be adversely impacted by challenging freight market conditions that have continued to cause a decline in the active number of motor carriers in this BMT. During the first quarter 2025, quote volume and conversion increased about 3% and 5%, respectively, in our core commercial auto products, compared to the same period last year.
+The effect of the previously discussed rate increases had on written premium per policy for our core commercial auto business was offset by the change in the mix of business written, compared to the first quarter 2024. During the first quarter 2025, we increased rates, in aggregate, about 1% in our core commercial auto products. We will continue to evaluate our rate need and adjust rates as we deem necessary.
+Our policy life expectancy decreased in all BMTs, except for tow, which we believe is due to rate and non-rate actions, as well as the continued decrease in demand in the for-hire transportation BMT. As of the end of the first quarter 2025, policy life expectancy has experienced sequential month-over-month improvement since the end of the third quarter 2024, which we believe is due to the moderation of our rate increases, compared to competitor rate increases, improving our competitiveness in the marketplace.
+IV.  RESULTS OF OPERATIONS – INVESTMENTS
+A. Investment Results
+Our management philosophy governing the portfolio is to evaluate investment results on a total return basis. The fully taxable equivalent (FTE) total return includes recurring investment income, adjusted to a fully taxable amount for certain securities that receive preferential tax treatment (e.g., municipal securities), and total net realized, and changes in total net unrealized, gains (losses) on securities.
+The following table summarizes investment results for the periods ended March 31:
+The increase in the book yield, compared to last year, primarily reflected investing new cash from insurance operations, and proceeds from maturing bonds, in higher coupon rate securities. The increase in the fixed-income portfolio FTE total return, compared to last year, primarily
+reflected movement in Treasury yields year-over-year. The common stock FTE total return reflected general market conditions.
+A further break-down of our FTE total returns for our fixed-income portfolio for the periods ended March 31, follows:
+37
+B. Portfolio Allocation
+The composition of the investment portfolio was:
+1
+Represents ratings at period end. Credit quality ratings are assigned by nationally recognized statistical rating organizations. To calculate the weighted average credit quality ratings, we weight individual securities based on fair value and assign a numeric score of 0-5, with non-investment-grade and non-rated securities assigned a score of 0-1. To the extent the weighted average of the ratings falls between AAA and AA+, we assign an internal rating of AAA-.
+2
+At March 31, 2025 and 2024 and December 31, 2024, we had $297 million, $16 million, and $125 million, respectively, of net unsettled security transactions included in other liabilities.
+The total fair value of the portfolio at March 31, 2025 and 2024 and December 31, 2024, included $3.5 billion, $3.2 billion, and $6.2 billion, respectively, of securities held in a consolidated, non-insurance subsidiary of the holding company, net of unsettled security transactions. A portion of the investments held at December 31, 2024 were sold and proceeds used to pay our common share dividends in January 2025; see
+Note 9 – Dividends
+for additional information.
+38
+Our asset allocation strategy is to maintain 0%-25% of our portfolio in Group I securities, with the balance (75%-100%) of our portfolio in Group II securities.
+We define Group I securities to include:
+•
+common equities,
+•
+nonredeemable preferred stocks,
+•
+redeemable preferred stocks, except for 50% of investment-grade redeemable preferred stocks with cumulative dividends, which are included in Group II, and
+•
+all other non-investment-grade fixed-maturity securities.
+Group II securities include:
+•
+short-term securities, and
+•
+all other fixed-maturity securities, including 50% of investment-grade redeemable preferred stocks with cumulative dividends.
+We believe this asset allocation strategy allows us to appropriately assess the risks associated with these securities for capital purposes and is in line with the treatment by our regulators.
+The following table shows the composition of our Group I and Group II securities:
+To determine the allocation between Group I and Group II, we use the credit ratings from models provided by the National Association of Insurance Commissioners (NAIC) to classify our residential and commercial mortgage-backed securities, excluding interest-only (IO) securities, and the credit ratings from nationally recognized statistical rating organizations (NRSROs) to classify all other debt securities. NAIC ratings are based on a model that considers the book price of our securities when assessing the probability of future losses in assigning a credit rating. As a result, NAIC ratings can vary from credit ratings issued by NRSROs. Management believes NAIC ratings more accurately reflect our risk profile when determining the asset allocation between Group I and Group II securities.
+Unrealized Gains (Losses)
+As of March 31, 2025, our fixed-maturity portfolio had total after-tax net unrealized losses, which are recorded as part of accumulated other comprehensive income (loss) on our consolidated balance sheets, of $0.5 billion, compared to $1.8 billion and $1.4 billion at March 31, 2024 and December 31, 2024, respectively. The decrease in total unrealized losses from March 31, 2024 and December 31, 2024, was due to valuation increases across all fixed-maturity sectors, most prominently in our U.S. Treasury, corporate and other debt, and commercial mortgage-backed portfolios as lower interest rates and, in some cases, tighter credit spreads drove strong portfolio performance.
+See
+Note 2 – Investments
+for a further break-out of our gross unrealized gains (losses).
+39
+Holding Period Gains (Losses)
+The following table provides the balance and activity for both the gross and net holding period gains (losses) for the three months ended March 31, 2025:
+1
+Equity securities include common equities and nonredeemable preferred stocks.
+Changes in holding period gains (losses), similar to unrealized gains (losses) in our fixed-maturity portfolio, are the result of changes in market conditions as well as sales of securities based on various portfolio management decisions.
+Fixed-Income Securities
+The fixed-income portfolio is managed internally and includes fixed-maturity securities, short-term investments, and nonredeemable preferred stocks. Following are the primary exposures for our fixed-income portfolio.
+Interest Rate Risk
+Our duration of 3.4 years at March 31, 2025, 3.2 years at March 31, 2024, and 3.3 years at December 31, 2024 fell within our acceptable range of 1.5 to 5.0 years. The duration distribution of our fixed-income portfolio, excluding short-term investments, represented by the interest rate sensitivity of the comparable benchmark U.S. Treasury Notes, was:
+Credit Risk
+This exposure is managed by maintaining an A minimum weighted average portfolio credit quality rating, as defined by NRSROs. At March 31, 2025 and 2024, and December 31, 2024, our weighted average credit quality rating was AA-. The credit quality distribution of the fixed-income portfolio was:
+1
+The credit quality ratings are assigned by NRSROs.
+40
+Concentration Risk
+We did not have any investments in a single issuer, either overall or in the context of individual asset classes and sectors, that exceeded our thresholds during the first quarter 2025.
+Prepayment and Extension Risk
+We did not experience significant adverse prepayment or extension of principal relative to our cash flow expectations in the portfolio during the first quarter 2025.
+Liquidity Risk
+Our overall portfolio remains very liquid and we believe that it is sufficient to meet expected near-term liquidity requirements. The short-to-intermediate duration of our portfolio provides a source of liquidity. During the remainder of 2025, we expect approximately $5.7 billion, or 17%, of principal repayment from our fixed-income portfolio, excluding U.S. Treasury Notes and short-term investments. Cash from interest and dividend
+payments provides an additional source of recurring liquidity.
+The duration of our U.S. government obligations, which are included in the fixed-income portfolio, was comprised of the following at March 31, 2025:
+ASSET-BACKED SECURITIES
+Included in our fixed-income portfolio are asset-backed securities, which were comprised of the following at the balance sheet dates listed:
+1
+The credit quality ratings are assigned by NRSROs.
+41
+Residential Mortgage-Backed Securities (RMBS)
+The following table details the credit quality rating and fair value of our RMBS, along with the loan classification and a comparison of the fair value at March 31, 2025, to our original investment value (adjusted for returns of principal, amortization, and write-downs):
+1
+The credit quality ratings are assigned by NRSROs; when we assigned the NAIC ratings for our RMBS, 92% of our non-investment-grade securities were rated investment grade and reported as Group II securities.
+2
+The securities in this category are insured by a Government Sponsored Entity (GSE) and/or collateralized by mortgage loans insured by the Federal Housing Administration (FHA) or the U.S. Department of Veteran Affairs (VA).
+.
+Our RMBS portfolio consists of deals that are backed by high-credit quality borrowers and/or those that have strong structural protections through underlying loan collateralization. During the first quarter of 2025, we continued to increase our exposure in this portfolio through purchases in both the primary and secondary markets with securities that had shorter spread durations. Our additions were concentrated in investment-grade securities, while also increasing our allocation to Fannie Mae and Freddie Mac credit risk transfer securities.
+Commercial Mortgage-Backed Securities (CMBS)
+The following table details the credit quality rating and fair value of our CMBS, along with a comparison of the fair value at March 31, 2025, to our original investment value (adjusted for returns of principal, amortization, and write-downs):
+1
+The credit quality ratings are assigned by NRSROs; when we assigned the NAIC ratings for our CMBS, 87% of our non-investment-grade securities were rated investment grade and reported as Group II securities, with the remainder classified as Group I.
+During the first quarter 2025, there was strong new issuance activity in the CMBS market and deals backed by office properties were the largest source of new issuances in the single-borrower market. Growth in the portfolio was largely driven by additions of investment-grade-rated securities backed by industrial logistics, grocery-anchored retail, and self-storage properties. As of March 31, 2025, we had no delinquencies in our CMBS portfolio.
+42
+The following table shows the composition of our CMBS portfolio by maturity year and sector:
+1
+The floating-rate securities were extended to their full maturity and fixed-rate securities are shown to their anticipated repayment date (if applicable) or their maturity date.
+We show the average loan to value (LTV) of each maturity year when the loans were originated. The LTV ratio that management uses, which is commonly expressed as a percentage, compares the size of the entire mortgage loan to the appraised value of the underlying property collateralizing the loan at issuance. A LTV ratio less than 100% indicates excess collateral value over the loan amount. LTV ratios greater than 100% indicate that the loan amount exceeds the collateral value. We believe this ratio provides a conservative view of our actual risk of loss, as this number displays the entire mortgage LTV, while our ownership is only a portion of the structure of the mortgage loan-backed security. For many of the mortgage loans in our portfolio, our exposure is in a more senior part of the structure, which means that the LTV on our actual exposure is even lower than the ratios presented.
+In addition to the LTV ratio, we also examine the credit of our CMBS portfolio by reviewing the debt service coverage ratio (DSCR) of the securities. The DSCR compares the underlying property
+’
+s annual net operating income to its annual debt service payments. A DSCR less than 1.0 times indicates that property operations do not generate enough income over the debt service payments, while a DSCR greater than 1.0 times indicates that there is an excess of operating income over the debt service payments. A number above 1.0 generally indicates that there would not be an incentive for the borrower to default in light of the borrower
+’
+s excess income. The DSCR reported in the table is calculated based on the most currently available net operating income and mortgage payments for the borrower.
+Other Asset-Backed Securities (OABS)
+The following table details the credit quality rating and fair value
+of our OABS, along with a comparison of the fair value at March 31, 2025, to our original investment value (adjusted for returns of principal, amortization, and write-downs):
+During the first quarter 2025, we selectively added securities to the OABS portfolio that we viewed as having attractive spreads and potential returns. The securities we acquired were predominantly in the automobile and equipment categories in highly rated, senior, and short-tenor debt tranches. Additions were primarily made in new issue markets with some selective secondary purchases.
+43
+STATE AND LOCAL GOVERNMENT OBLIGATIONS
+The following table details the credit quality rating of our state and local government obligations (municipal securities) at March 31, 2025, without the benefit of credit or bond insurance:
+Included in revenue bonds were $608 million of single-family housing revenue bonds issued by state housing finance agencies, of which $282 million were supported by
+individual mortgages held by the state housing finance
+agencies and $326 million were supported by mortgage-backed securities.
+Of the revenue bonds supported by individual mortgages held by the state housing finance agencies, the overall credit quality rating was AA+. Most of these mortgages were supported by the Federal Housing Administration, the U.S. Department of Veterans Affairs, or private mortgage insurance providers. Of the revenue bonds supported by mortgage-backed securities, 83% were collateralized by Ginnie Mae mortgages, which are fully guaranteed by the U.S. government; the remaining 17% were collateralized by Fannie Mae and Freddie Mac mortgages.
+Although credit spreads of municipal bonds widened, we still viewed most of the market as relatively unattractive. We selectively added to the municipal portfolio during the first quarter 2025, with a focus on high-quality securities with shorter maturities, which we viewed as having more favorable risk/reward profiles.
+CORPORATE AND OTHER DEBT SECURITIES
+The following table details the credit quality rating of our corporate and other debt securities at March 31, 2025:
+The size of our corporate and other debt portfolio increased to $16.0 billion at March 31, 2025, from $14.0 billion at
+December 31, 2024. Credit spreads provided more reward for the risks during the quarter. At March 31, 2025 and
+December 31, 2024, corporate and other debt securities made up approximately 20% and 18%, respectively, of our fixed-income portfolio. The duration of the corporate and other debt portfolio increased slightly to 2.7 years at March 31, 2025, from 2.6 years at December 31, 2024.
+44
+NONREDEEMABLE PREFERRED STOCKS
+The table below shows the exposure break-down of our nonredeemable preferred stocks by sector and rating at March 31, 2025:
+The majority of our nonredeemable preferred securities have fixed-rate dividends until a call date and then, if not called, generally convert to floating-rate dividends. The interest rate duration is calculated to reflect the call, floor, and floating-rate features. Although a nonredeemable preferred stock will remain outstanding if not called, its interest rate duration will reflect the variable nature of the dividend. At March 31, 2025, our non-investment-grade nonredeemable preferred stocks were with issuers that maintain investment-grade senior debt ratings.
+We also face the risk that dividend payments could be deferred for one or more periods or skipped entirely. As of March 31, 2025, we expect all of these securities to pay their dividends in full and on time. Approximately 97% of our nonredeemable preferred stocks pay dividends that have tax preferential characteristics, while the balance pay dividends that are fully taxable.
+At March 31, 2025, the nonredeemable preferred stock portfolio fair value was $0.6 billion, which is a slight decrease from $0.7 billion at December 31, 2024. This decline was primarily due to nonredeemable preferred stocks that were called or sold because they had less attractive risk/reward profiles.
+Common Equities
+Common equities, as reported on our consolidated balance sheets, were comprised of the following:
+1
+The other risk investments consist of limited partnership interests.
+The majority of our common stock portfolio consists of individual holdings selected based on their contribution to the correlation with the Russell 1000 Index. We held 702 out of 1,008, or 70%, of the common stocks comprising the index at March 31, 2025, which made up 94% of the total market capitalization of the index. At both March 31, 2025 and 2024, the year-to-date GAAP income total return was within our targeted tracking error of +/- 50 basis points. At December 31, 2024, the full year GAAP income total return did not meet our targeted tracking error.
+45
+Safe Harbor Statement Under the Private Securities Litigation Reform Act of 1995:
+Investors are cautioned that certain statements in this report not based upon historical fact are forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These statements often use words such as “estimate,” “expect,” “intend,” “plan,” “believe,” “goal,” “target,” “anticipate,” “will,” “could,” “likely,” “may,” “should,” and other words and terms of similar meaning, or are tied to future periods, in connection with a discussion of future operating or financial performance. Forward-looking statements are not guarantees of future performance, are based on current expectations and projections about future events, and are subject to certain risks, assumptions and uncertainties that could cause actual events and results to differ materially from those discussed herein. These risks and uncertainties include, without limitation, uncertainties related to:
+•
+our ability to underwrite and price risks accurately and to charge adequate rates to policyholders;
+•
+our ability to establish accurate loss reserves;
+•
+the impact of severe weather, other catastrophe events, and climate change;
+•
+the effectiveness of our reinsurance programs and the continued availability of reinsurance and performance by reinsurers;
+•
+the secure and uninterrupted operation of the systems, facilities, and business functions and the operation of various third-party systems that are critical to our business;
+•
+the impacts of a security breach or other attack involving our technology systems or the systems of one or more of our vendors;
+•
+our ability to maintain a recognized and trusted brand and reputation;
+•
+whether we innovate effectively and respond to our competitors’ initiatives;
+•
+whether we effectively manage complexity as we develop and deliver products and customer experiences;
+•
+the highly competitive nature of property-casualty insurance markets;
+•
+whether we adjust claims accurately;
+•
+compliance with complex and changing laws and regulations;
+•
+the impact of misconduct or fraudulent acts by employees, agents, and third parties to our business and/or exposure to regulatory assessments;
+•
+our ability to attract, develop, and retain talent and maintain appropriate staffing levels;
+•
+litigation challenging our business practices, and those of our competitors and other companies;
+•
+the success of our business strategy and efforts to acquire or develop new products or enter into new areas of business and our ability to navigate the related risks;
+•
+how intellectual property rights affect our competitiveness and our business operations;
+•
+the success of our development and use of new technology and our ability to navigate the related risks;
+•
+the performance of our fixed-income and equity investment portfolios;
+•
+the impact on our investment returns and strategies from regulations and societal pressures relating to environmental, social, governance and other public policy matters;
+•
+our continued ability to access our cash accounts and/or convert investments into cash on favorable terms;
+•
+the impact if one or more parties with which we enter into significant contracts or transact business fail to perform;
+•
+legal restrictions on our insurance subsidiaries’ ability to pay dividends to The Progressive Corporation;
+•
+our ability to obtain capital when necessary to support our business, our financial condition, and potential growth;
+•
+evaluations and ratings by credit rating and other rating agencies;
+•
+the variable nature of our common share dividend policy;
+•
+whether our investments in certain tax-advantaged projects generate the anticipated returns;
+•
+the impact from not managing to short-term earnings expectations in light of our goal to maximize the long-term value of the enterprise;
+•
+the impacts of epidemics, pandemics, or other widespread health risks; and
+•
+other matters described from time to time in our releases and publications, and in our periodic reports and other documents filed with the United States Securities and Exchange Commission, including, without limitation, the Risk Factors section of our Annual Report on Form 10-K for the year ending December 31, 2024.
+Any forward-looking statements are made only as of the date presented. Except as required by applicable law, we undertake no obligation to update any forward-looking statements, whether as a result of new information, future events or developments or otherwise.
+In addition, investors should be aware that accounting principles generally accepted in the United States prescribe when a company may reserve for particular risks, including litigation exposures. Accordingly, results for a given reporting period could be significantly affected if and when we establish reserves for one or more contingencies. Also, our regular reserve reviews may result in adjustments of varying magnitude as additional information regarding claims activity becomes known. Reported results, therefore, may be volatile in certain accounting periods.
+46
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+The duration of the financial instruments held in our portfolio that are subject to interest rate risk was 3.4 years at March 31, 2025, 3.2 years at March 31, 2024, and 3.3 years at December 31, 2024. The weighted average beta of the equity portfolio was 1.0 at March 31, 2025 and
+1.1
+at both March 31, 2024 and December 31, 2024. We have not experienced a material impact when compared to the tabular presentations of our interest rate and market risk sensitive instruments in our Annual Report on Form 10-K for the year ended December 31, 2024.
+Item 4. Controls and Procedures.
+We, under the direction of our Chief Executive Officer and our Chief Financial Officer, have established disclosure controls and procedures that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms. The disclosure controls and procedures are also intended to ensure that such information is accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures.
+Our Chief Executive Officer and our Chief Financial Officer reviewed and evaluated our disclosure controls and procedures as of the end of the period covered by this report. Based on that review and evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures are effectively serving the stated purposes as of the end of the period covered by this report.
+There have not been any changes in our internal control over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+47
+PART II—OTHER INFORMATION
+Item 1. Legal Proceedings.
+For discussion of legal proceedings, see
+Note 11 – Litigation
+to the consolidated financial statements, which is incorporated herein by reference.
+Item 1A. Risk Factors.
+There have been no material changes in the risk factors from those discussed in
+Item 1A, Risk Factors
+included in our Annual Report on Form 10-K for the year ended December 31, 2024.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+(c) Share Repurchases
+Progressive’s financial policies state that we will repurchase shares to neutralize dilution from equity-based compensation in the year of issuance and as an option to effectively use under-leveraged capital.
+In May 2024, the Board of Directors approved an authorization for the company to repurchase up to 25 million of its common shares. This authorization does not have an expiration date. Share repurchases under this authorization may be accomplished through open market purchases, including trading plans entered into with one or more brokerage firms in accordance with Rule 10b5-1 under the Securities Exchange Act of 1934, through privately negotiated transactions, pursuant to our equity incentive awards, or otherwise. During the first quarter 2025, all repurchases were accomplished in conjunction with our equity incentive awards at the then-current market prices; there were no open market purchases during the quarter.
+Item 5. Other Information.
+(c)
+Insider Trading Arrangements
+During the first quarter 2025, certain executive officers entered into
+Rule 10b5-1
+trading arrangements that are intended to satisfy the affirmative defense of Rule 10b5-1(c). The executive officers’ plans provide for: (i) the sale of all of the shares issued upon vesting for certain outstanding equity awards previously granted to the applicable executive officer, excluding any shares withheld by the company to satisfy tax withholding obligations (see our 2025 Proxy Statement for a description of the company’s equity compensation plans) and, (ii) for three executives, the sale and/or gift of a certain amount of additional shares (see
+“
+Additional or Specified Shares
+”
+below) held by the applicable executive, that are not sold in connection with the vesting of an outstanding equity award (as described in (i) above), some of which may have been the result of a prior vesting event for the executive.
+Below are the details of each applicable Rule 10b5-1 trading arrangement:
+1
+Subject to the plan’s earlier expiration or completion in accordance with its terms.
+48
+Additional Information
+President and CEO Susan Patricia Griffith’s quarterly letter to shareholders is included as Exhibit 99 to this Quarterly Report on Form 10-Q and in our online shareholders’ report located on our investor relations website at: investors.progressive.com/financials.
+Item 6. Exhibits.
+See exhibit index contained herein beginning on page 51,
+wh
+ich is incorporated by reference from information with respect to this item.
+49
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+50
+51

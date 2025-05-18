@@ -1,0 +1,48 @@
+analysis. If the carrying value of the asset is determined not to be recoverable based on the undiscounted cash flow test, the excess of the carrying value of the asset over its fair value would be recognized as an expense in the period in which the impairment occurs.
+3. Acquisitions
+Preqin
+On March 3, 2025, BlackRock completed the acquisition of
+100
+% of the shares of Preqin Holding Limited (the "Preqin Transaction" or "Preqin"), a leading provider of private markets data, for £
+2.5
+billion (or approximately $
+3.2
+billion) in cash.
+The purchase price for the Preqin Transaction was allocated to the assets acquired and liabilities assumed based upon their estimated fair values at the date of the transaction. The goodwill recognized in connection with the acquisition is non-deductible for tax purposes and is primarily attributable to anticipated synergies from incorporating Preqin data, insight and analytics into BlackRock’s investment technology, presenting an opportunity for Aladdin to bridge a transparency gap between public and private markets.
+The following table summarizes the consideration paid for Preqin and the fair values of the assets acquired and liabilities assumed recognized at the acquisition date:
+(1)
+The fair value was determined using an income approach (Level 3 inputs), has a weighted-average estimated useful life of approximately
+9
+years and is amortized based on its expected pattern of economic benefit.
+(2)
+The fair value was determined using a replacement cost approach (Level 3 inputs), has a weighted-average estimated useful life of approximately
+5
+years and is amortized based on the straight-line method.
+(3)
+Acquired deferred revenue was determined based on current revenue guidance. The acquired book values of the remaining assets and liabilities approximated their fair values.
+At this time, the Company does not expect material changes to the value of the assets acquired or liabilities assumed in conjunction with the transaction.
+10
+Finite-lived intangible assets are amortized over their estimated useful lives, which range from
+5
+to
+11
+years. Amortization expense related to the finite-lived intangible assets was $
+9
+million for the three months ended
+March 31, 2025
+.
+The finite-lived intangible assets had a weighted-average remaining useful life of approximately
+eight years
+with remaining amortization expense as follows:
+Pro forma financial information for Preqin has not been presented, as the effects were not material to the Company's historical consolidated financial statements. See Note 10,
+Goodwill
+, Note 11,
+Intangible Assets
+, and Note 16,
+Revenue
+for further information regarding goodwill, intangible assets, and deferred revenue acquired, respectively.
+Global Infrastructure Management, LLC
+On October 1, 2024, BlackRock completed the acquisition of
+100
+% of the issued and outstanding limited liability company interests of Global Infrastructure Management, LLC ("GIP" or the "GIP Transaction")
+, a leading infrastructure

@@ -1,0 +1,25 @@
+arrangements. Therefore, this revenue is recorded in market making and similar activities as part of the initial mark to fair value. For derivatives, the majority of revenue is included in market making and similar activities. In transactions where the Corporation acts as agent, which include exchange-traded futures and options, fees are recorded in other income.
+The following table, which includes both derivatives and non-derivative cash instruments, identifies the amounts in the respective income statement line items attributable to the Corporation’s sales and trading revenue in
+Global Markets
+, categorized by primary risk, for 2024, 2023 and 2022. This table includes debit valuation adjustment (DVA) and funding valuation adjustment (FVA) gains (losses).
+Global Markets
+results in
+Note 23 – Business Segment Information
+are presented on a fully taxable-equivalent (FTE) basis. The following table is not presented on an FTE basis.
+(1)
+Represents amounts in investment and brokerage services and other income that are recorded in
+Global Markets
+and included in the definition of sales and trading revenue. Includes investment and brokerage services revenue of $
+2.1
+billion, $
+2.0
+billion and $
+2.0
+billion in  2024, 2023 and 2022, respectively.
+(2)
+Includes commodity risk.
+Credit Derivatives
+The Corporation enters into credit derivatives primarily to facilitate client transactions and to manage credit risk exposures. Credit derivatives derive value based on an underlying third-party referenced obligation or a portfolio of referenced obligations and generally require the Corporation, as the seller of credit protection, to make payments to a buyer upon the occurrence of a predefined credit event. Such credit events generally include bankruptcy of the referenced credit entity and failure to pay under the obligation, as well as acceleration of indebtedness and payment repudiation or moratorium. For credit derivatives based on a portfolio of referenced credits or credit indices, the Corporation may not be required to make payment until a specified amount of loss has occurred and/or may only be required to make payment up to a specified amount.
+Credit derivatives are classified as investment and non-investment grade based on the credit quality of the underlying referenced obligation. The Corporation considers ratings of BBB- or higher as investment grade. Non-investment grade includes non-rated credit derivative instruments. The Corporation discloses internal categorizations of investment grade and non-investment grade consistent with how risk is managed for these instruments.
+Credit derivative instruments where the Corporation is the seller of credit protection and their expiration at December 31, 2024 and 2023 are summarized in the following table.
+The notional amount represents the maximum amount payable by the Corporation for most credit derivatives. However, the Corporation does not monitor its exposure to credit derivatives based solely on the notional

@@ -1,0 +1,41 @@
+made to mitigate accounting mismatches and to achieve operational simplifications. These positions are reported in
+Short-term borrowings
+and
+Long-term debt
+on the Company’s Consolidated Balance Sheet. The portion of the changes in fair value attributable to changes in Citigroup’s own credit spreads (i.e., DVA) is reflected as a component of
+AOCI
+while all other changes in fair value are reported in
+Principal transactions
+.
+Interest expense on non-structured liabilities is measured based on the contractual interest rates and reported as
+Interest expense
+in the Consolidated Statement of Income.
+The following table provides information about long-term debt and short-term borrowings carried at fair value:
+290
+28.
+PLEDGED ASSETS, RESTRICTED CASH, COLLATERAL, GUARANTEES AND COMMITMENTS
+Pledged Assets
+In connection with Citi’s financing and trading activities, Citi has pledged assets to collateralize its obligations under repurchase agreements, secured financing agreements, secured liabilities of consolidated VIEs and other borrowings.
+The approximate carrying values of the significant components of pledged assets recognized on Citi’s Consolidated Balance Sheet included the following:
+At December 31, 2024 and 2023, $
+535.6
+billion and $
+511.6
+billion, respectively, of these pledged assets may not be sold or repledged by the secured parties.
+Restricted Cash
+Citigroup defines restricted cash (as cash subject to withdrawal restrictions) to include cash deposited with central banks that must be maintained to meet minimum regulatory requirements, and cash set aside for the benefit of customers or for other purposes such as compensating balance arrangements or debt retirement. Restricted cash may include minimum reserve requirements at certain central banks and cash segregated to satisfy rules regarding the protection of customer assets as required by Citigroup broker-dealers’ primary regulators, including the SEC, the Commodity Futures Trading Commission and the United Kingdom’s Prudential Regulation Authority.
+Restricted cash is included on the Consolidated Balance Sheet within the following balance sheet lines:
+In addition to the restricted cash amounts presented above, at December 31, 2024 and 2023, approximately $
+7.2
+billion and $
+3.9
+billion, respectively, was held at the Russian Deposit Insurance Agency (DIA) and was subject to restrictions imposed by the Russian government. These restricted amounts are reported within
+Other assets
+on the Consolidated Balance Sheet.
+Collateral
+At December 31, 2024 and 2023, the approximate fair value of securities collateral received by Citi that may be resold or repledged, excluding the impact of allowable netting, was $
+844.8
+billion and $
+817.9
+billion, respectively. This collateral was received in connection with resale agreements, securities borrowings and loans, securities for securities lending transactions, derivative transactions and margined broker loans.
+At December 31, 2024 and 2023, a substantial portion

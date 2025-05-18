@@ -1,0 +1,42 @@
+Products and tax-oriented investments.
+Seed capital:
+Initial JPMorgan capital invested in products, such as mutual funds, with the intention of ensuring the fund is of sufficient size to represent a viable offering to clients, enabling pricing of its shares, and allowing the manager to develop a track record. After these goals are achieved, the intent is to remove the Firm’s capital from the investment.
+Shelf securities:
+Securities registered with the SEC under a shelf registration statement that have not been issued, offered or sold. These securities are not included in league tables until they have actually been issued.
+Single-name:
+Single reference-entities
+SLR:
+Supplementary leverage ratio
+SMBS:
+Stripped mortgage-backed securities
+SOFR:
+Secured Overnight Financing Rate
+SPEs:
+Special purpose entities
+Structural interest rate risk:
+Represents interest rate risk of the non-trading assets and liabilities of the Firm.
+Structured notes:
+Structured notes are financial instruments whose cash flows are linked to the movement in one or more indexes, interest rates, foreign exchange rates, commodities prices, prepayment rates, underlying reference pool of loans or other market variables. The notes typically contain embedded (but not separable or detachable) derivatives. Contractual cash flows for principal, interest, or both can vary in amount and timing throughout the life of the note based on non-traditional indexes or non-traditional uses of traditional interest rates or indexes.
+Suspended foreclosures:
+Loans referred to foreclosure where formal foreclosure proceedings have started but are currently on hold, which could be due to bankruptcy or loss mitigation. Includes both judicial and non-judicial states.
+Taxable-equivalent basis:
+In presenting results on a managed basis, the total net revenue for each of the reportable business segments and Corporate, and the Firm as a whole, is presented on a tax-equivalent basis. Accordingly, revenue from investments that receive tax
+credits and tax-exempt securities is presented in managed basis results on a level comparable to taxable investments and securities; the corresponding income tax impact related to tax-exempt items is recorded within income tax expense.
+TBVPS:
+Tangible book value per share
+TCE:
+Tangible common equity
+TDR:
+“Troubled debt restructuring”
+applies to loan modifications granted prior to January 1, 2023 and is deemed to occur when the Firm modifies the original terms of a loan agreement by granting a concession to a borrower that is experiencing financial difficulty. Loans with short-term and other insignificant modifications that are not considered concessions are not TDRs.
+TLAC:
+Total Loss Absorbing Capacity
+U.K.:
+United Kingdom
+Unaudited
+: Financial statements and/or information that have not been subject to auditing procedures by an independent registered public accounting firm.
+U.S.:
+United States of America
+U.S. GAAP:
+Accounting principles generally accepted in the U.S.
+U.S.

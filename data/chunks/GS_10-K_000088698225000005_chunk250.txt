@@ -1,0 +1,37 @@
+fair value received as collateral that were available to be delivered or repledged and were delivered or repledged.
+The table below presents information about assets pledged.
+The firm also segregates securities for regulatory and other purposes related to client activity. Such securities are segregated from trading assets and investments, as well as from securities received as collateral under resale agreements and securities borrowed transactions. Securities segregated by the firm were $
+64.21
+billion as of December 2024 and $
+49.26
+billion as of December 2023.
+Note 12.
+Other Assets
+The table below presents other assets by type.
+Property, Leasehold Improvements and Equipment
+Property, leasehold improvements and equipment is net of accumulated depreciation and amortization of $
+13.64
+billion as of both December 2024 and December 2023. Property, leasehold improvements and equipment included $
+6.57
+billion as of December 2024 and $
+6.65
+billion as of December 2023 that the firm uses in connection with its operations, and $
+52
+million as of December 2024 and $
+124
+million as of December 2023 of foreclosed real estate. The remainder is held by investment entities, including VIEs, consolidated by the firm.
+Substantially all property and equipment is depreciated on a straight-line basis over the useful life of the asset. Leasehold improvements are amortized on a straight-line basis over the shorter of the useful life of the improvement or the term of the lease. Capitalized costs of software developed or obtained for internal use are amortized on a straight-line basis over
+three years
+.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The firm tests property, leasehold improvements and equipment for impairment when events or changes in circumstances suggest that an asset’s or asset group’s carrying value may not be fully recoverable. To the extent the carrying value of an asset or asset group exceeds the projected undiscounted cash flows expected to result from the use and eventual disposal of the asset or asset group, the firm determines the asset or asset group is impaired and records an impairment equal to the difference between the estimated fair value and the carrying value of the asset or asset group. In addition, the firm will recognize an impairment prior to the sale of an asset or asset group if the carrying value of the asset or asset group exceeds its estimated fair value. Any impairments recognized are included in depreciation and amortization. The firm had impairments of $
+228
+million during 2024 and $
+314
+million during 2022, substantially all related to commercial real estate included in CIEs within Asset & Wealth Management. During 2023, the firm had impairments of $
+1.46
+billion related to commercial real estate included in CIEs within Asset & Wealth Management and $
+118
+million related to capitalized software substantially all within Platform Solutions and Asset & Wealth Management.
+Goodwill

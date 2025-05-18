@@ -1,0 +1,25 @@
+baskets, tranched indices and baskets, and cash positions. Aggregate market risk limits have been established for credit derivatives, and market risk measures are routinely monitored against these limits. The Firm may also recover amounts on the underlying reference obligation delivered to the Firm under CDS where credit protection was sold.
+Single-Name CDS.
+A CDS protects the buyer against the loss of principal on a bond or loan in case of a default by the issuer. The protection buyer pays a periodic premium (generally quarterly) over the life of the contract and is protected for the period. The Firm, in turn, performs under a CDS if a credit event as defined under the contract occurs. Typical credit events include bankruptcy, dissolution or insolvency of the referenced entity, failure to pay and restructuring of the obligations of the referenced entity.
+Index and Basket CDS.
+Index and basket CDS are products where credit protection is provided on a portfolio of single-name CDS. Generally, in the event of a default on one of the underlying names, the Firm pays a pro rata portion of the total notional amount of the CDS.
+The Firm also enters into tranched index and basket CDS where credit protection is provided on a particular portion of the portfolio loss distribution. The most junior tranches cover initial defaults, and once losses exceed the notional of the
+tranche, they are passed on to the next most senior tranche in the capital structure.
+Other Credit Contracts.
+The Firm has invested in CLNs and CDOs, which are hybrid instruments containing embedded derivatives, in which credit protection has been sold to the issuer of the note. If there is a credit event of a reference entity underlying the instrument, the principal balance of the note may not be repaid in full to the Firm.
+7.
+Investment Securities
+AFS and HTM Securities
+1.
+Amounts are net of any ACL.
+2.
+U.S. agency securities consist mainly of agency mortgage pass-through pool securities, CMOs and agency-issued debt.
+3.
+Underlying loans are backed by a guarantee, ultimately from the U.S. Department of Education, of at least
+95
+% of the principal balance and interest outstanding.
+4.
+Represents the amount of unallocated portfolio layer method basis adjustments related to AFS securities hedged in a closed portfolio. Portfolio layer method basis adjustments are not allocated to individual securities. Refer to Note 2 and Note 6 for additional information.
+Investment Securities in an Unrealized Loss Position
+For AFS securities, the Firm believes there are no securities in an unrealized loss position that have credit losses after performing the analysis described in Note 2. Additionally, the Firm does not intend to sell these securities and is not likely to be required to sell these securities prior to recovery of the amortized cost basis. As of December 31, 2024 and December 31, 2023, the securities in an unrealized loss position are predominantly investment grade.
+The HTM securities net

@@ -1,0 +1,61 @@
+carrying value of $
+99.1
+billion and an estimated fair value of $
+90.6
+billion. As of December 31, 2024, our debt had a carrying value of $
+99.1
+billion and an estimated fair value of $
+89.8
+billion. The estimated fair value of our publicly traded debt was primarily based on Level 1 inputs that use quoted market value for the debt. The estimated fair value of debt for which there are no quoted market prices was based on Level 2 inputs that use interest rates available to us for debt with similar terms and remaining maturities.
+Note 6:
+Significant Transactions
+Acquisitions
+In April 2025, we acquired Nitel, a network-as-a-service managed service provider, for total cash consideration of $
+1.3
+billion. The acquisition will enhance our ability to serve and provide connectivity solutions to enterprise customers. Nitel’s results of operations will be included in our condensed consolidated results of operations following the date of acquisition and will be reported in our Business Services Connectivity segment. The assets and liabilities acquired as a result of the transaction will be recorded at their estimated fair values; however, due to the limited time since the acquisition date, the initial acquisition accounting is incomplete.
+10
+Table of Contents
+Comcast Corporation
+Note 7:
+Investments and Variable Interest Entities
+Investment and Other Income (Loss), Net
+The amount of unrealized gains (losses), net recognized in the
+three
+months ended March 31, 2025 and 2024 that related to marketable and nonmarketable equity securities still held as of the end of each reporting period was $(
+30
+) million and $(
+70
+) million, respectively.
+Investments
+Equity Me
+thod Investments
+The amount of cash distributions received from equity method investments presented within operating activities in the condensed consolidated statements of cash flows in the three months ended March 31, 2025 and 2024 was $
+27
+million and $
+32
+million, respectively.
+Atairos
+Atairos is a variable interest entity (“VIE”) that follows investment company accounting and records its investments at their fair values each reporting period with the net gains or losses reflected in its statement of operations. We recognize our share of these gains and losses in equity in net income (losses) of investees, net. For both the three months ended March 31, 2025 and 2024, we made cash capital contributions totaling $
+13
+million. As of March 31, 2025 and December 31, 2024, our investment, inclusive of advances classified withi
+n other investments, was $
+4.9
+billion and $
+5.1
+billion, respectively. As of March 31, 2025, our remaining unfunded capital commitment was $
+1.4
+billion.
+Other Investments
+Other investments also includes certain short-term instruments. We had
+no
+short-term instruments as of
+March 31, 2025
+and
+December 31, 2024
+. There were
+no
+proceeds from or purchases of short-term instruments for the three months
+ended March 31, 2025. Proceeds from short-term instruments were
+$
+255
+million and

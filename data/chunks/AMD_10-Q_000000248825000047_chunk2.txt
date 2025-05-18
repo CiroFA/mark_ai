@@ -1,0 +1,15 @@
+accompanying notes.
+8
+Table of Contents
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+NOTE 1 –
+The Company
+Advanced Micro Devices, Inc. is a global semiconductor company. References herein to AMD or the Company mean Advanced Micro Devices, Inc. and its consolidated subsidiaries. AMD’s products include Artificial Intelligence (AI) accelerators, microprocessors (CPUs) for servers and graphics processing units (GPUs), as standalone devices or as incorporated into accelerated processing units (APUs), chipsets, data center and professional GPUs, embedded processors, semi-custom System-on-Chip (SoC) products, microprocessor and SoC development services and technology, data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), System on Modules (SOMs), Smart Network Interface Cards (SmartNICs), and Adaptive SoC products. From time to time, the Company may also sell or license portions of its intellectual property (IP) portfolio.
+NOTE 2 –
+Basis of Presentation and Significant Accounting Policies
+Basis of Presentation.
+The accompanying unaudited condensed consolidated financial statements of AMD have been prepared in accordance with United States generally accepted accounting principles (U.S. GAAP) for interim financial information and the instructions to Form 10-Q and Article 10 of Regulation S-X. The results of operations for the three months ended March 29, 2025 shown in this report are not necessarily indicative of results to be expected for the full year ending December 27, 2025 or any other future period. In the opinion of the Company’s management, the information contained herein reflects all adjustments necessary for a fair presentation of the Company’s results of operations, financial position, cash flows and stockholders’ equity. All such adjustments are of a normal, recurring nature. The unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended December 28, 2024. Certain amounts from fiscal year 2024 have been reclassified to conform to current period presentation. These include the presentation of Payables to related parties within Accounts payable, Operating lease right-of-use assets and Investment: equity method within Other non-current assets, and Receivables from related parties within Prepaid expenses and other current assets.
+The Company uses a 52- or 53-week fiscal year ending on the last Saturday in December. The three months ended March 29, 2025 and March 30, 2024 each consisted of 13 weeks.
+Use of Estimates.
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of commitments and contingencies at the date of the financial statements and the reported amounts of revenues and expenses during the reporting

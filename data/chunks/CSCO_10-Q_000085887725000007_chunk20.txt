@@ -1,0 +1,20 @@
+in the U.S. and Europe, we are unable to reasonably estimate the ultimate outcome of the litigations at this time. If we do not prevail in these litigations, we believe that any damages ultimately assessed would not have a material effect on our Consolidated Financial Statements.
+Ramot
+On June 12, 2019 and on February 26, 2021, Ramot at Tel Aviv University Ltd. (“Ramot”) asserted patent infringement claims against Cisco and Acacia in the U.S. District Court for the Eastern District of Texas (“E.D. Tex.”) and in the District of Delaware (“D. Del.”), respectively. Ramot is seeking damages, including enhanced damages, and a royalty on future sales. Ramot alleges that certain optical transceiver modules and line cards infringe
+three
+patents. We challenged the validity of the patents in the U.S. Patent and Trademark Office (“PTO”) and the pending District Court cases have been stayed. On September 28, 2021 and May 24, 2022, Cisco and Acacia filed
+two
+declaratory judgment actions of noninfringement against Ramot in D. Del on other Ramot patents and those proceedings are ongoing. The Court set trial in the D. Del. cases for November 3, 2025.
+While we believe that we have strong non-infringement and invalidity arguments in these litigations, and that Ramot’s damages theories in such cases are not supported by prevailing law, we are unable to reasonably estimate the ultimate outcome of these litigations at this time due to uncertainties in the litigation processes. If we do not prevail in court in these litigations, we believe any damages ultimately assessed would not have a material effect on our Consolidated Financial Statements.
+32
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+Egenera
+On August 8, 2016, Egenera, Inc. (“Egenera”) asserted infringement claims against us in the U.S. District Court for the District of Massachusetts, alleging that Cisco’s Unified Computing System Manager infringes
+three
+patents. Egenera sought damages, including enhanced damages, and an injunction.
+Two
+of the asserted patents were dismissed, leaving Egenera’s infringement claim based on one asserted patent. On March 25, 2022, the PTO preliminarily found all of the asserted claims of the remaining patent unpatentable in ex parte reexamination proceedings. On August 15, 2022, after a jury trial for the remaining patent, the jury returned a verdict in favor of Cisco. The District Court denied Egenera’s post-trial motions, and Egenera filed an appeal to the Federal Circuit on January 13, 2023. The Federal Circuit heard oral argument on October 11, 2024 and we are awaiting the decision.
+In addition to the above matters, we are subject to other legal proceedings, claims, and litigation arising in the ordinary course of business, including intellectual property litigation. While the outcome of these matters is currently not determinable, we do not believe that the ultimate costs to resolve these matters will have a

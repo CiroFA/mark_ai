@@ -1,0 +1,20 @@
+$10.4 billion at  March 31, 2025 and December 31, 2024.
+(3)
+Industries are viewed from a variety of perspectives to best isolate the perceived risks. For purposes of this table, the real estate industry is defined based on the primary business activity of the borrowers or counterparties using operating cash flows and primary source of repayment as key factors.
+Risk Mitigation
+We purchase credit protection to cover the funded portion as well as the unfunded portion of certain credit exposures. To lower the cost of obtaining our desired credit protection levels, we may add credit exposure within an industry, borrower or counterparty group by selling protection.
+At March 31, 2025 and December 31, 2024, net notional credit default protection purchased in our credit derivatives portfolio to hedge our funded and unfunded exposures for which we elected the fair value option, as well as certain other credit exposures, was $12.0 billion and $10.4 billion. We recorded net gains of $3 million for the three months ended March 31, 2025 compared to net losses of $25 million for the three months ended March 31, 2024. The gains and losses on these instruments were largely offset by gains and losses on the related exposures. The Value-at-Risk (VaR) results for the exposures under the fair value option are included in the fair value option portfolio information in Table 37. For more information, see Trading Risk Management on page 38.
+Tables 32 and 33 present the maturity profiles and the credit exposure debt ratings of the net credit default protection portfolio at March 31, 2025 and December 31, 2024.
+(1)
+Represents net credit default protection purchased.
+(2)
+Ratings are refreshed on a quarterly basis.
+(3)
+Ratings of BBB- or higher are considered to meet the definition of investment grade.
+(4)
+NR is comprised of index positions held and any names that have not been rated.
+For more information on credit derivatives and counterparty credit risk valuation adjustments, see
+Note 3 – Derivatives
+to the Consolidated Financial Statements of the Corporation’s 2024 Annual Report on Form 10-K.
+Non-U.S. Portfolio
+Our non-U.S. credit and trading portfolios are subject to country risk. We define country risk as the risk of loss from unfavorable economic and political conditions, currency fluctuations, social instability and changes in government policies. A risk management framework is in place to measure, monitor and manage non-U.S. risk and exposures. In addition to the direct risk of doing business in a country, we also are exposed to indirect country risks (e.g., related to the collateral received on secured financing transactions or related to client clearing activities). These indirect exposures are managed in the normal course of business through credit, market and operational risk governance rather than through country risk governance. For more information on our non-U.S. credit and trading portfolios, see Non-U.S. Portfolio in the MD&A of the Corporation’s 2024

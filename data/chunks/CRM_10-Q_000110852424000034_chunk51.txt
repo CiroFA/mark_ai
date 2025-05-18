@@ -1,0 +1,15 @@
+These exposures may change over time as business practices evolve and economic conditions change. Changes in foreign currency exchange rates could have an adverse impact on our financial results and cash flows.
+Foreign Currency Transaction Risk
+Our foreign currency exposures typically arise from selling annual and multi-year subscriptions in multiple currencies, customer accounts receivable, intercompany transfer pricing arrangements and other intercompany transactions. Our foreign currency management objective is to minimize the effect of fluctuations in foreign exchange rates on selected assets or liabilities without exposing us to additional risk associated with transactions that could be regarded as speculative.
+We pursue our objective by utilizing foreign currency forward contracts to offset foreign exchange risk. Our foreign currency forward contracts are generally short-term in duration. We neither use these foreign currency forward contracts for trading purposes nor do we currently designate these forward contracts as hedging instruments under the relevant accounting and financial reporting guidelines. Accordingly, we record the fair values of these contracts as of the end of our reporting period to our condensed consolidated balance sheets with changes in fair values recorded to our condensed consolidated statements of operations. Given the short duration of the forward contracts, the amount recorded is not significant. Our ultimate realized gain or loss with respect to foreign currency exposures will generally depend on the size and type of cross-currency transactions that we enter into, the currency exchange rates associated with these exposures and changes in those rates, the net realized gain or loss on our foreign currency forward contracts and other factors.
+Foreign Currency Translation Risk
+Fluctuations in foreign currencies impact the amount of total assets, liabilities, revenues, operating expenses and cash flows that we repor
+t for our foreign subsidiaries upon the translation of these amounts into USD. Total revenue during
+the three months ended October 31, 2024
+, was minimally impacted by fluctuations in foreign currencies compared to
+the three months ended October 31, 2023
+. In addition, fluctuations in foreign currencies minimally impacted our current remaining performance obligation
+a
+s of October 31, 2024 compared to what we would have reported as of October 31, 2023.
+Interest Rate Sensitivity
+As of October 31, 2024, we had cash, cash equivalents and marketable securities totaling $12.8 billion. This amount was invested primarily in money market funds, time deposits, corporate notes and bonds, government securities and other debt securities with credit ratings of at least BBB or better. The cash, cash equivalents and marketable securities are held for general corporate purposes, including share repurchases, dividend payments, acquisitions of, or investments in, complementary businesses, services or technologies, working

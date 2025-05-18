@@ -1,0 +1,26 @@
+awards expected to vest is measured at fair value on the date of grant and recognized over the service period. The fair value of restricted stock units is determined based on the number of shares granted and the quoted price of our common stock. Such value is recognized as expense over the service period, net of estimated forfeitures, using the accelerated method. Under this method, approximately
+50
+% of the grant date fair value is recognized as expense in the first year of grant for the majority of our stock-based compensation awards. The accelerated method also adds a higher level of sensitivity and complexity in estimating forfeitures. If an award is forfeited early in its life, the adjustment to compensation expense is much greater under an accelerated method than under a straight-line method. The estimated number of stock awards that will ultimately vest requires judgment, and to the extent actual results or updated estimates differ from our current estimates, such amounts will be recorded as a cumulative adjustment in the period estimates are revised. We consider many factors when estimating expected forfeitures, including historical forfeiture experience. Additionally, we have stock-based compensation awards that are expected to settle in cash. These liability-classified awards are remeasured to fair value at the end of each reporting period until settlement or expiration.
+Other Operating Expense (Income), Net
+Other operating expense (income), net, consists primarily of the amortization of intangible assets and asset impairments.
+44
+Table of Contents
+Other Income (Expense), Net
+Other income (expense), net, is as follows (in millions):
+Included in other income (expense), net in 2022, 2023, and 2024 is a marketable equity securities valuation gain (loss) of $(
+12.7
+) billion, $
+797
+million, and $(
+1.6
+) billion from our equity investment in Rivian Automotive, Inc. (“Rivian”). Our investment in Rivian’s preferred stock was accounted for at cost, with adjustments for observable changes in prices or impairments, prior to Rivian’s initial public offering in November 2021, which resulted in the conversion of our preferred stock to Class A common stock. As of December 31, 2024, we held
+158
+million shares of Rivian’s Class A common stock, representing an approximate
+14
+% ownership interest, and an approximate
+13
+% voting interest. We determined that we have the ability to exercise significant influence over Rivian through our equity investment, our commercial arrangement for the purchase of electric vehicles and jointly-owned intellectual property, and one of our employees serving on Rivian’s board of directors. We elected the fair value option to account for our equity investment in Rivian, which is included in “Marketable securities” on our consolidated balance sheets, and had a fair value of $
+3.7
+billion and $
+2.1
+billion as of December 31, 2023 and December 31, 2024. The investment was subject to regulatory sales restrictions resulting in a

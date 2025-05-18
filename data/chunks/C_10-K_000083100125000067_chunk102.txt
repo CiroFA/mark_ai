@@ -1,0 +1,28 @@
+contractual delinquency.
+91
+Non-Accrual Loans
+The table below summarizes Citigroup’s non-accrual loans (NAL) as of the periods indicated. Non-accrual loans may still be current on interest payments. In situations where Citi reasonably expects that only a portion of the principal owed will ultimately be collected, all payments received are reflected as a reduction of principal and not as interest income. For all other non-accrual loans, cash interest receipts are generally recorded as revenue.
+(1)
+Corporate loans are placed on non-accrual status based on a review by Citigroup’s risk officers. Corporate non-accrual loans may still be current on interest payments. With limited exceptions, the following practices are applied for consumer loans: consumer loans, excluding credit cards and mortgages, are placed on non-accrual status at 90 days past due and are charged off at 120 days past due; residential mortgage loans are placed on non-accrual status at 90 days past due and written down to net realizable value at 180 days past due. Consistent with industry conventions, Citigroup generally accrues interest on credit card loans until such loans are charged off, which typically occurs at 180 days contractual delinquency. As such, the non-accrual loan disclosures do not include credit card loans. The balances above represent non-accrual loans within
+Corporate loans
+and
+Consumer loans
+on the Consolidated Balance Sheet.
+(2)
+Approximately 61%, 50%, 50%, 56% and 64% of Citi’s corporate non-accrual loans remain current on interest and principal payments at December 31, 2024, 2023, 2022, 2021 and 2020, respectively.
+(3)
+The December 31, 2024 total corporate non-accrual loans represented 0.46% of total corporate loans.
+(4)    Asia Consumer includes balances in Poland and Russia for all periods presented and in Bahrain for December 31, 2021 and 2020.
+92
+The changes in Citigroup’s non-accrual loans were as follows:
+The table below summarizes Citigroup’s other real estate owned (OREO) assets. OREO is recorded on the Consolidated Balance Sheet within
+Other assets.
+This represents the carrying value of all real estate property acquired by foreclosure or other legal proceedings when Citi has taken possession of the collateral:
+(1)
+The International OREO details by cluster are not provided due to the immateriality of such amounts.
+(2)
+The ACLL includes the allowance for Citi’s credit card portfolios and purchased credit-deteriorated loans, while the non-accrual loans exclude credit card balances (with the exception of certain international portfolios).
+93
+LIQUIDITY RISK
+Overview
+Adequate and diverse sources of funding and liquidity are essential to Citi’s businesses. Funding and liquidity risks arise from several factors, many of which are mostly or entirely outside of Citi’s control, such as disruptions in the financial markets, changes in key funding sources, credit spreads, changes in Citi’s credit ratings and macroeconomic, geopolitical and other conditions. For

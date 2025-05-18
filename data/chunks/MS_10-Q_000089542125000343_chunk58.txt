@@ -1,0 +1,51 @@
+Alternative Net Capital broker-dealer, and in accordance with Securities Exchange Act of 1934 (“Exchange Act”) Rule 15c3-1, Appendix E, MS&Co. is subject to minimum net capital and tentative net capital requirements and operates with capital in excess of its regulatory capital requirements. As a futures commission merchant and registered swap dealer, MS&Co. is subject to CFTC capital requirements. In addition, MS&Co. must notify the SEC if its tentative net capital falls below certain levels. At March 31, 2025 and December 31, 2024, MS&Co. exceeded its net capital requirement and had tentative net capital in excess of the minimum and notification requirements.
+Other Regulated Subsidiaries
+Certain other subsidiaries are also subject to various regulatory capital requirements. Such subsidiaries include the following, each of which operated with capital in excess of their respective regulatory capital requirements as of March 31, 2025 and December 31, 2024, as applicable:
+•
+MSSB,
+•
+MSIP,
+•
+MSESE,
+•
+MSMS,
+•
+MSCS, and
+•
+MSCG.
+See Note 16 to the financial statements in the 2024 Form 10-K for further information.
+16.
+Total Equity
+Preferred Stock
+1.
+Series C preferred stock is held by MUFG.
+For a description of Series A through Series Q preferred stock, see Note 17 to the financial statements in the 2024
+Form 10-K. The Firm’s preferred stock has a preference over its common stock upon liquidation. The Firm’s preferred stock qualifies as and is included in Tier 1 capital in accordance with regulatory capital requirements (see Note 15).
+Share Repurchases
+On June 28, 2024, the Firm announced that its Board of Directors reauthorized a multi-year repurchase program of up to $
+20
+billion of outstanding common stock (the “Share Repurchase Authorization”), without a set expiration date, beginning in the third quarter of 2024, which will be exercised from time to time as conditions warrant. For more information on share repurchases, see Note 17 to the financial statements in the 2024 Form 10-K.
+Common Shares Outstanding for Basic and Diluted EPS
+Dividends
+1.
+Common and Preferred Stock dividends are payable quarterly unless otherwise noted.
+2.
+Series M is payable semiannually until September 15, 2026 and thereafter will be payable quarterly.
+Accumulated Other Comprehensive Income (Loss)
+1
+1.
+Amounts are net of tax and noncontrolling interests.
+Components of Period Changes in OCI
+17.
+Interest Income and Interest Expense
+1.
+Includes interest paid on Securities purchased under agreements to resell.
+2.
+Includes fees paid on Securities borrowed.
+3.
+Includes interest received on Securities sold under agreements to repurchase.
+4.
+Includes fees received on Securities loaned.
+5.
+Includes fees received from Equity Financing customers related to their short transactions, which can be under either margin or securities lending arrangements.
+Interest income and Interest expense are classified in the income statement based on the nature of the instrument and related market

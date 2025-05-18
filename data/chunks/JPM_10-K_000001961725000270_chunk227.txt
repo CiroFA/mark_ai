@@ -1,0 +1,20 @@
+Firm’s internal country risk reporting differs from the reporting provided under the FFIEC bank regulatory requirements.
+Stress testing
+Stress testing is an important component of the Firm’s country risk management framework, which aims to estimate and limit losses arising from a country crisis by measuring the impact of adverse asset price movements to a country based on market shocks combined with counterparty specific assumptions. Country Risk Management periodically designs and runs tailored stress scenarios to test vulnerabilities to individual countries or  sets
+of countries in response to specific or potential market events, sector performance concerns, sovereign actions and geopolitical risks. These tailored stress results are used to  inform potential risk reduction across the Firm, as necessary.
+Risk reporting
+Country exposure and stress are measured and reported regularly, and used by Country Risk Management to identify trends and monitor high usages and breaches against limits.
+For country risk management purposes, the Firm may report exposure to jurisdictions that are not fully autonomous, including dependent territories and Special Administrative Regions (“SAR”) such as Hong Kong SAR, separately from the independent sovereign states with which they are associated.
+The following table presents the Firm’s top 20 exposures by country (excluding the U.S.) as of December 31, 2024, and their comparative exposures as of December 31, 2023. The top 20 country exposures represent the Firm’s largest total exposures by individual country. Country exposures may fluct
+uate from period to period due to a variety of factors, including client activity, market flows and liquidity management activities undertaken by the Firm.
+The increase in exposure to Germany when compared to December 31, 2023, was driven by an increase in cash placed with the central bank of Germany, predominantly due to client-driven market-making activities and higher client deposits.
+The increase in exposure to Japan when compared to December 31, 2023, was driven by an increase in cash placed with the central bank of Japan as a result of client-driven market-making activities.
+The Firm continues to monitor its exposure to Russia, which corresponds to cash placed with the central bank, but which excludes deposits placed on behalf of clients at the Deposit Insurance Agency of Russia. The Firm currently believes that its remaining exposure to Russia is not material. Refer to Note 30 on pages 310–311 for information concerning Russian litigation.
+(a)
+Country exposures presented in the table reflect 89% and 88% of total F
+irmwide non-U.S. exposure,
+where exposure is attributed to an individual country based on the Firm’s internal country risk management approach, at December 31, 2024 and 2023, respectively.
+(b)
+Predominantly represents cash placed with central banks.
+(c)
+Includes loans and accrued interest receivable, lending-related commitments (net of eligible collateral and the

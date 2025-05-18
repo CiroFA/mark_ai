@@ -1,0 +1,20 @@
+Standards Update (“ASU”) amending existing income tax disclosure guidance, primarily requiring more detailed disclosure for income taxes paid and the effective tax rate reconciliation. The ASU is effective for annual reporting periods beginning after December 15, 2024, with early adoption permitted and can be applied on either a prospective or retroactive basis. We expect to adopt the ASU on a retroactive basis.
+In November 2024, the FASB issued an ASU amending existing income statement disclosure guidance, primarily requiring more detailed disclosure for expenses. The ASU is effective for annual reporting periods beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted. The amendments can be applied on either a prospective or retroactive basis. We are currently evaluating the ASU to determine its impact on our disclosures.
+9
+Table of
+Contents
+Note 2 —
+FINANCIAL INSTRUMENTS
+Cash, Cash Equivalents, Restricted Cash, and Marketable Securities
+As of December 31, 2024 and March 31, 2025, our cash, cash equivalents, restricted cash, and marketable securities primarily consisted of cash, AAA-rated money market funds, U.S. and foreign government and agency securities, other investment grade securities, and marketable equity securities. Cash equivalents and marketable securities are recorded at fair value. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation methodologies used to measure fair value:
+Level 1—
+Valuations based on quoted prices for identical assets and liabilities in active markets.
+Level 2—
+Valuations based on observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data.
+Level 3—
+Valuations based on unobservable inputs reflecting our own assumptions, consistent with reasonably available assumptions made by other market participants. These valuations require significant judgment.
+We measure the fair value of money market funds and certain marketable equity securities based on quoted prices in active markets for identical assets or liabilities. Other marketable securities were valued either based on recent trades of securities in inactive markets or based on quoted market prices of similar instruments and other significant inputs derived from or corroborated by observable market data.
+10
+Table of
+Contents
+The following table summarizes, by major security type, our cash, cash equivalents, restricted cash, and marketable securities that are measured at fair value on a

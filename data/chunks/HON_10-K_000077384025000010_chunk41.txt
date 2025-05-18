@@ -1,0 +1,17 @@
+not be fully recoverable. The principal factors in considering when to perform an impairment review are as follows:
+•
+Significant under-performance (i.e., declines in sales, earnings, or cash flows) of a business or product line in relation to expectations;
+•
+Annual operating plans or strategic plan outlook that indicates an unfavorable trend in operating performance of a business or product line;
+•
+Significant negative industry or economic trends; or
+•
+Significant changes or planned changes in our use of the assets.
+Once it is determined that an impairment review is necessary, recoverability of assets is measured by comparing the carrying amount of the asset group to the estimated future undiscounted cash flows. If the carrying amount exceeds the estimated future undiscounted cash flows, impairment is then measured as the excess, if any, of the carrying amount of the asset group over its fair value.
+The fair value estimates are subject to changes in the economic environment, including market interest rates and expected volatility. Management believes the estimates of future cash flows and fair values are reasonable; however, changes in estimates due to variances from assumptions could materially affect the valuations.
+Defined Benefit Pension Plans
+—We sponsor both funded and unfunded U.S. and non-U.S. defined benefit pension plans. For financial reporting purposes, net periodic pension (income) expense is calculated annually based upon various actuarial assumptions, including a discount rate for plan obligations and an expected long-term rate of return on plan assets. Changes in the discount rate and expected long-term rate of return on plan assets could materially affect the annual pension (income) expense amount. Annual pension (income) expense is comprised of service and interest cost, assumed return on plan assets, prior service amortization (Pension ongoing (income) expense), and a potential mark-to-market adjustment (MTM Adjustment).
+The key assumptions used in developing our net periodic pension (income) expense for our U.S. plans included the following:
+43
+Honeywell International Inc.
+The MTM Adjustment represents the recognition of net actuarial gains or losses in excess of 10% of the greater of the fair value of plan assets or the plans’ projected benefit obligation (the corridor). Net actuarial gains or losses occur when the actual experience differs from any of the various assumptions used to value our pension plans or when assumptions change. The primary factors contributing to actuarial gains or losses are changes in the discount rate used to value pension obligations as of the measurement date each year and the difference between expected and actual returns on plan assets. The mark-to-market accounting method results in the potential for volatile and difficult to forecast MTM Adjustments. These adjustments resulted in expenses of $126 million, $153 million, and $523 million for the years ended December 31, 2024, 2023, and 2022,

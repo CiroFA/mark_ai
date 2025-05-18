@@ -1,0 +1,20 @@
+March 31, 2025, the ACLL attributed to the total funded CRE exposure (including
+Wealth
+) was approximately 1.75%, and there were $645 million of non-accrual CRE loans. As of December 31, 2024, the ACLL attributed to the total funded CRE exposure (including
+Wealth
+) was approximately 1.60%, and there were $574 million of non-accrual CRE loans.
+47
+The following table details Citi’s corporate credit portfolio by industry as of December 31, 2024:
+(1)    Funded excludes loans carried at fair value of $7.8 billion and HFS of $3.6 billion as of December 31, 2024.
+(2)    Unfunded includes lending-related commitments carried at fair value and HFS as of December 31, 2024.
+(3)    Includes non-accrual loan exposures and related criticized unfunded exposures.
+(4)    Represents the amount of purchased credit protection in the form of derivatives to economically hedge funded and unfunded exposures. Of the $37.8 billion of purchased credit protection, $34.8 billion represents the total notional amount of purchased credit derivatives on individual reference entities. The remaining $3 billion represents the first loss tranche of portfolios of purchased credit derivatives with a total notional amount of $22.9 billion, where the protection seller absorbs the first loss on the referenced loan portfolios.
+(5)    Autos total credit exposure includes securitization financing facilities secured by auto loans and leases, extended mainly to the finance company subsidiaries of global auto manufacturers, bank subsidiaries and independent auto finance companies, of approximately $17.5 billion ($10.5 billion of which was funded exposure with 100% rated investment grade) as of December 31, 2024.
+(6)    In addition to this exposure, Citi has energy-related exposure within the public sector (e.g., energy-related state-owned entities) and the transportation and industrials sector (e.g., off-shore drilling entities) included in the table above. As of December 31, 2024, Citi’s total exposure to these energy-related entities was approximately $4.4 billion, of which approximately $2.1 billion consisted of direct outstanding funded loans.
+(7)    Includes $0.6 billion and $0.1 billion of funded and unfunded exposure at December 31, 2024, respectively, primarily related to commercial credit card delinquency-managed loans.
+48
+Credit Risk Mitigation
+As part of its overall risk management activities, Citigroup uses credit derivatives, both partial and full term, and other risk mitigants to economically hedge portions of the credit risk in its corporate credit portfolio, in addition to outright asset sales. In advance of the expiration of partial-term economic hedges, Citi will determine, among other factors, the economic feasibility of hedging the remaining life of the instrument. The results of the mark-to-market and any realized gains or losses on credit derivatives are reflected primarily in
+Principal transactions
+in the Consolidated Statement of Income.
+At March 31, 2025, December 31,

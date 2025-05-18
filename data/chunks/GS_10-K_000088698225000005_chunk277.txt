@@ -1,0 +1,28 @@
+loss in value, due to price risk and defaults, within the firm’s credit correlation positions; and
+•
+Specific risk is the risk of loss on a position that could result from factors other than broad market movements, including event risk, default risk and idiosyncratic risk. The standardized measurement method is used to determine specific risk RWAs, by applying supervisory defined risk-weighting factors after applicable netting is performed.
+Operational Risk
+Operational RWAs are only required to be included under the Advanced Capital Rules. The firm utilizes an internal risk-based model to quantify Operational RWAs.
+The table below presents information about RWAs.
+In the table above:
+•
+Securities financing transactions represents resale and repurchase agreements and securities borrowed and loaned transactions.
+•
+Other includes receivables, certain debt securities, cash and cash equivalents, and other assets.
+The table below presents changes in RWAs.
+RWAs Rollforward Commentary
+Year Ended December 2024.
+Standardized Credit RWAs as of December 2024 decreased by $
+12.15
+billion compared with December 2023, primarily reflecting a decrease in securities financing transactions (principally due to reduced funding exposures), a decrease in other credit RWAs (principally due to decreases in other assets), and a decrease in equity investments (principally due to reduced exposures). These decreases were partially offset by an increase in commitments, guarantees and loans (principally due to increased lending exposures). Standardized Market RWAs as of December 2024 increased by $
+7.95
+billion compared with December 2023, primarily reflecting an increase in regulatory VaR (principally due to increased exposures) and an increase in specific risk (principally due to increased exposures to debt and equity instruments held for market-making purposes).
+Advanced Credit RWAs as of December 2024 increased by $
+3.14
+billion compared with December 2023, primarily reflecting an increase in commitments, guarantees and loans (principally due to increased lending exposures) and an increase in derivatives (principally due to increased counterparty credit risk). These increases were partially offset by a decrease in equity investments (principally due to reduced exposures). Advanced Market RWAs as of December 2024 increased by $
+7.95
+billion compared with December 2023, primarily reflecting an increase in regulatory VaR (principally due to increased exposures) and an increase in specific risk (principally due to increased exposures to debt and equity instruments held for market-making purposes).
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+GS Bank USA
+GS Bank USA is the firm’s primary U.S. bank subsidiary. GS Bank USA is a New York State-chartered bank and a member of the Federal Reserve System, is supervised and regulated by the FRB, the FDIC, the New York State Department of Financial Services (NYDFS) and the Consumer Financial

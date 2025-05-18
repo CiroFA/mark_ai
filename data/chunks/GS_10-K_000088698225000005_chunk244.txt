@@ -1,0 +1,28 @@
+gains and losses would have been recognized under other U.S. GAAP even if the firm had not elected to account for the entire hybrid financial instrument at fair value.
+•
+Gains/(losses) included in other were primarily related to resale and repurchase agreements, deposits and other secured financings.
+•
+Other financial assets and liabilities at fair value are frequently economically hedged with trading assets and liabilities. Accordingly, gains or losses on such other financial assets and liabilities can be partially offset by gains or losses on trading assets and liabilities. As a result, gains or losses on other financial assets and liabilities do not necessarily represent the overall impact on the firm’s results of operations, liquidity or capital resources.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Gains/(losses) on trading assets and liabilities accounted for at fair value under the fair value option are included in market making. See Note 6 for further information about gains/(losses) from market making. See Note 8 for information about gains/(losses) on equity securities and Note 9 for information about gains/(losses) on loans which are accounted for at fair value under the fair value option.
+Long-Term Debt Instruments
+The difference between the aggregate contractual principal amount and the related fair value of long-term other secured financings, for which the fair value option was elected was not material as of December 2024, and the aggregate contractual principal amount exceeded the fair value by $
+147
+million as of December 2023.
+The aggregate contractual principal amount of unsecured long-term borrowings, for which the fair value option was elected, exceeded the related fair value by $
+4.23
+billion as of December 2024 and $
+3.37
+billion as of December 2023.
+These debt instruments include both principal-protected and non-principal-protected long-term borrowings.
+Debt Valuation Adjustment
+The firm calculates the fair value of financial liabilities for which the fair value option is elected by discounting future cash flows at a rate which incorporates the firm’s credit spreads.
+The table below presents information about the net debt valuation adjustment (DVA) gains/(losses) on financial liabilities for which the fair value option was elected.
+In the table above:
+•
+After-tax DVA is included in debt valuation adjustment in the consolidated statements of comprehensive income.
+•
+The gains/(losses) reclassified to market making in the consolidated statements of earnings from accumulated other comprehensive income/(loss) upon extinguishment of such financial liabilities were not material for each of 2024, 2023 and 2022.
+Loans and Lending Commitments
+The table below presents the difference between the aggregate fair value and the aggregate contractual principal amount for loans (included in trading assets and loans in the consolidated balance sheets) for which the fair value option was elected.

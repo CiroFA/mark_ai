@@ -1,0 +1,18 @@
+periods, based upon enacted tax laws and rates. Deferred tax assets are recognized subject to management’s judgment about whether realization is more-likely-than-not. ASC 740,
+Income Taxes
+, sets out a consistent framework to determine the appropriate level of tax reserves to maintain for uncertain tax positions. This interpretation uses a two-step approach wherein a tax benefit is recognized if a position is more-likely-than-not to be sustained. The amount of the benefit is then measured to be the highest tax benefit that is more than 50% likely to be realized. ASC 740 also sets out disclosure requirements to enhance transparency of an entity’s tax reserves.
+See Note 10 for a further description of the Company’s tax provision and related income tax assets and liabilities.
+Commissions, Underwriting and Principal Transactions
+Commissions and fees revenues are recognized in income when earned. Underwriting revenues are recognized in income typically at the closing of the transaction.
+Principal transactions
+revenues are recognized in income on a trade-date basis.
+See Note 5 for a description of the Company’s revenue recognition policies for
+Commissions and fees
+, and Note 6 for details of
+Principal transactions
+revenue.
+Earnings per Share
+Earnings per share (EPS) is calculated using the two-class method. Under the two-class method, all earnings (distributed and undistributed) are allocated to common stock and participating securities. Undistributed earnings are calculated after deducting preferred stock dividends, any issuance cost incurred at the time of issuance of redeemed preferred stock and dividends paid and accrued to common stocks and RSU/DSA share awards. Citi grants restricted and deferred share awards under its shares-based compensation programs, which entitle recipients to receive nonforfeitable dividends during the vesting period on a basis equivalent to dividends paid to holders of the Company’s common stock. These unvested awards meet the definition of participating securities based on their respective rights to receive nonforfeitable dividends, and they are treated as a separate class of securities and are not included in computing basic EPS.
+Diluted EPS incorporates the potential impact of contingently issuable shares, stock options and awards, which require future service as a condition of delivery of the underlying common stock. Anti-dilutive options and warrants are disregarded in the EPS calculations. Diluted EPS is calculated under both the two-class and treasury stock methods, and the more dilutive amount is reported. Participating securities are not included as incremental shares in computing diluted EPS.
+Use of Estimates
+Management must make estimates and assumptions that affect the Consolidated Financial Statements and the related Notes. Such estimates are used in connection with certain fair value measurements. See Note 26 for further discussions on estimates used in the determination of fair value. Moreover, estimates are

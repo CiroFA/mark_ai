@@ -1,0 +1,46 @@
+2023, the Company’s securities exposure to the U.S. government and its agencies was $
+493
+billion and $
+517
+billion; to foreign governments was $
+209
+billion and $
+206
+billion; and to states and municipalities was $
+11
+billion and $
+12
+billion, respectively.
+266
+This page intentionally left blank.
+267
+26.
+FAIR VALUE MEASUREMENT
+ASC 820-10,
+Fair Value Measurement
+, defines fair value, establishes a consistent framework for measuring fair value and requires disclosures about fair value measurements. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date, and therefore represents an exit price. Among other things, the standard requires the Company to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+Under ASC 820-10, the probability of counterparty default is factored into the valuation of derivatives and other positions, and the impact of Citigroup’s own credit risk is factored into the valuation of derivatives and other liabilities that are measured at fair value.
+Fair Value Hierarchy Principles
+ASC 820-10 specifies a hierarchy of inputs based on whether the inputs are observable or unobservable. Observable inputs are developed using market data and reflect market participant assumptions, while unobservable inputs reflect the Company’s market assumptions. These two types of inputs have created the following fair value hierarchy:
+•
+Level 1: Quoted prices for
+identical
+instruments in active markets.
+•
+Level 2: Quoted prices for
+similar
+instruments in active markets, quoted prices for identical or similar instruments in markets that are not active and model-derived valuations in which all significant inputs and value drivers are
+observable
+in the market.
+•
+Level 3: Valuations derived from valuation techniques in which one or more significant inputs or significant value drivers are
+unobservable
+.
+As required under the fair value hierarchy, the Company considers relevant and observable market inputs in its valuations where possible.
+The fair value hierarchy classification approach typically utilizes rules-based and data-driven criteria to determine whether an instrument is classified as Level 1, Level 2 or Level 3:
+•
+The determination of whether an instrument is quoted in an active market and therefore considered a Level 1 instrument is based on the frequency of observed transactions and the quality of independent market data available on the measurement date.
+•
+A Level 2 classification is assigned where there is observability of prices/market inputs to models, or where any unobservable inputs are not significant to the valuation. The determination of whether an input is considered observable is based on the availability of independent market data and its corroboration, for example through observed transactions in the market.
+•
+Otherwise, an instrument is classified

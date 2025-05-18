@@ -1,0 +1,25 @@
+parties could require Caterpillar to satisfy the contractual obligation by providing goods, services or financial compensation. The maximum potential amount of future payments (undiscounted and without reduction for any amounts possibly recoverable) that we could be required to make under the guarantees was $
+390
+million and $
+368
+million at March 31, 2025 and December 31, 2024, respectively.
+We have dealer performance guarantees and third-party performance guarantees that do not limit potential payment to end users related to indemnities and other commercial contractual obligations.  In addition, we have entered into contracts involving industry standard indemnifications that do not limit potential payment.  For these unlimited guarantees, we are unable to estimate a maximum potential amount of future payments that could result from claims made.
+No significant loss has been experienced or is anticipated under any of these guarantees.
+Cat Financial provides guarantees to purchase certain loans of Caterpillar dealers from a special-purpose corporation (SPC) that qualifies as a variable interest entity. Cat Financial receives a fee for providing this guarantee. The purpose of the SPC is to provide short-term working capital loans to Caterpillar dealers.  This SPC issues commercial paper and uses the proceeds to fund its loan program. Cat Financial is the primary beneficiary of the SPC as its guarantees result in Cat Financial having both the power to direct the activities that most significantly impact the SPC’s economic performance and the obligation to absorb losses, and therefore Cat Financial has consolidated the financial statements of the SPC.  As of March 31, 2025 and December 31, 2024, the SPC’s assets of $
+1.01
+billion and $
+1.14
+billion, respectively, were primarily comprised of loans to dealers, and the SPC’s liabilities of $
+1.01
+billion and $
+1.14
+billion, respectively, were primarily comprised of commercial paper.  The assets of the SPC are not available to pay Cat Financial’s creditors.  Cat Financial may be obligated to perform under the guarantee if the SPC experiences losses.  No loss has been experienced or is anticipated under this loan purchase agreement.
+We determine our product warranty liability by applying historical claim rate experience to the current field population and dealer inventory.  Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America).  We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience.
+The reconciliation of the change in our product warranty liability balances for the three months ended March 31 was as follows:
+20
+Table of Contents
+12.
+Profit per share
+For both the three months ended March 31, 2025 and 2024, we excluded
+0.3
+million of outstanding stock options, respectively, from the computation of diluted

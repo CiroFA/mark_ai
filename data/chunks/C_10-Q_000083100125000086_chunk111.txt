@@ -1,0 +1,41 @@
+significant to the valuation. The determination of whether an input is considered observable is based on the availability of independent market data and its corroboration, for example through observed transactions in the market.
+•
+Otherwise, an instrument is classified as Level 3.
+Market Valuation Adjustments
+The table below summarizes the credit valuation adjustments (CVA) and funding valuation adjustments (FVA) applied to the fair value of derivative instruments (recorded in
+Trading account assets
+and
+Trading account liabilities
+on the Consolidated Balance Sheet) at March 31, 2025 and December 31, 2024:
+The table below summarizes pretax gains (losses) related to changes in CVA and FVA on derivative instruments, net of hedges (recorded in
+Principal transactions revenue
+in the Consolidated Statement of Income), and changes in debt valuation adjustments (DVA) on Citi’s own fair value option (FVO) liabilities (recorded in
+Other comprehensive income
+in the Consolidated Statement of Comprehensive Income) for the periods indicated:
+(1)    See Note 21 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+175
+Items Measured at Fair Value on a Recurring Basis
+The following tables present for each of the fair value hierarchy levels the Company’s assets and liabilities that are measured at fair value on a recurring basis at March 31, 2025 and December 31, 2024. The Company may hedge positions
+that have been classified in the Level 3 category with other financial instruments (hedging instruments) that may be classified as Level 3, but also with financial instruments classified as Level 1 or Level 2. The effects of these hedges are presented gross in the following tables:
+Fair Value Levels
+Table continues on the next page.
+176
+(1)
+Represents netting of (i) the amounts due under securities purchased under agreements to resell and the amounts owed under securities sold under agreements to repurchase and (ii) derivative exposures covered by a qualifying master netting agreement and cash collateral offsetting.
+(2)
+Amounts exclude $
+29
+million of investments measured at net asset value (NAV) in accordance with ASU 2015-07,
+Fair Value Measurement (Topic 820): Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent).
+(3)
+Because the amount of the cash collateral paid/received has not been allocated to the Level 1, 2 and 3 subtotals, these percentages are calculated based on total assets and liabilities measured at fair value on a recurring basis, excluding the cash collateral paid/received on derivatives.
+177
+Fair Value Levels
+Table continues on the next page.
+178
+(1)
+Represents netting of (i) the amounts due under securities purchased under agreements to resell and the amounts owed under securities sold under agreements to repurchase and (ii) derivative exposures covered by a qualifying master netting agreement and cash collateral offsetting.
+(2)
+Amounts exclude $
+23
+million of investments measured

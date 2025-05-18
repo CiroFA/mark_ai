@@ -1,0 +1,49 @@
+meaningfully different.
+102
+Table of
+Contents
+Note 5.
+Financial Instruments
+Fair Value Measurements
+Our cash equivalents, marketable securities, and restricted cash equivalents are classified within Level 1 or Level 2 of the fair value hierarchy because their fair values are derived from quoted market prices or alternative pricing sources and models utilizing market observable inputs. Certain other assets are classified within Level 3 because factors used to develop the estimated fair value are unobservable inputs that are not supported by market activity.
+The following tables summarize our assets measured at fair value on a recurring basis and the classification by level of input within the fair value hierarchy (in millions):
+103
+Table of
+Contents
+Unrealized Losses
+The following tables summarize our available-for-sale marketable debt securities and cash equivalents with unrealized losses as of December 31, 2024 and 2023, aggregated by major security type and the length of time that individual securities have been in a continuous loss position (in millions):
+The gross unrealized gains on our marketable debt securities were not material as of December 31, 2024 and 2023.
+104
+Table of
+Contents
+Contractual Maturities
+The following table classifies our marketable debt securities by contractual maturities (in millions):
+Instruments Measured at Fair Value on Non-recurring Basis
+Our non-marketable equity securities accounted for using the measurement alternative are measured at fair value on a non-recurring basis and are classified within Level 3 of the fair value hierarchy because we use significant unobservable inputs to estimate their fair value. For the years ended December 31, 2024 and 2023, changes in the fair value recorded for these non-marketable equity securities were not material. For additional information, see Note 6 — Non-marketable Equity Securities.
+Note 6.
+Non-marketable Equity Securities
+Our non-marketable equity securities are investments in privately-held companies without readily determinable fair values.
+The following table summarizes our non-marketable equity securities that were measured using measurement alternative and equity method (in millions):
+During the years ended December 31, 2024, 2023 and 2022, impairment and downward adjustments recorded for our non-marketable equity securities that were measured using measurement alternative was $
+42
+million, $
+101
+million, and $
+447
+million, respectively.
+105
+Table of
+Contents
+Note 7.
+Property and Equipment
+Property and equipment, net consists of the following (in millions):
+Construction in progress includes costs mostly related to construction of data centers, network infrastructure and servers. Depreciation expense on property and equipment was $
+15.29
+billion, $
+11.02
+billion, and $
+8.50
+billion for the years ended December 31, 2024, 2023, and 2022, respectively. Within property and equipment, our servers and network assets depreciation expenses were $
+11.34
+billion, $
+7.32

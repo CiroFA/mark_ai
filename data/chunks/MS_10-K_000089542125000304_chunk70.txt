@@ -1,0 +1,29 @@
+premises, equipment and software, ROU assets related to leases, other investments and deferred tax assets.
+A substantial portion of total assets consists of cash and cash equivalents, liquid marketable securities and short-term receivables. In the Institutional Securities business segment, these arise from market-making, financing and prime brokerage activities, and in the Wealth Management business segment, these arise from banking activities, including management of the investment portfolio.
+Liquidity Risk Management Framework
+The primary goal of our Liquidity Risk Management Framework is to ensure that we have access to adequate funding across a wide range of market conditions and time horizons. The framework is designed to enable us to fulfill our financial obligations and support the execution of our business strategies.
+The following principles guide our Liquidity Risk Management Framework:
+•
+Sufficient liquidity resources, which consist of HQLA and cash deposits with banks (“Liquidity Resources”) should be maintained to cover maturing liabilities and other planned and contingent outflows;
+•
+Maturity profile of assets and liabilities should be aligned, with limited reliance on short-term funding;
+•
+Source, counterparty, currency, region and term of funding should be diversified; and
+•
+Liquidity Stress Tests should anticipate, and account for, periods of limited access to funding.
+The core components of our Liquidity Risk Management Framework are the Required Liquidity Framework, Liquidity Stress Tests and Liquidity Resources, which support our target liquidity profile.
+Required Liquidity Framework
+Our Required Liquidity Framework establishes the amount of liquidity we must hold in both normal and stressed environments to ensure that our financial condition and overall soundness are not adversely affected by an inability (or perceived inability) to meet our financial obligations in a timely manner. The Required Liquidity Framework considers the most constraining liquidity requirement to satisfy all regulatory and internal limits at a consolidated and legal entity level.
+Liquidity Stress Tests
+We use Liquidity Stress Tests to model external and intercompany liquidity flows across multiple scenarios and a range of time horizons. These scenarios contain various combinations of idiosyncratic and systemic stress events of different severity and duration. The methodology, implementation, production and analysis of our Liquidity Stress Tests are important components of the Required Liquidity Framework.
+The assumptions used in our various Liquidity Stress Test scenarios include, but are not limited to, the following:
+•
+No government support;
+•
+No access to equity and limited access to unsecured debt markets;
+•
+Repayment of all unsecured debt maturing within the stress horizon;
+•
+Higher haircuts for and significantly lower availability of secured funding;
+•
+Additional collateral that would be required by trading counterparties, certain exchanges and

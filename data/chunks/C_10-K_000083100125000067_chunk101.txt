@@ -1,0 +1,27 @@
+corporate loan classifications are broadly based on the loan’s collateral, purpose and type of borrower, which may be different from the following industry table. For example, commercial and industrial, financial institutions, and installment and other loan classifications include various forms of loans to borrowers across multiple industries, whereas mortgage and real estate includes loans secured primarily by real estate.
+N/A  Not applicable
+89
+The following table details Citi’s corporate credit ACLL by industry exposure:
+(1)    Funded exposure excludes loans carried at fair value of $7.8 billion that are not subject to ACLL under the CECL standard.
+(2)    As of December 31, 2024, the portion of the ACLL attributed to the total funded CRE exposure (including the Private Bank) was approximately 1.60%.
+(3)    Includes $0.6 billion of funded exposure at December 31, 2024, primarily related to commercial credit card delinquency-managed loans.
+(4)    As of December 31, 2024, the ACLL above reflects coverage of 0.4% of funded investment-grade exposure and 2% of funded non-investment-grade
+exposure.
+The following table details Citi’s corporate credit ACLL by industry exposure:
+(1)    Funded exposure excludes loans carried at fair value of $7.3 billion that are not subject to ACLL under the CECL standard.
+(2)    As of December 31, 2023, the portion of the ACLL attributed to the total funded CRE exposure (including the Private Bank) was approximately 1.49%.
+(3)    Includes $0.6 billion of funded exposure at December 31, 2023, primarily related to commercial credit card delinquency-managed loans.
+(4)    As of December 31, 2023, the ACLL above reflects coverage of 0.3% of funded investment-grade exposure and 2.9% of funded non-investment-grade exposure.
+90
+Non-Accrual Loans and Assets
+There is a certain amount of overlap among non-accrual loans and assets. The following summary provides a general description of each category:
+•
+Corporate and consumer (including commercial banking) non-accrual status is based on the determination that payment of interest or principal is doubtful.
+•
+A corporate loan may be classified as non-accrual and still be current on principal and interest payments under the terms of the loan structure.
+•
+Consumer non-accrual status is generally based on aging, i.e., the borrower has fallen behind on payments.
+•
+Consumer mortgage loans, other than Federal Housing Administration (FHA)–insured loans, are classified as non-accrual within 60 days of notification that the borrower has filed for bankruptcy. Uninsured consumer mortgage loans are classified as non-accrual if the loan is 90 days or more past due. In addition, home equity loans are classified as non-accrual if the related residential first mortgage loan is 90 days or more past due.
+•
+U.S. Branded Cards and Retail Services are not included because, under industry standards, credit card loans accrue interest until such loans are charged off, which typically occurs at 180 days of

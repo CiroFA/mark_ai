@@ -1,0 +1,27 @@
+the hedging relationship.
+Fair Value Hedges
+The firm designates interest rate swaps as fair value hedges of certain fixed-rate unsecured long- and short-term debt and fixed-rate certificates of deposit and of certain U.S. and non-U.S. government securities classified as available-for-sale. These interest rate swaps hedge changes in fair value attributable to the designated benchmark interest rate (e.g., Secured Overnight Financing Rate (SOFR), Overnight Index Swap Rate or Sterling Overnight Index Average), effectively converting a substantial portion of these fixed-rate financial instruments into floating-rate financial instruments.
+The firm applies a statistical method that utilizes regression analysis when assessing the effectiveness of these hedging relationships in achieving offsetting changes in the fair values of the hedging instrument and the risk being hedged (i.e., interest rate risk). An interest rate swap is considered highly effective in offsetting changes in fair value attributable to changes in the hedged risk when the regression analysis results in a coefficient of determination of 80% or greater and a slope between 80% and 125%.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+For qualifying interest rate fair value hedges, gains or losses on derivatives are included in interest income/expense. The change in fair value of the hedged items attributable to the risk being hedged is reported as an adjustment to its carrying value (hedging adjustment) and is also included in interest income/expense. When a derivative is no longer designated as a hedge, any remaining difference between the carrying value and par value of the hedged item is amortized in interest income/expense over the remaining life of the hedged item using the effective interest method. See Note 23 for further information about interest income and interest expense.
+The table below presents the gains/(losses) from interest rate derivatives accounted for as hedges and the related hedged items.
+The table below presents the carrying value of investments, deposits and unsecured borrowings that are designated in an interest rate hedging relationship and the related cumulative hedging adjustment (increase/(decrease)) from current and prior hedging relationships included in such carrying values.
+In the table above:
+•
+Cumulative hedging adjustment included $(
+5.81
+) billion as of December 2024 and $(
+5.63
+) billion as of December 2023 of hedging adjustments from prior hedging relationships that were de-designated and substantially all were related to unsecured long-term borrowings.
+•
+The amortized cost of investments was
+$
+35.29
+billion as of December 2024 and $
+17.33
+billion as of December 2023.
+In addition, cumulative hedging adjustments for items no longer designated in a hedging relationship were
+no
+t material as of both December 2024 and December 2023.
+The firm designates certain foreign currency forward contracts as fair value

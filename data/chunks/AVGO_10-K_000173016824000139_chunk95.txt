@@ -1,0 +1,33 @@
+governing the respective notes, plus accrued and unpaid interest. In the event of a change in control, note holders will have the right to require us to repurchase their notes at a price equal to
+101
+% of the principal amount of such notes, plus accrued and unpaid interest.
+2023 Term Loans
+On August 15, 2023, we entered into a credit agreement (the “2023 Credit Agreement”), which provided us with the ability to borrow term loans in connection with the VMware Merger. Upon completion of the VMware Merger, we entered an $
+11,195
+million unsecured term A-2 facility (the "Term A-2 Loan”), an $
+11,195
+million unsecured term A-3 facility (the “Term A-3 Loan”), and an $
+8,000
+million unsecured term A-5 facility (the “Term A-5 Loan”, collectively, the “2023 Term Loans”).
+During fiscal year 2024, we repaid $
+11,195
+million of our Term A-2 Loan using the net proceeds from the senior notes issued in July 2024 and the sale of the EUC business, as well as cash on hand. We also repaid $
+5,600
+million of our Term A-3 Loan using the net proceeds from the senior notes issued in October 2024 and cash on hand. As a result of these repayments, we wrote off unamortized discount and issuance costs of $
+157
+million, which were included in interest expense in the consolidated statement of operations.
+The 2023 Term Loans bear interest, payable monthly or every three months at our election, at floating interest rates tied to the Secured Overnight Financing Rate (“SOFR”). The Term A-3 Loan and Term A-5 Loan will mature and be payable on the third or fifth anniversary, respectively, of the date of the VMware Merger. Subject to the terms of the 2023 Credit Agreement, we are permitted to v
+oluntarily make prepayments of the term loans without penalty.
+Our obligations under the 2023 Credit Agreement are unsecured and are not guaranteed by any of our subsidiaries.
+2021 Credit Agreement
+In January 2021, we entered into a credit agreement (the “2021 Credit Agreement”), which provides for a five-year $
+7.5
+billion unsecured revolving credit facility, of which $
+500
+million is available for the issuance of multi-currency letters of credit. The issuance of letters of credit and certain other instruments would reduce the aggregate amount otherwise available under the revolving credit facility for revolving loans. Subject to the terms of the 2021 Credit Agreement, we are permitted to borrow, repay and reborrow revolving loans at any time prior to the earlier of (a) January 19, 2026 and (b) the date of termination in whole of the revolving lenders’ commitments under the 2021 Credit Agreement. We had
+no
+borrowings outstanding under the revolving credit facility at either November 3, 2024 or October 29, 2023.
+Commercial Paper
+We have a commercial paper program pursuant to which we may issue unsecured commercial paper notes (“Commercial Paper”) in principal amount of up to $
+2
+billion outstanding at any time with maturities of up to 397 days from the date of issue. Commercial Paper is sold

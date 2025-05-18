@@ -1,142 +1,21 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+FORM 10-Q
+TABLE OF CONTENTS
 2
-Facebook
+JPMorgan Chase & Co.
+Consolidated financial highlights (unaudited)
+(a)
+Pre-provision profit, TBVPS and ROTCE are each non-GAAP financial measures. Tangible common equity (“TCE”) is also a non-GAAP financial measure. Refer to Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures on pages 15-16 for a further discussion of these measures.
+(b)
+Ratios are based upon annualized amounts.
+(c)
+As of January 1, 2025, the benefit from the Current Expected Credit Losses (“CECL”) capital transition provision had been fully phased out. For the periods ended December 31, 2024, September 30, 2024, June 30, 2024 and March 31, 2024, the ratios reflected the CECL capital transition provisions. Refer to Note 21 of this Form 10-Q and Note 27 of JPMorganChase’s 2024 Form 10-K for additional information.
+(d)
+Reflects the Firm’s ratios under the Basel III Standardized approach. Refer to Capital Risk Management on pages 33-39 for additional information.
+(e)
+Total net revenue included a $7.9 billion net gain related to Visa shares, and total noninterest expense included a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation. Refer to Executive Overview on pages 54–58, and Notes 2 and 6 of JPMorganChase’s 2024 Form 10-K for additional information on the exchange offer for Visa Class B-1 common stock.
 3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+The following is Management’s discussion and analysis of the financial condition and results of operations (“MD&A”) of JPMorgan Chase & Co. (“JPMorganChase” or the “Firm”) for the first quarter of 2025.
+This Quarterly Report on Form 10-Q for the first quarter of 2025 (“Form 10-Q”) should be read together with JPMorganChase’s Annual Report on Form 10-K for the year ended December 31, 2024 (“2024 Form 10-K”). Refer to the Glossary of terms and acronyms and line of business metrics on pages 172–180 for definitions of terms and acronyms used throughout this Form 10-Q.
+This Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the current beliefs and expectations of JPMorganChase’s management, speak only as of the date of this Form 10-Q and are subject to significant risks and uncertainties. Refer to Forward-looking Statements on page 77
+of this Form 10-Q and Part I, Item 1A, Risk Factors on pages 10–37 of the 2024 Form 10-K for a discussion of certain of those risks and uncertainties and the factors that could cause JPMorganChase’s actual results to differ materially because of those risks and uncertainties. There is no assurance that actual results will be in line with any outlook information set forth herein, and the Firm does not undertake to update any forward-looking statements.
+JPMorgan Chase & Co. (NYSE: JPM), a financial holding company incorporated under Delaware law in 1968, is a leading financial services firm based in the United States of America (“U.S.”), with operations

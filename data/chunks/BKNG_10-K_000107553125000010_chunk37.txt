@@ -1,0 +1,15 @@
+operations, profit margins, cash flows or financial condition, as well as on our ability to achieve the expected benefits of any such investments or acquisitions. In addition, we may decide to make minority investments, including through joint ventures, in which we have limited or no management or operational control. The controlling person in such a case may have interests that are inconsistent with ours, and decisions of the company or venture in which we invested may result in harm to our reputation or business or adversely affect the value of our investment.
+We may not be able to successfully integrate acquired businesses or manage the operation of our internal businesses.
+The integration of acquired businesses requires significant time and resources, and we may not manage these processes successfully. In addition to acquired businesses, we may integrate or manage differently certain of our internal businesses, integrate certain functions across our businesses, and restructure or cease operating certain assets or businesses, and we may do so in the future, including through divestitures. These actions are complex, costly, and create a variety of risks, including:
+•
+disruption or harm to the businesses involved, or to our other businesses, including the need for management to spend time and attention on them;
+•
+difficulty managing different company cultures, systems, processes, and human resource policies and practices, or implementing and maintaining effective internal controls, procedures, and policies;
+•
+challenges retaining key personnel; and
+•
+loss of travel service providers, restaurants, or other partners.
+We may not successfully integrate companies or achieve the strategic, financial, or operating objectives of an acquisition or integration, any of which could adversely affect our business, results of operations, or financial condition.
+Information Security, Cybersecurity, and Data Privacy Risks
+Our processing, storage, use, and disclosure of personal data exposes us to risks of data breaches and could give rise to liabilities and/or damage our reputation.
+We depend on software and computing infrastructure (including open source software) for the operation of our business. If threat actors such as cyber-criminals, hackers, or state-sponsored organizations are able to circumvent, interrupt, or adversely affect our security measures, including as a result of our own acts or omissions, it could result in a compromise or breach of consumer, partner, or employee data. Data security is essential to maintaining consumer and partner confidence in our services and the uninterrupted availability of our web and mobile platforms is essential for our business. Consumers may provide us with their personal identity data and payment information, which in turn attracts attention from threat actors. With cyberattacks evolving and increasing in frequency and sophistication, we may not be able to successfully defend against determined adversaries. In

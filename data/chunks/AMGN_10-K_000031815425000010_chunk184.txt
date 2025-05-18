@@ -1,0 +1,29 @@
+long-term fixed-rate debt, we occasionally enter into forward interest rate contracts in order to hedge the variability in cash flows due to changes in the applicable U.S. Treasury rate between the time we enter into these contracts and the time the related debt is issued. Gains and losses on forward interest rate contracts, which are designated as cash flow hedges, are recognized in AOCI in the Consolidated Balance Sheets and are amortized into Interest expense, net, in the Consolidated Statements of Income over the terms of the associated debt issuances. Amounts expected to be recognized during the subsequent 12 months on forward interest rate contracts are not material.
+The unrealized gains and losses recognized in AOCI for our derivative instruments designated as cash flow hedges were as follows (in millions):
+Fair value hedges
+To achieve a desired mix of fixed-rate and floating-rate debt, we enter into interest rate swap contracts that qualify for and were designated as fair value hedges. These interest rate swap contracts effectively convert fixed-rate coupons to floating-rate SOFR-based coupons over the terms of the related hedge contracts. As of both December 31, 2024 and 2023, we had interest rate swap contracts with an aggregate notional amount of $
+6.7
+billion that hedge certain portions of our long-term debt issuances.
+During the year ended December 31, 2024, interest rate swap contracts with an aggregate notional amount of $
+1.4
+billion matured in connection with the repayment of the
+3.625
+% 2024 Notes. In addition, we entered into new interest rate swap contracts with respect to the
+5.25
+% 2033 Notes for an aggregate notional amount of $
+1.4
+billion at an interest rate of SOFR plus
+1.8
+%.
+F-45
+As of December 31, 2024 and 2023, the interest rates on the portion of notes for which we have entered into interest rate swap contracts and the related notional amounts of these contracts were as follows (dollar amounts in millions):
+N/A = not applicable
+For interest rate swap contracts that qualify for and are designated as fair value hedges, we recognize in Interest expense, net, in the Consolidated Statements of Income the unrealized gain or loss on the derivative resulting from the change in fair value during the period, as well as the offsetting unrealized loss or gain of the hedged item resulting from the change in fair value during the period attributable to the hedged risk. If a hedging relationship involving an interest rate swap contract is terminated, the gain or loss realized on contract termination is recorded as an adjustment to the carrying value of the debt and amortized into Interest expense, net, over the remaining term of the previously hedged debt.
+The hedged liabilities and related cumulative-basis adjustments for fair value hedges of those liabilities were recorded in the Consolidated Balance Sheets as follows (in millions):
+____________
+(1)
+Current portion of long-term debt includes $
+56
+million and $
+69
+million of

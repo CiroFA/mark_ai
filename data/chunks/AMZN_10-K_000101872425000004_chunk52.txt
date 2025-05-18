@@ -1,0 +1,26 @@
+active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data.
+Level 3
+— Valuations based on unobservable inputs reflecting our own assumptions, consistent with reasonably available assumptions made by other market participants. These valuations require significant judgment.
+We measure the fair value of money market funds and certain marketable equity securities based on quoted prices in active markets for identical assets or liabilities. Other marketable securities were valued either based on recent trades of securities in inactive markets or based on quoted market prices of similar instruments and other significant inputs derived from or corroborated by observable market data.
+Cash and Cash Equivalents
+We classify all highly liquid instruments with an original maturity of three months or less as cash equivalents.
+Inventories
+Inventories, consisting of products available for sale, are primarily accounted for using the first-in, first-out method, and are valued at the lower of cost and net realizable value. This valuation requires us to make judgments, based on currently available information, about the likely method of disposition, such as through sales to individual customers, returns to product vendors, or liquidations, and expected recoverable values of each disposition category. The inventory valuation allowance, representing a write-down of inventory, was $
+3.0
+billion as of December 31, 2023 and 2024.
+We provide Fulfillment by Amazon services in connection with certain of our sellers’ programs. Third-party sellers maintain ownership of their inventory, regardless of whether fulfillment is provided by us or the third-party sellers, and therefore these products are not included in our inventories.
+We also purchase electronic device components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products. During the normal course of business, in order to manage manufacturing lead times and help ensure adequate supply, we enter into agreements with contract manufacturers and suppliers for certain electronic device components. We have certain non-cancellable purchase commitments arising from these agreements. These commitments are based on forecasted customer demand. If we reduce these commitments, we may incur additional costs.
+Accounts Receivable, Net and Other
+Included in “Accounts receivable, net and other” on our consolidated balance sheets are receivables primarily related to customers, vendors, and prepaid expenses and other current assets. As of December 31, 2023 and 2024, customer receivables, net, were $
+34.1
+billion and $
+34.3
+billion, vendor receivables, net, were $
+8.5
+billion and $
+11.6
+billion, and other receivables, net, were $
+4.3
+billion and $
+3.4
+billion. Prepaid expenses and other current assets, which include amounts related to non-income

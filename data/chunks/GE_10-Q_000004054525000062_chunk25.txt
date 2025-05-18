@@ -1,0 +1,26 @@
+recognized $
+20
+million of net tax benefit and spent $
+83
+million in cash related to GE Vernova for the three months ended March 31, 2024.
+NOTE 20.
+FINANCIAL INSTRUMENTS.
+The following table provides information about assets and liabilities not carried at fair value and excludes finance leases, equity securities without readily determinable fair value and non-financial assets and liabilities. Substantially all of these assets are considered to be Level 3 and substantially all of our liabilities’ fair value are considered Level 2.
+2025 1Q FORM 10-Q
+27
+(a) Primarily related to our run-off insurance operations. See Note 12 for further information.
+Assets and liabilities that are reflected in the accompanying financial statements at fair value are not included in the above disclosures; such items include cash and cash equivalents, investment securities (Note 3) and derivative financial instruments below.
+DERIVATIVES AND HEDGING.
+Our policy requires that derivatives are used solely for managing risks and not for speculative purposes. We use derivatives to manage risks related to foreign currency exchange (including foreign equity investments), interest rates and commodity prices.
+We use currency exchange contracts (including cross-currency swaps) for net investment hedges to hedge investments in our foreign operations, or for cash flow hedges primarily to reduce or eliminate the effects of foreign exchange rate changes. Gains and losses on derivatives used in qualified hedges are initially recognized in our Statement of Other Comprehensive Income (Loss) except for interest on cross-currency swaps. For cross-currency swaps, we recognize the periodic interest settlements within Interest and other financial charges in the Statement of Operations, and the cash flows associated with these periodic interest settlements are classified as operating activities in the Statement of Cash Flows. Settlements from termination of all qualified hedges are classified in the Statement of Cash Flows following the nature of the hedged items (e.g., investing activities for derivatives used to hedge investments in our foreign operations).
+We also use derivatives for economic hedges when we have exposures to currency exchange risk for which we are unable to meet the requirements for hedge accounting or when changes in the carrying amount of the hedged item are already recorded in income in the same period as the derivative making hedge accounting unnecessary. Even though the derivative is an effective economic hedge, there may be a net effect on income in each period due to differences in the timing of income recognition between the derivative and the hedged item.
+(a) Gains (losses) on interest settlements related to cross-currency swaps included in our Statement of Operations are $
+2
+million and
+zero
+for the three months ended March 31, 2025 and 2024, respectively.
+(b) Gains (losses) included in our Statement of Operations are $
+35
+million and $
+22
+million for the three

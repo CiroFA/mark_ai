@@ -1,0 +1,31 @@
+services. Any number of factors can negatively affect user retention, growth, and engagement, including if:
+•
+users increasingly engage with other competitive products or services;
+•
+we fail to introduce new features, products, or services that users find engaging or if we introduce new products or services, or make changes to existing products and services, that are not favorably received;
+•
+users feel that their experience is diminished as a result of the decisions we make with respect to the frequency, prominence, format, size, and quality of ads that we display;
+•
+users have difficulty installing, updating, or otherwise accessing our products on mobile devices as a result of actions by us or third parties that we rely on to distribute our products and deliver our services;
+•
+user behavior on any of our products changes, including decreases in the quality and frequency of content shared on our products and services;
+•
+we are unable to continue to develop products for mobile devices that users find engaging, that work with a variety of mobile operating systems and networks, and that achieve a high level of market acceptance;
+52
+Table of Contents
+•
+there are decreases in user sentiment due to questions about the quality or usefulness of our products or our user data practices, concerns about the nature of content made available on our products, or concerns related to privacy, safety, security, well-being, or other factors;
+•
+we are unable to manage and prioritize information to ensure users are presented with content that is appropriate, interesting, useful, and relevant to them;
+•
+we are unable to obtain or attract engaging third-party content;
+•
+we are unable to successfully maintain or grow usage of and engagement with applications that integrate with our products;
+•
+users adopt new technologies where our products may be displaced in favor of other products or services, or may not be featured or otherwise available;
+•
+there are changes mandated by legislation, government and regulatory authorities, or litigation that adversely affect our products or users;
+•
+we are unable to offer a number of our most significant products and services, including Facebook and Instagram, in Europe, or are otherwise limited in our business operations, as a result of European courts invalidating the EU-U.S. DPF or regulators, courts, or legislative bodies determining that the legal bases we rely upon to transfer user data from the European Union to the United States are invalid;
+•
+there is decreased engagement with our products, decreased efficiency of our advertising products, or failure to accept our terms of service, as part of changes that we have implemented or may implement in the future, whether voluntarily, in connection with the GDPR, the European Union's ePrivacy Directive, the DMA, the DSA, the DMCC, U.S. state privacy laws including the California Consumer Privacy Act, as amended by the California Privacy Rights Act (CCPA), youth social media laws, or

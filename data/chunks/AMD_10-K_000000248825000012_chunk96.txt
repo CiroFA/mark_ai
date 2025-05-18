@@ -1,0 +1,40 @@
+price of the shares subject to each nonstatutory stock option and incentive stock option cannot be less than
+100
+% of the fair market value of the Company’s common stock on the date of the grant. The exercise price of each option granted under the 2023 Plan must be paid in full at the time of the exercise.
+Time-based RSUs.
+Time-based RSUs are awards that can be granted to any employee, director or consultant and that obligate the Company to issue a specific number of shares of the Company’s common stock in the future if the vesting terms and conditions are satisfied.
+PRSUs.
+PRSUs can be granted to certain of the Company’s senior executives. The performance metrics can be financial performance, non-financial performance and/or market conditions. Each PRSU award reflects a target number of shares (Target Shares) that may be issued to an award recipient before adjusting based on the Company’s financial performance, non-financial performance and/or market conditions. The actual number of shares that a grant recipient receives at the end of the period may range from
+0
+% to
+250
+% of the Target Shares granted, depending upon the degree of achievement of the performance target designated by each individual award.
+77
+Table of Contents
+ESPP.
+Under the 2017 Plan, eligible employees who participate in an offering period may have up to
+15
+% of their eligible earnings withheld, up to certain limitations, to purchase shares of common stock at
+85
+% of the lower of the fair market value on the first or the last business day of the
+six-month
+offering period. The offering periods commence in May and November each year.
+As of December 28, 2024, the Company had
+60
+million shares of common stock that were available for future grants and
+34
+million shares reserved for issuance upon the exercise of outstanding stock options or the vesting of unvested RSUs, including PRSUs, under the 2023 Plan and the Prior Plans.
+Valuation and Expense
+Stock-based compensation expense was allocated in the Company’s Consolidated Statements of Operations as follows:
+Stock Options.
+The weighted-average estimated fair value of employee stock options granted during 2024, 2023 and 2022 was $
+68.38
+, $
+53.72
+and $
+44.35
+per share, respectively, using the following assumptions:
+The Company uses a combination of the historical volatility of its common stock and the implied volatility for publicly traded options on the Company’s common stock as the expected volatility assumption. The risk-free interest rate is based on the rate for a U.S. Treasury zero-coupon yield curve with a term that approximates the expected life of the option grant at the date closest to the option grant date. The expected dividend yield is
+zero
+as the Company does not expect to pay dividends in the near future. The expected term of employee stock options represents the weighted-average period the stock options are expected to remain outstanding.
+The following table summarizes stock option activity and related information:

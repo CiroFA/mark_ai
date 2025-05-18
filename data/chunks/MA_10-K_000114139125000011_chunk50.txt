@@ -1,0 +1,20 @@
+could be considered anti-takeover provisions, including provisions that could delay or prevent entirely a merger or acquisition that our stockholders consider favorable.  These provisions may also discourage acquisition proposals or have the effect of delaying or preventing entirely a change in control, which could harm our stock price.  For example, subject to limited exceptions, our amended and restated certificate of incorporation prohibits any person from beneficially owning more than 15% of any of the Class A common stock or any other class or series of our stock with general voting power, or more than 15% of our total voting power.  In addition:
+•
+our stockholders are not entitled to the right to cumulate votes in the election of directors
+•
+our stockholders are not entitled to act by written consent
+•
+any representative of a Mastercard or Mastercard Foundation competitor is disqualified from service on our board of directors
+Mastercard Foundation’s substantial stock ownership, and restrictions on its sales, may impact corporate actions or acquisition proposals favorable to, or favored by, the other public stockholders.
+As of December 31, 2024, Mastercard Foundation owned shares of Class A common stock representing approximately 9.4% of our general voting power.  Historically, Mastercard Foundation had been restricted from selling or otherwise transferring its shares of Class A common stock prior to May 1, 2027, except to the extent necessary to satisfy its charitable disbursement requirements, for which purpose earlier sales were permitted and had occurred.  In July 2023, pursuant to an application in consultation with Mastercard, Mastercard Foundation received court approval to advance that date to January 1, 2024.  As a result, Mastercard Foundation is now permitted to sell all or part of its remaining shares, subject to certain conditions.  In March 2024, Mastercard Foundation began selling shares pursuant to an orderly and structured plan to diversify its Mastercard shares over a seven-year
+38
+MASTERCARD 2024 FORM 10-K
+PART I
+ITEM 1A. RISK FACTORS
+period, while committing to remain a long-term Mastercard stockholder and retaining a significant holding of Mastercard shares in its portfolio.  The directors of Mastercard Foundation are required to be independent of us and our customers.  The ownership of Class A common stock by Mastercard Foundation, together with the seven-year diversification plan, could discourage or make more difficult acquisition proposals favored by other holders of the Class A common stock.  In addition, because Mastercard Foundation intends to sell its shares over an extended period of time, it may not have the same interest in short or medium-term movements in our stock price as, or incentive to approve a corporate action that may be favorable to, our other stockholders.
+Item 1B. Unresolved staff comments
+Not applicable.
+Item 1C.
+Cybersecurity
+Cybersecurity program
+As a technology company in the global payments

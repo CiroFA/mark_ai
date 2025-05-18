@@ -1,0 +1,29 @@
+including installations, plant maintenance and upgrades to our domestic network, and servicing and upgrades of customer premise equipment. The service vehicles used by our technical services groups are primarily owned. Our customer service teams provide primarily 24/7 call-answering capability and other services, and also offer our services to residential and business customers.
+Competition
+Residential Connectivity & Platforms
+Broadband
+We compete with a number of companies, many with significant financial resources, that offer internet services, including:
+•
+wireline telecommunications companies
+•
+wireless telecommunications companies
+•
+municipal broadband networks and power companies
+•
+satellite broadband providers
+Certain wireline telecommunications companies, such as AT&T, Frontier, Lumen and Verizon in the United States and BT and Virgin Media O2 in the United Kingdom, have built and are continuing to build fiber-based wireline network infrastructure further into their networks, which enables them to provide data transmission speeds that exceed those that can be provided with traditional copper digital subscriber line (“DSL”) technology, and are offering services with these higher speeds in many of our service areas. Certain companies that offer DSL service have increased data transmission speeds, lowered prices or created bundled services to compete with our broadband services.
+Various wireless companies are offering internet services using a variety of technologies, including 5G fixed wireless networks and 4G and 5G wireless broadband services. These networks work with devices such as smartphones, laptops, tablets, and mobile and fixed wireless routers, as well as wireless data cards.
+Other companies and municipalities have launched fiber-based or newer satellite-based broadband technologies that provide services in certain areas in which we operate.
+Domestic broadband-deployment funding initiatives at the federal and state levels may result in other service providers deploying subsidized internet access within our footprint. The availability of these and other offerings could negatively impact the demand for our domestic broadband services.
+Wireless
+We compete with national and regional wireless service providers in the United States, including AT&T, T-Mobile and Verizon, and wireless service providers in the United Kingdom that offer wireless service on both a stand-alone basis and with other services as bundled offerings.
+Video
+We compete with a number of companies offering video services in the Connectivity & Platforms markets, including:
+•
+DTC streaming service providers and aggregators, including:
+◦
+subscription-based services, such as Disney+ and Netflix, that offer online services that enable internet streaming and downloading of movies, television shows and other video programming
+◦
+virtual multichannel video providers, such as Hulu + Live TV and YouTube TV, that offer streamed linear television networks
+◦
+free ad-supported

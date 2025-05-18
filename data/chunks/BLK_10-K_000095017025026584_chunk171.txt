@@ -1,0 +1,50 @@
+consolidated statements of financial condition to the cash, cash equivalents, and restricted cash reported within the consolidated statements of cash flows.
+5
+. Investments
+A summary of the carrying value of total investments is as follows:
+(1)
+Amounts include investments held to economically hedge the impact of market valuation changes on certain deferred cash compensation plans comprised of equity method investments of $
+173
+million and $
+241
+million at December 31,
+2024 and 2023
+, respectively. In addition, amounts related to deferred cash compensation plans include equity securities held at FVTNI of $
+12
+million and $
+14
+million at December 31,
+2024 and 2023, respectively.
+(2)
+Equity method investments include BlackRock’s direct investments in certain BlackRock sponsored investment funds.
+(3)
+Federal Reserve Bank stock is held for regulatory purposes and is restricted from sale.
+(4)
+Carried interest represents allocations to BlackRock’s general partner capital accounts from certain sponsored investment funds. These balances are subject to change upon cash distributions, additional allocations or reallocations back to limited partners within the respective funds.
+(5)
+Other investments include BlackRock’s investments in nonmarketable equity securities, which are measured at cost, adjusted for observable price changes, and private equity, real asset, and commodity investments held by CIPs, which are measured at fair value.
+F-
+17
+Held-to-Maturity Investments
+Held-to-maturity investments included certain investments in BlackRock sponsored CLOs. The amortized cost (carrying value) of these investments approximated fair value (primarily a Level 2 input). At December 31, 2024,
+$
+9
+million
+of these investments mature in less than one year,
+$
+24
+million
+of these investments mature between one and five years,
+$
+326
+million
+of these investments mature between five and ten years and
+$
+188
+million
+of these investments mature after ten years.
+Trading Debt Securities and Equity Securities at FVTNI
+A summary of the cost and carrying value of trading debt securities and equity securities at FVTNI is as follows:
+6
+. Consolidated Sponsored Investment Products
+In the normal course of business, the Company is the manager of various types of sponsored investment products, which may be considered VIEs or VREs. The Company consolidates certain sponsored investment funds accounted for as VREs because it is deemed to control such funds. In addition, the Company may from time to time own equity or debt securities issued by vehicles or enter into derivatives or loan arrangements with the vehicles, each of which are considered variable interests. The Company’s involvement in financing the operations of the VIEs is generally limited to its economic interest in the entity. The Company’s consolidated VIEs include certain sponsored investment products in which BlackRock has an economic interest and as the investment manager, is deemed to have both the power to direct the most

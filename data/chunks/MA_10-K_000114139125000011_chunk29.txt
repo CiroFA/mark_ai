@@ -1,0 +1,19 @@
+aspects of our business, such as fraud monitoring, the need for improved data management, governance and quality practices, the development of information-based products and solutions, and technology operations.  In addition, these requirements may increase the costs to our customers of
+MASTERCARD 2024 FORM 10-K
+27
+PART I
+ITEM 1A. RISK FACTORS
+issuing payment products or using information products, which may, in turn, decrease the number of our products that they offer.  While we intend to comply with all regulatory requirements, innovate responsibly and deploy Privacy by Design, Data by Design and AI Governance approaches to all of our product development, the speed and pace of changes in laws (as well as stakeholder interests) may not allow us to meet rapidly evolving regulatory and stakeholder expectations.  Any of these developments could materially and adversely affect our overall business and results of operations.
+Other Regulation
+Regulations that directly or indirectly apply to Mastercard as a result of our participation in the global payments industry may materially and adversely affect our overall business and results of operations.
+We are subject to regulations that affect the payments industry in the many jurisdictions in which our products and services are used.  Many of our customers are also subject to regulations applicable to banks and other financial institutions that, at times, consequently affect us.  Such regulation has increased significantly in the last several years (as described in “Business - Government Regulation” in Part I, Item 1).  Examples include:
+•
+Anti-Money Laundering, Countering the Financing of Terrorism, Economic Sanctions and Anti-Corruption
+.  We are subject to AML and CFT laws and regulations globally.  Economic sanctions programs administered by OFAC restrict financial transactions and other dealings with certain countries and geographies, and persons and entities.  We are also subject to anti-corruption laws and regulations globally, which, among other things, generally prohibit giving or offering payments or anything of value for the purpose of improperly influencing a business decision or to gain an unfair business advantage.
+•
+Account-based Payments Systems
+.  In the U.K., aspects of our Vocalink business are subject to the U.K. payment system oversight regime and are directly overseen by the Bank of England.
+•
+Issuer and Acquirer Practices Legislation and Regulation.
+Certain regulations that impact our issuers and acquirers may impact various aspects of our business.  For example, strong authentication requirements within the EU’s Payment Services Directive in the EEA could increase the number of transactions consumers abandon if we are unable to secure a frictionless authentication experience under these standards.  Such an increase could adversely impact our volumes or other operational metrics.
+Increased regulatory focus on us has resulted and may continue to result in significant compliance and

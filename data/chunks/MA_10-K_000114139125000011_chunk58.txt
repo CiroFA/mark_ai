@@ -1,0 +1,15 @@
+estimate related to the claims of merchants who opted out of the U.S. merchant class litigation.
+Restructuring charge
+•
+During 2024, we recorded a restructuring charge of $190 million ($147 million after tax, or $0.16 per diluted share).  The restructuring action is intended to streamline our organization, delivering efficiencies to enable reinvestment in our business to support the realization of our long-term growth opportunities.
+Russia-related impacts
+•
+During 2022, we recorded a net pre-tax charge of $30 million ($24 million after tax, or $0.02 per diluted share), directly related to imposed sanctions and the suspension of our business operations in Russia.  The net charge was comprised of general and administrative expenses of $67 million, primarily related to incremental employee-related costs and reserves on uncollectible balances with certain sanctioned customers.  This charge was offset by net benefits of $37 million in net revenue, primarily related to a reduction in payment network rebates and incentives liabilities as a result of lower estimates of customer performance for certain customer business agreements due to the suspension of our business operations in Russia.
+See Note 7 (Investments) and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 of this Report for further discussion related to certain of the items discussed above.
+MASTERCARD 2024 FORM 10-K
+48
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Currency-neutral Growth Rates
+Currency-neutral growth rates are calculated by remeasuring the prior period’s results using the current period’s exchange rates for both the translational and transactional impacts on operating results and are non-GAAP financial measures.  The impact of currency translation represents the effect of translating operating results where the functional currency is different from our U.S. dollar reporting currency.  The impact of the transactional currency represents the effect of converting revenue and expenses occurring in a currency other than the functional currency of the entity.  The impact of the related realized gains and losses resulting from our foreign exchange derivative contracts designated as cash flow hedging instruments (specifically those that manage the impact of foreign currency variability on anticipated revenues and expenses) is recognized in the respective financial statement line item on the statements of operations when the underlying forecasted transactions impact earnings.
+The translational and transactional impact of currency and the related impact of our foreign exchange derivative contracts designated as cash flow hedging instruments as specified in the preceding paragraph (collectively the “Currency Impact”) has been excluded from our currency-neutral growth rates and has been identified in the “Non-GAAP Reconciliations” tables below and our “Drivers of Change”

@@ -1,0 +1,26 @@
+methods, necessitates ongoing investment in, as well as enhancement and adaptation of, cybersecurity controls, including the adoption of enhanced security measures in certain jurisdictions. Failure to discover or address emerging threats, known vulnerabilities or shortcomings in cybersecurity controls, or to prioritize or complete enhancements to address them, in each case in a timely manner, may leave JPMorganChase vulnerable to cyber attacks, potentially resulting in data breaches, financial losses,
+reputational damage and regulatory penalties, including the failure to prioritize or complete enhancements relating to:
+•
+preventing unauthorized access and protecting against the misuse of access, including the maintenance and enhancement of controls related to secure software development practices and identity and access management, such as those relating to the management of administrative access to systems
+•
+detecting, escalating and addressing effectively and in a timely manner any vulnerabilities that may be present either in internally-developed software or externally-provided software or services, including vulnerabilities that could allow attackers to exploit unknown security flaws in software and hardware (“zero-day vulnerabilities”)
+•
+oversight of third-party vendors and early detection of attacks against those vendors, including ransomware attacks and attacks targeting vulnerabilities in third-party open-source software, in support of the secure development and maintenance of internal systems
+•
+maintaining and enhancing controls related to technology asset management and inventory systems to prevent the risk of undetected vulnerabilities that could undermine JPMorganChase’s ability to operate an effective control process
+•
+upgrading the coverage and capabilities of systems and controls to protect JPMorganChase and its clients and customers from the impact of distributed denial-of-service attacks, or to recover from outages that could be caused by a malware or ransomware attack
+•
+the continuing migration of client-facing services to the cloud, and modernization of those services
+•
+strengthening network security and managing outbound connections to reduce the risk of data loss
+•
+identifying, assessing and mitigating insider threat activities that could lead to the misuse of JPMorganChase’s systems or client and customer information, and
+•
+integrating acquired businesses where system integration may be complex or may require extensive and lengthy remediation or enhancement of controls.
+A successful penetration or circumvention of the security of JPMorganChase’s systems or the systems of a vendor, governmental body or another market participant could cause serious negative consequences, including:
+•
+significant disruption of JPMorganChase’s operations and those of its clients, customers and
+counterparties, including losing access to operational systems
+•
+misappropriation of confidential information of JPMorganChase or that of its clients,

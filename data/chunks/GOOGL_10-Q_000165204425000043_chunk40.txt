@@ -1,0 +1,25 @@
+Statements of Cash Flows included in Item 1 of this Quarterly Report on Form 10-Q.
+Share Repurchase Program
+During the three months ended March 31, 2025, we repurchased and subsequently retired 83 million shares for $15.3 billion.
+In April 2024, the Board of Directors of Alphabet authorized the company to repurchase up to $70.0 billion of its Class A and Class C shares. As of March 31, 2025
+,
+$29.5 billion
+remained available for Class A and Class C share repurchases. In April 2025, the Board of Directors of Alphabet authorized the company to repurchase up to an additional $70.0 billion of Class A and Class C shares.
+The following table presents Class A and Class C shares repurchased and subsequently retired (in millions):
+(1)
+Shares repurchased include unsettled repurchases.
+For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Dividend Program
+In the three months ended March 31, 2025, total cash dividends were $1.2 billion, $171 million, and $1.1 billion for Class A, Class B, and Class C shares, respectively.
+In April 2025, the Board of Directors of Alphabet declared a quarterly cash dividend of $0.21 representing a 5% increase from the previous quarterly dividend of $0.20. The dividend is payable on June 16, 2025 to stockholders of record for each of the company’s Class A, Class B, and Class C shares as of June 9, 2025.
+The company intends to pay quarterly cash dividends in the future, subject to review and approval by the company’s Board of Directors in its sole discretion.
+44
+European Commission Fines
+In 2018 and 2019, the EC announced decisions that certain actions taken by Google infringed European competition law and imposed fines of €4.3 billion ($5.1 billion as of June 30, 2018) and €1.5 billion ($1.7 billion as of March 20, 2019), respectively.
+In September 2022, the General Court affirmed the EC decision but reduced the 2018 fine from €4.3 billion to €4.1 billion. We subsequently appealed the General Court's affirmation of the EC with the European Court of Justice, which remains pending.
+In September 2024, the EU's General Court overturned the 2019 decision and annulled the €1.5 billion fine. The EC has appealed the General Court's decision to the European Court of Justice.
+We included the outstanding EC fines, including any under appeal, in accrued expenses and other current liabilities on our Consolidated Balance Sheets. For additional information, see Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Taxes
+As of March 31, 2025, we had income taxes payable of $2.7 billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act, which is due in 2025. We also had long-term taxes payable of $9.8 billion primarily related to uncertain tax positions as of March 31, 2025.
+Purchase Commitments and Other Contractual Obligations
+As of March

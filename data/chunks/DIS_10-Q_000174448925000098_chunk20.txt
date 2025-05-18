@@ -1,0 +1,19 @@
+millions, except for per share data)
+1.
+Principles of Consolidation
+These Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP) for interim financial information and the instructions to Rule 10-01 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. We believe that we have included all normal recurring adjustments necessary for a fair statement of the results for the interim period. Operating results for the six months ended March 29, 2025 are not necessarily indicative of the results that may be expected for the year ending September 27, 2025.
+The terms “Company,” “Disney,” “we,” “us,” and “our” are used in this report to refer collectively to the parent company, The Walt Disney Company, as well as the subsidiaries through which its various businesses are actually conducted.
+These financial statements should be read in conjunction with the Company’s 2024 Annual Report on Form 10-K.
+Variable Interest Entities
+The Company enters into relationships with or makes investments in other entities that may be variable interest entities (VIE). A VIE is consolidated in our financial statements if the Company has the power to direct activities that most significantly impact the economic performance of the VIE and has the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant (as defined by ASC 810-10-25-38) to the VIE. Hong Kong Disneyland Resort and Shanghai Disney Resort (together the Asia Theme Parks, see Note 6) are VIEs in which the Company has less than 50% equity ownership. Company subsidiaries (the Management Companies) have management agreements with the Asia Theme Parks, which provide the Management Companies, subject to certain protective rights of joint venture partners, with the ability to direct the day-to-day operating activities and the development of business strategies that we believe most significantly impact the economic performance of the Asia Theme Parks. In addition, the Management Companies receive management fees under these arrangements that we believe could be significant to the Asia Theme Parks. Therefore, the Company has consolidated the Asia Theme Parks in its financial statements.
+Redeemable Noncontrolling Interest
+Hulu LLC
+The Company has a
+67
+% ownership interest in Hulu LLC (Hulu), a direct-to-consumer (DTC) streaming service provider. In November 2023, NBC Universal (NBCU) exercised its right to require the Company to purchase NBCU’s
+33
+% interest in Hulu at a redemption value based on NBCU’s equity ownership percentage of the greater of Hulu’s equity fair value or a guaranteed floor value of $
+27.5
+billion. In connection with the redemption, the Company will pay NBCU
+50
+% of the future tax benefits from the amortization of the purchase of NBCU’s interest in Hulu as the

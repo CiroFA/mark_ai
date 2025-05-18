@@ -1,0 +1,62 @@
+originations and MSRs recognized following securitizations or whole-loan sales.
+(7)
+Settlements primarily represent the net change in fair value of the MSR asset due to the recognition of modeled cash flows and the passage of time.
+The following tables present information about significant unobservable inputs related to the Corporation’s material categories of Level 3 financial assets and liabilities at December 31, 2024 and 2023.
+(1)
+For loans and securities, structured liabilities and net derivative assets (liabilities), the weighted average is calculated based upon the absolute fair value of the instruments.
+(2)
+The categories are aggregated based upon product type, which differs from financial statement classification. The following is a reconciliation to the line items in the table on page 153: Trading account assets – Corporate securities, trading loans and other of $
+1.8
+billion, Trading account assets – Non-U.S. sovereign debt of $
+344
+million, Trading account assets – Mortgage trading loans, MBS and ABS of $
+978
+million, AFS debt securities of $
+611
+million, Other debt securities carried at fair value - Non-agency residential of $
+149
+million, Other assets, including MSRs, of $
+2.0
+billion, Loans and leases of $
+82
+million and LHFS of $
+132
+million.
+(3)
+Includes models such as Monte Carlo simulation and Black-Scholes.
+(4)
+Includes models such as Monte Carlo simulation, Black-Scholes and other methods that model the joint dynamics of interest, inflation and foreign exchange rates.
+(5)
+The weighted-average life is a product of changes in market rates of interest, prepayment rates and other model and cash flow assumptions.
+CPR = Constant Prepayment Rate
+CDR = Constant Default Rate
+MMBtu = Million British thermal units
+IR = Interest Rate
+FX = Foreign Exchange
+n/a = not applicable
+(1)
+For loans and securities, structured liabilities and net derivative assets (liabilities), the weighted average is calculated based upon the absolute fair value of the instruments.
+(2)
+The categories are aggregated based upon product type, which differs from financial statement classification. The following is a reconciliation to the line items in the table on page 154: Trading account assets – Corporate securities, trading loans and other of $
+1.7
+billion, Trading account assets – Non-U.S. sovereign debt of $
+396
+million, Trading account assets – Mortgage trading loans, MBS and ABS of $
+1.2
+billion, AFS debt securities of $
+376
+million, Other debt securities carried at fair value - Non-agency residential of $
+69
+million, Other assets, including MSRs, of $
+1.7
+billion, Loans and leases of $
+93
+million and LHFS of $
+164
+million.
+(3)
+Includes models such as Monte Carlo simulation and Black-Scholes.
+(4)
+Includes models such as Monte Carlo simulation, Black-Scholes and other methods that model the joint dynamics of interest, inflation and foreign exchange rates.
+(5)
+The weighted-average life is a product of changes in market rates of interest, prepayment rates and

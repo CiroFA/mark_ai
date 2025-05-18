@@ -1,0 +1,29 @@
+fees associated with these products, which are included in investment advisory, administration fees and securities lending revenue on the consolidated statements of income.
+Separate Account Collateral Assets Held and Liabilities Under Securities Lending Agreements.
+The Company facilitates securities lending arrangements whereby securities held by separate accounts maintained by BlackRock Life Limited are lent to third parties under global master securities lending agreements. In exchange, the Company receives collateral by obtaining either (1) legal title or (2) first ranking priority security interest. The minimum collateral values generally range from approximately
+102
+% to
+112
+% of the value of the securities lent in order to reduce counterparty risk. The required collateral value is calculated on a daily basis. The global master securities lending agreements provide the Company the right to request additional collateral or, in the event of borrower default, the right to liquidate collateral. The securities lending transactions entered into by the Company are accompanied by an agreement that entitles the Company to request the borrower to return the securities at any time; therefore, these transactions are not reported as sales.
+In situations where the Company receives the legal title to collateral under these securities lending arrangements, the Company records an asset on the consolidated statements of financial condition and an equal collateral liability for the obligation to return the collateral. Additionally, in situations where the Company obtains a first ranking priority security interest in the collateral, the Company does not have the ability to pledge or resell the collateral and therefore does not record the collateral on the consolidated statements of financial condition. At December 31, 2024 and 2023
+, the fair value of loaned securities held by separate accounts was approximately $
+9.9
+billion and $
+9.3
+billion, respectively, and the fair value of the collateral under these securities lending agreements was approximately $
+10.6
+billion and $
+10.1
+billion, respectively, of which approximately $
+6.1
+billion as of
+2024
+and $
+4.6
+billion as of
+2023 was recognized on the consolidated statements of financial condition. During 2024 and 2023
+, the Company had
+no
+t resold or repledged any of the collateral received under these arrangements. The securities lending revenue earned from lending securities held by the separate accounts is included in investment advisory, administration fees and securities lending revenue on the consolidated statements of income.
+Property and Equipment
+. Property and equipment are recorded at cost less accumulated depreciation. Depreciation is generally determined by cost less any estimated residual value using the straight-line method over the estimated useful lives of the various classes of property and equipment. Leasehold improvements are amortized using the straight-line method over the shorter of the

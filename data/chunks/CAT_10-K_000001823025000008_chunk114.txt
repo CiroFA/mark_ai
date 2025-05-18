@@ -1,0 +1,20 @@
+segments or reporting units, we reassign goodwill to the affected reporting units based on their relative fair values.
+We perform our annual goodwill impairment test as of October 1 and monitor for interim triggering events on an ongoing basis.  We review goodwill for impairment utilizing either a qualitative assessment or a quantitative goodwill impairment test.  If we choose to perform a qualitative assessment and determine the fair value more likely than not exceeds the carrying value, no further evaluation is necessary.  For reporting units where we perform the quantitative goodwill impairment test, we compare the fair value of each reporting unit, which we primarily determine using an income approach based on the present value of discounted cash flows, to the respective carrying value, which includes goodwill.  If the fair value of the reporting unit exceeds its carrying value, we do not consider the goodwill impaired.  If the carrying value is higher than the fair value, we would recognize the difference as an impairment loss.
+See Note 10 for further details.
+I.    Estimates in financial statements
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect reported amounts. The more significant estimates include: residual values for leased assets, fair values for goodwill impairment tests, warranty liability and reserves for product liability and insurance losses, postretirement benefits, post-sale discounts, credit losses and income taxes.
+J.    New accounting guidance
+A.  Adoption of new accounting standards
+Segment reporting
+(ASU 2023-07)
+—
+In November 2023, the Financial Accounting Standards Board (FASB) issued accounting guidance that requires incremental disclosures related to reportable segments which includes significant segment expense categories and amounts for each reportable segment.
+The expanded annual disclosures were effective for our year ending December 31, 2024, and the expanded interim disclosures are effective in 2025 and will be applied retrospectively to all prior periods presented.
+We consider the applicability and impact of all ASUs. We adopted the following ASUs effective January 1, 2024, none of which had a material impact on our financial statements:
+B.  Accounting standards issued but not yet adopted
+Income tax reporting
+(ASU 2023-09) — In December 2023, the FASB issued accounting guidance to expand the annual disclosure requirements for income taxes, primarily related to the rate reconciliation and income taxes paid.
+The expanded disclosures are effective for our year ending December 31, 2025 and can be applied prospectively or retrospectively.
+We are in the process of evaluating the effect of this new guidance on the related disclosures.
+Disaggregation of income statement expenses
+(ASU 2024-03) — In November 2024, the FASB issued accounting guidance to enhance transparency

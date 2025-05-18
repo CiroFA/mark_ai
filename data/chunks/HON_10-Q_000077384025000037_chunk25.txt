@@ -1,0 +1,16 @@
+tables in millions, except per share amounts)
+Contract balances are classified as assets or liabilities on a contract-by-contract basis at the end of each reporting period.
+The following table summarizes the Company's contract assets and liabilities balances:
+For the three months ended March 31, 2025, and 2024, the Company recognized revenue of $
+1,000
+million and $
+993
+million, respectively, that was previously included in the beginning balance of contract liabilities.
+Contract assets included $
+2,312
+million and $
+2,139
+million of unbilled balances under long-term contracts as of March 31, 2025, and December 31, 2024, respectively. These amounts are billed in accordance with the terms of customer contracts to which they relate.
+When contracts are modified to account for changes in contract specifications and requirements, the Company considers whether the modification either creates new or changes the existing enforceable rights and obligations. Contract modifications for goods or services and not distinct from the existing contract, due to the significant integration with the original good or service provided, are accounted for as if they were part of that existing contract. The effect of a contract modification on the transaction price and the Company's measure of progress for the performance obligation to which it relates, is recognized as an adjustment to revenue (either as an increase in or a reduction of revenue) on a cumulative catch-up basis. When the modifications include additional performance obligations that are distinct and at relative stand-alone selling price, they are accounted for as a new contract and performance obligation, which are recognized prospectively.
+PERFORMANCE OBLIGATIONS
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is defined as the unit of account. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. When the contracts with customers require highly complex integration or manufacturing services that are not separately identifiable from other promises in the contracts and, therefore, not distinct, then the entire contract is accounted for as a single performance obligation. In situations when the Company's contracts include distinct goods or services that are substantially the same and have the same pattern of transfer to the customer over time, they are recognized as a series of distinct goods or services. For any contracts with multiple performance obligations, the Company allocates the contract’s transaction price to each performance obligation based on the estimated relative stand-alone selling price of each distinct good or service in the contract. For product sales, each product sold to a customer typically represents a distinct performance obligation. In such cases, the observable stand-alone sales are used to determine the stand-

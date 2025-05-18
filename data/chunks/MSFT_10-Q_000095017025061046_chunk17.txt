@@ -1,0 +1,30 @@
+and the accompanying Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+OVERVIEW
+Microsoft is a technology company committed to making digital technology and artificial intelligence (“AI”) available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. We create platforms and tools, powered by AI, that deliver innovative solutions that meet the evolving needs of our customers.
+We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices. Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes.
+Highlights from the third quarter of fiscal year 2025 compared with the third quarter of fiscal year 2024 included:
+•
+Microsoft Cloud revenue increased 20% to $42.4 billion.
+•
+Microsoft 365 Commercial products and cloud services revenue increased 11% driven by Microsoft 365 Commercial cloud revenue growth of 12%.
+•
+Microsoft 365 Consumer products and cloud services revenue increased 10% driven by Microsoft 365 Consumer cloud revenue growth of 10%.
+•
+LinkedIn revenue increased 7%.
+•
+Dynamics products and cloud services revenue increased 11% driven by Dynamics 365 revenue growth of 16%.
+•
+Server products and cloud services revenue increased 22% driven by Azure and other cloud services revenue growth of 33%.
+•
+Windows OEM and Devices revenue increased 3%.
+•
+Xbox content and services revenue increased 8%.
+•
+Search and news advertising revenue excluding traffic acquisition costs increased 21%.
+32
+PART I
+Item 2
+Industry Trends
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.
+Economic Conditions, Challenges, and Risks
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers prefer evolve rapidly, influencing how users access services in the cloud and, in some cases, the user’s choice of which suite of cloud-based services to use. Aggregate demand for our software, services, and devices is also correlated to global

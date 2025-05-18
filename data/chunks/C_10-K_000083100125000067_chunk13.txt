@@ -1,0 +1,54 @@
+spread products business, with 99% of risk computations now occurring on cloud-based infrastructure
+•
+Approximately 90% of derivative trades now subject to full revaluation each month using automated independent price verification
+•
+Approximately 76% of all product data onboarded to strategic data redistribution platforms with stronger data quality controls
+•
+Consolidated four new activity risk management platforms into one modern platform
+•
+Implemented key technology capabilities for target state wholesale credit analysis, simplifying the process and execution of policy requirements
+•
+Faster and more frequent stress testing for geopolitical risks, natural disasters and industry-specific events
+Modernization
+•
+Retired or replaced 714 legacy applications in 2024 with new, modern applications
+•
+Launched a new regulatory reporting platform with advanced capabilities to improve quality and efficiency
+11
+•
+Scaled automated controls in
+Markets
+, including transaction monitoring (over 750 million trading records monthly) and Regulation W compliance (approximately 400,000 transactions monthly)
+•
+Consolidated 20 cash equities platforms into one modern platform
+•
+Reduced time to book new or amended loans in North America by over 50%
+Resiliency
+•
+Improved resiliency and reduced downtime by simplifying system restoration to a single click for approximately 26% of critical applications
+•
+Reduced data center consumption through migration of workload to a private cloud and streamlined and reduced the time involved in the cloud onboarding process from over seven weeks to two weeks
+•
+Upgraded 100% of Citi’s more than 2,300 ATMs in North America, Singapore, Hong Kong and the UAE to next-generation software for better customer security and monitoring
+Organizational Simplification
+During the first quarter of 2024, Citi completed its organizational simplification announced in September 2023. The result is a simpler management structure that aligns to and facilitates Citi’s strategy, while improving accountability and decision-making. Citi’s operating model changes included elimination of the
+Institutional Clients Group
+,
+Personal Banking and Wealth Management
+and
+Legacy Franchises
+operating segments and resulted in the five current reportable operating segments—
+Services
+,
+Markets
+,
+Banking
+,
+Wealth
+and
+U.S. Personal Banking
+—and a new financial reporting structure. Activities not assigned to the reportable operating segments are reflected in
+All Other
+, including Legacy Franchises and Corporate/Other. Citi also exited certain institutional business lines and consolidated its regional structure from four to two regions, consisting of North America and International. Citi’s organizational simplification efforts also assist in advancing the execution of the transformation.
+FRB and OCC Consent Orders Compliance
+As previously disclosed, on July 10, 2024, the FRB entered into a Civil Money Penalty Consent Order with Citigroup in the amount of approximately $61 million,

@@ -1,0 +1,22 @@
+For more information on derivatives, see “Quantitative and Qualitative Disclosures about Risk—Credit Risk—Derivatives” in the 2024 Form 10-K and Note 6 to the financial statements.
+Country Risk
+Country risk exposure is the risk that events in, or that affect, a foreign country (any country other than the U.S.) might adversely affect us. We actively manage country risk exposure through a comprehensive risk management framework that combines credit and other market fundamentals and allows us to effectively identify, monitor and limit country risk. For a further discussion of our country risk exposure see “Quantitative and Qualitative Disclosures about Risk—Country and Other Risks” in the 2024 Form 10-K.
+Top 10 Non-U.S. Country Exposures
+1.
+Net inventory represents exposure to both long and short single-name and index positions (
+i.e
+., bonds and equities at fair value and CDS based on a notional amount assuming zero recovery adjusted for the fair value of any receivable or payable).
+2.
+Net counterparty exposure (
+e.g
+., repurchase transactions, securities lending and OTC derivatives) is net of the benefit of collateral received and also is net by counterparty when legally enforceable master netting agreements are in place.
+3.
+Amounts represent net CDS hedges (purchased and sold) on net counterparty exposure and lending executed by trading desks responsible for hedging counterparty and lending credit risk exposures. Amounts are based on the CDS notional amount assuming zero recovery adjusted for the fair value of any receivable or payable. For further description of the contractual terms for purchased credit protection and whether they may limit the effectiveness of our hedges, see “Quantitative and Qualitative Disclosures about Risk—Credit Risk—Derivatives” in the 2024 Form 10-K.
+Operational Risk
+Operational risk refers to the risk of loss, or of damage to our reputation, resulting from inadequate or failed processes or systems, human factors (
+e.g.
+, inappropriate or unlawful conduct) or external events (e.g., cyberattacks or third-party vulnerabilities) that may manifest as, for example, loss of information, business disruption, theft and fraud, legal and compliance risks, or damage to physical assets. We may incur operational risk across the full scope of our business activities, including revenue-generating activities and support and control groups (
+e.g.
+, IT and trade processing). For a further discussion about our operational risk, see “Quantitative and Qualitative Disclosures about Risk—Operational Risk” in the 2024 Form 10-K.
+Model Risk
+Model risk is the potential for adverse consequences from decisions based on incorrect or misused model outputs. Model risk can lead to financial loss, poor business and strategic decision-making, noncompliance with applicable laws and/or regulations or damage to the Firm's reputation. The risk inherent in a model is a function of the materiality, complexity and uncertainty around inputs and assumptions.

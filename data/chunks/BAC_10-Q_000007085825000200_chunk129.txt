@@ -1,0 +1,37 @@
+where substantially all of the economic exposure to the transferred financial assets is retained through derivatives (e.g., interest rate and/or credit), but the Corporation does not retain control over the assets transferred. At both March 31, 2025 and December 31, 2024, the Corporation had transferred $
+3.9
+billion of non-U.S. government-guaranteed mortgage-backed securities to a third-party trust and retained economic exposure to the transferred assets through derivative contracts. In connection with these transfers, the Corporation received gross cash proceeds of $
+3.9
+billion at both transfer dates. At March 31, 2025 and December 31, 2024, the fair value of the transferred securities was $
+3.7
+billion and $
+3.6
+billion.
+Sales and Trading Revenue
+The Corporation enters into trading derivatives to facilitate client transactions and to manage risk exposures arising from trading account  assets  and  liabilities.  It is the Corporation’s policy to
+include these derivative instruments in its trading activities, which include derivatives and non-derivative cash instruments. The resulting risk from these derivatives is managed on a portfolio basis as part of the Corporation’s
+Global Markets
+business segment. For more information on sales and trading revenue, see
+Note 3 – Derivatives
+to the Consolidated Financial Statements of the Corporation’s 2024 Annual Report on Form 10-K.
+The table below, which includes both derivatives and non-derivative cash instruments, identifies the amounts in the respective income statement line items attributable to the Corporation’s sales and trading revenue in
+Global Markets
+, categorized by primary risk, for the three months ended March 31, 2025 and 2024. This table includes debit valuation adjustment (DVA) and funding valuation adjustment (FVA) gains (losses).
+Global Markets
+results in
+Note 17 – Business Segment Information
+are presented on a fully taxable-equivalent (FTE) basis. The table below is not presented on an FTE basis.
+(1)
+Represents amounts in investment and brokerage services and other income that are recorded in
+Global Markets
+and included in the definition of sales and trading revenue. Includes investment and brokerage services revenue of $
+626
+million and $
+494
+million for the three months ended March 31, 2025 and 2024.
+(2)
+Includes commodity risk.
+Credit Derivatives
+The Corporation enters into credit derivatives primarily to facilitate client transactions and to manage credit risk exposures. Credit derivatives are classified as investment and non-investment grade based on the credit quality of the underlying referenced obligation. The Corporation considers ratings of BBB- or higher as investment grade. Non-investment grade includes non-rated credit derivative instruments. The Corporation discloses internal categorizations of investment grade and non-investment grade consistent with how risk is managed for these instruments. For more information on credit derivatives, see
+Note 3 – Derivatives
+to the

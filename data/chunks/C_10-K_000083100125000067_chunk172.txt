@@ -1,0 +1,16 @@
+repossession of collateral and ultimately maximize payments received from the borrowers. Citi uses various metrics to identify consumer borrowers experiencing financial difficulty, with the primary indicator being delinquency at the time of modification.
+For U.S. consumer loans, generally one of the conditions to qualify for modification is that a minimum number of payments (typically ranging from one to three) must be made. For mortgage loans, Citi enters into a trial modification with the borrower, which generally represents a three-month period during which the borrower makes monthly payments under the anticipated modified payment terms, before entering into a permanent modification. These loans under trial modification continue to age and accrue interest in accordance with their original contractual terms.
+Upon permanent modification, the loan is re-aged to current status. Specifically, re-aging practices for certain open-ended consumer loans, such as credit cards, are governed by Federal Financial Institutions Examination Council (FFIEC) guidelines, which require at least three consecutive minimum monthly payments or the equivalent amount, to be re-aged to current status. In addition, re-aging is subject to limitations, generally once in 12 months and twice in five years. Furthermore, FHA and Department of Veterans Affairs (VA) loans may only be modified under those respective agencies’ guidelines, and payments are not always required in order to re-age a modified loan to current.
+In general, a loan returns to accrual status when none of its principal and interest is due and unpaid and the bank expects the full collection of all contractual principal and interest (including any prior charge-offs) on such loan. For modified loans, the policy for returning to accrual status varies by product and/or region. For regulated bank entities, such modified loans are returned to accrual status if a credit evaluation at the time of, or subsequent to, the modification indicates the borrower is able to meet the restructured terms, and the borrower is current and has demonstrated a reasonable period of sustained payment performance (minimum
+six months
+of consecutive payments).
+Consumer Charge-Off Policies
+Unless the loan had been modified and subsequently returned to accrual status per the above policies, the loan is charged off following the general guidelines below:
+•
+Unsecured installment loans are charged off at 120 DPD, or if in bankruptcy, within 60 days of notification of filing by the bankruptcy court, if earlier.
+•
+Unsecured revolving loans and credit card loans are charged off at 180 DPD, or if in bankruptcy, within 60 days of notification of filing by the bankruptcy court, if earlier.
+•
+Loans secured with non-real estate collateral are written down to the estimated value of the collateral, less costs to sell, at 120 DPD.
+•
+Real estate-secured loans are written down to the estimated value of the property, less costs to sell, at 180 DPD, with the

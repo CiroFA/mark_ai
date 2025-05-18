@@ -1,0 +1,29 @@
+regulations.
+•
+Evolving expectations from governments, investors, customers and other stakeholders regarding corporate responsibility matters could result in additional costs, harm to our reputation and a loss of customers.
+•
+Issues related to the responsible use of AI may result in reputational, competitive and financial harm and liability.
+•
+The agreements governing our notes, our guarantee of Xilinx’s notes, Revolving Credit Agreement and the ZT Systems Credit Agreement impose restrictions on us.
+Merger, Acquisition, Divestiture, and Integration Risks
+•
+Acquisitions, joint ventures, and/or strategic investments, and the failure to integrate acquired businesses may fail to materialize their anticipated benefits and could disrupt our business.
+•
+We are seeking a strategic partner to acquire ZT Systems’ manufacturing business.
+•
+Any impairment of our tangible, definite-lived intangible or indefinite-lived intangible assets, including goodwill, may adversely impact our financial position and results of operations.
+General Risks
+•
+Our worldwide operations are subject to political, legal and economic risks and natural disasters.
+•
+We may incur future impairments of our technology license purchases.
+•
+Our inability to continue to attract and retain qualified personnel may hinder our business.
+•
+Our stock price is subject to volatility.
+For a more complete discussion of the material risks facing our business, see below.
+30
+Table of Contents
+Economic and Strategic Risks
+Intel Corporation’s dominance of the microprocessor market and its aggressive business practices may limit our ability to compete effectively on a level playing field.
+Intel’s microprocessor market share position, significant financial resources, introduction of competitive new products, and existing relationships with top-tier OEMs have enabled it to market and price its products aggressively, to target our customers and our channel partners with special incentives and to influence customers who do business with us. These aggressive activities have in the past resulted in lower unit sales and a lower average selling price for many of our products and adversely affected our margins and profitability. Intel also dominates the computer system platform and has a heavy influence on PC manufacturers, other PC industry participants, and benchmarks. It is able to drive de facto standards and specifications for x86 microprocessors that could cause us and other companies to have delayed access to such standards. We may be materially adversely affected by Intel’s business practices, including rebating and allocation strategies and pricing actions, designed to limit our market share and margins; product mix and introduction schedules; product bundling, marketing and merchandising strategies; and exclusivity payments to its current and potential customers, retailers and channel partners. We expect Intel to continue to heavily invest substantial resources in marketing, research and development, new

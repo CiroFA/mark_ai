@@ -1,0 +1,29 @@
+in the nonrecurring fair value tables when applicable price changes are observable.
+(a)
+The carrying value as of December 31, 2024 was $
+3.7
+billion. The period-end carrying values reflect cumulative purchases and sales in addition to upward and downward carrying value changes.
+(b)
+The cumulative upward carrying value changes between January 1, 2018 and March 31, 2025 were $
+1.2
+billion.
+(c)
+The cumulative downward carrying value changes/impairment between January 1, 2018 and March 31, 2025 were $(
+1.5
+) billion.
+Included in other assets above is the Firm’s interest in approximately
+18.6
+million Visa Class B-2 common shares ("Visa B-2 shares") and
+37.2
+million Visa Class B-1 common shares (“Visa B-1 shares”) reflected in the Firm's principal investment portfolio as of March 31, 2025 and 2024, respectively.
+The Visa B-2 shares are subject to certain transfer restrictions and are convertible into Visa Class A common shares (“Visa A shares”) at a specified conversion rate upon final resolution of certain litigation matters involving Visa. The conversion rate of Visa B-2 shares to Visa A shares was
+1.5342
+at March 31, 2025 and may be adjusted by Visa depending on developments related to the litigation matters. The outcome of those litigation matters, and the effect that the resolution of those matters may have on the conversion rate, is unknown. Accordingly, as of March 31, 2025, there is significant uncertainty regarding when the transfer restrictions on Visa B-2 shares may be terminated and what the final conversion rate for the Visa B-2 shares will be. As a result of these considerations, as well as differences in voting rights, Visa B-2 shares are not considered to be similar to Visa A shares, and are held at their nominal carryover basis.
+Separately, in connection with sales of Visa B shares prior to 2024, the Firm has entered into derivative instruments with the purchasers of the shares under which the Firm retains the risk associated with changes in the conversion rate. As of March 31, 2025, the Firm held derivative instruments associated with
+11.6
+million Visa B-2 shares related to Visa B share sales prior to 2024, which are all subject to similar terms and conditions. Refer to page 200 of JPMorganChase’s 2024 Form 10-K for further information.
+94
+Additional disclosures about the fair value of financial instruments that are not carried on the Consolidated balance sheets at fair value
+The following table presents, by fair value hierarchy classification, the carrying values and estimated fair values at March 31, 2025 and December 31, 2024, of financial assets and liabilities, excluding financial instruments that are carried at fair value on a recurring basis, and their classification within the fair value hierarchy.
+(a)
+Fair value is typically estimated using a discounted cash flow model that incorporates the characteristics of the underlying loans (including principal, contractual interest rate and contractual fees) and other key inputs,

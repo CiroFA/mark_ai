@@ -1,0 +1,40 @@
+primarily in short-term borrowings and long-term debt on the Consolidated balance sheets.
+122
+Note 11 –
+Loans
+Loan accounting framework
+The accounting for a loan depends on management’s strategy for the loan. The Firm accounts for loans based on the following categories:
+•
+Originated or purchased loans held-for-investment (i.e., “retained”)
+•
+Loans held-for-sale
+•
+Loans at fair value
+Refer to Note 12 of JPMorganChase's 2024 Form 10-K for a detailed discussion of loans, including accounting policies. Refer to Note 3 of this Form 10-Q for further information on the Firm's elections of fair value accounting under the fair value option. Refer to Note 2 of this Form 10-Q for information on loans carried at fair value and classified as trading assets.
+Loan portfolio
+The Firm’s loan portfolio is divided into
+three
+portfolio segments, which are the same segments used by the Firm to determine the allowance for loan losses: Consumer, excluding credit card; Credit card; and Wholesale. Within each portfolio segment the Firm monitors and assesses the credit risk in the following classes of loans, based on the risk characteristics of each loan class.
+(a)
+Includes scored mortgage and home equity loans held in CCB and AWM, and scored mortgage loans held in CIB.
+(b)
+Includes scored auto, business banking and consumer unsecured loans as well as overdrafts, primarily in CCB.
+(c)
+Includes loans held in CIB, AWM, Corporate, and risk-rated exposure held in CCB, for which the wholesale methodology is applied when determining the allowance for loan losses.
+(d)
+The wholesale portfolio segment's classes align with loan classifications as defined by the bank regulatory agencies, based on the loan's collateral, purpose, and type of borrower.
+(e)
+Includes loans to financial institutions, SPEs, personal investment companies and trusts, individuals and individual entities (predominantly Global Private Bank clients within AWM and J.P. Morgan Wealth Management within CCB), states and political subdivisions, as well as loans to nonprofits. Refer to Note 14 of JPMorganChase’s 2024 Form 10-K for more information on SPEs.
+The following tables summarize the Firm’s loan balances by portfolio segment.
+(a)
+Excludes $
+6.6
+billion of accrued interest receivables at both March 31, 2025 and December 31, 2024. The Firm wrote off accrued interest receivables of $
+28
+million and $
+31
+million for the three months ended March 31, 2025 and 2024, respectively.
+(b)
+Loans (other than those for which the fair value option has been elected) are presented net of unamortized discounts and premiums and net deferred loan fees or costs. These amounts were not material as of March 31, 2025 and December 31, 2024. Refer to Note 34 of JPMorganChase’s 2024 Form 10-K for more information on the discount associated with First Republic loans.
+123
+The following tables provide information about the carrying value of retained loans purchased, sold and reclassified to held-for-sale during the periods indicated. Loans

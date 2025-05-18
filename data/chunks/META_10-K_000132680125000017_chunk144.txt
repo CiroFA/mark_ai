@@ -1,0 +1,59 @@
+2024, 2023, and 2022 was $
+211
+million, $
+161
+million, and $
+185
+million, respectively.
+As of December 31, 2024, expected amortization expense for the unamortized finite-lived intangible assets for the next five years and thereafter is as follows (in millions):
+108
+Table of
+Contents
+Note 10.
+Long-term Debt
+As of December 31, 2024 and 2023, we had $
+29.0
+billion and $
+18.50
+billion of fixed-rate senior unsecured notes (the Notes), respectively, including $
+10.50
+billion of Notes issued in August 2024.
+The following table summarizes the Notes and the carrying amount of our long-term debt (in millions, except percentages):
+Each series of the Notes in the table above rank equally with each other. Interest on the Notes is payable semi-annually in arrears. We may redeem the Notes at any time, in whole or in part, at specified redemption prices. We are not subject to any financial covenants under the Notes. Interest expense, net of capitalized interest, recognized on the Notes was $
+683
+million, $
+420
+million, and $
+160
+million for the years ended December 31, 2024, 2023, and 2022, respectively.
+The total estimated fair value of our outstanding Notes was $
+27.83
+billion and $
+18.48
+billion as of December 31, 2024 and 2023, respectively. The fair value is determined based on the quoted prices at the end of the reporting periods and categorized as Level 2 in the fair value hierarchy.
+As of December 31, 2024, future principal payments for the Notes, by year, are as follows (in millions):
+Note 11.
+Accrued Expenses and Other Current Liabilities
+The components of accrued expenses and other current liabilities are as follows (in millions):
+_________________________
+(1)
+Includes accruals for estimated fines, settlements, or other losses in connection with legal and related matters, as well as other legal fees. For further information, see
+Legal and Related Matters
+in Note 12 — Commitments and Contingencies.
+109
+Table of
+Contents
+Note 12.
+Commitments and Contingencies
+Contractual Commitments
+We have $
+32.82
+billion of non-cancelable contractual commitments as of December 31, 2024, which are primarily related to our investments in servers and network infrastructure, and content costs.
+The following is a schedule, by years, of non-cancelable contractual commitments as of December 31, 2024 (in millions):
+Additionally, as part of the normal course of business, we have entered into multi-year agreements to purchase renewable energy that do not specify a fixed or minimum volume commitment. We enter into these agreements in order to secure price. Using the expected volume consumption, the total estimated spend related to our renewable energy agreements as of December 31, 2024 was approximately $
+24.97
+billion, a majority of which is due beyond
+five years
+. The ultimate spend under these agreements may vary and will be based on actual volume purchased.
+Legal and Related Matters
+With respect to the cases, actions, and inquiries described below, we evaluate the associated

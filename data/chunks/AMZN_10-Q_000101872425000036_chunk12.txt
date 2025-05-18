@@ -1,0 +1,15 @@
+examination and additional assessments by the relevant authorities in respect of these particular jurisdictions primarily for 2011 and thereafter. We are currently disputing tax assessments in multiple jurisdictions, including with respect to the allocation and characterization of income.
+In September 2022, the Luxembourg tax authority (“LTA”) denied the tax basis of certain intangible assets that we distributed from Luxembourg to the U.S. in 2021. When we are assessed by the LTA, we will need to remit taxes related to this matter. We believe the LTA’s position is without merit, we intend to defend ourselves vigorously in this matter, and we expect to recoup taxes paid.
+The Indian tax authority (“ITA”) has asserted that tax applies to cloud services fees paid to Amazon in the U.S. We will need to remit taxes related to this matter until it is resolved, which payments could be significant in the aggregate. We believe the ITA’s position is without merit, we are defending our position vigorously, and we expect to recoup taxes paid. If this matter is adversely resolved, we could recognize significant additional tax expense, including for taxes previously paid.
+Note 8 —
+SEGMENT INFORMATION
+We have organized our operations into
+three
+segments: North America, International, and AWS. We allocate to segment results the operating expenses “Fulfillment,” “Technology and infrastructure,” “Sales and marketing,” and “General and administrative” based on usage, which is generally reflected in the segment in which the costs are incurred. The majority of technology costs recorded in “Technology and infrastructure” are incurred in the U.S. and are included in our North America and AWS segments. The majority of infrastructure costs recorded in “Technology and infrastructure” are allocated to the AWS segment based on usage. There are no internal revenue transactions between our reportable segments. Our chief operating decision maker (“CODM”) is our President and Chief Executive Officer. Our CODM regularly reviews consolidated net sales, consolidated operating expenses, and consolidated operating income (loss) by segment. Amounts included in consolidated operating expenses include “Cost of sales,” “Fulfillment,” “Technology and infrastructure,” “Sales and marketing,” “General and administrative,” and “Other operating expense (income), net.” Our CODM manages our business primarily by reviewing consolidated results by segment on a quarterly basis, and using those results along with forecasts and other non-financial information in our annual budgeting process.
+18
+Table of
+Contents
+North America
+The North America segment primarily consists of amounts earned from retail sales of consumer products (including from sellers) and advertising and subscription services through North America-focused online and physical stores. This segment includes export sales from these online stores.
+International
+The International segment primarily consists of amounts earned from retail sales

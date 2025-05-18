@@ -1,0 +1,24 @@
+securities portfolio and non-U.S. dollar-denominated debt issuance. Treasury and CIO, working in partnership with the LOBs, primarily manage these risks on behalf of the Firm. Treasury and CIO may hedge certain of these risks using derivatives. Refer to Business Segment & Corporate Results on page 71 for additional information.
+Other sensitivity-based measures
+The Firm quantifies the market risk of certain debt and equity and credit and funding-related exposures by assessing the potential impact on net revenue, other comprehensive income (“OCI”) and noninterest expense due to changes in relevant market variables. Refer to the predominant business activities that give rise to market risk on page 142 for additional information on the positions captured in other sensitivity-based measures.
+The table below represents the potential impact to net revenue, OCI or noninterest expense for market risk sensitive instruments that are not included in VaR or earnings-at-risk. Where appropriate, instruments used for hedging purposes are reported net of the positions being hedged. The sensitivities disclosed in the table below may not be representative of the actual gain or loss that would have been realized at December 31, 2024 and 2023, as the movement in market parameters across maturities may vary and are not intended to imply management’s expectation of future changes in these sensitivities.
+(a)
+Excludes equity securities without readily determinable fair values that are measured under the measurement alternative. Refer to Note 2 for additional information.
+(b)
+In line with the Firm's internal model governance, the credit risk component of CVA related to certain counterparties was removed from Credit Portfolio VaR due to the widening of the credit spreads for those counterparties to elevated levels. The related hedges were also removed to maintain consistency. This exposure is now reflected in the table above.
+(c)
+Impact recognized through net revenue.
+(d)
+Impact recognized through noninterest expense.
+(e)
+Impact recognized through OCI.
+Management’s discussion and analysis
+The Firm, through its LOBs and Corporate, may be exposed to country risk resulting from financial, economic, political or other significant developments which adversely affect the value of the Firm’s exposures related to a particular country or set of countries. The Country Risk Management group actively monitors the various portfolios which may be impacted by these developments and measures the extent to which
+the Firm’s exposures are diversified given the Firm’s strategy and risk tolerance relative to a country.
+Organization and management
+Country Risk Management is an independent risk management function that assesses and monitors exposure to country risk across the Firm.
+The Firm’s country risk management function includes the following activities:
+•
+Maintaining policies, procedures and standards consistent with a comprehensive country risk framework
+•
+Assigning sovereign ratings,

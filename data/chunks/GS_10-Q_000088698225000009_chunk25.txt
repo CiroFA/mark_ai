@@ -1,0 +1,33 @@
+derivatives of $
+627
+million (reflecting $
+15
+million of net realized gains and $
+612
+million of net unrealized gains) for the three months ended March 2025 included gains of $
+623
+million reported in market making and $
+4
+million reported in other principal transactions.
+The net unrealized gains on level 3 derivatives for the three months ended March 2025 primarily reflected gains on certain interest rate derivatives (principally due to a decrease in interest rates), gains on certain commodity derivatives (principally due to an increase in commodity prices) and gains on certain equity derivatives (principally due to a decrease in equity prices).
+Transfers into level 3 derivatives during the three months ended March 2025 primarily reflected transfers of certain credit derivative assets from level 2 (principally due to reduced transparency of certain credit spread inputs used to value these instruments), partially offset by transfers of certain interest rate derivative liabilities from level 2 (principally due to certain unobservable volatility inputs becoming significant to the valuation of these instruments).
+The drivers of transfers out of level 3 derivatives during the three months ended March 2025 were not material.
+Level 3 Rollforward Commentary for the Three Months Ended March 2024.
+The net realized and unrealized losses on level 3 derivatives of $
+60
+million (reflecting $
+94
+million of net realized losses and $
+34
+million of net unrealized gains) for the three months ended March 2024 included gains/(losses) of $(
+72
+) million reported in market making and $
+12
+million reported in other principal transactions.
+The net unrealized gains on level 3 derivatives for the three months ended March 2024 primarily reflected gains on certain commodity derivatives (principally due to the impact of an increase in commodity prices), gains on certain credit derivatives (principally due to the impact of changes in foreign exchange rates), and gains on certain equity derivatives (principally due to the impact of an increase in equity prices), partially offset by losses on certain interest rate derivatives (principally due to the impact of an increase in interest rates).
+Transfers into level 3 derivatives during the three months ended March 2024 primarily reflected transfers of certain equity derivative liabilities from level 2 (principally due to certain unobservable inputs becoming significant to the valuation of these instruments).
+Transfers out of level 3 derivatives during the three months ended March 2024 primarily reflected transfers of certain interest rate derivative liabilities to level 2 (principally due to certain unobservable volatility inputs no longer being significant to the valuation of these instruments).
+Investments
+Fair Value by Level.
+The table below presents investments accounted for at fair value by level within the fair value hierarchy.
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and

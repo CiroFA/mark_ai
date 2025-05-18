@@ -1,0 +1,32 @@
+issued by the trust.
+Citi’s U.S. consumer mortgage business generally retains the servicing rights and in certain instances retains investment securities, interest-only strips and residual interests in future cash flows from the trusts and also provides servicing for a limited number of
+Services
+,
+Markets
+and
+Banking
+securitizations. Citi’s
+Services
+,
+Markets
+and
+Banking
+businesses may hold investment securities pursuant to credit risk retention rules or in connection with secondary market-making activities.
+The Company securitizes mortgage loans generally through either a U.S. government-sponsored agency, such as Ginnie Mae, a U.S. agency-sponsored entity, such as Fannie Mae or Freddie Mac, or a private label (non-agency-sponsored
+mortgages) securitization. Citi is not the primary beneficiary of its U.S. agency-sponsored mortgage securitization entities because Citigroup does not have the power to direct the activities of the VIEs that most significantly impact the entities’ economic performance. Therefore, Citi does not consolidate these U.S. agency-sponsored mortgage securitization entities. Substantially all of the consumer loans sold or securitized through non-consolidated trusts by Citigroup are U.S. prime residential mortgage loans. Retained interests in non-consolidated agency-sponsored mortgage securitization trusts are classified as
+Trading account assets
+, except for MSRs, which are included in
+Other assets
+on Citigroup’s Consolidated Balance Sheet.
+Citigroup does not consolidate certain non-agency-sponsored mortgage securitization entities because Citi is either not the servicer with the power to direct the significant activities of the entity or Citi is the servicer, but the servicing relationship is deemed to be a fiduciary relationship; therefore, Citi is not deemed to be the primary beneficiary of the entity.
+In certain instances, the Company has (i) the power to direct the activities that most significantly impact the entities’ economic performance and (ii) the obligation to either absorb losses or the right to receive benefits that could be potentially significant to its non-agency-sponsored mortgage securitization entities and, therefore, is the primary beneficiary and, thus, consolidates the VIE.
+The following tables summarize selected cash flow information and retained interests related to Citigroup mortgage securitizations:
+Note: Excludes re-securitization transactions.
+For non-consolidated mortgage securitization entities where the transfer of loans to the VIE meets the conditions for sale accounting, Citi recognizes a gain or loss based on the difference between the carrying value of the transferred assets and the proceeds received (generally cash but may be beneficial interests or servicing rights).
+Agency and non-agency securitization gains for the year ended December 31, 2024 were $
+0.4
+million and $
+216.2
+million, respectively.
+Agency and non-agency securitization gains for the year ended December 31, 2023 were $
+0.4

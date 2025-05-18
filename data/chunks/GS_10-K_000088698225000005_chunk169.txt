@@ -1,0 +1,16 @@
+increase in our own credit spreads on financial liabilities for which the fair value option was elected was a gain of $43 million as of December 2024 and $42 million as of December 2023. However, the actual net impact of a change in our own credit spreads is also affected by the liquidity, duration and convexity (as the sensitivity is not linear to changes in yields) of those financial liabilities for which the fair value option was elected, as well as the relative performance of any hedges undertaken.
+Earnings-at-Risk.
+The table below presents the impact of a parallel shift in rates on our net revenues and preferred stock dividends over the next 12 months relative to the baseline scenario.
+In the table above, the EaR metric utilized various assumptions, including, among other things, balance sheet size and composition, prepayment behavior and deposit repricing, all of which have inherent uncertainties. The EaR metric does not represent a forecast of our net revenues and preferred stock dividends. We expect our EaR to be more sensitive to short-term interest rates than long-term rates.
+Other Market Risk Considerations
+We make investments in securities that are accounted for as available-for-sale, held-to-maturity or under the equity method which are included in investments in the consolidated balance sheets. See Note 8 to the consolidated financial statements for further information.
+Direct investments in real estate are accounted for at cost less accumulated depreciation. See Note 12 to the consolidated financial statements for further information about other assets.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Financial Statement Linkages to Market Risk Measures
+We employ a variety of risk measures, each described in the respective sections above, to monitor market risk across the consolidated balance sheets and consolidated statements of earnings. The related gains and losses on these positions are included in market making, other principal transactions, interest income and interest expense in the consolidated statements of earnings, and debt valuation adjustment and unrealized gains/(losses) on available-for-sale securities in the consolidated statements of comprehensive income.
+The table below presents certain assets and liabilities accounted for at fair value or accounted for at the lower of cost or fair value in our consolidated balance sheets and the market risk measures used to assess those assets and liabilities.
+In addition to the above, we measure the interest rate risk for all positions within our consolidated balance sheets using the EaR metric.
+Credit Risk Management
+Overview
+Credit risk represents the potential for loss due to the default or deterioration in credit quality of a counterparty (e.g., an OTC derivatives counterparty or a borrower) or an issuer of securities or other instruments we hold. Our exposure to credit risk comes mostly from client transactions in OTC derivatives and loans

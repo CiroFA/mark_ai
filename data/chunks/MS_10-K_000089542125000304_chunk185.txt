@@ -1,0 +1,20 @@
+Periodic Benefit Expense (Income)
+Certain current and former U.S. employees of the Firm and its U.S. affiliates who were hired before July 1, 2007 are covered by the U.S. pension plan, a non-contributory defined benefit pension plan that is qualified under Section 401(a) of the Internal Revenue Code (“U.S. Qualified Plan”). The U.S. Qualified Plan has ceased future benefit accruals.
+The Morgan Stanley Supplemental Executive Retirement and Excess Plan (“SEREP”), is a non-contributory defined benefit plan that is not qualified under Section 401(a) of the Internal Revenue Code, has ceased future benefit accruals.
+Certain of the Firm’s non-U.S. subsidiaries also have defined benefit pension plans covering their eligible current and former employees.
+The Firm’s pension plans generally provide pension benefits that are based on each employee’s years of credited service and on compensation levels specified in the plans.
+Rollforward of Pre-tax AOCI
+The Firm generally amortizes into net periodic benefit expense (income) the unrecognized net gains and losses exceeding 10% of the greater of the projected benefit obligation or the market-related value of plan assets. The U.S. pension plans amortize the unrecognized net gains and losses over the average life expectancy of participants. The remaining plans generally amortize the unrecognized net gains and losses and prior service credit over the average remaining service period of active participants.
+Weighted Average Assumptions Used to Determine Net Periodic Benefit Expense (Income)
+The accounting for pension plans involves certain assumptions and estimates. The expected long-term rate of return for the U.S. Qualified Plan was estimated by computing a weighted average of the underlying long-term expected returns based on the investment managers’ target allocations.
+Benefit Obligation and Funded Status
+Rollforward of the Projected Benefit Obligation and Fair Value of Plan Assets
+1.
+Primarily reflects the impact of year-over-year discount rate fluctuations.
+2.
+Primarily includes the impact of foreign currency exchange rate changes.
+Accumulated Benefit Obligation
+Pension Plans with Projected Benefit Obligations in Excess of the Fair Value of Plan Assets
+The pension plans included in the table above may differ based on their funding status as of December 31 of each year.
+Weighted Average Assumptions Used to Determine Projected Benefit Obligation
+The discount rates used to determine the benefit obligation were selected by the Firm, in consultation with its independent actuary. The U.S. pension plans use a pension discount yield curve based on the characteristics of the plans, each determined independently. The pension discount yield curve represents spot discount yields based on duration implicit in a representative broad-based Aa-rated corporate bond universe of high-quality fixed income investments. For all non-U.S. pension plans, the assumed discount rates are based on the nature of liabilities, local economic

@@ -1,0 +1,18 @@
+reputation, our ability to sell our service offerings to existing and prospective customers, and our business, operating results and financial position.
+Strategic and Industry Risks
+The markets in which we participate are intensely competitive, and if we do not compete effectively, our operating results could be harmed.
+The market for enterprise applications and platform services is highly competitive, rapidly evolving, fragmented and subject to changing technology, low barriers to entry, shifting customer needs and frequent introductions of new products and services. Many prospective customers have invested substantial personnel and financial resources to implement and integrate their current enterprise software into their businesses and therefore may be reluctant or unwilling to migrate away from their current solution to a different enterprise software service. Additionally, third-party developers may be reluctant to build application services on our platform since they have invested in other competing technology platforms.
+Our current competitors include:
+•
+vendors of packaged business software, as well as companies offering enterprise apps delivered through on-premises offerings from enterprise software application vendors and cloud computing application service providers, either individually or with others;
+56
+Table of Contents
+•
+software companies that provide their product or service free of charge as a single product or when bundled with other offerings, or only charge a premium for advanced features and functionality, as well as companies that offer solutions that are sold without a direct sales organization;
+•
+vendors who offer software tailored to specific services, industries or market segments, as opposed to our full suite of service offerings, including suppliers of traditional business intelligence and data preparation products, integration software vendors, marketing vendors, e-commerce solutions vendors or data platform vendors;
+•
+productivity tool and email providers, unified communications providers and consumer application companies that have entered the business software market; and
+•
+traditional platform development environment companies and cloud computing development platform companies who may develop toolsets and products that allow customers to build new apps that run on the customers’ current infrastructure or as hosted services, as well as would-be customers who may develop enterprise applications for internal use.
+In addition, we may face more competition as we expand our product offerings. Some of our current and potential competitors may have competitive advantages, such as greater name recognition, longer operating histories, more significant installed bases, broader geographic scope, broader suites of service offerings and larger marketing budgets, as well as substantially greater financial, technical, personnel and other resources. In addition, many of our current and potential competitors have established

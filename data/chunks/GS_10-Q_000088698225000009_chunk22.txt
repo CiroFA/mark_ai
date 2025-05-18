@@ -1,0 +1,33 @@
+months ended March 2024 were not material.
+The drivers of the transfers into level 3 trading cash instrument assets during the three months ended March 2024 were not material.
+Transfers out of level 3 trading cash instrument assets during the three months ended March 2024 primarily reflected transfers of certain corporate debt instruments to level 2 (principally due to increased price transparency as a result of market evidence, including market transactions in these instruments).
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Derivatives
+Fair Value by Level.
+The table below presents derivatives on a gross basis by level and product type, as well as the impact of netting.
+In the table above:
+•
+Gross fair values exclude the effects of both counterparty netting and collateral netting, and therefore are not representative of the firm’s exposure.
+•
+Counterparty netting is reflected in each level to the extent that receivable and payable balances are netted within the same level and is included in counterparty netting in levels. Where the counterparty netting is across levels, the netting is included in cross-level counterparty netting.
+•
+Assets are shown as positive amounts and liabilities are shown as negative amounts.
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of derivatives.
+Significant Unobservable Inputs.
+The table below presents the amount of level 3 derivative assets (liabilities), and ranges, averages and medians of significant unobservable inputs used to value such derivatives.
+In the table above:
+•
+Assets are shown as positive amounts and liabilities are shown as negative amounts.
+•
+Ranges represent the significant unobservable inputs that were used in the valuation of each type of derivative.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+•
+Averages represent the arithmetic average of the inputs and are not weighted by the relative fair value or notional amount of the respective financial instruments. An average greater than the median indicates that the majority of inputs are below the average. For example, the difference between the average and the median for credit spreads indicates that the majority of the inputs fall in the lower end of the range.
+•
+The ranges, averages and medians of these inputs are not representative of the appropriate inputs to use when calculating the fair value of any one derivative. For example, the highest correlation for interest rate derivatives is appropriate for valuing a specific interest rate derivative but may not be appropriate for valuing any other interest rate derivative. Accordingly, the ranges of inputs do not represent uncertainty in, or possible ranges of, fair value measurements of level 3 derivatives.
+•
+Interest rates, currencies and equities derivatives are valued using option

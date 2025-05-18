@@ -1,0 +1,31 @@
+flows of the related assets accounted for as Trading assets (see Notes 13 and 15). Additionally, for certain secured financing transactions that meet applicable netting criteria, the Firm offset Other secured financing liabilities against financing receivables recorded within Trading assets in the amount of
+$
+437
+million at December 31, 2024 and $
+3,472
+million at  December 31, 2023.
+9.
+Loans, Lending Commitments and Related Allowance for Credit Losses
+The Firm’s held-for-investment and held-for-sale loan portfolios consist of the following types of loans:
+•
+Corporate.
+Corporate includes revolving lines of credit, term loans and bridge loans made to corporate entities for a variety of purposes.
+•
+Secured Lending Facilities.
+Secured lending facilities include loans provided to clients, which are collateralized by various assets, including residential and commercial real estate mortgage loans, investor commitments for capital calls, corporate loans and other assets.
+•
+Commercial Real Estate
+.  Commercial real estate loans include owner-occupied loans and income-producing loans.
+•
+Residential Real Estate.
+Residential real estate loans mainly include non-conforming loans and HELOC.
+•
+Securities-based Lending and Other.
+Securities-based lending includes loans that allow clients to borrow money against the value of qualifying securities, generally for any suitable purpose other than purchasing, trading, or carrying securities or refinancing margin debt. The majority of these loans are structured as revolving lines of credit. Other primarily includes certain loans originated in the tailored lending business within the Wealth Management business segment.
+Loans by Type
+Loans by Interest Rate Type
+See Note 4 for further information regarding Loans and lending commitments held at fair value. See Note 14 for details of current commitments to lend in the future.
+Credit Quality
+The CRM evaluates new obligors before credit transactions are initially approved and at least annually thereafter for corporate and commercial real estate loans. For Corporate, Secured lending facilities and Other loans, credit evaluations typically involve the evaluation of financial statements, assessment of leverage, liquidity, capital strength, asset composition and quality, market capitalization and access to capital markets, cash flow projections and debt service requirements, and the adequacy of collateral, if applicable. The CRM also evaluates strategy, market position, industry dynamics, obligor’s management and other factors that could affect an obligor’s risk profile.
+For Commercial real estate loans, the credit evaluation is focused on property and transaction metrics, including property type, LTV ratio, occupancy levels, debt service ratio, prevailing capitalization rates and market dynamics.
+For Residential real estate and Securities-based loans, the initial credit evaluation typically includes, but is not limited to, review of the obligor’s income, net worth, liquidity,

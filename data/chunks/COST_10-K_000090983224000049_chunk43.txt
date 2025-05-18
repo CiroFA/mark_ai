@@ -1,0 +1,16 @@
+the consolidated balance sheet.
+Goodwill and Acquired Intangible Assets
+Goodwill represents the excess of acquisition cost over the fair value of the net assets acquired and is not subject to amortization. The Company reviews goodwill annually in the fourth quarter for impairment or when circumstances indicate carrying value may exceed the fair value. This evaluation is performed at the reporting unit level. If a qualitative assessment indicates that it is more likely than not that the fair value is less than carrying value, a quantitative analysis is completed using either the income or market approach, or a combination of both. The income approach estimates fair value based on expected discounted future cash flows, while the market approach uses comparable public companies and transactions to develop metrics to be applied to historical and expected future operating results.
+Goodwill is included in other long-term assets in the consolidated balance sheets.
+The following table summarizes goodwill by reportable segment:
+Definite-lived intangible assets, which are immaterial, are included in other long-term assets on the consolidated balance sheets and are amortized on a straight-line basis over their estimated lives, which approximates the pattern of expected economic benefit.
+Insurance/Self-insurance Liabilities
+Claims for employee health-care benefits, workers’ compensation, general liability, property damage, directors’ and officers’ liability, vehicle liability, inventory loss, and other exposures are funded predominantly through self-insurance. Insurance coverage is maintained for certain risks to limit exposures to very large losses. The Company uses various risk management mechanisms, including a wholly-owned captive insurance subsidiary (the captive) and participates in a reinsurance program. Liabilities associated with the risks that are retained by the Company are not discounted and are
+45
+Table of Contents
+estimated using historical claims experience, demographic factors, severity factors, and other actuarial assumptions. The estimated accruals for these liabilities could be significantly affected if future occurrences, claims, or expenses differ from these assumptions and historical trends. At the end of 2024 and 2023, these insurance liabilities were $
+1,612
+and $
+1,513
+in the aggregate, and were included in accrued salaries and benefits and other current liabilities in the consolidated balance sheets, classified based on their nature.
+The captive receives direct premiums, which are netted against the Company’s premium costs in SG&A expenses in the consolidated statements of income. The captive participates in a reinsurance program that includes third-party participants. The participant agreements and practices of the reinsurance program are designed to limit a participating members’ individual risk. Income statement adjustments related to the reinsurance program and related impacts to the consolidated balance sheets are recognized as

@@ -1,0 +1,42 @@
+Financial Statements.
+53
+Table of Contents
+Advanced Micro Devices, Inc.
+Consolidated Statements of Comprehensive Income
+See accompanying notes to the Consolidated Financial Statements.
+54
+Table of Contents
+Advanced Micro Devices, Inc.
+Consolidated Balance Sheets
+See accompanying notes to the Consolidated Financial Statements.
+55
+Table of Contents
+Advanced Micro Devices, Inc.
+Consolidated Statements of Stockholders’ Equity
+See accompanying notes to the Consolidated Financial Statements.
+56
+Table of Contents
+Advanced Micro Devices, Inc.
+Consolidated Statements of Cash Flows
+57
+Table of Contents
+See accompanying notes to the Consolidated Financial Statements.
+58
+Table of Contents
+Advanced Micro Devices, Inc.
+Notes to Consolidated Financial Statements
+NOTE 1 –
+The Company
+Advanced Micro Devices, Inc. is a global semiconductor company. References herein to AMD or the Company mean Advanced Micro Devices, Inc. and its consolidated subsidiaries. AMD’s products include Artificial Intelligence (AI) Accelerators, x86 microprocessors (CPUs) and graphics processing units (GPUs), as standalone devices or as incorporated into accelerated processing units (APUs), chipsets, data center and professional GPUs, embedded processors, semi-custom System-on-Chip (SoC) products, microprocessor and SoC development services and technology, data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), System on Modules (SOMs), Smart Network Interface Cards (SmartNICs), and Adaptive SoC products. From time to time, the Company may also sell or license portions of its intellectual property (IP) portfolio.
+NOTE 2 –
+Basis of Presentation and Significant Accounting Policies
+Fiscal Year
+. The Company uses a 52- or 53-week fiscal year ending on the last Saturday in December. Fiscal years 2024, 2023 and 2022 ended on December 28, 2024, December 30, 2023 and December 31, 2022, respectively. Fiscal years 2024 and 2023 each consisted of 52 weeks, while fiscal year 2022 consisted of 53 weeks.
+Principles of Consolidation.
+The Consolidated Financial Statements include the Company’s accounts and those of its wholly-owned subsidiaries. Upon consolidation, all inter-company accounts and transactions have been eliminated.
+Reclassification and Change in Presentation.
+Unbilled receivables of $
+1.1
+billion as of December 30, 2023 were reclassified from within Accounts receivable, net to within Prepaid expenses and other current assets on the Company’s Consolidated Balance Sheets and in the Statements of Cash Flows to conform to current period presentation.
+Use of Estimates.
+The preparation of consolidated financial statements in conformity with U.S. generally accepted accounting principles (U.S. GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of commitments and contingencies at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. Actual

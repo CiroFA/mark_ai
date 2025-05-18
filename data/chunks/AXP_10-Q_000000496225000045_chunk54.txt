@@ -1,0 +1,38 @@
+with our tax credit investments are also recognized in the Consolidated Statements of Cash Flows in the Operating activities section primarily under Accounts payable and other liabilities. Refer to Note 6 to our “Consolidated Financial Statements” in the 2024 Form 10-K for additional information on our tax credit investments for the year ended December 31, 2024.
+67
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+14.
+Earnings Per Common Share (EPS)
+The computations of basic and diluted EPS for the three months ended March 31 were as follows:
+Table 14.1: Computation of Basic and Diluted Earnings per Share
+(a)
+Our unvested restricted stock awards, which include the right to receive non-forfeitable dividends or dividend equivalents, are considered participating securities. Calculations of EPS under the two-class method exclude from the numerator any dividends paid or owed on participating securities and any undistributed earnings considered to be attributable to participating securities. The related participating securities are similarly excluded from the denominator.
+(b)
+The dilutive effect of unexercised stock options excludes from the computation of EPS
+0.1
+million of options for both the three months ended March 31, 2025 and 2024, because inclusion of the options would have been anti-dilutive.
+68
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+15.
+Reportable Operating Segments
+The following tables present certain selected financial information for our reportable operating segments and Corporate & Other as of or for the three months ended March 31:
+Table 15.1: Selected Financial Information by Segment
+(a)
+Corporate & Other includes adjustments and eliminations for intersegment activity.
+(b)
+Includes discount revenue and certain service fees and other revenue from customers.
+(c)
+Card Member rewards, business development and Card Member services expenses are generally correlated to volumes or are variable based on usage.
+69
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risk is the risk to earnings or asset and liability values resulting from movements in market prices. Our market risk exposures include (i) interest rate risk due to changes in the relationship between the interest rates on our assets (such as loans, receivables and investment securities) and the interest rates on our liabilities (such as debt and deposits); and (ii)
+foreign exchange risk related to transactions, funding, investments and earnings in currencies other than the U.S. dolla
+r. Since December 31, 2024, there have been no material changes in our market risk exposures associated with interest rates or foreign currencies.
+The actual impact of interest rate and foreign exchange rate changes will depend on, among other factors, the timing of rate changes, the extent to which different rates do not move in the same direction or in the

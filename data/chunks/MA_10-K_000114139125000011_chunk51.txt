@@ -1,0 +1,19 @@
+industry entrusted with the safeguarding of sensitive information (including personal information),
+cybersecurity risk management is an integral part of our overall enterprise risk management program
+.  A robust program to protect our network from cyber and information security threats is critical to managing risk effectively.  Our network and platforms incorporate multiple layers of protection, providing greater resiliency and security protection.
+Our programs are assessed by third parties and incorporate benchmarking and other data from peer companies and consultants.  We engage in many efforts to mitigate information security challenges, including maintaining an information security program, an enterprise resilience program and insurance coverage, as well as regularly testing our systems to address potential vulnerabilities.  We work with experts across the organization (as well as through other sources such as public-private partnerships) to monitor and respond quickly to a range of cyber and physical threats, including threats and incidents associated with the use of services provided by third-party providers.  Our cybersecurity program provides (among other things) a framework for handling cybersecurity threats and incidents, which includes steps for identifying the nature of a cybersecurity threat (including whether the threat is associated with a third-party provider), assessing the severity of a cybersecurity threat (including advancing to key members of management where appropriate for determination of potential materiality) and implementing cybersecurity processes and procedures.
+Program highlights
+•
+We are committed to the responsible handling of personal information, and we balance our product development activities with a commitment to transparency and control, fairness and non-discrimination, as well as accountability
+•
+Our multi-layered privacy, data protection and information security programs and practices are designed to ensure the safety, security and responsible use of the information and data our stakeholders entrust to us
+•
+We work with our customers, governments, policymakers and others to help develop and implement standards for safe and secure transactions, as well as privacy-centric data practices
+•
+Our programs are informed by third-party assessments and advice regarding best practices from consultants, peer companies and advisors
+•
+Our programs are designed to align with internationally recognized privacy, data protection and information security standards and undergo regular certifications and attestations
+•
+We continually test our systems to discover and address any potential vulnerabilities
+•
+We have processes for evaluating (among other things) the privacy, data protection and information security infrastructure of our third-party providers (including examining any relevant records), and we seek to manage third-party risk with procedures to onboard our third-party providers, monitor their activity during our

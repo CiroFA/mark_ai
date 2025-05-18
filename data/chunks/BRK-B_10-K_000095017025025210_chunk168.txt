@@ -1,0 +1,20 @@
+year, with year 1 representing the current accident year.
+K-
+95
+Notes to Consolidated Financial Statements
+(17)
+Retroactive reinsurance contracts
+Retroactive reinsurance policies provide indemnification of losses and loss adjustment expenses of short-duration insurance contracts with respect to underlying loss events that occurred prior to the contract inception date. Exposures may include significant asbestos, environmental and other mass tort claims. Retroactive reinsurance contracts are generally subject to aggregate policy limits and thus, our exposure to such claims under these contracts is likewise limited.
+Reconciliations of the changes in estimated liabilities for retroactive reinsurance unpaid losses and loss adjustment expenses for each of the three years ended December 31, 2024 follow (in millions).
+We classify incurred and paid losses and loss adjustment expenses based on the inception dates of the contracts, which reflect when our exposure to losses began. We believe that analysis of losses incurred and paid by the accident year of the underlying event is irrelevant given that our exposure to losses incepted when the contract incepted. We also believe that the classification of reported claims and case development liabilities has little or no practical analytical value. Substantially all of the losses and loss adjustment expenses incurred and paid related to contracts written in prior years.
+Losses and loss adjustment expenses incurred include changes in estimated ultimate liabilities and related adjustments to deferred charge assets arising from the changes in the estimated timing and amount of loss payments. In 2023, we increased estimated ultimate liabilities under certain contracts by $
+1.1
+billion, primarily attributable to revised estimates for asbestos, environmental and other casualty claims. Including the adjustments to related deferred charge assets, the increase in ultimate liabilities produced a net expense of approximately $
+650
+million in 2023. Deferred charge assets on retroactive reinsurance contracts were $
+8.8
+billion at December 31, 2024 and $
+9.5
+billion at December 31, 2023.
+In establishing retroactive reinsurance claim liabilities, we analyze historical aggregate loss payment patterns and project losses under various probability-weighted scenarios. We expect the claim-tails for many contracts to be very long, with some lasting several decades. We monitor claim payment activity and review ceding company reports and other information concerning the underlying losses. We revise the expected timing and amounts of ultimate losses periodically or when significant events occur.
+We monitor evolving case law and its effect on asbestos, environmental and other mass tort claims. Changing laws or government regulations, as well as newly identified toxins and injury events, newly reported claims, new theories of liability, new contract interpretations and other factors could result in increases in these liabilities, which

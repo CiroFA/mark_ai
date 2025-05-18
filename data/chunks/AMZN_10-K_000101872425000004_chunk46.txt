@@ -1,0 +1,47 @@
+equipment, net” as of December 31, 2024, we estimate an increase in 2025 operating income of approximately $
+0.9
+billion, which will be recorded primarily in “Fulfillment” and impact our North America and International segments.
+We completed our most recent servers and networking equipment useful life study in Q4 2024, and are changing the useful lives of a subset of our servers and networking equipment, effective January 1, 2025, from
+six years
+to
+five years
+. For those assets included in “Property and equipment, net” as of December 31, 2024, whose useful life will change from
+six years
+to
+five years
+, we anticipate a decrease in 2025 operating income of approximately $
+0.7
+billion. We expect to continue to acquire more of these server and networking assets in 2025. In 2024, we also determined, primarily in the fourth quarter, to retire early certain of our servers and networking equipment. We recorded approximately $
+920
+million of accelerated depreciation and related charges for the quarter ended December 31, 2024 related to these decisions. The accelerated depreciation will continue into 2025 and decrease operating income by approximately $
+0.6
+billion in 2025. These two changes above are due to an increased pace of technology development, particularly in the area of artificial intelligence and machine learning.
+We had previously increased the useful life of our servers from
+five years
+to
+six years
+effective January 1, 2024. The effect of this change for the year ended December 31, 2024, based on servers that were included in “Property and equipment,
+41
+Table of Contents
+net” as of December 31, 2023 and those acquired during the year ended December 31, 2024, was a reduction in depreciation and amortization expense of $
+3.2
+billion and a benefit to net income of $
+2.5
+billion, or $
+0.23
+per basic share and $
+0.23
+per diluted share.
+These server and networking equipment useful life changes primarily impact our AWS segment.
+For the year ended December 31, 2022, we recorded approximately $
+1.1
+billion, of which $
+720
+million was recorded in the fourth quarter, of impairments of property and equipment and operating leases primarily related to physical stores. These charges were recorded in “Other operating expense (income), net” and primarily impacted our North America segment. For the year ended December 31, 2022, we also recorded expenses of approximately $
+480
+million, primarily in “Fulfillment,” primarily relating to terminating contracts for certain leases not yet commenced as well as other purchase commitments, which primarily impacted our North America segment.
+For the year ended December 31, 2022, we recorded approximately $
+720
+million, of which $
+640
+million was recorded in the fourth quarter, of estimated severance costs primarily related to planned role eliminations. These charges were recorded primarily in “Technology and infrastructure,” “Fulfillment,” and “General and administrative” and primarily impacted our North America segment.

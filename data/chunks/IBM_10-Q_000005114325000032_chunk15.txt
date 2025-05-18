@@ -1,0 +1,134 @@
+gaap:ForeignExchangeContractMember
+us-gaap:NetInvestmentHedgingMember
+ibm:CostOfFinancingMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:ForeignExchangeContractMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:InterestExpenseMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:ForeignExchangeContractMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:InterestExpenseMember
+2024-01-01
+2024-03-31
+0000051143
+ibm:CostMember
+2025-01-01
+2025-03-31
+0000051143
+ibm:CostMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-03-31
+0000051143
+country:US
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000051143
+country:US
+us-gaap:PensionPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000051143
+country:US
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000051143
+country:US
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000051143
+ibm:USNonpensionPostretirementBenefitPlansMember
+2025-01-01
+2025-03-31
+0000051143
+ibm:USNonpensionPostretirementBenefitPlansMember
+2024-01-01
+2024-03-31
+0000051143
+ibm:NonUSDBPlansAndMultiEmployerPlansMember
+2025-01-01
+2025-03-31
+0000051143
+ibm:NonUSDBPlansAndMultiEmployerPlansMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:TrustForBenefitOfEmployeesMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:TrustForBenefitOfEmployeesMember
+2024-01-01
+2024-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 or 15(d)
+OF THE
+SECURITIES
+EXCHANGE ACT OF 1934
+FOR THE QUARTER ENDED
+MARCH 31, 2025
+1-2360
+(Commission file number)
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+(Exact name of registrant as specified in its charter)
+914
+-
+499-1900
+(Registrant’s telephone number)
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section l3 or l5(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically

@@ -1,0 +1,19 @@
+Charges for impairment, expenses for terminating contracts and other commitments, and severance costs were not material to our consolidated results of operations for the years ended December 31, 2023 and 2024.
+Supplemental Cash Flow Information
+The following table shows supplemental cash flow information (in millions):
+Earnings Per Share
+Basic earnings per share is calculated using our weighted-average outstanding common shares. Diluted earnings per share is calculated using our weighted-average outstanding common shares including the dilutive effect of stock awards as determined under the treasury stock method. In periods when we have a net loss, stock awards are excluded from our calculation of earnings per share as their inclusion would have an antidilutive effect.
+The following table shows the calculation of diluted shares (in millions):
+42
+Table of Contents
+Revenue
+Revenue is measured based on the amount of consideration that we expect to receive, reduced by estimates for return allowances, promotional discounts, and rebates. Revenue also excludes any amounts collected on behalf of third parties, including sales and indirect taxes. In arrangements where we have multiple performance obligations, the transaction price is allocated to each performance obligation using the relative stand-alone selling price. We generally determine stand-alone selling prices based on the prices charged to customers or using expected cost plus a margin.
+A description of our principal revenue generating activities is as follows:
+Retail sales
+- We offer consumer products through our online and physical stores. Revenue is recognized when control of the goods is transferred to the customer, which generally occurs upon our delivery to a third-party carrier or, in the case of an Amazon delivery, to the customer.
+Third-party seller services
+- We offer programs that enable sellers to sell their products in our stores, and fulfill orders using our services. We are not the seller of record in these transactions. The commissions and any related fulfillment and shipping fees we earn from these arrangements are recognized when the services are rendered, which generally occurs upon delivery of the related products to a third-party carrier or, in the case of an Amazon delivery, to the customer.
+Advertising services
+- We provide advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising. Revenue is recognized as ads are delivered based on the number of clicks or impressions.
+Subscription services
+- Our subscription sales include fees associated with Amazon Prime memberships and access to content including digital video, audiobooks, digital music, e-books, and other non-AWS subscription services. Prime memberships provide our customers with access to an evolving suite of benefits that represent a single stand-ready obligation. Subscriptions are paid for at the time of or in advance of delivering

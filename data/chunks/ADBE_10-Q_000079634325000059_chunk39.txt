@@ -1,0 +1,26 @@
+such as cloud-based infrastructure, data center facilities, generative AI, encryption and authentication technology, company email and communications with customers. If such third parties are negatively affected, if we fail to effectively develop, manage and maintain our relationships with such third parties, or if we are unable to renew our agreements with them on favorable terms or at all, our expenses could significantly increase, and we and our customers may
+41
+Table of Contents
+experience service interruptions. Any disruption or damage to, or failure of our systems generally, including the systems of our third-party platform providers, could result in interruptions in our services and harm our business. Further, interruptions in our services caused by us or our third-party service providers may cause us to issue credits or pay penalties, cause customers to make warranty or other claims against us or to terminate their subscriptions or contracts, and adversely affect our attrition rates and our ability to attract new customers, all of which may adversely affect our financial results. Our business and reputation would also be harmed if our customers and potential customers believe our services are unreliable.
+We face various risks associated with our operating as a multinational corporation, and global adverse economic conditions may harm our business and financial condition.
+We derive a large portion of our total revenue from, and have significant operations, outside of the United States. As a multinational corporation, we are subject to a number of risks, including from global adverse economic conditions, that are uncertain and beyond our control and that make forecasting operating results and decisions about future investments difficult, such as:
+•
+inflation and actions taken by central banks to counter inflation, including increasing interest rates;
+•
+international and regional economic, political and labor conditions, including any instability or security concerns abroad, such as uncertainty caused by economic sanctions, downturns and recessions, trade disputes, tariffs, armed conflicts and wars;
+•
+tax laws (including U.S. taxes on foreign subsidiaries);
+•
+increased financial accounting and reporting burdens and complexities;
+•
+changes in, or impositions of, legislative or regulatory requirements, including antitrust and competition regulations, or other government actions;
+•
+changes in laws governing the free flow of data across international borders;
+•
+inadequate local infrastructure and difficulties in managing and staffing international operations;
+•
+costs, potential liability, delays or loss of sales resulting from trade restrictions imposed by the United States and other countries, as well as trade laws, including but not limited to economic sanctions and export controls;
+•
+costs and delays associated with developing products in multiple languages; and
+•
+operating in locations with a higher rate of corruption and fraudulent business

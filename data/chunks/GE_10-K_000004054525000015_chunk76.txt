@@ -1,0 +1,25 @@
+approaches as appropriate. These investments are generally included in Level 3.
+Long-lived Assets
+. Fair values of long-lived assets are primarily derived internally and are based on observed sales transactions for similar assets or discounted cash flow estimates. In other instances for which we do not have comparable observed sales transaction data, collateral values are developed internally and corroborated by external appraisal information. Adjustments to third-party valuations may be performed in circumstances where market comparables are not specific to the attributes of the specific collateral or appraisal information may not be reflective of current market conditions due to the passage of time and the occurrence of market events since receipt of the information.
+ADOPTIONS OF NEW ACCOUNTING STANDARDS.
+On January 1, 2023, we adopted ASU 2022-04,
+Liabilities—Supplier Finance Programs (Subtopic 405-50) Disclosure of Supplier Finance Program Obligations
+. This guidance requires disclosures for supply chain finance programs using a retrospective approach, except for the annual roll-forward which is applicable prospectively in the period beginning January 1, 2024. The adoption of this standard did not have a material impact on the Company’s consolidated financial statements.
+In 2024, we adopted ASU No. 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+, on a retrospective basis. The amendments are intended to increase reportable segment disclosure requirements primarily through enhanced disclosures about significant segment expenses.
+Refer to Note 25 for further information.
+2024 FORM 10-K
+47
+NOTE 2.
+BUSINESSES HELD FOR SALE AND DISCONTINUED OPERATIONS.
+In the fourth quarter of 2022, we classified our captive industrial insurance subsidiary, Electric Insurance Company, domiciled in Massachusetts, into held for sale. In the second quarter of 2024, we completed the sale to Riverstone International Holdings Inc. for cash proceeds of $
+120
+million.
+In the second quarter of 2024, we classified our non-core licensing business into business held for sale. In the third quarter of 2024, we completed the sale to Dolby Laboratories, Inc. for cash proceeds of $
+441
+million. GE Aerospace will retain intellectual property related to its core aerospace and defense technologies, as well as the trademark portfolio for the GE brand.
+DISCONTINUED OPERATIONS
+primarily comprise our former GE Vernova and GE HealthCare businesses, our mortgage portfolio in Poland (Bank BPH) and other trailing assets and liabilities associated with prior dispositions. Results of operations, financial position and cash flows for these businesses are reported as discontinued operations for all periods presented and the notes to the financial statements have been adjusted on a retrospective basis.
+GE Vernova.
+On April 2, 2024, we completed the previously announced separation of GE Vernova. The separation was structured as a tax-free spin-off and was

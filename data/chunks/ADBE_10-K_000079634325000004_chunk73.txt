@@ -1,0 +1,16 @@
+Cloud and Document Cloud, accounted for as a single performance obligation. Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
+59
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Subscription, Product and Services Offerings
+We enter into revenue arrangements in which a customer may purchase a combination of our products, services and/or solutions as described above. Certain revenue arrangements provide customers with unilateral cancellation rights, or options to either renew monthly on-premise term-based licenses or use committed funds to purchase other Adobe products or services.
+Fully hosted subscription services (“SaaS”) allow customers to access hosted software during the contractual term without taking possession of the software. Cloud-hosted subscription services may be sold on a fee-per-subscription period basis or based on consumption or usage.
+We recognize revenue ratably over the contractual service term, which typically ranges from
+1
+to
+36
+months, for hosted services that are priced based on a committed number of transactions where the delivery and consumption of the benefit of the services occur evenly over time, beginning on the date the services associated with the committed transactions are first made available to the customer and continuing through the end of the contractual service term. Over-usage fees and fees based on the actual number of transactions are billed in accordance with contract terms as these fees are incurred and are included in the transaction price of an arrangement as variable consideration. Fees based on a number of transactions, where invoicing is aligned to the pattern of performance, customer benefit and consumption, are typically accounted for utilizing the “as-invoiced” practical expedient. Revenue for subscriptions sold as a fee per period is recognized ratably over the contractual term as the customer simultaneously receives and consumes the benefit of the underlying service.
+When cloud-enabled services are highly integrated and interrelated with on-premise software, such as in our cloud-enabled Creative Cloud and Document Cloud offerings, the individual components are not considered distinct and revenue is recognized ratably over the subscription period for which the cloud-enabled services are provided.
+The subscription support plans related to those customer arrangements whose revenues we classify as subscription revenues represent stand-ready performance obligations. Revenue from these subscription support plans is recognized ratably over their respective contractual terms and classified as subscription revenue.
+Licenses for on-premise software may be purchased on a perpetual basis, as a subscription for a fixed period of time or based on usage for certain of our original equipment manufacturer (“OEM”) and royalty agreements. Revenue from non-cloud enabled on-

@@ -1,0 +1,45 @@
+terminated or accelerated and settled through a single payment in a single currency in the event of a default (e.g., bankruptcy, failure to make a required payment or securities transfer or deliver collateral or margin when due).
+MBS:
+Mortgage-backed securities
+MD&A:
+Management’s Discussion and Analysis, a section within an SEC Form 10-Q or 10-K.
+MEA:
+Middle East and Africa
+Measurement alternative:
+Measures equity securities without readily determinable fair values at cost less impairment (if any), plus or minus observable price changes from an identical or similar investment of the same issuer.
+Mexico Consumer:
+Mexico Consumer Banking
+Mexico Consumer/SBMM (Banamex):
+Mexico Consumer Banking and Small Business and Middle-Market Banking reported within Legacy Franchises in
+All Other
+. Mexico Consumer/SBMM (Banamex) operates primarily through Grupo Financiero Banamex S.A. de C.V. and its consolidated subsidiaries, including Banco Nacional de Mexico, S.A., which provides traditional retail banking and branded card products to consumers and small business customers and traditional middle-market banking products and services to commercial customers, and other affiliated subsidiaries that offer retirement fund administration and insurance products.
+Mexico SBMM:
+Mexico Small Business and Middle-Market Banking
+Moody’s:
+Moody’s Ratings
+MSRs:
+Mortgage servicing rights
+N/A:
+Data is not applicable or available for the period presented.
+NAA:
+Non-accrual assets. Consists of non-accrual loans and OREO.
+NAL:
+Non-accrual loans. Loans for which interest income is not recognized on an accrual basis. Loans (other than credit card loans and certain consumer loans insured by U.S. government-sponsored agencies) are placed on non-accrual status when full payment of principal and interest is not expected, regardless of delinquency status, or when principal and interest have been in default for a period of 90 days or more unless the loan is both well secured and in the process of collection. Collateral-dependent loans are typically maintained on non-accrual status.
+NAV:
+Net asset value
+NCL(s):
+Net credit losses. Represents gross credit losses, less gross credit recoveries.
+NCL ratio*:
+Represents net credit losses (recoveries) (annualized), divided by average loans for the reporting period.
+Net capital rule:
+Rule 15c3-1 under the Securities Exchange Act of 1934.
+Net new investment asset flows (NNIA) (
+Wealth
+):
+Represents investment asset inflows, including dividends, interest and distributions, less investment asset outflows. Excluded from the calculation are the impacts of fees and commissions, market movement, internal transfers within Citi specific to systematic upgrades/downgrades with
+USPB
+and any impact from strategic decisions by Citi to exit certain
+208
+markets or services. Also excluded from the calculation are net new investment assets associated with markets for which data was not available for current-period reporting.
+NIM*:
+Net interest margin expressed as a

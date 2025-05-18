@@ -1,0 +1,15 @@
+market trades and other market factors. Management reviews the publications quarterly to assess the continued appropriateness and consistency with market trends. Under certain circumstances, we adjust values based on the attributes and condition of the specific aircraft or equipment, usually when the features or use of the aircraft vary significantly from the more generic aircraft attributes covered by third-party publications, or on the expected net sales price for the aircraft.
+For Level 3 operating lease equipment that were measured at fair value on a nonrecurring basis during the period ended December 31, 2024, the following table presents the fair value of those assets as of the measurement date, valuation techniques and related unobservable inputs of those assets.
+(1)
+The range represents the sum of the highest and lowest values for all aircraft subject to fair value measurement, according to the third-party aircraft valuation publications that we use in our valuation process.
+(2)
+The negative amount represents the sum, for all aircraft subject to fair value measurement, of all downward adjustments based on consideration of individual aircraft attributes and condition.
+Fair Value Disclosures
+The fair values and related carrying values of financial instruments that are not required to be remeasured at fair value on the Consolidated Statements of Financial Position at December 31 were as follows:
+112
+Table of
+Contents
+The fair value of Notes receivable classified as Level 2 is estimated with discounted cash flow analysis using interest rates currently offered on loans with similar terms to borrowers of similar credit quality. The fair value of Notes receivable classified as Level 3 is based on our best estimate using available counterparty financial data. The fair value of our debt that is traded in the secondary market is classified as Level 2 and is based on current market yields. For our debt that is not traded in the secondary market, the fair value is classified as Level 2 and is based on our indicative borrowing cost derived from dealer quotes or discounted cash flows. With regard to other financial instruments with off-balance sheet risk, it is not practicable to estimate the fair value of our indemnifications and financing commitments because the amount and timing of those arrangements are uncertain. Items not included in the above disclosures include cash, restricted cash, time deposits and other deposits, Accounts receivable, Unbilled receivables, Other current assets, Accounts payable and long-term payables. The carrying values of those items, as reflected in the Consolidated Statements of Financial Position, approximate their fair value at December 31, 2024 and 2023. The fair value of assets and liabilities whose carrying value approximates fair value is determined using Level 2 inputs, with the exception of cash (Level 1).
+Note 22 –
+Legal Proceedings
+Various legal proceedings, claims and investigations related to products,

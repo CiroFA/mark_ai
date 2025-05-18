@@ -1,0 +1,67 @@
+reclassified from
+AOCI
+within 12 months of March 31, 2025 is approximately $(
+0.3
+) billion. The maximum length of time over which forecasted cash flows are hedged is
+13
+years.
+The after-tax impact of cash flow hedges on
+AOCI
+is presented in Note 19.
+Net Investment Hedges
+For additional information on Citi’s net investment hedges, see Notes 1 and 24 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+The pretax gain (loss) recorded in CTA within
+AOCI
+, related to net investment hedges, was $(
+581
+) million and $
+192
+million for the three months ended March 31, 2025 and March 31, 2024, respectively.
+171
+Credit Derivatives
+The following tables summarize the key characteristics of Citi’s credit derivatives portfolio by reference entity and derivative form:
+(1)
+The fair value amount receivable is composed of $
+3,788
+million under protection purchased and $
+5,264
+million under protection sold.
+(2)
+The fair value amount payable is composed of $
+6,249
+million under protection purchased and $
+1,970
+million under protection sold.
+(1)    The fair value amount receivable is composed of $
+3,864
+million under protection purchased and $
+4,851
+million under protection sold.
+(2)    The fair value amount payable is composed of $
+5,403
+million under protection purchased and $
+1,850
+million under protection sold.
+172
+Credit Risk-Related Contingent Features in Derivatives
+Certain derivative instruments contain provisions that require the Company to either post additional collateral or immediately settle any outstanding liability balances upon the occurrence of a specified event related to the credit risk of the Company. These events, which are defined by the existing derivative contracts, are primarily downgrades in the credit ratings of the Company and its affiliates.
+The fair value (excluding CVA) of all derivative instruments with credit risk-related contingent features that were in a net liability position at March 31, 2025 and December 31, 2024 was $
+13
+billion and $
+15
+billion, respectively. The Company posted $
+11
+billion and $
+13
+billion as collateral for this exposure in the normal course of business as of March 31, 2025 and December 31, 2024, respectively.
+A downgrade could trigger additional collateral or cash settlement requirements for the Company and certain affiliates. In the event that Citigroup and Citibank were downgraded a single notch by all
+three
+major rating agencies as of March 31, 2025, the Company could be required to post an additional $
+0.2
+billion as either collateral or settlement of the derivative transactions. In addition, the Company could be required to segregate with third-party custodians collateral previously received from existing derivative counterparties in an amount of approximately $
+9
+million upon the single notch downgrade, resulting in aggregate cash obligations and collateral requirements of approximately $
+0.2
+billion.
+Derivatives Accompanied by Financial Asset Transfers
+For transfers of financial assets

@@ -1,0 +1,18 @@
+deferred income tax assets and liabilities associated with components of other comprehensive income are charged or credited directly to other comprehensive income. Otherwise, changes in deferred income tax assets and liabilities are included as a component of income tax expense. The effect on deferred income tax assets and liabilities attributable to changes in enacted tax rates are charged or credited to income tax expense in the period of enactment. Valuation allowances are established for certain deferred income tax assets when realization is deemed to be unlikely.
+Liabilities are established for uncertain tax positions taken or positions expected to be taken in income tax returns when such positions, in our judgment, do not meet a more-likely-than-not threshold based on the technical merits of the positions. Estimated interest and penalties related to uncertain tax positions are included as a component of income tax expense.
+(w)
+Accounting pronouncements adopted in 2024
+We
+adopted
+the Financial Accounting Standards Board (“FASB”) Accounting Standards Update 2023-02, “Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method” (“ASU 2023-02”). ASU 2023-02 permits reporting entities to elect to account for tax equity investments from which the income tax credits are received using the proportional amortization method at the program level if certain conditions are met. We elected to apply the proportional accounting method to eligible affordable housing tax credit investments using the modified retrospective method. We recorded a charge to retained earnings of $
+127
+million, representing the cumulative effect of applying the proportional method to these investments as of January 1, 2024.
+We
+adopted
+FASB Accounting Standards Update 2023-07, “Improvements to Reportable Segment Disclosures” (“ASU 2023-07”) beginning
+December 31, 2024
+. ASU 2023-07 requires disclosures of significant expenses by segment and interim disclosure of items that were previously required only on an annual basis. We adopted ASU 2023-07 retrospectively with such disclosures included in Note 26 to the accompanying Consolidated Financial Statements.
+(x)
+Accounting pronouncements to be adopted subsequent to December 31, 2024
+In December 2023, the FASB issued Accounting Standards Update 2023-09, “Improvements to Income Tax Disclosures” (“ASU 2023-09”), which provides for additional income tax rate reconciliation and income taxes paid disclosures. ASU 2023-09 may be adopted on a prospective or retrospective basis and is effective for fiscal years beginning after December 15, 2024, with early adoption permitted.
+In November 2024, the FASB issued Accounting Standards Update 2024-03, “Disaggregation of Income Statement Expenses” (“ASU 2024-03”), which requires detailed disclosure in the notes to the financial statements of specific categories underlying certain expense captions on the income statement. ASU 2024-03 may be adopted on a prospective

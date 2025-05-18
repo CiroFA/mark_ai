@@ -1,0 +1,34 @@
+Dollars, Indian Rupees and Canadian Dollars.
+As of February 28, 2025, we had net derivative gains on our foreign currency cash flow hedges expected to be recognized within the next
+36
+months, of which $
+129
+million of net gains are expected to be recognized into revenue within the next 12 months.
+Fair Value Hedges
+During the three months ended February 28, 2025, we entered into interest rate swaps related to certain of our senior notes. The interest rate swaps effectively convert the fixed interest rates on the notes to floating interest rates based on the Secured Overnight Financing Rate Overnight Index Swap Rate (“SOFR OIS”). Under the terms of the swaps, we will pay quarterly interest at the daily compounded SOFR OIS plus a fixed number of basis points on the $
+1.20
+billion notional amount through the respective par call dates for the notes. In exchange, we will receive the fixed rate interest on the notes from the swap counterparties on a semi-annual basis.
+See Note
+1
+3
+for further details regarding our debt.
+The interest rate swaps are designated as fair value hedges. We record changes in fair value on the swaps associated with the hedged risk in interest expense in our condensed consolidated statements of income with a corresponding offset to the value of the senior notes being hedged.
+Non-Designated Hedges
+Our derivatives not designated as hedging instruments consist of foreign currency forward contracts that we primarily use to hedge monetary assets and liabilities denominated in non-functional currencies. As of February 28, 2025, total notional amounts of outstanding contracts were $
+313
+million, primarily hedging exposures denominated in Australian Dollars, Indian Rupees, Japanese Yen, and Euros. As of November 29, 2024, total notional amounts of outstanding foreign currency forward contracts hedging monetary assets and liabilities were $
+381
+million, primarily hedging exposures denominated in Indian Rupees, Australian Dollars, British Pounds and Euros.
+15
+Table of Contents
+ADOBE INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+Fair value asset derivatives are included in prepaid expenses and other current assets for the current portion and other assets for the long-term portion, and fair value liability derivatives are included in accrued expenses and other current liabilities for the current portion and other liabilities for the long-term portion on our condensed consolidated balance sheets.
+The fair value of derivative instruments as of February 28, 2025 and November 29, 2024 were as follows:
+Gains and losses on derivative instruments, net of tax, recognized in our condensed consolidated statements of comprehensive income for the three months ended February 28, 2025 were primarily associated with our foreign exchange contracts, for which we recognized $
+94
+million of net gains. Gains and losses on derivative instruments, net of tax, for the three months ended March 1, 2024 were
+immaterial
+.
+For the

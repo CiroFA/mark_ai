@@ -1,0 +1,20 @@
+on earnings over the next 12 months.
+McDonald's Corporation
+2024 Annual Report
+50
+Net Investment Hedges
+The Company uses foreign currency denominated debt (third-party and intercompany) and foreign currency derivatives to hedge its investments in certain foreign subsidiaries and affiliates. Realized and unrealized translation adjustments from these hedges are included in shareholders' equity in the foreign currency translation component of Other comprehensive income ("OCI") and offset translation adjustments on the underlying net assets of foreign subsidiaries and affiliates, which also are recorded in OCI. As of December 31, 2024, $
+13.1
+billion of the Company's third-party foreign currency denominated debt, $
+168
+million of the Company's intercompany foreign currency denominated debt and $
+1.9
+billion of foreign currency derivatives were designated to hedge investments in certain foreign subsidiaries and affiliates.
+Undesignated Hedges
+The Company enters into certain derivatives that are not designated for hedge accounting. Therefore, the changes in the fair value of these derivatives are recognized immediately in earnings together with the gain or loss from the hedged balance sheet position. As an example, the Company enters into equity derivative contracts to hedge market-driven changes in certain of its supplemental benefit plan liabilities. The Company may also use certain investments to hedge changes in these liabilities. Changes in the fair value of these derivatives or investments are recorded in Selling, general & administrative expenses together with the changes in the supplemental benefit plan liabilities. In addition, the Company uses foreign currency forwards to mitigate the change in fair value of certain foreign currency denominated assets and liabilities. The changes in the fair value of these derivatives are recognized in non-operating (income) expense, net, along with the currency gain or loss from the hedged balance sheet position.
+Credit Risk
+The Company is exposed to credit-related losses in the event of non-performance by its derivative counterparties. The Company did not have significant exposure to any individual counterparty at December 31, 2024 and has master agreements that contain netting arrangements. For financial reporting purposes, the Company presents gross derivative balances in its financial statements and supplementary data, including for counterparties subject to netting arrangements. Some of these agreements also require each party to post collateral if credit ratings fall below, or aggregate exposures exceed, certain contractual limits. At December 31, 2024, the Company was required to post $
+21
+million of collateral due to the negative fair value of certain derivative positions.
+SHARE-BASED COMPENSATION
+The Company has a share-based compensation plan, which authorizes the granting of various equity-based incentives including stock options and restricted stock units (“RSUs”) to employees and nonemployee

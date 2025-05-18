@@ -1,0 +1,84 @@
+Blackstone’s segment presentation. For the year ended December 31, 2024, this adjustment includes removal of an accrual for liability for a legal matter.
+Represents (1) the add back of Principal Investment Income, including general partner income, earned from consolidated Blackstone Funds which have been eliminated in consolidation, and (2) the removal of amounts associated with the ownership of Blackstone consolidated operating partnerships held by non-controlling interests.
+This adjustment removes Unrealized Performance Allocations Compensation.
+This adjustment removes Equity-Based Compensation on a segment basis.
+This adjustment adds back Interest Expense on a segment basis, excluding interest expense related to the Tax Receivable Agreement.
+This adjustment removes the amortization of transaction-related intangibles, which are excluded from Blackstone’s segment presentation.
+Fee related performance compensation may include equity-based compensation based on fee related performance revenues.
+As of December 31, 2024 and 2023, Other Investments includes Level III Freestanding Derivatives.
+Unobservable inputs were weighted based on the fair value of the investments included in the range.
+Transfers in and out of Level III financial assets and liabilities were due to changes in the observability of inputs used in the valuation of such assets and liabilities.
+Represents freestanding derivatives, corporate treasury investments and Other Investments.
+For Freestanding Derivatives included within Other Investments, Settlements includes all ongoing contractual cash payments made or received over the life of the instrument.
+0001393818
+2024-01-01
+2024-12-31
+0001393818
+2023-01-01
+2023-12-31
+0001393818
+2022-01-01
+2022-12-31
+0001393818
+2023-12-31
+0001393818
+2024-12-31
+0001393818
+2024-01-01
+0001393818
+2024-07-01
+2024-09-30
+0001393818
+2022-12-31
+0001393818
+2024-06-30
+0001393818
+2025-02-21
+0001393818
+2021-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:FivePointZeroZeroZero1PercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:FourPointFourFiveZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:FourPointZeroZeroZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:ThreePointFiveZeroZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:TwoPointEightZeroZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:TwoPointEightFiveZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:TwoPointZeroZeroZero1PercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:TwoPointFiveFiveZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:SixPointTwoZeroZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:ThreePointFiveZeroZeroPercentNoteMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember
+bx:FivePointZeroZeroZeroPercentNotesMember
+2024-12-31
+0001393818
+bx:SeniorSecuredNoteMember

@@ -1,0 +1,36 @@
+and certain contracts at our Global Services (BGS) segment are long-term contracts with the U.S. government and other customers that generally extend over several years. Changes in estimated revenues, cost of sales, and the related effect on operating income are recognized using a cumulative catch-up adjustment which recognizes, in the current period, the cumulative effect of the changes on current and prior periods based on a long-term contract’s percentage-of-completion. When the current estimates of total revenues and costs at completion for a long-term contract indicate a loss, a provision for the entire reach-forward loss on the long-term contract is recognized.
+The table below reflects the impact of net cumulative catch-up adjustments for changes in estimated revenues and costs at completion across all long-term contracts, including the impact to Earnings/(loss) from operations from changes in estimated losses on unexercised options.
+Note 2 –
+Spirit Acquisition
+On June 30, 2024, we entered into an Agreement and Plan of Merger (the Merger Agreement) pursuant to which we have agreed to acquire Spirit AeroSystems Holdings, Inc. (Spirit) in an all-stock transaction at an equity value of approximately $
+4,700
+, or $
+37.25
+per share of Spirit Class A Common Stock. The transaction will include the assumption of Spirit's net debt at closing.
+7
+Table of Contents
+Each share of Spirit common stock will be exchanged for a number of shares of Boeing common stock equal to an exchange ratio between
+0.18
+and
+0.25
+, calculated as $
+37.25
+divided by the volume weighted average share price of Boeing shares over the
+15
+-trading-day period ending on the second trading day prior to the closing (subject to a floor of $
+149.00
+per share and a ceiling of $
+206.94
+per share). Spirit stockholders will receive
+0.25
+Boeing shares for each of their Spirit shares if the volume-weighted average price is at or below $
+149.00
+, and
+0.18
+Boeing shares for each of their Spirit shares if the volume-weighted average price is at or above $
+206.94
+per share.
+Boeing's acquisition of Spirit will include substantially all Boeing-related commercial operations, as well as certain other operations.
+Spirit has also entered into a binding term sheet with Airbus SE (Airbus) setting forth the terms upon which Airbus will, assuming the parties enter into definitive agreements and receive all required regulatory approvals, acquire certain commercial work packages that Spirit performs for Airbus concurrently with the closing of the Boeing-Spirit merger. In addition, Spirit is selling certain of its other operations.
+The transaction is expected to close mid-2025 and is subject to the sale of the Spirit operations related to certain Airbus commercial work packages and the satisfaction of customary closing conditions, including certain regulatory approvals. On January 31, 2025, Spirit's stockholders approved the Merger Agreement and the related transactions.
+The Merger Agreement contains certain

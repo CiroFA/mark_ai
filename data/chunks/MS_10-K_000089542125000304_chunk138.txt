@@ -1,0 +1,29 @@
+recently executed transactions, market price quotations or pricing models that factor in, where applicable, interest rates, bond or CDS spreads, adjusted for any basis difference between cash and derivative instruments.
+Valuation Hierarchy Classification:
+•
+Level 2—if value based on observable market data supported by market liquidity for comparable instruments
+•
+Level 3—in instances where market data are not observable or supported by market liquidity
+Mortgage- and Asset-Backed Securities
+Valuation Techniques:
+•
+Mortgage- and asset-backed securities may be valued based on price or spread data obtained from observed transactions or independent external parties such as vendors or brokers.
+•
+When position-specific external price data are not observable, the fair value determination may require benchmarking to comparable instruments, and/or analyzing expected credit losses, default and recovery rates, and/or applying discounted cash flow techniques. When evaluating the comparable instruments for use in the valuation of each security, security collateral-specific attributes, including payment priority, credit enhancement levels, type of collateral, delinquency rates and loss severity, are considered. In addition, for RMBS borrowers, FICO scores and the level of documentation for the loan are considered.
+•
+Market standard cash flow models may be utilized to model the specific collateral composition and cash flow structure of each transaction. Key inputs to these models are market spreads, forecasted credit losses, and default and prepayment rates for each asset category.
+•
+Valuation levels of RMBS and CMBS indices are used as an additional data point for benchmarking purposes or to price outright index positions.
+Valuation Hierarchy Classification:
+•
+Level 2—if value based on observable market data supported by market liquidity for comparable instruments
+•
+Level 3—if external prices or significant spread inputs are unobservable or not supported by market liquidity or if the comparability assessment involves significant subjectivity related to property type differences, cash flows, performance or other inputs
+Loans and Lending Commitments
+Valuation Techniques:
+•
+Fair value of corporate loans is determined using recently executed transactions, market price quotations (where observable), implied yields from comparable debt, market observable CDS spread levels obtained from independent external parties adjusted for any basis difference between cash and derivative instruments, along with proprietary valuation models and default recovery analysis where such transactions and quotations are unobservable.
+•
+Fair value of contingent corporate lending commitments is determined by using executed transactions on comparable loans and the anticipated market price based on pricing indications from syndicate banks and customers. The valuation of loans and lending commitments also takes into account fee income that is considered an attribute of the contract.
+•
+Fair

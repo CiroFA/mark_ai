@@ -1,142 +1,3657 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
+cat-20250331
+0000018230
+FALSE
+12/31
+2025
+Q1
+50
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+cat:group_president
+cat:segment
+0000018230
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000018230
+cat:A5.3DebenturesDueSeptember152035Member
+2025-01-01
+2025-03-31
+0000018230
+2025-03-31
+0000018230
+cat:MachineryEnergyTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:MachineryEnergyTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:FinancialProductsMember
+2025-01-01
+2025-03-31
+0000018230
+cat:FinancialProductsMember
+2024-01-01
+2024-03-31
+0000018230
+2024-01-01
+2024-03-31
+0000018230
+cat:AllOtherExcludingFinancialProductsMember
+2025-01-01
+2025-03-31
+0000018230
+cat:AllOtherExcludingFinancialProductsMember
+2024-01-01
+2024-03-31
+0000018230
+2024-12-31
+0000018230
+cat:FinancialProductsMember
+2025-03-31
+0000018230
+cat:FinancialProductsMember
+2024-12-31
+0000018230
+cat:MachineryEnergyTransportationMember
+2025-03-31
+0000018230
+cat:MachineryEnergyTransportationMember
+2024-12-31
+0000018230
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2023-12-31
+0000018230
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0000018230
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000018230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000018230
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0000018230
+2023-12-31
+0000018230
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-03-31
+0000018230
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0000018230
+us-gaap:RetainedEarningsMember
+2024-03-31
+0000018230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0000018230
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+0000018230
+2024-03-31
+0000018230
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-12-31
+0000018230
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0000018230
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000018230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000018230
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0000018230
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-03-31
+0000018230
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0000018230
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000018230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000018230
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0000018230
+2025-04-01
+2025-03-31
+0000018230
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EmployeeStockOptionMember
+2025-03-31
+0000018230
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EmployeeStockOptionMember
+2024-03-31
+0000018230
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:RestrictedStockUnitsRSUMember
+2025-03-31
+0000018230
+us-gaap:RestrictedStockUnitsRSUMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:RestrictedStockUnitsRSUMember
+2024-03-31
+0000018230
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:PerformanceSharesMember
+2025-03-31
+0000018230
+us-gaap:PerformanceSharesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:PerformanceSharesMember
+2024-03-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000018230
+us-gaap:InterestRateContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-31
+0000018230
+us-gaap:InterestRateContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000018230
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-31
+0000018230
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+us-gaap:NondesignatedMember
+2025-03-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+us-gaap:NondesignatedMember
+2024-12-31
+0000018230
+us-gaap:CommodityContractMember
+us-gaap:NondesignatedMember
+2025-03-31
+0000018230
+us-gaap:CommodityContractMember
+us-gaap:NondesignatedMember
+2024-12-31
+0000018230
+us-gaap:TotalReturnSwapMember
+us-gaap:NondesignatedMember
+2025-03-31
+0000018230
+us-gaap:TotalReturnSwapMember
+us-gaap:NondesignatedMember
+2024-12-31
+0000018230
+us-gaap:NondesignatedMember
+2025-03-31
+0000018230
+us-gaap:NondesignatedMember
+2024-12-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:InterestRateContractMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:InterestRateContractMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+us-gaap:NondesignatedMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ForeignExchangeContractMember
+us-gaap:NondesignatedMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:CommodityContractMember
+us-gaap:NondesignatedMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:CommodityContractMember
+us-gaap:NondesignatedMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:TotalReturnSwapMember
+us-gaap:NondesignatedMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:TotalReturnSwapMember
+us-gaap:NondesignatedMember
+2024-01-01
+2024-03-31
+0000018230
+cat:LongTermDebtDueWithinOneYearMember
+2025-03-31
+0000018230
+cat:LongTermDebtDueWithinOneYearMember
+2024-12-31
+0000018230
+cat:LongTermDebtDueAfterOneYearMember
+2025-03-31
+0000018230
+cat:LongTermDebtDueAfterOneYearMember
+2024-12-31
+0000018230
+us-gaap:CustomerRelationshipsMember
+2025-03-31
+0000018230
+us-gaap:DevelopedTechnologyRightsMember
+2025-03-31
+0000018230
+us-gaap:OtherIntangibleAssetsMember
+2025-03-31
+0000018230
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0000018230
+us-gaap:DevelopedTechnologyRightsMember
+2024-12-31
+0000018230
+us-gaap:OtherIntangibleAssetsMember
+2024-12-31
+0000018230
+cat:ConstructionIndustriesMember
+2024-12-31
+0000018230
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+cat:ConstructionIndustriesMember
+2025-03-31
+0000018230
+cat:ResourceIndustriesMember
+2024-12-31
+0000018230
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+cat:ResourceIndustriesMember
+2025-03-31
+0000018230
+cat:EnergyandTransportationMember
+2024-12-31
+0000018230
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:EnergyandTransportationMember
+2025-03-31
+0000018230
+us-gaap:AllOtherSegmentsMember
+2024-12-31
+0000018230
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AllOtherSegmentsMember
+2025-03-31
+0000018230
+us-gaap:USTreasurySecuritiesMember
+2025-03-31
+0000018230
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0000018230
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2025-03-31
+0000018230
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2024-12-31
+0000018230
+us-gaap:CorporateBondSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:AssetBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember
+2025-03-31
+0000018230
+us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember
+2024-12-31
+0000018230
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+country:US
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000018230
+country:US
+us-gaap:PensionPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:ForeignPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ForeignPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0000018230
+country:US
+2025-01-01
+2025-03-31
+0000018230
+country:US
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:ForeignPlanMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ForeignPlanMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-03-31
+0000018230
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2024-12-31
+0000018230
+cat:ASRAgreementsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0000018230
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+0000018230
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-31
+0000018230
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-03-31
+0000018230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-31
+0000018230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-12-31
+0000018230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-03-31
+0000018230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-03-31
+0000018230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0000018230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-12-31
+0000018230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-03-31
+0000018230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-03-31
+0000018230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-12-31
+0000018230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-12-31
+0000018230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-03-31
+0000018230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-03-31
+0000018230
+us-gaap:ReportableSubsegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+cat:NonreportableSubsegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ConstructionIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ResourceIndustriesMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:EliminationsAndReconcilingItemsMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ConstructionIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ResourceIndustriesMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OperatingSegmentsExcludingIntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:IntersegmentEliminationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:EliminationsAndReconcilingItemsMember
+2024-01-01
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:RelatedPartyMember
+cat:FinancialProductsSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:RelatedPartyMember
+cat:FinancialProductsSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+cat:OilAndGasCustomerMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:OilAndGasCustomerMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:PowergenerationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:PowergenerationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:IndustrialMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:IndustrialMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:TransportationMember
+cat:EnergyandTransportationMember
+2025-01-01
+2025-03-31
+0000018230
+cat:TransportationMember
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:EnergyandTransportationMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:AllOtherSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ConstructionIndustriesMember
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ConstructionIndustriesMember
+2024-12-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ResourceIndustriesMember
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:ResourceIndustriesMember
+2024-12-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:EnergyandTransportationMember
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:EnergyandTransportationMember
+2024-12-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:FinancialProductsSegmentMember
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+cat:FinancialProductsSegmentMember
+2024-12-31
+0000018230
+us-gaap:OperatingSegmentsMember
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0000018230
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2024-12-31
+0000018230
+us-gaap:CorporateNonSegmentMember
+2025-03-31
+0000018230
+us-gaap:CorporateNonSegmentMember
+2024-12-31
+0000018230
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0000018230
+cat:CustomerMember
+2024-12-31
+0000018230
+cat:DealerMember
+2024-12-31
+0000018230
+cat:CustomerMember
+2023-12-31
+0000018230
+cat:DealerMember
+2023-12-31
+0000018230
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+cat:DealerMember
+2025-01-01
+2025-03-31
+0000018230
+cat:CustomerMember
+2024-01-01
+2024-03-31
+0000018230
+cat:DealerMember
+2024-01-01
+2024-03-31
+0000018230
+cat:CustomerMember
+2025-03-31
+0000018230
+cat:DealerMember
+2025-03-31
+0000018230
+cat:CustomerMember
+2024-03-31
+0000018230
+cat:DealerMember
+2024-03-31
+0000018230
+srt:NorthAmericaMember
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+cat:MiningMember
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+cat:PowerMember
+cat:CustomerMember
+2025-01-01
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:CustomerMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:EMEAMember
+cat:CustomerMember
+2024-01-01
+2024-03-31
+0000018230
+srt:AsiaPacificMember
+cat:CustomerMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:CustomerMember
+2024-01-01
+2024-03-31
+0000018230
+srt:LatinAmericaMember
+cat:DealerMember
+2025-01-01
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:DealerMember
+2024-01-01
+2024-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+srt:NorthAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+srt:NorthAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+srt:NorthAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+srt:NorthAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+us-gaap:EMEAMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+us-gaap:EMEAMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+us-gaap:EMEAMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+us-gaap:EMEAMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+srt:AsiaPacificMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+srt:AsiaPacificMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+srt:AsiaPacificMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+srt:AsiaPacificMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+srt:LatinAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+srt:LatinAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+srt:LatinAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+srt:LatinAmericaMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+cat:MiningMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+cat:MiningMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+cat:MiningMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+cat:MiningMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+cat:PowerMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+cat:PowerMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+cat:PowerMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+cat:PowerMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+2025-03-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+srt:NorthAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+srt:NorthAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+srt:NorthAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+srt:NorthAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+us-gaap:EMEAMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+us-gaap:EMEAMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+us-gaap:EMEAMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+us-gaap:EMEAMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+srt:AsiaPacificMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+srt:AsiaPacificMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+srt:AsiaPacificMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+srt:AsiaPacificMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+srt:LatinAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+srt:LatinAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+srt:LatinAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+srt:LatinAmericaMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+cat:MiningMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+cat:MiningMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+cat:MiningMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+cat:MiningMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+cat:PowerMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+cat:PowerMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+cat:PowerMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+cat:PowerMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:CurrentMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables31to60DaysPastDueMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivables61to90DaysPastDueMember
+2024-12-31
+0000018230
+cat:CustomerMember
+cat:FinancingReceivablesEqualtoGreaterthan91DaysPastDueMember
+2024-12-31
+0000018230
+srt:NorthAmericaMember
+cat:CustomerMember
+2025-03-31
+0000018230
+srt:NorthAmericaMember
+cat:CustomerMember
+2024-12-31
+0000018230
+us-gaap:EMEAMember
+cat:CustomerMember
+2025-03-31
+0000018230
+us-gaap:EMEAMember
+cat:CustomerMember
+2024-12-31
+0000018230
+srt:AsiaPacificMember
+cat:CustomerMember
+2025-03-31
+0000018230
+srt:AsiaPacificMember
+cat:CustomerMember
+2024-12-31
+0000018230
+srt:LatinAmericaMember
+cat:CustomerMember
+2025-03-31
+0000018230
+srt:LatinAmericaMember
+cat:CustomerMember
+2024-12-31
+0000018230
+cat:MiningMember
+cat:CustomerMember
+2025-03-31
+0000018230
+cat:MiningMember
+cat:CustomerMember
+2024-12-31
+0000018230
+cat:PowerMember
+cat:CustomerMember
+2025-03-31
+0000018230
+cat:PowerMember
+cat:CustomerMember
+2024-12-31
+0000018230
+srt:LatinAmericaMember
+cat:DealerMember
+2024-12-31
+0000018230
+srt:LatinAmericaMember
+cat:DealerMember
+2025-03-31
+0000018230
+us-gaap:PaymentDeferralMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ExtendedMaturityMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ExtendedMaturityMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:PaymentDeferralMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignExchangeContractMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommodityContractMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:InterestRateContractMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:TotalReturnSwapMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:OtherUSGovernmentAndNonUSGovernmentDebtMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommercialMortgageBackedSecuritiesMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:LargeCapitalizationMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:SmallerCompanyMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+cat:REITMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignExchangeContractMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:InterestRateContractMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:CommodityContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommodityContractMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+us-gaap:TotalReturnSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0000018230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:TotalReturnSwapMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsNonrecurringMember
+cat:FinancialProductsMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsNonrecurringMember
+cat:FinancialProductsMember
+2024-12-31
+0000018230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-03-31
+0000018230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-31
+0000018230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+cat:MachineryEnergyTransportationMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+cat:MachineryEnergyTransportationMember
+2025-03-31
+0000018230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+cat:MachineryEnergyTransportationMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+cat:MachineryEnergyTransportationMember
+2024-12-31
+0000018230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+cat:FinancialProductsMember
+2025-03-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+cat:FinancialProductsMember
+2025-03-31
+0000018230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+cat:FinancialProductsMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+cat:FinancialProductsMember
+2024-12-31
+0000018230
+us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember
+2025-03-31
+0000018230
+us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember
+2024-12-31
+0000018230
+us-gaap:EmployeeSeveranceMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EmployeeSeveranceMember
+2024-01-01
+2024-03-31
+0000018230
+cat:DivestitureMember
+2025-01-01
+2025-03-31
+0000018230
+cat:DivestitureMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:ContractTerminationMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ContractTerminationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:LonglivedassetimpairmentsMember
+2025-01-01
+2025-03-31
+0000018230
+cat:LonglivedassetimpairmentsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OtherRestructuringMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OtherRestructuringMember
+2024-01-01
+2024-03-31
+0000018230
+srt:MinimumMember
+2025-03-31
+0000018230
+srt:MaximumMember
+2025-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                    to
+Commission File Number:
+1-768
+CATERPILLAR INC
 .
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+(Exact name of registrant as specified in its charter)
+Registrant’s telephone number, including area code:
+(
+972
+)
+891-7700
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report:
+N/A
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and  “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
+☐
+No
+☒
+At March 31, 2025,
+471,041,788
+shares of common stock of the registrant were outstanding.
+Table of Contents
+Table of Contents
+* Item omitted because no answer is called for or item is not applicable.
 2
-Facebook
+Table of Contents
+Part I.  FINANCIAL INFORMATION
+Item 1.  Financial Statements
+Caterpillar Inc.
+Consolidated Statement of Results of Operations
+(Unaudited)
+(Dollars in millions except per share data)
+1
+Profit attributable to common shareholders.
+2
+Diluted by assumed exercise of stock-based compensation awards using the treasury stock method.
+See accompanying notes to Consolidated Financial Statements.
 3
-RSS
+Table of Contents
+Caterpillar Inc
+.
+Consolidated Statement of Comprehensive Income
+(Unaudited)
+(Dollars in millions)
+See accompanying notes to Consolidated Financial Statements.
 4
-YouTube
+Table of Contents
+Caterpillar Inc
+.
+Consolidated Statement of Financial Position
+(Unaudited)
+(Dollars in millions)
+See accompanying notes to Consolidated Financial Statements.
 5
-Flickr
+Table of Contents
+Caterpillar Inc.
+Consolidated Statement of Changes in Shareholders’ Equity
+(Unaudited)
+(Dollars in millions)
+1
+See Note 12 for additional information.
+See accompanying notes to Consolidated Financial Statements.
 6
-LinkedIn
+Table of Contents
+Caterpillar Inc.
+Consolidated Statement of Cash Flow
+(Unaudited)
+(Dollars in Millions)
+Cash equivalents primarily represent short-term, highly liquid investments with original maturities of generally three months or less
+.
+See accompanying notes to Consolidated Financial Statements.
 7
-Pinterest
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+1.
+A.
+Nature of operations
+Information in our financial statements and related commentary are presented in the following categories:
+Machinery, Energy & Transportation
+(ME&T) — We define ME&T as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T’s information relates to the design, manufacturing and marketing of our products.
+Financial Products
+— We define Financial Products as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services).  Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+B.  Basis of presentation
+In the opinion of management, the accompanying unaudited financial statements include all adjustments, consisting only of normal recurring adjustments, necessary for a fair statement of (a) the consolidated results of operations for the three months ended March 31, 2025 and 2024, (b) the consolidated comprehensive income for the three months ended March 31, 2025 and 2024, (c) the consolidated financial position at March 31, 2025 and December 31, 2024, (d) the consolidated changes in shareholders’ equity for the three months ended March 31, 2025 and 2024 and (e) the consolidated cash flow for the three months ended March 31, 2025 and 2024.  The financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America (U.S. GAAP) and pursuant to the rules and regulations of the Securities and Exchange Commission (SEC).
+Interim results are not necessarily indicative of results for a full year. The information included in this Form 10-Q should be read in conjunction with the audited financial statements and notes thereto included in our company’s annual report on Form 10-K for the year ended December 31, 2024 (2024 Form 10-K).
+The December 31, 2024 financial position data included herein is derived from the audited consolidated financial statements included in the 2024 Form 10-K but does not include all disclosures required by U.S. GAAP.
+Cat Financial has end-user customers and dealers that are variable interest entities (VIEs) of which we are not the primary beneficiary. Our maximum exposure to loss from our involvement with these VIEs is limited to the credit risk inherently present in the financial support that we have provided. Credit risk was evaluated and reflected in our financial statements as part of our overall portfolio of finance receivables and related allowance for credit losses. See Note 11 for further discussions on a consolidated VIE.
+2.
+New accounting guidance
+A.  Adoption of new accounting standards
+We consider the applicability and impact of all ASUs.  We determined that the ASUs effective January 1, 2025 were either not applicable or did not have a material impact on our financial statements.
+B.  Accounting standards issued but not yet adopted
+Income tax reporting
+(ASU 2023-09) — In December 2023, the Financial Accounting Standards Board (FASB) issued accounting guidance to expand the annual disclosure requirements for income taxes, primarily related to the rate reconciliation and income taxes paid.
+The expanded disclosures are effective for our year ending December 31, 2025, and can be applied prospectively or retrospectively. We are in the process of evaluating the effect of this new guidance on the related disclosures.
+Disaggregation of income statement expenses
+(ASU 2024-03) — In November 2024, the FASB issued accounting guidance to enhance transparency into the nature and function of income statement expenses. The amendments require that on an annual and interim basis, entities disclose disaggregated operating expense information about specific categories, including purchases of inventory, employee compensation, depreciation and amortization. The expanded
 8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of Contents
+annual disclosures are effective for our year ending December 31, 2027, and the expanded interim disclosures are effective in 2028, with early adoption permitted. We are in the process of evaluating the effect of this new guidance on the related disclosures
+All other ASUs issued but not yet adopted were assessed and determined that they either were not applicable or were not expected to have a material impact on our financial statements.
+3
+.
+Sales and revenue contract information
+Trade receivables represent amounts due from dealers and end users for the sale of our products, and include amounts due from wholesale inventory financing provided by Cat Financial for a dealer’s purchase of inventory.  We recognize trade receivables from dealers and end users in Receivables – trade and other and Long-term receivables – trade and other in the Consolidated Statement of Financial Position. Trade receivables from dealers and end users were $
+7,819
+million, $
+7,864
+million and $
+7,923
+million as of March 31, 2025, December 31, 2024 and December 31, 2023, respectively.  Long-term trade receivables from dealers and end users were $
+638
+million, $
+640
+million and $
+589
+million as of March 31, 2025, December 31, 2024 and December 31, 2023, respectively.
+For certain contracts, we invoice for payment when contractual milestones are achieved.  We recognize a contract asset when a sale is recognized before achieving the contractual milestones for invoicing.  We reduce the contract asset when we invoice for payment and recognize a corresponding trade receivable. Contract assets are included in Prepaid expenses and other current assets in the Consolidated Statement of Financial Position.  Contract assets were $
+245
+million, $
+238
+million and $
+246
+million as of March 31, 2025, December 31, 2024 and December 31, 2023, respectively.
+We invoice in advance of recognizing the sale of certain products.  We recognize advanced customer payments as a contract liability in Customer advances and Other liabilities in the Consolidated Statement of Financial Position.  Contract liabilities were $
+3,462
+million, $
+2,745
+million and $
+2,389
+million as of March 31, 2025, December 31, 2024 and December 31, 2023, respectively.  We reduce the contract liability when revenue is recognized.
+During the three months ended March 31, 2025 and 2024, we recognized $
+683
+million and $
+813
+million, respectively, of revenue that was recorded as a contract liability at the beginning of 2025 and 2024.
+As of March 31, 2025, we have entered into contracts with dealers and end users for which sales have not been recognized as we have not satisfied our performance obligations and transferred control of the products.  The dollar amount of unsatisfied performance obligations for contracts with an original duration greater than one year is $
+17.6
+billion, with about one-half of the amount expected to be completed and revenue recognized in the
+twelve months
+following March 31, 2025.  We have elected the practical expedient not to disclose unsatisfied performance obligations with an original contract duration of one year or less.  Contracts with an original duration of one year or less are primarily sales to dealers for machinery, engines and replacement parts.
+See Note 16 for further disaggregated sales and revenues information.
+4.
+Stock-based compensation
+Accounting for stock-based compensation requires that the cost resulting from all stock-based payments be recognized in the financial statements based on the grant date fair value of the award.  Our stock-based compensation consists of stock options, restricted stock units (RSUs) and performance-based restricted stock units (PRSUs).
+We recognized pretax stock-based compensation expense of $
+45
+million and $
+44
+million for the three months ended March 31, 2025 and 2024, respectively.
+9
+Table of Contents
+The following table illustrates the type and fair value of the stock-based compensation awards granted during the three months ended March 31, 2025 and 2024, respectively:
+The fair value of our stock options was estimated using the Black-Scholes option-pricing model.
+The following table provides the assumptions used in determining the fair value of the stock-options granted in the three months ended March 31, 2025 and 2024, respectively:
+The PRSUs granted in 2025 and 2024 contain a market condition and a Monte Carlo simulation was utilized to estimate the fair value of the awards.
+The following table provides the assumptions used in determining the fair value of the PRSUs granted in the three months ended March 31, 2025 and 2024, respectively:
+As of March 31, 2025, the total remaining unrecognized compensation expense related to nonvested stock-based compensation awards was $
+324
+million, which will be amortized over the weighted-average remaining requisite service periods of approximately
+1.9
+years.
+5.
+Derivative financial instruments and risk management
+Our earnings and cash flow are subject to fluctuations due to changes in foreign currency exchange rates, interest rates, commodity prices, and certain deferred compensation plan liabilities.  Our Risk Management Policy (policy) allows for the use of derivative financial instruments to prudently manage foreign currency exchange rate, interest rate, commodity price and certain deferred compensation plan liability exposures.  Our policy specifies that derivatives are not to be used for speculative purposes.  Derivatives that we use are primarily foreign currency forward, option and cross currency contracts, interest rate contracts, commodity forward and option contracts and total return swap contracts.  Our derivative activities are subject to the management, direction and control of our senior financial officers.  We present at least annually to the Audit Committee of the Board of Directors on our risk management practices, including our use of financial derivative instruments.
+10
+Table of Contents
+We recognize all derivatives at their fair value on the Consolidated Statement of Financial Position.  On the date the derivative contract is entered into, we designate the derivative as (1) a hedge of the fair value of a recognized asset or liability (fair value hedge), (2) a hedge of a forecasted transaction or the variability of cash flow (cash flow hedge) or (3) an undesignated instrument.  We record in current earnings changes in the fair value of a derivative that is qualified, designated and highly effective as a fair value hedge, along with the gain or loss on the hedged recognized asset or liability that is attributable to the hedged risk.  For foreign exchange contracts designated as fair value hedges, the interim settlements are excluded from the effectiveness assessment and are recognized under a systematic and rational method over the life of the hedging instrument within Interest expense.  We record in AOCI changes in the fair value of a derivative that is qualified, designated and highly effective as a cash flow hedge, to the extent effective, on the Consolidated Statement of Financial Position until we reclassify them to earnings in the same period or periods during which the hedged transaction affects earnings.  We report changes in the fair value of undesignated derivative instruments in current earnings.  We classify cash flows from designated derivative financial instruments within the same category as the item being hedged on the Consolidated Statement of Cash Flow.  We include cash flows from undesignated derivative financial instruments in the investing category on the Consolidated Statement of Cash Flow.
+We formally document all relationships between hedging instruments and hedged items, as well as the risk-management objective and strategy for undertaking various hedge transactions.  This process includes linking all derivatives that are designated as fair value hedges to specific assets and liabilities on the Consolidated Statement of Financial Position and linking cash flow hedges to specific forecasted transactions or variability of cash flow.
+We also formally assess, both at the hedge’s inception and on an ongoing basis, whether the designated derivatives that are used in hedging transactions are highly effective in offsetting changes in fair values or cash flow of hedged items.  When a derivative is determined not to be highly effective as a hedge or the underlying hedged transaction is no longer probable, we discontinue hedge accounting prospectively, in accordance with the derecognition criteria for hedge accounting.
+Foreign currency exchange rate risk
+Foreign currency exchange rate movements create a degree of risk by affecting the U.S. dollar value of sales made and costs incurred in foreign currencies.  Movements in foreign currency rates also affect our competitive position as these changes may affect business practices and/or pricing strategies of non-U.S.-based competitors.  Additionally, we have balance sheet positions denominated in foreign currencies, thereby creating exposure to movements in exchange rates.
+Our ME&T operations purchase, manufacture and sell products in many locations around the world.  As we have a diversified revenue and cost base, we manage our future foreign currency cash flow exposure on a net basis.  We use foreign currency forward and option contracts to manage unmatched foreign currency cash inflow and outflow.  Our objective is to minimize the risk of exchange rate movements that would reduce the U.S. dollar value of our foreign currency cash flow.  Our policy allows for managing anticipated foreign currency cash flow for up to approximately
+five years
+. As of March 31, 2025, the maximum term of these outstanding contracts at inception was approximately
+60
+months.
+We generally designate as cash flow hedges at inception of the contract any foreign currency forward or option contracts that meet the requirements for hedge accounting and the maturity extends beyond the current quarter-end.  We perform designation on a specific exposure basis to support hedge accounting.  The remainder of ME&T foreign currency contracts are undesignated.
+In managing foreign currency risk for our Financial Products operations, our objective is to minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance sheet positions and future transactions denominated in foreign currencies.  Our policy allows the use of foreign currency forward, option and cross currency contracts to offset the risk of currency mismatch between our assets and liabilities and exchange rate risk associated with future transactions denominated in foreign currencies.  Our foreign currency forward and option contracts are primarily undesignated.  We designate fixed-to-fixed cross currency contracts as cash flow hedges to protect against movements in exchange rates on foreign currency fixed-rate assets and liabilities.  We designate float-to-float cross currency contracts as fair value hedges to protect against movements in exchange rates on floating-rate assets and liabilities.
+11
+Table of Contents
+Interest rate risk
+Interest rate movements create a degree of risk by affecting the amount of our interest payments and the value of our fixed-rate debt.  Our practice is to use interest rate contracts to manage our exposure to interest rate changes.
+Our ME&T operations generally use fixed-rate debt as a source of funding.  Our objective is to minimize the cost of borrowed funds.  Our policy allows us to enter into fixed-to-floating interest rate contracts and forward rate agreements to meet that objective.  We designate fixed-to-floating interest rate contracts as fair value hedges at inception of the contract, and we designate certain forward rate agreements as cash flow hedges at inception of the contract.
+Financial Products operations has a match-funding policy that addresses interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of Cat Financial’s debt portfolio with the interest rate profile of our receivables portfolio within predetermined ranges on an ongoing basis.  In connection with that policy, we use interest rate derivative instruments to modify the debt structure to match assets within the receivables portfolio.  This matched funding reduces the volatility of margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move.
+Our policy allows us to use fixed-to-floating, floating-to-fixed and floating-to-floating interest rate contracts to meet the match-funding objective.  We designate fixed-to-floating interest rate contracts as fair value hedges to protect debt against changes in fair value due to changes in the benchmark interest rate.  We designate most floating-to-fixed interest rate contracts as cash flow hedges to protect against the variability of cash flows due to changes in the benchmark interest rate.
+We have, at certain times, liquidated fixed-to-floating and floating-to-fixed interest rate contracts at both ME&T and Financial Products.  We amortize the gains or losses associated with these contracts at the time of liquidation into earnings over the remaining term of the previously designated hedged item.
+Commodity price risk
+Commodity price movements create a degree of risk by affecting the price we must pay for certain raw materials.  Our policy is to use commodity forward and option contracts to manage the commodity risk and reduce the cost of purchased materials.
+Our ME&T operations purchase base and precious metals embedded in the components we purchase from suppliers.  Our suppliers pass on to us price changes in the commodity portion of the component cost.  In addition, we are subject to price changes on energy products such as natural gas and diesel fuel purchased for operational use.
+Our objective is to minimize volatility in the price of these commodities.  Our policy allows us to enter into commodity forward and option contracts to lock in the purchase price of a portion of these commodities within a
+five-year
+horizon.  All such commodity forward and option contracts are undesignated.
+Deferred compensation plan liability risk
+We are also exposed to variability in compensation expense related to certain non-qualified deferred compensation obligations to employees.  We utilize total return swaps to economically hedge this exposure to offset the related compensation expense.  All such total return swap contracts are undesignated.
+12
+Table of Contents
+The location and fair value of derivative instruments reported in the Consolidated Statement of Financial Position were as follows:
+The total notional amounts of the derivative instruments as of March 31, 2025 and December 31, 2024 were $
+26.0
+billion and $
+27.0
+billion, respectively. The notional amounts of the derivative financial instruments do not represent amounts exchanged by the parties.  We calculate the amounts exchanged by the parties by referencing the notional amounts and by other terms of the derivatives, such as foreign currency exchange rates, interest rates, commodity prices or certain deferred compensation plan liabilities.
+Gains (Losses) on derivative instruments are categorized as follows:
+13
+Table of Contents
+The following amounts were recorded on the Consolidated Statement of Financial Position related to cumulative basis adjustments for fair value hedges:
+We enter into International Swaps and Derivatives Association (ISDA) master netting agreements within ME&T and Financial Products that permit the net settlement of amounts owed under their respective derivative contracts.  Under these master netting agreements, net settlement generally permits the company or the counterparty to determine the net amount payable for contracts due on the same date and in the same currency for similar types of derivative transactions.  The master netting agreements may also provide for net settlement of all outstanding contracts with a counterparty in the case of an event of default or a termination event. Our exposure to credit loss in the event of nonperformance by the counterparties is limited to only those gains that we have recorded, but for which we have not yet received cash payment.
+Collateral is typically not required of the counterparties or of our company under the master netting agreements.  As of March 31, 2025 and December 31, 2024, no cash collateral was received or pledged under the master netting agreements.
+The effect of the net settlement provisions of the master netting agreements on our derivative balances upon an event of default or termination event was as follows:
+6.
+Inventories
+Inventories (principally using the last-in, first-out (LIFO) method) were comprised of the following:
+14
+Table of Contents
+7.
+Intangible assets and goodwill
+A.  Intangible assets
+Intangible assets were comprised of the following:
+Amortization expense for the three months ended March 31, 2025 and 2024 was $
+44
+million and $
+44
+million, respectively.
+Amortization expense related to intangible assets is expected to be:
+B.  Goodwill
+No
+goodwill was impaired during the three months ended March 31, 2025 or 2024.
+15
+Table of Contents
+The changes in carrying amount of goodwill by reportable segment for the three months ended March 31, 2025 were as follows:
+1
+Other adjustments are comprised primarily of foreign currency translation.
+2
+Includes All Other Segment (See Note 16).
+8.
+Investments in debt and equity securities
+We have investments in certain debt and equity securities, which we record at fair value and primarily include in Other assets in the Consolidated Statement of Financial Position. Short-term and long-term investments are held with high quality institutions and, by policy, the amount of credit exposure to any one institution is limited.
+We classify debt securities primarily as available-for-sale. We include the unrealized gains and losses arising from the revaluation of available-for-sale debt securities, net of applicable deferred income taxes, in equity (AOCI in the Consolidated Statement of Financial Position).  We include the unrealized gains and losses arising from the revaluation of the equity securities in Other income (expense) in the Consolidated Statement of Results of Operations.  We generally determine realized gains and losses on sales of investments using the specific identification method for available-for-sale debt and equity securities and include them in Other income (expense) in the Consolidated Statement of Results of Operations.
+The cost basis and fair value of available-for-sale debt securities with unrealized gains and losses included in equity (AOCI in the Consolidated Statement of Financial Position) were as follows:
+16
+Table of Contents
+17
+Table of Contents
+The unrealized losses on our investments in government debt securities, corporate debt securities, and mortgage-backed debt securities relate to changes in underlying interest rates and credit spreads since time of purchase.  We do not intend to sell the investments, and it is not likely that we will be required to sell the investments before recovery of their respective amortized cost basis. In addition, we did not expect credit-related losses on these investments as of March 31, 2025.
+The cost basis and fair value of available-for-sale debt securities at March 31, 2025, by contractual maturity, are shown below.
+Expected maturities will differ from contractual maturities because borrowers may have the right to prepay and creditors may have the right to call obligations.
+For the three months ended March 31, 2025 and 2024, proceeds from available-for-sale debt securities were $
+911
+million and $
+361
+million, respectively.
+For the three months ended March 31, 2025 and 2024, the net unrealized gains (losses) for equity securities held at March 31, 2025 and 2024 were $
+3
+million and $
+17
+million, respectively.
+18
+Table of Contents
+9.
+Postretirement benefits
+A.  Pension and postretirement benefit costs
+1
+The service cost component is included in Operating costs.  All other components are included in Other income (expense).
+We made $
+211
+million of contributions to our pension and other postretirement plans during the three months ended March 31, 2025.  We currently anticipate full-year 2025 contributions of approximately $
+354
+million.
+B.  Defined contribution benefit costs
+Total company costs related to our defined contribution plans, which are included in Operating costs in the Consolidated Statement of Results of Operations, were as follows:
+1
+Includes costs related to our non-qualified deferred compensation plans.  We utilize total return swaps to economically hedge this exposure to offset the related costs.  See Note 5 for additional information.
+10.
+Leases
+Revenues from finance and operating leases, primarily included in
+Revenues of Financial Products
+on the Consolidated Statement of Results of Operations, were as follows:
+We present revenues net of sales and other related taxes.
+19
+Table of Contents
+11.
+Guarantees and product warranty
+We have provided various guarantees that have varying terms and limit potential payment. Under the guarantees, non-performance by the third-parties could require Caterpillar to satisfy the contractual obligation by providing goods, services or financial compensation. The maximum potential amount of future payments (undiscounted and without reduction for any amounts possibly recoverable) that we could be required to make under the guarantees was $
+390
+million and $
+368
+million at March 31, 2025 and December 31, 2024, respectively.
+We have dealer performance guarantees and third-party performance guarantees that do not limit potential payment to end users related to indemnities and other commercial contractual obligations.  In addition, we have entered into contracts involving industry standard indemnifications that do not limit potential payment.  For these unlimited guarantees, we are unable to estimate a maximum potential amount of future payments that could result from claims made.
+No significant loss has been experienced or is anticipated under any of these guarantees.
+Cat Financial provides guarantees to purchase certain loans of Caterpillar dealers from a special-purpose corporation (SPC) that qualifies as a variable interest entity. Cat Financial receives a fee for providing this guarantee. The purpose of the SPC is to provide short-term working capital loans to Caterpillar dealers.  This SPC issues commercial paper and uses the proceeds to fund its loan program. Cat Financial is the primary beneficiary of the SPC as its guarantees result in Cat Financial having both the power to direct the activities that most significantly impact the SPC’s economic performance and the obligation to absorb losses, and therefore Cat Financial has consolidated the financial statements of the SPC.  As of March 31, 2025 and December 31, 2024, the SPC’s assets of $
+1.01
+billion and $
+1.14
+billion, respectively, were primarily comprised of loans to dealers, and the SPC’s liabilities of $
+1.01
+billion and $
+1.14
+billion, respectively, were primarily comprised of commercial paper.  The assets of the SPC are not available to pay Cat Financial’s creditors.  Cat Financial may be obligated to perform under the guarantee if the SPC experiences losses.  No loss has been experienced or is anticipated under this loan purchase agreement.
+We determine our product warranty liability by applying historical claim rate experience to the current field population and dealer inventory.  Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America).  We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience.
+The reconciliation of the change in our product warranty liability balances for the three months ended March 31 was as follows:
+20
+Table of Contents
+12.
+Profit per share
+For both the three months ended March 31, 2025 and 2024, we excluded
+0.3
+million of outstanding stock options, respectively, from the computation of diluted earnings per share because the effect would have been antidilutive.
+For the three months ended March 31, 2025 and 2024, we repurchased
+7.5
+million and
+11.3
+million shares of Caterpillar common stock, respectively, at an aggregate cost of $
+2.8
+billion and $
+3.7
+billion, respectively. We made these purchases through the combination of accelerated share repurchase (ASR) agreements with third-party financial institutions and open market transactions in 2025 and 2024.
+In the first quarter of 2025, we entered into ASR agreements to repurchase an aggregate of $
+3.0
+billion of common stock. We advanced the $
+3.0
+billion and received approximately
+5.7
+million shares of Caterpillar common stock, approximately
+70
+% of the estimated final number of shares to be repurchased, with a value of $
+2.1
+billion. The final number of shares to ultimately be repurchased will be based on the average of the daily volume-weighted average prices of our common stock during the term of the ASR agreements, less a discount and subject to adjustments pursuant to the terms and conditions of the ASR agreements. The final settlement of the ASR agreements is scheduled to occur during the fourth quarter of 2025. The remaining $
+0.9
+billion was evaluated as unsettled forward contracts and was classified as a reduction to Common stock within the Consolidated Statement of Financial Position.
+21
+Table of Contents
+13.
+Accumulated other comprehensive income (loss)
+We present comprehensive income and its components in the Consolidated Statement of Comprehensive Income.  Changes in the balances for each component of AOCI were as follows:
+22
+Table of Contents
+14.
+Environmental and legal matters
+The Company is regulated by federal, state and international environmental laws governing its use, transport and disposal of substances and control of emissions. In addition to governing our manufacturing and other operations, these laws often impact the development of our products, including, but not limited to, required compliance with air emissions standards applicable to internal combustion engines. We have made, and will continue to make, significant research and development and capital expenditures to comply with these emissions standards.
+We are engaged in remedial activities at a number of locations, often with other companies, pursuant to federal and state laws. When it is probable we will pay remedial costs at a site, and those costs can be reasonably estimated,  we accrue the investigation, remediation, and operating and maintenance costs against our earnings. We accrue costs based on consideration of currently available data and information with respect to each individual site, including available technologies, current applicable laws and regulations, and prior remediation experience. Where no amount within a range of estimates is more likely, we accrue the minimum. Where multiple potentially responsible parties are involved, we consider our proportionate share of the probable costs. In formulating the estimate of probable costs, we do not consider amounts expected to be recovered from insurance companies or others. We reassess these accrued amounts on a quarterly basis. The amount recorded for environmental remediation is not material and is included in Accrued expenses. We believe there is no more than a remote chance that a material amount for remedial activities at any individual site, or at all the sites in the aggregate, will be required.
+In addition, we are involved in other unresolved legal actions that arise in the normal course of business. The most prevalent of these unresolved actions involve disputes related to product design, manufacture and performance liability (including claimed asbestos exposure), contracts, employment issues, environmental matters, intellectual property rights, taxes (other than income taxes) and securities laws. The aggregate range of reasonably possible losses in excess of accrued liabilities, if any, associated with these unresolved legal actions is not material. In some cases, we cannot reasonably estimate a range of loss because there is insufficient information regarding the matter. However, we believe there is no more than a remote chance that any liability arising from these matters would be material. Although it is not possible to predict with certainty the outcome of these unresolved legal actions, we believe that these actions will not individually or in the aggregate have a material adverse effect on our consolidated results of operations, financial position or liquidity.
+Our operations in Brazil are subject to highly complex labor, tax, customs and other laws.  While we believe that we are in compliance with such laws, we are periodically engaged in litigation regarding the application of these laws, including certain tax and customs disputes with federal, state and municipal authorities in Brazil relating to export activities associated with Caterpillar Brasil Ltda. The Company is unable to predict the outcome or reasonably estimate any potential losses; however, we currently believe that any matters raised will not have a material adverse effect on the Company’s consolidated results of operations, financial position or liquidity.
+15.
+Income taxes
+The effective tax rate for the three months ended March 31, 2025 was
+22.3
+percent compared to
+19.5
+percent for the three months ended March 31, 2024.  The effective tax rate for the three months ended March 31, 2024 was favorably impacted by nontaxable gains from a divestiture of a non-US mining entity.
+16.
+Segment information
+A.    Basis for segment information
+Our Executive Office is comprised of a Chief Executive Officer (CEO), Chief Operating Officer (COO),
+four
+Group Presidents, a Chief Financial Officer (CFO), a Chief Legal Officer and General Counsel and a Chief Human Resources Officer. The COO, Group Presidents and CFO are accountable for a related set of end-to-end businesses that they manage. The Chief Legal Officer and General Counsel leads the Law, Security and Public Policy Division. The Chief Human Resources Officer leads the Human Resources Organization. The CEO allocates resources and manages performance at the COO/Group President/CFO level. As such, the CEO serves as our Chief Operating Decision Maker (CODM), and operating segments are primarily based on the COO/Group President/CFO reporting structure.
+23
+Table of Contents
+Three
+of our operating segments, Construction Industries, Resource Industries and Energy & Transportation are led by Group Presidents.
+One
+operating segment, Financial Products, is led by the CFO who also has responsibility for Corporate Services. Corporate Services is a cost center primarily responsible for the performance of certain support functions globally and to provide centralized services; it does not meet the definition of an operating segment.
+One
+Group President leads
+one
+smaller operating segment that is included in the All Other Segment. The Law, Security and Public Policy Division and the Human Resources Organization are cost centers and do not meet the definition of an operating segment.
+B.    Description of segments
+We have
+five
+operating segments, of which
+four
+are reportable segments. Following is a brief description of our reportable segments and the business activities included in the All Other Segment:
+Construction Industries
+: A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; cold planers; compactors; compact track loaders; forestry machines; material handlers; motor graders; pipelayers; road reclaimers; skid steer loaders; telehandlers; track-type loaders; track-type tractors (small, medium); track excavators (mini, small, medium, large); wheel excavators; wheel loaders (compact, small, medium); and related parts and work tools. Inter-segment sales are a source of revenue for this segment.
+Resource Industries
+: A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; electric rope shovels; draglines; hydraulic shovels; rotary drills; large wheel loaders; off-highway trucks; articulated trucks; wheel tractor scrapers; wheel dozers; landfill compactors; soil compactors; wide-body trucks; select work tools; machinery components; electronics and control systems and related parts. In addition to equipment, Resource Industries also develops and sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions. Resource Industries also manages areas that provide services to other parts of the company, including strategic procurement, lean center of excellence, integrated manufacturing, research and development for hydraulic systems, automation, electronics and software for Caterpillar machines and engines. Inter-segment sales are a source of revenue for this segment.
+Energy & Transportation
+: A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses as well as product support of on-highway engines. Responsibilities include business strategy, product design, product management, development and testing, manufacturing, marketing and sales and product support. The product and services portfolio includes turbines, centrifugal gas compressors, and turbine-related services; reciprocating engine-powered generator sets; integrated systems and solutions used in the electric power generation industry; reciprocating engines, drivetrain and integrated systems and solutions for the marine and oil and gas industries; reciprocating engines, drivetrain and integrated systems and solutions supplied to the industrial industry as well as Caterpillar machines; electrified powertrain and zero-emission power sources and service solutions development; and diesel-electric and hybrid locomotives and components and other rail-related products and services, including remanufacturing and leasing. Responsibilities also include the remanufacturing of Caterpillar reciprocating engines and components and remanufacturing services for other companies.  Inter-segment sales are a source of revenue for this segment.
+Financial Products Segment
+: Provides financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that, in most cases, incorporate Caterpillar products. Financing plans include operating and finance leases, revolving charge accounts, installment sale contracts, repair/rebuild financing, working capital loans and wholesale financing plans. The segment also provides insurance and risk management products and services that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage and maintenance plans for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from Machinery, Energy & Transportation, but the related costs are not allocated to operating segments. Financial Products’ segment profit is determined on a pretax basis and includes other income/expense items.
+24
+Table of Contents
+All Other Segment
+: Primarily includes activities such as: business strategy; product management and development; manufacturing and sourcing of wear and maintenance components primarily for Cat® products; parts distribution; integrated logistics solutions; distribution services responsible for dealer development and administration, including a wholly owned dealer in Japan; dealer portfolio management and ensuring the most efficient and effective distribution of machines, engines and parts; brand management and marketing strategy; and digital investments for new customer and dealer solutions that integrate data analytics with state-of-the-art digital technologies while transforming the buying experience. Results for the All Other Segment are included as a reconciling item between reportable segments and consolidated external reporting.
+C.    Segment measurement and reconciliations
+We determine the segment profit of Construction Industries, Resource Industries, Energy & Transportation and our All Other Segment on a pretax basis and exclude most interest expense and certain other income (expense) items. We determine Financial Products Segment profit on a pretax basis and include other income (expense) items.
+Our CODM evaluates the operating performance of the segments using segment profit as it provides insight into the financial health of each segment. The CODM reviews this metric regularly to compare the profitability of segments, identify trends, and evaluate which segments require additional resources or strategic adjustments. The CODM uses segment profit to support the allocation of resources predominantly in the annual budget and forecasting process. Additionally, the CODM monitors forecast-to-actual variances, focusing on areas where performance deviates from expectations, when evaluating the performance of each segment and making decisions about allocating capital and other resources to each segment.
+There are several methodology differences between our segment reporting and our external reporting. The following is a list of the more significant methodology differences:
+•
+For Construction Industries, Resource Industries, Energy & Transportation and our All Other Segment net assets generally include inventories, receivables, property, plant and equipment, goodwill, intangibles, accounts payable and customer advances. We generally manage at the corporate level liabilities other than accounts payable and customer advances, and we do not include these in segment operations. Financial Products Segment assets generally include all categories of assets.
+•
+We value segment inventories and cost of sales using a current cost methodology.
+•
+We amortize goodwill allocated to segments using a fixed amount based on a
+20
+-year useful life. This methodology difference only impacts segment assets. We do not include goodwill amortization expense in segment profit. In addition, we have allocated to segments only a portion of goodwill for certain acquisitions made in 2011 or later.
+•
+We generally manage currency exposures for operating segments, other than Financial Products, at the corporate level and do not include in segment profit or segment assets the effects of changes in exchange rates on results of operations and financial position within the year. We report the net difference created in the translation of revenues and costs between exchange rates used for U.S. GAAP reporting and exchange rates used for segment reporting as a methodology difference.
+•
+We do not include stock-based compensation expense in segment profit.
+•
+Postretirement benefit expenses are split; segments are generally responsible for service costs, with the remaining elements of net periodic benefit cost included as a methodology difference.
+Reconciling items are created based on accounting differences between segment reporting and our consolidated external reporting. Please refer to pages 29 to 30 for financial information regarding significant reconciling items. Most of our reconciling items are self-explanatory given the above explanations. For the reconciliation of profit, we have grouped the reconciling items as follows:
+•
+Corporate costs:
+These costs are related to corporate requirements primarily for compliance and legal functions for the benefit of the entire organization.
+25
+Table of Contents
+•
+Restructuring income/costs:
+May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold. See Note 20 for more information.
+•
+Methodology differences:
+See previous discussion of significant accounting differences between segment reporting and consolidated external reporting.
+•
+Timing:
+Timing differences in the recognition of costs between segment reporting and consolidated external reporting. For example, we report certain costs on the cash basis for segment reporting and the accrual basis for consolidated external reporting.
+26
+Table of Contents
+For the three months ended March 31, 2025 and 2024, sales and revenues by geographic region reconciled to consolidated sales and revenues were as follows:
+1
+Includes revenues from Construction Industries, Resource Industries, Energy & Transportation and All Other Segment of $
+163
+million and $
+177
+million in the three months ended March 31, 2025 and 2024, respectively.
+For the three months ended March 31, 2025 and 2024, Energy & Transportation external sales by end user application were as follows:
+27
+Table of Contents
+28
+Table of Contents
+29
+Table of Contents
+30
+Table of Contents
+17.
+Cat Financial financing activities
+Allowance for credit losses
+Portfolio segments
+A portfolio segment is the level at which Cat Financial develops a systematic methodology for determining its allowance for credit losses. Cat Financial's portfolio segments and related methods for estimating expected credit losses are as follows:
+Customer
+Cat Financial provides loans and finance leases to end-user customers primarily for the purpose of financing new and used Caterpillar machinery, engines and equipment for commercial use. Cat Financial also provides financing for power generation facilities that, in most cases, incorporate Caterpillar products. The average original term of Cat Financial's customer finance receivable portfolio was approximately
+51
+months with an average remaining term of approximately
+27
+months as of March 31, 2025.
+Cat Financial typically maintains a security interest in financed equipment and generally requires physical damage insurance coverage on the financed equipment, both of which provide Cat Financial with certain rights and protections.  If Cat Financial's collection efforts fail to bring a defaulted account current, Cat Financial generally can repossess the financed equipment, after satisfying local legal requirements, and sell it within the Caterpillar dealer network or through third-party auctions.
+Cat Financial estimates the allowance for credit losses related to its customer finance receivables based on loss forecast models utilizing probabilities of default and the estimated loss given default based on past loss experience adjusted for current conditions and reasonable and supportable forecasts capturing country and industry-specific economic factors.
+During the three months ended March 31, 2025, Cat Financial's forecasts reflected a continuation of the trend of historically low unemployment rates as well as global market uncertainty and continued actions by global central banks aimed at reducing inflation. Cat Financial believes the economic forecasts employed represent reasonable and supportable forecasts, followed by a reversion to long-term trends.
+Dealer
+Cat Financial provides financing to Caterpillar dealers in the form of wholesale financing plans and working capital loans. Cat Financial's wholesale financing plans provide assistance to dealers by financing their mostly new Caterpillar equipment inventory and rental fleets on a secured and unsecured basis. In addition, Cat Financial provides a variety of secured and unsecured retail loans to Caterpillar dealers.
+31
+Table of Contents
+Cat Financial estimates the allowance for credit losses for dealer finance receivables based on historical loss rates with consideration of current economic conditions and reasonable and supportable forecasts.
+In general, Cat Financial's Dealer portfolio segment has not historically experienced large increases or decreases in credit losses based on changes in economic conditions due to its close working relationships with the dealers and their financial strength. Therefore, Cat Financial made no adjustments to historical loss rates during the three months ended March 31, 2025.
+Classes of finance receivables
+Cat Financial further evaluates portfolio segments by the class of finance receivables, which is defined as a level of information (below a portfolio segment) in which the finance receivables have the same initial measurement attribute and a similar method for assessing and monitoring credit risk.  Cat Financial's classes, which align with management reporting for credit losses, are as follows:
+•
+North America
+- Finance receivables originated in the United States and Canada.
+•
+EAME
+- Finance receivables originated in Europe, Africa, the Middle East and Eurasia.
+•
+Asia/Pacific
+- Finance receivables originated in Australia, New Zealand, China, Japan, Southeast Asia and India.
+•
+Latin America
+- Finance receivables originated in Mexico and Central and South American countries.
+•
+Mining
+- Finance receivables related to large mining customers worldwide.
+•
+Power
+- Finance receivables originated worldwide to large power customers related to Caterpillar electrical power generation, gas compression and co-generation systems and non-Caterpillar equipment that is powered by these systems.
+Receivable balances, including accrued interest, are written off against the allowance for credit losses when, in the judgment of management, they are considered uncollectible (generally upon repossession of the collateral). Generally, the amount of the write-off is determined by comparing the fair value of the collateral, less cost to sell, to the amortized cost of the receivable. Subsequent recoveries, if any, are credited to the allowance for credit losses when received.
+An analysis of the allowance for credit losses was as follows:
+32
+Table of Contents
+Gross write-offs by origination year for the Customer portfolio segment were as follows:
+For the three months ended March 31, 2025, there were
+no
+gross write-offs in Cat Financial's Dealer portfolio segment. For the three months ended March 31, 2024 there were $
+47
+million of gross write-offs in Cat Financial's Dealer portfolio segment, all of which were in Latin America and originated prior to 2020.
+Credit quality of finance receivables
+At origination, Cat Financial evaluates credit risk based on a variety of credit quality factors including prior payment experience, customer financial information, credit ratings, loan-to-value ratios, probabilities of default,  industry trends, macroeconomic factors and other internal metrics. On an ongoing basis, Cat Financial monitors credit quality based on past-due status as there is a meaningful correlation between the past-due status of customers and the risk of loss. In determining past-due status, Cat Financial considers the entire finance receivable past due when any installment is over
+30
+days past due.
+33
+Table of Contents
+Customer
+The aging category of Cat Financial's amortized cost of finance receivables in the Customer portfolio segment by origination year were as follows:
+34
+Table of Contents
+35
+Table of Contents
+Dealer
+As of March 31, 2025 and December 31, 2024, Cat Financial's total amortized cost of finance receivables within the Dealer portfolio segment was current.
+Non-accrual finance receivables
+Recognition of income is suspended and the finance receivable is placed on non-accrual status when management determines that collection of future income is not probable. Contracts on non-accrual status are generally more than
+120
+days past due. Recognition is resumed and previously suspended income is recognized when collection is considered probable. Payments received while the finance receivable is on non-accrual status are applied to interest and principal in accordance with the contractual terms.  Interest earned but uncollected prior to the receivable being placed on non-accrual status is written off through Provision for credit losses when, in the judgment of management, it is considered uncollectible.
+In Cat Financial's Customer portfolio segment, finance receivables which were on non-accrual status and finance receivables over 90 days past due and still accruing income were as follows:
+There were
+no
+finance receivables in Cat Financial's Dealer portfolio segment on non-accrual status as of March 31, 2025 and December 31, 2024.
+Modifications
+Cat Financial periodically modifies the terms of their finance receivable agreements. Typically, the types of modifications granted are payment deferrals, interest-only payment periods and/or term extensions. Many modifications Cat Financial grants are for commercial reasons or for borrowers experiencing some form of short-term financial stress and may result in insignificant payment delays. Cat Financial does not consider these borrowers to be experiencing financial difficulty. Modifications for borrowers Cat Financial does consider to be experiencing financial difficulty typically result in payment deferrals and/or reduced payments for a period of
+four months
+or longer, term extension of
+six months
+or longer or a combination of both.
+During the three months ended March 31, 2025 and 2024, there were
+no
+finance receivable modifications granted to borrowers experiencing financial difficulty in Cat Financial's Dealer portfolio segment. The amortized cost basis of finance receivables modified for borrowers experiencing financial difficulty in the Customer portfolio segment during the three months ended March 31, 2025 and 2024, was $
+6
+million and $
+3
+million, respectively. Total modifications with borrowers experiencing financial difficulty represented
+0.03
+percent and
+0.01
+percent of Cat Financial's Customer portfolio for the same periods, respectively.
+36
+Table of Contents
+The financial effects of term extensions and payment delays for borrowers experiencing financial difficulty for the three months ended March 31, were as follows:
+After Cat Financial modifies a finance receivable, they continue to track its performance under its most recent modified terms. Defaults of loans modified in the prior twelve months were not significant during the three months ended March 31, 2025 and 2024.
+The effect of most modifications made to finance receivables for borrowers experiencing financial difficulty is already included in the allowance for credit losses based on the methodologies used to estimate the allowance; therefore, a change to the allowance for credit losses is generally not recorded upon modification. On rare occasions when principal forgiveness is provided, the amount forgiven is written off against the allowance for credit losses.
+18.
+Fair value disclosures
+A.
+Fair value measurements
+The guidance on fair value measurements defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants.  This guidance also specifies a fair value hierarchy based upon the observability of inputs used in valuation techniques.  Observable inputs (highest level) reflect market data obtained from independent sources, while unobservable inputs (lowest level) reflect internally developed market assumptions.  In accordance with this guidance, fair value measurements are classified under the following hierarchy:
+•
+Level 1
+—
+Quoted prices for identical instruments in active markets.
+•
+Level 2
+— Quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs or significant value-drivers are observable in active markets.
+•
+Level 3
+— Model-derived valuations in which one or more significant inputs or significant value-drivers are unobservable.
+When available, we use quoted market prices to determine fair value, and we classify such measurements within Level 1.  In some cases where market prices are not available, we make use of observable market based inputs to calculate fair value, in which case the measurements are classified within Level 2.  If quoted or observable market prices are not available, fair value is based upon valuations in which one or more significant inputs are unobservable, including internally developed models that use, where possible, current market-based parameters such as interest rates, yield curves and currency rates.  These measurements are classified within Level 3.
+We classify fair value measurements according to the lowest level input or value-driver that is significant to the valuation.  We may therefore classify a measurement within Level 3 even though there may be significant inputs that are readily observable.
+Fair value measurement includes the consideration of nonperformance risk.  Nonperformance risk refers to the risk that an obligation (either by a counterparty or Caterpillar) will not be fulfilled.  For financial assets traded in an active market (Level 1 and certain Level 2), the nonperformance risk is included in the market price.  For certain other financial assets and liabilities (certain Level 2 and Level 3), our fair value calculations have been adjusted accordingly.
+Investments in debt and equity securities
+We have investments in certain debt and equity securities that are recorded at fair value.  Fair values for our U.S. treasury bonds and large capitalization value and smaller company growth equity securities are based upon valuations for identical instruments in active markets.  Fair values for other government debt securities, corporate debt securities and mortgage-backed debt securities are based upon models that take into consideration such market-based factors as
+37
+Table of Contents
+recent sales, risk-free yield curves and prices of similarly rated bonds.
+In addition, Insurance Services has an equity investment in a real estate investment trust (REIT) which is recorded at fair value based on the net asset value (NAV) of the investment and is not classified within the fair value hierarchy.
+See Note 8 for additional information on our investments in debt and equity securities.
+Derivative financial instruments
+The fair value of interest rate contracts is primarily based on a standard industry accepted valuation model that utilizes the appropriate market-based forward swap curves and zero-coupon interest rates to determine discounted cash flows.  The fair value of foreign currency and commodity forward, option and cross currency contracts is based on standard industry accepted valuation models that discount cash flows resulting from the differential between the contract price and the market-based forward rate.  The fair value of total return swap contracts is primarily based on valuing the underlying securities or funds using pricing by industry providers and the average Secured Overnight Financing Rate (SOFR) plus a spread.
+See Note 5 for additional information.
+Assets and liabilities measured on a recurring basis at fair value included in our Consolidated Statement of Financial Position as of March 31, 2025 and December 31, 2024 were as follows:
+38
+Table of Contents
+39
+Table of Contents
+In addition to the amounts above, certain Cat Financial loans are subject to measurement at fair value on a nonrecurring basis and are classified as Level 3 measurements.  A loan is measured at fair value when management determines that collection of contractual amounts due is not probable and the loan is individually evaluated. Generally, the fair value of these receivables is measured using the fair value of collateral less estimated costs to sell.  Cat Financial had loans carried at fair value of $
+70
+million and $
+59
+million as of March 31, 2025 and December 31, 2024, respectively.
+B.
+Fair values of financial instruments
+In addition to the methods and assumptions we use to record the fair value of financial instruments as discussed in the Fair value measurements section above, we use the following methods and assumptions to estimate the fair value of our financial instruments:
+Cash and cash equivalents
+Carrying amount approximates fair value. We classify cash and cash equivalents as Level 1. See Consolidated Statement of Financial Position.
+40
+Table of Contents
+Restricted cash and short-term investments
+Carrying amount approximates fair value.  We include restricted cash and short-term investments in Prepaid expenses and other current assets in the Consolidated Statement of Financial Position. We classify these instruments as Level 1. See Note 8 for additional information.
+Finance receivables
+We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities.
+Wholesale inventory receivables
+We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities.
+Short-term borrowings
+Carrying amount approximates fair value.  We classify short-term borrowings as Level 1. See Consolidated Statement of Financial Position.
+Long-term debt
+We estimate fair value for fixed and floating rate debt based on quoted market prices.
+Our financial instruments not carried at fair value were as follows:
+1
+Represents finance leases and failed sale leasebacks of $
+6,829
+million and $
+6,769
+million at March 31, 2025 and
+December 31, 2024, respectively.
+41
+Table of Contents
+19.
+Other income (expense)
+1
+Includes gains (losses) from foreign exchange derivative contracts. See Note 5 for further details.
+20.
+Restructuring income/costs
+Our accounting for employee separations is dependent upon how the particular program is designed.  For voluntary programs, we recognize eligible separation costs at the time of employee acceptance unless the acceptance requires explicit approval by the company. For involuntary programs, we recognize eligible costs when management has approved the program, the affected employees have been properly notified and the costs are estimable.
+Restructuring costs for the three months ended March 31, 2025 and 2024 were as follows:
+The restructuring costs for the three months ended March 31, 2025 were related to restructuring actions across the company. The restructuring income for the three months ended March 31, 2024 was primarily related to the divestiture of a non-US mining entity.
+In 2025 and 2024, all restructuring costs are excluded from segment profit.
+42
+Table of Contents
+21.
+Supplier finance programs
+We facilitate voluntary supplier finance programs (the “Programs”) through participating financial institutions. The Programs are available to a wide range of suppliers and allow them the option to manage their cash flow.  We are not a party to the agreements between the participating financial institutions and the suppliers in connection with the Programs. The range of payment terms, typically
+60
+-
+90
+days, we negotiate with our suppliers is consistent, irrespective of whether a supplier participates in the Programs. The amount of obligations outstanding that are confirmed as valid to the participating financial institutions for suppliers who voluntarily participate in the Programs, included in Accounts payable in the Consolidated Statement of Financial Position, were $
+880
+million and $
+830
+million at March 31, 2025 and December 31, 2024, respectively.
+43
+Table of Contents
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide information that will assist the reader in understanding the company’s Consolidated Financial Statements, the changes in certain key items in those financial statements between select periods and the primary factors that accounted for those changes. In addition, we discuss how certain accounting principles, policies and critical estimates affect our Consolidated Financial Statements. Our discussion also contains certain forward-looking statements related to future events and expectations as well as a discussion of the many factors that we believe may have an impact on our business on an ongoing basis. This MD&A should be read in conjunction with our discussion of cautionary statements and significant risks to the company’s business under Part I, Item 1A. Risk Factors of the
+2024 Form 10-K
+.
+Highlights for the first quarter of 2025 include:
+•
+Total sales and revenues for the first quarter of 2025 were $14.249 billion, a decrease of $1.550 billion, or 10 percent, compared with $15.799 billion in the first quarter of 2024. Sales were lower across the three primary segments.
+•
+Operating profit margin was 18.1 percent for the first quarter of 2025, compared with 22.3 percent for the first quarter of 2024.
+Adjusted operating profit margin
+was 18.3 percent for the first quarter of 2025, compared with 22.2 percent for the first quarter of 2024.
+•
+First-quarter 2025 profit per share was $4.20, and excluding the items in the table below,
+adjusted profit per share
+was $4.25. First-quarter 2024 profit per share was $5.75, and excluding the items in the table below, adjusted profit per share was $5.60.
+•
+Caterpillar ended the first quarter of 2025 with $3.6 billion of enterprise cash.
+In order for our results to be more meaningful to our readers, we have separately quantified the impact of significant items.
+A detailed reconciliation of GAAP to non-GAAP financial measures is included on pages 57-59.
+Overview
+Total sales and revenues for the first quarter of 2025 were $14.249 billion, a decrease of $1.550 billion, or 10 percent, compared with $15.799 billion in the first quarter of 2024. The decrease was primarily due to lower
+sales volume
+and unfavorable
+price realization
+. Lower sales volume was mainly driven by the impact from changes in
+dealer inventories
+.
+First-quarter 2025 profit per share was $4.20, compared with $5.75 profit per share in the first quarter of 2024. In the first quarter of 2025 and 2024, profit per share included
+restructuring income/costs
+. Profit for the first quarter of 2025 was $2.003 billion, a decrease of $853 million, or 30 percent, compared with $2.856 billion for the first quarter of 2024. The decrease was mainly due to the profit impact of lower sales volume and unfavorable price realization.
+Trends and Economic Conditions
+Outlook for Key End Markets
+Our results continue to reflect the benefit of the diversity of our end markets.
+In
+Construction Industries
+, we are encouraged by another quarter of better-than-expected sales of equipment to end users and strong order rates across many of our regions as customers are responding to the attractiveness of our sales merchandising programs. Construction spend in North America remains at healthy levels, and infrastructure projects funded by the Infrastructure Investment and Jobs Act (IIJA) continue to be awarded. In Asia Pacific, outside of China, economic conditions continue to be soft. China has shown positive momentum in the excavator industry above 10-tons, but from a very low level of activity. In
+EAME
+, weak economic conditions in Europe remain, while conditions are supportive of investment in Africa and the Middle East. Construction activity in
+Latin America
+is expected to moderately decline in 2025 as compared to 2024.
+In
+Resource Industries
+, we are starting the year with strong order rates and backlog growth, particularly for large mining trucks. Rebuild activity is expected to remain healthy. Although most key commodities remain above investment thresholds, customers continue to display capital discipline. Customer product utilization remains high, the age of the fleet remains
+44
+Table of Contents
+elevated, and we continue to see growing customer acceptance of our autonomous solutions. We believe the evolving energy landscape will support increased commodity demand over time, providing further opportunities for long-term profitable growth.
+In
+Energy & Transportation
+, the growth in backlog was driven by robust order activity in both Oil and Gas and Power Generation. Demand remains strong in Power Generation for both reciprocating engines and turbines and turbine-related
+services
+in 2025. The strength of our backlog gives us confidence in our long-term outlook. For Oil and Gas reciprocating engines and services, we expect continuing softness in well servicing due to ongoing capital discipline by our customers, industry consolidation and efficiency improvements in our customers’ operations. Also within Oil and Gas reciprocating engines and services, we see positive momentum in gas compression. For turbines and turbine-related services used in Oil and Gas applications, backlog remains strong, and we continue to see healthy orders. Demand for products in Industrial applications is expected to remain at a relatively low level. Transportation is expected to remain stable.
+Full-Year 2025 Company Trends and Expectations
+We are closely monitoring the evolving economic conditions. Due to the tariff announcements and increasing economic uncertainty, we have evaluated a variety of scenarios to estimate the potential impact of tariffs on our results for the remainder of the year.
+Demand signals were stronger than we expected in the first quarter of 2025, including backlog growth across our three primary segments and stronger than expected sales of equipment to end users in Construction Industries and Resource Industries. These indicators boost our confidence in the resilience of our sales and revenues this year.
+For the full-year 2025, in a pre-tariff scenario, which does not include any impact from tariffs, we expect sales and revenues to be about flat compared to 2024.
+In our alternative scenario, which assumes negative economic growth in the second half of 2025, we expect full-year sales and revenues to only be down slightly in 2025 as compared to 2024. This expectation is a reflection of the diversity of our end markets and the strength of our record backlog, especially for large reciprocating engines and for turbines and turbine-related services.
+We expect the year over year impact of unfavorable price realization to be greater in the first and second quarters of 2025 and expect it to moderate in the second half of 2025. In addition, we also do not expect a significant decrease in machine dealer inventory as we saw in the fourth quarter of 2024, and we still expect dealers to hold inventories about flat for the full year.
+We have assessed potential cost impacts from the current tariffs which have been announced and implemented for the full-year 2025 before any additional mitigation actions; however, given the uncertainty of what the tariff rates could be and the timing of any additional mitigation actions, it is not possible to derive an accurate estimate of the net full-year 2025 impact of tariffs.
+In 2025, we continue to expect restructuring costs of approximately $150 million to $200 million and expect capital expenditures of about $2.5 billion. We anticipate the annual effective tax rate, excluding discrete items, to be 23.0 percent in 2025.
+Second-Quarter 2025 Company Trends and Expectations
+In the second quarter of 2025, we expect sales and revenues to be similar to the second quarter of 2024. Sales growth in Energy & Transportation is expected to be offset by lower sales in Construction Industries and Resource Industries, primarily driven by unfavorable price realization. Machine sales volume is expected to be about flat.
+In the second quarter of 2025 as compared to the second quarter of 2024, we anticipate lower sales in Construction Industries primarily due to unfavorable price realization, partially offset by slightly higher sales volume. In Resource Industries, we expect lower sales primarily due to unfavorable price realization and slightly lower sales volume. In Energy & Transportation, we anticipate higher sales in the second quarter of 2025 as compared to the second quarter of 2024, primarily driven by strength in Power Generation and Oil and Gas. The strength in Oil and Gas is driven by turbines and turbine-related services. We expect favorable price realization for Energy & Transportation in the second quarter of 2025.
+In the second quarter of 2025 as compared to the second quarter of 2024, we expect unfavorable price realization, unfavorable
+manufacturing costs
+and higher selling, general and administrative (SG&A) and research and development (R&D) expenses. We anticipate $250 million to $350 million of estimated cost in the second quarter of 2025 related to the tariffs which have been announced and implemented in 2025. This estimate is net of initial mitigation efforts and cost controls which represent limited, short-term actions that we were able to implement quickly.
+In Construction Industries, we expect unfavorable price realization in the second quarter of 2025 as compared to the second quarter of 2024. We expect about 50 percent of the $250 million to $350 million of estimated cost related to tariffs to be incurred in Construction Industries. In Resource Industries, we expect unfavorable price realization and higher SG&A/R&D expenses in the second quarter of 2025 as compared to the second quarter of 2024. We expect about 25 percent of the $250
+45
+Table of Contents
+million to $350 million of estimated cost related to tariffs to be incurred in Resource Industries. In Energy & Transportation, we expect the profit impact of higher sales volume and favorable price realization to be partially offset by unfavorable manufacturing costs and higher SG&A/R&D expenses. We expect about 25 percent of the $250 million to $350 million of estimated cost related to tariffs to be incurred in Energy & Transportation.
+Global Business Conditions
+We continue to monitor a variety of external factors around the world, such as supply chain disruptions, inflationary cost, labor pressures and the impact of trade policies. Areas of particular focus include transportation, certain components and raw materials. We continue to work to minimize supply chain challenges that may impact our ability to meet customer demand. We continue to assess the environment to determine if additional actions need to be taken.
+Risk Factors
+Risk factors are disclosed within Item 1A. Risk Factors of the 2024 Form 10-K.
+Notes:
+•
+Glossary of terms is included on pages 52-54; first occurrence of terms shown in bold italics.
+•
+Information on non-GAAP financial measures is included on pages 57-59.
+•
+Certain amounts may not add due to rounding.
+46
+Table of Contents
+Consolidated Results of Operations
+THREE MONTHS ENDED MARCH 31, 2025 COMPARED WITH THREE MONTHS ENDED MARCH 31, 2024
+CONSOLIDATED SALES AND REVENUES
+The chart above graphically illustrates reasons for the change in consolidated sales and revenues between the first quarter of 2024 (at left) and the first quarter of 2025 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s board of directors and employees.
+Total sales and revenues for the first quarter of 2025 were $14.249 billion, a decrease of $1.550 billion, or 10 percent, compared with $15.799 billion in the first quarter of 2024. The decrease was primarily due to lower sales volume of $1.1 billion and unfavorable price realization of $250 million. Lower sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory increased by $100 million during the first quarter of 2025, compared with an increase of $1.4 billion during the first quarter of 2024.
+Sales were lower across the three primary segments.
+North America sales decreased 11 percent primarily due to lower sales volume. The decrease in sales volume was primarily driven by the impact from changes in dealer inventories. Dealer inventory increased less during the first quarter of 2025 than during the first quarter of 2024.
+Sales decreased 3 percent in Latin America mainly due to unfavorable
+currency
+impacts primarily related to the Brazilian real, partially offset by higher sales volume. The increase in sales volume was primarily driven by higher sales of equipment to end users.
+EAME sales decreased 13 percent primarily due to lower sales volume and unfavorable price realization. The decrease in sales volume was primarily driven by the impact from changes in dealer inventories. Dealer inventory decreased during the first quarter of 2025, compared with an increase during the first quarter of 2024.
+Asia/Pacific sales decreased 12 percent mainly due to lower sales volume and unfavorable currency impacts primarily related to the Australian dollar. The decrease in sales volume was primarily driven by lower sales of equipment to end users.
+Total dealer inventory increased $100 million during the first quarter of 2025, compared with an increase of $1.4 billion during the first quarter of 2024. Machine dealer inventory was about flat during the first quarter of 2025, compared with an increase of $1.1 billion during the first quarter of 2024. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers’ demand expectations take into account seasonal changes, macroeconomic conditions, machine rentals and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers.
+47
+Table of Contents
+1
+Includes revenues from Machinery, Energy & Transportation o
+f $163 m
+illion and $177 million in the first quarter of 2025 and 2024, respectively.
+48
+Table of Contents
+CONSOLIDATED OPERATING PROFIT
+The chart above graphically illustrates reasons for the change in consolidated operating profit between the first quarter of 2024 (at left) and the first quarter of 2025 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s board of directors and employees. The bar titled Other includes
+consolidating adjustments
+and
+Machinery, Energy & Transportation's other operating (income) expenses.
+Operating profit for the first quarter of 2025 was $2.579 billion, a decrease of $940 million, or 27 percent, compared with $3.519 billion in the first quarter of 2024. The decrease was mainly due to the profit impact of lower sales volume of $652 million and unfavorable price realization of $250 million.
+Operating profit margin was 18.1 percent for the first quarter of 2025, compared with 22.3 percent for the first quarter of 2024.
+49
+Table of Contents
+Other Profit/Loss and Tax Items
+▪
+Interest expense excluding Financial Products in the first quarter of 2025 was $116 million, compared with $143 million in the first quarter of 2024. The decrease was due to lower average debt outstanding and lower average borrowing rates.
+▪
+Other income (expense) in the first quarter of 2025 was income of $107 million, compared with income of $156 million in the first quarter of 2024. The change was primarily driven by unfavorable foreign currency impacts.
+▪
+The effective tax rate for the first quarter of 2025 was 22.3 percent compared to 19.5 percent for the first quarter of 2024. Excluding the discrete items discussed below, the first-quarter 2025 estimated annual effective tax rate was 23.0 percent compared with 22.5 percent for the first quarter of 2024.
+A discrete tax benefit of $17 million was recorded in the first quarter of 2025, compared with a $38 million benefit in the first quarter of 2024, for the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense. In addition, the estimated annual effective tax rate in the first quarter of 2024 excluded the impact of nontaxable gains of $64 million for the divestiture of a non-U.S. mining entity along with a related tax benefit of $54 million.
+Please see a reconciliation of GAAP to non-GAAP financial measures on pages 57-59.
+Construction Industries
+Construction Industries’ total sales were $5.184 billion in the first quarter of 2025, a decrease of $1.240 billion, or 19 percent, compared with $6.424 billion in the first quarter of 2024. The decrease was primarily due to lower sales volume of $820 million and unfavorable price realization of $355 million. The decrease in sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory decreased slightly during the first quarter of 2025, compared with an increase during the first quarter of 2024.
+•
+In North America, sales decreased due to lower sales volume and unfavorable price realization. Lower sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory decreased during the first quarter of 2025, compared with an increase during the first quarter of 2024.
+•
+Sales decreased in Latin America due to unfavorable currency impacts primarily related to the Brazilian real, unfavorable price realization and lower sales volume. Lower sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory decreased during the first quarter of 2025, compared with an increase during the first quarter of 2024.
+•
+In EAME, sales decreased primarily due to unfavorable price realization and lower sales volume. Lower sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory increased less during the first quarter of 2025 than during the first quarter of 2024.
+•
+Sales decreased in Asia/Pacific due to lower sales volume, unfavorable price realization and unfavorable currency impacts primarily related to the Japanese yen. Lower sales volume was mainly driven by lower sales of equipment to end users.
+Construction Industries’ segment profit was $1.024 billion in the first quarter of 2025, a decrease of $740 million, or 42 percent, compared with $1.764 billion in the first quarter of 2024. The decrease was mainly due to the profit impact of lower sales volume of $371 million and unfavorable price realization of $355 million.
+Construction Industries’ segment profit as a percentage of total sales was 19.8 percent in the first quarter of 2025, compared with 27.5 percent in the first quarter of 2024.
+Resource Industries
+Resource Industries’ total sales were $2.884 billion in the first quarter of 2025, a decrease of $309 million, or 10 percent, compared with $3.193 billion in the first quarter of 2024. The decrease was primarily due to lower sales volume of $179 million, unfavorable price realization of $50 million and unfavorable currency impacts of $46 million, primarily related to the Australian dollar. The decrease in sales volume was mainly driven by lower sales of equipment to end users.
+Resource Industries’ segment profit was $599 million in the first quarter of 2025, a decrease of $131 million, or 18 percent, compared with $730 million in the first quarter of 2024. The decrease was mainly due to the profit impact of lower sales volume.
+Resource Industries’ segment profit as a percentage of total sales was 20.8 percent in the first quarter of 2025, compared with 22.9 percent in the first quarter of 2024.
+50
+Table of Contents
+Energy & Transportation
+Energy & Transportation’s total sales were $6.568 billion in the first quarter of 2025, a decrease of $113 million, or 2 percent, compared with $6.681 billion in the first quarter of 2024. The decrease was primarily due to lower sales volume of $175 million, unfavorable currency impacts of $69 million primarily related to the euro, and lower inter-segment sales of $24 million, partially offset by favorable price realization of $155 million.
+•
+Oil and Gas – Sales decreased in reciprocating engines used in gas compression and well servicing applications. Sales also decreased for turbines and turbine-related services.
+•
+Power Generation – Sales increased in large reciprocating engines, primarily data center applications.
+•
+Industrial – Sales decreased primarily in North America and Asia/Pacific, partially offset by increased sales in EAME.
+•
+Transportation – Sales decreased in marine. International locomotive deliveries were also lower.
+Energy & Transportation’s segment profit was $1.314 billion in the first quarter of 2025, an increase of $13 million, or 1 percent, compared with $1.301 billion in the first quarter of 2024. The increase was primarily due to favorable price realization of $155 million, mostly offset by the profit impact of lower sales volume of $114 million and unfavorable manufacturing costs of $40 million. Unfavorable manufacturing costs largely reflected increased period manufacturing costs.
+Energy & Transportation’s segment profit as a percentage of total sales was 20.0 percent in the first quarter of 2025, compared with 19.5 percent in the first quarter of 2024.
+Financial Products Segment
+Financial Products’ segment revenues were $1.007 billion in the first quarter of 2025, an increase of $16 million, or 2 percent, compared with $991 million in the first quarter of 2024. The increase was primarily due to a favorable impact from higher average
+earning assets
+of $28 million driven by North America, partially offset by an unfavorable impact from lower average financing rates of $15 million primarily in North America.
+Financial Products’ segment profit was $215 million in the first quarter of 2025, a decrease of $78 million, or 27 percent, compared with $293 million in the first quarter of 2024. The decrease was mainly due to the absence of an insurance settlement of $33 million in the first quarter of 2024, higher provision for credit losses at Cat Financial of $22 million, an unfavorable impact from lower net yield on average earning assets of $14 million and an unfavorable impact from equity securities of $14 million.
+At the end of the first quarter of 2025, past dues at Cat Financial were 1.58 percent, compared with 1.78 percent at the end of the first quarter of 2024. Write-offs, net of recoveries, were $20 million for the first quarter of 2025, compared with $55 million for the first quarter of 2024. As of March 31, 2025, Cat Financial's allowance for credit losses totaled $282 million, or 0.95 percent of finance receivables, compared with $267 million, or 0.91 percent of finance receivables at December 31, 2024.
+Corporate Items and Eliminations
+Expense for corporate items and eliminations was $415 million in the first quarter of 2025, a decrease of $25 million from the first quarter of 2024, driven by a favorable change in fair value adjustments related to deferred compensation plans and decreased expenses due to timing differences, partially offset by unfavorable impacts of segment reporting methodology differences, unfavorable restructuring income/costs and higher corporate costs.
+51
+Table of Contents
+RESTRUCTURING COSTS
+In 2025, we expect to incur about $150 million to $200 million of restructuring costs.  We expect that prior restructuring actions will result in an incremental benefit to operating costs, primarily Cost of goods sold and SG&A expenses, of about $30 million in 2025 compared with 2024.
+Additional information related to restructuring costs is included in Note 20 – "Restructuring income/costs" of Part I, Item 1 "Financial Statements."
+GLOSSARY OF TERMS
+1.
+Adjusted Operating Profit Margin
+– Operating profit excluding restructuring income/costs as a percentage of sales and revenues.
+2.
+Adjusted Profit Per Share
+– Profit per share excluding restructuring income/costs.
+3.
+All Other Segment
+– Primarily includes activities such as: business strategy; product management and development; manufacturing and sourcing of wear and maintenance components primarily for Cat® products; parts distribution; integrated logistics solutions; distribution services responsible for dealer development and administration, including a wholly owned dealer in Japan; dealer portfolio management and ensuring the most efficient and effective distribution of machines, engines and parts; brand management and marketing strategy; and digital investments for new customer and dealer solutions that integrate data analytics with state-of-the-art digital technologies while transforming the buying experience.
+4.
+Consolidating Adjustments
+– Elimination of transactions between Machinery, Energy & Transportation and Financial Products.
+5.
+Construction Industries
+– A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; cold planers; compactors; compact track loaders; forestry machines; material handlers; motor graders; pipelayers; road reclaimers; skid steer loaders; telehandlers; track-type loaders; track-type tractors (small, medium); track excavators (mini, small, medium, large); wheel excavators; wheel loaders (compact, small, medium); and related parts and work tools.
+6.
+Corporate Items and Eliminations
+– Includes corporate-level expenses, timing differences (as some expenses are reported in segment profit on a cash basis), methodology differences between segment and consolidated external reporting, certain restructuring costs and inter-segment eliminations.
+7.
+Currency
+– With respect to sales and revenues, currency represents the translation impact on sales resulting from changes in foreign currency exchange rates versus the U.S. dollar. With respect to operating profit, currency represents the net translation impact on sales and operating costs resulting from changes in foreign currency exchange rates versus the U.S. dollar. Currency only includes the impact on sales and operating profit for the Machinery, Energy & Transportation line of business; currency impacts on Financial Products revenues and operating profit are included in the Financial Products portions of the respective analyses. With respect to other income/expense, currency represents the effects of forward and option contracts entered into by the company to reduce the risk of fluctuations in exchange rates (hedging) and the net effect of changes in foreign currency exchange rates on our foreign currency assets and liabilities for consolidated results (translation).
+8.
+Dealer Inventories
+– Represents dealer machine and engine inventories, excluding aftermarket parts.
+9.
+EAME
+– A geographic region including Europe, Africa, the Middle East and Eurasia.
+10.
+Earning Assets
+– Assets consisting primarily of total finance receivables net of unearned income, plus equipment on operating leases net of accumulated depreciation at Cat Financial.
+52
+Table of Contents
+11.
+Energy & Transportation
+– A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses as well as product support of on-highway engines. Responsibilities include business strategy, product design, product management, development and testing, manufacturing, marketing and sales and product support. The product and services portfolio includes turbines, centrifugal gas compressors, and turbine-related services; reciprocating engine-powered generator sets; integrated systems and solutions used in the electric power generation industry; reciprocating engines, drivetrain and integrated systems and solutions for the marine and oil and gas industries; reciprocating engines, drivetrain and integrated systems and solutions supplied to the industrial industry as well as Caterpillar machines; electrified powertrain and zero-emission power sources and service solutions development; and diesel-electric and hybrid locomotives and components and other rail-related products and services, including remanufacturing and leasing. Responsibilities also include the remanufacturing of Caterpillar reciprocating engines and components and remanufacturing services for other companies.
+12.
+Financial Products
+– The company defines Financial Products as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services). Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+13.
+Financial Products Segment
+– Provides financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that, in most cases, incorporate Caterpillar products. Financing plans include operating and finance leases, revolving charge accounts, installment sale contracts, repair/rebuild financing, working capital loans and wholesale financing plans. The segment also provides insurance and risk management products and services that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage and maintenance plans for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from Machinery, Energy & Transportation, but the related costs are not allocated to operating segments. Financial Products’ segment profit is determined on a pretax basis and includes other income/expense items.
+14.
+Latin America
+– A geographic region including Central and South American countries and Mexico.
+15.
+Machinery, Energy & Transportation (ME&T)
+– The company defines ME&T as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T’s information relates to the design, manufacturing and marketing of its products.
+16.
+Machinery, Energy & Transportation Other Operating (Income) Expenses
+–
+Comprised primarily of gains/losses on disposal of long-lived assets, gains/losses on divestitures and legal settlements and accruals.
+17.
+Manufacturing Costs
+– Manufacturing costs exclude the impacts of currency and represent the volume-adjusted change for variable costs and the absolute dollar change for period manufacturing costs. Variable manufacturing costs are defined as having a direct relationship with the volume of production. This includes material costs, direct labor and other costs that vary directly with production volume, such as freight, power to operate machines and supplies that are consumed in the manufacturing process. Period manufacturing costs support production but are defined as generally not having a direct relationship to short-term changes in volume. Examples include machinery and equipment repair, depreciation on manufacturing assets, facility support, procurement, factory scheduling, manufacturing planning and operations management.
+18.
+Mark-to-market gains/losses
+– Represents the net gain or loss of actual results differing from the company’s assumptions and the effects of changing assumptions for our defined benefit pension and OPEB plans. These gains and losses are immediately recognized through earnings upon the annual remeasurement in the fourth quarter, or on an interim basis as triggering events warrant remeasurement.
+19.
+Pension and Other Postemployment Benefits (OPEB)
+– The company’s defined-benefit pension and postretirement benefit plans.
+20.
+Price Realization
+– The impact of net price changes excluding currency and new product introductions. Price realization includes geographic mix of sales, which is the impact of changes in the relative weighting of sales prices between geographic regions.
+53
+Table of Contents
+21.
+Resource Industries
+– A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; electric rope shovels; draglines; hydraulic shovels; rotary drills; large wheel loaders; off-highway trucks; articulated trucks; wheel tractor scrapers; wheel dozers; landfill compactors; soil compactors; wide-body trucks; select work tools; machinery components; electronics and control systems and related parts. In addition to equipment, Resource Industries also develops and sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions. Resource Industries also manages areas that provide services to other parts of the company, including strategic procurement, lean center of excellence, integrated manufacturing, research and development for hydraulic systems, automation, electronics and software for Caterpillar machines and engines.
+22.
+Restructuring income/costs
+– May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold.
+23.
+Sales Volume
+– With respect to sales and revenues, sales volume represents the impact of changes in the quantities sold for Machinery, Energy & Transportation as well as the incremental sales impact of new product introductions, including emissions-related product updates. With respect to operating profit, sales volume represents the impact of changes in the quantities sold for Machinery, Energy & Transportation combined with product mix as well as the net operating profit impact of new product introductions, including emissions-related product updates. Product mix represents the net operating profit impact of changes in the relative weighting of Machinery, Energy & Transportation sales with respect to total sales. The impact of sales volume on segment profit includes inter-segment sales.
+24.
+Services
+– Machinery, Energy & Transportation services revenues include, but are not limited to, aftermarket parts and other service-related revenues and exclude most Financial Products revenues, discontinued products and captive dealer services.
+LIQUIDITY AND CAPITAL RESOURCES
+Sources of funds
+We generate significant capital resources from operating activities, which are the primary source of funding for our ME&T operations. Funding for these businesses is also available from commercial paper and long-term debt issuances. Financial Products’ operations are funded primarily from commercial paper, term debt issuances and collections from its existing portfolio. On a consolidated basis, we had positive operating cash flow in the first three months of 2025 and ended the first quarter with $3.562 billion of cash, a decrease of $3.327 billion from year-end 2024. In addition, ME&T invests in available-for-sale debt securities and bank time deposits that are considered highly liquid and are available for current operations. These ME&T securities were $1.215 billion as of March 31, 2025 and are included in Prepaid expenses and other current assets and Other assets in the Consolidated Statement of Financial Position.  We intend to maintain a strong cash and liquidity position.
+Consolidated operating cash flow for the first three months of 2025 was $1.289 billion, down $763 million compared to the same period a year ago. The decrease was primarily due to lower profit before taxes adjusted for non-cash items.
+Total debt as of March 31, 2025 was $38.588 billion, an increase of $179 million from year-end 2024. Debt related to ME&T increased $63 million in the first three months of 2025, while debt related to Financial Products increased $142 million.
+As of March 31, 2025, we had three global credit facilities with a syndicate of banks totaling $10.500 billion (Credit Facility) available in the aggregate to both Caterpillar and Cat Financial for general liquidity purposes. Based on management’s allocation decision, which can be revised from time to time, the portion of the Credit Facility available to ME&T as of March 31, 2025 was $2.750 billion. Information on our Credit Facility is as follows:
+•
+The 364-day facility of $3.150 billion (of which $825 million is available to ME&T) expires in August 2025.
+•
+The three-year facility, as amended in August 2024, of $2.730 billion (of which $715 million is available to ME&T) expires in August 2027.
+•
+The five-year facility, as amended in August 2024, of $4.620 billion (of which $1.210 billion is available to ME&T) expires in August 2029.
+54
+Table of Contents
+At March 31, 2025, Caterpillar’s consolidated net worth was $18.132 billion, which was above the $9.000 billion required under the Credit Facility. The consolidated net worth is defined in the Credit Facility as Caterpillar's consolidated shareholders’ equity including preferred stock but excluding the pension and other postretirement benefits balance within Accumulated other comprehensive income (loss).
+At March 31, 2025, Cat Financial’s covenant interest coverage ratio was 1.36 to 1. This was above the 1.15 to 1 minimum ratio calculated as (1) profit excluding income taxes, interest expense and net gain (loss) from interest rate derivatives to (2) interest expense calculated at the end of each fiscal quarter for the prior four consecutive fiscal quarter period, required by the Credit Facility.
+In addition, at March 31, 2025, Cat Financial’s six-month covenant leverage ratio was 7.42 to 1. This was below the maximum ratio of debt to net worth of 10 to 1, calculated (1) on a monthly basis as the average of the leverage ratios determined on the last day of each of the six preceding calendar months and (2) at each December 31, required by the Credit Facility.
+In the event Caterpillar or Cat Financial does not meet one or more of their respective financial covenants under the Credit Facility in the future (and are unable to obtain a consent or waiver), the syndicate of banks may terminate the commitments allocated to the party that does not meet its covenants. Additionally, in such event, certain of Cat Financial’s other lenders under other loan agreements where similar financial covenants or cross default provisions are applicable may, at their election, choose to pursue remedies under those loan agreements, including accelerating the repayment of outstanding borrowings. At March 31, 2025, there were no borrowings under the Credit Facility.
+The aforementioned financial covenants are being reported as calculated under the Credit Facility and not pursuant to U.S. GAAP. Please refer to the credit agreements governing the Credit Facility filed as an exhibit to our periodic reports for further information related to the calculation thereof. For risks related to our indebtedness and compliance with these covenants, please refer to the risk factor "Restrictive covenants in our debt agreements could limit our financial and operating flexibility" set forth in Part I, Item 1A of our most recent annual report on Form 10-K.
+Our total credit commitments and available credit as of March 31, 2025 were:
+The other external consolidated credit lines with banks as of March 31, 2025 totaled $3.944 billion. These committed and uncommitted credit lines, which may be eligible for renewal at various future dates or have no specified expiration date, are used primarily by our subsidiaries for local funding requirements. Caterpillar or Cat Financial may guarantee subsidiary borrowings under these lines.
+We receive debt ratings from the major credit rating agencies. Fitch maintains a "high-A" debt rating, while Moody’s and S&P maintain a “mid-A” debt rating. A downgrade of our credit ratings by any of the major credit rating agencies could result in increased borrowing costs and could make access to certain credit markets more difficult. In the event economic conditions deteriorate such that access to debt markets becomes unavailable, ME&T’s operations would rely on cash flow from operations, use of existing cash balances, borrowings from Cat Financial and access to our committed credit facilities. Our Financial Products’ operations would rely on cash flow from its existing portfolio, existing cash balances, access to our committed credit facilities and other credit line facilities of Cat Financial, and potential borrowings from Caterpillar. In addition, we maintain a support agreement with Cat Financial, which requires Caterpillar to remain the sole owner of Cat Financial and may, under certain circumstances, require Caterpillar to make payments to Cat Financial should Cat Financial fail to maintain certain financial ratios.
+55
+Table of Contents
+We facilitate voluntary supplier finance programs (the “Programs”) through participating financial institutions.  We account for the payments made under the Programs, the same as other accounts payable, as a reduction to our cash flows from operations. We do not believe that changes in the availability of the programs will have a significant impact on our liquidity. Additional information related to the programs is included in Note 21 – "Supplier finance programs" of Part I, Item 1 "Financial Statements."
+Machinery, Energy & Transportation
+Net cash provided by operating activities was $926 million in the first three months of 2025, compared with net cash provided of $1.771 billion for the same period in 2024. The decrease was primarily due to lower profit before taxes, adjusted for non-cash items, and higher working capital requirements. Within working capital, changes in inventories unfavorably impacted cash flow, but were partially offset by changes in customer advances.
+Net cash provided by investing activities in the first three months of 2025 was $30 million, compared with net cash provided of $1.225 billion in the first three months of 2024. The change was primarily due to lower proceeds from maturities and sale of securities, primarily due to time deposit maturities in 2024.
+Net cash used for financing activities during the first three months of 2025 was $4.432 billion, compared with net cash used of $5.120 billion in the same period of 2024. The change was primarily due to lower payments to purchase common stock in the first three months of 2025 compared to the same period in 2024.
+While our short-term priorities for the use of cash may vary from time to time as business needs and conditions dictate, our long-term cash deployment strategy is focused on the following priorities. Our top priority is to maintain a strong financial position in support of a mid-A rating. Next, we intend to fund operational requirements and commitments. Then, we intend to fund priorities that profitably grow the company and return capital to shareholders through dividend growth and share repurchases. Additional information on cash deployment is as follows:
+Strong financial position
+–
+Our top priority is to maintain a strong financial position in support of a mid-A rating. We track a diverse group of financial metrics that focus on liquidity, leverage, cash flow and margins which align with our cash deployment actions and the various methodologies used by the major credit rating agencies.
+Operational excellence and commitments
+–
+Capital expenditures were $704 million during the first three months of 2025, compared to $502 million for the same period in 2024. We expect ME&T’s capital expenditures in 2025 to be about $2.5 billion. We made $211 million of contributions to our pension and other postretirement benefit plans during the first three months of 2025. We currently anticipate full-year 2025 contributions of approximately $354 million. In comparison, we made $113 million of contributions to our pension and other postretirement benefit plans during the first three months of 2024.
+Fund strategic growth initiatives and return capital to shareholders
+–
+We intend to utilize our liquidity and debt capacity to fund targeted investments that drive long-term profitable growth focused in the areas of expanded offerings, services and sustainability, including acquisitions.
+As part of our capital allocation strategy, ME&T free cash flow is a liquidity measure we use to determine the cash generated and available for financing activities including debt repayments, dividends and share repurchases. We define ME&T free cash flow as cash from ME&T operations less capital expenditures, excluding discretionary pension and other postretirement benefit plan contributions. A goal of our capital allocation strategy is to return substantially all ME&T free cash flow to shareholders over time in the form of dividends and share repurchases, while maintaining our mid-A rating.
+Each quarter, our Board of Directors reviews the company’s dividend for the applicable quarter. The Board evaluates the financial condition of the company and considers corporate cash flow, the company’s liquidity needs, the economic outlook, and the health and stability of global credit markets to determine whether to maintain or change the quarterly dividend. In April 2025, the Board of Directors approved maintaining our quarterly dividend representing $1.41 per share, and we continue to expect our strong financial position to support the dividend. Dividends paid totaled $674 million in the first three months of 2025.
+56
+Table of Contents
+Our share repurchase plans are subject to the company’s cash deployment priorities and are evaluated on an ongoing basis considering the financial condition of the company, corporate cash flow, the company’s liquidity needs, the economic outlook, and the health and stability of global credit markets. The timing and amount of future repurchases may vary depending on market conditions and investing priorities. In May 2022, the Board approved a share repurchase authorization (the 2022 Authorization) of up to $15.0 billion of Caterpillar common stock effective August 1, 2022, with no expiration. In June 2024, the Board approved an additional share repurchase authorization (the 2024 Authorization) of up to $20.0 billion of Caterpillar common stock, effective June 12, 2024, with no expiration. In the first three months of 2025, we repurchased $3.660 billion of Caterpillar common stock. As of March 31, 2025, the 2022 Authorization was fully utilized and $16.468 billion remained available under the 2024 Authorization. Our basic shares outstanding as of March 31, 2025 were approximately 471 million.
+Financial Products
+Net cash provided by operating activities was $297 million in the first three months of 2025, compared with $308 million for the same period in 2024. Net cash used for investing activities was $132 million in the first three months of 2025, compared with $291 million for the same period in 2024. The change was primarily due to portfolio related activity and an increase in proceeds from maturities and sale of securities. Net cash used for financing activities was $71 million in the first three months of 2025, compared with net cash provided of $117 million for the same period in 2024. The change was due to external borrowing activity.
+RECENT ACCOUNTING PRONOUNCEMENTS
+For a discussion of recent accounting pronouncements, see Note 2 – “New accounting guidance” of Part I, Item 1 "Financial Statements."
+CRITICAL ACCOUNTING ESTIMATES
+For a discussion of the company’s critical accounting estimates, see Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our 2024 Annual Report on Form 10-K. There have been no significant changes to our critical accounting estimates since our 2024 Annual Report on Form 10-K.
+OTHER MATTERS
+Information related to legal proceedings appears in Note 14 – "Environmental and legal matters" of Part I, Item 1 “Financial Statements.”
+Order Backlog
+At the end of the first quarter of 2025, the dollar amount of backlog believed to be firm was approximately $35.0 billion, about $5.0 billion higher than the fourth quarter of 2024. The order backlog increased across the primary segments, with the largest increase in Energy & Transportation. Of the total backlog at March 31, 2025, approximately $9.2 billion was not expected to be filled in the following twelve months.
+NON-GAAP FINANCIAL MEASURES
+We provide the following definitions for the non-GAAP financial measures used in this report. These non-GAAP financial measures have no standardized meaning prescribed by U.S. GAAP and therefore are unlikely to be comparable to the calculation of similar measures for other companies. Management does not intend these items to be considered in isolation or as a substitute for the related GAAP measures.
+We believe it is important to separately quantify the profit impact of two significant items in order for the company’s results to be meaningful to readers. These items consist of (i) other restructuring income/costs and (ii) restructuring income related to the divestiture of a non-U.S. mining entity in 2024. We do not consider these items indicative of earnings from ongoing business activities and believe the non-GAAP measure provides investors with useful perspective on underlying business results and trends and aids with assessing the company’s period-over-period results.
+Reconciliations of adjusted results to the most directly comparable GAAP measures are as follows:
+57
+Table of Contents
+We believe it is important to separately disclose our annual effective tax rate, excluding discrete items for our results to be meaningful to our readers. The annual effective tax rate is discussed using non-GAAP financial measures that exclude the effects of amounts associated with discrete items recorded fully in the quarter they occur. For the three months ended March 31, 2025, and 2024, these items consist of (i) the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense and (ii) restructuring income related to the divestiture of a non-U.S. mining entity in 2024. We believe the non-GAAP measures will provide investors with useful perspective on underlying business results and trends and aids with assessing the company's period-over-period results.
+A reconciliation of our effective tax rate to annual effective tax rate, excluding discrete items is below:
+In addition, we provide a calculation of ME&T free cash flow as we believe it is an important measure for investors to determine the cash generation available for financing activities including debt repayments, dividends and share repurchases.
+Reconciliations of ME&T free cash flow to the most directly comparable GAAP measure, net cash provided by operating activities are as follows:
+58
+Table of Contents
+Supplemental Consolidating Data
+We are providing supplemental consolidating data for the purpose of additional analysis.  The data has been grouped as follows:
+Consolidated –
+Caterpillar Inc. and its subsidiaries.
+Machinery, Energy & Transportation –
+We define ME&T as it is presented in the supplemental data as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T’s information relates to the design, manufacturing and marketing of our products.
+Financial Products –
+We define Financial Products as it is presented in the supplemental data as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services).  Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+Consolidating Adjustments –
+Eliminations of transactions between ME&T and Financial Products.
+The nature of the ME&T and Financial Products businesses is different, especially with regard to the financial position and cash flow items. Caterpillar management utilizes this presentation internally to highlight these differences.  We believe this presentation will assist readers in understanding our business.
+Pages 60 to 65 reconcile ME&T and Financial Products to Caterpillar Inc. consolidated financial information.
+59
+Table of Contents
+Caterpillar Inc.
+Supplemental Data for Results of Operations
+For the Three Months Ended March 31, 2025
+(Unaudited)
+(Millions of dollars)
+1
+Elimination of Financial Products’ revenues earned from ME&T.
+2
+Elimination of net expenses recorded between ME&T and Financial Products.
+3
+Elimination of interest expense recorded between Financial Products and ME&T.
+4
+Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
+5
+Profit attributable to common shareholders.
+60
+Table of Contents
+Caterpillar Inc.
+Supplemental Data for Results of Operations
+For the Three Months Ended March 31, 2024
+(Unaudited)
+(Millions of dollars)
+1
+Elimination of Financial Products’ revenues earned from ME&T.
+2
+Elimination of net expenses recorded between ME&T and Financial Products.
+3
+Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
+4
+Profit attributable to common shareholders.
+61
+Table of Contents
+Caterpillar Inc.
+Supplemental Data for Financial Position
+At March 31, 2025
+(Unaudited)
+(Millions of dollars)
+1
+Elimination of receivables between ME&T and Financial Products.
+2
+Reclassification of ME&T’s trade receivables purchased by Financial Products and Financial Products’ wholesale inventory receivables.
+3
+Elimination of ME&T’s insurance premiums that are prepaid to Financial Products.
+4
+Reclassification reflecting required netting of deferred tax assets/liabilities by taxing jurisdiction.
+5
+Elimination of other intercompany assets and liabilities between ME&T and Financial Products.
+6
+Elimination of payables between ME&T and Financial Products.
+7
+Reclassification of Financial Products' payables to customer advances.
+8
+Elimination of prepaid insurance in Financial Products’ other liabilities.
+9
+Elimination of debt between ME&T and Financial Products.
+10
+Eliminations associated with ME&T’s investments in Financial Products’ subsidiaries.
+62
+Table of Contents
+Caterpillar Inc.
+Supplemental Data for Financial Position
+At December 31, 2024
+(Unaudited)
+(Millions of dollars)
+1
+Elimination of receivables between ME&T and Financial Products.
+2
+Reclassification of ME&T’s trade receivables purchased by Financial Products and Financial Products’ wholesale inventory receivables.
+3
+Elimination of ME&T’s insurance premiums that are prepaid to Financial Products.
+4
+Reclassification reflecting required netting of deferred tax assets/liabilities by taxing jurisdiction.
+5
+Elimination of other intercompany assets between ME&T and Financial Products.
+6
+Elimination of payables between ME&T and Financial Products.
+7
+Reclassification of Financial Products' payables to customer advances.
+8
+Elimination of prepaid insurance in Financial Products' other liabilities.
+9
+Elimination of debt between ME&T and Financial Products.
+10
+Eliminations associated with ME&T’s investments in Financial Products’ subsidiaries.
+63
+Table of Contents
+Caterpillar Inc.
+Supplemental Data for Cash Flow
+For the Three Months Ended March 31, 2025
+(Unaudited)
+(Millions of dollars)
+1
+Elimination of non-cash adjustments and changes in assets and liabilities related to consolidated reporting.
+2
+Reclassification of Financial Products’ cash flow activity from investing to operating for receivables that arose from the sale of inventory.
+3
+Elimination of net proceeds and payments to/from ME&T and Financial Products.
+64
+Table of Contents
+Caterpillar Inc.
+Supplemental Data for Cash Flow
+For the Three Months Ended March 31, 2024
+(Unaudited)
+(Millions of dollars)
+1
+Elimination of non-cash adjustments and changes in assets and liabilities related to consolidated reporting.
+2
+Reclassification of Financial Products’ cash flow activity from investing to operating for receivables that arose from the sale of inventory.
+3
+Elimination of net proceeds and payments to/from ME&T and Financial Products.
+65
+Table of Contents
+Forward-looking Statements
+Certain statements in this Form 10-Q relate to future events and expectations and are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “believe,” “estimate,” “will be,” “will,” “would,” “expect,” “anticipate,” “plan,” “forecast,” “target,” “guide,” “project,” “intend,” “could,” “should” or other similar words or expressions often identify forward-looking statements. All statements other than statements of historical fact are forward-looking statements, including, without limitation, statements regarding our outlook, projections, forecasts or trend descriptions. These statements do not guarantee future performance and speak only as of the date they are made, and we do not undertake to update our forward-looking statements.
+Caterpillar’s actual results may differ materially from those described or implied in our forward-looking statements based on a number of factors, including, but not limited to: (i) global and regional economic conditions and economic conditions in the industries we serve; (ii) commodity price changes, material price increases, fluctuations in demand for our products or significant shortages of material; (iii) government monetary or fiscal policies; (iv) political and economic risks, commercial instability and events beyond our control in the countries in which we operate; (v) international trade policies and their impact on demand for our products and our competitive position, including the imposition of new tariffs or changes in existing tariff rates; (vi) our ability to develop, produce and market quality products that meet our customers’ needs; (vii) the impact of the highly competitive environment in which we operate on our sales and pricing; (viii) information technology security threats and computer crime; (ix) inventory management decisions and sourcing practices of our dealers and our OEM customers; (x) a failure to realize, or a delay in realizing, all of the anticipated benefits of our acquisitions, joint ventures or divestitures; (xi) union disputes or other employee relations issues; (xii) adverse effects of unexpected events; (xiii) disruptions or volatility in global financial markets limiting our sources of liquidity or the liquidity of our customers, dealers and suppliers; (xiv) failure to maintain our credit ratings and potential resulting increases to our cost of borrowing and adverse effects on our cost of funds, liquidity, competitive position and access to capital markets; (xv) our Financial Products segment’s risks associated with the financial services industry; (xvi) changes in interest rates or market liquidity conditions; (xvii) an increase in delinquencies, repossessions or net losses of Cat Financial’s customers; (xviii) currency fluctuations; (xix) our or Cat Financial’s compliance with financial and other restrictive covenants in debt agreements; (xx) increased pension plan funding obligations; (xxi) alleged or actual violations of trade or anti-corruption laws and regulations; (xxii) additional tax expense or exposure, including the impact of U.S. tax reform; (xxiii) significant legal proceedings, claims, lawsuits or government investigations; (xxiv) new regulations or changes in financial services regulations; (xxv) compliance with environmental laws and regulations; (xxvi) catastrophic events, including global pandemics such as the COVID-19 pandemic; and (xxvii) other factors described in more detail under the section entitled "Part I - Item 1A. Risk Factors" of Caterpillar's Annual Report on Form 10-K for the fiscal year ended December 31, 2024, as such factors may be updated from time to time in Caterpillar's periodic filings with the Securities and Exchange Commission.
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+The information required by this Item is incorporated by reference from Note 5 – “Derivative financial instruments and risk management” included in Part I, Item 1 and Management’s Discussion and Analysis included in Part I, Item 2 of this Form 10-Q.
+Item 4.  Controls and Procedures
+Evaluation of disclosure controls and procedures
+An evaluation was performed under the supervision and with the participation of the company’s management, including the Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of the design and operation of the company’s disclosure controls and procedures, as that term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended, as of the end of the period covered by this quarterly report.  Based on that evaluation, the CEO and CFO concluded that the company’s disclosure controls and procedures were effective as of the end of the period covered by this quarterly report.
+Changes in internal control over financial reporting
+During the first quarter of 2025, there has been no change in the company’s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the company’s internal control over financial reporting.
+66
+Table of Contents
+PART II.  OTHER INFORMATION
+Item 1.  Legal Proceedings
+The information required by this Item is incorporated by reference from Note 14 – “Environmental and legal matters” included in Part I, Item 1 of this Form 10-Q.
+Item 1A.  Risk Factors
+There have been no material changes to the risk factors we previously disclosed in our Annual Report on
+Form 10-K
+for the year ended December 31, 2024.
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Non-U.S. Employee Stock Purchase Plans
+As of March 31, 2025, we had 38 employee stock purchase plans (the “EIP Plans”) that are administered outside the United States for our non-U.S. employees, which had approximately 16,000 active participants in the aggregate.  During the first quarter of 2025, approximately 50,000 shares of Caterpillar common stock were purchased by the EIP Plans pursuant to the terms of such plans.
+Item 5. Other Information
+During the three months ended March 31, 2025, none of the company’s directors or officers (as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934)
+adopted
+,
+terminated
+or modified a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation S-K of the Securities Act of 1933).
+67
+Table of Contents
+Item 6. Exhibits
+The agreements and other documents filed as exhibits to this report are not intended to provide factual information or other disclosure other than with respect to the terms of the agreements or other documents themselves, and you should not rely on them for that purpose. In particular, any representations and warranties made by us in these agreements or other documents were made solely within the specific context of the relevant agreement or document and may not describe the actual state of affairs as of the date they were made or at any other time.
+68
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+69

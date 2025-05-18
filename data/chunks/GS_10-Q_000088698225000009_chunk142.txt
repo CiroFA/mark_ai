@@ -1,0 +1,17 @@
+who sweep client cash to FDIC-insured deposits.
+•
+Transaction banking deposits consist of deposits that we raised through our cash management services business for corporate and other institutional clients.
+•
+Other deposits are substantially all from institutional clients.
+•
+Deposits insured by the FDIC were $249.69 billion as of March 2025 and $234.54 billion as of December 2024.
+•
+Deposits insured by non-U.S. insurance programs were $27.67 billion as of March 2025 and $25.98 billion as of December 2024.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+See Note 13 to the consolidated financial statements for further information about our deposits, including a maturity profile of our time deposits.
+Secured Funding.
+We fund a significant amount of inventory and a portion of investments on a secured basis. Secured funding includes collateralized financings in the consolidated balance sheets. See Note 11 to the consolidated financial statements for further information about our collateralized financings, including its maturity profile. We may also pledge our inventory and investments as collateral for securities borrowed under a securities lending agreement. We also use our own inventory and investments to cover transactions in which we or our clients have sold securities that have not yet been purchased. Secured funding is less sensitive to changes in our credit quality than unsecured funding, due to our posting of collateral to our lenders. Nonetheless, we analyze the refinancing risk of our secured funding activities, taking into account trade tenors, maturity profiles, counterparty concentrations, collateral eligibility and counterparty rollover probabilities. We seek to mitigate our refinancing risk by executing term trades with staggered maturities, diversifying counterparties, raising excess secured funding and pre-funding residual risk through our GCLA.
+We seek to raise secured funding with a term appropriate for the liquidity of the assets that are being financed, and we seek longer maturities for secured funding collateralized by asset classes that may be harder to fund on a secured basis, especially during times of market stress. Our secured funding, excluding funding collateralized by liquid government and agency obligations, is primarily executed for tenors of one month or greater and is primarily executed through term repurchase agreements and securities loaned contracts.
+Assets that may be harder to fund on a secured basis during times of market stress include certain financial instruments in the following categories: mortgage- and other asset-backed loans and securities, non-investment-grade corporate debt securities, equity securities and emerging market securities.
+We also raise financing through other types of collateralized financings, such as secured loans and notes. GS Bank USA has access to funding from the Federal Home Loan Bank. Our outstanding borrowings from the Federal Home Loan Bank

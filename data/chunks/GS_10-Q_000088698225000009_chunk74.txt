@@ -1,0 +1,31 @@
+above for a summary of the firm’s commitments.
+•
+The carrying value for derivatives included derivative assets of $
+548
+million as of March 2025 and $
+464
+million as of December 2024, and derivative liabilities of $
+3.74
+billion as of March 2025 and $
+4.00
+billion as of December 2024.
+Derivative Guarantees.
+The firm enters into various derivatives that meet the definition of a guarantee under U.S. GAAP, including written equity and commodity put options, written currency contracts and interest rate caps, floors and swaptions. These derivatives are risk managed together with derivatives that do not meet the definition of a guarantee, and therefore the amounts in the table above do not reflect the firm’s overall risk related to derivative activities. Disclosures about derivatives are not required if they may be cash settled and the firm has no basis to conclude it is probable that the counterparties held the underlying instruments at the inception of the contract. The firm has concluded that these conditions have been met for certain large, internationally active commercial and investment bank counterparties, central clearing counterparties, hedge funds and certain other counterparties. Accordingly, the firm has not included such contracts in the table above. See Note 7 for information about credit derivatives that meet the definition of a guarantee, which are not included in the table above.
+Derivatives are accounted for at fair value and therefore the carrying value is considered the best indication of payment/performance risk for individual contracts. However, the carrying values in the table above exclude the effect of counterparty and cash collateral netting.
+Securities Lending and Clearing Guarantees
+.
+Securities lending and clearing guarantees include the indemnifications and guarantees that the firm provides in its capacity as an agency lender and in its capacity as a sponsoring member of the Fixed Income Clearing Corporation.
+As an agency lender, the firm indemnifies most of its securities lending customers against losses incurred in the event that borrowers do not return securities and the collateral held is insufficient to cover the market value of the securities borrowed.
+The maximum payout of such indemnifications was $
+12.64
+billion as of March 2025 and $
+10.62
+billion as of December 2024. Collateral held by the lenders in connection with securities lending indemnifications was $
+13.17 billion
+as of March 2025 and $
+11.02 billion
+as of December 2024. Because the contractual nature of these arrangements requires the firm to obtain collateral with a market value that exceeds the value of the securities lent to the borrower, there is minimal performance risk associated with these indemnifications.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+As a sponsoring member of the Government Securities Division of the Fixed Income Clearing Corporation, the firm guarantees the performance of

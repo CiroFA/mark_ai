@@ -1,0 +1,46 @@
+dismantlement costs.
+The Mountain Valley Pipeline fair value estimate was based on a probability-weighted earnings before interest, taxes, depreciation and amortization (EBITDA) multiple valuation technique using a market participant view of the potential different outcomes for the investment. As part of the valuation, NextEra Energy Resources used observable inputs where available, including the EBITDA multiples of recent pipeline transactions. Significant unobservable inputs (Level 3), including the probabilities assigned to the different potential outcomes, the forecasts of operating revenues and costs, and the projected capital expenditures to complete the project, were also used in the estimation of fair value. An increase in the revenue forecasts, a decrease in the projected operating or capital expenditures or an increase in the probability assigned to the full pipeline being completed would result in an increased fair market value. Changes in the opposite direction of those unobservable inputs would result in a decreased fair market value.
+5.
+Income Taxes
+The components of income taxes are as follows:
+A reconciliation between the effective income tax rates and the applicable statutory rate is as follows:
+92
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+The income tax effects of temporary differences giving rise to consolidated deferred income tax liabilities and assets are as follows:
+______________________
+(a)
+Reflects valuation allowances related to deferred state tax credits and state operating loss carryforwards.
+Deferred tax assets and liabilities are included on the consolidated balance sheets as follows:
+The components of NEE's deferred tax assets relating to net operating loss carryforwards and tax credit carryforwards at December 31, 2024 are as follows:
+______________________
+(a)
+Includes $
+78
+million of net operating loss carryforwards with an indefinite expiration period.
+(b)
+Includes $
+1
+million of net operating loss carryforwards with an indefinite expiration period.
+(c)
+Includes $
+192
+million of renewable energy tax credit carryforwards with an indefinite expiration period.
+93
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+6
+.
+Acquisitions
+RNG Acquisition
+– On March 21, 2023, a wholly owned subsidiary of NextEra Energy Resources acquired a portfolio of renewable energy projects from the owners of Energy Power Partners Fund I, L.P. and North American Sustainable Energy Fund, L.P., as well as the related service provider (RNG acquisition). The portfolio primarily consisted of
+31
+biogas projects,
+one
+of which is an operating renewable natural gas facility and the others of which are primarily operating landfill gas-to-electric facilities. The purchase price included approximately $
+1.1
+billion in cash consideration and the assumption of approximately $
+34
+million of

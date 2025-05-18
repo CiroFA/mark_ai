@@ -1,0 +1,15 @@
+issuances of d
+ebt, investments in special use funds and other investments. NEE and FPL manage their respective interest rate exposure by monitoring current interest rates, entering into interest rate contracts and using a combination of fixed-rate and variable-rate debt. Interest rate contracts are used to mitigate and adjust interest rate exposure when deemed appropriate based upon market conditions or when required by financing agreements.
+54
+Table of Content
+s
+The following are estimates of the fair value of NEE's and FPL's financial instruments that are exposed to interest rate risk:
+______________________
+(a)    See Note 3 and Note 4.
+The special use funds of NEE and FPL consist of restricted funds set aside to cover the cost of storm damage for FPL and for the decommissioning of NEE's and FPL's nuclear power plants. See Note 1 – Storm Funds, Storm Reserves and Storm Cost Recovery. A portion of these funds is invested in fixed income debt securities primarily carried at estimated fair value. At FPL, changes in fair value, including any credit losses, result in a corresponding adjustment to the related regulatory asset or liability accounts based on current regulatory treatment. The changes in fair value for NEE's non-rate regulated operations result in a corresponding adjustment to other comprehensive income, except for credit losses and unrealized losses on available for sale securities intended or required to be sold prior to recovery of the amortized cost basis, which are reported in current period earnings. Because the funds set aside by FPL for storm damage could be needed at any time, the related investments are generally more liquid and, therefore, are less sensitive to changes in interest rates. The nuclear decommissioning funds, in contrast, are generally invested in longer-term securities.
+At December 31, 2024, NEE had interest rate contracts with a net notional amount of approximately $35.2 billion to manage exposure to the variability of cash flows primarily associated with expected future and outstanding debt issuances at NEECH and NEER.
+Based upon a hypothetical 10% decrease in interest rates, the fair value of NEE’s net liabilities would increase by approxim
+ately $3,475 million ($1,153 million f
+or FPL) at December 31, 2024.
+Equity Price Risk
+NEE and FPL are exposed to risk resulting from changes in prices for equity securities. For example, NEE’s nuclear decommissioning reserve funds include marketable equity securities carried at their market value of approximately $6,164 million and $5,290 million ($4,219 million and $3,536 million for FPL) at December 31, 2024 and 2023, respectively. NEE's and FPL’s investment strategy for equity securities in their nuclear decommissioning reserve funds emphasizes marketable securities which are broadly diversified. At December 31, 2024, a hypothetical 10% decrease in the prices quoted on stock exchanges would result in an approximately $577 million ($388 million for FPL) reduction in

@@ -1,0 +1,25 @@
+management’s methods used in developing its cost estimates related to regulatory requirements to achieve certification.
+•
+We performed procedures to evaluate new changes in estimated costs driven by changes in regulatory requirements to achieve certification.
+122
+Table of
+Contents
+•
+We evaluated the timeline of key events and knowledge points that led to management’s determination that a change in the cost estimate related to regulatory requirements to achieve certification was necessary.
+•
+We inquired of those directly involved with the certification of the aircraft to evaluate project status and challenges which may affect total estimated costs to certify the aircraft.
+•
+We obtained and evaluated communications with regulatory bodies for consistency between management’s certification timeline assumptions and cost and revenue estimates related to regulatory requirements.
+•
+We evaluated management’s ability to estimate customer consideration by comparing actual re-contracted values to prior estimates.
+•
+We inquired of management, including individuals responsible for sales and pricing, to evaluate the estimated customer consideration and status of negotiations with individual customers.
+•
+We obtained and evaluated communications with customers for consistency with management’s estimated customer consideration.
+•
+We performed internet searches to identify reports related to the regulatory environment and customer statements and evaluated any contradictory evidence.
+•
+We tested the effectiveness of internal controls, including those over significant judgments made and assumptions used to develop key estimates, key data used in developing the cost estimates, the mathematical extrapolation of such data, and management’s judgment regarding the range of possible outcomes relating to the specific cost and estimated customer consideration in the current regulatory environment.
+Program Accounting Estimates for the 737 Program — Refer to Notes 1 and 8 to the financial statements
+Critical Audit Matter Description
+The Company uses program accounting to compute the cost of sales and gross margin for each commercial airplane program. The process of determining a commercial airplane program’s gross margin involves estimating the future revenue and costs of the program to complete the accounting quantity. The 737 program is experiencing a production environment with increased dependency on external factors, which results in increased complexities and related financial risks. Specifically, the 737 program is experiencing increased oversight from the Federal Aviation Administration (FAA) in approving future production rate increases. The 737 program is also experiencing constraints from the Company’s key suppliers and is currently working with suppliers to ensure they can meet future production rate increases. There is inherent uncertainty in the program’s production rate schedule as the estimate is subject to significant variability in these external factors.

@@ -1,0 +1,40 @@
+210
+Corporate Loan Delinquencies and Non-Accrual Details at December 31, 2024
+Corporate Loan Delinquencies and Non-Accrual Details at December 31, 2023
+(1)
+Corporate loans that are
+90
+days or more past due are generally classified as non-accrual. Corporate loans are considered past due when principal or interest is contractually due but unpaid.
+(2)
+Non-accrual loans generally include those loans that are
+90
+days or more past due or those loans for which Citi believes, based on actual experience and a forward-looking assessment of the collectibility of the loan in full, that the payment of interest and/or principal is doubtful.
+(3)
+Loans less than
+30
+days past due are presented as current.
+(4)
+The Total loans column includes loans at fair value, which are not included in the various delinquency columns and, therefore, the tables’ total rows will not cross-foot.
+(5)
+Excludes $(
+72
+) million of unallocated portfolio-layer hedges cumulative basis adjustments at December 31, 2024.
+Citigroup has a risk management process to monitor, evaluate and manage the principal risks associated with its corporate loan portfolio. As part of its risk management process, Citi assigns numeric risk ratings to its corporate loan facilities based on quantitative and qualitative assessments of the obligor and facility. These risk ratings are reviewed at least annually or more often if material events related to the obligor or facility warrant. Factors considered in assigning the risk ratings include financial condition of the obligor, qualitative assessment of management and strategy, amount and sources of repayment, amount and type of collateral and guarantee arrangements, amount and type of any contingencies associated with the obligor and the obligor’s industry and geography.
+The obligor risk ratings are defined by ranges of default probabilities. The facility risk ratings are defined by ranges of loss norms, which are the product of the probability of default and the loss given default. The investment-grade rating categories are similar to the category BBB-/Baa3 and above as defined by S&P and Moody’s. Loans classified according to the bank regulatory definitions as special mention, substandard, doubtful and loss will have risk ratings within the non-investment-grade categories.
+211
+Corporate Loans Credit Quality Indicators
+212
+(1)
+Recorded investment in a loan includes net deferred loan fees and costs, unamortized premium or discount, less any direct write-downs.
+(2)
+There were no significant revolving line of credit arrangements that converted to term loans during the year.
+(3)
+Held-for-investment loans are accounted for on an amortized cost basis.
+(4)
+Includes certain short-term loans with less than one year in tenor.
+(5)
+Other includes installment and other, lease financing and loans to government and official institutions.
+(6)
+Loans at fair value include loans to commercial and industrial, financial institutions, mortgage and real estate and other.
+(7)
+Excludes

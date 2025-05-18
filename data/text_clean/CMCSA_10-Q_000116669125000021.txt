@@ -1,142 +1,1387 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
+cmcsa-20250331
+Q1
+false
+2025
+December 31
+0001166691
+adopted
+adopted
+terminated
+terminated
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+cmcsa:segment
+xbrli:pure
+0001166691
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:CommonClassAMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes0000PercentDue2026Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes0.250percentDue2027Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes1.500percentDue2029Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes0250PercentDue2029Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes0.750percentdue2032Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes3.250PercentDue2032Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes1.875percentdue2036Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes3.550PercentDue2036Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes1.250percentdue2040Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes5.250PercentDue2040Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:Notes5.50PercentDue2029Member
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExchangeableSubordinatedDebentures2.0PercentDue2029Member
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:CommonClassAMember
+2025-04-15
+0001166691
+us-gaap:CommonClassBMember
+2025-04-15
+0001166691
+2024-01-01
+2024-03-31
+0001166691
+2024-12-31
+0001166691
+2023-12-31
+0001166691
+2025-03-31
+0001166691
+2024-03-31
+0001166691
+us-gaap:CommonClassAMember
+2024-12-31
+0001166691
+us-gaap:CommonClassAMember
+2025-03-31
+0001166691
+us-gaap:CommonClassBMember
+2025-03-31
+0001166691
+us-gaap:CommonClassBMember
+2024-12-31
+0001166691
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2024-12-31
+0001166691
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2023-12-31
+0001166691
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2025-03-31
+0001166691
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2024-03-31
+0001166691
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001166691
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001166691
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001166691
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001166691
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001166691
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001166691
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001166691
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001166691
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001166691
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001166691
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0001166691
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001166691
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001166691
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001166691
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001166691
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001166691
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001166691
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001166691
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001166691
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:BusinessServicesConnectivitySegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:StudiosSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:ThemeParksSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:BusinessServicesConnectivitySegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:StudiosSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:ThemeParksSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:BusinessServicesConnectivitySegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:StudiosSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ThemeParksSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+srt:ConsolidationEliminationsMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:MediaStudiosThemeParksSegmentsHeadquartersAndOtherMember
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:CorporateAndOtherTypeMember
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:BusinessServicesConnectivitySegmentMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:StudiosSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+cmcsa:ThemeParksSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:ExternalCustomersMember
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:BusinessServicesConnectivitySegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:StudiosSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+cmcsa:ThemeParksSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:IntersegmentEliminationMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:BusinessServicesConnectivitySegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:StudiosSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ThemeParksSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+srt:ConsolidationEliminationsMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:MediaStudiosThemeParksSegmentsHeadquartersAndOtherMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:CorporateAndOtherTypeMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticBroadbandMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticBroadbandMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticWirelessMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticWirelessMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:InternationalConnectivityMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:InternationalConnectivityMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ResidentialConnectivityMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ResidentialConnectivityMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:VideoMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:VideoMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+us-gaap:AdvertisingMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+us-gaap:AdvertisingMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:OtherMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:OtherMember
+cmcsa:ResidentialConnectivityAndPlatformsSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticAdvertisingMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticAdvertisingMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticDistributionMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:DomesticDistributionMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:InternationalNetworksMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:InternationalNetworksMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:OtherMember
+cmcsa:MediaSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:OtherMember
+cmcsa:MediaSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ContentLicensingMember
+cmcsa:StudiosSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:ContentLicensingMember
+cmcsa:StudiosSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:TheatricalMember
+cmcsa:StudiosSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:TheatricalMember
+cmcsa:StudiosSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:OtherMember
+cmcsa:StudiosSegmentMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OperatingSegmentsMember
+cmcsa:OtherMember
+cmcsa:StudiosSegmentMember
+2024-01-01
+2024-03-31
+0001166691
+us-gaap:NotesReceivableMember
+us-gaap:UnbilledRevenuesMember
+cmcsa:EquipmentInstallmentPlanMember
+2025-03-31
+0001166691
+us-gaap:NotesReceivableMember
+us-gaap:UnbilledRevenuesMember
+cmcsa:EquipmentInstallmentPlanMember
+2024-12-31
+0001166691
+cmcsa:NitelMember
+us-gaap:SubsequentEventMember
+2025-04-01
+2025-04-25
+0001166691
+cmcsa:AtairosMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:AtairosMember
+2025-01-01
+2025-03-31
+0001166691
+cmcsa:AtairosMember
+2025-03-31
+0001166691
+cmcsa:AtairosMember
+2024-12-31
+0001166691
+cmcsa:AtairosMember
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+2025-03-31
+0001166691
+cmcsa:ShortTermInstrumentsMember
+2024-12-31
+0001166691
+cmcsa:ShortTermInstrumentsMember
+2025-03-31
+0001166691
+us-gaap:OtherInvestmentsMember
+2025-01-01
+2025-03-31
+0001166691
+us-gaap:OtherInvestmentsMember
+2024-01-01
+2024-03-31
+0001166691
+cmcsa:UniversalBeijingResortMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-03-31
+0001166691
+cmcsa:UniversalBeijingResortMember
+cmcsa:UniversalBeijingResortTermLoansMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-03-31
+0001166691
+cmcsa:UniversalBeijingResortMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2024-12-31
+0001166691
+cmcsa:UniversalBeijingResortMember
+cmcsa:UniversalBeijingResortTermLoansMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2024-12-31
+0001166691
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-31
+0001166691
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0001166691
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-03-31
+0001166691
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0001166691
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-03-31
+0001166691
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-31
+0001166691
+us-gaap:RestrictedStockUnitsRSUMember
+cmcsa:ManagementGrantMember
+2025-03-01
+2025-03-31
+0001166691
+cmcsa:ManagementGrantMember
+2025-03-01
+2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+For the quarterly period ended
+March 31, 2025
+Or
+For the transition period from                       to
+Pennsylvania
+One Comcast Center
+Philadelphia
+,
+PA
+19103-2838
+(
+215
+)
+286-1700
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding twelve months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date:
+As of April 15, 2025, there were
+3,724,259,552
+shares of Comcast Corporation Class A common stock and
+9,444,375
+shares of Class B common stock outstanding.
+TABLE OF CONTENTS
+Explanatory Note
+This Quarterly Report on Form 10-Q is for the three months ended March 31, 2025. This Quarterly Report on Form 10-Q modifies and supersedes documents filed before it. The U.S. Securities and Exchange Commission (“SEC”) allows us to “incorporate by reference” information that we file with it, which means that we can disclose important information to you by referring you directly to those documents. Information incorporated by reference is considered to be part of this Quarterly Report on Form 10-Q. In addition, information that we file with the SEC in the future will automatically update and supersede information contained in this Quarterly Report on Form 10-Q. Unless indicated otherwise, throughout this Quarterly Report on Form 10-Q, we refer to Comcast and its consolidated subsidiaries as “Comcast,” “we,” “us” and “our.”
+Numerical information in this report is presented on a rounded basis using actual amounts. Minor differences in totals and percentage calculations may exist due to rounding.
+CAUTION CONCERNING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q includes statements that may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are not historical facts or statements of current conditions, but instead represent only our beliefs regarding future events, many of which, by their nature, are inherently uncertain and outside of our control. These may include estimates, projections and statements relating to our business plans, objectives and expected operating results, which are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. These forward-looking statements are generally identified by words such as “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “potential,” “strategy,” “future,” “opportunity,” “commit,” “plan,” “goal,” “may,” “should,” “could,” “will,” “would,” “will be,” “will continue,” “will likely result” and similar expressions. In evaluating these statements, you should consider various factors, including the risks and uncertainties we describe in the “Risk Factors” sections of our Forms 10-K and 10-Q and in other reports we file with the SEC.
+Any of these factors could cause our actual results to differ materially from those expressed or implied by our forward-looking statements, which could adversely affect our businesses, results of operations or financial condition. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events or otherwise.
+Our businesses may be affected by, among other things, the following:
+•
+our businesses operate in highly competitive and dynamic industries, and our businesses and results of operations could be adversely affected if we do not compete effectively
+•
+changes in consumer behavior continue to adversely affect our businesses and challenge existing business models
+•
+a decline in advertisers’ expenditures or changes in advertising markets could negatively impact our businesses
+•
+our success depends on consumer acceptance of our content, and our businesses may be adversely affected if our content fails to achieve sufficient consumer acceptance
+•
+programming expenses for our video services are increasing on a per subscriber basis, which could adversely affect our video businesses
+•
+the loss of programming distribution agreements, or the renewal of these agreements on less favorable terms, could adversely affect our businesses
+•
+our businesses depend on using and protecting certain intellectual property rights and on not infringing, misappropriating or otherwise violating the intellectual property rights of others
+•
+we may be unable to obtain necessary hardware, software and operational support
+•
+our businesses depend on keeping pace with technological developments
+•
+a cyber attack, information or security breach, or technology disruption or failure may negatively impact our ability to conduct our business or result in the misuse of confidential information, all of which could adversely affect our business, reputation and results of operations
+•
+weak economic conditions may have a negative impact on our businesses
+•
+acquisitions and other strategic initiatives present many risks, and we may not realize the financial and strategic goals that we had contemplated
+•
+we face risks relating to doing business internationally that could adversely affect our businesses
+•
+natural disasters, severe weather and other uncontrollable events could adversely affect our business, reputation and results of operations
+•
+the loss of key management personnel or popular on-air and creative talent could have an adverse effect on our businesses
+•
+labor disputes, whether involving employees or sports organizations, may disrupt our operations and adversely affect our businesses
+•
+we are subject to regulation by federal, state, local and foreign authorities, which impose additional costs and restrictions on our businesses
+•
+unfavorable litigation or governmental investigation results could require us to pay significant amounts or lead to onerous operating procedures
+•
+our Class B common stock has substantial voting rights and separate approval rights over several potentially material transactions, and our Chairman and CEO has considerable influence over our company through his beneficial ownership of our Class B common stock
+Table of Contents
+PART I: FINANCIAL INFORMATION
+ITEM 1: FINANCIAL STATEMENTS
+Comcast Corporation
+Condensed Consolidated Statements of Income
+(Unaudited)
+See accompanying notes to condensed consolidated financial statements.
 1
-Twitter
+Table of Contents
+Comcast Corporation
+Condensed Consolidated Statements of Comprehensive Income
+(Unaudited)
+See accompanying notes to condensed consolidated financial statements.
 2
-Facebook
+Table of Contents
+Comcast Corporation
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+See accompanying notes to condensed consolidated financial statements.
 3
-RSS
+Table of Contents
+Comcast Corporation
+Condensed Consolidated Balance Sheets
+(Unaudited)
+See accompanying notes to condensed consolidated financial statements.
 4
-YouTube
+Table of Contents
+Comcast Corporation
+Condensed Consolidated Statements of Changes in Equity
+(Unaudited)
+See accompanying notes to condensed consolidated financial statements.
 5
-Flickr
+Table of Contents
+Comcast Corporation
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1:
+Condensed Consolidated Financial Statements
+Basis of Presentation
+We have prepared these unaudited condensed consolidated financial statements based on SEC rules that permit reduced disclosure for interim periods. These financial statements include all adjustments that are necessary for a fair presentation of our consolidated results of operations, cash flows and financial condition for the periods shown, including normal, recurring accruals and other items. The consolidated results of operations for the interim periods presented are not necessarily indicative of results for the full year.
+The year-end condensed consolidated balance sheet was derived from audited financial statements but does not include all disclosures required by generally accepted accounting principles in the United States (“GAAP”). For a more complete discussion of our accounting policies and certain other information, refer to our consolidated financial statements included in our 2024 Annual Report on Form 10-K.
+In November 2024, we announced our intention to create SpinCo, a new independent publicly traded company comprised of select domestic cable television networks along with complementary digital assets through a tax-free spin-off. We are targeting to complete the spin-off by the end of 2025, subject to the satisfaction of customary conditions, including obtaining final approval from our Board of Directors, satisfactory completion of SpinCo financings, receipt of tax opinions and receipt of any regulatory approvals. There can be no assurance that a separation transaction will occur, or, if one does, of its terms or timing. The condensed consolidated financial statements and related notes do not reflect the proposed spin-off.
+Reclassifications
+Certain prior period amounts have been reclassified to conform to the current period presentation. Refer to Note 3 for a discussion of the changes in our presentation of disaggregated revenue.
+Recent Accounting Pronouncements
+Income Tax Disclosures
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued updated accounting guidance related to income tax disclosures. The updated accounting guidance, among other things, requires additional disclosure primarily related to the income tax rate reconciliation and income taxes paid. We will adopt the updated accounting guidance in our Annual Report on Form 10-K for the year ending December 31, 2025.
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued updated accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning in our Annual Report on Form 10-K for the year ending December 31, 2027.
+Note 2:
+Segment Information
+We are a global media and technology company with
+five
+segments: Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios and Theme Parks.
+Our financial data by segment is presented in the tables below. We do not present asset information for our segments as this information is not used to allocate resources.
 6
-LinkedIn
+Table of Contents
+Comcast Corporation
 7
-Pinterest
+Table of Contents
+Comcast Corporation
+(a)
+Our most significant intersegment revenue transactions include distribution revenue in Media related to fees from Residential Connectivity & Platforms for the rights to distribute television programming, and content licensing revenue in Studios for licenses of owned content to Media.
+(b)
+Includes the operations of our Sky-branded video services and television networks in Germany; Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania; and Xumo, our consolidated streaming platform joint venture with Charter Communications. Corporate and other also includes overhead and personnel costs for Corporate.
+(c)
+The significant expense categories and amounts align with the segment-level information that is regularly provided to our chief operating decision maker. Intersegment expenses are included in the amounts shown.
+(d)
+Other for each segment primarily includes:
+Residential Connectivity & Platforms and Business Services Connectivity: technical and support; direct product costs; marketing and promotion; customer service; administrative personnel costs; franchise and other regulatory fees; fees paid to third parties where we sell advertising on their behalf; bad debt; and other business, headquarters and support costs, including building and office expenses, taxes and billing costs necessary to operate the Residential Connectivity & Platforms and Business Services Connectivity segments. Our chief operating decision maker uses aggregate expense information to manage the operations of the Business Services Connectivity segment.
+Media and Studios: salaries, employee benefits, rent and other overhead expenses.
+Theme Parks: theme park operations, including repairs and maintenance and related administrative expenses; food, beverage and merchandise costs; labor costs; and sales and marketing costs. Our chief operating decision maker uses aggregate expense information to manage the operations of the Theme Parks segment.
+(e)
+We use Adjusted EBITDA as the measure of profit or loss for our segments. From time to time we may report the impact of certain events, gains, losses or other charges related to our segments within Corporate and other.
+(f)
+Includes overhead, personnel costs and other costs necessary to operate the Media, Studios and Theme Parks segments.
 8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of Contents
+Comcast Corporation
+Note 3:
+Revenue
+(a)
+Beginning in the first quarter of 2025, commission revenue from the sale of certain direct to consumer (“DTC”) streaming services and revenue related to certain equipment are presented in video revenue. Previously, these amounts were presented in domestic broadband and international connectivity. Prior periods have been reclassified to reflect the current year presentation.
+(b)
+See Note 2 for additional information on intersegment revenue transactions.
+Condensed Consolidated Balance Sheets
+The table below summarizes our accounts receivable and other balances that are not separately presented in our condensed consolidated balance sheets that relate to the recognition of revenue and collection of the related cash.
+Our accounts receivables include amounts not yet billed related to equipment installment plans, as summarized in the table below.
+9
+Table of Contents
+Comcast Corporation
+Note 4:
+Programming and Production Costs
+(a) Amount includes amortization of owned content of $
+2.2
+billion and $
+2.1
+billion for the three months ended March 31, 2025 and 2024, respectively, as well as participations and residuals expenses.
+Capitalized Film and Television Costs
+Note 5:
+Debt
+As of March 31, 2025, our debt had a carrying value of $
+99.1
+billion and an estimated fair value of $
+90.6
+billion. As of December 31, 2024, our debt had a carrying value of $
+99.1
+billion and an estimated fair value of $
+89.8
+billion. The estimated fair value of our publicly traded debt was primarily based on Level 1 inputs that use quoted market value for the debt. The estimated fair value of debt for which there are no quoted market prices was based on Level 2 inputs that use interest rates available to us for debt with similar terms and remaining maturities.
+Note 6:
+Significant Transactions
+Acquisitions
+In April 2025, we acquired Nitel, a network-as-a-service managed service provider, for total cash consideration of $
+1.3
+billion. The acquisition will enhance our ability to serve and provide connectivity solutions to enterprise customers. Nitel’s results of operations will be included in our condensed consolidated results of operations following the date of acquisition and will be reported in our Business Services Connectivity segment. The assets and liabilities acquired as a result of the transaction will be recorded at their estimated fair values; however, due to the limited time since the acquisition date, the initial acquisition accounting is incomplete.
+10
+Table of Contents
+Comcast Corporation
+Note 7:
+Investments and Variable Interest Entities
+Investment and Other Income (Loss), Net
+The amount of unrealized gains (losses), net recognized in the
+three
+months ended March 31, 2025 and 2024 that related to marketable and nonmarketable equity securities still held as of the end of each reporting period was $(
+30
+) million and $(
+70
+) million, respectively.
+Investments
+Equity Me
+thod Investments
+The amount of cash distributions received from equity method investments presented within operating activities in the condensed consolidated statements of cash flows in the three months ended March 31, 2025 and 2024 was $
+27
+million and $
+32
+million, respectively.
+Atairos
+Atairos is a variable interest entity (“VIE”) that follows investment company accounting and records its investments at their fair values each reporting period with the net gains or losses reflected in its statement of operations. We recognize our share of these gains and losses in equity in net income (losses) of investees, net. For both the three months ended March 31, 2025 and 2024, we made cash capital contributions totaling $
+13
+million. As of March 31, 2025 and December 31, 2024, our investment, inclusive of advances classified withi
+n other investments, was $
+4.9
+billion and $
+5.1
+billion, respectively. As of March 31, 2025, our remaining unfunded capital commitment was $
+1.4
+billion.
+Other Investments
+Other investments also includes certain short-term instruments. We had
+no
+short-term instruments as of
+March 31, 2025
+and
+December 31, 2024
+. There were
+no
+proceeds from or purchases of short-term instruments for the three months
+ended March 31, 2025. Proceeds from short-term instruments were
+$
+255
+million and purchases of short-term instruments were $
+257
+million for the three
+months ended March 31, 2024.
+11
+Table of Contents
+Comcast Corporation
+Consolidated Variable Interest Entity
+Universal Beijing Resort
+We own a
+30
+% interest in a Universal theme park and resort in Beijing, China (“Universal Beijing Resort”). Universal Beijing Resort is a consolidated VIE with the remaining interest owned by a consortium of Chinese state-owned companies. The construction was funded through a combination of debt financing and equity contributions from the partners in accordance with their equity interests. As of March 31, 2025, Universal Beijing Resort had $
+3.5
+billion of debt outstanding, including $
+3.1
+billion principal amount of a term loan outstanding under the debt financing agreement. As of December 31, 2024, Universal Beijing Resort had $
+3.4
+billion of debt outstanding, including $
+3.0
+billion principal amount of a term loan outstanding under the debt financing agreement.
+As of both March 31, 2025 and December 31, 2024, our condensed consolidated balance sheets included assets and liabilities of Universal Beijing Resort totaling $
+7.3
+billion and $
+7.0
+billion, respectively. The assets and liabilities of Universal Beijing Resort primarily consist of property and equipment, operating lease assets and liabilities, and debt.
+Note 8:
+Equity and Share-Based Compensation
+Weighted-Average Common Shares Outstanding
+Weighted-average common shares outstanding used in calculating diluted earnings per common share attributable to Comcast Corporation shareholders (“diluted EPS”) considers the impact of potentially dilutive securities using the treasury stock method. Antidilutive securities represent the number of potential common shares related to share-based compensation awards that were excluded from diluted EPS because their effect would have been antidilutive.
+Accumulated Other Comprehensive Income (Loss)
+Share-Based Compensation
+Our share-based compensation plans consist primarily of awards of restricted share units (“RSUs”) and stock options to certain employees and directors as part of our long-term incentive compensation structure. Additionally, through our employee stock purchase plans, employees are able to purchase shares of our common stock at a discount through payroll deductions.
+In March 2025, we granted
+40
+million RSUs and
+1
+million stock options under our annual management awards program. The weighted-average fair values associated with these grants were $
+35.78
+per RSU and $
+7.21
+per stock option. During the
+three
+months ended March 31, 2025 and 2024, share-based compensation expense recognized in our condensed consolidated statements of income was $
+321
+million and $
+303
+million, respectively. As of March 31, 2025, we had unrecognized pretax compensation expense of $
+3.0
+billion related to unvested RSUs and unvested stock options.
+12
+Table of Contents
+Comcast Corporation
+Note 9:
+Supplemental Financial Information
+Cash Payments for Interest and Income Taxes
+(a) Cash payments for income taxes for the three months ended March 31, 2025 include $
+220
+million related to the purchase of third-party transferable tax credits.
+Noncash Activities
+During the three months ended March 31, 2025:
+•
+we acquired $
+2.1
+billion of property and equipment and intangible assets that were accrued but unpaid
+•
+we recorded a liability of $
+1.2
+billion for a quarterly cash dividend of $
+0.33
+per common share paid in April 2025
+During the three months ended March 31, 2024:
+•
+we acquired $
+2.0
+billion of property and equipment and intangible assets that were accrued but unpaid
+•
+we recorded a liability of $
+1.2
+billion for a quarterly cash dividend of $
+0.31
+per common share paid in April 2024
+Cash, Cash Equivalents and Restricted Cash
+The following table provides a reconciliation of cash, cash equivalents and restricted cash reported in the condensed consolidated balance sheets to the total of the amounts reported in our condensed consolidated statements of cash flows.
+Note 10:
+Commitments and Contingencies
+Contingencies
+We are subject to legal proceedings and claims that arise in the ordinary course of our business. While the amount of ultimate liability with respect to such proceedings and claims is not expected to materially affect our
+results of operations, cash flows or financial position, any such legal proceedings or claims could be time-consuming and injure our reputation.
+13
+Table of Contents
+ITEM 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion is provided as a supplement to, and should be read in conjunction with, the condensed consolidated financial statements and related notes (“Notes”) included in this Quarterly Report on Form 10-Q and our 2024 Annual Report on Form 10-K.
+Overview
+We are a global media and technology company with two primary businesses: Connectivity & Platforms and Content & Experiences. We present the operations of (1) our Connectivity & Platforms business in two segments: Residential Connectivity & Platforms and Business Services Connectivity; and
+(2) our Content & Experiences business in three segments: Media, Studios and Theme Parks.
+A substantial portion of our revenue comes from customers whose spending patterns may be affected by prevailing economic conditions. Uncertain economic conditions, including as a result of geopolitical dynamics, changes in trade policies and foreign exchange rates could adversely affect demand for our products or services and have a negative impact on our results of operations. For a discussion of these factors and other risks, refer to Risk Factors in Item 1A of our 2024 Annual Report on Form 10-K.
+Consolidated Operating Results
+Percentage changes that are considered not meaningful are denoted with NM.
+(a)
+Adjusted EBITDA is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 23 for additional information, including our definition and our use of Adjusted EBITDA, and for a reconciliation from net income attributable to Comcast Corporation to Adjusted EBITDA.
+Consolidated revenue
+remained consistent for the three months ended March 31, 2025 compared to the same period in
+2024 primarily due to decreases in the Connectivity & Platforms business and Corporate and Other, offset by an increase in the Content & Experiences business.
+Revenue for our segments and other businesses is discussed separately below under the heading “Segment Operating Results.”
+14
+Table of Contents
+Consolidated costs and expenses
+, excluding depreciation and amortization expense, decreased for the three months ended March 31, 2025 compared to the same period in
+2024
+primarily due to decreases in the Connectivity & Platforms business and Corporate and Other, partially offset by an increase in the Content & Experiences business. Costs and expenses for our segments and our corporate operations and other businesses are discussed separately below under the heading “Segment Operating Results.”
+Consolidated depreciation and amortization expense
+increased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to increased amortization of certain acquisition-related intangible assets related to the linear media business.
+Amortization expense from acquisition-related intangible assets totaled
+$789 million
+and
+$569 million
+for the three months ended March 31, 2025 and 2024, respectively. Amounts primarily relate to customer relationship intangible assets recorded in connection with the Sky transaction in 2018 and the NBCUniversal transaction in 2011.
+Consolidated interest expense
+increased for the three months ended March 31, 2025 primarily due to an increase in average debt outstanding and higher weighted-average interest rates in the current year period.
+Consolidated investment and other income (loss), net
+decreased for the three months ended March 31, 2025 compared to the same period in 2024.
+The chang
+e in equity in net income (losses) of investees, net was primarily due to our investment in Atairos. The income (losses) at Atairos were driven by fair value adjustments on its underlying investments with income (loss) of $(169) million and $195 million for the three months ended March 31, 2025
+and
+2024, respectively.
+The change in realized and unrealized gains (losses) on equity securities, net for the
+three months ended
+March 31, 2025 was primarily due to lower losses on nonmarketable securities in the current year period.
+The change in other income (loss), net for the three months ended March 31, 2025 primarily resulted from a gain related to an equity method investment and from higher income from insurance contracts in the prior year period.
+Consolidated income tax expense
+for the three months ended March 31, 2025 and 2024 reflects an effective income tax rate that differs from the federal statutory rate due to state and foreign income taxes and adjustments associated with uncertain tax positions. The decrease in income tax expense for the three months ended March 31, 2025 compared to the same period in 2024 was primarily driven by lower domestic income before income taxes.
+Consolidated net income (loss) attributable to noncontrolling interests
+is consistent
+f
+or the
+three months ended March 31, 2025
+compared to the same period in
+2024
+.
+15
+Table of Contents
+Segment Operating Results
+Our segment operating results are presented based on how we assess operating performance and internally report financial information. See Note 2 for additional information on our segments.
+Connectivity & Platforms Results of Operations
+(a)
+Our Adjusted EBITDA margin is Adjusted EBITDA as a percentage of revenue. We believe this metric is useful particularly as we continue to focus on growing our higher-margin businesses and improving overall operating cost management. The changes reflect the year-over-year basis point changes in the rounded Adjusted EBITDA margins.
+(b)
+Constant currency is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 23 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts.
+We continue to focus on growing our higher-margin connectivity businesses while managing overall operating costs. We also continue to invest in our network to support higher-speed broadband offerings and to expand the number of homes and businesses passed. Our customer relationship additions/(losses) continue to be negatively impacted by an increasingly competitive environment. We are focused on increasing our residential connectivity revenue through growth in average domestic broadband revenue per customer, as well as growth in domestic wireless and international connectivity revenue. At the same time, we expect continued declines in video revenue as a result of domestic customer net losses due to shifting video consumption patterns and the competitive environment, although customer net losses typically mitigate the impact of continued rate increases on programming expenses. We also expect continued declines in other revenue related to declines in wireline voice revenue. We are also focused on growing our Business Services Connectivity segment revenue by offering competitive services, including enterprise solutions.
+16
+Table of Contents
+Connectivity & Platforms Customer Metrics
+(a)
+Residential Connectivity & Platforms customer relationships generally represent the number of residential customer locations that subscribe to at least one of our services. International Residential Connectivity & Platforms customer relationships represent customers receiving Sky services in the United Kingdom and Italy. Because each of our services includes a variety of product tiers, which may change from time to time, net additions or losses in any one period will reflect a mix of customers at various tiers.
+(b)
+Business Services Connectivity customer metrics are gener
+ally counted based on the number of locations receiving services, including locations within our network in the United States, as well as locations outside of our network both in the United States and internationally. Certain arrangements whereby third parties provide connectivity services leveraging our network are also generally counted based on the number of locations served.
+(c)
+Domestic wireless lines represent the number of residential and business customers
+’
+wireless devices. An individual customer relationship may have multiple wireless lines.
+(d)
+Connectivity & Platforms domestic homes and businesses are considered passed if we can connect them to our network in the United States without further extending the transmission lines. Homes and businesses passed is an estimate based on the best available information.
+(e)
+Penetration is calculated by dividing the number of domestic customers located within our network by the number of domestic homes and businesses passed.
+(a)
+Constant currency is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 23 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts.
+Average monthly total revenue per customer relationship is impacted by rate adjustments and changes in the types and levels of services received by our residential and business customers, as well as changes in advertising and other revenue and in foreign currency exchange rates. While revenue from our individual service offerings is also impacted by changes in the allocation of revenue among services sold in a bundle, the allocation does not impact average monthly total revenue per customer relationship. Each of our services has a different contribution to Adjusted EBITDA margin. We use average monthly Adjusted EBITDA per customer relationship to evaluate the profitability of our customer base across our service offerings. We believe both metrics are useful to understand the trends in our business, and average monthly Adjusted EBITDA per customer relationship is useful particularly as we continue to focus on growing our higher-margin businesses.
+17
+Table of Contents
+Connectivity & Platforms — Supplemental Costs and Expenses Information
+Connectivity & Platforms supplemental costs and expenses information in the table below is presented on an aggregate basis across the Connectivity & Platforms segments as the segments use certain shared infrastructure, including our network in the United States. Costs and expenses information reported separately for the Residential Connectivity & Platforms and Business Services Connectivity segments includes each segment’s direct costs and an allocation of shared costs.
+(a)
+Programming expenses, which represent our most significant operating expense, are the fees we incur to provide video services to our customers, and primarily include fees related to the distribution of television network programming and fees charged for retransmission of the signals from local broadcast television stations. These expenses also include the costs of content on the Sky-branded entertainment television networks, including amortization of licensed content.
+(b)
+Technical and support expenses primarily consists of costs for labor to complete service call and installation activities; and costs for network operations and satellite transmission, product development, fulfillment and provisioning.
+(c)
+Direct product costs primarily consists of access fees related to using wireless and broadband networks owned by third parties to deliver our services and costs of products sold, including wireless devices and Sky Glass smart televisions.
+(d)
+Marketing and promotion expenses primarily consists of the costs associated with attracting new customers and promoting our service offerings.
+(e)
+Customer service expenses primarily consists of the personnel and other costs associated with customer service and certain selling activities.
+(f)
+Other expenses primarily consists of administrative personnel costs; franchise and other regulatory fees; fees paid to third parties where we sell advertising on their behalf; bad debt; building and office expenses, taxes and billing costs; and other business, headquarters and support costs necessary to operate the Connectivity & Platforms business.
+(g)
+Constant currency is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 23 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts.
+Residential Connectivity & Platforms Segment Results of Operations
+(a)
+Constant currency is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 23 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts.
+(b)
+Beginning in the first quarter of 2025, commission revenue from the sale of certain direct to consumer (“DTC”) streaming services and revenue related to certain equipment are presented in video revenue. Previously, these amounts were presented in domestic broadband and international connectivity. Prior periods have been reclassified to reflect the current year presentation.
+18
+Table of Contents
+Residential Connectivity & Platforms Segment – Revenue
+Domestic broadband revenue
+increased for the three months ended March 31, 2025 compared to the same period in 2024 due to an increase in average rates, which offset a decline in the number of domestic broadband customers.
+Domestic wireless revenue
+increased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to an increase in the number of customer lines and device sales.
+International connectivity revenue
+increased for the three
+months ended March 31, 2025 compared to the same period in 2024
+due to an increase in broadband revenue resulting from an increase in average rates and an increase in wireless revenue resulting from an increase in the sale of wireless services.
+Video
+revenue
+decreased for the
+three
+months ended March 31, 2025 compared to the same period in 2024 due to a decline in the overall number of video customers, partially offset by an overall increase in average rates.
+Advertising
+revenue
+decreased for the three months ended March 31, 2025 compared to the same period in 2024 due to lower international advertising and lower domestic political and nonpolitical advertising.
+Other
+revenue
+decreased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to a decrease in residential wireline voice revenue driven by a decline in the number of customers.
+Residential Connectivity & Platforms Segment – Costs and Expenses
+Programming expenses
+decreased for the
+three months ended
+March 31, 2025 compared to the same period in 2024 primarily due to a decline in the number of domestic video subscribers, partially offset by rate increases under our domestic programming contracts and an increase in programming expenses for our international sports networks.
+Other expenses
+remained consistent for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to increased direct product costs and increased spending on marketing and promotion, offset by lower technical and support and customer service expenses.
+Business Services Connectivity Segment Results of Operations
+Business services connectivity revenue
+increased for the three months ended March 31, 2025 compared to the same period in 2024 due to an increase in revenue from enterprise solutions offerings and from higher average rates from small business customers.
+Business services connectivity costs and expenses
+increased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to an increase in direct product costs
+.
+19
+Table of Contents
+Content & Experiences Results of Operations
+We operate our Media segment as a combined television and streaming business. We expect that the number of subscribers and audience ratings at our linear television networks will continue to decline as a result of the competitive environment and shifting video consumption patterns, which we aim to mitigate over time by growth in paid subscribers and advertising revenue at Peacock. We expect to continue to incur significant costs related to content and marketing at Peacock. Revenue and programming expenses are also impacted by the timing of certain sporting events, including our acquisition of NBA rights, which begin in the fourth quarter of 2025.
+Our Studios segment generates revenue primarily from third parties and from licensing content to our Media segment. While results of operations for our Studios segment are not impacted, results for our total Content & Experiences business may be impacted as the Studios segment licenses content to the Media segment, including for Peacock, rather than licensing the content to third parties.
+We continue to invest significantly in existing and new theme park attractions, hotels and infrastructure, including Epic Universe in Orlando, which is scheduled to open in May 2025, as well as in new destinations and experiences, which we believe will have a positive impact on attendance and guest spending at our theme parks.
+Media Segment Results of Operations
+20
+Table of Contents
+Media Segment – Revenue
+Domestic advertising revenue
+decreased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to a decrease in revenue at our linear television networks, partially offset by an increase in revenue at Peacock.
+Domestic distribution revenue
+remained consistent for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to an increase in revenue at Peacock, offset by a decrease in revenue at our linear television networks.
+International networks revenue
+increased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to an increase in revenue associated with the distribution of sports networks.
+*        *        *
+Media segment total revenue included $1.2 billion and $1.1 billion related to Peacock for the three months ended March 31, 2025 and
+2024
+, respectively. We had 41 million and 34 million paid subscribers of Peacock as of March 31, 2025 and 2024, respectively. Peacock paid subscribers represent customers from which we recognize distribution revenue, including both customers that pay us directly and customers receiving the service through arrangements with companies who sell Peacock on our behalf. In these arrangements, paid subscribers are counted based on the terms of the arrangement when the related revenue is recognized. As a result, certain customers are counted when they activate their account, while other customers are counted when the Peacock service is made available to them as part of their bundled service offering regardless of whether it is activated. The increase in paid subscribers in 2025 is mainly due to availability of Peacock through a third-party’s bundled service offering.
+Media Segment – Costs and Expenses
+Programming and production costs
+decreased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to lower sports programming costs at Peacock and our domestic television networks, mainly reflecting lower sports volumes compared to the prior year period. This decrease was partially offset by an increase in entertainment content costs for our domestic television networks and an increase in sports programming costs for our international television networks.
+Marketing and promotion expenses
+increased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to higher costs related to marketing for entertainment programming, partially offset by decreased spending on marketing at Peacock.
+*        *        *
+Media segment total costs and expenses included $1.4 billion and
+$1.7 billion related to Peacock for the
+three months ended
+March 31, 2025 and 2024
+,
+respectively.
+Studios Segment Results of Operations
+Studios Seg
+ment – Revenue
+Content licensing revenue
+increased for the three months ended
+March 31, 2025 compared to the same period in 2024
+primarily due to the timing of when content was made available by our film and television studios.
+Theatrical revenue
+decreased for
+the
+three months ended
+March 31, 2025 compared to the same period in 2024 primarily due to higher revenue from releases in the prior year period, including
+Kung Fu Panda 4
+and
+Migration
+, compared to revenue from recent releases impacting the current year period, including
+Dog Man
+and
+Nosferatu
+.
+21
+Table of Contents
+Studios Segment – Costs and Expenses
+Programming and production costs
+increased for the three months ended
+March 31, 2025
+compared to the same period in 2024 primarily due to higher costs associated with content licensing sales.
+Marketing and promotion expenses
+decreased for the
+three months ended
+March 31, 2025
+compared to the same period in 2024 primarily due to decreased spending on recent and upcoming theatrical film releases in the current year period.
+Theme Parks Segment Results of Operations
+Them
+e parks segment revenue
+decreased for the
+three months ended March 31, 2025 compared to the same period in 2024 primarily due to decreased attendance at our domestic theme parks.
+Theme parks segment costs and expenses
+increased for the
+three months ended March 31, 2025
+compared to the same period in 2024 primarily due to preopening costs for Epic Universe ahead of the scheduled opening in May 2025.
+Content & Experiences Headquarters, Other and Eliminations
+Headquarters and Other Results of Operations
+Headquarters and Other expenses primarily consists of overhead, personnel and other costs necessary to operate the Content & Experiences business.
+Eliminations
+Amounts represent eliminations of transactions between segments in our Content & Experiences business, the most significant being content licensing between the Studios and Media segments, which are affected by the timing of recognition of content licenses.
+Eliminations increase or decrease to the extent that additional content is made available to our other segments within the Content & Experiences business. Refer to Note 2 for additional information on transactions between our segments.
+22
+Table of Contents
+Corporate, Other and Eliminations
+Corporate and Other Results of Operations
+Corporate and Other primarily consists of overhead and personnel costs; Sky-branded video services and television networks in Germany; Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania; and Xumo, our consolidated streaming platform joint venture.
+Corporate and Other revenue
+decreased for the three
+months ended March 31, 2025 compared to the same period in 2024 primarily driven by a decrease in revenue from Comcast Spectacor.
+Corporate and Other costs and expenses
+decreased for the
+three months ended
+March 31, 2025
+c
+ompared to the same period in 2024 primarily due to lower costs related to Sky operations in Germany, partially offset by an increase at Xumo.
+Eliminations
+Percentage changes that are considered not meaningful are denoted with NM.
+Amounts represent eliminations of transactions between our Connectivity & Platforms, Content & Experiences and other businesses, the most significant being distribution of television network programming between the Media and Residential Connectivity & Platforms segments. Eliminations of transactions between segments within Content & Experiences are presented separately. Refer to Note 2 for additional information on transactions between our segments.
+Non-GAAP Financial Measures
+Consolidated Adjusted EBITDA
+Adjusted EBITDA is a non-GAAP financial measure and is the primary basis used to measure the operational strength and performance of our businesses as well as to assist in the evaluation of underlying trends in our businesses. This measure eliminates the significant level of noncash depreciation and amortization expense that results from the capital-intensive nature of certain of our businesses and from intangible assets recognized in business combinations. It is also unaffected by our capital and tax structures, and by our investment activities, including the results of entities that we do not consolidate, as our management excludes these results when evaluating our operating performance. Our management and Board of Directors use this financial measure to evaluate our consolidated operating performance and the operating performance of our operating segments and to allocate resources and capital to our operating segments. It is also a significant performance measure in our annual incentive compensation programs. Additionally, we believe that Adjusted EBITDA is useful to investors because it is one of the bases for comparing our operating performance with that of other companies in our industries, although our measure of Adjusted EBITDA may not be directly comparable to similar measures used by other companies.
+We define Adjusted EBITDA as net income attributable to Comcast Corporation before net income (loss) attributable to noncontrolling interests, income tax expense, investment and other income (loss), net, interest expense, depreciation and amortization expense, and other operating gains and losses (such as impairment charges related to fixed and intangible assets and gains or losses on the sale of long-lived assets), if any. From time to time, we may exclude from Adjusted EBITDA the impact of certain events, gains, losses or other charges (such as significant legal settlements) that affect the period-to-period comparability of our operating performance.
+We reconcile consolidated Adjusted EBITDA to net income attributable to Comcast Corporation. This measure should not be considered a substitute for operating income (loss), net income (loss), net income (loss) attributable to Comcast Corporation, or net cash provided by operating activities that we have reported in accordance with GAAP.
+23
+Table of Contents
+Reconciliation from Net Income Attributable to Comcast Corporation to Adjusted EBITDA
+(a)
+Amounts represent the impact of certain events, gains, losses or other charges that are excluded from Adjusted EBITDA, including costs related to our investment portfolio. For the three months ended March 31, 2025, amount also includes $22 million of other operating and administrative costs associated with the proposed spin-off of businesses within our Media segment.
+Constant Currency
+Constant currency and constant currency growth rates are non-GAAP financial measures that present our results of operations excluding the estimated effects of foreign currency exchange rate fluctuations. Certain of our businesses, including Connectivity & Platforms, have operations outside the United States that are conducted in local currencies. As a result, the comparability of the financial results reported in U.S. dollars is affected by changes in foreign currency exchange rates. In our Connectivity & Platforms business, we use constant currency and constant currency growth rates to evaluate the underlying performance of the businesses, and we believe they are helpful for investors because such measures present operating results on a comparable basis year over year to allow the evaluation of their underlying performance.
+Constant currency and constant currency growth rates are calculated by comparing the results for each comparable prior year period adjusted to reflect the average exchange rates from each current year period presented rather than the actual exchange rates that were in effect during the respective periods.
+Reconciliation of Connectivity & Platforms Constant Currency
+24
+Table of Contents
+Reconciliation of Residential Connectivity & Platforms Constant Currency
+Other Adjustments
+From time to time, we present adjusted information, such as revenue, to exclude the impact of certain events, gains, losses or other charges. This adjusted information is a non-GAAP financial measure. We believe, among other things, that the adjusted information may help investors evaluate our ongoing operations and can assist in making meaningful period-over-period comparisons.
+Liquidity and Capital
+Resources
+25
+Table of Contents
+Our businesses generate significant cash flows from operating activities. We believe that we will be able to continue to meet our current and long-term liquidity and capital requirements, including fixed charges, through our cash flows from operating activities; existing cash, cas
+h equivalents and investments; available borrowings under our existing credit facility; and our ability to obtain future external financing. We anticipate that we will continue to use a substantial portion of our cash flows from operating activities in repaying our debt obligations, funding our capital expenditures and cash paid for intangible assets, investing in business opportunities, and returning capital to shareholders.
+We maintain significant availability under our revolving credit facility and our commercial paper program to meet our short-term liquidity requirements. Our commercial paper program generally provides a lower-cost source of borrowing to fund our short-term working capital requirements. As of March 31, 2025, amounts available under our revolving credit facility, net of amounts outstanding under our commercial paper program and outstanding letters of credit and bank guarantees, totaled $11.8 billion.
+Our revolving credit facility contains a financial covenant pertaining to leverage, which is the ratio of debt to EBITDA, as defined in the agreement. Compliance with this financial covenant is tested on a quarterly basis. As of March 31, 2025, we met this financial covenant, and we expect to remain in compliance with this financial covenant.
+Operating Activit
+ies
+Components of Net Cash Provided by Operating Activities
+The variance in changes in operating assets and liabilities for the three months ended March 31, 2025 compared to the same period in 2024 was primarily related to decreases in receivables, increases in inventory, and the timing of amortization and related payments for our film and television costs.
+The decrease in payments of interest for the three months ended March 31, 2025 compared to the same period in 2024 was primarily due to the timing of interest payments on outstanding debt in the prior year period.
+Payments of income taxes increased for the three months ended March 31, 2025 compared to the same period in 2024 primarily due to higher payments for federal and foreign income taxes, offset by lower state income taxes in the current year period. Payments were also impacted by the timing of transferable tax credit purchases, as payments for certain tax credits used in the second half of 2024 were made in the current year period.
+Additionally, we expect to receive a federal income tax refund in the current year as a result of carrying back a capital loss created primarily as part of a 2024 internal corporate reorganization to offset capital gains recognized in our federal income tax returns for 2021 through 2023.
+Investing Activities
+Net cash used in investing activities decreased for the three months ended March 31, 2025 compared to the same period in 2024 primarily du
+e to
+de
+creased capital expenditures, decreased purchases of short-term investments,
+decreased cash paid related to the construction of Universal Beijing Resort, and decreased cash paid for intangible assets related to software development in the current year period. This decrease was partially offset by decreased proceeds from the maturity of short-term investments in the current year period. Capital expenditures decreased for the three months ended March 31, 2025 compared to the same period in 2024 primarily reflecting decreased spending by the Connectivity & Platforms businesses on customer premise equipment and scalable infrastructure, as well as decreased spending on theme park attractions.
+26
+Table of Contents
+In the fourth quarter of 2023, we exercised our put right requiring Disney to purchase our interest in Hulu and received $8.6 billion, representing $9.2 billion for our share of Hulu’s minimum equity value presented as an advance on the sale of our investment in our condensed consolidated balance sheet, less $557 million for our share of prior capital calls. We expect to receive additional proceeds for the sale of our interest in Hulu following the final determination of Hulu’s fair value pursuant to a third-party appraisal process, at which time we will recognize the sale of our interest.
+Financing Activities
+Net cash used in financing activities increased for the three months ended March 31, 2025 compared to the same period in
+2024
+primarily due to higher repurchases and repayments of debt and higher dividends paid in the current year period. This increase was partially offset by a de
+crease in repurchases of common stock in the current year period.
+For the three months ended March 31, 2025, we made debt repayments of $604 million, including $419 million principal amount of notes due at maturity, $129 million of 3.950% Notes due 2025 and $56 million of 3.375% Notes due 2025.
+We have made, and may from time to time in the future make, optional repayments on our debt obligations, which may include repurchases or exchanges of our outst
+an
+ding public notes and debentures, depending on various factors, such as market conditions. Any such repurchases may be effected through privately negotiated transactions, market transactions, tender offers, redemptions or otherwise. In particular, we may repurchase varying amounts of our outstanding public notes and debentures with short to medium term maturities through privately negotiated or market transactions. See Notes
+5 and 7 for additional information on our financing activities.
+Share Repurchases and Dividends
+During the three months ended March 31, 2025, we repurchased a total of 56 million shares of our Class A common stock for $2.0 billion. In January 2025, our Board of Directors terminated the existing share repurchase program authorization and approved a new share repurchase program authorization of $15.0 billion, which has no expiration date. As of March 31, 2025, we had $13.7 billion re
+maining under the authorization. We did not purchase any shares outside of this program. W
+e expect to repurchase additional shares of our Class A common stock under this new authorization in the open market or in private transactions, subject to market and other conditions.
+In addition, we paid $219 million and $256 million for the three months ended
+March 31, 2025
+and 2024, respectively, related to employee taxes associated with the administration of our share-based compensation plans.
+In January 2025, our Board of Directors approved a 6.5% increase in our dividend to $1.32 per share on an annualized basis and approved our first quarter dividend of $0.33 per share, which was paid in April 2025. During the three months ended March 31, 2025, we paid dividends of
+$1.2 billion.
+We expect to continue to pay quarterly dividends, although each dividend is subject to approval by our Board of Directo
+r
+s.
+Guarantee Structure
+Our debt is primarily issued at Comcast, although we also have debt at certain of our subsidiaries as a result of acquisitions and other issuances. A substantial amount of this debt is subject to guarantees by Comcast and by certain subsidiaries that we have put in place to simplify our capital structure. We believe this guarantee structure provides liquidity benefits to debt investors and helps to simplify credit analysis with respect to relative value considerations of guaranteed subsidiary debt.
+27
+Table of Contents
+Debt and Guarantee Structure
+(a)
+NBCUniversal Media, LLC (“NBCUniversal”), Comcast Cable Communications, LLC (“Comcast Cable”) and Comcast Holdings Corporation (“Comcast Holdings”), which is included within other debt subject to one-way guarantees, are each consolidated subsidiaries subject to the periodic reporting requirements of the SEC. The guarantee structures and related disclosures in this section, together with Exhibit 22 to our 2024 Annual Report on Form 10-K, satisfy these reporting obligations.
+(b)
+Universal Beijing Resort debt financing is secured by the assets of Universal Beijing Resort and the equity interests of the investors. See Note 7 for additional information.
+Cross-Guarantees
+Comcast, NBCUniversal and Comcast Cable (the “Guarantors”) fully and unconditionally, jointly and severally, guarantee each other’s debt securities. NBCUniversal and Comcast Cable also guarantee other borrowings of Comcast, including its revolving credit facility. These guarantees rank equally with all other general unsecured and unsubordinated obligations of the respective Guarantors. However, the obligations of the Guarantors under the guarantees are structurally subordinated to the indebtedness and other liabilities of their respective non-guarantor subsidiaries. The obligations of each Guarantor are limited to the maximum amount that would not render such Guarantor’s obligations subject to avoidance under applicable fraudulent conveyance provisions of U.S. and non-U.S. law. Each Guarantor’s obligations will remain in effect until all amounts payable with respect to the guaranteed securities have been paid in full. However, a guarantee by NBCUniversal or Comcast Cable of Comcast’s debt securities, or by NBCUniversal of Comcast Cable’s debt securities, will terminate upon a disposition of such Guarantor entity or all or substantially all of its assets.
+The Guarantors are each holding companies that principally hold investments in, borrow from and lend to non-guarantor subsidiary operating companies; issue and service third-party debt obligations; repurchase shares and pay dividends; and engage in certain corporate and headquarters activities. The Guarantors are generally dependent on non-guarantor subsidiary operating companies to fund these activities.
+As of March 31, 2025 and December 31, 2024, the combined Guarantors have noncurrent notes payable to non-guarantor subsidiaries of $93 billion and $88 billion, respectively, and noncurrent notes receivable from non-guarantor subsidiaries of $14 billion for both periods. This financial information is that of the Guarantors presented on a combined basis with intercompany balances between the Guarantors eliminated. The combined financial information excludes financial information of non-guarantor subsidiaries. The underlying net assets of the non-guarantor subsidiaries are significantly in excess of the Guarantor obligations. Excluding investments in non-guarantor subsidiaries, external debt and the noncurrent notes payable and receivable with non-guarantor subsidiaries, the Guarantors do not have material assets, liabilities or results of operations.
+One-Way Guarantees
+Comcast provides full and unconditional guarantees of certain debt issued by Sky Limited (“Sky
+”)
+, including all of its senior notes, and other consolidated subsidiaries not subject to the periodic reporting requirements of the SEC.
+28
+Table of Contents
+Comcast also provides a full and unconditional guarantee of $138 million principal amount of subordinated debt issued by Comcast Holdings. Comcast’s obligations under this guarantee are subordinated and subject, in right of payment, to the prior payment in full of all of Comcast’s senior indebtedness, including debt guaranteed by Comcast on a senior basis, and are structurally subordinated to the indebtedness and other liabilities of its non-guarantor subsidiaries (for purposes of this Comcast Holdings discussion, Comcast Cable and NBCUniversal are included within the non-guarantor subsidiary group). Comcast’s obligations as guarantor will remain in effect until all amounts payable with respect to the guaranteed debt have been paid in full. However, the guarantee will terminate upon a disposition of Comcast Holdings or all or substantially all of its assets. Comcast Holdings is a consolidated subsidiary holding company that directly or indirectly holds 100% and approximately 37% of our equity interests in Comcast Cable and NBCUniversal, respectively.
+As of March 31, 2025 and December 31, 2024, Comcast and Comcast Holdings, the combined issuer and guarantor of the guaranteed subordinated debt, have noncurrent senior notes payable to non-guarantor subsidiaries of $59 billion and $53 billion, respectively, and noncurrent notes receivable from non-guarantor subsidiaries of $10 billion for both periods. This financial information is that of Comcast and Comcast Holdings presented on a combined basis with intercompany balances between Comcast and Comcast Holdings eliminated. The combined financial information excludes financial information of non-guarantor subsidiaries of Comcast and Comcast Holdings. The underlying net assets of the non-guarantor subsidiaries of Comcast and Comcast Holdings are significantly in excess of the obligations of Comcast and Comcast Holdings. Excluding investments in non-guarantor subsidiaries, external debt, and the noncurrent notes payable and receivable with non-guarantor subsidiaries, Comcast and Comcast Holdings do not have material assets, liabilities or results of operations.
+Critical Accounting Estimates
+The preparation of our condensed consolidated financial statements requires us to make estimates that affect the reported amounts of assets, liabilities, revenue and expenses, and the related disclosure of contingent assets and contingent liabilities. We base our judgments on our historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making estimates about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+For a more complete discussion of the accounting estimates that we have identified as critical in the preparation of our condensed consolidated financial statements, please refer to our Management’s Discussion and Analysis of Financial Condition and Results of Operations in our 2024 Annual Report on Form 10-K.
+ITEM 3: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We have evaluated the information required under this item that was disclosed in our 2024 Annual Report on Form 10-K and there have been no material changes to this information.
+ITEM 4: CONTROLS AND PROCEDURES
+Conclusions regarding disclosure controls and procedures
+Our principal executive and principal financial officers, after evaluating the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this report, have concluded that, based on the evaluation of these controls and procedures required by paragraph (b) of Exchange Act Rules 13a-15 or 15d-15, such disclosure controls and procedures were effective.
+Changes in internal control over financial reporting
+There were no changes in internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Exchange Act Rules 13a-15 or 15d-15 that occurred during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+29
+Table of Contents
+PART II: OTHER INFORMATION
+ITEM 1: LEGAL PROCEEDINGS
+See Note 10 included in this Quarterly Report on Form 10-Q for a discussion of legal proceedings.
+ITEM 1A: RISK FACTORS
+There have been no material changes from the risk factors previously disclosed in Item 1A of our 2024 Annual Report on Form 10-K.
+ITEM 2: UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The table below summarizes Comcast’s common stock repurchases during the three months ended March 31, 2025.
+(a)
+In January 2024, our Board of Directors approved a new share repurchase authorization of $15 billion, which had no expiration date. In January of 2025, our Board of Directors terminated the existing program and approved a new share repurchase authorization of 15 billion effective as of January 31, 2025, which has no expiration date. We expect to repurchase additional shares of our Class A common stock under this authorization, in the open market or in private transactions, subject to market and other conditions.
+ITEM 6: EXHIBITS
+30
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Date: April 24, 2025
+31

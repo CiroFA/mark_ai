@@ -1,0 +1,18 @@
+through three pillars - People, Prosperity, Planet - and all of the work we do is grounded in strong governance principles.  For more information, please reference our most recently published Environmental, Social and Governance Report located on our website.
+MASTERCARD 2024 FORM 10-K
+9
+PART I
+ITEM 1. BUSINESS
+Our Business
+Our Payments Capabilities
+We enable a wide variety of payments capabilities (including products, services and solutions) over our network among account holders, merchants, financial institutions, businesses, governments and others, offering our customers one partner for their payment needs.
+Payment Network
+Our payment network links issuers and acquirers around the globe to facilitate the switching of transactions, permitting account holders to use our products at approximately 150 million acceptance locations and over 250 million digital access points worldwide.  This network facilitates an efficient, safe and secure means for making and receiving payments, a convenient, quick and secure payment method for consumers to access their funds and a channel for businesses to receive insight through information that is derived from our network.  We enable transactions for our customers through our payment network in more than 150 currencies and in more than 220 countries and territories.
+Payment Network Transactions.
+Our payment network supports what is often referred to as a “four-party” payments network and includes the following participants: account holder (a person or entity who holds a card or uses another device enabled for payment), issuer (the account holder’s financial institution), merchant and acquirer (the merchant’s financial institution).
+We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, or establish the rates charged by acquirers in connection with merchants’ acceptance of our products.  In most cases, account holder relationships belong to, and are managed by, our customers.
+The following graphic depicts a typical transaction on our payment network and our role in that transaction, which includes services and other solutions and payments ecosystem security:
+In a typical transaction, an account holder purchases goods or services from a merchant using one of our payment products.  After the transaction is authorized by the issuer, the issuer pays the acquirer an amount equal to the value of the transaction, minus the interchange fee (described below) and other applicable fees, and then posts the transaction to the account holder’s account.  The acquirer pays the amount of the purchase, net of a discount (referred to as the “merchant discount” rate), to the merchant.
+•
+Interchange Fees.
+Interchange fees reflect the value merchants receive from accepting our products and play a key role in balancing the costs and benefits that consumers and merchants derive.  Generally, interchange fees are collected from acquirers and paid to

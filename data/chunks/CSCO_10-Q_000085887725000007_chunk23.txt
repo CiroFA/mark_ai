@@ -1,0 +1,46 @@
+(Unaudited)
+(c)
+Summary of Share-Based Compensation Expense
+Share-based compensation expense consists of expenses for RSUs and stock purchase rights, granted to employees or assumed from acquisitions.
+The following table summarizes share-based compensation expense (in millions):
+As of January 25, 2025, the total compensation cost related to unvested share-based awards not yet recognized was $
+5.3
+billion which is expected to be recognized over approximately
+1.9
+years on a weighted-average basis.
+(d)
+Restricted Stock Unit Awards
+A summary of the restricted stock and stock unit activity, which includes time-based and performance-based or market-based RSUs, is as follows (in millions, except per-share amounts):
+35
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+17.
+Accumulated Other Comprehensive Income (Loss)
+The components of AOCI, net of tax, and the other comprehensive income (loss), for the first six months of fiscal 2025 and 2024 are summarized as follows (in millions):
+36
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+18.
+Income Taxes
+The following table provides details of income taxes (in millions, except percentages):
+As of January 25, 2025, we had $
+2.2
+billion of unrecognized tax benefits, of which $
+1.6
+billion, if recognized, would favorably impact the effective tax rate. We regularly engage in discussions and negotiations with tax authorities regarding tax matters in various jurisdictions. We believe it is reasonably possible that certain federal, foreign, and state tax matters may be concluded in the next 12 months. Specific positions that may be resolved include issues involving transfer pricing and various other matters.
+On August 26, 2024, the U.S. Tax Court issued an opinion in
+Varian Medical Systems, Inc. v. Commissioner
+. The opinion related to the U.S. taxation of deemed foreign dividends in the transition year of the Tax Cuts and Jobs Act (our fiscal 2018). While we were not a party to the case, the opinion resulted in a change to our tax position. As such, we recorded a tax benefit of $
+720
+million as a reduction to the provision for income taxes in the first quarter of fiscal 2025 due to this U.S. Tax Court opinion.
+19.
+Segment Information and Major Customers
+(a)
+Revenue and Gross Margin by Segment
+We conduct business globally and are primarily managed on a geographic basis consisting of
+three
+segments: the Americas, EMEA, and APJC. Our management makes financial decisions and allocates resources based on the information it receives from our internal management system. Sales are attributed to a segment based on the ordering location of the customer. We do not allocate research and development, sales and marketing, or general and administrative expenses to our segments in this internal management system because management does not include the information in our measurement of the performance of the operating

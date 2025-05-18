@@ -1,0 +1,53 @@
+million and $
+40
+million for the three months ended March 31, 2025 and 2024, respectively.
+(f)
+Loan originations are included in purchases.
+(g)
+Includes financial assets and liabilities that have matured, been partially or fully repaid, impacts of modifications, deconsolidations associated with beneficial interests in VIEs and other items.
+Level 3 analysis
+Consolidated balance sheets changes
+The following describes significant changes to level 3 assets since December 31, 2024, for those items measured at fair value on a recurring basis. Refer to Assets and liabilities measured at fair value on a nonrecurring basis on page 93 for further information on changes impacting items measured at fair value on a nonrecurring basis.
+Three months ended March 31, 2025
+Level 3 assets were $
+24.2
+billion at March 31, 2025, reflecting an increase of $
+430
+million from December 31, 2024.
+The increase for the three months ended March 31, 2025 was driven by higher:
+•
+Gross derivative receivables of $
+653
+million due to gains and purchases largely offset by settlements.
+partially offset by
+•
+lower trading loans of $
+285
+million due to net transfers.
+Refer to the sections below for additional information.
+Transfers between levels for instruments carried at fair value on a recurring basis
+For the three months ended March 31, 2025 and 2024, there were no significant transfers from level 2 into level 3 or from level 3 into level 2.
+All transfers are based on changes in the observability and/or significance of the valuation inputs and are assumed to occur at the beginning of the quarterly reporting period in which they occur.
+Gains and losses
+The following describes significant components of total realized/unrealized gains/(losses) for instruments measured at fair value on a recurring basis for the periods indicated. These amounts exclude any effects of the Firm’s risk management activities where the financial instruments are classified as level 1 and 2 of the fair value hierarchy. Refer to Changes in level 3 recurring fair value measurements rollforward tables on pages 89-92 for further information on these instruments.
+Three months ended March 31, 2025
+•
+$
+2.5
+billion of net gains on assets, driven by gains in net derivative receivables due to market movements partially offset by losses on MSRs reflecting faster prepayment speeds on lower rates.
+•
+$
+127
+million of net gains on liabilities, driven by gains in long-term debt due to market movements partially offset by losses in deposits and short-term borrowings due to market movements.
+Three months ended March 31, 2024
+•
+$
+799
+million of net losses on assets, predominantly driven by losses in net equity derivative receivables due to market movements.
+•
+$
+516
+million of net losses on liabilities, predominantly driven by losses in long-term debt due to market movements.
+Refer to Note 14 for information on MSRs.
+Credit and funding adjustments — derivatives
+The following table provides the impact of credit and funding

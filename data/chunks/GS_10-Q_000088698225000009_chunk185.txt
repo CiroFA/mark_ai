@@ -1,0 +1,15 @@
+generally have minimal credit risk due to both the value of the collateral received and the short-term nature of these receivables.
+The table below presents our other credit exposures and the concentration by industry, region and internally determined public rating agency equivalents.
+The table above reflects collateral that we consider when determining credit risk.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Selected Exposures
+We have credit and market exposures, as described below, that have had heightened focus given recent events and broad market concerns. Credit exposure represents the potential for loss due to the default or deterioration in credit quality of a counterparty or borrower. Market exposure represents the potential for loss in value of our long and short positions due to changes in market prices.
+Country Exposures.
+The Russian invasion of Ukraine has negatively affected the global economy and increased macroeconomic uncertainty. Our total credit exposure to Ukrainian counterparties or borrowers was not material as of March 2025. Our total market exposure to Ukrainian issuers as of March 2025 was $110 million, primarily to sovereign issuers. Such exposure consisted of $111 million related to debt and $(1) million related to credit derivatives. Our credit exposure to Russian counterparties or borrowers and our market exposure to Russian issuers were not material as of March 2025. See “Risk Factors” in Part I, Item 1A of the 2024 Form 10-K for further information about our risks related to Russia’s invasion of Ukraine.
+In addition, economic and/or political unc
+ertainties in Ethiopia, Lebanon and Venezuela have led to concerns about their financial stability. Our credit exposure to counterparties or borrowers and our market exposure to issuers relating to each of these countries was not material as of March 2025.
+We have a comprehensive framework to monitor, measure and assess our country exposures and to determine our risk appetite. We determine the country of risk by the location of the counterparty, issuer’s assets, where they generate revenue, the country in which they are headquartered, the jurisdiction where a claim against them could be enforced, and/or the government whose policies affect their ability to repay their obligations. We monitor our credit exposure to a specific country both at the individual counterparty level, as well as at the aggregate country level. See “Stress Tests” for information about stress tests that are designed to estimate the direct and indirect impact of events involving the above countries.
+Operational Risk Management
+Overview
+Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes, people, systems or from external events. Our exposure to operational risk arises from routine processing errors, as well as extraordinary incidents, such as major systems failures or legal and regulatory matters, that could

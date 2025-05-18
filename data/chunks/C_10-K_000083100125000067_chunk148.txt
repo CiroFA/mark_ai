@@ -1,0 +1,26 @@
+ACLUC
+Citi had an ACLUC release of $0.1 billion in the fourth quarter of 2024, largely driven by a release for specific risks and uncertainties impacting vulnerable industries and regions. The ACLUC reserve balance, included in
+Other liabilities
+, was $1.6 billion at December 31, 2024.
+ACL on Other Financial Assets
+Citi had an ACL build of $0.1 billion on other financial assets carried at amortized cost for the fourth quarter of 2024, primarily due to an increase in transfer risk associated with unremittable corporate dividends outside the U.S. being held on behalf of clients, driven by safety and soundness considerations under U.S. banking law. Including FX/Other, the ACL reserve balance of $2.0 billion remained unchanged from September 30, 2024. See Note 16 for additional information.
+Regulatory Capital Impact
+Citi elected the modified CECL transition provision for regulatory capital purposes provided by the U.S. banking agencies’ final rule. Accordingly, the Day One regulatory capital effects resulting from the adoption of CECL, as well as the ongoing adjustments for 25% of the change in CECL-based allowances in each quarter between January 1, 2020 and December 31, 2021, started to be phased in on January 1, 2022 and were fully reflected in Citi’s regulatory capital as of January 1, 2025.
+See Notes 1 and 16 for a further description of the ACL and related accounts.
+Goodwill
+Citi tests for goodwill impairment annually as of October 1 (the annual test) and conducts interim assessments between annual tests if an event occurs or circumstances change that would more-likely-than-not reduce the fair value of a reporting unit below its carrying amount. These events or circumstances include, among other things, a significant adverse change in the business climate, a decision to sell or dispose of all or a significant portion of a reporting unit or a sustained decrease in Citi’s stock price.
+Citigroup’s activities were conducted through the reportable operating segments:
+Services
+,
+Markets
+,
+Banking
+,
+Wealth
+and
+USPB
+, with the remaining operations recorded in
+All Other
+, which includes activities not assigned to a specific operating segment as well as discontinued operations. Goodwill impairment testing is performed at the level below the operating segment (referred to as a reporting unit).
+Citi performed its annual goodwill impairment test, which resulted in no impairment of any of Citi’s reporting units’ goodwill. No additional triggering events were identified and no goodwill was impaired during 2024. For each of the Company’s reporting units, fair value exceeded carrying value by at least 10%.
+Citi utilizes allocated tangible common equity as a proxy for the carrying value of its reporting units for purposes of goodwill impairment testing. The allocated equity in the reporting units is determined based on the capital the business would require if it were operating as a standalone entity, incorporating sufficient capital to be in compliance with

@@ -1,0 +1,21 @@
+assessment, data and management within each of the LOBs and Corporate; and
+•
+A Firmwide risk governance and oversight structure.
+The Firm follows a disciplined and balanced compensation framework with strong internal governance and independent oversight by the Board of Directors (the “Board”). The impact of risk and control issues is carefully considered in the Firm’s performance evaluation and incentive compensation processes.
+Risk governance framework
+The Firm’s risk governance framework involves understanding drivers of risks, types of risks and impacts of risks.
+Drivers of risks
+are factors that cause a risk to exist. Drivers of risks include the economic environment, regulatory or government policy, competitor or market evolution, business decisions, process or judgment error, deliberate wrongdoing, dysfunctional markets and natural disasters.
+Types of risks
+are categories by which risks manifest themselves. The Firm’s risks are generally categorized in the following four risk types:
+•
+Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly-designed or failed business plans or an inadequate response to changes in the operating environment.
+•
+Credit and investment risk is the risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments, including consumer credit risk, wholesale credit risk and investment portfolio risk.
+•
+Market risk is the risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term.
+•
+Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm’s processes or systems. Operational risk includes cybersecurity, compliance, conduct, legal, and estimations and model risk.
+Impacts of risks
+are consequences of risks, both quantitative and qualitative. There may be many consequences when risks manifest themselves, including quantitative impacts such as a reduction in earnings and capital, liquidity outflows, and fines or penalties, or qualitative impacts such as damage to the Firm’s reputation, loss of clients and customers, and regulatory and enforcement actions.
+The Firm’s risk governance framework is managed on a Firmwide basis. The Firm has an Independent Risk Management (“IRM”) function, which is comprised of Risk Management and Compliance. The Firm’s Chief Executive Officer (“CEO”) appoints, subject to approval by the Risk Committee of the Board of Directors (the “Board Risk Committee”), the Firm’s Chief Risk Officer (“CRO”) to lead the IRM function and maintain the risk governance framework of the Firm. The framework is subject to approval by the Board Risk Committee through its

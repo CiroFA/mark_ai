@@ -1,0 +1,47 @@
+borrowings of a consolidated CLO.
+14
+BlackRock’s total exposure to CIPs represents the value of its economic interest in these CIPs. Valuation changes associated with financial instruments held at fair value by these CIPs are reflected in nonoperating income (expense) and partially offset in net income (loss) attributable to NCI for the portion not attributable to BlackRock.
+Net gain (loss) related to consolidated VIEs is presented in the following table:
+7
+. Variable Interest Entities
+Nonconsolidated VIEs
+.
+At
+March 31, 2025 and December 31, 2024, the Company’s carrying value of assets and liabilities included on the condensed consolidated statements of financial condition pertaining to nonconsolidated VIEs and its maximum risk of loss related to VIEs in which it held a variable interest, but for which it was not the primary beneficiary, was as follows:
+(1)
+At both March 31, 2025 and December 31, 2024
+, BlackRock’s maximum risk of loss associated with these VIEs primarily related to BlackRock’s investments and the collection of receivables.
+The net assets of sponsored investment products that are nonconsolidated VIEs approximated $
+52
+billion and $
+46
+billion at
+March 31, 2025 and December 31, 2024
+, respectively.
+15
+8. Fair Value Disclosures
+Fair Value Hierarchy
+Assets and liabilities measured at fair value on a recurring basis
+(1)
+Amounts are comprised of certain investments measured at fair value using NAV (or its equivalent) as a practical expedient.
+(2)
+Amounts are comprised of investments held at amortized cost and cost, adjusted for observable price changes, and carried interest.
+(3)
+Level 3 amount includes corporate minority private debt investments with changes in fair value recorded in AOCI, net of tax.
+(4)
+Level 2 amount primarily includes fair value of derivatives (See Note 9,
+Derivatives and Hedging
+, for more information). Level 3 amount primarily includes borrowings of a consolidated CLO classified based on the significance of unobservable inputs used for calculating the fair value of consolidated CLO assets.
+16
+(1)
+Amounts are comprised of certain investments measured at fair value using NAV (or its equivalent) as a practical expedient.
+(2)
+Amounts are comprised of investments held at amortized cost and cost, adjusted for observable price changes, and carried interest.
+(3)
+Level 3 amount includes corporate minority private debt investments with changes in fair value recorded in AOCI, net of tax.
+(4)
+Level 2 amount primarily includes fair value of derivatives (See Note 9,
+Derivatives and Hedging
+, for more information). Level 3 amount primarily includes borrowings of a consolidated CLO classified based on the significance of unobservable inputs used for calculating the fair value of consolidated CLO assets.
+Level 3 Assets.
+Level 3 assets predominantly include investments in nonconsolidated CLOs, loans of consolidated CIPs, and corporate minority private debt investments. Investments in CLOs and loans were valued based on single-

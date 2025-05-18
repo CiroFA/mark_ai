@@ -1,0 +1,24 @@
+have an asset amount primarily due to the deferral of option premiums to the end of the contract.
+(4)
+The net derivative asset (liability) and notional amount of written credit derivatives for which the Corporation held purchased credit derivatives with identical underlying referenced names were $
+406
+million and $
+361.2
+billion, respectively, at December 31, 2024.
+Offsetting of Derivatives
+The Corporation enters into International Swaps and Derivatives Association, Inc. (ISDA) master netting agreements or similar agreements with substantially all of the Corporation’s derivative counterparties. For more information, see
+Note 3 – Derivatives
+to the Consolidated Financial Statements of the Corporation’s 2024 Annual Report on Form 10-K.
+The following table presents derivative instruments included in derivative assets and liabilities on the Consolidated Balance Sheet at March 31, 2025 and December 31, 2024 by primary risk (e.g., interest rate risk) and the platform, where applicable,
+on which these derivatives are transacted. Balances are presented on a gross basis, prior to the application of counterparty and cash collateral netting. Total gross derivative assets and liabilities are adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements, which include reducing the balance for counterparty netting and cash collateral received or paid.
+For more information on offsetting of securities financing agreements, see
+Note 9 – Securities Financing Agreements, Collateral and Restricted Cash
+.
+(1)
+Over-the-counter (OTC) derivatives include bilateral transactions between the Corporation and a particular counterparty. Over-the-counter cleared derivatives include bilateral transactions between the Corporation and a counterparty where the transaction is cleared through a clearinghouse. Exchange-traded derivatives include listed options transacted on an exchange.
+(2)
+Consists of derivatives entered into under master netting agreements where the enforceability of these agreements is uncertain under bankruptcy laws in some countries or industries.
+(3)
+Amounts are limited to the derivative asset/liability balance and, accordingly, do not include excess collateral received/pledged. Financial instruments collateral includes securities collateral received or pledged and cash securities held and posted at third-party custodians that are not offset on the Consolidated Balance Sheet but shown as a reduction to derive net derivative assets and liabilities.
+Derivatives Designated as Accounting Hedges
+The Corporation uses various types of interest rate and foreign exchange derivative contracts to protect against changes in the fair value of its assets and liabilities due to fluctuations in interest rates and foreign exchange rates (fair value hedges). The Corporation also uses these types of contracts to protect against changes in the cash flows of its assets and liabilities, and other forecasted transactions (cash

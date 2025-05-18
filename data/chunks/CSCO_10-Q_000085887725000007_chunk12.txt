@@ -1,0 +1,54 @@
+because borrowers may have the right to call or prepay certain obligations.
+(b)
+Summary of Equity Investments
+We held marketable equity securities of $
+339
+million and $
+481
+million as of January 25, 2025 and July 27, 2024, respectively. We recognized a net unrealized gain of $
+16
+million and $
+36
+million during the second quarter and first six months of fiscal 2025, respectively, and a net unrealized gain of $
+55
+million and $
+17
+million
+during the corresponding periods of
+fiscal 2024, respectively, on our marketable securities still held as of the reporting date. Our net adjustments to non-marketable equity securities measured using the measurement alternative still held was a net loss of $
+8
+million and $
+16
+million for the second quarter and first six months of fiscal 2025, respectively, and a net loss of $
+134
+million
+for each of the corresponding periods of fiscal 2024. We held equity interests in certain private equity funds o
+f $
+0.7
+billion
+and
+$
+0.8
+billion
+as of January 25, 2025 and July 27, 2024, respectively, which are accounted for under the NAV practical expedient.
+In the ordinary course of business, we have investments in privately held companies and provide financing to certain customers. These privately held companies and customers are evaluated for consolidation under the variable interest or voting interest entity models. We evaluate on an ongoing basis our investments in these privately held companies and our customer financings, and have determined that as of January 25, 2025, there were no additional significant variable interest or voting interest entities required to be consolidated in our Consolidated Financial Statements.
+The carrying value of our investments in privately held companies was $
+1.9
+billion and $
+1.8
+billion as of January 25, 2025 and July 27, 2024, respectively. Of the total carrying value of our investments in privately held companies as of January 25, 2025, $
+0.8
+billion of such investments are considered to be in variable interest entities which are not required to be consolidated. As of January 25, 2025, we have total funding commitments of $
+0.2
+billion related to privately held investments. The carrying value of these investments and the additional funding commitments, collectively, represent our maximum exposure related to privately held investments.
+24
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+11.
+Fair Value
+(a)
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Assets and liabilities measured at fair value on a recurring basis were as follows (in millions):
+Level 1 marketable equity securities are determined by using quoted prices in active markets for identical assets. Level 2 available-for-sale debt investments are priced using quoted market prices for similar instruments or nonbinding market prices that are corroborated by observable market data. We use inputs such as actual trade data, benchmark yields,

@@ -1,0 +1,39 @@
+three months ended March 31, 2025. Total deferred revenue as of March 31, 2025 was $
+6.6
+billion.
+Note 3.
+Financial Instruments
+Fair Value Measurements
+Investments Measured at Fair Value on a Recurring Basis
+Cash, cash equivalents, and marketable equity securities are measured at fair value and classified within
+11
+Level 1 and Level 2 in the fair value hierarchy, because we use quoted prices for identical assets in active markets or inputs that are based upon quoted prices for similar instruments in active markets.
+Debt securities are measured at fair value and classified within Level 2 in the fair value hierarchy, because we use quoted market prices to the extent available or alternative pricing sources and models utilizing market observable inputs to determine fair value. For certain marketable debt securities, we have elected the fair value option for which changes in fair value are recorded in OI&E. The fair value option was elected for these securities to align with the unrealized gains and losses from related derivative contracts.
+The following tables summarize our cash, cash equivalents, and marketable securities measured at fair value on a recurring basis (in millions):
+(1)
+Represents gross unrealized gains and losses for debt securities recorded to accumulated other comprehensive income (AOCI).
+(2)
+The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $
+266
+million as of December 31, 2024 is included within other non-current assets.
+12
+(1)
+Represents gross unrealized gains and losses for debt securities recorded to AOCI.
+(2)
+The long-term portion of marketable equity securities (subject to long-term lock-up restriction
+s) of
+$
+376
+million
+as of March 31, 2025 is included within other non-current assets.
+Investments Measured at Fair Value on a Nonrecurring Basis
+Our non-marketable equity securities are investments in privately held companies without readily determinable market values. The carrying value of our non-marketable equity securities is adjusted to fair value upon observable transactions for identical or similar investments of the same issuer or impairment. Non-marketable equity securities that have been remeasured during the period based on observable transactions are classified within Level 2 or Level 3 in the fair value hierarchy. Non-marketable equity securities that have been remeasured due to impairment are classified within Level 3. Our valuation methods include option pricing models, market comparable approach, and common stock equivalent method, which may include a combination of the observable transaction price at the transaction date and other unobservable inputs including volatility, expected time to exit, risk free rate, and the rights, and obligations of the securities we hold. These inputs vary significantly based on investment type.
+As of March 31, 2025, the carrying value of our non-marketable equity securities was
+$
+48.6
+billion
+, of which
+$
+25.0
+billion
+were

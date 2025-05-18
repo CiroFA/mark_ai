@@ -1,0 +1,23 @@
+and subsequently reclassified into earnings when the hedged exposure affects earnings.
+29
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+We enter into foreign exchange forward and option contracts to reduce the short-term effects of foreign currency fluctuations on assets and liabilities such as foreign currency receivables, long-term customer financings and payables. These derivatives are not designated as hedging instruments. Gains and losses on the contracts are included in other income (loss), net, and substantially offset foreign exchange gains and losses from the remeasurement of monetary assets and liabilities denominated in currencies other than the functional currency of the reporting entity.
+We hedge certain net investments in our foreign operations with forward contracts to reduce the effects of foreign currency fluctuations on our net investment in those foreign subsidiaries. These derivative instruments generally have maturities of up to
+six months
+.
+(d)
+Interest Rate Risk
+We hold an interest rate swap designated as a fair value hedge related to a fixed-rate senior note that is due in fiscal 2025. Under the interest rate swap, we receive fixed-rate interest payments and make interest payments based on SOFR plus a fixed number of basis points. The effect of the swap is to convert the fixed interest rate of the senior fixed-rate note to a floating interest rate based on SOFR. The gain and loss related to the change in the fair value of the interest rate swap is included in interest expense and substantially offsets the change in the fair value of the hedged portion of the underlying debt attributable to the change in market interest rates.
+We periodically enter into treasury lock agreements, designated as cash flow hedges, in order to hedge the impact of changes in the U.S. benchmark interest rate on future interest payments in anticipation of future debt offerings. Changes in the fair value of treasury lock agreements are recorded to AOCI and reclassified into earnings when the hedged exposure affects earnings.
+(e)
+Equity Price Risk
+We hold marketable equity securities in our portfolio that are subject to price risk. To diversify our overall portfolio, we may also hold equity derivatives that are not designated as accounting hedges. The change in the fair value of each of these investment types are included in other income (loss), net.
+We are also exposed to variability in compensation charges related to certain deferred compensation obligations to employees and directors. Although not designated as accounting hedges, we utilize derivatives such as total return swaps to economically hedge this exposure and offset the related compensation expense.
+14.
+Commitments and Contingencies
+(a)
+Purchase Commitments with Contract Manufacturers and Suppliers
+We purchase components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our

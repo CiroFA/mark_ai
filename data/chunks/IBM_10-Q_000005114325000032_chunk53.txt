@@ -1,0 +1,27 @@
+acquisition.
+Long-term debt increased $6,487 million ($5,860 million adjusted for currency) primarily driven by our first-quarter 2025 debt issuances; partially offset by reclassifications to short-term debt to reflect upcoming maturities.
+Noncurrent liabilities (excluding debt) increased $481 million (decreased $34 million adjusted for currency) primarily driven by currency and an increase in deferred income, partially offset by a decrease in retirement and nonpension postretirement benefit obligations.
+Debt
+Our funding requirements are continually monitored as we execute our strategies to manage the overall asset and liability profile. Additionally, we maintain sufficient flexibility to access global funding sources as needed.
+(1)
+Refer to Financing’s
+“
+Balance Sheet and Return on Equity Highlights
+”
+on page
+60
+for additional details.
+Total debt of $63,284 million increased $8,311 million ($7,671 million adjusted for currency) from December 31, 2024, primarily driven by proceeds from issuances of $8,378 million; partially offset by maturities of $1,257 million.
+Non-Financing debt of $53,262 million increased $10,405 million ($9,868 million adjusted for currency) from December 31, 2024, primarily due to the first-quarter debt issuances to increase our financial liquidity and plan for our future debt maturities; partially offset by maturities within the quarter.
+Financing segment debt of $10,022 million decreased $2,094 million ($2,197 million adjusted for currency) from December 31, 2024, primarily due to lower funding requirements associated with financing receivables.
+Financing provides financing solutions predominantly for IBM’s external client assets, and the debt used to fund Financing assets is primarily comprised of intercompany loans. Total debt changes generally correspond with the level of client and commercial financing receivables, the level of cash and cash equivalents, the change in intercompany and external payables, and the change in intercompany investment from IBM. The terms of the intercompany loans are set by the company to substantially match the term, currency and interest rate variability underlying the financing receivable. The Financing debt-to-equity ratio remained at 9.0 to 1 at March 31, 2025.
+55
+Table of Contents
+Management Discussion – (continued)
+I
+nterest expense relating to debt supporting Financing’s external client and internal business is included in the “Financing Results of Operations” and in note 4, “Segments.” In the Consolidated Income Statement, the external debt-related interest expense supporting Financing’s internal financing to the company is classified as interest expense.
+Equity
+Total equity decreased $440 million from December 31, 2024, primarily driven by dividends paid of $1,549 million; partially offset by an increase from net income of $1,055 million.
+Cash Flow
+Our cash flows from operating, investing and financing activities, as reflected in the Consolidated Statement of Cash Flows on page
+7

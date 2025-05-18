@@ -1,0 +1,32 @@
+certain battery storage facilities and a natural gas and oil electric generation facility that sell their electric output under power sales agreements to third parties which provide the customers the ability to dispatch the facilities. At December 31, 2024, the power sales agreements have expiration dates from 2026 to 2044 and NEE expects to receive approximately $
+3.9
+billion of lease payments over the remaining terms of the power sales agreements with no one year being material. Operating and sales-type lease-related amounts were not material to NEE's consolidated statements of income or balance sheets for the periods presented.
+11.
+Asset Retirement Obligations
+NEE's AROs relate primarily to decommissioning obligations of FPL's and NEER's nuclear units and to obligations for the dismantlement of certain of NEER's wind and solar facilities. For NEE's rate-regulated operations, including FPL, the accounting provisions result in timing differences in the recognition of legal asset retirement costs for financial reporting purposes and the method the regulator allows for recovery in rates. See Note 1 – Rate Regulation and – Decommissioning of Nuclear Plants, Dismantlement of Plants and Other Accrued Asset Removal Costs.
+97
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+A rollforward of NEE's and FPL's AROs is as follows:
+______________________
+(a)
+Includes approximately $
+39
+million and $
+18
+million related to sales of businesses and assets during the years ending December 31, 2024 and 2023, respectively. See Note 1 – Disposal of Businesses/Assets.
+(b)
+Includes the current portion of AROs as of December 31, 2024 and 2023 of approximately $
+27
+million ($
+19
+million for FPL) and
+$
+34
+million
+($
+27
+million for FPL), respectively, which are included in current other liabilities on NEE's and FPL's consolidated balance sheets.
+Restricted funds for the payment of future expenditures to decommission NEE's and FPL's nuclear units included in special use funds on NEE's and FPL's consolidated balance sheets are presented below (see Note 4). Duane Arnold is in a deferred decommissioning and was granted an exemption from the NRC, which allows for use of the funds for certain other site restoration activities in addition to decommissioning obligations recorded as AROs.
+NEE and FPL have identified but not recognized ARO liabilities related to the majority of their electric transmission and distribution assets and pipelines resulting from easements over property not owned by NEE or FPL. These easements are generally perpetual and only require retirement action upon abandonment or cessation of use of the property or facility for its specified purpose. The related ARO liability is not estimable for such easements as NEE and FPL intend to use these properties indefinitely. In the event NEE or FPL decide to abandon or cease the use of a particular easement, an ARO liability would be

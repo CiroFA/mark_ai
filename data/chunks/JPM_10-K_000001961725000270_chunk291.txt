@@ -1,0 +1,15 @@
+the fair value of the defaulted reference obligation at the time of settlement. Neither party to the credit-related note has recourse to the defaulting reference entity.
+The following tables present a summary of the notional amounts of credit derivatives and credit-related notes the Firm sold and purchased as of December 31, 2024 and 2023. Upon a credit event, the Firm as a seller of protection would typically pay out a percentage of the full notional amount of net protection sold, as the amount actually required to be paid on the contracts takes into account the recovery value of the reference obligation at the time of settlement. The Firm manages the credit risk on contracts to sell protection by purchasing protection with identical or similar underlying reference entities. Other purchased protection referenced in the following tables includes credit derivatives bought on related, but not identical, reference positions (including indices, portfolio coverage and other reference points) as well as protection purchased by CIB through credit-related notes. Other purchased protection also includes credit protection against certain loans in the retained lending portfolio through the issuance of credit derivatives and credit-related notes.
+The Firm does not use notional amounts of credit derivatives as the primary measure of risk management for such derivatives, because the notional amount does not take into account the probability of the occurrence of a credit event, the recovery value of the reference obligation, or related cash instruments and economic hedges, each of which reduces, in the Firm’s view, the risks associated with such derivatives.
+(a)
+Other credit derivatives predominantly consist of credit swap options and total return swaps.
+(b)
+Predominantly represents Other protection purchased by CIB.
+(c)
+Represents the total notional amount of protection purchased where the underlying reference instrument is identical to the reference instrument on protection sold; the notional amount of protection purchased for each individual identical underlying reference instrument may be greater or lower than the notional amount of protection sold.
+(d)
+Does not take into account the fair value of the reference obligation at the time of settlement, which would generally reduce the amount the seller of protection pays to the buyer of protection in determining settlement value.
+(e)
+Represents protection purchased by the Firm on referenced instruments (single-name, portfolio or index) where the Firm has not sold any protection on the identical reference instrument. Also includes credit protection against certain loans and lending-related commitments in the retained lending portfolio through the issuance of credit derivatives and credit-related notes.
+Notes to consolidated financial statements
+The following tables summarize the notional amounts by the ratings, maturity profile, and total fair value, of credit derivatives as of December 31, 2024 and 2023, where

@@ -1,0 +1,56 @@
+U.S. NEER utilizes swaps, options, futures and forwards to lock in pricing and manage the commodity price risk inherent in power sales and fuel purchases.
+13
+Table of Content
+s
+NEER Generation Assets' Fuel/Technology Mix
+During
+2024
+, NEER generated approximately 111 million MWh utilizing the following mix of fuel
+sources for generation facilities in which it has an ownership interest:
+Wind Facilities
+•
+located in 23 states in the U.S. and 4 provinces in Canada;
+•
+operated a total generating capacity of approximately 26,335 MW, including capacity associated with noncontrolling and joint venture interests, at December 31, 2024;
+•
+ownership interests in a total net generating capacity of approximately 20,977 MW at December 31, 2024;
+◦
+essentially all MW are contracted wind assets located primarily throughout Texas and the West and Midwest
+regions of the U.S. and Canada;
+◦
+includes the impacts of approximately 1,365 MW of new generating capacity added
+in the U.S. in 2024 and an ownership interest in assets sold to a third party totaling approximately 536 MW (see Note 1
+–
+Disposal of Businesses/Assets).
+Solar Facilities
+•
+located in 31 states in the U.S.;
+•
+operated photovoltaic and solar thermal facilities with a total generating capacity of approximately 10,157 MW,
+including capacity associated with noncontrolling and joint venture interests
+, at
+December 31, 2024
+;
+•
+ownership interests in solar facilities with a total net generating capacity of approximately 7,837 MW at
+December 31, 2024
+;
+◦
+essentially all MW are contracted solar facilities located primarily throughout the West and South regions of the U.S.;
+◦
+includes the impacts of approximately 2,507 MW of generating capacity added in the U.S. in 2024 and an ownership interest in assets sold to a third party totaling approximately 527 MW (see Note 1
+–
+Disposal of Businesses/Assets).
+Nuclear Facilities
+At
+December 31, 2024
+, NextEra Energy Resources was the sole owner of the two Point Beach nuclear units shown in the table below and was the largest joint owner of the Seabrook nuclear facility shown in the table below. NEER's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, including inspections, repairs and certain other modifications. Scheduled nuclear refueling outages require the unit to be removed from service for variable lengths of time.
+14
+Table of Content
+s
+______________________
+(a)    NEER has several contracts for the supply of uranium and the conversion, enrichment and fabrication of nuclear fuel for all nuclear units with expiration dates through 2033 (see Note 15 – Contracts).
+(b)    Excludes 147 MW operated by NEER but owned by non-affiliates.
+(c)    Includes 297 MW sold under a long-term contract.
+(d)    NEER sells all of the output of Point Beach Units Nos. 1 and 2 under long-term contracts through their current operating license expiration dates.
+(e)    In 2020, NEER filed an application with the NRC to renew both

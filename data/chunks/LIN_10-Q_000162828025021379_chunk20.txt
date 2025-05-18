@@ -1,0 +1,21 @@
+practices. Linde's primary products in its industrial gases business are atmospheric gases (oxygen, nitrogen, argon, rare gases) and process gases (hydrogen, helium, carbon dioxide, carbon monoxide, electronic gases, specialty gases, acetylene). These products are generally sold through one of the
+three
+distribution methods.
+Following is a description of each of the
+three
+industrial gases distribution methods and the respective revenue recognition policies
+:
+On-site.
+Customers that require the largest volumes of product and that have a relatively constant demand pattern are supplied by cryogenic and process gas on-site plants. Linde constructs plants on or adjacent to these customers’ sites and supplies the product directly to customers by pipeline. Where there are large concentrations of customers, a single pipeline may be connected to several plants and customers. On-site product supply contracts generally are total requirement contracts with terms typically ranging from
+10
+-
+20
+years and contain minimum purchase requirements and price escalation provisions. Many of the cryogenic on-site plants also produce liquid products for the merchant market. Therefore, plants are typically not dedicated to a single customer. Additionally, Linde is responsible for the design, construction, operations and maintenance of the plants and our customers typically have no involvement in these activities. Advanced air separation processes also allow on-site delivery to customers with smaller volume requirements.
+The company’s performance obligations related to on-site customers are satisfied over time as customers receive and obtain control of the product. Linde has elected to apply the practical expedient for measuring progress towards the completion of a performance obligation and recognizes revenue as the company has the right to invoice each customer, which generally corresponds with product delivery. Accordingly, revenue is recognized when product is delivered to the customer and the company has the right to invoice the customer in accordance with the contract terms. Consideration in these contracts is generally based on pricing which fluctuates with various price indices. Variable components of consideration exist within on-site contracts but are considered constrained.
+Merchant.
+Merchant deliveries generally are made from Linde's plants by tanker trucks to storage containers at the customer's site.  Due to the relatively high distribution cost, merchant oxygen and nitrogen generally have a relatively small distribution radius from the plants at which they are produced. Merchant argon, hydrogen and helium can be shipped much longer distances. The customer agreements used in the merchant business are usually
+three
+-to
+seven-year
+supply agreements based on the requirements of the customer. These contracts generally do not contain minimum purchase requirements or volume commitments.
+The company’s performance obligations related to merchant customers are

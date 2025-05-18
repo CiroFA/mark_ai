@@ -1,0 +1,26 @@
+▪
+Level 2 – inputs to the valuation methodology include quoted prices for a similar asset or liability in an active market or model-derived valuations in which all significant inputs are observable for substantially the full term of the asset or liability.
+▪
+Level 3 – inputs to the valuation methodology are unobservable and significant to the fair value measurement of the asset or liability.
+Certain of the Company’s derivatives are valued using various pricing models or discounted cash flow analyses that incorporate observable market parameters, such as interest rate yield curves, option volatilities and foreign currency rates, classified as Level 2 within the valuation hierarchy. Derivative valuations incorporate credit risk adjustments that are necessary to reflect the probability of default by the counterparty or the Company.
+McDonald's Corporation
+2024 Annual Report
+48
+▪
+Certain Financial Assets and Liabilities Measured at Fair Value
+The following tables present financial assets and liabilities measured at fair value on a recurring basis by the valuation hierarchy as defined in the fair value guidance:
+(1)    Level 1 is comprised of derivatives and investments that hedge market driven changes in liabilities associated with the Company’s supplemental benefit plans.
+▪
+Non-Financial Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+Certain assets and liabilities are measured at fair value on a nonrecurring basis; that is, the assets and liabilities are not measured at fair value on an ongoing basis, but are subject to fair value adjustments in certain circumstances (e.g., when there is evidence of impairment).
+▪
+Certain Financial Assets and Liabilities not Measured at Fair Value
+At December 31, 2024, the fair value of the Company’s debt obligations was estimated at $
+36.6
+billion, compared to a carrying amount of $
+38.4
+billion. The fair value of debt obligations is based upon quoted market prices, classified as Level 2 within the valuation hierarchy. The carrying amount of cash and equivalents and notes receivable approximate fair value.
+FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES
+The Company is exposed to global market risks, including the effect of changes in interest rates and foreign currency fluctuations. The Company uses foreign currency denominated debt and derivative instruments to mitigate the impact of these changes. The Company does not hold or issue derivatives for trading purposes.
+The Company documents its risk management objective and strategy for undertaking hedging transactions, as well as all relationships between hedging instruments and hedged items. The Company’s derivatives that are designated for hedge accounting consist mainly of interest rate swaps, foreign currency forwards, and cross-currency interest rate swaps, and are classified as either fair value, cash flow or net investment hedges. Further details are explained in the "Fair Value," "Cash Flow" and "Net Investment" hedge sections.
+The Company

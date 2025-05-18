@@ -1,0 +1,20 @@
+District of Columbia Circuit has yet to rule.
+On November 29, 2023, we separately filed a complaint, also in the U.S. District Court for the District of Columbia (
+Meta Platforms, Inc. v. FTC
+), asserting constitutional challenges to the structure of the FTC, and seeking to preliminarily enjoin the FTC proceeding during the pendency of the litigation. On December 13, 2023, the FTC filed an opposition to our motion for preliminary injunction and a motion to dismiss the complaint. On March 14, 2024, the district court denied our motion to preliminarily enjoin the FTC proceeding during the pendency of the litigation, and also denied the FTC's motion to dismiss our complaint without prejudice, pending the U.S. Supreme Court's decision in
+SEC v. Jarkesy
+(
+Jarkesy
+). Our motion for a stay of the FTC proceeding pending appeal was denied in March 2024. Both the district court action and the appeal were stayed pending the Supreme Court's decision in
+Jarkesy
+. Following the Supreme Court's ruling in
+Jarkesy
+on June 27, 2024, the government filed a renewed motion to dismiss, which was fully briefed as of October 18, 2024. The district court has yet to rule. The parties are required to report back to the circuit court within 30 days of the district court's disposition of the FTC's motion to dismiss.
+On April 1, 2024, we filed our response to the FTC's Order to Show Cause, arguing, among other things, that the Order to Show Cause proceeding was legally improper. Per FTC orders, we completed briefing on threshold legal issues on July 18, 2024, and the FTC held oral argument before the Commissioners on those issues on November 12, 2024. On January 10, 2025, the Commission issued a decision on certain threshold legal issues, including that the Commission has statutory authority to modify consent orders. The Commission stated that its decision is subject to Meta’s jurisdictional challenges currently pending before the U.S. Court of Appeals for the District of Columbia Circuit in
+U.S. v. Facebook, Inc.
+, and that the nature and scope of any further administrative proceedings would be addressed at a later date. Through the administrative process, the FTC could amend the order to impose the additional requirements set forth in the proposed order. We should have the opportunity to appeal an FTC decision modifying the order and could request the appellate court to stay the enforcement of the modifications to the order while the appeal is pending. It is unclear whether the appeal or the request for a stay would be successful.
+We also notify the Irish Data Protection Commission (IDPC), our lead European Union privacy regulator under the GDPR, of certain other personal data breaches and privacy issues, issue similar notifications to European regulators under
+52
+Table of
+Contents
+other laws (such as UK GDPR and Member State implementations of the ePrivacy Directive), and are subject to inquiries and investigations by the IDPC and other European regulators regarding

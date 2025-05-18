@@ -1,0 +1,28 @@
+as a result of selling ownership interests in certain natural gas and oil shale formations and in certain natural gas pipeline facilities (see Disposal of Businesses/Assets below), NEER reassessed and changed its reporting unit structure to no longer report gas infrastructure as a separate reporting unit.
+NEE's, including FPL's, goodwill relates to various acquisitions which were accounted for using the acquisition method of accounting. Other intangible assets are included in noncurrent other assets on NEE's consolidated balance sheets. NEE's other intangible assets subject to amortization are amortized, primarily on a straight-line basis, over their estimated useful lives. Amortization of the other intangible assets was approximately $
+62
+million, $
+58
+million and $
+18
+million for the years ended
+76
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+December 31, 2024, 2023 and 2022, respectively, and is expected to be approximately $
+55
+million, $
+54
+million, $
+50
+million, $
+46
+million and $
+45
+million for 2025, 2026, 2027, 2028 and 2029, respectively.
+Goodwill and other intangible assets not subject to amortization are assessed for impairment at least annually by applying a fair value-based analysis. Other intangible assets subject to amortization are periodically reviewed when impairment indicators are present to assess recoverability from future operations using undiscounted future cash flows.
+Pension Plan
+– NEE records the service cost component of net periodic benefit income to O&M expense and the non-service cost component to other net periodic benefit income in NEE's consolidated statements of income. NEE allocates net periodic pension income to its subsidiaries based on the pensionable earnings of the subsidiaries' employees. Accounting guidance requires recognition of the funded status of the pension plan in the balance sheet, with changes in the funded status recognized in other comprehensive income within shareholders' equity in the year in which the changes occur. Since NEE is the plan sponsor, and its subsidiaries do not have separate rights to the plan assets or direct obligations to their employees, this accounting guidance is reflected at NEE and not allocated to the subsidiaries. The portion of previously unrecognized actuarial gains and losses and prior service costs or credits that are estimated to be allocable to FPL as net periodic (income) cost in future periods and that otherwise would be recorded in accumulated other comprehensive income (loss) (AOCI) are classified as regulatory assets and liabilities at NEE in accordance with regulatory treatment. See Note 12 – Employee Pension Plan and Other Benefits Plans.
+Stock-Based Compensation
+– NEE accounts for stock-based payment transactions based on grant-date fair value. Compensation costs for awards with graded vesting are recognized on a straight-line basis over the requisite service period for the

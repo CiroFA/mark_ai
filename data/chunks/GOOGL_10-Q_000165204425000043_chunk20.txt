@@ -1,0 +1,63 @@
+expiring in April 2030. The interest rates for all credit facilities are determined based on a formula using certain market rates.
+No
+amoun
+ts were outstanding under the credit facilities as of December 31, 2024 and March 31, 2025.
+Note 7.
+Supplemental Financial Statement Information
+Accounts Receivable
+The allowance for credit losses on accounts receivable was $
+879
+million and $
+915
+million as of December 31, 2024 and March 31, 2025, respectively.
+Property and Equipment, Net
+Property and equipment, net, co
+nsisted of the following (in millions):
+(1)
+As of December 31, 2024 and March 31, 2025, approximately
+60
+%
+of technical infrastructure assets were comprised of servers and network equipment. The remaining balance was comprised of data center land and buildings and related assets.
+22
+Accrued Expenses and Other Current Liabilities
+Accrued expenses and other current liabilities consisted of the following (in millions):
+(1)
+Additional property and equipment purchases of $
+3.2
+billion and $
+3.8
+billion as of December 31, 2024 and March 31, 2025, respectively, were included in accounts payable.
+(2)
+The amounts related to the European Commission (EC) fines, including any under appeal, are included in accrued expenses and other current liabilities on our Consolidated Balance Sheets. Amounts include the effects of foreign exchange and interest. See Note 10 for further details.
+Accumulated Other Comprehensive Income (Loss)
+Components of AOCI, net of income tax, were as follows (in millions):
+23
+The effects on net income of amounts reclassified from AOCI were as follows (in millions):
+Other Income (Expense), Net
+Components of OI&E were as follows (in millions):
+(1)
+Interest expense is net of interest capitalized of $
+43
+million and $
+79
+million for the three months ended March 31, 2024 and 2025, respectively.
+Note 8.
+Acquisitions
+Pending Acquisition
+In March 2025, we entered into a definitive agreement to acquire Wiz, a leading cloud security platform, for $
+32.0
+billion, subject to closing adjustments, in an all-cash transaction. The acquisition of Wiz is expected to close in 2026, subject to customary closing conditions, including the receipt of regulatory approvals. Upon the close of the acquisition, Wiz will be part of the Google Cloud segment.
+Note 9.
+Goodwill
+Changes in the carrying amount of goodwill for the three months ended March 31, 2025 were as follows (in millions):
+24
+Note 10.
+Commitments and Contingencies
+Commitments
+We have content licensing agreements with future fixed or minimum guaranteed commitments of
+$
+8.6
+billion
+as of March 31, 2025, of which the majority is paid quarterly through the first quarter of 2030.
+Indemnifications
+In the normal course of business, including to facilitate transactions in our services and products and corporate activities, we indemnify certain parties, including advertisers, Google Network partners, distribution partners, customers of Google Cloud offerings, lessors, and service providers with respect to

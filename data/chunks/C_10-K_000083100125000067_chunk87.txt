@@ -1,0 +1,27 @@
+risk (non-trading) management and for monitoring and influencing the balance sheet, investment securities and capital management activities of Citigroup.
+•
+Group Business Risk and Control Committee (GBRCC)
+:
+provides governance oversight of Citi’s compliance and operational risks and is responsible for ensuring that these risks are adequately identified, monitored, reported, managed and escalated, and that appropriate action is taken.
+•
+Group Reputation Risk Committee (GRRC)
+: provides governance oversight for reputation risk management across Citi, while promoting the culture of risk awareness and high standards of culture and conduct.
+•
+Group Risk Management Committee (GRMC)
+: the primary senior executive level committee responsible for (i) overseeing the execution of Citigroup’s ERM Framework, (ii) monitoring Citi’s risk profile at an aggregate level inclusive of individual risk categories, (iii) ensuring that Citi’s risk profile remains consistent with its approved risk appetite and (iv) discussing material and emerging risks facing the Company. The Committee also provides comprehensive Group-wide coverage of credit risk, market risk (trading) and strategic risk.
+In addition to the Executive Management committees listed above, management may establish ad-hoc committees in response to regulatory feedback or to manage additional activities when deemed necessary.
+The figure below illustrates the reporting lines between the Board and Executive Management committees:
+71
+CREDIT RISK
+Overview
+Credit risk is the risk of loss resulting from the decline in credit quality of a client, customer or counterparty (or downgrade risk) or the failure of a borrower, counterparty, third party or issuer to honor its financial or contractual obligations. For example, credit risk can arise from a deterioration in (i) the operating and financial performance of a borrower or (ii) a decline in the quality or value of any underlying collateral, both of which may also be impacted by adverse changes in macroeconomic, geopolitical, market and other factors. Credit risk is one of the most significant risks Citi faces as an institution (see “Risk Factors—Credit Risks” above). Credit risk arises in many of Citigroup’s business activities, including:
+•
+consumer, commercial and corporate lending;
+•
+capital markets derivative transactions;
+•
+structured finance; and
+•
+securities financing transactions (repurchase and reverse repurchase agreements, and securities loaned and borrowed).
+Credit risk also arises from clearing and settlement activities, when Citi transfers an asset in advance of receiving its counter-value or advances funds to settle a transaction on behalf of a client. Concentration risk, within credit risk, is the risk associated with having credit exposure concentrated within a specific client, industry, region or other category.
+Citi has an established framework in place for managing credit risk across all businesses that includes a defined risk appetite, credit

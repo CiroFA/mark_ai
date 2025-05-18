@@ -1,0 +1,21 @@
+scanning exercises to assess the performance of our cybersecurity systems and processes.
+We have a comprehensive Security Incident Response Plan (the “IRP”) designed to inform the proper escalation of
+non-routine
+suspected or confirmed information security or cybersecurity events based on the expected risk an event presents. As appropriate, a Security Incident Response Team composed of individuals from several internal technical and managerial functions may be formed to investigate and remediate the event and determine the extent of external advisor support required, including from external counsel, forensic investigators, and/or law enforcement. The IRP sets out ongoing monitoring or remediating actions to be taken after resolution of an incident. The IRP is reviewed at least annually by members of BXTI and Legal and Compliance.
+Blackstone maintains a formal cybersecurity risk management process and cybersecurity risk register, designed to identify, track and treat cybersecurity risks at the firm, and
+integrates
+these processes into the firm’s overall risk management practices described above. Our CSO periodically discusses and reviews cybersecurity risks and related mitigants with our enterprise risk committee and incorporates relevant cybersecurity risk updates and metrics in the semi-annual enterprise-wide risk management report.
+Blackstone has a process designed to assess the cybersecurity risks associated with the engagement of
+third-party
+vendors. This
+assessment
+is conducted on the basis of, among other factors, the types of services provided and the extent and type of Blackstone data accessed or processed by a third-party vendor. On the basis of its preliminary risk assessment of a third-party vendor, Blackstone may conduct further cybersecurity reviews or request remediation of, or contractual protections related to, any actual or potential identified cybersecurity risks.
+81
+Table of Contents
+In addition, where appropriate, Blackstone seeks to include in its contractual arrangements with certain of its third-party vendors provisions addressing its requirements and industry best practices with respect to data and cybersecurity, as well as the right to assess, monitor, audit and test such vendors’ cybersecurity programs and practices. Blackstone also utilizes a number of digital controls, which are reviewed at least annually, to monitor and manage third-party access to its internal systems and data.
+For a discussion of how risks from cybersecurity threats
+affect
+our business, see “—Item 1A. Risk Factors — Risk Related to our Business — Cybersecurity and data protection risks could result in the loss of data, interruptions in our business, and damage to our reputation, and subject us to regulatory actions, increased costs and financial losses, each of which could have a material adverse effect on our business and results of operations.” in this Annual Report on
+Form 10-K.
+Cybersecurity Governance
+Blackstone has a dedicated cybersecurity

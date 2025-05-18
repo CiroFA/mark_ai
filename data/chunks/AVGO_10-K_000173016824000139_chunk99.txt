@@ -1,0 +1,30 @@
+unvested stock-based awards was $
+11,259
+million, which is expected to be recognized over the remaining weighted-average service period of
+3.0
+years.
+The following table summarizes the weighted-average assumptions utilized to calculate the fair value of market-based awards granted in the periods presented:
+The risk-free interest rate was derived from the average U.S. Treasury Strips rate, which approximated the rate in effect appropriate for the term at the time of grant.
+The dividend yield was based on the historical and expected dividend payouts as of the respective award grant dates.
+The volatility was based on our own historical stock price volatility over the period commensurate with the expected life of the awards and the implied volatility of a 180-day call option on our own common stock measured at a specific date.
+The expected term was commensurate with the awards’ contractual terms.
+83
+Table of Contents
+Restricted Stock Unit Awards
+A summary of time- and market-based RSU activity was as follows:
+The aggregate fair value of time- and market-based RSUs that vested in fiscal years 2024, 2023 and 2022 was $
+14,914
+million, $
+5,423
+million and $
+4,207
+million, respectively, which represented the market value of our common stock on the date that the RSUs vested. The number of RSUs vested included shares of common stock that we withheld for settlement of employees’ tax obligations due upon the vesting of RSUs.
+12.
+Income Taxes
+The components of income before income taxes by U.S. and foreign jurisdictions were as follows:
+84
+Table of Contents
+The components of the provision for income taxes were as follows:
+The following is a reconciliation of our effective tax rate to the statutory federal tax rate:
+The increase in provision for income taxes in fiscal year 2024 compared to fiscal year 2023 was primarily due to the impact of a non-recurring intra-group transfer of certain IP rights to the United States as a result of supply chain realignment and the resulting shift in jurisdictional mix of income, partially offset by an increase in excess tax benefits from stock-based awards. The increase in provision for income taxes in fiscal year 2023 compared to fiscal year 2022 was primarily due to higher income before income taxes, partially offset by an increase in the recognition of uncertain tax benefits as a result of lapses of statutes of limitations.
+We derive the effective tax rate benefit attributed to foreign income taxed at different rates primarily from our operations in Singapore and Malaysia. Our tax incentives from the Singapore Economic Development Board provide that any qualifying income earned in Singapore is subject to tax incentives or reduced rates of Singapore income tax, subject to our compliance with the conditions specified in these incentives and legislative developments. These Singapore tax incentives are scheduled to expire in November 2030. We have also obtained a tax holiday on our qualifying income in Malaysia, which is

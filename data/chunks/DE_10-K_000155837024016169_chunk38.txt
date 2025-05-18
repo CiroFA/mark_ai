@@ -1,0 +1,37 @@
+expense was $
+874
+in 2024, $
+853
+in 2023, and $
+827
+in 2022.
+Lease payments for operating leases are scheduled as follows:
+​
+​
+​
+​
+75
+Table of Contents
+​
+25. FAIR VALUE MEASUREMENTS
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. To determine fair value, we use various methods including market and income approaches. We utilize valuation models and techniques that maximize the use of observable inputs. The models are industry-standard models that consider various assumptions including time values and yield curves as well as other economic measures. These valuation techniques are consistently applied.
+Level 1 measurements consist of quoted prices in active markets for identical assets or liabilities. Level 2 measurements include significant other observable inputs such as quoted prices for similar assets or liabilities in active markets; identical assets or liabilities in inactive markets; observable inputs such as interest rates and yield curves; and other market-corroborated inputs. Level 3 measurements include significant unobservable inputs.
+Fair values of the financing receivables that were issued long-term were based on the discounted values of their related cash flows at interest rates currently being offered by us for similar financing receivables.
+The fair values of the remaining financing receivables approximated the carrying amounts.
+Fair values of long-term borrowings and short-term securitization borrowings were based on current market quotes for identical or similar borrowings and credit risk, or on the discounted values of their related cash flows at current market interest rates.
+The fair values of financial instruments that do not approximate the carrying values at October 27, 2024 and October 29, 2023 follow:
+​
+*
+Fair value measurements above were Level 3 for all financing receivables and Level 2 for all borrowings.
+**  Values exclude finance lease liabilities that are presented as borrowings (see Note 24).
+​
+Assets and liabilities measured at October 27, 2024 and October 29, 2023 at fair value on a recurring basis follow, excluding our cash equivalents, which were carried at a cost that approximates fair value and consisted of money market funds and time deposits:
+​
+*    Primarily issued by U.S. government sponsored enterprises.
+​
+Fair value, nonrecurring level 3 measurements from impairments at October 27, 2024 and October 29, 2023 follow:
+​
+​
+The following is a description of the valuation methodologies we use to measure certain financial instruments on the balance sheets at fair value. For more information on asset impairments, see Note 4.
+Marketable securities –
+The portfolio of investments is valued on a market approach (matrix pricing model) in which all significant inputs are observable or can be derived from or corroborated by observable market data such as interest rates, yield curves,

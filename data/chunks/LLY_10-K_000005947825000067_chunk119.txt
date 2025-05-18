@@ -1,0 +1,16 @@
+foreign currency forward commitments were as follows, all of which have settlement dates within
+180
+days:
+In the normal course of business, our operations are exposed to fluctuations in interest rates which can vary the costs of financing, investing, and operating. We seek to address a portion of these risks through a controlled program of risk management that includes the use of derivative financial instruments. The objective of controlling these risks is to limit the impact of fluctuations in interest rates on earnings. Our primary interest-rate risk exposure results from changes in short-term U.S. dollar interest rates. In an effort to manage interest-rate exposures, we strive to achieve an acceptable balance between fixed- and floating-rate debt and investment positions and may enter into interest rate swaps or collars to help maintain that balance.
+Interest rate swaps or collars that convert our fixed-rate debt to a floating rate are designated as fair value hedges of the underlying instruments. Interest rate swaps or collars that convert floating-rate debt to a fixed rate are designated as cash flow hedges. Interest expense on the debt is adjusted to include the payments made or received under the swap agreements. Cash proceeds from or payments to counterparties resulting from the termination of interest rate swaps are classified as operating activities in our consolidated statements of cash flows.
+At December 31, 2024, all of our total long-term debt is at a fixed rate. We have converted approximately
+5
+percent of our long-term fixed-rate notes to floating rates through the use of interest rate swaps.
+80
+We also may enter into forward-starting interest rate swaps and treasury locks, which we designate as cash flow hedges, as part of any anticipated future debt issuances in order to reduce the risk of cash flow volatility from future changes in interest rates. The change in fair value of these instruments is recorded as part of other comprehensive income (loss) (see Note 17) and, upon completion of a debt issuance and termination of the instrument, is amortized to interest expense over the life of the underlying debt. Cash proceeds or payments from the termination of these instruments are classified as operating activities in our consolidated statements of cash flows.
+The Effect of Risk Management Instruments on the Consolidated Statements of Operations
+The following effects of risk-management instruments were recognized in other–net, (income) expense:
+During the years ended December 31, 2024, 2023, and 2022, the amortization of losses related to the portion of our risk management hedging instruments, fair value hedges, and cash flow hedges that was excluded from the assessment of effectiveness was not material.
+The Effect of Risk-Management Instruments on Other Comprehensive Income (Loss)
+The effective portion of risk-management instruments that was recognized in other comprehensive income (loss) is as follows:
+During the years ended

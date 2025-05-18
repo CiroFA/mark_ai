@@ -1,0 +1,40 @@
+fair value adjustments are being amortized or accreted into interest over the contractual lives of the assets or liabilities.
+Cash Flow and Net Investment Hedges
+The following table summarizes certain information related to cash flow hedges and net investment hedges for 2024, 2023 and 2022. Of the $
+5.6
+billion after-tax net loss ($
+7.5
+billion pretax) on derivatives in accumulated OCI at December 31, 2024, losses of $
+2.5
+billion after-tax ($
+3.4
+billion pretax) related to both open and closed cash flow hedges are expected to be reclassified into earnings in the next 12 months. These net losses reclassified into earnings are expected to primarily decrease net interest income related to the respective hedged
+items. For open cash flow hedges, the maximum length of time over which forecasted transactions are hedged is approximately
+five years
+. For terminated cash flow hedges, the time period over which the forecasted transactions will be recognized in interest income is approximately
+four years
+, with the aggregated amount beyond this time period being insignificant.
+On November 15, 2023, Bloomberg Index Services Limited announced the permanent cessation of the Bloomberg Short-Term Bank Yield Index (BSBY) and all its tenors effective after final publication on November 15, 2024. The Corporation determined that certain forecasted BSBY-indexed interest payments, which had been designated in cash flow hedges, were no longer expected to occur beyond November 15, 2024 as they would transition to a new reference rate. Accordingly, during the fourth quarter of 2023, the Corporation reclassified $
+2.0
+billion of pretax loss from accumulated OCI into market making and similar activities for the amount related to these forecasted transactions.
+(1)
+Amounts reclassified from accumulated OCI are recorded in interest income and market making and similar activities in the Consolidated Statement of Income.
+(2)
+Amounts reclassified from accumulated OCI are recorded in compensation and benefits expense in the Consolidated Statement of Income.
+(3)
+Amounts reclassified from accumulated OCI are recorded in other income in the Consolidated Statement of Income. Amounts excluded from effectiveness testing and recognized in market making and similar activities were gains (losses) of $
+252
+million, $
+195
+million and $(
+38
+) million in 2024, 2023 and 2022, respectively.
+Other Risk Management Derivatives
+Other risk management derivatives are used by the Corporation to reduce certain risk exposures by economically hedging various assets and liabilities.
+The table below presents gains (losses) on these derivatives for 2024, 2023 and 2022. These gains (losses) are largely offset by the income or expense recorded on the hedged item.
+(1)
+Includes hedges of interest rate risk on MSRs and IRLCs to originate mortgage loans that will be held for sale.
+(2)
+Gains (losses) on these derivatives are recorded in other income.
+(3)
+Gains (losses) on these derivatives are recorded in market

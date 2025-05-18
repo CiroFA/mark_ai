@@ -1,0 +1,19 @@
+“the Company,” “we,” “our” or “us”) is a global biotechnology pioneer that discovers, develops, manufactures and delivers innovative human therapeutics. We operate our business in
+one
+operating segment: human therapeutics. See Note 2, Segment and other information.
+Basis of presentation
+The interim unaudited financial information for the three months ended March 31, 2025 and 2024, has been prepared in accordance with GAAP and includes all adjustments (consisting of only normal, recurring adjustments unless otherwise indicated) that Amgen considers necessary for a fair presentation, in all material respects, of its condensed consolidated results of operations for those periods. Interim results are not necessarily indicative of results for the full fiscal year.
+The condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and the notes thereto contained in our Annual Report on Form 10-K for the year ended December 31, 2024.
+Principles of consolidation
+The condensed consolidated financial statements include the accounts of Amgen and its majority-owned subsidiaries. In determining whether we are the primary beneficiary of a variable interest entity, we consider whether we have both the power to direct activities of the entity that most significantly impact the entity’s economic performance and the obligation to absorb losses of, or the right to receive benefits from, the entity that could potentially be significant to that entity. We do not have any significant interests in any
+variable interest entities of which we are the primary beneficiary. All material intercompany transactions and balances have been eliminated in consolidation. Certain reclassifications have been made to prior periods in the condensed consolidated financial statements and accompanying notes to conform with the current presentation.
+Use of estimates
+The preparation of condensed consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the condensed consolidated financial statements and accompanying notes. Actual results may differ from those estimates.
+Property, plant and equipment, net
+Property, plant and equipment is recorded at historical cost, net of accumulated depreciation and amortization of $
+10.6
+billion and $
+10.4
+billion as of March 31, 2025 and December 31, 2024, respectively.
+Recent accounting pronouncements not yet adopted
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, to improve income tax disclosure requirements by requiring more detailed information in several income tax disclosures, such as enhancing disclosure of income taxes paid and requiring disaggregation of the effective income tax rate reconciliation. The standard is effective for public business entities such as Amgen

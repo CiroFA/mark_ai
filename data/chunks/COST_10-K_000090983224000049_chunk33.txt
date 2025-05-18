@@ -1,0 +1,29 @@
+Contents
+within stockholders’ equity in accumulated other comprehensive income in the consolidated balance sheets.
+The nature and amount of our long-term debt may vary as a result of business requirements, market conditions, and other factors. As of the end of 2024, long-term debt with fixed interest rates was $5,919. Fluctuations in interest rates may affect the fair value of the fixed-rate debt. See
+Note 4
+to the consolidated financial statements included in
+Item 8
+of this Report for more information on our long-term debt.
+Foreign Currency Risk
+Our foreign subsidiaries conduct certain transactions in non-functional currencies, which exposes us to fluctuations in exchange rates. We manage these fluctuations, in part, through the use of forward foreign-exchange contracts, seeking to economically hedge the impact of these fluctuations on known future expenditures denominated in a non-functional foreign-currency. The contracts are intended primarily to economically hedge exposure to U.S. dollar merchandise inventory expenditures made by our international subsidiaries. We seek to mitigate risk with the use of these contracts and do not intend to engage in speculative transactions. For additional information related to the Company's forward foreign-exchange contracts, see
+Notes 1
+and
+3
+to the consolidated financial statements included in
+Item 8
+of this Report. A hypothetical 10% strengthening of the functional currencies compared to the non-functional currency exchange rates at September 1, 2024, would have decreased the fair value of the contracts by approximately $120 and resulted in an unrealized loss in the consolidated statements of income for the same amount.
+Commodity Price Risk
+We are exposed to fluctuations in prices for energy, particularly electricity and natural gas, and other commodities used in retail and manufacturing operations, which we seek to partially mitigate through fixed-price contracts for certain of our warehouses and other facilities, predominantly in the U.S. and Canada. We also enter into variable-priced contracts for some purchases of electricity and natural gas, in addition to some of the fuel for our gas stations, on an index basis. These contracts meet the characteristics of derivative instruments, but generally qualify for the “normal purchases and normal sales” exception under authoritative guidance and require no mark-to-market adjustment.
+31
+Table of Contents
+Item 8—Financial Statements and Supplementary Data
+COSTCO WHOLESALE CORPORATION
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+32
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and Board of Directors
+Costco Wholesale Corporation:
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheets of Costco Wholesale Corporation and subsidiaries (the Company) as of September 1, 2024 and September 3, 2023, the related consolidated statements of income, comprehensive income,

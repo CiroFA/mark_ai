@@ -1,0 +1,39 @@
+based on management’s current knowledge, the Company believes that the amount or range of reasonably possible loss, if any, will not, either individually or in the aggregate, have a material adverse effect on the Company’s financial position, results of operations, or cash flows.
+NOTE 13 –
+Restructuring Charges
+In the fourth quarter of 2024, the Company implemented a restructuring plan (the 2024 Restructuring Plan) which reduced the global workforce by approximately 4% of headcount. Actions associated with the 2024 Restructuring Plan were substantially completed in the first quarter of fiscal year 2025. The 2024 Restructuring Plan charges to date were $
+186
+million, of which $
+113
+million was related to employee severance and benefits and $
+73
+million was related to asset impairment. During the quarter ended March 29, 2025, the Company made $
+75
+million of severance payments and had no charges or adjustments to period expense under the 2024 Restructuring Plan. As of March 29, 2025 and December 28, 2024, restructuring plan liabilities of $
+14
+million and $
+89
+million, respectively, were recorded within Accrued liabilities in the Condensed Consolidated Balance Sheets.
+NOTE 14 –
+Subsequent Events
+Acquisition of ZT Systems
+On March 31, 2025, the Company completed the acquisition of ZT Group Int’l Inc. (ZT Systems) to help accelerate the end-to-end design and deployment of AMD-powered AI infrastructure at scale for the cloud. At the close of the acquisition, the Company paid $
+3.375
+billion in cash, subject to certain purchase price adjustments, and issued
+8,335,849
+shares of the Company’s common stock. To the extent certain conditions are met, the Company will pay an additional $
+300
+million in cash and issue up to
+740,961
+shares of the Company’s common stock. The Company is actively seeking a strategic partner to acquire ZT Systems' manufacturing business.
+Export Restrictions
+On April 15, 2025, the Company completed its initial assessment of a new license requirement implemented by the U.S. government for the export of certain semiconductor products to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an ultimate parent in such countries (the Export Control). The Export Control applies to the Company’s MI308 products. The Company expects to apply for licenses but there is no assurance that licenses will be granted. The Company expects that the Export Control may result in charges of approximately $
+800
+million in inventory and related reserves.
+Tax Matters
+The Company previously submitted claims to the Internal Revenue Service (IRS) seeking reasonable cause relief related to dual consolidated losses. On April 17, 2025, the IRS approved the Company’s request for relief. The relief, as approved, is estimated to favorably impact the Company’s tax provision in fiscal year 2025 by approximately $
+900
+million.
+20
+Table of Contents
+The statements in this report include forward-looking statements within the

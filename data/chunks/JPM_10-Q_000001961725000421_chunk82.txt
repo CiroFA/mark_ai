@@ -1,0 +1,45 @@
+December 31, 2024.
+(i)
+Excludes loans with no FICO and/or LTV data available.
+(j)
+The geographic regions presented in the table are ordered based on the magnitude of the corresponding loan balances at March 31, 2025.
+127
+Loan modifications
+The Firm grants certain modifications of residential real estate loans to borrowers experiencing financial difficulty. The Firm's proprietary modification programs as well as government programs, including U.S. GSE programs, that generally provide various modifications to borrowers experiencing financial difficulty including, but not limited to, interest rate reductions, term extensions, other-than-insignificant payment deferral and principal forgiveness that would otherwise have been required under the terms of the original agreement, are considered FDMs. Refer to Note 12 of JPMorganChase's 2024 Form 10-K for further information.
+Financial effects of FDMs
+For the three months ended March 31, 2025, retained residential real estate FDMs were $
+61
+million. The financial effects of the FDMs, which were largely in the form of term extensions and interest rate reductions, included extending the weighted-average life of the loans by
+15
+years, and reducing the weighted-average contractual interest rate from
+7.41
+% to
+6.18
+% for the three months ended March 31, 2025.
+For the three months ended March 31, 2024, retained residential real estate FDMs were $
+39
+million. The financial effects of the FDMs, which were predominantly in the form of term extensions and interest rate reductions, included extending the weighted-average life of the loans by
+16
+years, and reducing the weighted-average contractual interest rate from
+7.39
+% to
+4.28
+% for the three months ended March 31, 2024.
+As of March 31, 2025 and December 31, 2024, there were
+no
+additional commitments to lend to borrowers experiencing financial difficulty whose loans have been modified as FDMs.
+For the three months ended March 31, 2025 and 2024, loans subject to a trial modification, where the terms of the loans have not been permanently modified, and Chapter 7 loans were not material.
+Payment status of FDMs
+The following table provides information on the payment status of retained residential real estate FDMs during the twelve months ended March 31, 2025 and 2024
+Defaults of FDMs
+Retained residential real estate FDMs that defaulted during the three months ended March 31, 2025 and 2024 and were reported as FDMs in the twelve months prior to the default were not material.
+Active and suspended foreclosure
+At March 31, 2025 and December 31, 2024, the Firm had retained residential real estate loans, excluding those insured by U.S. government agencies, with a carrying value of $
+603
+million and $
+576
+million, respectively, that were not included in REO, but were in the process of active or suspended foreclosure.
+128
+Auto and other
+Delinquency is the primary credit quality indicator for retained auto and other loans.
+The following tables provide information on

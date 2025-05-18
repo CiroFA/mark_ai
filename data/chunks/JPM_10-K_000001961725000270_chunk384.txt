@@ -1,0 +1,31 @@
+risk associated with the debt of a third-party issuer (the reference entity) which allow one party (the protection purchaser) to transfer that risk to another party (the protection seller). Upon the occurrence of a credit event by the reference entity, which may include, among other events, the bankruptcy or failure to pay its obligations, or certain restructurings of the debt of the reference entity, neither party has recourse to the reference entity. The protection purchaser has recourse to the protection seller for the difference between the face value of the CDS contract and the fair value at the time of settling the credit derivative contract. The determination as to whether a credit event has occurred is generally made by the relevant International Swaps and Derivatives Association (“ISDA”) Determinations Committee.
+Criticized:
+Criticized loans, lending-related commitments and derivative receivables that are classified as special mention, substandard and doubtful categories for regulatory purposes and are generally consistent with a rating of CCC+/Caa1 and below, as defined by S&P and Moody’s.
+CRO:
+Chief Risk Officer
+CRR:
+Capital Requirements Regulation
+CTC:
+CIO, Treasury and Corporate
+Custom lending:
+Loans to AWM’s Global Private Bank clients, including loans to private investment funds and loans that are collateralized by nontraditional asset types, such as art work, aircraft, etc.
+CVA:
+Credit valuation adjustment
+Debit and credit card sales volume
+: Dollar amount of card member purchases, net of returns.
+Deposit margin:
+Represents net interest income expressed as a percentage of average deposits.
+Distributed denial-of-service attack:
+The use of a large number of remote computer systems to electronically send a high volume of traffic to a target website to create a service outage at the target. This is a form of cyberattack.
+Dodd-Frank Act:
+Wall Street Reform and Consumer Protection Act
+DVA:
+Debit valuation adjustment
+EC:
+European Commission
+Eligible HQLA:
+Eligible high-quality liquid assets, for purposes of calculating the LCR, is the amount of unencumbered HQLA that satisfy certain operational considerations as defined in the LCR rule.
+Eligible LTD:
+Long-term debt satisfying certain eligibility criteria
+Embedded derivatives:
+are implicit or explicit terms or features of a financial instrument that affect some or all of the cash flows or the value of the instrument in a manner similar to a derivative. An instrument containing such terms or features is referred to as a “hybrid.” The component of the hybrid that is the non-derivative instrument is referred to as the “host.” For example, callable debt is a hybrid instrument that contains a plain vanilla debt instrument (i.e., the host) and an embedded option that allows the issuer to redeem the debt issue at a specified date for a specified amount (i.e., the embedded derivative). However, a floating rate instrument is not a hybrid composed of a fixed-rate instrument and an interest rate

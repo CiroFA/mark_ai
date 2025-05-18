@@ -1,0 +1,47 @@
+performance of and allocating resources to each of the segments as well as in developing certain compensation recommendations. The CODM reviews segment revenue, cost and profit information related to each segment, which is included in the tables below, but does not regularly review total assets by segment and therefore, such information is not presented.
+Management System Segment View
+(1)
+Other expenses and (income) by segment primarily includes:
+Software – Selling, general and administrative (SG&A) expense, Research and development (R&D) expense
+Consulting – SG&A expense
+Infrastructure – R&D expense, SG&A expense, Intellectual property and custom development income
+Financing – SG&A expense, Intercompany financing net other income
+13
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+Reconciliations to IBM as Reported:
+(1)
+2024 includes a gain from the divestiture of The Weather Company assets.
+Other Reportable Segment Items
+(1)
+Where several segments share the use of leased or owned assets, a landlord's ownership of these assets is assigned to one segment. While depreciation expense is allocated to each user segment, it is presented consistently with the landlord's ownership; therefore, there will not be a precise correlation between segment profit and the segment depreciation reported above.
+Immaterial Items
+The resulting gains and (losses) from equity method investments that are attributable to the segments did not have a material effect on the financial results of the segments.
+14
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+5.
+Acquisitions & Divestitures:
+Acquisitions
+Purchase price consideration for all acquisitions was paid primarily in cash. All acquisitions, unless otherwise stated, were for
+100
+percent of the acquired business and are reported in the Consolidated Statement of Cash Flows, net of acquired cash and cash equivalents.
+During the three months ended March 31, 2025, the company completed
+two
+acquisitions within the Software segment and
+one
+acquisition within the Consulting segment at an aggregate total purchase price of $
+8,017
+million. These acquisitions are expected to enhance the company’s portfolio of products and services capabilities and further advance IBM’s hybrid cloud and AI strategy.
+At March 31, 2025, the remaining cash to be remitted by the company related to 2025 acquisitions was not material.
+The following table reflects the purchase price related to these acquisitions and the resulting purchase price allocations as of March 31, 2025.
+(1)
+Include $
+929
+million
+of cash and cash equivalents and $
+331
+million of short-term marketable securities acquired from HashiCorp.
+N/A – not applicable
+The goodwill generated from these acquisitions is primarily attributable to the assembled workforce and the expected synergies from the integration of the acquired businesses.
+The identified intangible assets are amortized on a straight-line basis over their useful life which

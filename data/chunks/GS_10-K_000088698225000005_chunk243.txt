@@ -1,0 +1,31 @@
+are to:
+•
+Reflect economic events in earnings on a timely basis;
+•
+Mitigate volatility in earnings from using different measurement attributes (e.g., transfers of financial assets accounted for as financings are recorded at fair value, whereas the related secured financing would be recorded on an accrual basis absent electing the fair value option); and
+•
+Address simplification and cost-benefit considerations (e.g., accounting for hybrid financial instruments at fair value in their entirety versus bifurcation of embedded derivatives and hedge accounting for debt hosts).
+Hybrid financial instruments are instruments that contain bifurcatable embedded derivatives and do not require settlement by physical delivery of nonfinancial assets (e.g., physical commodities). Unless the firm has elected to account for the entire hybrid financial instrument at fair value under the fair value option, the embedded derivative is bifurcated from the associated host contract, the derivative is accounted for at fair value and the host contract is accounted for at amortized cost, adjusted for the effective portion of any fair value hedges.
+Other financial assets and liabilities accounted for at fair value under the fair value option include:
+•
+Repurchase agreements and substantially all resale agreements;
+•
+Certain securities borrowed and loaned transactions;
+•
+Certain customer and other receivables and certain other assets and liabilities;
+•
+Certain time deposits (deposits with no stated maturity are not eligible for a fair value option election), including structured certificates of deposit, which are hybrid financial instruments;
+•
+Substantially all other secured financings, including structured financing arrangements and transfers of assets accounted for as financings; and
+•
+Certain unsecured short- and long-term borrowings, substantially all of which are hybrid financial instruments.
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of other financial assets and liabilities, and Note 5 for information about other financial assets and liabilities within the fair value hierarchy.
+Gains and Losses on Other Financial Assets and Liabilities Accounted for at Fair Value Under the Fair Value Option
+The table below presents the gains and losses recognized in earnings as a result of the election to apply the fair value option to certain financial assets and liabilities.
+In the table above:
+•
+Gains/(losses) were substantially all included in market making.
+•
+Gains/(losses) exclude contractual interest, which is included in interest income and interest expense, for all instruments other than hybrid financial instruments. See Note 23 for further information about interest income and interest expense.
+•
+Gains/(losses) included in unsecured short- and long-term borrowings were substantially all related to the embedded derivative component of hybrid financial instruments. These

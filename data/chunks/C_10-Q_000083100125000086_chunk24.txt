@@ -1,0 +1,17 @@
+billion of capital to common shareholders in the form of $1.1 billion in dividends and $1.8 billion in share repurchases (approximately 23 million common shares) under Citi’s multiyear $20 billion common stock repurchase program. For additional information, see “Unregistered Sales of Equity Securities, Repurchases of Equity Securities and Dividends” below.
+Citi paid common dividends of $0.56 per share for the first quarter of 2025, and on April 3, 2025, declared common dividends of $0.56 per share for the second quarter of 2025. Citi plans to maintain a quarterly common dividend of $0.56 per share, subject to financial and macroeconomic conditions as well as its Board of Directors’ approval.
+Common Equity Tier 1 Capital Ratio
+Citi’s Common Equity Tier 1 (CET1) Capital ratio under the Basel III Standardized Approach was 13.4% as of March 31, 2025, compared to 13.6% as of December 31, 2024, relative to a required regulatory CET1 Capital ratio of 12.1% as of such dates under the Standardized Approach. Citi’s CET1 Capital ratio under the Basel III Advanced Approaches was 11.9% as of March 31, 2025, compared to 12.1% as of December 31, 2024, relative to a required regulatory CET1 Capital ratio of 10.5% as of such dates under the Advanced Approaches framework.
+Citi’s CET1 Capital ratio decreased under both the Standardized Approach and Advanced Approaches framework from December 31, 2024, driven primarily by the payment of common and preferred dividends, common share repurchases, increases in Standardized Approach RWA and Advanced Approaches RWA and higher deferred tax assets, partially offset by net income.
+31
+Citigroup’s Capital Resources
+The following table presents Citi’s required risk-based capital ratios as of March 31, 2025 and December 31, 2024:
+(1)
+For all periods presented, Citi’s required risk-based capital ratios under the Advanced Approaches included the 2.5% Capital Conservation Buffer and 3.5% GSIB (Global Systemically Important Bank) surcharge (all of which must be composed of CET1 Capital).
+(2)
+Beginning October 1, 2024, Citi’s required risk-based capital ratios under the Standardized Approach included the 4.1% Stress Capital Buffer through September 30, 2025 and 3.5% GSIB surcharge (all of which must be composed of CET1 Capital). For additional information, see “Capital Resources—Regulatory Capital Buffers” in Citi’s 2024 Form 10-K.
+The following tables present Citi’s capital components and ratios as of March 31, 2025 and December 31, 2024:
+(1)
+Commencing January 1, 2025, the capital effects resulting from adoption of the current expected credit losses (CECL) methodology have been fully reflected in Citi’s regulatory capital. For additional information, see “Capital Resources—Regulatory Capital Treatment—Modified Transition of the Current Expected Credit Losses Methodology” in Citi’s 2024 Form 10-K.
+(2)
+Citi’s binding CET1 Capital and Tier 1 Capital ratios were derived under the Basel III Standardized Approach, whereas Citi’s binding

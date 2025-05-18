@@ -1,0 +1,15 @@
+incidents affecting external entities, and trends in cybersecurity controls and adoption. As part of our incident response processes, incidents are classified based on the incident’s characteristics. For certain risk-based classifications of incidents, the CEO and other members of the executive leadership team are also informed and contribute as part of our incident response processes.
+BOARD OVERSIGHT
+Our full Board of Directors provides ultimate oversight for the cybersecurity program, in addition to other significant risks of Intuit. The Board of Directors has delegated to the Audit and Risk Committee to provide the primary oversight of cybersecurity risks. On a quarterly basis, the CISO and CyberCRAFT specialists present the Audit and Risk Committee with updates, metrics, and trends, such as the status of prior security events, existing and emerging threat landscapes, the results of audits or assessments, fraud prevention efforts, vulnerability detection and disclosure changes, and the status of projects to strengthen our security systems and improve incident readiness, and how these may affect broader enterprise risk management. Under our incident response processes’ risk-based escalation protocols, the CISO, or other management, escalates certain incidents to the chair of the Audit and Risk Committee, who may then involve the broader committee or the full Board of Directors, as appropriate.
+Tables of Contents
+Our principal locations, their purposes, and the expiration dates for the leases on facilities at those locations as of July 31, 2024, are shown in the table below. We have renewal options on many of our leases.
+We also lease or own facilities in a number of domestic locations and lease facilities internationally in Canada, Israel, the United Kingdom, Australia, and other locations. We believe our facilities are suitable and adequate for our current and near-term needs, and that we will be able to locate additional facilities as needed. See Note 10 to the consolidated financial statements in Item 8 of this Annual Report for more information about our lease commitments.
+See Note 14 to the consolidated financial statements in Item 8 of this Annual Report for a description of legal proceedings.
+None.
+Tables of Contents
+Market Information for Common Stock
+Intuit’s common stock is quoted on the Nasdaq Global Select Market under the symbol “INTU.”
+Stockholders
+As of August 27, 2024, we had approximately 520 record holders and approximately 2,014,000 beneficial holders of our common stock.
+Dividends
+We declared cash dividends that totaled $3.60 per share of outstanding common stock, or $1.0 billion, during fiscal 2024 and $3.12 per share of outstanding common stock, or $898 million, during fiscal 2023. In August 2024, our Board of Directors declared a quarterly cash dividend of $1.04 per share of outstanding common stock payable on October 18, 2024 to stockholders of record at the close of business on October 10, 2024. We currently expect to

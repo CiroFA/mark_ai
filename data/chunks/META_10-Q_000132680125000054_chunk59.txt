@@ -1,0 +1,18 @@
+compliance obligations, including with respect to artificial intelligence;
+•
+the effectiveness of our ad targeting or degree to which users consent to, opt out of, or reduce the use of data for ads, including as a result of product changes and controls that we have implemented or may implement in the future in connection with the GDPR, ePrivacy Directive, DMA, DMCC, U.S. state privacy laws including the CCPA, and other laws, regulations, regulatory actions, or litigation, or otherwise, that impact our ability to use data for advertising purposes (for example, in response to regulatory developments in Europe, we began offering our users a "subscription for no ads" alternative in the European Union, European Economic Area, and Switzerland, and subsequently in November 2024 provided users in those regions who elect to continue receiving our services free-of-charge, supported by ads, an option to see less personalized ads);
+•
+the degree to which users cease or reduce the number of times they engage with our ads;
+•
+changes in the way advertising on mobile devices or on personal computers is measured or priced;
+•
+the success of technologies designed to block the display of ads or ad measurement tools;
+•
+changes in the composition of our marketer base or our inability to maintain or grow our marketer base; and
+•
+the impact of macroeconomic and geopolitical conditions, whether in the advertising industry in general, or among specific types of marketers or within particular geographies, which in turn can have broader effects in other regions (for example, the war in Ukraine and service restrictions imposed by the Russian government have adversely affected our advertising business in Europe and other regions, and advertiser spending also is subject to adverse effects from conflicts in the Middle East and the implementation of tariffs or other existing or future trade policies by the United States, China, and other governments).
+From time to time, certain of these factors have adversely affected our advertising revenue to varying degrees. The occurrence of any of these or other factors in the future, including our enforcement efforts, could result in a reduction in marketer spend or demand for our ads, which may reduce the prices we receive for our ads, could cause marketers to stop advertising with us altogether, or could otherwise negatively affect our revenue and financial results, and could be material.
+55
+Table of Contents
+Our ad targeting and measurement tools incorporate data signals from user activity on websites and services that we do not control, as well as signals generated within our products, and changes to the regulatory environment, third-party mobile operating systems and browsers, and our own products have impacted, and we expect will continue to impact, the availability of such signals, which will adversely affect our advertising revenue.
+Our ad targeting and measurement tools rely on data signals from user activity on websites and

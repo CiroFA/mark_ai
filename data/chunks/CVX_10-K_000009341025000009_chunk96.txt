@@ -1,0 +1,62 @@
+of stock options are estimated using historical forfeiture data dating back to 1990.
+Fair Value and Assumptions
+The fair market values of stock options and stock appreciation rights granted in 2024, 2023 and 2022 were measured on the date of grant using the Black-Scholes option-pricing model with the following weighted-average assumptions:
+1
+Expected term is based on historical exercise and post-vesting cancellation data.
+2
+Volatility rate is based on historical stock prices over an appropriate period, generally equal to the expected term.
+A summary of option activity during 2024 is presented below:
+The total intrinsic value (i.e., the difference between the exercise price and the market price) of options exercised during 2024, 2023 and 2022 was $
+190
+, $
+167
+and $
+2,369
+, respectively. During this period, the company continued its practice of issuing treasury shares upon exercise of these awards.
+As of December 31, 2024, there was $
+320
+of total unrecognized before-tax compensation cost related to nonvested share-based compensation arrangements granted under the plan. That cost is expected to be recognized over a weighted-average period of
+1.9
+years.
+At January 1, 2024, the number of LTIP performance shares outstanding was equivalent to
+4,419,310
+shares. During 2024,
+1,525,452
+performance shares were granted,
+1,966,923
+shares vested with cash proceeds distributed to recipients and
+118,400
+shares were forfeited. At December 31, 2024, there were
+3,859,439
+performance shares outstanding, of which
+2,815,575
+are payable in cash and
+1,043,864
+are payable in shares. The fair value of the liability recorded for these instruments payable in cash was $
+307
+and was measured largely using the Monte Carlo simulation method.
+93
+At January 1, 2024, the number of restricted stock units outstanding was equivalent to
+5,060,242
+shares. During 2024,
+1,813,119
+restricted stock units were granted,
+1,340,664
+units vested with cash proceeds distributed to recipients and
+132,899
+units were forfeited. At December 31, 2024, there were
+5,399,798
+restricted stock units outstanding, of which
+3,346,557
+are payable in cash and
+2,053,241
+are payable in shares. The fair value of the liability recorded for the vested portion of these instruments payable in cash was $
+387
+, valued at the stock price as of December 31, 2024. In addition, outstanding stock appreciation rights that were granted under the LTIP totaled
+535,122
+equivalent shares as of December 31, 2024. The fair value of the liability recorded for the vested portion of these instruments was $
+23
+.
+Note 23
+Employee Benefit Plans
+The company has defined benefit pension plans for many employees. The company typically prefunds defined benefit plans as required by local regulations or in certain situations where prefunding provides economic advantages. In the United States, all qualified plans are subject to the Employee Retirement Income Security Act (ERISA) minimum funding standard. The company does not typically fund U.S.

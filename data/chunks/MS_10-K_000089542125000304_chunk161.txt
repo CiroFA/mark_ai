@@ -1,0 +1,21 @@
+has outstanding letters of credit and other financial guarantees issued by third-party banks to certain of the Firm’s counterparties. The Firm is contingently liable for these letters of credit and other financial guarantees, which are primarily used to provide collateral for securities and commodities traded and to satisfy various margin requirements in lieu of depositing cash or securities with these counterparties.
+Guarantees
+1.
+The carrying amounts of derivative contracts that meet the accounting definition of a guarantee are shown on a gross basis. For further information on derivative contracts, see Note 6.
+2.
+These amounts include certain issued standby letters of credit participated to third parties, totaling $
+0.6
+billion of notional and collateral/recourse, due to the nature of the Firm’s obligations under these arrangements.
+3.
+As of December 31, 2024, the carrying amount of standby letters of credit and other financial guarantees issued includes an allowance for credit losses of $
+56
+million.
+4.
+Related to commercial, residential mortgage and asset backed securitizations.
+Types of Guarantees
+Non-Credit Derivatives.
+Certain derivative contracts meet the accounting definition of a guarantee, including certain written options, contingent-forward contracts and CDS (see Note 6 regarding credit derivatives in which the Firm has sold credit protection to the counterparty which are excluded from the previous table). For non-credit derivative contracts that meet the accounting definition of a guarantee, the notional amount is used as the maximum potential payout for certain derivative contracts, such as written interest rate caps and written foreign
+currency options. The Firm evaluates collateral requirements for all derivatives, including derivatives that do not meet the accounting definition of a guarantee. For the effects of cash collateral and counterparty netting, see Note 6.
+In certain situations, collateral may be held by the Firm for those contracts that meet the definition of a guarantee. Generally, the Firm sets collateral requirements by counterparty so that the collateral covers various transactions and products and is not allocated specifically to individual contracts. Also, the Firm may recover amounts related to the underlying asset delivered to the Firm under the derivative contract.
+Standby Letters of Credit and Other Financial Guarantees Issued.
+Generally, in connection with its lending businesses, the Firm provides standby letters of credit and other financial guarantees to counterparties. Such arrangements represent obligations to make payments to third parties if the counterparty fails to fulfill its obligation under a borrowing arrangement or other contractual obligation. A majority of the Firm’s standby letters of credit are provided on behalf of counterparties that are investment grade. If the counterparty fails to fulfill its contractual obligation, the Firm has access to collateral or recourse that would approximate

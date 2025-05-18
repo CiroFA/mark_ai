@@ -1,0 +1,57 @@
+Note 9 for additional information. For these arrangements, cash is typically received over time.
+Subscription revenue includes revenue recognized from our term software licenses, security software licenses, SaaS, and associated service arrangements.
+Our subscription revenue is recorded in product and services revenue in our Consolidated Statements of Operations as follows (in millions):
+The majority of our product subscription revenue is recognized over time and the remainder is recognized upfront. Substantially all of our services subscription revenue is recognized over time based on the contract term.
+(b)
+Contract Balances
+Accounts Receivable
+Accounts receivable, net was
+$
+5.7
+billion as of January 25, 2025 compared to $
+6.7
+billion as of July 27, 2024, as reported on the Consolidated Balance Sheets.
+The allowances for credit loss for our accounts receivable are summarized as follows (in millions):
+Contract Assets and Liabilities
+Gross contract assets by our internal risk ratings are summarized as follows (in millions):
+Contract assets consist of unbilled receivables and are recorded when revenue is recognized in advance of scheduled billings to our customers. These amounts are primarily related to software and service arrangements where transfer of control has occurred but we have not yet invoiced. Our contract assets for these unbilled receivables, net of allowances, were $
+2.9
+billion as of January 25, 2025 and $
+2.7
+billion as of July 27, 2024, and were included in other current assets and other assets.
+Contract liabilities consist of deferred revenue. Deferred revenue was $
+27.8
+billion
+as of January 25, 2025 compared to $
+28.5
+billion as of July 27, 2024. We recognized approximately $
+4.4
+billion and $
+9.7
+billion of revenue during the second quarter and first six months of fiscal 2025 that was included in the deferred revenue balance at July 27, 2024.
+(c)
+Capitalized Contract Acquisition Costs
+We capitalize direct and incremental costs incurred to acquire contracts, primarily sales commissions, for which the associated revenue is expected to be recognized in future periods. We incur these costs in connection with both initial contracts and renewals. These costs are initially deferred and typically amortized over the term of the customer contract which corresponds to
+12
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+the period of benefit. Capitalized contract acquisition costs were $
+1.5
+billion and $
+1.3
+billion as of January 25, 2025 and July 27, 2024, respectively, and were included in other current assets and other assets. The amortization expense associated with these costs was $
+238
+million and $
+446
+million
+for the second quarter and
+first six months of fiscal 2025, respectively, and $
+166
+million and $
+324
+million for the corresponding periods of fiscal 2024, respectively, and was included in sales and marketing expenses.
+4.
+Acquisitions
+A summary of the allocation of the

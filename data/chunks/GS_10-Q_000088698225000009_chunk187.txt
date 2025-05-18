@@ -1,0 +1,18 @@
+evaluate operational risk exposures and identify businesses, activities or products with heightened levels of operational risk.
+Risk Measurement
+We measure our operational risk exposure using both statistical modeling and scenario analyses, which involve qualitative and quantitative assessments of internal and external operational risk event data and internal control factors for each of our businesses. Operational risk measurement also incorporates an assessment of business environment factors, including:
+•
+Evaluations of the complexity of our business activities;
+•
+The degree of automation in our processes;
+•
+New activity information;
+•
+The legal and regulatory environment; and
+•
+Changes in the markets for our products and services, including the diversity and sophistication of our customers and counterparties.
+The results from these scenario analyses are used to monitor changes in operational risk and to determine business lines that may have heightened exposure to operational risk. We also perform firmwide stress tests. See “Overview and Structure of Risk Management” for information about firmwide stress tests.
+Types of Operational Risks
+Increased reliance on technology and third-party relationships has resulted in increased operational risks, such as third-party risk, business resilience risk and cybersecurity risk. See “Cybersecurity Risk Management” for information about our cybersecurity risk management process. We manage third-party and business resilience risks as follows:
+Third-Party Risk.
+Third-party risk, including vendor risk, is the risk of an adverse impact due to reliance on third parties performing services or activities on our behalf. These risks may include legal, regulatory, information security, cybersecurity, reputational, operational or other risks inherent in engaging a third party. We identify, manage and report key third-party risks and conduct due diligence across multiple risk domains, including information security and cybersecurity, resilience and additional supply chain dependencies. We evaluate whether vendors design, implement, and maintain information security controls consistent with our security policies and standards. Vendors that access and process our information on their infrastructure external to our network are required to undergo an initial risk assessment, resulting in the assignment of a vendor inherent risk rating that is determined based on a number of factors, including the type of data stored and processed by a particular vendor. Subsequently, we conduct re-certifications at a depth and frequency that is commensurate with each vendor’s inherent risk rating as a component of our risk-based approach to vendor oversight. Vendors are required to agree to standard contractual provisions before receiving sensitive information from us. These provisions have specific information security control requirements, which apply to vendors that store, access, transmit or otherwise process sensitive information on

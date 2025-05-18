@@ -1,0 +1,21 @@
+risk-weighted assets ("RWA"), which are on-balance sheet assets and off-balance sheet exposures, weighted according to risk. Under the rules currently in effect, two comprehensive approaches are prescribed for calculating RWA: a standardized approach (“Basel III Standardized”), and an advanced approach (“Basel III Advanced”).
+For each of these risk-based capital ratios, the capital adequacy of the Firm is evaluated against the lower of the Standardized or Advanced approaches compared to their respective regulatory capital ratio requirements.
+As of March 31, 2025, the Firm’s Basel III Standardized risk-based ratios continue to be more binding than the Basel III Advanced risk-based ratios.
+Additionally, Basel III requires that Advanced Approaches banking organizations, including the Firm, calculate their SLRs.
+Refer to page 36 of this Form 10-Q and page 104 of JPMorganChase's 2024 Form 10-K for additional information on SLR.
+Key Regulatory Developments
+In April 2025, the Federal Reserve proposed changes to the calculation of the Stress Capital Buffer (“SCB”) for large bank holding companies, including the Firm. The proposal aims to reduce SCB volatility by using the average of supervisory stress results from the previous two annual stress tests to calculate the SCB. The proposal would also modify the annual effective date of the SCB from October 1 to January 1 and make targeted changes to reporting requirements to streamline data collection. The proposal would be effective January 1, 2026.
+Refer to page 99 of JPMorganChase's 2024 Form 10-K for information on other Key Regulatory Developments.
+33
+Selected capital and RWA data
+The following tables present the Firm’s risk-based capital metrics under both the Basel III Standardized and Advanced approaches and leverage-based capital metrics. Refer to Capital Risk Management on pages 97–107 of JPMorganChase’s 2024 Form 10-K for a further discussion of these capital metrics. Refer to Note 21 for JPMorgan Chase Bank, N.A.’s risk-based and leverage-based capital metrics.
+(a)
+As of January 1, 2025, the benefit from the CECL capital transition provision had been fully phased out. For the period ended December 31, 2024, CET1 capital reflected a $720 million benefit. Refer to Note 21 for additional information.
+(b)
+Represents minimum requirements and regulatory buffers applicable to the Firm. Refer to Note 21 for additional information.
+(c)
+Includes the impacts of certain assets associated with First Republic to which the Standardized approach has been applied as permitted by the transition provisions in the U.S. capital rules. Refer to page 102 and Note 34 of JPMorganChase’s 2024 Form 10-K for additional information on First Republic.
+(a)
+As of January 1, 2025, the benefit from the CECL capital transition provision had been fully phased out. The capital metrics for the period ended December 31, 2024 reflected the CECL capital transition provisions. Refer to Note 21 for additional information.
+(b)
+Adjusted

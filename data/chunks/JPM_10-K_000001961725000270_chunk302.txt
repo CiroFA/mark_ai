@@ -1,0 +1,43 @@
+Firm does not capitalize any compensation expense related to share-based compensation awards to employees.
+Tax benefits
+Income tax benefits (including tax benefits from dividends or d
+ividend equivalents)
+related to share-based incentive arrangements recognized in the Firm’s Consolidated statements of income for the years ended December 31, 2024, 2023 and 2022, were $
+1.0
+billion, $
+836
+million and $
+901
+million, respectively.
+Note 10 –
+Investment securities
+Investment securities consist of debt securities that are classified as AFS or HTM. Debt securities classified as trading assets are discussed in Note 2. Predominantly all of the Firm’s AFS and HTM securities are held by Treasury and CIO in connection with its asset-liability management activities.
+AFS securities are carried at fair value on the Consolidated balance sheets. Unrealized gains and losses, after any applicable hedge accounting adjustments or allowance for credit losses, are reported in AOCI. The specific identification method is used to determine realized gains and losses on AFS securities, which are included in investment securities gains/(losses) on the Consolidated statements of income. HTM securities, which the Firm has the intent and ability to hold until maturity, are carried at amortized cost, net of allowance for credit losses, on the Consolidated balance sheets.
+For both AFS and HTM securities, purchase discounts or premiums are generally amortized into interest income on a level-yield basis over the contractual life of the security. However, premiums on certain callable debt securities are amortized to the earliest call date.
+Notes to consolidated financial statements
+The amortized costs and estimated fair values of the investment securities portfolio were as follows for the dates indicated.
+(a)
+Represents the amount of portfolio layer method basis adjustments related to AFS securities hedged in a closed portfolio. Under U.S. GAAP portfolio layer method basis adjustments are not allocated to individual securities, however the amounts impact the unrealized gains or losses in the table for the types of securities being hedged. Refer to Note 1 and Note 5 for additional information.
+(b)
+The Firm purchased $
+4.7
+billion, $
+4.1
+billion and $
+33.7
+billion of HTM securities for the years ended December 31, 2024, 2023 and 2022, respectively.
+(c)
+Effective January 1, 2023, the Firm adopted the portfolio layer method hedge accounting guidance which permitted a transfer of HTM securities to AFS upon adoption. The Firm transferred obligations of U.S. states and municipalities with a carrying value of $
+7.1
+billion resulting in the recognition of $
+38
+million net pre-tax unrealized losses in AOCI. This transfer was a non-cash transaction. Refer to Note 24 for additional information.
+(d)
+The amortized cost of investment securities is reported net of allowance for credit losses of $
+152
+million, $
+128
+million and $
+96
+million at December 31, 2024, 2023 and 2022, respectively.
+(e)

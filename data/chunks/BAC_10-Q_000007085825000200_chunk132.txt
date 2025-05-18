@@ -1,0 +1,56 @@
+Fannie Mae (FNMA) and Freddie Mac (FHLMC) that each exceeded
+10
+percent of shareholders’ equity, with an amortized cost of $
+259.3
+billion and $
+167.0
+billion, and a fair value of $
+213.1
+billion and $
+137.7
+billion at March 31, 2025, and an amortized cost of $
+260.9
+billion and $
+169.0
+billion, and a fair value of $
+209.6
+billion and $
+136.5
+billion at December 31, 2024.
+At March 31, 2025, the accumulated net unrealized loss on AFS debt securities, excluding the amount related to debt securities previously transferred to held to maturity, included in accumulated OCI was $
+2.2
+billion, net of the related income tax benefit of $
+748
+million. At March 31, 2025 and December 31, 2024, nonperforming AFS debt securities held by the Corporation were not significant.
+At March 31, 2025 and December 31, 2024, $
+892.7
+billion and $
+871.1
+billion of AFS and HTM debt securities, which were predominantly U.S. agency and U.S. Treasury securities, have a zero credit loss assumption. For the same periods, the expected credit losses on the remaining $
+37.3
+billion and $
+37.5
+billion of AFS and HTM debt securities were insignificant. For more information on the zero credit loss assumption, see
+Note 1 – Summary of Significant Accounting Principles
+to the Consolidated Financial Statements
+of the Corporation’s 2024 Annual Report on Form 10-K
+.
+At both March 31, 2025 and December 31, 2024, the Corporation held equity securities at an aggregate fair value of $
+247
+million    and   other   equity   securities,  as valued under
+the measurement  alternative,  at  a  carrying  value  of $
+453
+million and $
+438
+million, both of which are included in other assets. At March 31, 2025 and December 31, 2024, the Corporation also held money market investments at a fair value of $
+1.5
+billion and $
+1.3
+billion, which are included in time deposits placed and other short-term investments.
+The gross realized gains and losses on sales of AFS debt securities for the three months ended March 31, 2025 and 2024 are presented in the table below.
+The table below presents the fair value and the associated gross unrealized losses on AFS debt securities and whether these securities have had gross unrealized losses for less than 12 months or for 12 months or longer at March 31, 2025 and December 31, 2024.
+The remaining contractual maturity distribution and yields of the Corporation’s debt securities carried at fair value and HTM debt securities at March 31, 2025 are summarized in the table below. Actual duration and yields may differ as prepayments on the loans underlying the mortgage-backed securities (MBS) or other asset-backed securities (ABS) are passed through to the Corporation.
+(1)
+The weighted-average yield is computed based on a constant effective yield over the contractual life of each security. The yield considers the contractual coupon and the amortization of premiums and accretion of discounts, excluding the effect of related open hedging derivatives.
+NOTE 5
+Outstanding Loans and

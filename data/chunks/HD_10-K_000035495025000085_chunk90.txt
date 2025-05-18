@@ -1,0 +1,36 @@
+million
+shares plus a number of shares (not to exceed
+10
+million) related to underlying awards outstanding as of May 19, 2022, which can be returned to the share pool if those awards are subsequently terminated or expire unexercised, or are cancelled, forfeited or lapse for any reason, with any award other than a stock option or stock appreciation right reducing the number of shares available for issuance by
+2.11
+shares. At February 2, 2025, there were approximately
+70
+million shares available for future grants under the Omnibus Plan. No additional equity awards could be issued from the 1997 Plan after May 26, 2005.
+The following table presents total stock-based compensation expense, net of estimated forfeitures, including expense related to our ESPPs, and related income tax benefit:
+At February 2, 2025, there was $
+687
+million of unrecognized stock-based compensation expense, which is expected to be recognized over a weighted-average period of
+three years
+.
+Table
+of
+Contents
+The award types issued under the Plans are as follows:
+Stock Options.
+Under the terms of the Plans, incentive stock options and nonqualified stock options must have an exercise price at or above the fair market value of our stock on the date of the grant. Typically, nonqualified stock options vest at the rate of
+25
+% per year commencing on the second anniversary date of the grant and expire on the tenth anniversary date of the grant. Additionally, a majority of our stock options may become non-forfeitable upon the associate reaching age
+60
+, provided the associate has had
+five years
+of continuous service. There are no incentive stock options outstanding under
+the Plans.
+We estimate the fair value of stock option awards on the date of grant using the Black-Scholes option-pricing model. Our determination of fair value of stock option awards is affected by our stock price as well as assumptions regarding a number of variables.
+The following table presents the per share weighted average fair value of stock options granted and the assumptions used in determining fair value at the date of grant using the Black-Scholes option-pricing model:
+The risk-free interest rate is based on the U.S. Treasury (constant maturity) risk-free rate in effect at the date of grant for periods corresponding with the expected term of the options. Expected volatility is based on a combination of historical and implied volatility of our stock. The expected term is based on an analysis of historical and expected future exercise patterns.
+The following table presents a summary of stock option activity by number of shares and weighted average exercise price during fiscal 2024:
+The following table presents the total intrinsic value of stock options exercised:
+The following table presents details regarding outstanding and exercisable stock options at February 2, 2025:
+Shares of common stock issued from stock option exercises may be issued from authorized and unissued common stock or treasury stock.
+Table
+of

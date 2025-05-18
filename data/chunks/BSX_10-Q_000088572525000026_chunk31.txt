@@ -1,0 +1,42 @@
+accordance with GAAP.
+A reconciliation of sales and operating income for the reportable segments to the applicable line items within our accompanying unaudited consolidated statements of operations is as follows (in millions, except percentages). Prior period amounts have been restated at constant currency to conform to current year presentation.
+28
+Table of Contents
+(1)
+Includes royalty expense.
+(2)
+Calculated as Net sales of reportable segments less Segment expenses.
+29
+Table of Contents
+NOTE K – REVENUE
+We generate revenue primarily from the sale of single-use medical devices and present revenue net of sales taxes within our accompanying unaudited consolidated statements of operations. Our business structure is organized into
+five
+operating segments.
+The following tables disaggregate our revenue from contracts with customers by business unit and geographic region (in millions). Generally, we allocate revenue from contracts with customers to geographic regions based on the location where the sale originated.
+Refer to
+Note J – Segment Reporting
+for information on our reportable segments.
+30
+Table of Contents
+(1)
+Our Emerging Markets countries include all countries except the United States, Western and Central Europe, Japan, Australia, New Zealand and Canada.
+Deferred Revenue
+Contract liabilities are classified within
+Other current liabilities
+and
+Other long-term liabilities
+within our accompanying unaudited consolidated balance sheets. Our deferred revenue balance was $
+641
+million as of March 31, 2025 and $
+635
+million as of December 31, 2024. Our contract liabilities are primarily composed of deferred revenue related to the LATITUDE™ Patient Management System within our Cardiology business, for which revenue is recognized over the average service period based on device and patient longevity. Our contract liabilities also include deferred revenue related to the LUX-Dx™ Insertable Cardiac Monitor system, also within our Cardiology business, for which revenue is recognized over the average service period based on device longevity and usage. We recognized revenue of $
+68
+million in the first quarter of 2025 that was included in the above contract liability balance as of December 31, 2024. We have elected not to disclose the transaction price allocated to unsatisfied performance obligations when the original expected contract duration is one year or less. In addition, we have not identified material unfulfilled performance obligations for which revenue is not currently deferred.
+Variable Consideration
+For additional information on variable consideration, refer to
+Note A – Significant Accounting Policies
+to our audited financial statements contained in Item 8. Financial Statements and Supplementary Data of our most recent Annual Report on Form 10-K.
+NOTE L – CHANGES IN OTHER COMPREHENSIVE INCOME
+The following tables provide the reclassifications out of
+Other comprehensive income (loss), net of tax
+attributable to Boston Scientific common

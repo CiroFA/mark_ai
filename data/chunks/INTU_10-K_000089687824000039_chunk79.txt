@@ -1,0 +1,17 @@
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Tables of Contents
+/s/
+Ernst & Young LLP
+We have served as the Company’s auditor since 1990.
+San Jose, California
+September 4, 2024
+Tables of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and the Board of Directors of Intuit Inc.
+Opinion on Internal Control Over Financial Reporting
+We have audited Intuit Inc.’s internal control over financial reporting as of July 31, 2024, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Intuit Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of July 31, 2024, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of July 31, 2024 and 2023, the related consolidated statements of operations, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended July 31, 2024, and the related notes and financial statement schedule listed in the Index at Item 15(a) and our report dated September 4, 2024 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in

@@ -1,0 +1,37 @@
+collateral. At December 31, 2024, the amount recognized in accounts payable for such obligation was $
+3
+million.
+The company restricts the use of cash collateral received to rehypothecation, and therefore reports it in restricted cash in the Consolidated Balance Sheet.
+At March 31, 2025, there was
+no
+amount rehypothecated. At December 31, 2024, the rehypothecated amount was $
+3
+million. Additionally, if derivative exposures covered by a qualifying master netting agreement had been netted in the Consolidated Balance Sheet at March 31, 2025 and December 31, 2024, the total derivative asset and liability positions each would have been reduced by $
+296
+million and $
+352
+million, respectively.
+33
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+On July 1, 2024, the company completed the acquisition of StreamSets and webMethods from Software AG. Prior to the acquisition, beginning in December 2023, the company entered into foreign currency derivative contracts which were accounted for as non-hedge derivatives and expired by June 28, 2024. For the three months ended March 31, 2024, the company recorded an unrealized loss of $
+50
+million in other (income) and expense in the Consolidated Income Statement. There were
+no
+associated derivatives outstanding at March 31, 2025 and December 31, 2024.
+In its hedging programs, the company may use forward contracts, futures contracts, interest-rate swaps, cross-currency swaps, equity swaps, and options depending upon the underlying exposure. The company is not a party to leveraged derivative instruments.
+A brief description of the major hedging programs, categorized by underlying risk, follows.
+Interest Rate Risk
+Fixed and Variable Rate Borrowings
+The company issues debt in the global capital markets to fund its operations and financing business. Access to cost-effective financing can result in interest rate mismatches with the underlying assets. To manage these mismatches and to reduce overall interest cost, the company may use interest-rate swaps to convert specific fixed-rate debt issuances into variable-rate debt (i.e., fair value hedges) and to convert specific variable-rate debt issuances into fixed-rate debt (i.e., cash flow hedges). At both March 31, 2025 and December 31, 2024, the total notional amount of the company’s interest-rate swaps was $
+6.7
+billion. The weighted-average remaining maturity of these instruments at March 31, 2025 and December 31, 2024 was approximately
+4.2
+years and
+4.5
+years, respectively. These interest-rate contracts were accounted for as fair value hedges. The company did
+not
+have any cash flow hedges relating to this program outstanding at March 31, 2025 and December 31, 2024.
+Foreign Exchange Risk
+Long-Term Investments in Foreign Subsidiaries (Net Investment)
+A large portion of the company’s foreign currency denominated debt portfolio is designated as a hedge of net investment in major foreign subsidiaries to reduce the volatility in stockholders’

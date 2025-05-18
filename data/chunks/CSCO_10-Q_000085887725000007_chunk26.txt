@@ -1,0 +1,19 @@
+perspective, the product revenue increase of 11% was driven by a growth in Security of 117%, Observability of 47% and Collaboration of 1%. This growth was partially offset by a product revenue decline in Networking of 3%. The product revenue growth in Security and Observability were each driven in large part by the contribution of Splunk.
+While we continue to operate in a highly competitive environment and the overall macroeconomic environment remains challenging and uncertain, we plan to continue to invest in key priority areas with the objective of driving profitable growth over the long term. We remain focused on delivering innovation across our technologies to assist our customers in executing on their digital transformations and on accelerating innovation across our portfolio. We believe that we are making progress on our strategic priorities.
+40
+Table of Contents
+CISCO SYSTEMS, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+Six Months Ended January 25, 2025 Compared with Six Months Ended January 27, 2024
+Total revenue increased 1%, with product revenue flat and service revenue increasing 6%. Total gross margin increased 0.8 percentage points due to benefits from Splunk, productivity improvements and favorable product mix, partially offset by pricing erosion. As a percentage of revenue, research and development, sales and marketing, and general and administrative expenses, collectively, increased by 4.6 percentage points. Operating income as a percentage of revenue decreased by 7.1 percentage points primarily due to incremental operating expenses from Splunk, restructuring and other charges of $675 million and higher amortization of purchased intangibles in the first six months of fiscal 2025. Diluted earnings per share decreased 17%, driven by a decrease of 18% in net income, partially offset by a decrease in diluted share count of 71 million shares.
+Strategy and Priorities
+Across the globe, businesses and organizations of every size are leveraging Cisco technology to transform and drive better outcomes and experiences. We also help customers navigate emerging technological shifts. Our strategy is to securely connect everything to make those desired outcomes and experiences possible for our customers.
+For additional discussion of our strategy and priorities, see Item 1. Business in our Annual Report on Form 10-K for the fiscal year ended July 27, 2024.
+Other Key Financial Measures
+The following is a summary of our other key financial measures for the second quarter of fiscal 2025 (in millions):
+41
+Table of Contents
+CISCO SYSTEMS, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States requires us to make judgments, assumptions, and estimates that affect the amounts

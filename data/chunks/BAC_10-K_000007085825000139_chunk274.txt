@@ -1,0 +1,17 @@
+the end of the month in which the account becomes 180 days past due, within 60 days after receipt of notification of death or bankruptcy, or upon confirmation of fraud
+.
+During 2024, the Corporation reversed $
+856
+million of interest and fee income against the income statement line item in which it was originally recorded upon charge-off of the principal balance of the loan compared to $
+584
+million in 2023.
+For the outstanding residential mortgage, home equity, direct/indirect consumer and commercial loan balances classified as nonperforming during 2024 and 2023, interest and fee income reversed at the time the loans were classified as nonperforming was not significant. For more information on the Corporation's nonperforming loan policies, see
+Note 1 – Summary of Significant Accounting Principles.
+Allowance for Credit Losses
+The allowance for credit losses is estimated using quantitative and qualitative methods that consider a variety of factors, such as historical loss experience, the current credit quality of the portfolio and an economic outlook over the life of the loan. Qualitative reserves cover losses that are expected but, in the Corporation's assessment, may not adequately be reflected in the quantitative methods or the economic assumptions. The Corporation incorporates forward-looking information through the use of several macroeconomic scenarios in determining the
+weighted economic outlook over the forecasted life of the assets. These scenarios include key macroeconomic variables such as gross domestic product, unemployment rate, real estate prices and corporate bond spreads. The scenarios that are chosen each quarter and the weighting given to each scenario depend on a variety of factors including recent economic events, leading economic indicators, internal and third-party economist views, and industry trends. For more information on the Corporation's credit loss accounting policies including the allowance for credit losses, see
+Note 1 – Summary of Significant Accounting Principles
+.
+The December 31, 2024 estimate for allowance for credit losses was based on various economic scenarios, including a baseline scenario derived from consensus estimates, an adverse scenario reflecting an extended moderate recession, a downside scenario reflecting continued inflation and interest rates with minimal rate cuts, a tail risk scenario similar to the severely adverse scenario used in stress testing and an upside scenario that considers the potential for improvement above the baseline scenario. The overall weighted economic outlook of the above scenarios has improved compared to the weighted economic outlook estimated as of December 31, 2023. The weighted economic outlook assumes that the U.S. average unemployment rate will be just below
+five
+percent in the fourth quarter of 2025 and will remain near this level through the fourth quarter of 2026. The weighted economic outlook assumes steady growth with U.S. real gross domestic product forecasted

@@ -1,0 +1,17 @@
+December 2023, the FASB issued ASU 2023-09, "
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+." This standard requires additional disclosures related to the income tax rate reconciliation, income taxes paid by jurisdiction, and other income tax-related disclosures. The standard is effective for fiscal years beginning after December 15,
+Tables of Contents
+2024, which means that it will be effective for us for the fiscal year ending July 31, 2026. Early adoption is permitted. The standard should be applied on a prospective basis, and retrospective application is permitted. We are currently evaluating the impact of adopting ASU 2023-09 on our consolidated financial statements and related disclosures.
+The authoritative guidance defines fair value as the price that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. When determining fair value, we consider the principal or most advantageous market for an asset or liability and assumptions that market participants would use when pricing the asset or liability. In addition, we consider and use all valuation methods that are appropriate in estimating the fair value of an asset or liability.
+The authoritative guidance establishes a fair value hierarchy that is based on the extent and level of judgment used to estimate the fair value of assets and liabilities. In general, the authoritative guidance requires us to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. An asset or liability’s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the measurement of its fair value. The three levels of input defined by the authoritative guidance are as follows:
+•
+Level 1
+uses unadjusted quoted prices that are available in active markets for identical assets or liabilities.
+•
+Level 2
+uses inputs other than quoted prices included in Level 1 that are either directly or indirectly observable through correlation with market data. These include quoted prices in active markets for similar assets or liabilities; quoted prices for identical or similar assets or liabilities in markets that are not active; and inputs to valuation models or other pricing methodologies that do not require significant judgment because the inputs used in the model, such as interest rates and volatility, can be corroborated by readily observable market data for substantially the full term of the assets or liabilities.
+•
+Level 3
+uses one or more unobservable inputs that are supported by little or no market activity and that are significant to the determination of fair value. Level 3 assets and liabilities include those whose fair values are determined using pricing models, discounted cash flow methodologies, or similar valuation techniques and significant management judgment or estimation.
+The following table

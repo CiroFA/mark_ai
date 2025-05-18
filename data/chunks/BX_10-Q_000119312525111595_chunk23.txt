@@ -1,0 +1,117 @@
+bx:RealEstateSegmentMember
+2024-12-31
+0001393818
+us-gaap:FairValueInputsLevel3Member
+bx:ConsolidatedBlackstoneFundsMember
+2025-03-31
+0001393818
+us-gaap:LoansReceivableMember
+us-gaap:FairValueInputsLevel3Member
+2025-03-31
+0001393818
+us-gaap:FairValueInputsLevel3Member
+bx:InvestmentAssetOtherMember
+2025-03-31
+0001393818
+bx:BlackstoneIncMember
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001393818
+us-gaap:ConsolidatedEntitiesMember
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001393818
+us-gaap:ParentMember
+2025-03-31
+0001393818
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001393818
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001393818
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001393818
+us-gaap:CommonStockMember
+2025-03-31
+0001393818
+us-gaap:CapitalUnitsMember
+2025-03-31
+0001393818
+us-gaap:FairValueInputsLevel3Member
+bx:FreestandingDerivativesMember
+2024-12-31
+0001393818
+us-gaap:FairValueInputsLevel3Member
+us-gaap:OtherLiabilitiesMember
+2024-12-31
+0001393818
+us-gaap:FairValueInputsLevel3Member
+bx:FreestandingDerivativesMember
+2025-03-31
+0001393818
+us-gaap:FairValueInputsLevel3Member
+us-gaap:OtherLiabilitiesMember
+2025-03-31
+0001393818
+bx:PerformanceFeesMember
+bx:MultiAssetInvestingMember
+2025-03-31
+0001393818
+bx:PerformanceFeesMember
+2025-03-31
+0001393818
+bx:RealEstateSegmentMember
+2025-03-31
+0001393818
+bx:PrivateEquitySegmentMember
+2025-03-31
+0001393818
+bx:CreditAndInsuranceMember
+2025-03-31
+iso4217:USD
+xbrli:shares
+utr:Year
+xbrli:pure
+iso4217:EUR
+bx:Segment
+bx:Person
+iso4217:USD
+xbrli:shares
+bx:Loans
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+OR
+Commission File Number:
+001-33551
+Blackstone Inc.
+(Exact name of registrant as specified in its charter)
+345 Park Avenue
+New York
+,
+New York
+10154
+(Address of principal executive offices)(Zip Code)
+(
+212
+)
+583-5000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2

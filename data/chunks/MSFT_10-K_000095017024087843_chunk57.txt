@@ -1,0 +1,35 @@
+Commercial. More Personal Computing revenue increased driven by Gaming.
+Cost of revenue increased $8.3 billion or 13% driven by growth in Microsoft Cloud and Gaming, offset in part by a decline in Devices.
+Gross margin increased $25.0 billion or 17% driven by growth across each of our segments.
+•
+Gross margin percentage increased slightly. Excluding the impact of the change in accounting estimate for the useful lives of our server and network equipment, gross margin percentage increased 2 points driven by improvement in More Personal Computing.
+•
+Microsoft Cloud gross margin percentage decreased slightly to 71%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage increased slightly driven by improvements in Azure and Office 365 Commercial, inclusive of scaling our AI infrastructure, offset in part by sales mix shift to Azure.
+Operating expenses increased $4.0 billion or 7% driven by Gaming, with 7 points of growth from the Activision Blizzard acquisition, and investments in cloud engineering, offset in part by the prior year Q2 charge.
+Operating income increased $20.9 billion or 24% driven by growth across each of our segments.
+Prior year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively.
+43
+PART II
+Item 7
+SEGMENT RESULTS OF OPERATIONS
+Reportable Segments
+Fiscal Year 2024 Compared with Fiscal Year 2023
+Productivity and Business Processes
+Revenue increased $8.5 billion or 12%.
+•
+Office Commercial products and cloud services revenue increased $5.8 billion or 14%. Office 365 Commercial revenue grew 16% with seat growth of 7%, driven by small and medium business and frontline worker offerings, as well as growth in revenue per user. Office Commercial products revenue declined 16% driven by continued customer shift to cloud offerings.
+•
+Office Consumer products and cloud services revenue increased $237 million or 4%. Microsoft 365 Consumer subscribers grew 10% to 82.5 million.
+•
+LinkedIn revenue increased $1.4 billion or 9% driven by growth across all lines of business – Talent Solutions, Premium Subscriptions, Marketing Solutions, and Sales Solutions.
+•
+Dynamics products and cloud services revenue increased $1.0 billion or 19% driven by Dynamics 365. Dynamics 365 revenue grew 24% driven by growth across all workloads.
+Operating income increased $6.4 billion or 19%.
+•
+Gross margin increased $6.5 billion or 12% driven by growth in Office 365 Commercial. Gross margin percentage decreased slightly. Excluding the impact of the change in accounting estimate, gross margin percentage increased slightly driven by improvement in Office 365 Commercial.
+•
+Operating expenses increased $159 million or 1%.
+Intelligent Cloud
+Revenue increased $17.5 billion or 20%.
+•
+Server products and cloud services revenue increased $17.8 billion or 22% driven by Azure and other cloud

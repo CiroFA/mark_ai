@@ -1,0 +1,17 @@
+marketing, advertising and legal expenses; the U.S. healthcare reform federal excise fee on Branded Prescription Pharmaceutical Manufacturers and Importers; and other general and administrative costs. Advertising costs are expensed as incurred and were $
+987
+million, $
+647
+million and $
+841
+million during the years ended December 31, 2024, 2023 and 2022, respectively. SG&A expenses also include costs and cost recoveries associated with marketing and promotion efforts under certain collaborative arrangements. Net payment or reimbursement of SG&A costs is recognized when the obligations are incurred or we become entitled to the cost recovery. See Note 9, Collaborations.
+Leases
+At inception of a contract, we determine whether an arrangement is or contains a lease. For all leases, we determine the classification as either operating or financing. Operating leases are included in Other noncurrent assets, Accrued liabilities and Other noncurrent liabilities in our Consolidated Balance Sheets.
+ROU assets represent our right to use an underlying asset for the lease term, and lease liabilities represent our obligation to make lease payments under the lease. Lease recognition occurs at the commencement date, and lease liability amounts are based on the present value of lease payments made during the lease term. Our lease terms may include options to extend or terminate a lease when it is reasonably certain that we will exercise that option. Because most of our leases do not provide information to determine an implicit interest rate, we use our incremental borrowing rate in determining the present value of
+F-10
+lease payments. ROU assets also include any lease payments made prior to the commencement date less lease incentives received. Operating lease expense is recognized on a straight-line basis over the lease term.
+We have lease agreements with both lease and nonlease components, which are generally accounted for together as a single lease component. In addition, for certain vehicle and equipment leases, we apply a portfolio approach to determine the lease term and discount rate.
+Stock-based compensation
+We have stock-based compensation plans under which various types of equity-based awards are granted, including RSUs, performance units and stock options. The fair values of RSUs and stock option awards, which are subject only to service conditions with graded vesting, are recognized as compensation expense, generally on a straight-line basis over the service period, net of estimated forfeitures. The fair values of performance unit awards are recognized as compensation expense, generally on a straight-line basis from the grant date to the end of the performance period. See Note 5, Stock-based compensation.
+Income taxes
+We provide for income taxes based on pretax income and applicable tax rates in the various jurisdictions in which we operate. Significant judgment is required in determining our provision for income taxes and income tax assets and

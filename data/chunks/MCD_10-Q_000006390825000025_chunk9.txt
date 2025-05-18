@@ -1,0 +1,29 @@
+Value Hedges
+The Company enters into fair value hedges to reduce the exposure to changes in fair values of certain liabilities. The Company enters into fair value hedges that convert a portion of its fixed rate debt into floating rate debt by use of interest rate swaps. At March 31, 2025, the carrying amount of fixed-rate debt that was effectively converted was an equivalent notional amount of $
+793
+million, which included a decrease of $
+32
+million of cumulative hedging adjustments. For the three months ended March 31, 2025, the Company recognized an $
+8
+million gain on the fair value of interest rate swaps, and a corresponding loss on the fair value of the related hedged debt instrument to interest expense.
+11
+Table of Contents
+Cash Flow Hedges
+The Company enters into cash flow hedges to reduce the exposure to variability in certain expected future cash flows. To protect against the reduction in value of forecasted foreign currency cash flows (such as royalties denominated in foreign currencies), the Company uses foreign currency forwards to hedge a portion of anticipated exposures. The hedges cover up to the next
+18
+months for certain exposures and are denominated in various currencies. As of  March 31, 2025, the Company had derivatives outstanding with an equivalent notional amount of $
+2.1
+billion that hedged a portion of forecasted foreign currency denominated cash flows.
+Based on market conditions at March 31, 2025, the $
+52
+million in cumulative cash flow hedging gains, after tax, is not expected to have a significant effect on the Company's earnings over the next 12 months.
+Net Investment Hedges
+The Company uses foreign currency denominated debt (third-party and intercompany) and foreign currency derivatives to hedge its investments in certain foreign subsidiaries and affiliates. Realized and unrealized translation adjustments from these hedges are included in shareholders' equity in the foreign currency translation component of Other comprehensive income ("OCI") and offset translation adjustments on the underlying net assets of foreign subsidiaries and affiliates, which also are recorded in OCI. As of March 31, 2025, $
+12.9
+billion of the Company's third-party foreign currency denominated debt, $
+176
+million of the Company's intercompany foreign currency denominated debt and $
+3.3
+billion of foreign currency derivatives were designated to hedge investments in certain foreign subsidiaries and affiliates.
+Undesignated Derivatives
+The Company enters into certain derivatives that are not designated for hedge accounting. Therefore, the changes in the fair value of these derivatives are recognized immediately in earnings together with the gain or loss from the hedged balance sheet position. As an example, the Company enters into equity derivative contracts, to hedge market-driven changes in certain of its supplemental benefit plan liabilities. The Company may also use certain investments to hedge changes in these liabilities. Changes in the

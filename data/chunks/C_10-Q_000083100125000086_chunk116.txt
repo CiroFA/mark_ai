@@ -1,0 +1,22 @@
+market. Changes in fair value of fair value option liabilities related to changes in Citigroup’s own credit spreads (DVA) are reflected as a component of
+AOCI
+. See Note 19 for additional information.
+Among other variables, the fair value of liabilities for which the fair value option has been elected (other than non-recourse debt and similar liabilities) is impacted by the narrowing or widening of the Company’s credit spreads.
+The estimated changes in the fair value of these non-derivative liabilities due to such changes in the Company’s own credit spread (or instrument-specific credit risk) were a gain of $
+1,000
+million and a loss of $(
+750
+) million for the three months ended March 31, 2025 and 2024, respectively. Changes in fair value resulting from changes in instrument-specific credit risk were estimated by incorporating the Company’s current credit spreads observable in the bond market into the relevant valuation technique used to value each liability as described above.
+The Fair Value Option for Financial Assets and Financial Liabilities
+Selected Portfolios of Securities Purchased Under Agreements to Resell, Securities Borrowed, Securities Sold Under Agreements to Repurchase, Securities Loaned and Certain Uncollateralized Short-Term Borrowings
+The Company elected the fair value option for certain portfolios of fixed income securities purchased under agreements to resell and fixed income securities sold under
+agreements to repurchase, securities borrowed, securities loaned and certain uncollateralized short-term borrowings held primarily by broker-dealer entities in the U.S., the U.K. and Japan. In each case, the election was made because the related interest rate risk is managed on a portfolio basis, primarily with offsetting derivative instruments that are accounted for at fair value through earnings.
+Changes in fair value for transactions in these portfolios are recorded in
+Principal transactions
+. The related interest income and interest expense are measured based on the contractual rates specified in the transactions and are reported as
+Interest income
+and
+Interest expense
+in the Consolidated Statement of Income.
+Loans and Other Credit Products
+Citigroup has also elected the fair value option for certain other originated and purchased loans, including certain unfunded loan products, such as guarantees and letters of credit, executed by Citigroup’s lending and trading businesses. Significant groups of transactions include loans and unfunded loan products that are expected to be either sold or securitized in the near term, or transactions where the economic risks are hedged with derivative instruments, such as purchased credit default swaps or total return swaps where the Company pays the total return on the underlying loans to a third party. Citigroup has elected the fair value option to mitigate accounting mismatches in cases where hedge accounting is complex and to achieve operational simplifications. Fair value was not elected for

@@ -1,0 +1,18 @@
+stock repurchases through cash generated from operations. For a discussion of the factors that could cause actual results to differ materially from the forward-looking statements, see “Part II, Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part I, Item 2-Management’s Discussion and Analysis of Financial Condition and Results of Operations,” or MD&A, and such other risks and uncertainties as set forth below in this report or detailed in our other Securities and Exchange Commission (SEC) reports and filings. We assume no obligation to update forward-looking statements.
+References in this Quarterly Report on Form 10-Q to “AMD,” “we,” “us,” “management,” “our” or the “Company” mean Advanced Micro Devices, Inc. and our consolidated subsidiaries.
+AMD, the AMD Arrow logo, EPYC, Radeon, Ryzen, Xilinx and combinations thereof are trademarks of Advanced Micro Devices, Inc. Other names are for informational purposes only and are used to identify companies and products and may be trademarks of their respective owners. “Zen” is a codename for an AMD architecture and is not a product name.
+The following discussion should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in this report and our audited consolidated financial statements and related notes as of December 28, 2024 and December 30, 2023, and for each of the three years for the period ended December 28, 2024 as filed in our Annual Report on Form 10-K for the fiscal year ended December 28, 2024.
+21
+Table of Contents
+Overview and Recent Developments
+We are a global semiconductor company primarily offering:
+•
+Artificial Intelligence (AI) accelerators, microprocessors (CPUs) for server, graphics processing units (GPUs), accelerated processing units (APUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), Smart Network Interface Cards (SmartNICs) and Adaptive System-on-Chip (SoC) products for data centers;
+•
+CPUs, APUs, chipsets for desktops and notebooks, discrete GPUs, semi-custom SoC products and development services; and
+•
+embedded CPUs, GPUs, APUs, FPGAs, System on Modules (SOMs), and Adaptive SoC products.
+From time to time, we may also sell or license portions of our intellectual property (IP) portfolio.
+In this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries (collectively, “us,” “our” or “AMD”), including a discussion of our results of operations for the three months ended March 29, 2025 compared to the prior year period and an analysis of changes in our financial condition
+.
+Beginning with the fiscal year ending December 27, 2025, we combined the Client and Gaming segments into one reportable segment to align with how we manage our business. Net revenue for the three months ended March 29, 2025 was $7.4 billion, a 36% increase compared to the prior year period. The increase in net

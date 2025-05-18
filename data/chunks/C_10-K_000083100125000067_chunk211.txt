@@ -1,0 +1,29 @@
+from the sum of service cost, interest cost and other components of pension expense to arrive at the net pension expense (benefit).
+The following table presents the expected return on assets used in determining the Company’s pension expense compared to the actual return on assets during 2024, 2023 and 2022 for the U.S. pension and postretirement benefit plans:
+(1)
+Expected return on assets and actual return on assets is presented net of fees.
+(2)
+The expected return on assets for the VEBA Trust was adjusted from
+1.50
+% to
+3.00
+% effective January 1, 2023 to reflect the significant change in economic conditions.
+Sensitivities of Certain Key Assumptions
+The U.S. Qualified Pension Plan is frozen, and as a result, pension expense is primarily driven by interest cost. An increase in the discount rate would increase pension expense, while a decrease in the discount rate would decrease pension expense.
+For Non-U.S. Pension Plans that are not frozen (in countries such as Mexico, the U.K. and South Korea), there is more service cost. The pension expense for the Non-U.S. Plans is driven by both service cost and interest cost. An increase in the discount rate generally decreases pension expense due to the greater impact on service cost compared to interest cost.
+The following tables summarize the effect on pension expense:
+184
+Health Care Cost Trend Rate
+Assumed health care cost trend rates were as follows:
+Plan Assets
+Citigroup’s pension and postretirement benefit plans’ asset allocations for the U.S. plans and the target allocations by asset category based on asset fair values are as follows:
+(1)
+Target asset allocations are set by investment strategy, whereas pension and postretirement assets as of December 31, 2024 and 2023 are based on the underlying investment product. For example, the private equity investment strategy may include underlying investments in real assets (includes real estate, infrastructure and natural resources) within the target asset allocation; however, within pension and postretirement assets, the underlying investment in real assets is reflected in the real assets category and not private equity.
+(2)
+Equity securities in the U.S. pension and postretirement benefit plans do not include any Citigroup common stock at the end of 2024 and 2023.
+(3)
+The VEBA Trust for postretirement benefits is primarily invested in cash equivalents and debt securities in 2024 and 2023 and is not reflected in the table above.
+185
+Third-party investment managers and advisors provide their services to Citigroup’s U.S. pension and postretirement benefit plans. Assets are rebalanced as the Company’s Pension Plan Investment Committee deems appropriate. Citigroup’s investment strategy, with respect to its assets, is to maintain a globally diversified investment portfolio across several asset classes that, when combined with Citigroup’s contributions to
+the plans, will maintain the plans’ ability to meet all required benefit obligations.
+Citigroup’s pension

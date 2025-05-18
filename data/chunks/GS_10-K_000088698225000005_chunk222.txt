@@ -1,0 +1,39 @@
+table above.
+Level 3 Rollforward Commentary for the Year Ended December 2024.
+The net realized and unrealized gains on level 3 other financial liabilities of $
+505
+million (reflecting $
+210
+million of net realized losses and $
+715
+million of net unrealized gains) for 2024 included gains/(losses) of $
+491
+million reported in market making, $(
+42
+) million reported in other principal transactions and $(
+1
+) million reported in interest expense in the consolidated statements of earnings, and $
+57
+million reported in debt valuation adjustment in the consolidated statements of comprehensive income.
+The net unrealized gains on level 3 other financial liabilities for 2024 primarily reflected gains on certain hybrid financial instruments included in unsecured long-term borrowings (principally due to the impact of increases in interest rates and changes in foreign exchange rates), partially offset by losses on certain hybrid financial instruments included in deposits (principally due to an increase in equity prices).
+Transfers into level 3 other financial liabilities during 2024 primarily reflected transfers of certain hybrid financial instruments included in unsecured long-term borrowings from level 2 (principally due to reduced transparency of certain credit spreads and volatility inputs used to value these instruments).
+Transfers out of level 3 other financial liabilities during 2024 primarily reflected transfers of certain hybrid financial instruments included in long- and short-term borrowings to level 2 (principally due to increased transparency of certain volatility inputs used to value these instruments).
+Level 3 Rollforward Commentary for the Year Ended December 2023.
+The net realized and unrealized losses on level 3 other financial liabilities of $
+1.88
+billion (reflecting $
+212
+million of net realized losses and $
+1.67
+billion of net unrealized losses) for 2023 included losses of $
+1.41
+billion reported in market making, $
+23
+million reported in other principal transactions and $
+22
+million reported in interest expense in the consolidated statements of earnings, and $
+427
+million reported in debt valuation adjustment in the consolidated statements of comprehensive income.
+The net unrealized losses on level 3 other financial liabilities for 2023 primarily reflected losses on certain hybrid financial instruments included in unsecured long- and short-term borrowings (principally due to an increase in global equity prices).
+Transfers into level 3 other financial liabilities during 2023 primarily reflected transfers of certain hybrid financial instruments included in unsecured long-term borrowings from level 2 (principally due to reduced price transparency of certain credit spread and volatility inputs used to value these instruments) and transfers of certain other secured financings from level 2 (principally due to reduced price transparency of certain yield and duration inputs used to value these instruments).
+Transfers out of level 3 other

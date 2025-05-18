@@ -1,0 +1,36 @@
+bonds or publicly traded corporate equity securities from the trading portfolio and are executed with third-party financial institutions. The accompanying derivatives are typically total return swaps. The derivatives are cash settled and subject to ongoing margin requirements.
+When the conditions for sale accounting are met, the Company reports the transfer of the referenced financial asset as a sale and separately reports the accompanying derivative transaction. These transactions generally do not result in a gain or loss on the sale of the security, because the transferred security was held at fair value in the Company’s trading portfolio. For transfers of financial assets accounted for as a sale by the Company, and for which the Company has retained substantially all of the economic exposure to the transferred asset through a total return swap executed with the same counterparty in contemplation of the initial sale (and still outstanding), the asset amounts derecognized and the gross cash proceeds received as of the date of derecognition were
+$
+6.2
+billion
+and $
+4.3
+billion as of December 31, 2024 and 2023, respectively.
+At December 31, 2024, the fair value of these previously derecognized assets was
+$
+5.8
+billion
+. The fair value of the total return swaps as of December 31, 2024 was
+$
+179
+million
+recorded as gross derivative assets and
+$
+29
+million
+recorded as gross derivative liabilities. At December 31, 2023, the fair value of these previously derecognized assets was $
+4.3
+billion, and the fair value of the total return swaps was $
+121
+million recorded as gross derivative assets and $
+29
+million recorded as gross derivative liabilities.
+The balances for the total return swaps are on a gross basis, before the application of counterparty and cash collateral netting, and are included primarily as equity derivatives in the tabular disclosures in this Note.
+265
+25.
+CONCENTRATIONS OF CREDIT RISK
+Concentrations of credit risk exist when changes in economic, industry or geographic factors similarly affect groups of counterparties whose aggregate credit exposure is material in relation to Citigroup’s total credit exposure. Although Citigroup’s portfolio of financial instruments is broadly diversified along industry, product and geographic lines, material transactions are completed with other financial institutions, particularly in the securities trading, derivatives and foreign exchange businesses.
+In connection with the Company’s efforts to maintain a diversified portfolio, the Company limits its exposure to any one geographic region, country or individual creditor and monitors this exposure on a continuous basis. At December 31, 2024, Citigroup’s most significant concentration of credit risk was in AFS and HTM securities and
+Trading-related assets
+(trading securities) (collectively referred to below as “securities exposure”) with the U.S. government and its agencies, foreign governments, and states and municipalities.
+At December 31, 2024 and

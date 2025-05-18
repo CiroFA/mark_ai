@@ -1,0 +1,37 @@
+as of March 31, 2025 was $
+118
+million, which included a $
+17
+million reduction in allowance related to a sale of a corporate debt security. As of March 31, 2024, the allowance for credit losses in investment securities was $
+154
+million.
+Refer to Note 10 of JPMorganChase’s 2024 Form 10-K for further discussion of accounting policies for AFS and HTM securities.
+Selected impacts of investment securities on the Consolidated statements of income
+119
+Contractual maturities and yields
+The following table presents the amortized cost and estimated fair value at March 31, 2025, of JPMorganChase’s investment securities portfolio by contractual maturity.
+(a)
+Average yield is computed using the effective yield of each security owned at the end of the period, weighted based on the amortized cost of each security. The effective yield considers the contractual coupon, amortization of premiums and accretion of discounts, and the effect of related hedging derivatives, including closed portfolio hedges. Taxable-equivalent amounts are used where applicable. The effective yield excludes unscheduled principal prepayments; and accordingly, actual maturities of securities may differ from their contractual or expected maturities as certain securities may be prepaid. However, for certain callable debt securities, the average yield is calculated to the earliest call date.
+(b)
+For purposes of this table, the amortized cost of available-for-sale securities excludes the allowance for credit losses of $
+36
+million and the portfolio layer fair value hedge basis adjustments of $
+463
+million at March 31, 2025. The amortized cost of held-to-maturity securities also excludes the allowance for credit losses of $
+82
+million at March 31, 2025.
+(c)
+Substantially all of the Firm’s U.S. residential MBS and collateralized mortgage obligations are due in
+10
+years or more, based on contractual maturity. The estimated weighted-average life, which reflects anticipated future prepayments, is approximately
+eight years
+for agency residential MBS,
+six years
+for agency residential collateralized mortgage obligations, and
+five years
+for nonagency residential collateralized mortgage obligations.
+120
+Note 10 –
+Securities financing activities
+Refer to Note 11 of JPMorganChase’s 2024 Form 10-K for a discussion of accounting policies relating to securities financing activities. Refer to Note 3 for further information regarding securities financing agreements for which the fair value option has been elected. Refer to Note 23 for further information regarding assets pledged and collateral received in securities financing agreements.
+The table below summarizes the gross and net amounts of the Firm’s securities financing agreements as of March 31, 2025 and December 31, 2024. When the Firm has obtained an appropriate legal opinion with respect to a master netting agreement with a counterparty and where other relevant netting criteria under U.S. GAAP are met, the Firm nets, on the Consolidated balance

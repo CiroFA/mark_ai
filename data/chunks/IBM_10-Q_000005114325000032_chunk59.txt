@@ -1,0 +1,24 @@
+months ended March 31, 2025, financing revenue decreased 0.8 percent as reported, but increased 2.2 percent adjusted for currency compared to the prior-year period.
+Segment profit decreased 25.5 percent to $69 million and segment profit margin decreased (11.8) points to 35.8 percent, respectively, compared to the prior-year period driven primarily by higher unallocated credit loss reserve requirements in the current year which reflects current economic conditions.
+Balance Sheet and Return on Equity Highlights
+(1)
+Refer to Note 9, “Financing Receivables” for additional information.
+(2)
+Includes both held for investment and held for sale receivables. The 2024 amount has combined the balances at December 31, 2024 to conform to the changes in 2025 presentation.
+(3)
+Financing segment debt is primarily comprised of intercompany loans.
+Return on equity was 18.5 percent compared to 24.7 percent for the three months ended March 31, 2025 and 2024, respectively. The decrease was primarily driven by a decrease in net income. Return on equity is calculated as annualized after-tax segment profit divided by the average of the ending equity for Financing for the last two quarters. Annualized after-tax segment profit is a function of IBM's provision for income taxes determined on a consolidated basis.
+60
+Table of Contents
+Management Discussion – (continued)
+The following table presents Client financing and Commercial financing receivables excluding receivables classified as held for sale.
+The percentage of Financing segment receivables reserved increased from 1.1 percent at December 31, 2024, to 1.5 percent at March 31, 2025, primarily driven by the decline in amortized cost as a result of seasonally higher year-end balances and an increase in unallocated allowance for credit losses which reflects current economic conditions.
+We continue to apply our rigorous credit policies. Approximately 77 percent of the total external portfolio was with investment grade clients, an increase of 2 points as compared to December 31, 2024. This investment grade percentage is based on the credit ratings of the companies in the portfolio and reflects certain mitigating actions taken to reduce the risk to IBM. For additional information relating to the company's credit quality and mitigation actions, including sales of receivables, refer to note 9, “
+Financing Receivables”.
+61
+Table of Contents
+Management Discussion – (continued)
+GAAP Reconciliation
+The tables below provide a reconciliation of our income statement results as reported under GAAP to our operating earnings presentation which is a non-GAAP measure. Management’s calculation of operating (non-GAAP) earnings, as presented, may differ from similarly titled measures reported by other companies. Refer to the “Operating (non-GAAP) Earnings” section for management’s rationale for presenting operating earnings information.
+(1)
+The tax impact on operating (non-GAAP) pre-tax income from continuing operations is calculated under

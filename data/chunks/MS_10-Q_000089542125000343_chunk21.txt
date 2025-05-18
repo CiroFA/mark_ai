@@ -1,0 +1,19 @@
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Regulatory Requirements—G-SIB Capital Surcharge” in the 2024 Form 10-K.
+3.
+The CCyB can be set up to 2.5%, but is currently set by the Federal Reserve at zero.
+The capital buffer requirement represents the amount of CET1 capital we must maintain above the minimum risk-based capital requirements in order to avoid restrictions on our ability to make capital distributions, including the payment of dividends and the repurchase of stock, and to pay
+discretionary bonuses to executive officers. Our capital buffer requirement computed under the standardized approaches for calculating credit risk and market RWAs (“Standardized Approach”) is equal to the sum of our SCB, G-SIB capital surcharge and CCyB, and our capital buffer requirement computed under the applicable advanced approaches for calculating credit risk, market risk and operational risk RWAs (“Advanced Approach”) is equal to our 2.5% capital conservation buffer, G-SIB capital surcharge and CCyB.
+1.
+Required ratios represent the regulatory minimum plus the capital buffer requirement.
+Our risk-based capital ratios are computed under each of (i) the Standardized Approach and (ii) the Advanced Approach. The credit risk RWA calculations between the two approaches differ in that the Standardized Approach requires calculation of RWA using prescribed risk weights and exposure methodologies, whereas the Advanced Approach utilizes models to calculate exposure amounts and risk weights. At March 31, 2025 and December 31, 2024, the differences between the actual and required ratios were lower under the Standardized Approach.
+Leverage-Based Regulatory Capital.
+Leverage-based capital requirements include a minimum Tier 1 leverage ratio of 4%, a minimum SLR of 3% and an enhanced SLR capital buffer of at least 2%.
+CECL Deferral.
+Beginning on January 1, 2020, we elected to defer the effect of the adoption of CECL on our risk-based and leverage-based capital amounts and ratios, as well as our RWA, adjusted average assets and supplementary leverage exposure calculations, over a five-year transition period. The deferral impacts began to phase in at 25% per year from January 1, 2022, were phased-in at 75% from January 1, 2024 and were fully phased-in from January 1, 2025.
+Regulatory Capital Ratios
+Risk-based capital
+1.
+Required ratios are inclusive of any buffers applicable as of the date presented.
+Leveraged-based capital
+1.
+Adjusted average assets represents the denominator of the Tier 1 leverage ratio and is composed of the average daily balance of consolidated on-balance sheet assets for the quarters ending on the respective balance sheet dates, reduced by disallowed goodwill, intangible assets, investments in covered funds, defined benefit pension plan assets, after-tax gain on sale from assets sold into securitizations, investments in our own capital instruments, certain deferred tax assets and

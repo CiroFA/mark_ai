@@ -1,0 +1,38 @@
+allocated to each class of common stock and participating securities, based on their respective rights to receive dividends.
+PCAOB:
+Public Company Accounting Oversight Board
+PCD:
+“Purchased credit deteriorated”
+assets represent acquired financial assets that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by the Firm.
+PD:
+Probability of default
+Pillar 1:
+The Basel framework consists of a three “Pillar” approach. Pillar 1 establishes minimum capital
+Glossary of Terms and Acronyms
+requirements, defines eligible capital instruments, and prescribes rules for calculating RWA.
+Pillar 3:
+The Basel framework consists of a three “Pillar” approach. Pillar 3 encourages market discipline through disclosure requirements which allow market participants to assess the risk and capital profiles of banks.
+PRA:
+Prudential Regulation Authority
+Preferred stock dividends:
+reflects dividends declared and deemed dividends upon redemption of preferred stock
+Pre-provision profit/(loss):
+Represents total net revenue less noninterest expense. The Firm believes that this financial measure is useful in assessing the ability of a lending institution to generate income in excess of its provision for credit losses.
+Pre-tax margin:
+Represents income before income tax expense divided by total net revenue, which is, in management’s view, a comprehensive measure of pretax performance derived by measuring earnings after all costs are taken into consideration. It is one basis upon which management evaluates the performance of AWM against the performance of their respective competitors.
+Principal transactions revenue:
+Principal transactions revenue is driven by many factors, including:
+•
+the bid-offer spread, which is the difference between the price at which a market participant is willing and able to sell an instrument to the Firm and the price at which another market participant is willing and able to buy it from the Firm, and vice versa; and
+•
+realized and unrealized gains and losses on financial instruments and commodities transactions, including those accounted for under the fair value option, primarily used in client-driven market-making activities.
+–
+Realized gains and losses result from the sale of instruments, closing out or termination of transactions, or interim cash payments.
+–
+Unrealized gains and losses result from changes in valuation.
+In connection with its client-driven market-making activities, the Firm transacts in debt and equity instruments, derivatives and commodities, including physical commodities inventories and financial instruments that reference commodities.
+Principal transactions revenue also includes realized and unrealized gains and losses related to:
+•
+derivatives designated in qualifying hedge accounting relationships, primarily fair value hedges of commodity and foreign exchange risk;
+•
+derivatives used for specific risk management purposes, primarily to mitigate

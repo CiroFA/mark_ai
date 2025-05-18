@@ -1,0 +1,38 @@
+of $
+500
+million of
+5.400
+% senior notes due June 25, 2064 (the “2064 notes”) at a discount of $
+8.5
+million. Interest on the 2064 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+Issuance costs for the June 2024 issuance totaled $
+41
+million.
+Redemption.
+The floating rate notes are not redeemable prior to maturity. Each of these fixed rate senior notes may be redeemed by us at any time, in whole or in part, at the redemption price plus accrued and unpaid interest up to the redemption date. With respect to the 2025 notes and 2026 notes, the redemption price is equal to the greater of (1)
+100
+% of the principal amount of the notes to be redeemed or (2) the sum of the present values of the remaining scheduled payments of principal and interest on the notes that would be due after the related redemption date. With respect to all other fixed rate notes, prior to the relevant Par Call Date, as defined in the respective notes, the redemption price is equal to the greater of (1)
+100
+% of the principal amount of the notes to be redeemed or (2) the sum of the present values of the remaining scheduled payments of principal and interest to the Par Call Date. With respect to all fixed rate notes other than the 2025 and 2026 notes, on or after the relevant Par Call Date, the redemption price is equal to
+100
+% of the principal amount of such notes. Additionally, if a Change in Control Triggering Event occurs, as defined in the notes, holders of all such notes have the right to require us to offer payment, in cash, for those notes equal to
+101
+% of the aggregate principal amount of such notes plus accrued and unpaid interest up to the date of purchase.
+The indenture governing these notes does not generally limit our ability to incur additional indebtedness or require us to maintain financial ratios or specified levels of net worth or liquidity. The indenture governing the notes contains various customary covenants; however, none of the covenants are expected to impact our liquidity or capital resources.
+Repayments
+.
+In February 2024, we repaid our $
+1.1
+billion
+3.75
+% senior notes at maturity.
+Derivative Instruments and Hedging Activities
+We had outstanding interest rate swap agreements with combined notional amounts of $
+5.4
+billion at both October 27, 2024 and January 28, 2024. These agreements are accounted for as fair value hedges that swap fixed for variable rate interest to hedge changes in the fair values of certain senior notes. At October 27, 2024 and January 28, 2024, the fair values of these agreements totaled $
+754
+million and $
+858
+million, respectively, all of which are recognized within other long-term liabilities on our consolidated balance sheets.
+All of our interest rate swap agreements are designated as fair value hedges and meet the shortcut method requirements under GAAP. Accordingly, the changes in the fair values of these agreements offset the changes in the fair value of the hedged

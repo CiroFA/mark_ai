@@ -1,0 +1,18 @@
+portfolio is actively managed, in part by conducting ongoing, in-depth reviews of client credit quality and transaction structure inclusive of collateral where applicable, and of industry, product and client concentrations. Refer to the industry discussion on pages 54-57 for further information.
+The Firm’s wholesale credit portfolio includes exposure held in CIB, AWM and Corporate, and risk-rated exposure held in CCB, for which the wholesale methodology is applied when determining the allowance for loan losses.
+As of March 31, 2025, loans increased $18.9 billion, predominantly driven by higher loans in CIB Markets. Lending-related commitments increased $17.4 billion driven by higher commitments in CIB.
+As of March 31, 2025, nonperforming exposure was relatively flat, with increases in Technology, Media & Telecommunications and Consumer & Retail, reflecting downgrades and a new held-for-sale loan, predominantly offset by Real Estate, concentrated in Office, resulting from upgrades and paydowns.
+For the three months ended March 31, 2025, wholesale net charge-offs were $187 million across multiple industries, including Real Estate and Healthcare.
+(a)
+Receivables from customers reflect held-for-investment margin loans to brokerage clients in CIB, CCB and AWM; these are reported within accrued interest and accounts receivable on the Consolidated balance sheets.
+(b)
+Represents the net notional amount of protection purchased and sold through credit derivatives and credit-related notes used to manage both performing and nonperforming wholesale credit exposures; these derivatives do not qualify for hedge accounting under U.S. GAAP. Refer to Credit derivatives on page 60 and Note 4 for additional information.
+52
+Wholesale credit exposure – maturity and ratings profile
+The following tables present the maturity and internal risk ratings profiles of the wholesale credit portfolio as of March 31, 2025 and December 31, 2024. The Firm generally considers internal ratings with qualitative characteristics equivalent to BBB-/Baa3 or higher as investment grade, and takes into consideration collateral and structural support when determining the internal risk rating for each credit facility. Refer to Note 12 of JPMorganChase's 2024 Form 10-K for further information on internal risk ratings.
+(a)
+Loans held-for-sale are primarily related to syndicated loans and loans transferred from the retained portfolio.
+(b)
+These derivatives do not qualify for hedge accounting under U.S. GAAP.
+(c)
+The notional amounts are presented on a net basis by underlying reference entity and the ratings profile shown is based on the ratings of the reference entity on which protection has been purchased. Predominantly all of the credit derivatives entered into by the Firm where it has purchased protection used in credit portfolio management activities are executed with investment-grade counterparties. In addition, the Firm obtains credit protection against certain loans in the retained loan

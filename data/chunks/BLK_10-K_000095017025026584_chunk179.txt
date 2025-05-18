@@ -1,0 +1,53 @@
+presents components of lease cost included in general and administration expense on the consolidated statements of income:
+(1)
+Amounts include short-term leases, which are immaterial for
+2024, 2023 and 2022
+.
+(2)
+Amounts include operating lease payments, which may be adjusted based on usage, changes in an index or market rate, as well as common area maintenance charges and other variable costs not included in the measurement of ROU assets and operating lease liabilities.
+Supplemental information related to operating leases is summarized below:
+(1)
+Amount for
+2024
+includes $
+75
+million of ROU assets obtained in connection with the GIP Transaction. See Note
+3,
+Acquisitions,
+for further information.
+14. Other Assets
+The Company records certain corporate investments, which exclude seed and co-investments in the Company's sponsored investment products, within other assets on the consolidated statements of financial condition.
+At December 31, 2024 and 2023
+, the Company had $
+888
+millio
+n
+and $
+773
+million, respectively, of corporate equity method investments, recorded within other assets. At December 31,
+2024 and 2023
+, the Company's ownership interest in its minority investment in iCapital Network Inc. ("iCapital") was approximately
+24
+% and
+25
+%, respectively, and the carrying value of the Company's interest was $
+652
+million and $
+641
+million, respectively. In accordance with GAAP, certain equity method investees, including iCapital, do not account for both their financial assets and liabilities under fair value measures; therefore, the Company’s investment in such equity method investees may not represent fair value.
+At December 31, 2024 and 2023
+, the Company had $
+438
+million and $
+484
+million, respectively, of other nonequity method corporate minority investments recorded within other assets. These investments include equity securities, generally measured at fair value or under the measurement alternative to fair value for nonmarketable securities, and corporate minority private debt investments measured at fair value. Changes in value of the equity securities are recorded in nonoperating income (expense) and changes in value of the debt securities are recorded in AOCI, net of tax. See Note
+2,
+Significant Accounting Policies
+, for further information.
+F-
+27
+15
+. Borrowings
+Short-Term Borrowings
+2024 Revolving Credit Facility.
+The Company maintains an unsecured revolving credit facility, which is available for working capital and general corporate purposes (the “2024 Credit Facility”). In March 2024, the 2024 Credit Facility was amended to, among other things, (1) permit the GIP Transaction and the transactions contemplated in connection with the GIP Transaction, (2) add New BlackRock as a borrower under the existing credit agreement, (3) add New BlackRock as a guarantor of the payment and performance of the obligations, liabilities and indebtedness of Old BlackRock and certain of its other subsidiaries and (4) update the sustainability-linked

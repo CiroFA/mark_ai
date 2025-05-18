@@ -1,142 +1,15 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+ANNUAL REPORT ON FORM 10-K
+For the fiscal year ended December 31, 2024
+TABLE OF CONTENTS
 2
-Facebook
+Table of Contents
+FORWARD-LOOKING STATEMENTS
+This document contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are identified by terms and phrases such as: anticipate, believe, intend, estimate, expect, continue, should, could, may, plan, project, predict, will, potential, forecast, and similar expressions. They are based on management’s reasonable expectations and assumptions as of the date the statements are made but involve risks and uncertainties. These risks and uncertainties include, without limitation: the performance of stock markets generally; developments in worldwide and national economies and other international events and circumstances, including trade conflicts and tariffs; changes in foreign currencies and in interest rates; the cost and availability of electric power, natural gas and other raw materials; the ability to achieve price increases to offset cost increases; catastrophic events including natural disasters, epidemics, pandemics such as COVID-19, and acts of war and terrorism; the ability to attract, hire, and retain qualified personnel; the impact of changes in financial accounting standards; the impact of changes in pension plan liabilities; the impact of tax, environmental, healthcare and other legislation and government regulation in jurisdictions in which the company operates; the cost and outcomes of investigations, litigation and regulatory proceedings; the impact of potential unusual or non-recurring items; continued timely development and market acceptance of new products and applications; the impact of competitive products and pricing; future financial and operating performance of major customers and industries served; the impact of information technology system failures, network disruptions and breaches in data security; and the effectiveness and speed of integrating new acquisitions into the business. These risks and uncertainties may cause future results or circumstances to differ materially from adjusted projections, estimates or other forward-looking statements.
+Linde plc assumes no obligation to update or provide revisions to any forward-looking statement in response to changing circumstances. The above listed risks and uncertainties are further described in Item 1A (Risk Factors) in this report, which should be reviewed carefully. Please consider Linde plc’s forward-looking statements in light of those risks.
 3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of Contents
+Linde plc and Subsidiaries
+PART I
+ITEM 1.     BUSINESS
+General
+Linde plc is a public limited company formed under the laws of Ireland with its principal offices in the United Kingdom and United States. Linde is the largest industrial gas company worldwide and is a major technological innovator in the industrial gases industry. Its primary products in its industrial gases business are atmospheric

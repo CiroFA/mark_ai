@@ -1,0 +1,46 @@
+changes in market outlook, among other factors.
+Valuation Hierarchy Classification:
+•
+Level 1—if actively traded
+•
+Level 2—when not actively traded and valued based on rounds of financing or third-party transactions
+•
+Level 3—when not actively traded and rounds of financing or third-party transactions are not available
+Physical Commodities
+Valuation Techniques:
+•
+Fair value is determined using observable inputs, including broker quotations and published indices.
+Valuation Hierarchy Classification:
+•
+Level 2—valued using observable inputs
+Investment Securities—AFS Securities
+Valuation Techniques:
+•
+AFS securities are composed of U.S. government and agency securities (e.g., U.S. Treasury securities, agency-issued debt, agency mortgage pass-through securities and CMOs), CMBS, ABS, state and municipal securities. For further information on the determination of fair value, refer to the corresponding asset/liability Valuation Technique described herein for the same instruments.
+Valuation Hierarchy Classification:
+•
+For further information on the determination of valuation hierarchy classification, see the corresponding Valuation Hierarchy Classification described herein.
+Deposits
+Valuation Techniques:
+•
+The Firm issues FDIC-insured certificates of deposit that pay either fixed coupons or that have repayment terms linked to the performance of debt or equity securities, indices or currencies. The fair value of these certificates of deposit is determined using valuation models that incorporate observable inputs referencing identical or comparable securities, including prices to which the deposits are linked, interest rate yield curves, option volatility and currency rates, equity prices, and the impact of the Firm’s own credit spreads, adjusted for the impact of the FDIC insurance, which is based on vanilla deposit issuance rates.
+Valuation Hierarchy Classification:
+•
+Level 2—when valuation inputs are observable
+•
+Level 3—in instances where an unobservable input is deemed significant
+Securities Purchased under Agreements to Resell and Securities Sold under Agreements to Repurchase
+Valuation Techniques:
+•
+Fair value is computed using a standard cash flow discounting methodology.
+•
+The inputs to the valuation include contractual cash flows and collateral funding spreads, which are the incremental spread over the OIS rate for a specific collateral rate (which refers to the rate applicable to a specific type of security pledged as collateral).
+Valuation Hierarchy Classification:
+•
+Level 2—when the valuation inputs are observable and supported by market liquidity
+•
+Level 3—in instances where the valuation input is observable but not supported by market liquidity or if an unobservable input is deemed significant
+Other Secured Financings
+Valuation Techniques:
+•
+Other secured financings are composed of short-dated notes secured by Corporate equities, agreements to repurchase Physical commodities, the liabilities related to sales of Loans and lending commitments

@@ -1,0 +1,21 @@
+January 1, 2024. This accounting update requires additional reportable segment disclosures on an annual and interim basis, primarily about significant segment expenses and other segment items that are regularly provided to the chief operating decision maker and included within the reported measure of segment profit or loss. See Note 22 to the financial statements for disclosures on the Firm’s reportable segments.
+Investments - Tax Credit Structures
+The Firm adopted the
+Investments - Equity Method and Joint Ventures - Tax Credit Structures
+accounting update on January 1, 2024 using the modified retrospective method. This accounting update permits an election to account for tax equity investments using the proportional amortization method if certain conditions are met. Under the proportional amortization method, the initial cost of the investment is amortized in proportion to the income tax credits and other income tax benefits received and recognized net in the income statement as a component of provision for income taxes. The update requires a separate accounting policy election to be made for each tax credit program. Additional disclosures are required regarding (i) the nature of our tax equity investments and (ii) the effect of our tax equity investments and related income tax credits on the financial condition and results of operations (see Note 11).
+The adoption resulted in a decrease to Retained earnings of $
+60
+million as of January 1, 2024, net of tax, and a corresponding reduction to Other assets.
+Accounting Update Adopted in 2022
+Reference Rate Reform
+The Firm has adopted the Reference Rate Reform accounting update, which extends the period of time entities can utilize the reference rate reform relief guidance from December 31, 2022 to December 31, 2024. The relief provides optional expedients and exceptions for applying generally accepted accounting principles to contracts, hedging relationships and other transactions that reference LIBOR or other interest rate benchmarks for which the referenced rate is expected to be discontinued or replaced. The Firm is applying the accounting relief as relevant contract and hedge accounting relationship modifications are made during the course of the reference rate reform transition period. There was no impact to the Firm’s financial statements upon issuance of this accounting standard update.
+3.
+Cash and Cash Equivalents
+For additional information on cash and cash equivalents, including restricted cash, see Note 2.
+4.
+Fair Values
+Recurring Fair Value Measurements
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+MABS—Mortgage- and asset-backed securities
+1.
+For positions with the same counterparty that cross over the levels of the fair value hierarchy, both counterparty netting and cash collateral netting are included in the column titled “Netting.” Positions classified within the same level that are with the same counterparty are netted within that level. For further information

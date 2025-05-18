@@ -1,0 +1,51 @@
+derivatives, securities financing transactions, commitments and guarantees.
+•
+Tier 1 leverage ratio is calculated as Tier 1 capital divided by average adjusted total assets.
+•
+SLR is calculated as Tier 1 capital divided by total leverage exposure.
+Risk-Based Capital.
+The table below presents information about risk-based capital.
+In the table above:
+•
+Beginning in January 2022, the firm started to phase in the estimated reduction to regulatory capital as a result of adopting the CECL model. The total amount of reduction to be phased in from January 1, 2022 through January 1, 2025 (at
+25
+% per year) was $
+1.11
+billion, of which $
+829
+million had been phased in as of December 2024. The total amount to be phased in includes the impact of adopting CECL as of January 1, 2020, as well as
+25
+% of the increase in the allowance for credit losses from January 1, 2020 through December 31, 2021. The impact of CECL transition reflects the remaining amount of reduction to be phased in as of both December 2024 and December 2023.
+•
+Deduction for goodwill was net of deferred tax liabilities of $
+694
+million as of December 2024 and $
+692
+million as of December 2023.
+•
+Deduction for identifiable intangible assets was net of deferred tax liabilities of $
+209
+million as of December 2024 and $
+227
+million as of December 2023.
+•
+Deduction for investments in covered funds represents the firm’s aggregate investments in applicable covered funds as defined in the Volcker Rule.
+•
+Other adjustments within CET1 capital and Tier 1 capital primarily include CVAs on derivative liabilities, the overfunded portion of the firm’s defined benefit pension plan obligation net of associated deferred tax liabilities, disallowed deferred tax assets, debt valuation adjustments and other required credit risk-based deductions. Other adjustments within Advanced Tier 2 capital include eligible credit reserves.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+•
+Qualifying subordinated debt is subordinated debt issued by Group Inc. with an original maturity of
+five years
+or greater. The outstanding amount of subordinated debt qualifying for Tier 2 capital is reduced upon reaching a remaining maturity of
+five years
+. See Note 14 for further information about the firm’s subordinated debt.
+The table below presents changes in CET1 capital, Tier 1 capital and Tier 2 capital.
+RWAs.
+RWAs are calculated in accordance with both the Standardized and Advanced Capital Rules.
+Credit Risk
+Credit RWAs are calculated based on measures of exposure, which are then risk weighted under the Standardized and Advanced Capital Rules:
+•
+The Standardized Capital Rules apply prescribed risk-weights, which depend largely on the type of counterparty. The exposure measures for derivatives and securities financing transactions are based on specific formulas which take certain factors into consideration.
+•
+Under the Advanced Capital Rules, the firm computes risk-weights for wholesale and

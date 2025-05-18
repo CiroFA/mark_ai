@@ -1,0 +1,15 @@
+Cybersecurity Risks.
+We have not experienced any material cybersecurity incidents in the past fiscal year. We face risks from cybersecurity threats that, if realized, may materially affect our business strategy, results of operations or financial condition
+. Despite our efforts, our cybersecurity risk management processes may not be fully implemented, complied with or effective in preventing or mitigating future cybersecurity risks. We describe whether and how risks from identified cybersecurity threats, including as a result of any previous cybersecurity incidents, have materially affected or, if realized, are reasonably likely to materially affect us, including our business strategy, results of operations, or financial condition, in
+Part I, Item 1A. “Risk Factors.”
+Table
+of
+Contents
+Governance
+Our efforts to create a secure digital environment start with the governance and oversight of our data security and privacy policies and strategy.
+At the Board of Directors (the “Board”) level, cybersecurity is overseen by the Board and by the Board’s Audit Committee, which has primary responsibility for overseeing cybersecurity and privacy risks.
+During fiscal 2024, the Board and/or the Audit Committee received quarterly reports on privacy, data protection and/or cybersecurity matters from
+senior information technology (“IT”) leaders, including our Chief Information Officer (“CIO”) and CISO, as well as the Chair of our Data Security and Privacy Governance Committee (discussed below).
+In addition, our Board held a meeting dedicated to cybersecurity topics. Periodically, our Board receives presentations on cybersecurity matters from third-party cybersecurity experts.
+Our CISO, who reports to our CIO, joined the Company in 2021 after working with the Company as a third-party consultant since 2019. During a nearly two-decade tenure at a leading professional services firm, he worked with clients on managing information security, developing cybersecurity strategy, and implementing effective information and cybersecurity programs and initiatives addressing emerging cybersecurity threats. Our CISO has significant prior cybersecurity experience, including experience protecting company, customer and associate data across a diverse set of industries. He holds a Bachelor of Science degree in Information Systems and has achieved several relevant certifications, including Certified Information Security Manager, Certified Information Systems Security Professional, and Certified Information Privacy Professional. Our CISO leads a team of over 500 associates focused on cybersecurity.
+We have three management-level committees that support our cybersecurity, privacy and data governance efforts. They are led by our Data Security and Privacy Governance Committee, which provides management-level governance over cybersecurity matters, including discussion of cybersecurity priorities, emerging risks, awareness and training programs, risk mitigation efforts, and regulatory

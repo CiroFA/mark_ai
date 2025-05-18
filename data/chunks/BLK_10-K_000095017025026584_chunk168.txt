@@ -1,0 +1,36 @@
+franchise with differentiated origination and asset management capabilities.
+Consideration at close included approximately $
+3
+billion in cash, funded through the issuance of long-term notes in March 2024 (See Note
+15,
+Borrowings
+for further information), and
+6.9
+million of unregistered shares of BlackRock common stock. The shares were valued at $
+5.9
+billion at close, based on the price of BlackRock's common stock on September 30, 2024 of approximately $
+950
+, discounted for security-specific registration restrictions for two years after closing, resulting in a value of approximately $
+855
+per share. In addition, as part of the purchase consideration, a contingent consideration payment, all in stock, may be due subject to achieving certain performance targets. The contingent consideration payment, if any, ranges from
+4.0
+million to
+5.2
+million shares, and will be valued based on the price of BlackRock's common stock at the time the contingency is resolved. The payment is expected to be payable no later than December 31, 2028 or based on the achievement of the agreed upon performance targets.
+The fair value of the contingent consideration payment, which was determined by using the income approach with the assistance of a third-party fair value specialist, was $
+4.2
+billion at close, and is recorded within contingent consideration liabilities in the consolidated statements of financial condition. Certain significant inputs were used to determine the fair value, including assumptions on discount rates as well as estimates of the timing and amounts of fundraising forecasts, stock and AUM volatility, and correlation between stock price and AUM (Level 3 inputs). The contingent consideration payment is classified as a liability as the monetary value of the consideration to be delivered in shares is predominately based on achieving certain performance targets.
+In addition, on October 1, 2024, in connection with the GIP Transaction, the Company granted incentive retention awards of approximately $
+415
+million of cliff-vesting RSUs and approximately $
+178
+million of performance-based RSUs recognized as compensation expense over a period of approximately five years. See Note
+18,
+Stock-Based Compensation
+, for additional information on the incentive retention awards issued in connection with the GIP Transaction. The Company also granted approximately $
+100
+million of deferred cash awards in connection with the GIP Transaction, which are
+recognized as compensation expense over a period of approximately
+50% over one year and the remaining 50% over five years
+.
+In connection with the GIP Transaction, the Company entered into several stockholder agreements with the former owners of GIP and their respective affiliates. Each agreement, among other things, (1) sets forth various restrictions, limitations and other terms concerning the transfer of equity securities of BlackRock, which includes an initial lock-up period ending on the two-year anniversary of the

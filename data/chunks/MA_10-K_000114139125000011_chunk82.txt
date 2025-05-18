@@ -1,0 +1,17 @@
+enhancement such as letters of credit and guarantees, for settlement of their transactions.  Certain risk mitigation arrangements for settlement, such as standby letters of credit and bank guarantees, are not recorded on the consolidated balance sheets.  The Company also holds cash deposits and certificates of deposit from certain customers as collateral for settlement of their transactions, which are recorded as assets on the consolidated balance sheets.  These assets are fully offset by corresponding liabilities included on the consolidated balance sheets.  The amount of these security deposits and the duration held are determined by the risk profile of the individual customer and the Company’s risk management practices.
+Fair value
+- The Company measures certain financial assets and liabilities at fair value on a recurring basis by estimating the price that would be received upon the sale of an asset or paid to transfer a liability in an orderly transaction between market participants.  The Company also measures certain financial and non-financial assets and liabilities at fair value on a nonrecurring basis, when a change in fair value or impairment is evidenced.  The Company classifies these recurring and nonrecurring fair value measurements into a three-level hierarchy (“Valuation Hierarchy”).
+The Valuation Hierarchy is based upon the transparency of inputs to the valuation of an asset or liability as of the measurement date.  A financial instrument’s categorization within the Valuation Hierarchy is based upon the lowest level of input that is significant to the fair value measurement.  The three levels of the Valuation Hierarchy are as follows:
+•
+Level 1 - inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets.
+•
+Level 2 - inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in inactive markets and inputs that are observable for the asset or liability.
+•
+Level 3 - inputs to the valuation methodology are unobservable and cannot be directly corroborated by observable market data.
+The Company’s financial assets and liabilities measured at fair value on a recurring basis include investment securities available-for-sale, marketable securities, derivative instruments and deferred compensation.  The Company’s financial assets measured at fair value on a nonrecurring basis include nonmarketable securities.  The Company’s non-financial assets measured at fair value on a nonrecurring basis include property, equipment and right-of-use assets, goodwill and other intangible assets and are subject to fair value adjustments in certain circumstances, such as when there is evidence of impairment.
+Investment securities
+- The Company classifies investments as available-for-sale or held-to-maturity at the date of acquisition.
+•
+Available-for-sale debt securities:
+◦
+Investments

@@ -1,0 +1,35 @@
+the Company’s investments including investments in the partnerships.
+The cross-currency swap derivative contracts are classified as Level 2 in the fair value hierarchy as they are measured using the income approach with the relevant interest rates and current currency exchange rates and forward curves as inputs.  Refer to Note 11 for additional information.
+Fair Value of Other Financial Instruments
+The carrying amounts and fair values of the Company’s other financial instruments were as follows ($ in millions):
+As of March 28, 2025 and December 31, 2024, short and long-term borrowings were categorized as Level 1.  The fair value of long-term borrowings was based on quoted market prices.  The difference between the fair value and the carrying amounts of long-term borrowings is attributable to changes in market interest rates and/or the Company’s credit ratings subsequent to the incurrence of the borrowing.  The fair values of borrowings with original maturities of one year or less, as well as cash and cash equivalents, trade accounts receivable, net and trade accounts payable generally approximate their carrying amounts due to the short-term maturities of these instruments.
+13
+Table of Contents
+NOTE 10.
+FINANCING
+As of March 28, 2025, the Company was in compliance with all of its debt covenants.
+The components of the Company’s debt were as follows ($ in millions):
+(a)
+Issued by DH Europe Finance S.A. (“Danaher International”).
+(b)
+Issued by DH Europe Finance II S.a.r.l. (“Danaher International II”).
+(c)
+Issued by DH Switzerland Finance S.A. (“Danaher Switzerland”).
+(d)
+Issued by DH Japan Finance S.A. (“Danaher Japan”).
+(e)
+Issued by Danaher Corporation or Danaher International II.
+(f)
+Issued by Danaher Corporation.
+Debt discounts, premiums and debt issuance costs totaled $
+93
+million and $
+96
+million as of March 28, 2025 and December 31, 2024, respectively, and have been netted against the aggregate principal amounts of the related debt in the components of debt table above.  For additional details regarding the Company’s debt financing, refer to Note 13 of the Company’s financial statements as of and for the year ended December 31, 2024 included in the Company’s 2024 Annual Report.
+14
+Table of Contents
+The Company has historically satisfied short-term liquidity needs that are not met through operating cash flow and available cash primarily through issuances of commercial paper under its U.S. dollar and euro-denominated commercial paper programs.  The Company’s $
+5.0
+billion unsecured, multi-year revolving credit facility with a syndicate of banks that expires on August 11, 2028 (the “Credit Facility”), is available for direct borrowings and provides credit support for the commercial paper programs.  For a description of the Credit Facility, refer to the Company’s 2024 Annual Report.  As of March 28, 2025, the Company has classified approximately $
+2.4
+billion of its borrowings outstanding under the euro-denominated commercial paper programs and

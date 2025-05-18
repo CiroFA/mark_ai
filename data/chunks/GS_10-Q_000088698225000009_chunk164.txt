@@ -1,0 +1,24 @@
+well as the financial markets. The results of the Modeled Liquidity Outflow, the Intraday Liquidity Model, the long-term stress testing models and the resolution liquidity models are reported to senior management on a regular basis. We also perform firmwide stress tests. See “Overview and Structure of Risk Management” for information about firmwide stress tests.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Modeled Liquidity Outflow.
+Our Modeled Liquidity Outflow is based on conducting multiple scenarios that include combinations of market-wide and firm-specific stress. These scenarios are characterized by the following qualitative elements:
+•
+Severely challenged market environments, which include low consumer and corporate confidence, financial and political instability, and adverse changes in market values, including potential declines in equity markets and widening of credit spreads; and
+•
+A firm-specific crisis potentially triggered by material losses, reputational damage (including, as a result of, the dissemination of negative information through social media), litigation and/or a ratings downgrade.
+The following are key modeling elements of our Modeled Liquidity Outflow:
+•
+Liquidity needs over a 30-day scenario;
+•
+A two-notch downgrade of our long-term senior unsecured credit ratings;
+•
+Changing conditions in funding markets, which limit our access to unsecured and secured funding;
+•
+No support from additional government funding facilities. Although we have access to various central bank funding programs, we do not assume reliance on additional sources of funding in a liquidity crisis; and
+•
+A combination of contractual outflows and contingent outflows arising from both our on- and off-balance sheet arrangements. Contractual outflows include, among other things, upcoming maturities of unsecured debt, term deposits and secured funding. Contingent outflows include, among other things, the withdrawal of customer credit balances in our prime brokerage business, increase in variation margin requirements due to adverse changes in the value of our exchange-traded and OTC-cleared derivatives, draws on unfunded commitments and withdrawals of deposits that have no contractual maturity. See notes to the consolidated financial statements for further information about contractual outflows, including Note 11 for collateralized financings, Note 13 for deposits, Note 14 for unsecured long-term borrowings and Note 15 for operating lease payments, and “Off-Balance Sheet Arrangements” for further information about our various types of off-balance sheet arrangements.
+Intraday Liquidity Model.
+Our Intraday Liquidity Model measures our intraday liquidity needs in a scenario where access to sources of intraday liquidity may become constrained. The intraday liquidity model considers a variety of factors, including historical settlement activity.
+Long-Term Stress Testing.
+We utilize longer-term stress tests to take a forward

@@ -1,0 +1,20 @@
+the ACLL for all consumer loans under approaches that do not incorporate discounting, primarily utilizing models that consider the borrowers’ probability of default, loss given default and exposure at default. In addition, upon adoption of the ASU, Citi collectively evaluates smaller-balance homogeneous loans formerly considered TDRs for expected credit losses, whereas previously those loans had been individually evaluated.
+The ASU also requires disclosure of modifications of loans to borrowers experiencing financial difficulty if the modification involves principal forgiveness, an interest rate reduction, an other-than-insignificant payment delay, a term extension or a combination of those types of modifications. In addition, the ASU requires the disclosure of current-period gross write-offs by year of loan origination (vintage). See Note 15 for these new disclosures for periods beginning on and after January 1, 2023.
+161
+Long-Duration Insurance Contracts
+In August 2018, the FASB issued ASU No. 2018-12,
+Financial Services—Insurance: Targeted Improvements to the Accounting for Long-Duration Contracts
+, which changes the existing recognition, measurement, presentation and disclosures for long-duration contracts issued by an insurance entity. Specifically, the guidance (i) improves the timeliness of recognizing changes in the liability for future policy benefits and prescribes the rate used to discount future cash flows for long-duration insurance contracts, (ii) simplifies and improves the accounting for certain market-based options or guarantees associated with deposit (or account balance) contracts, (iii) simplifies the amortization of deferred acquisition costs, and (iv) introduces additional quantitative and qualitative disclosures. Citi has certain insurance subsidiaries, primarily in Mexico, that issue long-duration insurance contracts such as traditional life insurance policies and life-contingent annuity contracts that are impacted by the requirements of ASU 2018-12.
+Citi adopted the targeted improvements in ASU 2018-12 on January 1, 2023, resulting in a $
+39
+million decrease in
+Other liabilities
+and a $
+27
+million increase in
+AOCI
+, after-tax.
+Fair Value Hedging—Portfolio Layer Method
+In March 2022, the FASB issued ASU No. 2022-01,
+Derivatives and Hedging (Topic 815): Fair Value Hedging—Portfolio Layer Method
+, intended to better align hedge accounting with an organization’s risk management strategies. Specifically, the guidance expands the current single-layer method to allow multiple hedge layers of a single closed portfolio of qualifying assets, which include both prepayable and non-prepayable assets. Upon the adoption of the guidance, entities may elect to reclassify securities held-to-maturity to the available-for-sale category provided that the reclassified securities are designated in a portfolio hedge. Coincident with the adoption of this ASU, on January 1, 2023, Citi transferred HTM mortgage-backed securities with an amortized

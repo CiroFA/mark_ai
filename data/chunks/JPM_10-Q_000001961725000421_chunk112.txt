@@ -1,0 +1,47 @@
+U.S. federal income tax purposes.
+(b)
+Includes brokerage-related held-for-investment customer receivables, which are classified in accrued interest and accounts receivable, and all other interest-earning assets, which are classified in other assets on the Consolidated Balance Sheets.
+(c)
+The rates reflect the impact of interest earned on cash collateral where the cash collateral has been netted against certain derivative payables.
+(d)
+All other interest-bearing liabilities include brokerage-related customer payables.
+(e)
+The combined balance of trading liabilities – debt and equity instruments was $157.3 billion and $174.1 billion for the three months ended March 31, 2025 and 2024, respectively.
+(f)
+Interest includes the effect of certain related hedging derivatives. Taxable-equivalent amounts are used where applicable.
+(g)
+The annualized rate for securities based on amortized cost was 3.82% and 3.60% for the three months ended March 31, 2025 and 2024, respectively, and does not give effect to changes in fair value that are reflected in AOCI.
+171
+2024 Form 10-K:
+Annual report on Form 10-K for year ended December 31, 2024, filed with the U.S. Securities and Exchange Commission.
+ABS
+: Asset-backed securities
+Active foreclosures:
+Loans referred to foreclosure where formal foreclosure proceedings are ongoing. Includes both judicial and non-judicial states.
+AFS:
+Available-for-sale
+Allowance for loan losses to total retained loans:
+represents period-end allowance for loan losses divided by retained loans.
+Amortized cost:
+Amount at which a financing receivable or investment is originated or acquired, adjusted for accretion or amortization of premium, discount, and net deferred fees or costs, collection of cash, charge-offs, foreign exchange, and fair value hedge accounting adjustments. For AFS securities, amortized cost is also reduced by any impairment losses recognized in earnings. Amortized cost is not reduced by the allowance for credit losses, except where explicitly presented net.
+AOCI
+: Accumulated other comprehensive income/(loss)
+ARM(s)
+: Adjustable rate mortgage(s)
+AUC:
+“Assets under custody”: Represents assets held directly or indirectly on behalf of clients under safekeeping, custody and servicing arrangements.
+Auto loan and lease origination volume:
+Dollar amount of auto loans and leases originated.
+AWM:
+Asset & Wealth Management
+Beneficial interests issued by consolidated VIEs
+:
+represents the interest of third-party holders of debt, equity securities, or other obligations, issued by VIEs that JPMorganChase consolidates.
+BHC:
+Bank holding company
+BWM
+: Banking & Wealth Management
+Bridge Financing Portfolio:
+A portfolio of held-for-sale unfunded loan commitments and funded loans. The unfunded commitments include both short-term bridge loan commitments that will ultimately be replaced by longer term financing as well as term loan commitments. The funded loans include term loans and funded revolver facilities.
+CCAR:
+Comprehensive Capital

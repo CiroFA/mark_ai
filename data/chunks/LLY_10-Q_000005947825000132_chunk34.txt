@@ -1,0 +1,17 @@
+2020.
+Research Corporation Technologies, Inc.
+In April 2016, Research Corporation Technologies, Inc. (RCT) filed a lawsuit against us in the U.S. District Court for the District of Arizona asserting damages claims for breach of contract, unjust enrichment, and conversion related to processes used to manufacture certain products, including Humalog and Humulin. In October 2021, the court issued a summary judgment decision in favor of RCT on certain issues, including with respect to a disputed royalty. In July 2024, we reached a confidential agreement with RCT that requires different payments based on various litigation outcomes as determined on appeal. The settlement agreement is not an admission of liability or fault, and is subject to conditions. Pursuant to the agreement, the court entered final judgment, Lilly filed a notice of appeal to the U.S. Court of Appeals for the Ninth Circuit, and Lilly made an initial payment under the agreement. Lilly's appeal remains pending. The remaining amount payable under the agreement, if any, should not have a material impact on our financial position, liquidity or results of operations.
+26
+Note 10:
+Other Comprehensive Income (Loss)
+The following tables summarize the activity related to each component of other comprehensive income (loss) during the three months ended March 31, 2025 and 2024:
+The tax effects on the net activity related to each component of other comprehensive income (loss) were as follows:
+Except for the tax effects of foreign currency translation gains and losses related to our foreign currency-denominated notes, cross-currency interest rate swaps, and other foreign currency exchange contracts designated as net investment hedges (see Note 6), income taxes were not provided for foreign currency translation. Generally, the assets and liabilities of foreign operations are translated into U.S. dollars using the current exchange rate. For those operations, changes in exchange rates generally do not affect cash flows; therefore, resulting translation adjustments are made in shareholders' equity rather than in the consolidated condensed statements of operations.
+27
+Reclassifications out of accumulated other comprehensive loss were as follows:
+Note 11:
+Other–Net, (Income) Expense
+Other–net, (income) expense consisted of the following:
+Note 12:
+Segment Information
+We operate as a single reportable segment engaged in the discovery, development, manufacturing, marketing, and sales of pharmaceutical products worldwide. A global research and development organization and a supply chain organization are responsible for the discovery, development, manufacturing, and supply of our products. Our commercial organizations market, distribute, and sell the products. The business is also supported by global corporate staff functions. Our determination that we operate as a single segment is consistent with the nature of our operations and the financial information regularly reviewed by the chief executive officer,

@@ -1,0 +1,53 @@
+on derivative instruments and hedging activities, see Note 6.
+2.
+For a further breakdown by type, see the following Detail of Loans and Lending Commitments at Fair Value table.
+3.
+For trading purposes, the Firm holds or sells short equity securities issued by entities in diverse industries and of varying sizes.
+4.
+Amounts exclude certain investments that are measured based on NAV per share, which are not classified in the fair value hierarchy. For additional disclosure about such investments, see “Net Asset Value Measurements” herein.
+5.
+At December 31, 2024 and December 31, 2023, the Firm’s Trading assets included an insignificant amount of equity securities subject to contractual sale restrictions that generally prohibit the Firm from selling the security for a period of time as of the measurement date.
+Detail of Loans and Lending Commitments at Fair Value
+Unsettled Fair Value of Futures Contracts
+1
+1.
+These contracts are primarily Level 1, actively traded, valued based on quoted prices from the exchange and are excluded from the previous recurring fair value tables.
+Valuation Techniques for Assets and Liabilities Measured at Fair Value on a Recurring Basis
+U.S. Treasury and Agency Securities
+U.S. Treasury Securities
+Valuation Technique:
+•
+Fair value is determined using quoted market prices.
+Valuation Hierarchy Classification:
+•
+Level 1—as inputs are observable and in an active market
+U.S. Agency Securities
+Valuation Techniques:
+•
+Non-callable agency-issued debt securities are generally valued using quoted market prices, and callable agency-issued debt securities are valued by benchmarking model-derived prices to quoted market prices and trade data for comparable instruments.
+•
+The fair value of agency mortgage pass-through pool securities is model-driven based on spreads of comparable to-be-announced securities.
+•
+CMOs are generally valued using quoted market prices and trade data adjusted by subsequent changes in related indices for comparable instruments.
+Valuation Hierarchy Classification:
+•
+Level 1—on-the-run agency issued debt securities if actively traded and inputs are observable
+•
+Level 2—all other agency issued debt securities, agency mortgage pass-through pool securities and CMOs if actively traded and inputs are observable
+•
+Level 3—in instances where the trading activity is limited or inputs are unobservable
+Other Sovereign Government Obligations
+Valuation Techniques:
+•
+Fair value is determined using quoted prices in active markets when available. When not available, quoted prices in less active markets are used. In the absence of position-specific quoted prices, fair value may be determined through benchmarking from comparable instruments.
+Valuation Hierarchy Classification:
+•
+Level 1—if actively traded and inputs are observable
+•
+Level 2—if the market is less active or prices are dispersed
+•
+Level 3—in instances where the prices are unobservable
+State and Municipal Securities
+Valuation Techniques:
+•
+Fair value is determined using

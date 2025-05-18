@@ -1,0 +1,36 @@
+are readily observable.
+The Company determines the fair value of hybrid financial instruments, including structured liabilities, using the appropriate derivative valuation methodology (described above in “Trading Account Assets and Liabilities—Derivatives”) given the nature of the embedded risk profile. Such instruments are classified within Level 2 or Level 3 depending on the observability of significant inputs to the valuation.
+271
+Items Measured at Fair Value on a Recurring Basis
+The following tables present for each of the fair value hierarchy levels the Company’s assets and liabilities that are measured at fair value on a recurring basis at December 31, 2024 and 2023. The Company may hedge positions that have
+been classified in the Level 3 category with other financial instruments (hedging instruments) that may be classified as Level 3, but also with financial instruments classified as Level 1 or Level 2. The effects of these hedges are presented gross in the following tables:
+Fair Value Levels
+Table continues on the next page.
+272
+(1)
+Represents netting of (i) the amounts due under securities purchased under agreements to resell and the amounts owed under securities sold under agreements to repurchase and (ii) derivative exposures covered by a qualifying master netting agreement and cash collateral offsetting.
+(2)
+Amounts exclude $
+23
+million of investments measured at net asset value (NAV) in accordance with ASU 2015-07,
+Fair Value Measurement (Topic 820): Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent)
+.
+(3)
+Because the amount of the cash collateral paid/received has not been allocated to the Level 1, 2 and 3 subtotals, these percentages are calculated based on total assets and liabilities measured at fair value on a recurring basis, excluding the cash collateral paid/received on derivatives.
+273
+Fair Value Levels
+Table continues on the next page.
+274
+(1)
+Represents netting of (i) the amounts due under securities purchased under agreements to resell and the amounts owed under securities sold under agreements to repurchase and (ii) derivative exposures covered by a qualifying master netting agreement and cash collateral offsetting.
+(2)
+Amounts exclude $
+25
+million of investments measured at NAV in accordance with ASU 2015-07,
+Fair Value Measurement (Topic 820): Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent)
+.
+(3)
+Because the amount of the cash collateral paid/received has not been allocated to the Level 1, 2 and 3 subtotals, these percentages are calculated based on total assets and liabilities measured at fair value on a recurring basis, excluding the cash collateral paid/received on derivatives.
+275
+Changes in Level 3 Fair Value Category
+The following tables present the changes in the Level 3 fair value category for the years ended December 31, 2024 and 2023. The gains and losses presented below include changes in

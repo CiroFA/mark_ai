@@ -1,0 +1,18 @@
+twelve months ended July 31, 2023; and
+326,961
+shares during the twelve months ended July 31, 2022. At July 31, 2024, there were
+1,963,952
+shares available for issuance under this plan.
+The following table summarizes the total share-based compensation expense that we recorded in operating income for the periods shown.
+We capitalized
+no
+share-based compensation related to internal use software projects during the twelve months ended July 31, 2024 and 2023, and $
+1
+million during the twelve months ended July 31, 2022.
+Valuation and Amortization Methods
+RSUs granted typically vest based on continued service. We value these time-based RSUs at the date of grant using the intrinsic value method. We amortize the fair value of time-based RSUs on a straight-line basis over the service period. These time-based RSUs accounted for approximately
+90
+% of our total share-based compensation expense during the twelve months ended July 31, 2024. Certain RSUs granted to senior management vest based on the achievement of pre-established market or performance goals. We estimate the fair value of market-based RSUs at the date of grant using a Monte Carlo valuation methodology and amortize those fair values over the requisite service period for each separately vesting tranche of the award. The Monte Carlo methodology that we use to estimate the fair value of market-based RSUs at the date of grant incorporates into the valuation the possibility that the market condition may not be satisfied. Provided that the requisite service is rendered, the total fair value of the market-based RSUs at the date of grant must be recognized as compensation expense even if the market condition is not achieved. However, the number of shares that ultimately vest can vary significantly with the performance of the specified market criteria. We estimate the fair value of performance-based RSUs at the date of grant using
+Tables of Contents
+the intrinsic value method and the probability that the specified performance criteria will be met. Each quarter, we update our assessment of the probability that the specified performance criteria will be achieved and adjust our estimate of the fair value of the performance-based RSUs if necessary. We amortize the fair values of performance-based RSUs over the requisite service period for each separately vesting tranche of the award. All of the RSUs we grant have dividend rights that are subject to the same vesting requirements as the underlying equity awards, so we do not adjust the market price of our stock on the date of grant for dividends.
+We estimate the fair value of stock options granted using a lattice binomial model and a multiple option award approach. Our stock options have various restrictions, including vesting provisions and restrictions on transfer, and are often exercised prior to their contractual maturity. We believe that lattice binomial models are more capable of incorporating the features of our stock options than closed-form models

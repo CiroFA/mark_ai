@@ -1,0 +1,21 @@
+table above, wholesale loans included $
+3.44
+billion as of March 2025 and $
+3.65
+billion as of December 2024 of nonaccrual loans for which the allowance for credit losses was measured on an asset-specific basis. The allowance for credit losses on these loans was $
+735
+million as of both March 2025 and December 2024. These loans included $
+682
+million as of March 2025 and $
+585
+million as of December 2024 of loans which did not require a reserve as the loan was deemed to be recoverable.
+See Note 18 for further information about lending commitments.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+The following is a description of the methodology used to calculate the allowance for credit losses:
+Wholesale.
+The allowance for credit losses for wholesale loans and lending commitments that exhibit similar risk characteristics is measured using a modeled approach. These models determine the probability of default and loss given default based on various risk factors, including internal credit ratings, industry default and loss data, expected life, macroeconomic indicators, the borrower’s capacity to meet its financial obligations, the borrower’s country of risk and industry, loan seniority and collateral type. For lending commitments, the methodology also considers the probability of drawdowns or funding. In addition, for loans backed by real estate, risk factors include the loan-to-value ratio, debt service ratio and home price index. The most significant inputs to the forecast model for wholesale loans and lending commitments include unemployment rates, GDP, credit spreads, commercial and industrial delinquency rates, short- and long-term interest rates, and oil prices.
+The allowance for loan losses for wholesale loans that do not share similar risk characteristics, such as nonaccrual loans, is calculated using the present value of expected future cash flows discounted at the loan’s effective rate, the observable market price of the loan, or, in the case of collateral dependent loans, the fair value of the collateral less estimated costs to sell, if applicable. Wholesale loans are charged off against the allowance for loan losses when deemed to be uncollectible.
+Consumer.
+The allowance for credit losses for consumer loans that exhibit similar risk characteristics is calculated using a modeled approach which classifies consumer loans into pools based on borrower-related and exposure-related characteristics that differentiate a pool’s risk characteristics from other pools. The factors considered in determining a pool are generally consistent with the risk characteristics used for internal credit risk measurement and management and include key metrics, such as FICO credit scores, delinquency status, loan vintage and macroeconomic indicators. The most significant inputs to the forecast model for consumer loans include unemployment rates and delinquency rates. The expected life of revolving credit card

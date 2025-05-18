@@ -1,0 +1,39 @@
+Interest Income Recognized for Non-Accrual Consumer Loans
+(1)
+North America includes the U.S., Canada and Puerto Rico. Mexico is included in offices outside North America.
+Sales and Purchases of Consumer Loans
+During the years ended December 31, 2024 and 2023, the Company sold and/or reclassified to held-for-sale (HFS) approximately $
+335
+million and $
+2,166
+million of consumer loans, respectively. The higher sale activity in 2023 was primarily related to a larger mortgage portfolio sold. Except for the acquisition of an approximate $
+700
+million credit card portfolio during the year ended December 31, 2024, the Company did not have significant purchases of consumer loans classified as held-for-investment during the years ended December 31, 2024 and 2023. Loans held by businesses that are for sale are not included in the above since they have been reclassified to
+Other assets
+. See Note 2 for additional information regarding Citigroup’s businesses held-for-sale.
+218
+Consumer Credit Scores (FICO)
+In the U.S., independent credit agencies rate an individual’s risk for assuming debt based on the individual’s credit history and assign every consumer a Fair Isaac Corporation (FICO) credit score. These scores are continually updated by the agencies based on an individual’s credit actions (e.g., taking out a loan or missed or late payments).
+The following tables provide details on the FICO scores for Citi’s U.S. consumer loan portfolio based on end-of-period receivables by year of origination. FICO scores are updated monthly for substantially all of the portfolio or, otherwise, on a quarterly basis for the remaining portfolio. Loans that did not have FICO scores as of the prior period have been updated with FICO scores as they become available.
+With respect to Citi’s consumer loan portfolio outside of the U.S. as of December 31, 2024 and 2023 ($
+72.5
+billion and $
+77.5
+billion, respectively), various country-specific or regional credit risk metrics and acquisition and behavior scoring models are leveraged as one of the factors to evaluate the credit quality of customers (see “Consumer Loans and Ratios Outside of North America” below). As a result, details of relevant credit quality indicators for those loans are not comparable to the below FICO score distribution for the U.S. portfolio.
+219
+(1)
+The FICO bands in the tables are consistent with general industry peer presentations.
+(2)
+These personal, small business and other loans without a FICO score available include $
+25.9
+billion and $
+29.2
+billion of Private Bank loans as of December 31, 2024 and 2023, respectively, which are classifiably managed within
+Wealth
+and are primarily evaluated for credit risk based on their internal risk ratings. As of December 31, 2024 and 2023, approximately
+83
+% and
+92
+% of these loans, respectively, were rated investment grade.
+(3)
+FICO scores not available primarily relate to loans guaranteed by government-sponsored enterprises for which FICO scores are generally not

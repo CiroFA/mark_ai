@@ -1,0 +1,20 @@
+stockholders:
+Refer to
+Note D – Hedging Activities and Fair Value Measurements
+for further detail on our net investment hedges recorded in
+Foreign currency translation adjustment
+and our cash flow hedges recorded in
+Net change in derivative financial instruments
+.
+31
+Table of Contents
+NOTE M – NEW ACCOUNTING PRONOUNCEMENTS
+Periodically, new accounting pronouncements are issued by the FASB or other standard setting bodies. Recently issued standards typically do not require adoption until a future effective date. Prior to their effective date, we evaluate the pronouncements to determine the potential effects of adoption on our accompanying unaudited consolidated financial statements. During the first quarter of 2025, we implemented the following standard on a prospective basis, which did not have a material impact on our unaudited consolidated financial statements:
+ASC Update No. 2023-09
+ASC Update No. 2023-09,
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+enhances the transparency and decision usefulness of income tax disclosures. Update No. 2023-09 modifies the rules on income tax disclosures to require entities to annually disclose (1) specific categories in the rate reconciliation, (2) the income or loss from continuing operations before income tax expense or benefit (separated between domestic and foreign) and (3) income tax expense or benefit from continuing operations (separated by federal, state, and foreign). Update No. 2023-09 also requires entities to disclose their income tax payments to international, federal, state and local jurisdictions, among other changes.
+Standards to be Implemented
+In November 2024, the FASB issued ASC Update No. 2024-03
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures
+. Update No. 2024-03 aims to improve transparency of expense disclosures to enhance investor understanding of an entity's performance and to assist in comparing an entity's performance over time and with that of other entities. Update No. 2024-03 modifies the disclosures over certain costs and expenses and requires entities to disclose (1) the amounts of purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depletion, included in each relevant expense caption, (2) within the same disclosure, certain amounts that are already required to be disclosed under current GAAP, (3) a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively and (4) the total amount of selling expenses and, in annual reporting periods, an entity’s definition of selling expenses. The amendments in this Update are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027. Update No. 2024-03 allows for early adoption and requires either prospective adoption to financial statements issued for reporting periods after the effective

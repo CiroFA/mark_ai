@@ -1,0 +1,22 @@
+product revenue increased in Japan, Australia, India and China by 14%, 17%, 5% and 8%, respectively.
+46
+Table of Contents
+CISCO SYSTEMS, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+Product Revenue by Category
+In addition to the primary view on a geographic basis, we also prepare financial information related to product categories and customer markets for various purposes.
+The following table presents product revenue by category (in millions, except percentages):
+Amounts may not sum and percentages may not recalculate due to rounding.
+Networking
+Three Months Ended January 25, 2025 Compared with Three Months Ended January 27, 2024
+The Networking product category consists of our core networking technologies of switching, routing, wireless, and servers. Revenue from the Networking product category decreased by 3%, or $231 million, as the second quarter of fiscal 2024 included the remaining elevated levels of product shipments. We experienced a revenue decline in Servers, partially offset by growth in Wireless and Switching.
+Six Months Ended January 25, 2025 Compared with Six Months Ended January 27, 2024
+Revenue from the Networking product category decreased by 14%, or $2.3 billion. Revenue declined in both campus switching and data center switching, primarily driven by declines in our Catalyst 9000 series and Nexus 9000 series offerings. We experienced a revenue decline in Enterprise Routing, although we saw revenue growth in our SD-WAN offerings. The decrease in Wireless was primarily driven by our WiFi-6 products. We also saw a decline in Internet Infrastructure and Servers.
+Security
+Three Months Ended January 25, 2025 Compared with Three Months Ended January 27, 2024
+The Security product category consists of our Network Security, Identity and Access Management, SASE and Threat Intelligence, Detection, and Response offerings. Revenue in our Security product category increased by 117%, or $1.1 billion, primarily driven by Threat Intelligence, Detection, and Response offerings, which includes the offerings from Splunk, and growth in our SASE and Network Security offerings. Excluding Splunk, product revenue in the Security product category increased 4%.
+Six Months Ended January 25, 2025 Compared with Six Months Ended January 27, 2024
+Revenue from the Security product category increased by 108%, or $2.1 billion, primarily driven by Threat Intelligence, Detection, and Response offerings, which includes the offerings from Splunk, and to a lesser extent, growth in our SASE and Network Security offerings. Excluding Splunk, product revenue in the Security product category increased 3%.
+Collaboration
+Three Months Ended January 25, 2025 Compared with Three Months Ended January 27, 2024
+The Collaboration product category consists of our Webex Suite, Collaboration Devices, Contact Center and CPaaS offerings. Revenue in our Collaboration product category increased by 1%, or $7 million, primarily driven

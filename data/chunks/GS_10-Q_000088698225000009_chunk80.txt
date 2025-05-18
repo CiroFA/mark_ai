@@ -1,0 +1,29 @@
+requirements would result in restrictions being imposed by the firm’s regulators and could limit the firm’s ability to repurchase shares, pay dividends and make certain discretionary compensation payments. The firm’s capital levels are also subject to qualitative judgments by the regulators about components of capital, risk weightings and other factors. Furthermore, certain of the firm’s subsidiaries are subject to separate regulations and capital requirements.
+Capital Framework
+The regulations under the Capital Framework are largely based on the Basel Committee on Banking Supervision’s (Basel Committee) capital framework for strengthening international capital standards (Basel III) and also implement certain provisions of the U.S. Dodd-Frank Wall Street Reform and Consumer Protection Act. Under the Capital Framework, the firm is an “Advanced approaches” banking organization and has been designated as a global systemically important bank (G-SIB).
+The Capital Framework includes the minimum risk-based capital and the capital conservation buffer requirements. The buffer must consist entirely of capital that qualifies as Common Equity Tier 1 (CET1) capital.
+The firm calculates its CET1 capital, Tier 1 capital and Total capital ratios in accordance with both the Standardized and Advanced Capital Rules. Each of the ratios calculated under the Standardized and Advanced Capital Rules must meet its respective capital requirements.
+Under the Capital Framework, the firm is also subject to leverage requirements which consist of a minimum Tier 1 leverage ratio and a minimum supplementary leverage ratio (SLR), as well as the SLR buffer.
+Consolidated Regulatory Capital Requirements
+Risk-Based Capital Ratios.
+The table below presents the risk-based capital requirements.
+In the table above:
+•
+Under both the Standardized and Advanced Capital Rules, the CET1 capital ratio requirement includes a minimum of
+4.5
+%, the Tier 1 capital ratio requirement includes a minimum of
+6.0
+% and the Total capital ratio requirement includes a minimum of
+8.0
+%. These requirements also include the capital conservation buffer requirements, consisting of the G-SIB surcharge (Method 2) of
+3.0
+% and the countercyclical capital buffer, which the FRB has set to
+zero percent
+. In addition, the capital conservation buffer requirements include the stress capital buffer (SCB) of
+6.2
+% under the Standardized Capital Rules and a buffer of
+2.5
+% under the Advanced Capital Rules.
+•
+The G-SIB surcharge is updated annually based on financial data from the prior year and is generally applicable for the following year. The G-SIB surcharge is calculated using two methodologies, the higher of which is reflected in the firm’s risk-based capital requirements. The first calculation (Method 1) is based on the Basel Committee’s methodology which, among other factors, relies upon measures of the size, activity and complexity of each G-SIB. The second calculation (Method 2) uses similar inp
+uts but includes a

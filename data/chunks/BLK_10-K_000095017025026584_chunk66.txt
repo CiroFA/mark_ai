@@ -1,0 +1,20 @@
+indirectly through adverse impacts to its clients’ investments, including as a result of declines in asset values, changes in client preferences, increased regulatory and compliance costs and significant business disruptions. Any of these risks may cause the Company’s AUM, revenue and earnings to decline.
+RISKS RELATED TO INVESTMENT PERFORMANCE
+Poor investment performance could lead to the loss of clients and may cause AUM, revenue and earnings to decline.
+The Company’s management believes that investment performance, including the efficient delivery of beta, is one of the most important factors for the growth and retention of AUM. Poor investment performance relative to applicable portfolio benchmarks, aggregate fee levels or competitors may cause AUM, revenue and earnings to decline as a result of:
+•
+client withdrawals in favor of better performing products offered by competitors;
+•
+client shifts to products that charge lower fees;
+•
+the diminishing ability to attract additional funds from existing and new clients;
+•
+reduced, minimal or no performance fees;
+•
+an impairment to the value of intangible assets and goodwill; or
+•
+a decrease in the valuations of seed and co-investment capital.
+Performance fees may increase volatility of both revenue and earnings.
+A portion of BlackRock’s revenue is derived from performance fees on investment advisory assignments. Performance fees represented $1.2 billion, or 6%, of total revenue for the year ended December 31, 2024. Generally, the Company is entitled to a performance fee only if the agreement under which it is managing the assets provides for one and if returns on the related portfolio exceed agreed-upon periodic or cumulative return targets. If these targets are not exceeded, a performance fee for that period will not be earned and, if targets are based on cumulative returns, the Company may not earn performance fees in future periods. The volatility of the Company’s future revenue and earnings may also be affected due to private markets becoming an increasing component of the overall composition of the Company’s performance fee generating assets, including from the Company’s acquisition of GIP (the “GIP Acquisition”) and its proposed acquisition of HPS (the “HPS Acquisition”). In particular, the Company expects that as it manages more private markets products, its performance fees will generally be recognized over substantially longer multi-year periods than those associated with more liquid products.
+Failure to identify errors in the quantitative models BlackRock utilizes to manage its business could adversely affect product performance and client relationships.
+BlackRock employs various quantitative models to support its investment processes, including those related to risk assessment, portfolio management, trading and hedging activities and product valuations. Any errors or limitations in the underlying models, model inputs or assumptions, including those from third-party sources, as well as any

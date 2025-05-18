@@ -1,0 +1,34 @@
+contracts for a maximum period of
+three years
+.
+Net Investment Hedges
+Foreign Currency-Denominated Debt Designations
+As of March 31, 2025, Linde has €
+19.7
+billion ($
+20.4
+billion) Euro-denominated notes and intercompany loans, ¥
+4.6
+billion ($
+0.6
+billion) CNY-denominated intercompany loans and C$
+1.4
+billion ($
+1.0
+billion) CAD-denominated intercompany loans that are designated as hedges of the net investment positions in certain foreign operations. Since hedge inception, the deferred gain recorded within the cumulative translation adjustment component of accumulated other comprehensive income (loss) in the consolidated balance sheet is $
+287
+million (deferred loss of $
+933
+million in the consolidated statement of comprehensive income for the three months ended March 31, 2025), which is largely offset by an offsetting loss or gain on the underlying foreign net investment being hedged.
+Foreign Currency Forward Exchange Contract Designations
+In 2024, the Company entered into forward exchange contracts to partially hedge its net investment in certain foreign-denominated subsidiaries. The Company assesses the forward exchange contracts used as net investment hedges under the spot method. This results in the difference between the spot rate and the forward rate of the forward exchange contract being excluded from the assessment of hedge effectiveness and recorded as incurred as a reduction in interest expense - net in the consolidated statement of income. Since hedge inception, the deferred gain recorded within the cumulative translation adjustment component of accumulated other comprehensive income (loss) in the consolidated balance sheet is $
+2
+million (deferred loss of $
+28
+million in the consolidated statement of comprehensive income for the three months ended March 31, 2025), which is largely offset by an offsetting loss or gain on the underlying foreign net investment being hedged. The amount of net interest income recorded in three months ended March 31, 2025 for all forward exchange contracts was immaterial.
+Effects of Previous Hedge Designations
+As of March 31, 2025, exchange rate movements relating to previously designated hedges that remain in accumulated other comprehensive income (loss) is a gain of $
+56
+million. These movements will remain in accumulated other comprehensive income (loss), until appropriate, such as upon sale or liquidation of the related foreign operations at which time amounts will be reclassified to the consolidated statement of income.
+Interest Rate Swaps
+Linde has historically used interest rate swaps to hedge the exposure to changes in the fair value of financial assets and financial liabilities as a result of interest rate changes. When used, these interest rate swaps would effectively convert fixed-rate interest exposures to variable rates; fair value adjustments were recognized in earnings along with an equally offsetting charge/benefit to earnings for the changes in the fair value of the underlying financial

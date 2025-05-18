@@ -1,0 +1,23 @@
+due and criticized loans, idiosyncratic events and deterioration within an industry or region.
+Management’s estimate of credit losses entails judgment about the expected life of the loan and loan collectability at the reporting dates, and there are uncertainties inherent in those judgments. The allowance for credit losses is subject to a governance process that involves senior management within Risk and Controllers. Personnel within Risk are responsible for forecasting the economic variables that underlie the economic scenarios that are used in the modeling of expected credit losses. While management uses the best information available to determine this estimate, future adjustments to the allowance may be necessary based on, among other things, changes in the economic environment or variances between actual results and the original assumptions used.
+The table below presents gross loans and lending commitments accounted for at amortized cost by portfolio.
+In the table above, wholesale loans included $
+3.65
+billion as of December 2024 and $
+4.14
+billion as of December 2023 of nonaccrual loans for which the allowance for credit losses was measured on an asset-specific basis. The allowance for credit losses on these loans was $
+735
+million as of December 2024 and $
+778
+million as of December 2023. These loans included $
+585
+million as of December 2024 and $
+625
+million as of December 2023 of loans which did not require a reserve as the loan was deemed to be recoverable.
+See Note 18 for further information about lending commitments.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The following is a description of the methodology used to calculate the allowance for credit losses:
+Wholesale.
+The allowance for credit losses for wholesale loans and lending commitments that exhibit similar risk characteristics is measured using a modeled approach. These models determine the probability of default and loss given default based on various risk factors, including internal credit ratings, industry default and loss data, expected life, macroeconomic indicators, the borrower’s capacity to meet its financial obligations, the borrower’s country of risk and industry, loan seniority and collateral type. For lending commitments, the methodology also considers the probability of drawdowns or funding. In addition, for loans backed by real estate, risk factors include the loan-to-value ratio, debt service ratio and home price index. The most significant inputs to the forecast model for wholesale loans and lending commitments include unemployment rates, GDP, credit spreads, commercial and industrial delinquency rates, short- and long-term interest rates, and oil prices.
+The allowance for loan losses for wholesale loans that do not share similar risk characteristics, such as nonaccrual loans, is calculated using the present value of expected future cash flows discounted at the loan’s effective rate, the observable market price of

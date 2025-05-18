@@ -1,0 +1,27 @@
+analysis results in a coefficient of determination of 80% or greater and a slope between 80% and 125%.
+For qualifying cash flow hedges, the gains or losses on derivatives are included in “Cash flow hedges” within the consolidated statements of comprehensive income. Such gains or losses are reclassified to interest income/expense within the consolidated statements of earnings in the same period that the forecasted hedged cash flows impact earnings.
+The gains/(losses) included within other comprehensive income/(loss) and the gains/(losses) reclassified to earnings from accumulated other comprehensive income/(loss) related to cash flow hedges were
+no
+t material for the three months ended March 2025 and are not expected to be material for the next 12 months. The maximum length of time over which the forecasted cash flows are hedged is approximately one year.
+Note 8.
+Investments
+Investments includes debt securities classified as available-for-sale and held-to-maturity that are generally held in connection with the firm’s asset-liability management activities. In addition, investments includes equity securities and debt instruments that are accounted for at fair value and equity securities that are accounted for under the equity method that are generally held by the firm in connection with its long-term investing activities.
+The table below presents information about investments.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of investments, and Note 5 for information about investments within the fair value hierarchy.
+Available-for-Sale Securities, at Fair Value
+Available-for-sale securities are accounted for at fair value, and the related unrealized fair value gains and losses are included in accumulated other comprehensive income/(loss) unless designated in a fair value hedging relationship. See Note 7 for information about available-for-sale securities that are designated in a hedging relationship.
+The table below presents information about available-for-sale securities by type and tenor.
+In the table above:
+•
+The weighted average yield for available-for-sale securities was
+3.46
+% as of March 2025 and
+3.29
+% as of December 2024. The weighted average yield is presented on a pre-tax basis and computed using the effective interest rate of each security at the end of the period, weighted based on the fair value of each security. The effective interest rate considers the contractual coupon, the amortization of premiums and accretion of discounts, and excludes the effect of related hedges.
+•
+Substantially all available-for-sale securities were classified in level 1 of the fair value hierarchy.
+•
+If the fair value of available-for-sale securities is less than amortized cost, such securities are considered impaired. If the firm has the intent to sell the

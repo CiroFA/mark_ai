@@ -1,0 +1,42 @@
+issued ASU 2024-03,
+Income Statement (Subtopic 220-40):
+Reporting Comprehensive Income - Expense Disaggregation Disclosures
+, which requires an entity to disclose on an annual and interim basis, disaggregated information about specific income statement expense categories. The guidance should be applied prospectively with the option to apply the standard retrospectively. The standard becomes effective for Abbott for full year 2027 reporting. Abbott is currently evaluating the impact of this new standard on its consolidated financial statements.
+In December 2023, the FASB issued ASU 2023-09,
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+, which requires an entity to disclose annually additional information related to the company's income tax rate reconciliation and income taxes paid during the period. The guidance should be applied prospectively with the option to apply the standard retrospectively. The standard becomes effective for Abbott for full year 2025 reporting. Abbott is currently evaluating the impact of this new standard on its consolidated financial statements.
+8
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2025
+(Unaudited)
+Note 3 — Revenue
+Abbott’s revenues are derived primarily from the sale of a broad line of healthcare products under short-term receivable arrangements. Abbott has
+four
+reportable segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional Products, and Medical Devices.
+The following tables provide detail by sales category:
+Remaining Performance Obligations
+As of March 31, 2025, the estimated revenue expected to be recognized in the future related to performance obligations that are unsatisfied (or partially unsatisfied) was $
+5.7
+billion in the Diagnostic Products segment and $
+423
+million in the Medical Devices segment. Abbott expects to recognize revenue on approximately
+55
+percent of these remaining performance obligations over the next
+24
+months, approximately
+17
+percent over the subsequent
+12
+months and the remainder thereafter.
+9
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2025
+(Unaudited)
+Note 3 — Revenue (Continued)
+These performance obligations primarily reflect the future sale of reagents/consumables in contracts with minimum purchase obligations, extended warranty or service obligations related to previously sold equipment, and remote monitoring services related to previously implanted devices. Abbott has applied the practical expedient described in FASB Accounting Standards Codification (ASC) 606-10-50-14 and has not included remaining performance obligations related to contracts with original expected durations of one year or less in the amounts above.
+Other Contract Assets and Liabilities
+Abbott discloses Trade receivables separately in the Condensed Consolidated Balance Sheet at the net amount expected to be

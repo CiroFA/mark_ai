@@ -1,0 +1,24 @@
+equities, baskets of equities and equity indices;
+•
+Currency rate risk: results from exposures to changes in spot prices, forward prices and volatilities of currency rates; and
+•
+Commodity price risk: results from exposures to changes in spot prices, forward prices and volatilities of commodities, such as crude oil, petroleum products, natural gas, electricity, and precious and base metals.
+Market Risk, which is part of our second line of defense and reports to our chief risk officer, has primary responsibility for assessing, monitoring and managing our market risk by providing independent firmwide oversight and challenge across our global businesses.
+Managers in revenue-producing units, Corporate Treasury and Market Risk discuss market information, positions and estimated loss scenarios on an ongoing basis. Managers in revenue-producing units and Corporate Treasury are accountable for managing risk within prescribed limits. These managers have in-depth knowledge of their positions, markets and the instruments available to hedge their exposures.
+Market Risk Management Process
+Our process for managing market risk includes the critical components of our risk management framework described in the “Overview and Structure of Risk Management,” as well as the following:
+•
+Monitoring compliance with established market risk limits and reporting our exposures;
+•
+Diversifying exposures;
+•
+Controlling position sizes; and
+•
+Evaluating mitigants, such as economic hedges in related securities or derivatives.
+Our market risk management systems enable us to perform an independent calculation of Value-at-Risk (VaR), Earnings-at-Risk (EaR) and other stress measures, capture risk measures at individual position levels, attribute risk measures to individual risk factors of each position, report many different views of the risk measures (e.g., by desk, business, product type or entity) and produce ad hoc analyses in a timely manner.
+Risk Measures
+We produce risk measures and monitor them against established market risk limits. These measures reflect an extensive range of scenarios and the results are aggregated at product, business and firmwide levels.
+We use a variety of risk measures to estimate the size of potential losses for small, moderate and more extreme market moves over both short- and long-term time horizons. Our primary risk measures are VaR, EaR and other stress tests.
+Our risk reports detail key risks, drivers and changes for each desk and business, and are distributed daily to senior management of both our revenue-producing units and Risk.
+Value-at-Risk.
+VaR is the potential loss in value due to adverse market movements over a defined time horizon with a specified confidence level. For assets and liabilities included in VaR, see “Financial Statement Linkages to Market Risk Measures.” We typically employ a one-day time horizon with a 95% confidence level. We use a single VaR model, which captures risks, including those related to interest rates, equity

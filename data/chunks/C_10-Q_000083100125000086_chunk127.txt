@@ -1,0 +1,65 @@
+at bank entities that is non-transferable to other entities within Citigroup; and available assets not already accounted for within Citi’s HQLA to
+support Federal Home Loan Bank (FHLB) and Federal Reserve Bank discount window borrowing capacity.
+Basel III:
+Liquidity and capital rules adopted by the FRB based on an internationally agreed set of measures developed by the Basel Committee on Banking Supervision.
+Beneficial interests issued by consolidated VIEs:
+Represents the interest of third-party holders of debt, equity securities or other obligations, issued by VIEs that Citi consolidates.
+Benefit obligation:
+Refers to the projected benefit obligation for pension plans and the accumulated postretirement benefit obligation for OPEB plans.
+BHC:
+Bank holding company
+Board:
+Citigroup’s Board of Directors
+Book value per share*:
+EOP common equity divided by EOP common shares outstanding.
+Bps:
+Basis points. One basis point equals 1/100th of one percent.
+Branded Cards:
+Citi’s branded cards business with a portfolio of proprietary cards (Value, Rewards and Cash), co-branded cards (including Costco and American Airlines) and personal installment loans.
+Build:
+A net increase in the ACL through the provision for credit losses.
+Card spend volume*:
+Dollar amount of card customers’ gross purchases. Also known as purchase sales.
+Cards:
+Citi’s credit cards’ businesses or activities.
+CCAR:
+Comprehensive Capital Analysis and Review
+CCO:
+Chief Compliance Officer
+CDS:
+Credit default swaps
+CECL:
+Current expected credit losses
+CEO:
+Chief Executive Officer
+CET1 Capital:
+Common Equity Tier 1 Capital. See “Capital Resources—Components of Citigroup Capital” above within MD&A for the components of CET1.
+CET1 Capital ratio*:
+Common Equity Tier 1 Capital ratio. A primary regulatory capital ratio representing end-of-period CET1 Capital divided by total risk-weighted assets.
+CFO:
+Chief Financial Officer
+CGMHI:
+Citigroup Global Markets Holdings Inc.
+CGMI:
+Citigroup Global Markets Inc.
+CGML:
+Citigroup Global Markets Limited
+Citi:
+Citigroup Inc.
+Citibank or CBNA:
+Citibank, N.A. (National Association)
+206
+Classifiably managed:
+Loans primarily evaluated for credit risk based on internal risk rating classification.
+Client investment assets:
+Represent assets under management, trust and custody assets.
+Cluster revenues:
+Cluster revenues are primarily based on where the underlying transaction is managed.
+CODM:
+Chief operating decision maker. For Citi, the Chief Executive Officer.
+Collateral dependent:
+A loan is considered collateral dependent when repayment of the loan is expected to be provided substantially through the operation or sale of the collateral when the borrower is experiencing financial difficulty, including when foreclosure is deemed probable based on borrower delinquency.
+Commercial card spend volume:
+Represents the total global spend volumes using Citi-issued commercial cards net of refunds and returns.
+Commercial cards:
+Provides a wide range of payment services to

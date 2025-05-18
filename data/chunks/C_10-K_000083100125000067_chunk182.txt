@@ -1,0 +1,23 @@
+Sheet in
+Other liabilities
+. Changes to the allowance for unfunded lending commitments are recorded in
+Provision for credit losses on unfunded lending commitments
+.
+Mortgage Servicing Rights
+Mortgage servicing rights (MSRs) are recognized as intangible assets when the Company sells or securitizes loans acquired through purchase or origination and retains the right to service the loans. Mortgage servicing rights are accounted for at fair value, with changes in value recorded in
+Other revenue
+in the Company’s Consolidated Statement of Income.
+For additional information on the Company’s MSRs, see Notes 17, 23 and 26.
+Goodwill
+Goodwill
+represents the excess of acquisition cost over the fair value of net tangible and intangible assets acquired in a business combination. Goodwill is subject to annual impairment testing and interim assessments between annual tests if an event occurs or circumstances change that would more-likely-than-not reduce the fair value of a reporting unit below its carrying amount. The Company has determined that its reporting units are at the reportable operating segment level or one level below.
+The Company has an option to assess qualitative factors to determine if it is necessary to perform the goodwill impairment test. If, after assessing the totality of events or circumstances, the Company determines that it is not more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, no further testing is necessary. If, however, the Company determines that it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, then the Company must perform the quantitative test.
+The Company has an unconditional option to bypass the qualitative assessment for any reporting unit in any reporting period and proceed directly to the quantitative test.
+The quantitative test requires a comparison of the fair value of an individual reporting unit to its carrying value,
+including goodwill. If the fair value of a reporting unit is in excess of the carrying value, the related goodwill is considered not impaired and no further analysis is necessary. If the carrying value of a reporting unit exceeds the fair value, an impairment loss is recognized in an amount equal to that excess, limited to the total amount of goodwill allocated to that reporting unit.
+Upon any business disposition, goodwill is allocated to, and derecognized with, the disposed business based on the ratio of the fair value of the disposed business to the fair value of the reporting unit.
+During the year ended December 31, 2022, the Company voluntarily changed its annual impairment assessment date from July 1 to October 1.
+Additional information on Citi’s goodwill impairment testing can be found in Note 17.
+Intangible Assets
+Intangible assets—
+including core deposit intangibles, present value of future profits, purchased credit card relationships, credit card contract-related intangibles, other customer relationships

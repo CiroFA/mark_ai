@@ -1,0 +1,63 @@
+effective tax rate for 2024 was
+24.7
+%, compared to
+27.3
+% in 2023, reflecting a different geographic mix of earnings.
+Deferred Income Taxes
+Deferred income taxes at December 31 related to the following:
+192
+Unrecognized Tax Benefits
+The following is a rollforward of the Company’s unrecognized tax benefits:
+The portions of the total unrecognized tax benefits at December 31, 2024, 2023 and 2022 that, if recognized, would affect Citi’s tax expense is $
+1.0
+billion in each of the respective years. The remaining uncertain tax positions have offsetting amounts in other jurisdictions or are temporary differences.
+Interest and penalties (not included in unrecognized tax benefits above) are a component of
+Provision for income taxes
+.
+(1)
+Includes $
+1
+million, $
+0
+million and $
+3
+million for non-U.S. penalties in 2024, 2023 and 2022, respectively.
+As of December 31, 2024, Citi was under audit by the Internal Revenue Service and other major taxing jurisdictions around the world. It is thus reasonably possible that significant changes in the gross balance of unrecognized tax benefits may occur within the next 12 months. The potential range of amounts that could affect Citi’s effective tax rate is between $
+0
+and $
+500
+million.
+The following are the major tax jurisdictions in which the Company and its affiliates operate and the earliest tax year subject to examination:
+193
+Non-U.S. Earnings
+Non-U.S. pretax earnings approximated $
+19.4
+billion in 2024, $
+19.4
+billion in 2023 and $
+16.2
+billion in 2022. As a U.S. corporation, Citigroup and its U.S. subsidiaries are currently subject to U.S. taxation on all non-U.S. pretax earnings of non-U.S. branches. Beginning in 2018, there is a separate foreign tax credit (FTC) basket for branches. Also, dividends from a non-U.S. subsidiary or affiliate are effectively exempt from U.S. taxation. The Company provides income taxes on the book over tax basis differences of non-U.S. subsidiaries except to the extent that such differences are indefinitely reinvested outside the U.S.
+At December 31, 2024, $
+5.8
+billion of basis differences of non-U.S. entities was indefinitely reinvested. At the existing tax rates (including withholding taxes), additional taxes (net of U.S. FTCs) of $
+2.3
+billion would have to be provided if such assertions were reversed.
+Deferred Tax Assets
+As of December 31, 2024, Citi had a valuation allowance of $
+4.3
+billion, composed of valuation allowances of $
+3.3
+billion on its branch basket FTC carry-forwards, $
+0.6
+billion on its U.S. residual DTA related to its non-U.S. branches, $
+0.3
+billion on local non-U.S. DTAs and $
+0.1
+billion on state net operating loss carry-forwards. There was an increase of $
+0.7
+billion from the December 31, 2023 balance of $
+3.6
+billion. The amount of Citi’s valuation allowances (VA) may change in future years.
+In 2024, Citi’s VA for carry-forward FTCs in its branch basket increased by $
+1.4
+billion, primarily due to the geographic mix of earnings in Citi’s foreign

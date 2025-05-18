@@ -1,0 +1,18 @@
+Counterparty Exposure
+1
+1.
+The benefit of collateral received is reflected in the Top 10 Non-U.S. Country Exposures at December 31, 2024.
+2.
+Primarily consists of cash and government obligations of the countries listed.
+Operational Risk
+Operational risk refers to the risk of loss, or of damage to our reputation, resulting from inadequate or failed processes or systems, human factors (e.g
+.
+, inappropriate or unlawful conduct) or external events (e.g., cyberattacks or third-party vulnerabilities) that may manifest as, for example, loss of information, business disruption, theft and fraud, legal and compliance risks, or damage to physical assets. We may incur operational risk across the full scope of our business activities, including revenue-generating activities and support and control groups (e.g
+.
+, IT and trade processing).
+We have established an operational risk framework to identify, measure, monitor and control risk across the Firm. Effective operational risk management is essential to reducing the impact of operational risk incidents and mitigating legal, regulatory and reputational risks. The framework is continually evolving to account for changes in the Firm and to respond to the changing regulatory and business environment.
+We have implemented operational risk data and assessment systems to monitor and analyze internal and external operational risk events, to assess business environment and internal control factors, and to perform scenario analysis. The collected data elements are incorporated in the operational risk capital model. The model encompasses both quantitative and qualitative elements. Internal loss data and scenario analysis results are direct inputs to the capital model, while external operational incidents, business environment and internal control factors are evaluated as part of the scenario analysis process.
+In addition, we employ a variety of risk processes and mitigants to manage our operational risk exposures. These include a governance framework, a comprehensive risk management program and insurance. Operational risks and associated risk exposures are assessed relative to the risk appetite reviewed and confirmed by the Board and are prioritized accordingly.
+The breadth and range of operational risk are such that the types of mitigating activities are wide-ranging. Examples of activities include: continuous enhancement of defenses against cyberattacks, use of legal agreements and contracts to
+transfer and/or limit operational risk exposures, due diligence, implementation of enhanced policies and procedures, technology change management controls, exception management processing controls, and segregation of duties.
+Primary responsibility for the management of operational risk is with the business segments, the control groups and the business managers therein. The business managers maintain processes and controls designed to identify, assess, manage, mitigate and report operational risk. Each of the business segments

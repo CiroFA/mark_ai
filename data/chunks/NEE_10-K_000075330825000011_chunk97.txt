@@ -1,0 +1,28 @@
+entire award. Forfeitures of stock-based awards are recognized as they occur. See Note 14 – Stock-Based Compensation.
+Retirement of Long-Term Debt
+– For NEE's rate-regulated subsidiaries, including FPL, gains and losses that result from differences in reacquisition cost and the net book value of long-term debt which is retired are deferred as a regulatory asset or liability and amortized to interest expense ratably over the remaining life of the original issue, which is consistent with their treatment in the ratemaking process. NEE's non-rate regulated subsidiaries recognize such differences in interest expense at the time of retirement.
+Structured Payables
+– Under NEE's structured payables program, subsidiaries of NEE issue negotiable drafts, backed by NEECH guarantees, to settle invoices with suppliers with payment terms (on average approximately 90 days) that extend the original invoice due date (typically 30 days) and include a service fee. At their discretion, the suppliers may assign the negotiable drafts and the rights under the NEECH guarantees to financial institutions. NEE and its subsidiaries are not party to any contractual agreements between their suppliers and the applicable financial institutions.
+At December 31, 2024 and 2023, NEE's outstanding obligations under its structured payables program were approximately
+$
+4.0
+billion
+and
+$
+4.7
+billion
+, respectively, substantially all of which is included in
+accounts payable
+on NEE's consolidated balance sheets.
+A rollforward of NEE's structured payables is as follows:
+Income Taxes
+– Deferred income taxes are recognized on all significant temporary differences between the financial statement and tax bases of assets and liabilities, and are presented as noncurrent on NEE's and FPL's consolidated balance sheets. In connection with the tax sharing agreement between NEE and certain of its subsidiaries, the income tax provision at each applicable subsidiary reflects the use of the "separate return method," except that tax benefits that could not be used on a separate return basis, but are used on the consolidated tax return, are recorded by the applicable subsidiary that generated the tax benefits. Any remaining consolidated income tax benefits or expenses are recorded at the corporate level. Included in other regulatory assets and other regulatory liabilities on NEE's and FPL's consolidated balance sheets is the revenue equivalent of the difference in deferred income taxes computed under accounting rules, as compared to regulatory accounting rules. The net regulatory liability totaled $
+2,916
+million ($
+2,880
+million for FPL) and $
+3,195
+million ($
+3,145
+million for FPL) at December 31, 2024 and 2023, respectively, and is being amortized in accordance with the regulatory treatment over the estimated lives of the assets or liabilities for which the deferred tax amount was initially recognized.
+Production tax credits (PTCs) are recognized as wind and solar energy is generated and sold based on

@@ -1,0 +1,22 @@
+headcount and technology development across these efforts. These are fundamentally new technologies that we expect will evolve as the next computing platform develops, and many products may only be fully realized in the next decade. Although it is inherently difficult to predict when and how the next computing platform will develop, we expect our RL segment to continue to operate at a loss for the foreseeable future, and our ability to support our efforts to build the next computing platform is dependent on generating sufficient profits from other areas of our business. We expect this will be a complex, evolving, and long-term initiative. We are investing now because we believe this is the next chapter of the internet and will unlock monetization opportunities for businesses, developers, and creators, including around advertising, hardware, and digital goods.
+6
+Table of
+Contents
+Family of Apps Products
+•
+Facebook.
+Facebook helps give people the power to build community and bring the world closer together. It's a place for people to share life's moments and discuss what's happening, nurture and build relationships, discover and connect to people with shared interests, and create economic opportunity. They can do this through Feed, Reels, Stories, Groups, Marketplace, and more.
+•
+Instagram.
+Instagram brings people closer to the people and things they love. Instagram Feed, Stories, Reels, Live, and messaging are places where people and creators can connect and express themselves through photos, video, and private messaging, and discover and shop from their favorite businesses.
+•
+Messenger.
+Messenger is a simple yet powerful messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls.
+•
+Threads.
+Threads is an application for text-based updates and public conversations, where communities come together to discuss topics of interest. People can connect directly with their favorite creators and others who love the same things or build a loyal following of their own to share their ideas, opinions, and creativity with the world.
+•
+WhatsApp.
+WhatsApp is a simple, reliable, and secure messaging application that is used by people and businesses around the world to communicate and transact in a private way. Within WhatsApp we launched WhatsApp Channels, a one-to-many broadcast service designed to help people follow information from people and organizations that are important to them.
+Reality Labs Products
+Many of our Reality Labs investments are directed toward long-term, cutting edge research and development for products that are not on the market today and may only be fully realized in the next decade. This includes exploring new technologies such as neural interfaces using electromyography, which lets people control their devices using neuromuscular signals, as well as innovations in AI and hardware to help build next-generation interfaces. In the near term,

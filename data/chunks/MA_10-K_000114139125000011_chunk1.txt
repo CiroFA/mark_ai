@@ -1,142 +1,30 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
+MASTERCARD INCORPORATED FISCAL YEAR 2024 FORM 10-K ANNUAL REPORT
+TABLE OF CONTENTS
+MASTERCARD 2024 FORM 10-K
 3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+In this Report on Form 10-K (“Report”), references to the “Company,” “Mastercard,” “we,” “us” or “our” refer to the business conducted by Mastercard Incorporated and its consolidated subsidiaries, including our operating subsidiary, Mastercard International Incorporated, and to the Mastercard brand.
+Forward-Looking Statements
+This Report contains forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.  All statements other than statements of historical facts may be forward-looking statements.  When used in this Report, the words “believe”, “expect”, “could”, “may”, “would”, “will”, “trend” and similar words are intended to identify forward-looking statements.  Examples of forward-looking statements include, but are not limited to, statements that relate to the Company’s future prospects, developments and business strategies.
+Many factors and uncertainties relating to our operations and business environment, all of which are difficult to predict and many of which are outside of our control, influence whether any forward-looking statements can or will be achieved.  Any one of those factors could cause our actual results to differ materially from those expressed or implied in writing in any forward-looking statements made by Mastercard or on its behalf, including, but not limited to, the following factors:
+•
+regulation related to the payments industry (including regulatory, legislative and litigation activity with respect to interchange rates and surcharging)
+•
+the impact of preferential or protective government actions
+•
+regulation of privacy, data, AI, information security and the digital economy
+•
+regulation that directly or indirectly applies to us based on our participation in the global payments industry (including anti-money laundering, countering the financing of terrorism, economic sanctions and anti-corruption, account-based payments systems, and issuer and acquirer practices regulation)
+•
+the impact of changes in tax laws, as well as regulations and interpretations of such laws or challenges to our tax positions
+•
+potential or incurred liability and limitations on business related to any litigation or litigation settlements
+•
+the impact of competition in the global payments industry (including disintermediation and pricing pressure)
+•
+the challenges relating to rapid technological developments and changes
+•
+the challenges relating to operating a real-time account-based payments system and to working with new customers and end users
+•
+the impact of information security incidents, account data breaches or service disruptions
+•
+issues related to our relationships with our stakeholders (including loss of substantial business from significant customers, competitor relationships with our customers, consolidation amongst our customers, merchants’ continued focus on

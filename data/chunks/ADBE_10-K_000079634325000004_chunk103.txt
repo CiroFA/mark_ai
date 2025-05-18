@@ -1,0 +1,36 @@
+negative covenants include restrictions regarding the incurrence of liens and indebtedness, certain merger transactions, dispositions and other matters, all subject to certain exceptions.
+The facility will terminate and all amounts owing thereunder will be due and payable on the maturity date unless (a) the commitments are terminated earlier upon the occurrence of certain events, including an event of default, or (b) the maturity date is further extended upon our request, subject to the agreement of the lenders.
+As of November 29, 2024, there were
+no
+outstanding borrowings under this Revolving Credit Agreement.
+Commercial Paper Program
+In September 2023, we established a commercial paper program under which we may issue unsecured commercial paper up to a total of $
+3
+billion outstanding at any time, with maturities of up to
+397
+days from the date of issue. The net proceeds from the issuance of commercial paper are expected to be used for general corporate purposes, which may include working capital, capital expenditures, acquisitions, stock repurchases, refinancing indebtedness or any other general corporate purposes. As of November 29, 2024, there were
+no
+outstanding borrowings under the commercial paper program.
+Term Loan Credit Agreement
+In January 2023, we entered into a delayed draw term loan credit agreement (the “Term Loan Credit Agreement”), providing for a senior unsecured term loan of up to $
+3.5
+billion for the purpose of partially funding the purchase price for our intended acquisition of Figma and the related fees and expenses. During fiscal 2024, we entered into a mutual termination agreement with Figma to terminate the previously announced merger agreement. Consequently, the Term Loan Credit Agreement was terminated. There were
+no
+outstanding borrowings under the Term Loan Credit Agreement at the time of termination.
+NOTE 18.
+LEASES
+We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2034. We also have one land lease that expires in 2091. Our lease agreements do not contain any material residual value guarantees, material variable payment provisions or material restrictive covenants.
+Operating lease expense was $
+106
+million, $
+117
+million and $
+121
+million for fiscal 2024, 2023 and 2022, respectively. We recognized operating lease expense in cost of revenue and operating expenses in our Consolidated Statements of Income. Our operating lease expense includes variable lease costs and is net of sublease income, both of which are not material.
+89
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+During fiscal 2024, we recognized impairment charges of $
+78
+million associated with the optimization of our leased facilities, primarily for operating lease right-of-use assets and leasehold improvements, which were recorded as general and administrative expenses. There was no impairment recognized in the other periods presented.

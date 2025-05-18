@@ -1,0 +1,36 @@
+assets, Note 13 for further information about deposits, Note 14 for further information about unsecured borrowings and Note 15 for further information about other liabilities.
+Level 3 Rollforward.
+The table below presents a summary of the changes in fair value for level 3 other financial assets and liabilities accounted for at fair value.
+In the table above:
+•
+Changes in fair value are presented for all other financial assets and liabilities that are classified in level 3 as of the end of the period.
+•
+Net unrealized gains/(losses) relates to other financial assets and liabilities that were still held at period-end.
+•
+Transfers between levels of the fair value hierarchy are reported at the beginning of the reporting period in which they occur. If a financial instrument was transferred to level 3 during a reporting period, its entire gain or loss for the period is classified in level 3.
+•
+For level 3 other financial assets, increases are shown as positive amounts, while decreases are shown as negative amounts. For level 3 other financial liabilities, increases are shown as negative amounts, while decreases are shown as positive amounts.
+•
+Level 3 other financial assets and liabilities are frequently economically hedged with trading assets and liabilities. Accordingly, gains or losses that are classified in level 3 can be partially offset by gains or losses attributable to level 1, 2 or 3 trading assets and liabilities. As a result, gains or losses included in the level 3 rollforward below do not necessarily represent the overall impact on the firm’s results of operations, liquidity or capital resources.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+The table below presents information, by the consolidated balance sheet line items, for other financial liabilities included in the summary table above.
+Level 3 Rollforward Commentary for the Three Months Ended March 2025.
+The net realized and unrealized losses on level 3 other financial liabilities of $
+144
+million (reflecting $
+85
+million of net realized losses and $
+59
+million of net unrealized losses) for the three months ended March 2025 included gains/(losses) of $(
+169
+) million reported in market making, $(
+20
+) million reported in other principal transactions and $(
+1
+) million reported in interest expense in the consolidated statements of earnings, and $
+46
+million reported in debt valuation adjustment in the consolidated statements of comprehensive income.
+The net unrealized losses on level 3 other financial liabilities for the three months ended March 2025 primarily reflected losses on certain hybrid financial instruments included in unsecured long-term borrowings (principally due to a decrease in interest rates), partially offset by gains on certain hybrid financial instruments included in unsecured short-term borrowings (principally due to a decrease in equity prices).
+Transfers into level 3 other financial liabilities during the

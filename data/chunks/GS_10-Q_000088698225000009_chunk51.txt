@@ -1,0 +1,33 @@
+by $
+125
+million during the three months ended March 2025, primarily reflecting a reserve release relating to credit card loans due to lower balances resulting from seasonal repayments.
+Charge-offs for the three months ended March 2025 for wholesale loans were not material.
+Three Months Ended March 2024.
+The allowance for credit losses decreased by $
+135
+million during the three months ended March 2024, primarily reflecting a reserve reduction in the consumer portfolio.
+Charge-offs for the three months ended March 2024 for wholesale loans were not material and charge-offs for consumer loans were primarily related to credit cards.
+Estimated Fair Value
+The table below presents the estimated fair value of loans that are not accounted for at fair value and in what level of the fair value hierarchy they would have been classified if they had been included in the firm’s fair value hierarchy.
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of loans, and Note 5 for information about loans within the fair value hierarchy.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Note 10.
+Fair Value Option
+Other Financial Assets and Liabilities at Fair Value
+In addition to trading assets and liabilities, and certain investments and loans, the firm accounts for certain of its other financial assets and liabilities at fair value, substantially all under the fair value option. The primary reasons for electing the fair value option are to:
+•
+Reflect economic events in earnings on a timely basis;
+•
+Mitigate volatility in earnings from using different measurement attributes (e.g., transfers of financial assets accounted for as financings are recorded at fair value, whereas the related secured financing would be recorded on an accrual basis absent electing the fair value option); and
+•
+Address simplification and cost-benefit considerations (e.g., accounting for hybrid financial instruments at fair value in their entirety versus bifurcation of embedded derivatives and hedge accounting for debt hosts).
+Hybrid financial instruments are instruments that contain bifurcatable embedded derivatives and do not require settlement by physical delivery of nonfinancial assets (e.g., physical commodities). Unless the firm has elected to account for the entire hybrid financial instrument at fair value under the fair value option, the embedded derivative is bifurcated from the associated host contract, the derivative is accounted for at fair value and the host contract is accounted for at amortized cost, adjusted for the effective portion of any fair value hedges.
+Other financial assets and liabilities accounted for at fair value under the fair value option include:
+•
+Repurchase agreements and substantially all resale agreements;
+•
+Certain securities borrowed and loaned transactions;
+•
+Certain customer and other receivables and

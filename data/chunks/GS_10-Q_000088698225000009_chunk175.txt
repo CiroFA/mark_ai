@@ -1,0 +1,22 @@
+permanent or temporary changes to the firmwide VaR risk limit. During 2024, there was a permanent increase to the firmwide VaR risk limit due to higher levels of volatility and increased exposures. The firmwide VaR risk limit was not exceeded during this period.
+The table below presents our high and low VaR.
+The chart below presents our daily VaR for the three months ended March 2025.
+The table below presents, by number of business days, the frequency distribution of our daily net revenues for positions included in VaR.
+Daily net revenues for positions included in VaR are compared with VaR calculated as of the end of the prior business day. Net losses incurred on a single day for such positions did not exceed our 95% one-day VaR (i.e., a VaR exception) during either the three months ended March 2025 or March 2024
+.
+During periods in which we have significantly more positive net revenue days than net revenue loss days, we expect to have fewer VaR exceptions because, under normal conditions, our business model generally produces positive net revenues. In periods in which our franchise revenues are adversely affected, we generally have more loss days, resulting in more VaR exceptions. The daily net revenues for positions included in VaR used to determine VaR exceptions reflect the impact of any intraday activity, including bid/offer net revenues, which are more likely than not to be positive by their nature.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Sensitivity Measures
+Certain portfolios and individual positions are not included in VaR because VaR is not the most appropriate risk measure. Other sensitivity measures we use to analyze market risk are described below.
+10% Sensitivity Measures.
+The table below presents our market risk by asset category for positions accounted for at fair value or accounted for at the lower of cost or fair value, that are not included in VaR.
+In the table above:
+•
+The market risk of these positions is determined by estimating the potential reduction in net revenues of a 10% decline in the value of the underlying positions.
+•
+Equity positions relate to private and public equity securities, which primarily include investments in corporate, real estate and infrastructure assets. Substantially all such equity positions are included within Asset & Wealth Management.
+•
+Debt positions include mezzanine and senior debt, and corporate and real estate loans, substantially all of which are included within Asset & Wealth Management. Debt positions also included approximately $1.7 billion as of March 2025, $1.8 billion as of December 2024 and $1.9 billion as of March 2024 of GM co-branded credit card loans within Platform Solutions that were classified as held for sale.
+•
+Funded equity and debt positions are included in our consolidated balance sheets in investments and loans, and the related hedges are included in our consolidated balance sheets in derivatives. See Note 8 to the

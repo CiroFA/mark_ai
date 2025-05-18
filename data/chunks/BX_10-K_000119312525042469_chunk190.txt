@@ -1,0 +1,17 @@
+contribution and reorganization of Blackstone’s predecessor entities in 2007 immediately prior to its initial public offering (“IPO”) and the acquisitions of GSO Capital Partners LP in 2008, Strategic Partners in 2013, Harvest Fund Advisors LLC in 2017, Clarus Ventures LLC in 2018 and DCI LLC in 2020. Goodwill is reviewed for impairment at least annually utilizing a qualitative or quantitative approach, and more frequently if circumstances indicate impairment may have occurred. The impairment testing for goodwill under the qualitative approach is based first on a qualitative assessment to determine if it is more likely than not that the fair value of Blackstone’s operating segments is less than their respective carrying values.
+173
+Table of Contents
+Blackstone Inc.
+Notes to Consolidated Financial Statements—Continued
+(All Dollars are in Thousands, Except Share and Per Share Data, Except Where Noted)
+The operating segments are considered the reporting units for testing the impairment of goodwill. If it is determined that it is more likely than not that an operating segment’s fair value is less than its carrying value or when the quantitative approach is used, an impairment loss is recognized to the extent by which the carrying value exceeds the fair value, not to exceed the total amount of goodwill allocated to that reporting unit.
+Furniture, Equipment and Leasehold Improvements
+Furniture, equipment and leasehold improvements consist primarily of leasehold improvements, furniture, fixtures and equipment, computer hardware and software and are recorded at cost less accumulated depreciation and amortization. Depreciation and amortization are calculated using the straight-line method over the assets’ estimated useful economic lives, which for leasehold improvements, furniture and fittings and other fixed assets were the lesser of the lease term or the life of the asset, the lesser of
+seven years
+or the lease term, or
+three
+to
+five years
+, respectively. Blackstone evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+Foreign Currency
+In the normal course of business, Blackstone may enter into transactions denominated in currencies other than United States dollars. Foreign exchange gains and losses arising on such transactions are recorded as Other Revenue in the Consolidated Statements of Operations. Foreign currency transaction gains and losses arising within consolidated Blackstone Funds are recorded in Net Gains (Losses) from Fund Investment Activities. In addition, Blackstone consolidates a number of entities that have a non-U.S. dollar functional currency. Non-U.S. dollar denominated assets and liabilities are translated to U.S. dollars at the exchange rate prevailing at the reporting date and income, expenses, gains and losses are translated at the prevailing exchange rate on the dates that they were recorded. Cumulative translation adjustments arising

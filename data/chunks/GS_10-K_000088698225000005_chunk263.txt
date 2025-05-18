@@ -1,0 +1,29 @@
+the risks associated with these variable interests.
+•
+The maximum exposure to loss from retained interests, purchased interests, and debt and equity is the carrying value of these interests.
+•
+The maximum exposure to loss from commitments and guarantees, and derivatives is the notional amount, which does not represent anticipated losses and has not been reduced by unrealized losses. As a result, the maximum exposure to loss exceeds liabilities recorded for commitments and guarantees, and derivatives.
+The table below presents information, by principal business activity, for nonconsolidated VIEs included in the summary table above.
+Beginning in the fourth quarter of 2024, investment fund VIEs are included in tax credit and other investing in the table above. Prior to the fourth quarter of 2024, such VIEs were disclosed separately in investments in funds. The carrying value of the firm’s variable interests in such VIEs was $
+9
+million as of December 2024 and $
+91
+million as of December 2023. Prior period amounts have been conformed to the current presentation.
+As of both December 2024 and December 2023, the carrying values of the firm’s variable interests in nonconsolidated VIEs are included in the consolidated balance sheets as follows:
+•
+Mortgage-backed: Assets primarily included in trading assets and loans.
+•
+Tax credit and other investing: Assets primarily included in investments and other assets, and liabilities included in trading liabilities and other liabilities.
+•
+Corporate debt and other asset-backed: Assets included in loans and trading assets, and liabilities included in trading liabilities.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Tax Credit VIEs
+The firm makes equity investments in nonconsolidated tax credit VIEs that invest in qualified affordable housing and renewable energy projects. These VIEs are generally organized as limited partnerships or similar entities and a third-party is typically the general partner or the managing member. The firm invests in the entity as a limited partner and receives income tax credits and other income tax benefits for such investments. In connection with the adoption of ASU No. 2023-02, as of January 1, 2024, the firm elected the proportional amortization method for qualified affordable housing and renewable energy projects that receive production tax credits. The investments that meet the criteria for the proportional amortization method of accounting are amortized in proportion to the income tax credits and other income tax benefits received on such investments. The amortization of investments and the related income tax credits and other income tax benefits are recorded as a component of the
+provision for taxes
+, and are included in
+other operating activities
+in the consolidated statements of cash flows.
+The table below presents information about investments (included in miscellaneous receivables and other within
+other assets
+in the consolidated

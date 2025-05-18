@@ -1,0 +1,53 @@
+program. These stock options have an exercise price equal to
+120.0
+% of the fair market value of our stock on the date of grant. The stock options are scheduled to vest and become exercisable
+three years
+after the grant date and expire
+ten years
+after the grant date. If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) may receive some or all of their stock options depending on certain age and service conditions. The fair value of the stock options granted was $
+79.53
+per unit and was estimated using a Monte-Carlo simulation model using the following assumptions: expected life
+7.0
+years, expected volatility
+39.0
+%, risk free interest rate
+4.5
+% and
+no
+expected dividend yield.
+Restricted Stock Units
+On February 19, 2025, we granted
+2,244,444
+restricted stock units (RSU) to our executives as part of our long-term incentive program. The RSUs granted under this program have a grant date fair value of $
+184.53
+per unit and will generally vest in three approximately equal installments on the first, second, and third anniversaries of the grant date. These RSUs will settle in common stock (on a one-for-one basis). If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) may receive some or all of their stock units depending on certain age and service conditions. In all other cases, the RSUs will not vest and all rights to the stock units will terminate.
+Note 14 –
+Shareholders' Equity
+Mandatory Convertible Preferred Stock
+On October 31, 2024, we issued
+115,000,000
+depositary shares, representing
+5,750,000
+shares of our
+6.00
+% Series A Mandatory Convertible Preferred Stock (Mandatory convertible preferred stock). The Mandatory convertible preferred stock has a $
+1,000.00
+per share liquidation preference and $
+1.00
+per share par value. As a result of the transaction, we received cash proceeds of $
+5,651
+, net of underwriting fees and other issuance costs.
+Dividends are cumulative at an annual rate of
+6.00
+% on the liquidation preference of $
+1,000.00
+per share of Mandatory convertible preferred stock and may be paid in cash, shares of our common stock or a combination of cash and shares of our common stock. Dividends that are declared will be payable on January 15, April 15, July 15 and October 15 to holders of record on the January 1, April 1, July 1, and October 1 immediately preceding the relevant dividend payment date. On January 15, 2025, dividends of $
+72
+, representing $
+12.50
+per share, were paid in cash to holders of record as of January 1, 2025. In February 2025, dividends of $
+86
+were declared to holders of record as of April 1, 2025, representing $
+15.00
+per share, and were paid in cash on April 15, 2025.
+The following table illustrates the conversion rate per share of Mandatory convertible preferred stock, subject to certain anti-dilution adjustments, based on the applicable market value of the common stock:

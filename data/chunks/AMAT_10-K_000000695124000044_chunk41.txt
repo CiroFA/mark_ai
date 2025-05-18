@@ -1,0 +1,19 @@
+return of the Standard & Poor’s 500 Stock Index and the PHLX Semiconductor Index over the same period. The comparison assumes $100 was invested on October 27, 2019 in our common stock and in each of the foregoing indices and assumes reinvestment of dividends, if any. Dollar amounts in the graph are rounded to the nearest whole dollar. The performance shown in the graph represents past performance and should not be considered an indication of future performance.
+The graph below assumes that the value of the investment in our common stock and in each of the indexes was $100 at October 27, 2019, and that all dividends were reinvested.
+Copyright© 2024 Standard & Poor’s, a division of S&P global. All rights reserved.
+30
+Table of Contents
+Issuer Purchases of Equity Securities
+In March 2023, our Board of Directors approved a common stock repurchase program authorizing $10.0 billion in repurchases, which supplemented the previously existing $6.0 billion authorization approved in March 2022. At October 27, 2024, approximately $8.9 billion remained available for future stock repurchases under the repurchase program.
+The following table provides information as of October 27, 2024 with respect to the shares of common stock repurchased by us during the fourth quarter of fiscal 2024 pursuant to the foregoing Board authorization.
+*Amounts include the 1% surcharge on stock repurchases under the Inflation Reduction Act’s excise tax. This excise tax is recorded in equity and reduces the amount available under the repurchase program, as applicable.
+Item 6:    [Reserved]
+31
+Table of Contents
+Item 7:
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Introduction
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to facilitate an understanding of our business and results of operations. This MD&A should be read in conjunction with our Consolidated Financial Statements and the accompanying Notes to Consolidated Financial Statements included elsewhere in this Form 10-K. The following discussion contains forward-looking statements and should also be read in conjunction with the cautionary statement set forth at the beginning of this Form 10-K.
+The following section generally discusses 2024 and 2023 items and year-to-year comparisons between 2024 and 2023. Discussions of 2023 items and year-to-year comparisons between 2023 and 2022 that are not included in this Form 10-K can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended October 29, 2023, filed on December 15, 2023.
+Overview
+We provide equipment, services and software to the semiconductor, display, and related industries. Our customers include manufacturers of semiconductor wafers and chips, liquid crystal and organic light-emitting diode (OLED) displays, and other electronic devices. Our customers’

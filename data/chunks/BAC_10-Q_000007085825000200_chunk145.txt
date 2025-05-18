@@ -1,0 +1,34 @@
+activities performed in a resecuritization trust, and no single investor has the unilateral ability to liquidate the trust.
+The Corporation resecuritized $
+11.4
+billion and $
+2.8
+billion of securities during the three months ended March 31, 2025 and 2024. Securities transferred into resecuritization VIEs  were
+measured at fair value with changes in fair value recorded in market making and similar activities prior to the resecuritization and, accordingly, no gain or loss on sale was recorded. During the three months ended March 31, 2025 and 2024, resecuritization proceeds included securities with an initial fair value of $
+2.0
+billion and $
+88
+million, of which substantially all of the securities were classified as trading account assets for both periods. Substantially all of the trading account securities carried at fair value were categorized as Level 2 within the fair value hierarchy.
+Customer VIEs
+Customer VIEs include credit-linked, equity-linked and commodity-linked note VIEs, repackaging VIEs and asset acquisition VIEs, which are typically created on behalf of customers who wish to obtain market or credit exposure to a specific company, index, commodity or financial instrument.
+The Corporation’s involvement in the VIE is limited to its loss exposure. The Corporation’s maximum loss exposure to consolidated and unconsolidated customer VIEs totaled $
+1.2
+billion and $
+1.1
+billion at March 31, 2025
+and December 31, 2024, including the notional amount of derivatives to which the Corporation is a counterparty, net of losses previously recorded, and the Corporation’s investment, if any, in securities issued by the VIEs.
+Municipal Bond Trusts
+The Corporation administers municipal bond trusts that hold highly-rated, long-term, fixed-rate municipal bonds. The trusts obtain financing by issuing floating-rate trust certificates that reprice on a weekly or other short-term basis to third-party investors.
+The Corporation’s liquidity commitments to unconsolidated municipal bond trusts, including those for which the Corporation was transferor, totaled $
+1.8
+billion at both March 31, 2025
+and December 31, 2024. The weighted-average remaining life of bonds held in the trusts at March 31, 2025 was
+10.7
+years. There were no significant write-downs or downgrades of assets or issuers during the three months ended March 31, 2025 and 2024.
+Collateralized Debt Obligation VIEs
+The Corporation receives fees for structuring CDO VIEs, which hold diversified pools of fixed-income securities, typically
+corporate debt or ABS, which the CDO VIEs fund by issuing multiple tranches of debt and equity securities. CDOs are generally managed by third-party portfolio managers. The Corporation typically transfers assets to these CDOs, holds securities issued by the CDOs and may be a derivative counterparty to the CDOs. The Corporation’s maximum loss exposure to consolidated and unconsolidated CDOs totaled $
+65
+million at both March 31, 2025
+and December 31, 2024.
+Investment VIEs

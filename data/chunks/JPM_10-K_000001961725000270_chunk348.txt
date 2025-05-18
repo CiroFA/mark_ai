@@ -1,0 +1,41 @@
+earnings or stock price.
+Note 21 –
+Preferred stock
+At December 31, 2024 and 2023, JPMorganChase was authorized to issue
+200
+million shares of preferred stock, in one or more series, with a par value of $
+1
+per share. In the event of a liquidation or dissolution of the Firm, JPMorganChase’s preferred stock then outstanding takes precedence over the Firm’s common stock with respect to the payment of dividends and the distribution of assets.
+The following is a summary of JPMorganChase’s non-cumulative preferred stock outstanding as of December 31, 2024 and 2023, and the quarterly dividend declarations for the years ended December 31, 2024, 2023 and 2022.
+(a)
+Represented by depositary shares.
+(b)
+Each series of fixed-to-floating rate preferred stock converts to a floating rate at the earliest redemption date.
+(c)
+Effective June 30, 2023, CME Term SOFR became the replacement reference rate for fixed-to-floating rate preferred stock issued by the Firm that formerly referenced U.S. dollar LIBOR. References in the table to “SOFR” mean a floating annualized rate equal to three-month term SOFR (plus a spread adjustment of 0.26% per annum) plus the spreads noted. References to “CMT” mean a floating annualized rate equal to the five-year Constant Maturity Treasury (“CMT”) rate plus the spreads noted.
+(d)
+Dividends on preferred stock are discretionary and non-cumulative. When declared, dividends are declared quarterly. Dividends are payable quarterly on fixed-rate preferred stock. Dividends are payable semiannually on fixed-to-floating rate preferred stock while at a fixed rate, and payable quarterly after converting to a floating rate.
+(e)
+The dividend rate for Series S preferred stock became floating and payable quarterly starting on February 1, 2024; prior to which the dividend rate was fixed at
+6.75
+% or $
+337.50
+per share payable semiannually. The dividend rate for each quarterly dividend period commencing on February 1, 2024 was three-month term SOFR (plus a spread adjustment of 0.26% per annum) plus the spread of
+3.78
+%.
+(f)
+The initial dividend declared was prorated based on the number of days outstanding for the period. Dividends were declared quarterly thereafter at the contractual rate.
+(g)
+The dividend rate for Series Q preferred stock became floating and payable quarterly starting on May 1, 2023; prior to which the dividend rate was fixed at
+5.15
+% or $
+257.50
+per share payable semiannually. The dividend rate for each quarterly dividend period commencing on August 1, 2023 was three-month term SOFR (plus a spread adjustment of 0.26% per annum) plus the spread of
+3.25
+%.
+(h)
+The dividend rate for Series R preferred stock became floating and payable quarterly starting on August 1, 2023; prior to which the dividend rate was fixed at
+6.00
+% or $
+300.00
+per share payable semiannually. The dividend rate for each quarterly dividend period commencing on August 1, 2023 was three-month term SOFR (plus a spread adjustment of 0.26% per annum) plus the spread

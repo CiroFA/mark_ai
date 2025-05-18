@@ -1,0 +1,35 @@
+December 31, 2024, 2023 and 2022, related to assets and liabilities held at those dates.
+(a)
+Included $(
+197
+) million, $(
+232
+) million and $(
+338
+) million for the years ended December 31, 2024, 2023 and 2022, respectively, of net gains/(losses) as a result of the measurement alternative. The current period also included impairments on certain equity method investments.
+Notes to consolidated financial statements
+Equity securities without readily determinable fair values
+The Firm measures certain equity securities without readily determinable fair values at cost less impairment (if any), plus or minus observable price changes from an identical or similar investment of the same issuer (i.e., measurement alternative), with such changes recognized in other income.
+In its determination of the new carrying values upon observable price changes, the Firm may adjust the prices if deemed necessary to arrive at the Firm’s estimated fair values. Such adjustments may include adjustments to reflect the different rights and obligations of similar securities, and other adjustments that are consistent with the Firm’s valuation techniques for private equity direct investments.
+The following table presents the carrying value of equity securities without readily determinable fair values held as of December 31, 2024 and 2023, that are measured under the measurement alternative and the related adjustments recorded during the periods presented for those securities with observable price changes. These securities are included in the nonrecurring fair value tables when applicable price changes are observable.
+(a)
+The period-end carrying values reflect cumulative purchases and sales in addition to upward and downward carrying value changes.
+(b)
+The cumulative upward carrying value changes between January 1, 2018 and December 31, 2024 were $
+1.1
+billion.
+(c)
+The cumulative downward carrying value changes/impairment between January 1, 2018 and December 31, 2024 were $(
+1.5
+) billion
+.
+Included in other assets above is the Firm’s interest in approximately
+18.6
+million Visa Class B-2 common shares ("Visa B-2 shares") and
+37.2
+million Visa Class B common shares (“Visa B shares”) reflected in the Firm's principal investment portfolio as of December 31, 2024 and 2023, respectively.
+The Visa B shares were redenominated to Visa Class B-1 common shares (“Visa B-1 shares”) on January 24, 2024. On April 8, 2024, Visa commenced an initial exchange offer for any and all outstanding Visa B-1 shares. On May 6, 2024, the Firm announced that Visa had accepted the Firm’s tender of its
+37.2
+million Visa B-1 shares in exchange for a combination of Visa B-2 shares and Visa Class C common shares (“Visa C shares”), resulting in an initial gain of $
+8.0
+billion based on the fair value of the Visa C shares. In addition, the second quarter of 2024 also reflected other Visa-related activity, including the fair value changes of the Visa C shares and derivative instruments, as well as dividends,

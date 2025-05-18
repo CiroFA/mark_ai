@@ -1,0 +1,51 @@
+Disclosures (Subtopic 220-40)
+,
+to improve the disclosures of expenses by requiring public business entities to provide further disaggregation of relevant expense captions (i.e., employee compensation, depreciation, intangible asset amortization) in a separate note to the financial statements, a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively, and the total amount of selling expenses and, in an annual reporting period, an entity’s definition of selling expenses.
+The transition method is prospective with the retrospective method permitted, and the ASU will be effective for Citi for its annual period ending December 31, 2027 and interim periods for the interim period beginning January 1, 2028. Citi is currently evaluating the impact on its disclosures.
+105
+2.
+DISCONTINUED OPERATIONS, SIGNIFICANT DISPOSALS AND OTHER BUSINESS EXITS
+Summary of Discontinued Operations
+Citi’s results from
+Discontinued operations
+consisted of residual activities related to the sales of the Egg Banking plc credit card business in 2011 and the German retail banking business in 2008. All
+Discontinued operations
+results are recorded within
+All Other
+.
+Citi’s
+Income (loss) from discontinued operations, net of taxes
+was $(
+1
+) million and $(
+1
+) million for the three months ended March 31, 2025 and 2024, respectively.
+Cash flows from
+Discontinued operations
+were not material for the periods presented.
+Significant Disposals
+As of March 31, 2025, Citi had closed the sales of
+nine
+consumer banking businesses within
+All Other
+—Legacy Franchises: Australia closed in the second quarter of 2022, the Philippines closed in the third quarter of 2022, Bahrain, Malaysia and Thailand closed in the fourth quarter of 2022, India and Vietnam closed in the first quarter of 2023, Taiwan closed in the third quarter of 2023 and Indonesia closed in the fourth quarter of 2023.
+Five
+(Australia, the Philippines, Thailand, India and Taiwan) were identified as significant disposals. As of March 31, 2025, there were no remaining assets or liabilities included on Citi’s Consolidated Balance Sheet related to the significant disposals.
+Citi did not have any other significant disposals as of March 31, 2025.
+As of May 8, 2025, Citi had not entered into sale agreements for the remaining
+All Other
+—Legacy Franchises businesses to be sold, specifically the Poland consumer banking business and the Mexico Consumer/SBMM (Banamex) businesses.
+For a description of the Company’s significant disposal transactions in prior periods and financial impact, see Note 2 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+106
+3.
+OPERATING SEGMENTS
+The operating segments and reporting units reflect how the CEO, who is the chief operating decision maker (CODM), manages the Company, including allocating resources and measuring performance.
+Citi is organized into
+five
+reportable operating segments:
+Services
+,
+Markets
+,
+Banking
+,

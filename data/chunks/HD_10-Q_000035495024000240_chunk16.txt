@@ -1,0 +1,32 @@
+that are either directly or indirectly observable; and
+•
+Level 3: unobservable inputs for which little or no market data exists, therefore requiring management judgment to develop the Company’s own models with estimates and assumptions.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The following table presents the assets and liabilities that are measured at fair value on a recurring basis:
+The fair values of our derivative instruments are determined using an income approach and Level 2 inputs, which primarily include the respective interest rate forward curves and discount rates. Our derivative instruments are discussed further in
+Note 5
+.
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+Long-lived assets, goodwill, and other intangible assets are subject to nonrecurring fair value measurement for the assessment of impairment.
+We did not have any material assets or liabilities that were measured and recognized at fair value on a nonrecurring basis during the three and nine months ended October 27, 2024 or October 29, 2023. See
+Note 4
+for discussion of the results of our annual goodwill and indefinite-lived intangibles impairment assessments. See
+Note 10
+for discussion on the fair values of assets acquired and liabilities assumed in the SRS acquisition.
+Other Fair Value Disclosures
+The carrying amounts of cash and cash equivalents, receivables, accounts payable, and short-term debt approximate fair value due to their short-term nature.
+The following table presents the aggregate fair values and carrying values of our senior notes:
+Table of
+Contents
+8.
+WEIGHTED AVERAGE COMMON SHARES
+The following table presents the reconciliation of our basic to diluted weighted average common shares as well as the number of anti-dilutive securities excluded from diluted weighted average common shares:
+—————
+(1)    Represents the dilutive impact of stock-based awards.
+9.
+CONTINGENCIES
+We are involved in litigation arising in the normal course of business. In management’s opinion, any such litigation is not expected to have a material adverse effect on our consolidated financial condition, results of operations, or cash flows.
+10.
+ACQUISITIONS
+SRS Acquisition
+On March 27, 2024, we entered into a definitive agreement to acquire SRS, a leading residential specialty trade distribution company across several verticals serving the professional roofer, landscaper and pool contractor. On June 18, 2024, following the satisfaction or waiver of the applicable closing conditions, including receipt of the requisite regulatory approvals, the acquisition was completed and all merger consideration was transferred. Under the terms of the merger agreement, a subsidiary of The Home Depot, Inc. merged with and into Shingle Acquisition Holdings, Inc., the parent company of SRS, with Shingle Acquisition Holdings, Inc. as the surviving entity and a wholly owned subsidiary of the Company. We believe the acquisition of SRS will accelerate the

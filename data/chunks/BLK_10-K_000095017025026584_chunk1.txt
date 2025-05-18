@@ -1,142 +1,138 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
+10-K
+0002012383
+FY
+false
+http://fasb.org/us-gaap/2024#OtherAssets
+http://fasb.org/us-gaap/2024#OtherAssets
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#BusinessCombinationContingentConsiderationLiabilityCurrent
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#RealEstateFundsMember
+http://fasb.org/us-gaap/2024#RealEstateFundsMember
+2025-03
+2024-03
+2025-03
+2024-03
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#GeneralAndAdministrativeExpense
+http://fasb.org/us-gaap/2024#GeneralAndAdministrativeExpense
+http://fasb.org/us-gaap/2024#GeneralAndAdministrativeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#NonoperatingIncomeExpense
+P11Y
+P5Y
+http://www.blackrock.com/20241231#AmortizationAndImpairmentOfIntangibleAssets
 1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+one year
+two year
+2026-01-31
+2025-01-31
+P0Y
+P0Y
+2027-05-30
+2028-05-30
+2029-05-30
+2027-05-30
+2028-05-30
+2029-05-30
+0
+0
+http://fasb.org/srt/2024#ChiefExecutiveOfficerMember
+0002012383
+us-gaap:CommonStockMember
+2023-12-31
+0002012383
+us-gaap:EquityMethodInvestmentsMember
+srt:MaximumMember
+blk:HedgeFundsEquityOtherMember
+2024-01-01
+2024-12-31
+0002012383
+blk:FourPointSevenFivePercentNotesDueTwoThousandThirtyThreeMember
+2024-01-01
+2024-12-31
+0002012383
+2023-07-31
+2023-07-31
+0002012383
+us-gaap:InvestmentPerformanceMember
+blk:LiquidAlternativesMember
+blk:AlternativeInvestmentsProductsMember
+2024-01-01
+2024-12-31
+0002012383
+blk:DeferredCompensationPlansMember
+blk:VoluntaryDeferredCompensationPlanMember
+2024-01-01
+2024-12-31
+0002012383
+us-gaap:FairValueInputsLevel3Member
+blk:RealAssetsFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0002012383
+us-gaap:FixedIncomeFundsMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0002012383
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2024-01-01
+2024-12-31
+0002012383
+blk:FederalReserveBankStockMember
+2024-12-31
+0002012383
+srt:AmericasMember
+2023-01-01
+2023-12-31
+0002012383
+blk:RevenueByInvestmentStyleMember
+blk:ActiveProductsMember
+2023-01-01
+2023-12-31
+0002012383
+us-gaap:DomesticCountryMember
+2024-01-01
+2024-12-31
+0002012383
+blk:GlobalInfrastructureManagementLLCMember
+blk:InvestorRelationshipMember
+2024-12-31
+0002012383
+blk:TwoThousandTwentyFourRevolvingCreditFacilitiesMember
+2024-01-01
+2024-12-31
+0002012383
+2026-01-01
+us-gaap:InvestmentAdviceMember
+2024-12-31
+0002012383
+blk:CliffVestingRSUMember
+blk:GlobalInfrastructureManagementLLCMember
+2024-10-01
+2024-10-01
+0002012383
+blk:AcquiredManagementContractsIndefiniteLivedIntangibleAssetsMember

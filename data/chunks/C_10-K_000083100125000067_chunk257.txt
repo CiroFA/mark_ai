@@ -1,0 +1,19 @@
+with the reference asset without directly purchasing that asset. The Company enters into credit derivative positions for purposes such as risk management, yield enhancement, reduction of credit concentrations and diversification of overall risk, and as a market-maker to facilitate client transactions.
+The following tables present the gross and net fair values of the Company’s derivative transactions and the related offsetting amounts as of December 31, 2024 and 2023. Gross positive fair values are offset against gross negative fair values by counterparty, pursuant to enforceable master netting agreements. Under ASC 815-10-45, payables and receivables in respect of cash collateral received from or paid to a given counterparty pursuant to a credit support annex are included in the offsetting amount if a legal opinion supporting the enforceability of netting and collateral rights has been obtained. GAAP does not permit similar offsetting for security collateral.
+In addition, the following tables reflect rule changes adopted by clearing organizations that require or allow entities to treat certain derivative assets, liabilities and the related variation margin as settlement of the related derivative fair values for legal and accounting purposes, as opposed to presenting gross derivative assets and liabilities that are subject to collateral, whereby the counterparties would also record a related collateral payable or receivable. The tables also present amounts that are not permitted to be offset in the Company’s balance sheet presentation, such as security collateral or cash collateral posted at third-party custodians, but which would be eligible for offsetting to the extent that an event of default has occurred and a legal opinion supporting enforceability of the netting and collateral rights has been obtained.
+257
+Derivative Mark-to-Market (MTM) Receivables/Payables
+(1)
+The derivatives fair values are also presented in Note 26.
+(2)
+OTC derivatives are derivatives executed and settled bilaterally with counterparties without the use of an organized exchange or central clearing house. Cleared derivatives include derivatives executed bilaterally with a counterparty in the OTC market, but then novated to a central clearing house, whereby the central clearing house becomes the counterparty to both of the original counterparties. Exchange-traded derivatives include derivatives executed directly on an organized exchange that provides pre-trade price transparency.
+(3)
+Represents the netting of balances with the same counterparty under enforceable netting agreements. Approximately $
+264
+billion, $
+36
+billion and $
+35
+billion of the netting against trading account asset/liability balances is attributable to each of the OTC, cleared and exchange-traded derivatives, respectively.
+(4)
+Represents the netting of cash collateral paid and received by counterparties under enforceable credit support agreements with appropriate legal opinion supporting enforceability of

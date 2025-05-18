@@ -1,0 +1,43 @@
+senior notes.
+A reconciliation of the weighted-average number of shares outstanding used in calculating diluted
+net income
+per share is as follows:
+5.
+INVESTMENTS
+The following table summarizes the Company's investments by major security type:
+9
+Equity securities with readily determinable fair values include the Company's investments in Grab Holdings Limited and DiDi Global Inc., with fair values of $
+192
+million and $
+190
+million, respectively, at March 31, 2025 and $
+200
+million and $
+179
+million, respectively, at December 31, 2024.
+6.
+FAIR VALUE MEASUREMENTS
+There are three levels of inputs to valuation techniques used to measure fair value:
+Level 1:    Quoted prices in active markets that are accessible by the Company at the measurement date for identical assets and liabilities.
+Level 2:    Inputs that are observable, either directly or indirectly. Such prices may be based upon quoted prices for identical or comparable securities in active markets or inputs not quoted on active markets, but corroborated by market data.
+Level 3:    Unobservable inputs are used when little or no market data is available.
+Financial assets and liabilities measured at fair value on a recurring basis are classified in the categories described in the table below:
+(1)    Primarily consists of money market fund investments.
+Investments
+See Note 5 for additional information related to the Company's investments.
+Derivatives
+The Company reports the fair values of its derivative assets and liabilities on a gross basis in the Consolidated Balance Sheets in "Other current assets" and "Accrued expenses and other current liabilities," respectively. As of March 31, 2025 and December 31, 2024, the Company did not designate any derivatives as hedges for accounting purposes.
+For the Company's foreign currency exchange derivatives outstanding as of March 31, 2025 and December 31, 2024, the notional amounts of the foreign currency purchases were $
+9.1
+billion and $
+8.2
+billion, respectively, and the notional amounts of the foreign currency sales were $
+4.7
+billion and $
+5.5
+billion, respectively. The notional amount of a foreign currency exchange derivative contract is the contracted amount of foreign currency to be exchanged and is not recorded in the balance sheets.
+The effect of foreign currency exchange derivatives recorded in "Other income (expense), net" in the Unaudited Consolidated Statements of Operations is as follows:
+10
+See Note 9 for information on the embedded derivative liability related to the convertible senior notes due in May 2025.
+Other Financial Assets and Liabilities
+At March 31, 2025 and December 31, 2024, the Company's cash consisted of bank deposits. Cash equivalents principally include money market fund investments and certificates of deposit and their carrying value generally approximates the fair value as they are readily convertible to known amounts of cash. Other financial assets and liabilities, including restricted cash, accounts payable, accrued

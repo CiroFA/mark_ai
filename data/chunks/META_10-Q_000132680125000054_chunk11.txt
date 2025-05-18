@@ -1,0 +1,37 @@
+results for the full year.
+Use of Estimates
+Preparation of condensed consolidated financial statements in conformity with GAAP requires the use of estimates and judgments that affect the reported amounts in the condensed consolidated financial statements and accompanying notes. These estimates form the basis for judgments we make about the carrying values of our assets and liabilities, which are not readily apparent from other sources. We base our estimates and judgments on historical information and on various other assumptions that we believe are reasonable under the circumstances. GAAP requires us to make estimates and judgments in several areas, including, but not limited to, those related to loss contingencies, income taxes, valuation of long-lived assets and their associated estimated useful lives, valuation of non-marketable equity securities, revenue recognition, valuation of goodwill, credit losses of available-for-sale debt securities and accounts receivable, and fair value of financial instruments and leases. These estimates are based on management's knowledge about current events, interpretation of regulations, and expectations about actions we may undertake in the future. Actual results could differ materially from those estimates.
+In January 2025, we completed an assessment of the useful lives of property and equipment, which resulted in an increase in the estimated useful lives of most servers and network assets to
+5.5
+years, effective January 1, 2025. Based on the servers and network assets placed in service as of December 31, 2024, the financial impact of this change in estimate included a reduction in depreciation expense of $
+826
+million and an increase in net income of $
+695
+million, or $
+0.27
+per diluted share, for the three months ended March 31, 2025.
+Significant Accounting Policies
+There have been no material changes to our significant accounting policies from our Annual Report on Form 10-K for the year ended December 31, 2024.
+12
+Table of Contents
+Note 2.
+Revenue
+Revenue disaggregated by revenue source and by segment consists of the following (in millions):
+Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):
+____________________________________
+(1)
+In the first quarter of 2025, we made changes to our sales arrangements with certain Asia-Pacific advertisers to sell ads to such advertisers through their international subsidiaries. Absent these changes, approximately $
+300
+million of revenue reflected under United States and Canada would have been reflected as Asia-Pacific revenue.
+(2)
+Europe includes Russia and Turkey, and Rest of World includes Africa, Latin America, and the Middle East.
+Total deferred revenue was $
+778
+million and $
+772
+million as of March 31, 2025 and December 31, 2024, respectively. As of March 31, 2025, we expect most of the deferred revenue to be realized in less than a year.
+13
+Table of Contents
+Note 3.
+Earnings per Share
+The holders

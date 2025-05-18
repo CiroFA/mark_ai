@@ -1,0 +1,50 @@
+reportable segment. For additional information, see Note 16 — Segment and Geographical Information.
+Accounting Pronouncements Not Yet Adopted
+In December 2023, the FASB issued ASU No. 2023-09,
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+(ASU 2023-09), which improves the transparency of income tax disclosures by requiring consistent categories and greater disaggregation of information in the effective tax rate reconciliation and income taxes paid disaggregated by jurisdiction. It also includes certain other amendments to improve the effectiveness of income tax disclosures. This new standard will be effective for the annual periods beginning the year ended December 31, 2025. The new standard permits early adoption and can be applied prospectively or retrospectively. We do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+In November 2024, the FASB issued ASU No. 2024-03,
+Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+(ASU 2024-03). The new guidance requires disaggregated information about certain income statement expense line items on an annual and interim basis. This guidance will be effective for annual periods beginning the year ended December 31, 2027 and for interim periods thereafter. The new standard permits early adoption and can be applied prospectively or retrospectively. We are evaluating the effect that this guidance will have on our consolidated financial statements and related disclosures.
+99
+Table of
+Contents
+Note 2.
+Revenue
+Revenue disaggregated by revenue source and by segment consists of the following (in millions):
+Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):
+_________________________
+(1)
+United States revenue was $
+59.73
+billion, $
+49.78
+billion, and $
+47.20
+billion for the years ended December 31, 2024, 2023, and 2022, respectively.
+(2)
+China revenue was $
+18.35
+billion, $
+13.69
+billion, and $
+7.40
+billion for the years ended December 31, 2024, 2023, and 2022, respectively.
+(3)
+Europe includes Russia and Turkey, and Rest of World includes Africa, Latin America, and the Middle East.
+Total deferred revenue was $
+772
+million and $
+675
+million as of December 31, 2024 and 2023, respectively. As of December 31, 2024, we expect $
+721
+million of our deferred revenue to be realized in less than a year.
+100
+Table of
+Contents
+Note 3.
+Restructuring
+2022 Restructuring
+In 2022, we initiated several measures to pursue greater efficiency and to realign our business and strategic priorities. These measures included a facilities consolidation strategy to sublease, early terminate, or abandon several office buildings under operating leases, a layoff of approximately
+11,000
+employees across the Family of Apps (FoA) and Reality Labs (RL) segments, and a pivot towards a next generation data center

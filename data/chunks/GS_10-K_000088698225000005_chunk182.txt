@@ -1,0 +1,21 @@
+vulnerabilities and signs of unauthorized attempts to access our data and systems;
+•
+Mobile security, including mobile applications;
+•
+Data security, including cryptography and encryption, database security, data erasure and media disposal;
+•
+Cloud computing, including governance and security of cloud applications, and software-as-a-service data onboarding;
+•
+Technology operations, including change management, incident management, capacity and resilience; and
+•
+Third-party risk management, including vendor management and governance, and cybersecurity and business resiliency on vendor assessments.
+In conjunction with
+third-party vendors and consultants
+, we perform risk assessments to gauge the performance of the Cybersecurity Program, to estimate our risk profile and to assess compliance with relevant regulatory requirements. We perform periodic assessments of control efficacy through our internal risk and control self-assessment process, as well as a variety of external technical assessments, including external penetration tests and “red team” engagements where third parties test our defenses. The results of these risk assessments, together with control performance findings, are used to establish priorities, allocate resources, and identify and improve controls. We use third parties, such as outside forensics firms, to augment our cyber incident response capabilities. We have a vendor management program that documents a risk-based framework for managing third-party vendor relationships. Information security risk management is built into our vendor management process, which covers vendor selection, onboarding, performance monitoring and risk management. See “Third-Party Risk” for further information about vendor risk.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+During 2024, we did not identify any cybersecurity threats that have materially affected or are reasonably likely to materially affect our business strategy, results of operations or financial condition.
+Technology Risk monitors cybersecurity threats and risks from information security and cybersecurity matters on an ongoing basis, and allocates resources and directs operations in a manner designed to mitigate those risks. For example, in response to the proliferation of AI-enabled fraud and ransomware attacks that continue to be reported globally, we have emphasized phishing and cybersecurity training for our employees and allocated additional resources for business continuity. However, despite these efforts, we cannot eliminate all cybersecurity risks or provide assurances that we have not had occurrences of undetected cybersecurity incidents.
+Governance
+The Board
+, both directly and through its committees, including its Risk Committee and Technology Risk Subcommittee, oversees our risk management policies and practices, including cybersecurity risks, and information security and cybersecurity matters. Our chief risk officer, chief information

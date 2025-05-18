@@ -1,0 +1,26 @@
+Management believes the positions the Company has taken in its U.S. tax returns are in accordance with the relevant tax laws.
+For a description of the Company’s significant tax matters, reference is made to the financial statements as of and for the year ended December 31, 2024 and Note 7 thereto included in the Company’s 2024 Annual Report.
+NOTE 7.
+OTHER INCOME (EXPENSE), NET
+The following sets forth the components of the Company’s other income (expense), net ($ in millions):
+Other Components of Net Periodic Benefit Costs
+The Company disaggregates the service cost component of net periodic benefit costs of noncontributory defined benefit pension plans and other postretirement employee benefit plans.  The service cost component is presented in cost of goods sold and SG&A expenses.  The other components of net periodic benefit costs are presented in other income (expense), net.  These other components of net periodic benefit costs include the assumed rate of return on plan assets, partially offset by amortization of actuarial losses and interest.
+11
+Table of Contents
+Investment Gains (Losses)
+For investments in equity securities without readily available fair values, the Company has elected the measurement alternative to record these investments at cost and to adjust for impairments and observable price changes with a same or similar security from the same issuer within net earnings (the “Fair Value Alternative”).  Additionally, the Company is a limited partner in partnerships that invest primarily in early-stage companies.  While the partnerships record these investments at fair value, the Company’s investments in the partnerships are accounted for under the equity method of accounting.  The investment gains (losses) include realized and unrealized gains and losses related to changes in the fair value of the Company’s investments in equity securities and the Company’s equity in earnings of the partnerships that reflect the changes in fair value of the investments of the partnerships, and related management fees and operating expenses.
+Gain on Sale of Product Line
+During the three-month period ended March 28, 2025, the Company divested a product line for a cash purchase price of $
+9
+million and recognized a pretax gain on sale of $
+9
+million ($
+7
+million after-tax).  The divested product line generated revenues of approximately $
+50
+million in the Diagnostics segment in 2024.  The divestiture of this product line did not represent a strategic shift with a major effect on the Company’s operations and financial results and therefore is not reported as a discontinued operation.
+NOTE 8.
+GOODWILL AND OTHER INTANGIBLE ASSETS
+The following is a rollforward of the Company’s goodwill ($ in millions):
+The carrying value of goodwill by segment is summarized as follows ($ in millions):
+The Company has not identified any “triggering” events which indicate an impairment of goodwill in 2025.  The Company has not identified any impairment triggers that resulted

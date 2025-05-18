@@ -1,0 +1,15 @@
+a cybersecurity or data privacy degree or certification.  Each individual currently serving in these roles meets the applicable expertise requirements.
+How management is informed of and monitors incidents
+Our management is responsible for identifying, considering and assessing material cybersecurity risks on an ongoing basis, establishing processes to ensure that such potential cybersecurity risks are monitored, implementing appropriate mitigation measures and maintaining our cybersecurity programs. Our cybersecurity programs are under the direction of our
+CSO (in coordination with our Chief Privacy and Data Responsibility Officer and Chief Data Officer, among others), who receives reports from our cybersecurity teams and monitors the prevention, detection, mitigation and remediation of cybersecurity incidents. Our management, including the CSO and our cybersecurity teams, follow a risk-based escalation process to notify the Risk Committee outside of the regular reporting cycle as appropriate when they identify an emerging risk or material issue.
+Reporting to our Board
+Given the importance of information security and privacy to our stakeholders, our Board receives an annual report from our
+CSO
+to discuss our program for managing information security risks, including cyber and data security risks. The Risk Committee also receives periodic briefings on data privacy from the Chief Privacy and Data Responsibility Officer. Our Risk Committee receives regular reports on our cyber readiness, our risk profile status, our cybersecurity programs, material cybersecurity risks and mitigation strategies, third-party assessments of our cybersecurity program and other cybersecurity developments. The Risk Committee Chairperson provides reports to the Board on such topics.  Our Board and the Risk Committee also receive information about these topics as part of regular business and legal and regulatory updates.  In addition, we engage directors as part of cybersecurity and data breach incident simulations.  Further, the Audit Committee would be informed of a material cybersecurity incident that could have a potential impact on our financial statements.
+Despite our efforts to identify and respond to cybersecurity threats, we cannot eliminate all risks from cybersecurity threats, or provide assurances that we have not experienced an undetected cybersecurity incident.  See “Risk Factors – Information Security and Operational Resilience” in Part I, Item 1A for more information about these and other risks related to information security.
+40
+MASTERCARD 2024 FORM 10-K
+PART I
+ITEM 1C. CYBERSECURITY
+Item 2. Properties
+We own our corporate headquarters, located in Purchase, New York, and our principal technology and operations center, located in O’Fallon, Missouri.  As of December 31, 2024, Mastercard and its subsidiaries owned or leased commercial properties throughout the U.S. and other countries around the world, consisting of corporate and regional offices, as well as

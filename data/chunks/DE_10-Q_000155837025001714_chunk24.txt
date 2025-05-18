@@ -1,0 +1,37 @@
+continue to accrue during the deferral or extension period with the exception of modifications related to bankruptcy proceedings. Our allowance for credit losses incorporates historical loss information, including the effects of loan modifications with customers. Therefore, additional adjustments to the allowance are generally not recorded upon modification of a loan.
+The ending amortized cost of financing receivables modified with borrowers experiencing financial difficulty during the first quarter ended January 26, 2025 and January 28, 2024 were $
+28
+and $
+17
+, respectively. These modifications represented
+0.06
+% and
+0.03
+% of our financing receivable portfolio for the same periods, respectively.
+The financial effects of payment deferrals with borrowers experiencing financial difficulty resulted in a weighted average payment deferral of
+8 months
+to the modified contracts. Term extensions provided to borrowers experiencing financial difficulty added a weighted average of
+12 months
+to the modified contracts. Additionally, modifications with a combination of both payment deferrals and term extensions resulted in a weighted average payment deferral of
+4 months
+and a weighted average term extension of
+6 months
+.
+We continue to monitor the performance of financing receivables that are modified with borrowers experiencing financial difficulty.
+The ending amortized cost and performance of financing receivables modified during the prior twelve months ended January 26, 2025 and January 28, 2024 were as follows:
+​
+*
+In accordance with the adoption date of the accounting modification guidance, this period includes receivables modified during the prior three months.
+Defaults and subsequent write-offs of financing receivables modified in the prior twelve months were not significant during the three months ended January 26, 2025 and January 28, 2024. In addition, at January 26, 2025, commitments to provide additional financing to these customers were not significant.
+15
+​
+(9)
+Securitization of Financing Receivables
+Our funding strategy includes receivable securitizations, which allows us to receive cash for financing receivables immediately. While these securitization programs are administered in various forms, they are accomplished in the following basic steps:
+As part of step 1, these receivables are legally isolated from the claims of our general creditors. This ensures cash receipts from the financing receivables are accessible to pay back securitization program investors. The structure of these transactions does not meet the accounting criteria for a sale of receivables. As a result, they are accounted for as a secured borrowing. The receivables and borrowings remain on our balance sheet and are separately reported as “Financing receivables securitized – net” and “Short-term securitization borrowings,” respectively.
+The components of securitization programs were as follows:
+​
+​
+(10)
+Inventories
+A majority of inventories owned by us are valued at cost on

@@ -1,0 +1,70 @@
+gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-03-31
+0001707925
+lin:AmericasSegmentMember
+2024-01-01
+2024-03-31
+0001707925
+lin:EMEASegmentMember
+2024-01-01
+2024-03-31
+0001707925
+lin:APACSegmentMember
+2024-01-01
+2024-03-31
+0001707925
+lin:EngineeringSegmentMember
+2024-01-01
+2024-03-31
+0001707925
+us-gaap:CorporateAndOtherMember
+2024-01-01
+2024-03-31
+0001707925
+lin:SalesChannelMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-03-31
+0001707925
+2025-04-01
+2025-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+For the quarterly period ended
+March 31, 2025
+or
+For the transition period from             to
+LINDE PLC
+(Exact name of registrant as specified in its charter)
+N/A
+(Former name, former address and former fiscal year, if changed since last report
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes
+☐
+No
+☒
+At March 31, 2025,
+471,294,205
+ordinary shares (€0.001 par value) of the Registrant were outstanding.
+1
+Table of Contents
+2
+Table of Contents
+Forward-looking Statements
+This document contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are identified by terms and phrases such as: anticipate, believe, intend, estimate, expect, continue, should, could, may, plan, project, predict, will, potential, forecast, and similar expressions. They are based on management’s reasonable expectations and assumptions as of the date the statements are made but involve risks and uncertainties. These risks and uncertainties include, without limitation: the performance of stock markets generally; developments in worldwide and national economies and other international events and circumstances, including trade conflicts and tariffs; changes in foreign

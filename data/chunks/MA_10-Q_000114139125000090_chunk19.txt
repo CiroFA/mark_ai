@@ -1,0 +1,23 @@
+flow hedging relationship.  Gains and losses resulting from changes in fair value of these contracts are deferred in accumulated other comprehensive income (loss) and are subsequently reclassified as an adjustment to interest expense over the respective terms of the hedged debt issuances.
+Fair Value Hedges
+The Company may enter into interest rate derivative contracts, including interest rate swaps, to manage the effects of interest rate movements on the fair value of the Company's fixed-rate debt and designate such derivatives as hedging instruments in a fair value hedging relationship.  Changes in fair value of these contracts and changes in fair value of fixed-rate debt attributable to changes in the hedged benchmark interest rate generally offset each other and are recorded in interest expense on the consolidated statements of operations.  Gains and losses related to the net settlements of interest rate swaps
+are also
+recorded in interest expense on the consolidated statements of operations.  The periodic cash settlements are included in operating activities on the consolidated statements of cash flows.
+The Company has an interest rate swap designated as a fair value hedge related to $
+1.0
+billion of the
+3.850
+% Senior Notes due March 2050.  In effect, the interest rate swap synthetically converts the fixed interest rate on this debt to a variable interest rate based on the SOFR Overnight Index Swap Rate.  The net impact to interest expense for the three months ended March 31, 2025 and 2024 were not material.
+24
+MASTERCARD MARCH 31, 2025 FORM 10-Q
+PART I
+ITEM 1. CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Net Investment Hedges
+The Company may use foreign currency denominated debt and/or foreign exchange derivative contracts to hedge a portion of its net investment in foreign subsidiaries against adverse movements in exchange rates.  The effective portion of the net investment hedge is recorded as a currency translation adjustment in accumulated other comprehensive income (loss).  Forward points are excluded from the effectiveness assessment and are amortized to general and administrative expenses on the consolidated statements of operations over the hedge period.  The amounts recognized in earnings related to forward points for the three months ended March 31, 2025 and 2024 were not material.
+As of March 31, 2025 and December 31, 2024, the Company had €
+1.7
+billion and €
+1.3
+billion euro-denominated debt outstanding designated as hedges of a portion of its net investment in its European operations.  In December 2024, the Company de-designated €
+400
+million of the euro-denominated debt as net investment hedges to effectively manage changes in its net investment exposures in foreign subsidiaries.  The euro-denominated debt was subsequently re-designated as a net investment hedge effective March 2025.  For the three months ended March 31, 2025 and 2024, the Company recorded pre-tax net foreign

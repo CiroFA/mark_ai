@@ -1,0 +1,35 @@
+absorb losses or the right to receive benefits from the variable interest entity. Should we conclude that we are the primary beneficiary of a variable interest entity, the assets, liabilities, and results of operations of the variable interest entity will be included in our Consolidated Financial Statements.
+(x) Use of Estimates
+The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States requires management to make estimates and judgments that affect the amounts reported in the Consolidated Financial Statements and accompanying notes. Estimates are used for the following, among others:
+▪
+Revenue recognition
+▪
+Allowances for accounts receivable, sales returns, and financing receivables
+▪
+Inventory valuation and liability for purchase commitments with contract manufacturers and suppliers
+▪
+Loss contingencies and product warranties
+▪
+Fair value measurements
+▪
+Valuation of goodwill and purchased intangible assets
+▪
+Income taxes
+The actual results that we experience may differ materially from our estimates.
+(y) Recent Accounting Standards or Updates Not Yet Effective as of Fiscal Year End
+Segment Reporting
+In November 2023, the Financial Accounting Standards Board (FASB) issued an accounting standard update that expands the disclosure requirements for reportable segments, primarily through enhanced disclosures around significant segment expenses. The accounting standard update will be effective for our fiscal 2025 Form 10-K on a retrospective basis, and early adoption is permitted. We are currently evaluating the impact of this accounting standard update on our segment disclosures.
+Improvements on Income Tax Disclosures
+In December 2023, the FASB issued an accounting standard update expanding the requirements for disclosure of disaggregated information about the effective tax rate reconciliation and income taxes paid. The accounting standard update will be effective for our fiscal 2026 Form 10-K. We are currently evaluating the impact of this accounting standard update on our income tax disclosures.
+68
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+3.
+Revenue
+(a)
+Disaggregation of Revenue
+We disaggregate our revenue into groups of similar products and services that depict the nature, amount, and timing of revenue and cash flows for our various offerings. The sales cycle, contractual obligations, customer requirements, and go-to-market strategies differ for each of our product categories, resulting in different economic risk profiles for each category. Effective in the first quarter of fiscal 2024, we began reporting our product and service revenue in the following categories: Networking, Security, Collaboration, Observability, and Services and conformed our product revenue for prior periods to the current year presentation.
+The following table presents this disaggregation of revenue (in millions):
+Amounts may not sum due

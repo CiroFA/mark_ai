@@ -1,0 +1,50 @@
+branch network.
+The level of branch pretax income, the local branch tax rate and the allocations of overall domestic losses (ODL) and expenses for U.S. tax purposes to the branch basket are the main factors in determining the branch VA. There was no branch basket VA release in 2024.
+The following table summarizes Citi’s DTAs:
+(1)
+All amounts are net of valuation allowances.
+(2)
+Included in the net U.S. federal DTAs of $
+22.6
+billion as of December 31, 2024 were deferred tax liabilities of $
+2.8
+billion that will reverse in the relevant carry-forward period and may be used to support the DTAs.
+(3)
+Consists of non-consolidated tax return NOL carry-forwards that are eventually expected to be utilized in Citigroup’s consolidated tax return.
+194
+The following table summarizes the amounts of tax carry-forwards and their expiration dates:
+(1)
+Before valuation allowance.
+(2)
+Pretax.
+Although realization is not assured, Citi believes that the realization of the recognized net DTAs of $
+29.8
+billion at December 31, 2024 is more-likely-than-not, based on expectations as to future taxable income in the jurisdictions in which the DTAs arise and consideration of available tax planning strategies (as defined in ASC 740,
+Income Taxes
+).
+The majority of Citi’s U.S. federal net operating loss carry-forward and all of its New York State and City net operating loss carry-forwards are subject to a carry-forward period of
+20
+years. This provides enough time to fully utilize the DTAs pertaining to these existing NOL carry-forwards. This is due to Citi’s forecast of sufficient U.S. taxable income and because New York State and City continue to tax Citi’s non-U.S. income.
+With respect to the FTCs component of the DTAs, the carry-forward period is
+10
+years. Utilization of FTCs in any year is generally limited to
+21
+% of foreign source taxable income in that year. However, ODL that Citi has incurred of approximately $
+9
+billion as of December 31, 2024 are allowed to be reclassified as foreign source income to the extent of
+50
+%–
+100
+% (at taxpayer’s election) of domestic source income produced in subsequent years. Such resulting foreign source income would help support the realization of the FTC carry-forwards after VA. As noted in the tables above, Citi’s FTC carry-forwards were $
+0.7
+billion ($
+4.0
+billion before VA) as of December 31, 2024, compared to $
+1.2
+billion ($
+3.1
+billion before VA) as of December 31, 2023. The increased VA on branch FTCs is reflected in the “Non-U.S. income tax rate differential” line in the “Tax Rate” section above. Citi believes that it will more-likely-than-not generate sufficient U.S. taxable income within the 10-year carry-forward period to be able to utilize the net FTCs after the VA, after considering any FTCs produced in the tax return for such period, which must be used prior to any carry-forward utilization.
+195
+11.
+EARNINGS PER SHARE
+The following table reconciles the income and share data used in the basic and diluted earnings per

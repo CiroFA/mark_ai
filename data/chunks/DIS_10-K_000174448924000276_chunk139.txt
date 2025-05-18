@@ -1,0 +1,18 @@
+accounts payable. The carrying values of these financial instruments approximate the fair values.
+Non-recurring Fair Value Measure
+The Company also has assets that may be required to be recorded at fair value on a non-recurring basis. These assets are evaluated when certain triggering events occur (including a decrease in estimated future cash flows) that indicate their carrying amounts may not be recoverable. In the second and fourth quarters of fiscal 2024 and the fourth quarter of fiscal 2023, the Company recorded impairment charges as disclosed in Notes 4 and 18. Fair value was determined using estimated discounted future cash flows, which is a Level 3 valuation technique (see Note 2 for a discussion of the more significant inputs used in our discounted cash flow analysis).
+Credit Concentrations
+The Company monitors its positions with, and the credit quality of, the financial institutions that are counterparties to its financial instruments on an ongoing basis and does not currently anticipate nonperformance by the counterparties.
+The Company does not expect that it would realize a material loss, based on the fair value of its derivative financial instruments as of September 28, 2024, in the event of nonperformance by any single derivative counterparty. The Company generally enters into derivative transactions only with counterparties that have a credit rating of A- or better and requires collateral in the event credit ratings fall below A- or aggregate exposures exceed limits as defined by contract. In addition, the Company limits the amount of investment credit exposure with any one institution.
+The Company does not have material cash and cash equivalent balances with financial institutions that have below investment grade credit ratings and maintains short-term liquidity balances in high quality money market funds. At September 28, 2024, the Company’s balances (excluding money market funds) with individual financial institutions that exceeded 10% of the Company’s total cash and cash equivalents were
+24
+% of total cash and cash equivalents. At September 30,
+117
+TABLE OF
+CONTENTS
+2023, the Company had no balances (excluding money market funds) with financial institutions that exceeded 10% of the Company’s total cash and cash equivalents.
+The Company’s trade receivables and financial investments do not represent a significant concentration of credit risk at September 28, 2024 due to the wide variety of customers and markets in which the Company’s products are sold, the dispersion of our customers across geographic areas and the diversification of the Company’s portfolio among financial institutions.
+17
+Derivative Instruments
+The Company manages its exposure to various risks relating to its ongoing business operations according to a risk management policy. The primary risks managed with derivative instruments are interest rate risk and foreign exchange risk.
+The Company’s derivative positions measured at fair value (see Note 16) are summarized

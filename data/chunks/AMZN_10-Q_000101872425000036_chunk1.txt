@@ -1,142 +1,49 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+FORM 10-Q
+For the Quarterly Period Ended March 31, 2025
+INDEX
 2
-Facebook
+Table of
+Contents
+PART I. FINANCIAL INFORMATION
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+(unaudited)
+See accompanying notes to consolidated financial statements.
 3
-RSS
+Table of
+Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+(unaudited)
+See accompanying notes to consolidated financial statements.
 4
-YouTube
+Table of
+Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions)
+(unaudited)
+See accompanying notes to consolidated financial statements.
 5
-Flickr
+Table of
+Contents
+AMAZON.COM, INC.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except per share data)
+See accompanying notes to consolidated financial statements.
 6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of
+Contents
+AMAZON.COM, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)
+Note 1 —
+ACCOUNTING POLICIES AND SUPPLEMENTAL DISCLOSURES
+Unaudited Interim Financial Information
+We have prepared the accompanying consolidated financial statements pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”) for interim financial reporting. These consolidated financial statements are unaudited and, in our opinion, include all adjustments, consisting of normal recurring adjustments and accruals necessary for a fair presentation of our consolidated cash flows, operating results, and balance sheets for the periods presented. Operating results for the periods presented are not necessarily indicative of the results that may be expected for 2025 due to seasonal and other factors. Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) have been omitted in accordance with the rules and regulations of the SEC. These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes in Item 8 of Part II, “Financial Statements and Supplementary Data,” of our 2024 Annual Report on Form 10-K.
+Principles of Consolidation
+The consolidated financial statements include the accounts of Amazon.com, Inc. and its consolidated entities (collectively, the “Company”), consisting of its wholly-owned subsidiaries and those entities in which we have a variable interest and of which we are the primary beneficiary, including certain entities in India and certain entities that support our healthcare services and production and distribution of video content. Intercompany balances and transactions between consolidated entities are eliminated.
+Use of Estimates
+The preparation of financial statements in conformity with GAAP requires estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures of contingent liabilities in the consolidated financial statements and accompanying notes. Estimates are used for, but not

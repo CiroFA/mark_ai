@@ -1,0 +1,20 @@
+measuring fair value, with Level 1 having the highest priority and Level 3 having the lowest. Changes in the fair value of derivatives are recorded each period in current earnings or other comprehensive income, depending on whether the derivative is designated as part of a hedge transaction, and if so, the type of hedge transaction.
+The Company documents all relationships between hedged items and derivatives. The overall risk management strategy includes reasons for undertaking hedge transactions and entering into derivatives. The objectives of this strategy are: (1) minimize foreign currency exposure’s impact on the Company’s financial performance; (2) protect the Company’s cash flow from adverse movements in foreign exchange rates; (3) ensure the appropriateness of financial instruments; and (4) manage the enterprise risk associated with financial institutions. See Note 6 for additional information on Financial Instruments.
+Leases
+The Company determines whether an arrangement is a lease at contract inception by establishing if the contract conveys the right to control the use of identified property, plant, or equipment for a period of time in exchange for consideration. Right of Use (ROU) Assets and Lease Liabilities for operating leases are included in
+Other assets
+,
+Accrued liabilities
+, and
+Other liabilities
+on the consolidated balance sheet. The ROU Assets represent the right to use an underlying asset for the lease term and lease liabilities represent an obligation to make lease payments arising from the lease. Commitments under finance leases are not significant, and are included in Property, plant and equipment, Loans and notes payable, and Long-term debt on the consolidated balance sheet.
+ROU Assets and Lease Liabilities are recognized at the lease commencement date based on the present value of all minimum lease payments over the lease term. The Company uses its incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments, when the implicit rate is not readily determinable. Lease terms may include options to extend or terminate the lease. These options are included in the lease term when it is reasonably certain that the Company will exercise that option. Operating lease expense is recognized on a straight-line basis over the lease term. The Company has elected the following policy elections on adoption: use of portfolio approach on leases of assets under master service agreements, exclusion of short term leases on the balance sheet, and not separating lease and non-lease components.
+The Company primarily has operating lease for space, vehicles, manufacturing equipment and data processing equipment. The ROU asset pertaining to leases from continuing operations was $
+1.1
+billion and $
+1.0
+billion in fiscal years 2024 and 2023, respectively. The lease liability from continuing operations was $
+1.2
+billion and $
+1.1
+billion in fiscal years 2024 and 2023,

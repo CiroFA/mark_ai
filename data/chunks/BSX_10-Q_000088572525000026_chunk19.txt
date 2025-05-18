@@ -1,0 +1,38 @@
+Measurements
+On a recurring basis, we measure certain financial assets and financial liabilities at fair value based upon quoted market prices. Where quoted market prices or other observable inputs are not available, we apply valuation techniques to estimate fair value. FASB ASC Topic 820 establishes a three-level valuation hierarchy for disclosure of fair value measurements. The category of a financial asset or a financial liability within the valuation hierarchy is based upon the lowest level of input that is significant to the measurement of fair value. The three levels of the hierarchy are defined as follows:
+•
+Level 1 – Inputs to the valuation methodology are quoted market prices for identical assets or liabilities.
+•
+Level 2 – Inputs to the valuation methodology are other observable inputs, including quoted market prices for similar assets or liabilities and market-corroborated inputs.
+•
+Level 3 – Inputs to the valuation methodology are unobservable inputs based on management’s best estimate of inputs market participants would use in pricing the asset or liability at the measurement date, including assumptions about risk.
+Assets and liabilities measured at fair value on a recurring basis consist of the following:
+Our investments in money market funds and time deposits are classified within Level 1 of the fair value hierarchy because they are valued using quoted market prices. These investments are classified as
+Cash and cash equivalents
+or
+Other current assets
+within our accompanying unaudited consolidated balance sheets, in accordance with GAAP and our accounting policies. In addition to $
+396
+million invested in money market funds and time deposits as of March 31, 2025 and $
+120
+million as of December 31, 2024, we held $
+345
+million in interest-bearing and non-interest-bearing bank accounts as of March 31, 2025 and $
+364
+million as of December 31, 2024.
+Our recurring fair value measurements using Level 3 inputs include those related to our contingent consideration liability. Refer to
+Note B – Acquisitions and Strategic Investments
+for a discussion of the changes in the fair value of our contingent consideration liability.
+Non-Recurring Fair Value Measurements
+We hold certain assets and liabilities that are measured at fair value on a non-recurring basis in periods after initial recognition. The fair value of a measurement alternative investment is not estimated if there are no identified events or changes in circumstances that may have a significant adverse effect on the fair value of the investment. Refer to
+Note B – Acquisitions and Strategic Investments
+for a discussion of our strategic investments and
+Note C – Goodwill and Other Intangible Assets
+for a discussion of the fair values of our intangible assets including goodwill.
+17
+Table of Contents
+The fair value of our outstanding debt obligations, excluding finance leases, was $
+10.900
+billion as of March 31, 2025 and $
+10.330
+billion as of December 31, 2024. We determined fair value

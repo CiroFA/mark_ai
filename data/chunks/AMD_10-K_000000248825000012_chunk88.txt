@@ -1,0 +1,37 @@
+consider these expenses and credits in evaluating the performance of the reportable segments. This category primarily includes amortization of acquisition-related intangibles, employee stock-based compensation, acquisition-related and other costs, restructuring charges and licensing gain. Acquisition-related and other costs primarily include transaction costs, purchase price fair value adjustments for inventory, certain compensation charges, contract termination costs and workforce rebalancing charges.
+66
+Table of Contents
+The following table provides a summary of net revenue and operating income (loss) by segment for 2024, 2023 and 2022.
+Segment cost of sales and operating expenses primarily include material, external manufacturing, labor and marketing and advertising costs, and exclude expenses and credits that are recorded within the All Other category.
+The following table provides items included in All Other category:
+The Company does not discretely allocate assets to its operating segments, nor does management evaluate operating segments using discrete asset information.
+67
+Table of Contents
+The following table summarizes sales to external customers by geographic regions based on billing location of the customer:
+The following table summarizes sales to a major customer that accounted for at least 10% of the Company’s consolidated net revenue for the respective years:
+The following table summarizes Property and equipment, net by geographic areas:
+NOTE 5 –
+Business Combinations
+Fiscal Year 2024 Acquisitions
+Silo AI Acquisition
+On August 9, 2024, the Company completed the acquisition of Silo AI Oy (Silo AI), an AI lab based in Finland in an all-cash transaction of $665 million. Net of closing adjustments, transaction costs and deferred cash compensation, the purchase consideration of $
+553
+million was allocated to $
+19
+million of identifiable intangible assets, $
+43
+million of net liabilities assumed, and $
+577
+million to goodwill. Goodwill was attributed to Silo AI’s workforce who will help the Company accelerate the deployment and development of AI models and software solutions on AMD hardware. Silo AI financial results, which were not material, were included in the Company's Statement of Operations from the date of acquisition primarily within the Data Center segment.
+68
+Table of Contents
+Pending Acquisition of ZT Systems
+On August 17, 2024, the Company entered into an agreement (the Agreement) to acquire ZT Group Int’l, Inc. (ZT Systems), a provider of AI and general purpose compute infrastructure for hyperscale computing companies, in a cash and stock transaction valued at approximately $4.9 billion (the Acquisition). The aggregate closing consideration payable by the Company consists of
+8,335,852
+shares of the Company’s common stock and $
+3.4
+billion in cash. Contingent consideration of up to
+740,964
+shares of the Company’s common stock and up to $
+300
+million of cash is payable by the Company to the extent certain conditions are met. The

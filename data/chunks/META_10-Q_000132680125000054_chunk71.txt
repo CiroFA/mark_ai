@@ -1,0 +1,43 @@
+respectively. In addition, Apple has released changes to iOS that limit our ability, and the ability of others in the digital advertising industry, to target and measure ads effectively. As a result, our competitors may, and in some cases will, acquire and engage users or generate advertising or other revenue at the expense of our own efforts, which would negatively affect our business and financial results. In addition, from time to time, we may take actions in response to competitive threats, but we cannot assure you that these actions will be successful or that they will not negatively affect our business and financial results.
+We believe that our ability to compete effectively depends upon many factors both within and beyond our control, including:
+•
+the popularity, usefulness, ease of use, performance, and reliability of our products compared to our competitors' products;
+•
+the size and composition of our user base;
+•
+the engagement of users with our products and competing products;
+61
+Table of Contents
+•
+our ability to attract and retain businesses who use our free or paid business and advertising services;
+•
+the timing and market acceptance of products, including developments and enhancements to our or our competitors' products;
+•
+our safety and security efforts and our ability to protect user data and to provide users with control over their data;
+•
+our ability to distribute our products to new and existing users;
+•
+our ability to monetize our products;
+•
+the frequency, size, format, quality, and relative prominence of the ads displayed by us or our competitors;
+•
+customer service and support efforts;
+•
+marketing and selling efforts, including our ability to measure the effectiveness of our ads and to provide marketers with a compelling return on their investments;
+•
+our ability to establish and maintain developers' interest in building applications that integrate with our products;
+•
+our ability to establish and maintain publisher interest in integrating their content with our products;
+•
+changes mandated by legislation, regulatory authorities, or litigation, some of which may have a disproportionate effect on us;
+•
+acquisitions or consolidation within our industry, which may result in more formidable competitors;
+•
+our ability to attract, retain, and motivate talented employees, particularly specialized technical personnel including software engineers, designers, and product managers;
+•
+our ability to cost-effectively manage our operations; and
+•
+our reputation and brand strength relative to those of our competitors.
+If we are not able to compete effectively, our user base, level of user engagement, and ability to deliver ad impressions may decrease, we may become less attractive to developers and marketers, and our revenue and results of operations may be materially and adversely affected.
+Our financial results will fluctuate from quarter to quarter and are difficult to predict.
+Our quarterly financial results have fluctuated in the

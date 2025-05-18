@@ -1,0 +1,44 @@
+Instruments in the Consolidated Income Statement
+The total amounts of income and expense line items presented in the Consolidated Income Statement in which the effects of fair value hedges, cash flow hedges, net investment hedges and derivatives not designated as hedging instruments are recorded and the total effect of hedge activity on these income and expense line items are as follows:
+(1)
+The amount includes basis adjustments to the carrying value of the hedged item recorded during the period and amortization of basis adjustments recorded on de-designated hedging relationships during the period.
+(2)
+The amount includes changes in clean fair values of the derivative instruments in fair value hedging relationships and the periodic accrual for coupon payments required under these derivative contracts.
+N/A - not applicable
+36
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+(1)
+Amounts excluded from effectiveness testing for both net investment hedges and cash flow hedges of foreign currency debt are amortized to net income on a straight-line basis over the life of the relevant hedging instrument.
+(2)
+Instruments in net investment hedges include derivative and non-derivative instruments with the amounts recognized in OCI providing an offset to the translation of foreign subsidiaries.
+N/A - not applicable
+For the three months ended March 31, 2025 and 2024, there were no material gains or losses associated with an underlying exposure that did not or was not expected to occur (for cash flow hedges); nor are there any anticipated in the normal course of business.
+37
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+17.
+Stock-Based Compensation:
+Stock-based compensation cost for stock awards and stock options is measured at grant date, based on the fair value of the award, and is recognized over the employee requisite service period.
+The following table presents total stock-based compensation cost included in income from continuing operations.
+Pre-tax stock-based compensation cost for the three months ended March 31, 2025 increased $
+81
+million compared to the corresponding period in the prior year due to increases in restricted stock units ($
+52
+million), performance share units ($
+21
+million) and stock options ($
+7
+million). The increases were primarily driven by stock-based compensation awards granted by the company as part of its annual cycles for executives and other employees.
+Total unrecognized compensation cost related to non-vested awards at March 31, 2025 was $
+2.5
+billion and is expected to be recognized over a weighted-average period of approximately
+2.6
+years.
+18.
+Retirement-Related Benefits:
+The company offers defined benefit (DB) pension plans, defined contribution (DC) plans, as well as nonpension postretirement plans primarily consisting of retiree medical benefits.
+The following table provides the pre-tax cost for all retirement-related plans.
+38
+Table of Contents
+Notes to

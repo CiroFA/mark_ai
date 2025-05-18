@@ -1,0 +1,30 @@
+beneficial interests, for which the Firm is obligated to return a stated amount of principal at maturity, nonprincipal-protected structured notes and long-term beneficial interests do not obligate the Firm to return a stated amount of principal at maturity, but for structured notes to return an amount based on the performance of an underlying variable or derivative feature embedded in the note. However, investors are exposed to the credit risk of the Firm as issuer for both nonprincipal-protected and principal-protected notes.
+(e)
+Where the Firm issues principal-protected zero-coupon or discount notes, the balance reflects the contractual principal payment at maturity or, if applicable, the contractual principal payment at the Firm’s next call date.
+At December 31, 2024 and 2023, the contractual amount of lending-related commitments for which the fair value option was elected was $
+12.2
+billion and $
+9.7
+billion, respectively, with a corresponding fair value of $
+50
+million and $
+97
+million, respectively. Refer to Note 28 for further information regarding off-balance sheet lending-related financial instruments.
+Notes to consolidated financial statements
+Structured note products by balance sheet classification and risk component
+The following table presents the fair value of structured notes, by balance sheet classification and the primary risk type.
+(a)
+Excludes deposits linked to precious metals for which the fair value option has not been elected of $
+869
+million and $
+627
+million for the years ended December 31, 2024 and 2023, respectively.
+Note 4 –
+Credit risk concentrations
+Concentrations of credit risk arise when a number of clients, counterparties or customers are engaged in similar business activities or activities in the same geographic region, or when they have similar economic features that would cause their ability to meet contractual obligations to be similarly affected by changes in economic conditions.
+JPMorganChase regularly monitors various segments of its credit portfolios to assess potential credit risk concentrations and to obtain additional collateral when deemed necessary and permitted under the Firm’s agreements. Senior management is significantly involved in the credit approval and review process, and risk levels are adjusted as needed to reflect the Firm’s risk appetite.
+In the Firm’s consumer portfolio, concentrations are managed primarily by product and by U.S. geographic region, with a key focus on trends and concentrations at the portfolio level, where potential credit risk concentrations can be remedied through changes in underwriting policies and portfolio guidelines.
+Refer to Note
+12
+for additional information on the geographic composition of the Firm’s consumer loan portfolios. In the wholesale portfolio, credit risk concentrations are evaluated primarily by industry and monitored regularly on both an aggregate portfolio level and on an individual client or counterparty basis.
+The Firm’s wholesale exposure is

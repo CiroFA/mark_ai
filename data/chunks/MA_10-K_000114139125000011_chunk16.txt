@@ -1,0 +1,23 @@
+overall usage among account holders globally.  Our “Priceless®” advertising campaign, which has run in more than 50 languages and in more than 120 countries worldwide, promotes Mastercard usage benefits and acceptance, markets Mastercard payment products and solutions and provides Mastercard with a consistent, recognizable message that supports our brands around the globe.
+Data and AI
+We create a range of products and services for our customers (including most of our services and solutions) that use our data and AI assets, technology, expertise and platforms.  These products and services are designed to make commerce smarter, safer and more personal.  These data assets include data from an increasing variety of sources, such as transaction data (including from gateway, card, real-time payments and open banking), digital identities, buyer/supplier payment preferences, device attributes, digital threat assessments and rewards redemptions.  We continually invest in data cleansing, structuring and modeling as well as robust governance to make this data available for use in AI to be deployed at scale.  We utilize our data using traditional analytical methodologies and an ever-increasing range of AI, including machine learning, natural-language processing, neural networks and generative AI.  We aim to help power economies and empower people through AI-driven initiatives that enhance security, data analysis, personalization and efficiency.
+We do all this while following our Data and Tech Responsibility Principles in how we design, implement and deliver those solutions.  Our Privacy by Design, Data by Design and AI Governance processes are designed to ensure we embed multiple layers of privacy, data protection and information security controls in all our products and services, keeping a clear focus on protecting customers’ and individuals’ data.  We seek to do this in a number of ways:
+•
+Implementing accountability.
+We practice robust data and AI governance aimed at ensuring that we have the right controls and oversight over the use of our data and technology
+•
+Practicing data minimization.
+We practice collecting and retaining only the personal information that is needed for a given product or service, and limiting the amount and type of personal information shared with third parties
+18
+MASTERCARD 2024 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+•
+Being transparent and providing control.
+We explain how we use personal information and AI and give individuals access and control over how their data is used and shared
+•
+Working with trusted partners.
+Our processes are designed to ensure we select partners and service providers who share our principled-approach to protecting data and using AI
+•
+Addressing fairness in our data and AI.
+We are implementing governance and processes to help test and mitigate for bias when we use advanced analytics, including AI and machine learning, to create fair and inclusive solutions that reflect individual, group and societal interests

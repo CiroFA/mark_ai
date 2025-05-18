@@ -1,0 +1,21 @@
+litigation, government actions, or legislative, regulatory, or other legal developments relating to advertising, including developments that may impact certain advertisers' ability to advertise on our platform or our ability to deliver, target, or measure the effectiveness of advertising;
+•
+user behavior or product changes that may reduce traffic to features or products that we monetize at a higher rate, such as our Feed and Stories products, including as a result of increased usage of our Reels or other video or messaging products;
+•
+reductions of advertising due to our efforts to implement or enforce advertising policies that protect the security and integrity of our platform or that we believe are needed to comply with global content, security, or integrity obligations;
+54
+Table of Contents
+•
+the availability, accuracy, utility, and security of analytics and measurement solutions offered by us or third parties that demonstrate the value of our ads to marketers, or our ability to further improve such tools;
+•
+loss of advertising market share to our competitors, including if prices to purchase our ads increase or if competitors offer lower priced, more integrated, or otherwise more effective products;
+•
+limitations on our ability to offer a number of our most significant products and services, including Facebook and Instagram, in Europe as a result of European courts invalidating the EU-U.S. DPF or regulators, courts, or legislative bodies determining that the legal bases we rely upon to transfer user data from the European Union to the United States are invalid;
+•
+limitations on our ability to deliver ads to users under the age of 18 and, in some cases, to continue to offer certain products or services to certain cohorts of users, whether voluntarily, as a result of new laws, regulations, or government actions in the United States and other jurisdictions, or otherwise;
+•
+changes in our marketing and sales or other operations that we are required to or elect to make as a result of risks related to complying with laws or regulatory requirements or other government actions;
+•
+decisions by marketers to reduce their advertising as a result of announcements by us or adverse media reports or other negative publicity involving us, our user data practices, our advertising metrics or tools, content on our products, our interpretation, implementation, or enforcement of policies relating to content on our products (including as a result of decisions or recommendations from the independent Oversight Board), developers with applications that are integrated with our products, or other companies in our industry;
+•
+reductions of advertising by marketers due to illegal, illicit, or otherwise objectionable content made available on our products by third parties, questions about our user data practices or the security of our platform, concerns about brand safety or potential legal liability, or uncertainty regarding regulatory developments or their own legal and

@@ -1,0 +1,18 @@
+The trading price of our stock may fluctuate widely due to various factors including actual or anticipated fluctuations in our financial conditions and operating results, changes in financial estimates by us or financial estimates and ratings by securities analysts, changes in our capital structure, including issuance of additional debt or equity to the public, interest rate changes, inflation, news regarding our products or products of our competitors, and broad market and industry fluctuations. Stock price fluctuations could impact the value of our equity compensation, which could affect our ability to recruit and retain employees. In addition, volatility in our stock price could adversely affect our business and financing opportunities.
+We have an approved stock repurchase program that authorizes repurchases of up to $12 billion of our common stock (Repurchase Program). As of December 28, 2024, $4.7 billion remained available for future stock repurchases under the Repurchase Program. The Repurchase Program does not obligate us to acquire any common stock, has no termination date and may be suspended or discontinued at any time. Our stock repurchases could affect the trading price of our stock, the volatility of our stock price, reduce our cash reserves, and may be suspended or discontinued at any time, which may result in a decrease in our stock price.
+ITEM 1B.       UNRESOLVED STAFF COMMENTS
+None.
+ITEM 1C.       CYBERSECURITY
+Cybersecurity Risk Management and Strategy
+We have developed and implemented a cybersecurity risk management program intended to protect the confidentiality, integrity, and availability of our critical systems and information.
+We design and assess our program based on the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), AI Risk Management Framework (AI RMF) and other industry practices and standards. This does not mean that we meet any particular technical standards, specifications, or requirements, but only that we use the NIST CSF, AI RMF, and other industry practices and standards as guides to help us identify, assess, and manage cybersecurity risks relevant to our business.
+Information about cybersecurity risks and our risk management processes is collected, analyzed and considered as part of our overall enterprise risk management program.
+Key components of our cybersecurity risk management program include:
+•
+periodic risk assessments designed to help identify cybersecurity risks to our critical systems, information, services, and our broader enterprise IT environment;
+•
+a security team principally responsible for managing (1) our cybersecurity risk assessment processes, (2) our security controls, and (3) our detection and response to cybersecurity incidents;
+•
+the use of external service providers, where appropriate, to assess, evaluate, test or otherwise assist with aspects of our security controls and processes;
+•
+active testing including penetration tests, attack simulations and

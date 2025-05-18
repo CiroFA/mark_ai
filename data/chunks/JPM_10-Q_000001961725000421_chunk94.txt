@@ -1,0 +1,23 @@
+JPMorganChase’s 2024 Form 10-K for a further description of the MSR asset, interest rate risk management, and the valuation of MSRs.
+The following table summarizes MSR activity for the three months ended March 31, 2025 and 2024.
+(a)
+Includes purchase price adjustments associated with MSRs purchased in the prior quarter, primarily as a result of loans that prepaid within 90 days of settlement, allowing the Firm to recover the purchase price.
+(b)
+Represents both the impact of changes in estimated future prepayments due to changes in market interest rates, and the difference between actual and expected prepayments.
+(c)
+Represents changes in prepayments other than those attributable to changes in market interest rates.
+(d)
+Represents amounts the Firm pays as the servicer (e.g., scheduled principal and interest, taxes and insurance), which will generally be reimbursed within a short period of time after the advance from future cash flows from the trust or the underlying loans. The Firm’s credit risk associated with these servicer advances is minimal because reimbursement of the advances is typically senior to all cash payments to investors. In addition, the Firm maintains the right to stop payment to investors if the collateral is insufficient to cover the advance. However, certain of these servicer advances may not be recoverable if they were not made in accordance with applicable rules and agreements.
+150
+The following table presents the components of mortgage fees and related income (including the impact of MSR risk management activities) for the three months ended March 31, 2025 and 2024.
+(a)
+Represents both the impact of changes in estimated future prepayments due to changes in market interest rates, and the difference between actual and expected prepayments.
+(b)
+Represents the aggregate impact of changes in model inputs and assumptions such as projected cash flows (e.g., cost to service), discount rates and changes in prepayments other than those attributable to changes in market interest rates (e.g., changes in prepayments due to changes in home prices).
+Changes in fair value based on variations in assumptions generally cannot be easily extrapolated, because the relationship of the change in the assumptions to the change in fair value are often highly interrelated and may not be linear. In the following table, the effect that a change in a particular assumption may have on the fair value is calculated without changing any other assumption. In reality, changes in one factor may result in changes in another, which would either magnify or counteract the impact of the initial change.
+The table below outlines the key economic assumptions used to determine the fair value of the Firm’s MSRs at March 31, 2025 and December 31, 2024, and outlines the sensitivities of those fair values to immediate adverse changes in those assumptions, as defined below.
+(a)
+Includes the impact of operational risk and regulatory capital.
+151
+Other intangible assets
+The

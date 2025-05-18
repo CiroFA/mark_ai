@@ -1,0 +1,24 @@
+of unfunded positions represents the remaining undrawn committed amount, including liquidity and credit facilities provided by the Company or the notional amount of a derivative instrument considered to be a variable interest. In certain transactions, the Company has entered into derivative instruments or other arrangements that are not considered variable interests in the VIE (e.g., interest rate swaps, cross-currency swaps or where the Company is the purchaser of credit protection under a credit default swap or total return swap where the Company pays the total return on certain assets to the SPE). Receivables under such arrangements are not included in the maximum exposure amounts.
+158
+The following tables present certain assets and liabilities of consolidated VIEs, which are included on Citi’s Consolidated Balance Sheet. The assets include those assets that can only be used to settle obligations of consolidated VIEs and are in excess of those obligations. In addition, the assets include third-party assets of consolidated VIEs only and exclude intercompany balances that eliminate in consolidation. The liabilities include third-party liabilities of consolidated VIEs only and exclude intercompany balances that eliminate in consolidation. The liabilities also exclude amounts where creditors or beneficial interest holders have recourse to the general credit of Citigroup.
+159
+Funding Commitments for Significant Unconsolidated VIEs—Liquidity Facilities and Loan Commitments
+The following table presents the notional amount of liquidity facilities and loan commitments that are classified as funding commitments in the VIE tables above:
+Significant Interests in Unconsolidated VIEs—Balance Sheet Classification
+The following table presents the carrying amounts and classification of significant variable interests in unconsolidated VIEs:
+Credit Card Securitizations
+The Company’s primary credit card securitization activity is through
+two
+trusts—Citibank Credit Card Master Trust and Citibank Omni Trust. These trusts are consolidated entities given Citi’s continuing involvement. For additional information, see Note 23 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K. There were no material cash flows arising from either proceeds from new securitizations or paydowns of maturing notes during the three months ended March 31, 2025 and 2024.
+160
+Mortgage Securitizations
+The following tables summarize selected cash flow information and retained interests related to Citigroup mortgage securitizations:
+Note: Excludes re-securitization transactions.
+Gains recognized on the securitization of U.S. agency-sponsored mortgages were less than $
+1
+million for the three months ended March 31, 2025. Gains recognized on the securitization of non-agency-sponsored mortgages were $
+60.8
+million for the three months ended March 31, 2025.
+Gains recognized on the securitization of U.S. agency-sponsored mortgages were less than $
+1
+million for the three months ended

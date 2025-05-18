@@ -1,0 +1,15 @@
+national and international interests. We maintain a global sanctions compliance program designed to meet the requirements of applicable sanctions regimes. Failure to comply with such requirements could subject us to serious legal and reputational consequences, including criminal penalties.
+Pursuant to Section 219 of the Iran Threat Reduction and Syria Human Rights Act of 2012, which added Section 13(r) to the Securities Exchange Act of 1934, as amended (the Exchange Act), an issuer is required to disclose in its annual or quarterly reports, as applicable, whether it or any of its affiliates knowingly engaged in certain activities, transactions or dealings relating to Iran or with individuals or entities designated pursuant to certain Executive Orders. Disclosure is generally required even where the activities, transactions or dealings were conducted outside the United States by non-U.S. affiliates in compliance with applicable law and whether or not the activities are sanctionable under U.S. law.
+In connection with an ongoing internal review, we identified certain transactions and accounts that we disclosed pursuant Section 13(r) of the Exchange Act in the 2024 Form 10-K, and we voluntarily reported certain transactions and accounts, some of which related to Iran, to the U.S. Department of the Treasury’s Office of Foreign Assets Control. In the quarter ended March 31, 2025, we identified approximately 5 consumer accounts of individuals that may be, or may have been, employed by the Government of Iran. We believe the accounts were used only for personal expenses. We had negligible gross revenues and net profits attributable to these accounts. All of the accounts are closed and we do not intend to continue to engage in this activity.
+For more information on AML/CFT laws and regulations and economic sanctions, as well as the potential impacts on our results of operations and business, please see the “Supervision and Regulation” and “Risk Factors” sections of the 2024 Form 10-K.
+Recently Issued Accounting Standards
+Refer to the Recently Issued Accounting Standards section of Note 1 to the “Consolidated Financial Statements.”
+30
+Table of Contents
+Glossary of Selected Terminology
+Adjusted net interest income
+— A non-GAAP measure that represents net interest income attributable to our Card Member loans (which includes, on a GAAP basis, interest that is deemed uncollectible), excluding the impact of interest expense and interest income not attributable to our Card Member loans.
+Allocated service costs
+— Represents salaries and benefits associated with our technology and customer servicing groups, allocated based on activities directly attributable to our reportable operating segments, as well as overhead expenses, which are allocated to our reportable operating segments based on their relative levels of revenue and Card Member loans and receivables.
+Asset securitizations
+— Asset securitization involves the transfer and sale of loans or receivables to a

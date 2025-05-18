@@ -1,0 +1,65 @@
+program does not have an expiration date.
+Dividends
+In the three months ended March 31, 2025, total cash dividends were $
+1.2
+billion, $
+171
+million, and $
+1.1
+billion for Class A, Class B, and Class C shares, respectively.
+In April 2025, the Board of Directors of Alphabet declared a quarterly cash dividend of $
+0.21
+representing a
+5
+% increase from the previous quarterly dividend of $
+0.20
+. The dividend is payable on June 16, 2025 to stockholders of record for each of the company’s Class A, Class B, and Class C shares as of June 9, 2025.
+The company intends to pay quarterly cash dividends in the future, subject to review and approval by the company’s Board of Directors in its sole discretion.
+28
+Note 12.
+Net Income Per Share
+The following table sets forth the computation of basic and diluted net income per share of Class A, Class B, and Class C stock (in millions, except per share amounts):
+(1)
+Not applicable for consolidated net income per share.
+For the periods presented above, the holders of each class are entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and Restated Certificate of Incorporation of Alphabet Inc. Holders of Alphabet unvested stock units are awarded dividend equivalents, which are subject to the same vesting conditions as the underlying award, and settled in Class C shares.
+Immaterial differences in net income per share across our Class A, Class B, and Class C shares may arise due to the allocation of distributed earnings, which is based on the holders as of the record date, compared with the allocation of undistributed earnings and number of shares, which is based on the weighted average shares outstanding over the periods.
+29
+Note 13.
+Compensation Plans
+Stock-Based
+Compensation
+For the three months ended March 31, 2024
+and 2025, total stock-based compensation (SBC) expense was $
+5.3
+billion and
+$
+5.5
+billion, including amounts associated with awards we expect to settle in Alphabet stock of $
+5.1
+billion and $
+5.3
+billion
+, respectively.
+Stock-Based Award Activities
+The following table summarizes the activities for unvested Alphabet restricted stock units (RSUs), which include dividend equivalents awarded to holders of unvested stock, for the three months ended March 31, 2025 (in millions, except per share amounts):
+As of March 31, 2025, there was $
+52.5
+billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-average period of
+2.9
+years.
+Note 14.
+Income Taxes
+The following table presents provision for income taxes (in millions, except for effective tax rate):
+We are subject to income taxes in the U.S. and foreign jurisdictions. Significant judgment is required in evaluating our uncertain tax positions and det
+ermining our provision for income taxes. The total amount of gross unrecognized tax benefits was $
+12.6
+billion and
+$
+13.5
+billion, of which $
+10.0
+billion and $
+10.8
+billion, if
+recognized,
+would

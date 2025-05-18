@@ -1,0 +1,26 @@
+use observable inputs such as interest rates, yield curves and foreign currency exchange rates. Counterparty credit risk, which is mitigated by master netting agreements and collateral posting arrangements with certain counterparties, had an impact on derivative fair value estimates that was not material. The Company’s derivative financial instruments are discussed in Note 15.
+Level 2 other liabilities are primarily arrangements that are valued based on the fair value of underlying investments, which are generally measured using Level 1 and Level 2 fair value techniques.
+Level 2 borrowings, which include commercial paper, U.S. dollar denominated notes and certain foreign currency denominated borrowings, are valued based on quoted prices for similar instruments in active markets or identical instruments in markets that are not active.
+Level 3 borrowings include the Asia Theme Parks and cruise ship borrowings, which are valued based on the current estimated borrowing costs, prevailing market interest rates and applicable credit risk.
+The Company’s financial instruments also include cash, cash equivalents, receivables and accounts payable. The carrying values of these financial instruments approximate the fair values.
+29
+THE WALT DISNEY COMPANY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited; tabular dollars in millions, except for per share data)
+15.
+Derivative Instruments
+The Company manages its exposure to various risks relating to its ongoing business operations according to a risk management policy. The primary risks managed with derivative instruments are interest rate risk and foreign exchange risk.
+The Company’s derivative positions measured at fair value (see Note 14) are summarized in the following tables:
+Interest Rate Risk Management
+The Company is exposed to the impact of interest rate changes primarily through its borrowing activities. The Company’s objective is to mitigate the impact of interest rate changes on earnings and cash flows and on the market value of its borrowings. In accordance with its policy, the Company targets its fixed-rate debt as a percentage of its net debt between a minimum and maximum percentage. The Company primarily uses pay-floating and pay-fixed interest rate swaps to facilitate its interest rate risk management activities.
+The Company designates pay-floating interest rate swaps as fair value hedges of fixed-rate borrowings effectively converting fixed-rate borrowings to variable-rate borrowings. The total notional amount of the Company’s pay-floating interest rate swaps at both March 29, 2025 and September 28, 2024 was $
+10.5
+billion and $
+12.0
+billion, respectively.
+30
+THE WALT DISNEY COMPANY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited; tabular dollars in millions, except for per share data)
+The following table summarizes fair value hedge adjustments to hedged borrowings:
+The following amounts are included in “Interest expense, net” in the Condensed Consolidated

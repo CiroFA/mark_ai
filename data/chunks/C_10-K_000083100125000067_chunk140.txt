@@ -1,0 +1,20 @@
+Human Resources,
+have included detailed information regarding financial impacts, impacts on capital, cybersecurity, strategic considerations, sanctions compliance, employee assistance and reputational risks, enabling the Board and its Committees to properly exercise their oversight responsibilities. In addition, senior management has provided updates to Citi’s Executive Management Team and the Board, outside of formal meetings, regarding cybersecurity matters (including Russia-specific risks).
+Ukraine
+Citi has continued to operate in Ukraine throughout the war through its
+Services
+,
+Markets
+and
+Banking
+businesses, serving the local subsidiaries of multinationals, along with local financial institutions and the public sector. Citi employs approximately 220 people in Ukraine and their safety is Citi’s top priority. All of Citi’s domestic operations in Ukraine are conducted through a subsidiary of Citibank, which uses the Ukrainian hryvnia as its functional currency. As of December 31, 2024, Citi had $1.7 billion of direct exposures related to Ukraine (an increase of $0.2 billion from September 30, 2024).
+Argentina
+Citi operates in Argentina through
+Services
+,
+Markets
+and
+Banking
+. As of December 31, 2024, Citi’s net investment in its Argentine operations was approximately $1.5 billion (compared to $1.3 billion at September 30, 2024). Citi uses the U.S. dollar (USD) as the functional currency for its operations in countries such as Argentina that are deemed highly inflationary in accordance with GAAP. Citi therefore records the impact of exchange rate fluctuations on its net Argentine peso (ARS)–denominated assets directly in earnings. Citi uses Argentina’s official market exchange rate to remeasure its net ARS-denominated assets into USD. As of December 31, 2024, the official ARS exchange rate was 1,032, which devalued by 6.3% against the USD during the fourth quarter of 2024.
+The increase in Citi’s net investment in Argentina in the fourth quarter of 2024 was largely due to earnings from Citi’s normal onshore operations and a reserve release, driven by a decrease in transfer risk for safety and soundness considerations under U.S. banking law. The increase was partially offset by FX translation losses on the net investment.
+The Central Bank of Argentina (BCRA) continues to maintain certain capital and currency controls that generally restrict Citi’s ability to access USD in Argentina and remit earnings from its Argentine operations. The capital and currency controls have resulted in indirect foreign exchange mechanisms that some Argentine entities may use to obtain USD, generally at rates that are significantly higher than Argentina’s official exchange rate. Citibank Argentina is generally precluded from accessing these alternative mechanisms, and under U.S. GAAP, these exchange mechanisms cannot be used to remeasure Citi’s net monetary assets into USD. If Argentina’s official exchange rate further converges with the approximate rate implied by the

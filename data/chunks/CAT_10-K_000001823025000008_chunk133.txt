@@ -1,0 +1,36 @@
+All U.S. pension benefits are frozen, and accordingly there is no longer any service cost and certain assumptions are no longer applicable.
+2
+The Liability for postemployment benefits reported in Statement 3 includes liabilities for other postemployment benefits and non-qualified deferred compensation plans.  For 2024 and 2023, these liabilities were $
+697
+million and $
+621
+million, respectively.
+93
+Table of Contents
+For 2024, Actuarial loss (gain) impacting the benefit obligation was primarily due to higher discount rates at the end of 2024 compared to the end of 2023.  For 2023, Actuarial loss (gain) impacting the benefit obligation was primarily due to lower discount rates at the end of 2023 compared to the end of 2022.
+The accumulated postretirement benefit obligation exceeds plan assets for all of our other postretirement benefit plans for all years presented.
+94
+Table of Contents
+B.    Net periodic benefit cost
+1
+All U.S. pension benefits are frozen, and accordingly there is no longer any service cost and certain assumptions are no longer applicable.
+2
+Actuarial loss (gain) represents the effects of actual results differing from our assumptions and the effects of changing assumptions.  We recognize actuarial loss (gain) immediately through earnings upon the annual remeasurement in the fourth quarter, or on an interim basis as triggering events warrant remeasurement.
+3
+The service cost component is included in Operating costs and all other components are included in Other income (expense) in Statement 1.
+Our expected long-term rate of return on U.S. plan assets is based on our estimate of long-term returns for equities and fixed income securities weighted by the fair value of plan asset allocations as of December 31.  We use a similar process to determine this rate for our non-U.S. plans.
+The assumed health care trend rate represents the rate at which health care costs are assumed to increase.  We assumed a weighted-average increase of
+6.2
+percent in our calculation of 2024 benefit expense.  We expect a weighted-average increase of
+6.0
+percent during 2025.  The 2025 rates are assumed to decrease gradually to the ultimate health care trend rate of
+4.7
+percent in
+2030
+.
+95
+C.    Expected contributions and Benefit payments
+The following table presents information about expected contributions and benefit payments for pension and other postretirement benefit plans:
+The above table reflects the total expected employer contributions and expected benefits to be paid from the plan or from company assets and does not include the participants’ share of the cost.  The expected benefit payments for our other postretirement benefits include payments for prescription drug benefits.  The above table also includes Medicare Part D subsidy amounts expected to be received by the company which will offset other postretirement benefit payments.
+D.    Plan assets
+In general, our strategy for both the U.S. and non-U.S. pensions is designed to decrease funded status

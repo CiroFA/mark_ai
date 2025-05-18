@@ -1,0 +1,26 @@
+2024, 2023 and 2022.
+Based on our portfolio of cash flow hedges, we expect to reclassify losses of $
+64
+(pre-tax) out of AOCI into earnings during the next 12 months.
+We have derivative instruments with credit-risk-related contingent features. If we default on our
+five-year
+credit facility, our derivative counterparties could require settlement for foreign exchange and certain commodity contracts with original maturities of at least
+five years
+. The fair value of those contracts in a net liability position at December 31, 2024 was $
+22
+. For other particular commodity contracts, our counterparties could require collateral posted in an amount determined by our credit ratings. At December 31, 2024, there was no collateral posted related to our derivatives.
+110
+Table of
+Contents
+Note 21 –
+Fair Value Measurements
+The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs, and Level 3 includes fair values estimated using significant unobservable inputs.
+The following table presents our assets and liabilities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy.
+Money market funds, available-for-sale debt investments and equity investments are valued using a market approach based on the quoted market prices or broker/dealer quotes of identical or comparable instruments.
+Derivatives include foreign currency and commodity contracts. Our foreign currency forward contracts are valued using an income approach based on the present value of the forward rate less the contract rate multiplied by the notional amount. Commodity derivatives are valued using an income approach based on the present value of the commodity index prices less the contract rate multiplied by the notional amount.
+Certain assets have been measured at fair value on a nonrecurring basis.
+The following table presents the nonrecurring losses recognized for the years ended December 31 due to long-lived asset impairment and the fair value of the related assets as of the impairment date:
+111
+Table of
+Contents
+Level 2 and Level 3 Property, plant and equipment were valued based on third-party valuations using a combination of income and market approaches and adjusted for as-is condition. Level 3 Investments and Other assets were primarily valued using an income approach based on the discounted cash flows associated with the underlying assets. These approaches are considered estimates of net operating income, capitalization rates, and/or comparable property sales. Level 3 operating lease equipment is derived by calculating a median collateral value from a consistent group of third-party aircraft value publications. The values provided by the third-party aircraft publications are derived from their knowledge of

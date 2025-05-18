@@ -1,0 +1,27 @@
+retrospectively for fiscal years beginning after December 15, 2023, and early adoption is permitted.
+The Company adopted this guidance for annual disclosures for the year ended December 31, 2024. The adoption of this standard does not have a material impact on the Company’s Consolidated Financial Statements.
+57
+Honeywell International Inc.
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+In September 2022, the FASB issued ASU 2022-04,
+Liabilities—Supplier Finance Programs (Topic 405): Disclosure of Supplier Finance Program Obligations
+, to enhance the transparency of supplier finance programs. The new standard requires annual disclosure of the key terms of the program, a description of where in the financial statements amounts outstanding under the program are presented, a rollforward of such amounts, and interim disclosure of amounts outstanding as of the end of each period. The guidance does not affect recognition, measurement, or financial statement presentation of supplier finance programs. The ASU was effective on January 1, 2023, except for the rollforward, which was effective on January 1, 2024. The Company adopted this guidance on January 1, 2023, with the exception of the rollforward adopted on January 1, 2024. The adoption of this standard does not have a material impact on the Company’s Consolidated Financial Statements.
+RESEARCH AND DEVELOPMENT
+Research and development costs for projects are expensed as incurred, unless these costs relate to contracts with customers where the Company receives reimbursements. Costs related to contracts with customers for customer-sponsored research and development projects are included as a contract cost and included in Cost of products and services sold when revenue from such contracts is recognized, consistent with the Company's sales recognition policies.
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents include cash on hand and highly liquid investments having an original maturity of three months or less.
+INVENTORIES
+Inventories are stated at the lower of cost or net realizable value, with cost determined on a first-in, first-out basis. Carrying value adjustments for inventory obsolescence is equal to the difference between the cost and net realizable value. Net realizable value is the estimated selling price in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. Items capable of being sold, including as spare parts, are classified as finished goods.
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment are recorded at cost, including any asset retirement obligations, less accumulated depreciation. For financial reporting, the straight-line method of depreciation is used over the estimated useful lives of
+10
+to
+50
+years for buildings and improvements an
+d
+three
+to
+16
+years for machinery and equipment. Recognition of the fair value of

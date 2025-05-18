@@ -1,0 +1,22 @@
+Client assets represent those for which Wealth Management is providing services including financial advisor-led brokerage, custody, administrative and investment advisory services; self-directed brokerage and investment advisory services; financial and wealth planning services; workplace services, including stock plan administration, and retirement plan services. See “Advisor-Led Channel” and “Self-Directed Channel” herein for additional information.
+2.
+Margin and other lending represents margin lending arrangements, which allow customers to borrow against the value of qualifying securities and other lending which includes non‐purpose securities-based lending on non‐bank entities.
+3.
+Deposits reflect liabilities sourced from Wealth Management clients and other sources of funding on our U.S. Bank Subsidiaries. Deposits include sweep deposit programs, savings and other deposits, and time deposits.
+4.
+Annualized weighted average represents the total annualized weighted average cost of the various deposit products. Amounts at December 31, 2024 include the effect of related hedging derivatives. Amounts at December 31, 2023 exclude the effect of related hedging derivatives, which did not have a material impact on the cost of deposits. The period end cost of deposits is based upon balances and rates as of December 31, 2024 and December 31, 2023. The period average is based on daily balances and rates for the period.
+Net New Assets (NNA)
+NNA represent client asset inflows, inclusive of interest, dividends and asset acquisitions, less client asset outflows, and exclude the impact of business combinations/divestitures and the impact of fees and commissions. The level of NNA in a given period is influenced by a variety of factors, including macroeconomic factors that impact client investment and spending behaviors, seasonality, our ability to attract and retain financial advisors and clients, capital market and corporate activities which may impact the amount of assets in certain client channels, and large idiosyncratic inflows and
+outflows. These factors have had an impact on our NNA in recent periods. Should these factors continue, the growth rate of our NNA may be impacted.
+Advisor-Led Channel
+1.
+Advisor-led client assets represent client assets in accounts that have a Wealth Management representative assigned.
+2.
+Fee‐based client assets represent the amount of client assets where the basis of payment for services is a fee calculated on those assets.
+3.
+Fee-based asset flows include net new fee-based assets (including asset acquisitions), net account transfers, dividends, interest and client fees, and exclude institutional cash management related activity. For a description of the Inflows and Outflows included in Fee-based asset flows, see Fee-based client assets herein.
+Self-Directed Channel
+1.
+Self-directed client assets represent active accounts which are not advisor led. Active accounts are defined as having at least $25 in assets.
+2.
+Self-directed

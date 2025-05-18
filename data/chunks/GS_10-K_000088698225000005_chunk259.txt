@@ -1,0 +1,39 @@
+generally receives cash in exchange for the transferred assets but may also have continuing involvement with the transferred financial assets, including ownership of beneficial interests in securitized financial assets, primarily in the form of debt instruments. The firm may also purchase senior or subordinated securities issued by securitization vehicles (which are typically VIEs) in connection with secondary market-making activities.
+The primary risks included in beneficial interests and other interests from the firm’s continuing involvement with securitization vehicles are the performance of the underlying collateral, the position of the firm’s investment in the capital structure of the securitization vehicle and the market yield for the security. Interests accounted for at fair value are primarily classified in level 2 of the fair value hierarchy. Interests not accounted for at fair value are carried at amounts that approximate fair value. See Note 4 for further information about fair value measurements.
+The table below presents the amount of financial assets securitized and the cash flows received on retained interests in securitization entities in which the firm had continuing involvement as of the end of the period.
+The firm securitized assets of $
+364
+million during 2024, $
+369
+million during 2023 and $
+792
+million during 2022, in a non-cash exchange for loans and investments.
+The table below presents information about nonconsolidated securitization entities to which the firm sold assets and had continuing involvement as of the end of the period.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+In the table above:
+•
+CMOs represents collateralized mortgage obligations.
+•
+The outstanding principal amount is presented for the purpose of providing information about the size of the securitization entities and is not representative of the firm’s risk of loss.
+•
+The firm’s risk of loss from retained or purchased interests is limited to the carrying value of these interests.
+•
+Purchased interests represent senior and subordinated interests, purchased in connection with secondary market-making activities, in securitization entities in which the firm also holds retained interests.
+•
+Substantially all of the total outstanding principal amount and total retained interests relate to securitizations during 2019 and thereafter.
+•
+The fair value of retained interests was $
+5.78
+billion as of December 2024 and $
+5.26
+billion as of December 2023.
+In addition to the interests in the table above, the firm had other continuing involvement in the form of derivative transactions and commitments with certain nonconsolidated VIEs. The carrying value of these derivatives and commitments was a net asset of $
+847
+million as of December 2024 and $
+120
+million as of December 2023, and the notional amount of these derivatives and commitments was $
+2.78
+billion as of December 2024 and $
+1.95
+billion as of December 2023. The

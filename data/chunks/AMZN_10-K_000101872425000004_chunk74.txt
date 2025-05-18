@@ -1,0 +1,39 @@
+goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis. Digital media content subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.”
+(2)
+Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are included in “Online stores.”
+(3)
+Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)
+Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+(5)
+Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription services.
+(6)
+Includes sales related to various other offerings, such as healthcare services, certain licensing and distribution of video content, and shipping services, and our co-branded credit card agreements.
+Net sales are attributed to countries primarily based on country-focused online and physical stores or, for AWS purposes, the selling entity.
+Net sales attributed to countries that represent a significant portion of consolidated net sales are as follows (in millions):
+67
+Table of Contents
+Total segment assets exclude corporate assets, such as cash and cash equivalents, marketable securities, other long-term investments, corporate facilities, goodwill and other acquired intangible assets, and tax assets. Technology infrastructure assets are allocated among the segments based on usage, with the majority allocated to the AWS segment.
+Total segment assets reconciled to consolidated amounts are as follows (in millions):
+___________________
+(1)
+North America and International segment assets primarily consist of property and equipment, operating leases, inventory, accounts receivable, and digital video and music content.
+(2)
+AWS segment assets primarily consist of property and equipment, accounts receivable, and operating leases.
+Property and equipment, net by segment is as follows (in millions):
+Total net additions to property and equipment include technology infrastructure assets, which are allocated among the segments based on usage, with the majority allocated to the AWS segment. Total net additions to property and equipment include the effect of non-cash activity such as property and equipment acquired but not yet paid for. Total net additions to property and equipment are as follows (in millions):
+___________________
+(1)
+Includes property and equipment added under finance leases of $
+422
+million, $
+525
+million, and $
+616
+million in 2022, 2023, and 2024, and under build-to-suit lease arrangements of $
+3.2
+billion, $
+356
+million, and $
+89
+million in 2022, 2023, and 2024.

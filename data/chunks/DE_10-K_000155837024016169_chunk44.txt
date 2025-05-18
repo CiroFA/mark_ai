@@ -1,0 +1,25 @@
+default rates, which are subsequently adjusted for expected recoveries to arrive at lifetime credit loss estimates. Independent variables included in the models vary by product, but can include credit quality at time of application, remaining account balance, delinquency status, and various economic factors, such as commodity prices, employment levels, and housing data. The economic factors include forward-looking conditions over the reasonable and supportable forecast period.
+Management reviews each model’s output quarterly, and qualitative adjustments are incorporated as necessary to arrive at management’s best estimate of expected credit losses.
+We identified the allowance for credit losses by the linear regression models and related independent variables and qualitative adjustments used in determining the Company’s United States and Canada retail customer receivable portfolios as a critical audit matter because determining the appropriate methodology and assumptions used in the estimate requires significant judgment by management. Given the subjective nature and judgment applied by management to determine the allowance for credit losses, auditing the methodology and assumptions requires a high degree of auditor judgment and an increased extent of effort, including the need to involve credit specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures to test the allowance for credit losses estimated for the Company’s United States and Canada retail customer receivable portfolio by the linear regression models and related independent variables and qualitative adjustments included the following, among others:
+​
+81
+Table of Contents
+​
+​
+/s/ DELOITTE & TOUCHE LLP
+Chicago, Illinois
+December 12, 2024
+We have served as the Company’s auditor since 1910.
+​
+82
+Table of Contents
+​
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the stockholders and the Board of Directors of Deere & Company:
+Opinion on Internal Control over Financial Reporting
+We have audited the internal control over financial reporting of Deere & Company and subsidiaries (the “Company”) as of October 27, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of October 27, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended October 27, 2024 of the Company and our report dated December 12, 2024, expressed an unqualified opinion on those financial statements.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over

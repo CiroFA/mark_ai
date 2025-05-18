@@ -1,0 +1,25 @@
+investment hedges, the net gain or loss reclassified from AOCI to earnings as a reduction of
+Interest expense
+represents the straight-line amortization of the excluded component as calculated at the date of designation. This initial value of the excluded component has been excluded from the assessment of effectiveness in accordance with FASB ASC Topic 815. In the current and prior periods, we did not recognize any gains or losses on the components included in the assessment of hedge effectiveness in earnings.
+(3)
+For our outstanding euro-denominated debt principal designated as a net investment hedge, the change in fair value attributable to changes in the spot rate is recorded in the CTA component of OCI.
+No
+amounts were reclassified from AOCI to current period earnings.
+As of March 31, 2025, pre-tax net gains or losses for our derivative instruments designated, or previously designated, as cash flow and net investment hedges under FASB ASC Topic 815 that may be reclassified from AOCI to earnings within the next twelve months are presented below (in millions):
+15
+Table of Contents
+Net gains and losses on currency hedge contracts not designated as hedging instruments offset by net gains and losses from currency transaction exposures are presented below:
+Fair Value Measurements
+FASB ASC Topic 815 requires all derivative and nonderivative instruments to be recognized at their fair values as either assets or liabilities on the balance sheet. We determine the fair value of our derivative and nonderivative instruments using the framework prescribed by FASB ASC Topic 820,
+Fair Value Measurements and Disclosures
+(FASB ASC Topic 820), and considering the estimated amount we would receive or pay to transfer these instruments at the reporting date with respect to current currency exchange rates, interest rates, the creditworthiness of the counterparty for unrealized gain positions and our own creditworthiness for unrealized loss positions. In certain instances, we may utilize financial models to measure fair value of our derivative and nonderivative instruments. In doing so, we use inputs that include quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, other observable inputs for the asset or liability and inputs derived principally from, or corroborated by, observable market data by correlation or other means.
+The following are the balances of our derivative and nonderivative assets and liabilities:
+(1)
+We classify derivative and nonderivative assets and liabilities as current when the settlement date of the contract is one year or less.
+(2)
+Foreign currency-denominated debt is the €
+900
+million debt principal associated with our December 2027 Notes designated as a net investment hedge. A portion of this notional is subject to de-designation and re-designation based on changes in the underlying hedged item.
+16
+Table of Contents
+Recurring Fair Value

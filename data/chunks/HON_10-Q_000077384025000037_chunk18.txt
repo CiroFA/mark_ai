@@ -1,0 +1,20 @@
+quarter and only exist within a reporting year. In the event differences in actual closing dates are material to year-over-year comparisons of quarterly or year-to-date results, Honeywell will provide appropriate disclosures. Honeywell's actual closing dates for the three months ended March 31, 2025, and 2024, were March 29, 2025, and March 30, 2024, respectively.
+NOTE 2.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The accounting policies of the Company are set forth in Note 1 Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements in the Company’s 2024 Annual Report on Form 10-K. The Company includes herein certain updates to those policies.
+RECLASSIFICATIONS
+Certain prior year amounts are reclassified to conform to the current year presentation. This includes the separate disclosure of changes in Income taxes within operating activities on the Consolidated Statement of Cash Flows.
+SUPPLY CHAIN FINANCING
+Amounts outstanding related to supply chain financing programs are included in Accounts payable in the Consolidated Balance Sheet. Accounts payable included approximately $
+1,108
+million and $
+1,150
+million as of March 31, 2025, and December 31, 2024, respectively. The impact of these programs is not material to the Company's overall liquidity.
+RECENT ACCOUNTING PRONOUNCEMENTS
+The Company considers the applicability and impact of all Accounting Standards Updates (ASUs) issued by the Financial Accounting Standards Board (FASB). ASUs not listed below were assessed and determined to be either not applicable or are expected to have minimal impact on the Company's Consolidated Financial Statements.
+In November 2024, the FASB issued ASU 2024-03,
+Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+, which requires companies to disclose additional information about the types of expenses in commonly presented expense captions. The new standard requires tabular disclosure of specified natural expenses in certain expense captions, a qualitative description of amounts that are not separately disaggregated, and disclosure of the Company's definition and total amount of selling expenses. The ASU should be applied prospectively for annual reporting periods beginning after December 15, 2026, with retrospective application and early adoption permitted. The Company is currently evaluating the impacts of this guidance on the Company's Consolidated Financial Statements.
+In December 2023, the FASB issued ASU 2023-09,
+Income Taxes (Topic 740): Improvements to Income Taxes Disclosures
+, which requires greater disaggregation of income tax disclosures. The new standard requires additional information to be disclosed annually with respect to the income tax rate reconciliation and income taxes paid disaggregated by jurisdiction. This ASU should be applied prospectively for fiscal years beginning after December 15, 2024, with retrospective

@@ -1,0 +1,66 @@
+respectively.
+83
+PART II
+Item 8
+As of June 30, 2024, 2023, and 2022, we had accrued interest expense related to uncertain tax positions of $
+6.8
+billion, $
+5.2
+billion, and $
+4.3
+billion, respectively, net of income tax benefits. The provision for income taxes for fiscal years 2024, 2023, and 2022 included interest expense related to uncertain tax positions of $
+1.5
+billion, $
+918
+million, and $
+36
+million, respectively, net of income tax benefits.
+The aggregate changes in the gross unrecognized tax benefits related to uncertain tax positions were as follows:
+(a)
+Fiscal year 2024 includes unrecognized tax benefits of $
+3.4
+billion related to the acquisition of Activision Blizzard. See Note 8 – Business Combinations for further information.
+We remain under audit by the IRS for tax years
+2014
+to
+2017
+. With respect to the audit for tax years
+2004
+to
+2013
+, on September 26, 2023, we received Notices of Proposed Adjustment (“NOPAs”) from the IRS. The primary issues in the NOPAs relate to intercompany transfer pricing. In the NOPAs, the IRS is seeking an additional tax payment of $
+28.9
+billion plus penalties and interest. As of June 30, 2024, we believe our allowances for income tax contingencies are adequate. We disagree with the proposed adjustments and will vigorously contest the NOPAs through the IRS’s administrative appeals office and, if necessary, judicial proceedings. We do not expect a final resolution of these issues in the next 12 months. Based on the information currently available, we do not anticipate a significant increase or decrease to our income tax contingencies for these issues within the next 12 months.
+We are subject to income tax in many jurisdictions outside the U.S. Our operations in certain jurisdictions remain subject to examination for tax years
+1996
+to
+2023
+, some of which are currently under audit by local tax authorities. The resolution of each of these audits is not expected to be material to our consolidated financial statements.
+NOTE 13 — UNEARNED REVENUE
+Unearned revenue by segment was as follows:
+Changes in unearned revenue were as follows:
+Revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods, was $
+275
+billion as of June 30, 2024, of which $
+269
+billion is related to the commercial portion of revenue. We expect to recognize approximately
+45
+% of our total company remaining performance obligation revenue over the next
+12
+months and the remainder thereafter.
+84
+PART II
+Item 8
+NOTE 14
+—
+LEASES
+We have operating and finance leases for datacenters, corporate offices, research and development facilities, Microsoft Experience Centers, and certain equipment. Our leases have remaining lease terms of less than
+1
+year to
+17
+years, some of which include options to extend the leases for up to
+5
+years, and some of which include options to terminate the leases within
+1
+year.
+The components of lease expense were as

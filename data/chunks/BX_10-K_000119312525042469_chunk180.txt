@@ -1,0 +1,15 @@
+VIEs that can only be used to settle obligations of the consolidated VIE and liabilities of a consolidated VIE for which creditors (or beneficial interest holders) do not have recourse to the general credit of Blackstone are presented in a separate section in the Consolidated Statements of Financial Condition.
+Blackstone’s other disclosures regarding VIEs are discussed in Note 8. “Variable Interest Entities.”
+Revenue Recognition
+Revenues primarily consist of management and advisory fees, incentive fees, investment income, interest and dividend revenue and other.
+Management and advisory fees and incentive fees are accounted for as contracts with customers. Under the guidance for contracts with customers, an entity is required to (a) identify the contract(s) with a customer, (b) identify the performance obligations in the contract, (c) determine the transaction price, (d) allocate the transaction price to the performance obligations in the contract, and (e) recognize revenue when (or as) the entity satisfies a performance obligation. In determining the transaction price, an entity may include variable consideration only to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized would not occur when the uncertainty associated with the variable consideration is resolved. See Note 19. “Segment Reporting” for a disaggregated presentation of revenues from contracts with customers.
+Management and Advisory Fees, Net
+— Management and Advisory Fees, Net are comprised of management fees, including base management fees, transaction, advisory and other fees net of management fee reductions and offsets.
+Blackstone earns base management fees from its customers at a fixed percentage of a calculation base which is typically net asset value, gross asset value, total fair value of investments, committed capital, total invested capital or remaining invested capital. Blackstone identifies its customers on a fund by fund basis in accordance with
+166
+Table of Contents
+Blackstone Inc.
+Notes to Consolidated Financial Statements—Continued
+(All Dollars are in Thousands, Except Share and Per Share Data, Except Where Noted)
+the terms and circumstances of the individual fund. Generally the customer is identified as the investors in its managed funds and investment vehicles, but for certain widely held funds or vehicles, the fund or vehicle itself may be identified as the customer. These customer contracts require Blackstone to provide investment management services, which represents a performance obligation that Blackstone satisfies over time. Management fees are a form of variable consideration because the fees Blackstone is entitled to vary based on fluctuations in the basis for the management fee. The amount recorded as revenue is generally determined at the end of the period because these management fees are payable on a regular basis (typically quarterly) and are not subject to clawback once paid.
+Transaction, advisory and

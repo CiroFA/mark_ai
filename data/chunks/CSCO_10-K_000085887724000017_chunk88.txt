@@ -1,0 +1,19 @@
+value less costs to sell.
+(m) Fair Value
+Fair value is defined as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be either recorded or disclosed at fair value, we consider the principal or most
+65
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+advantageous market in which we would transact, and we also consider assumptions that market participants would use when pricing the asset or liability.
+The accounting guidance for fair value measurement requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The standard establishes a fair value hierarchy based on the level of independent, objective evidence surrounding the inputs used to measure fair value. A financial instrument’s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+The fair value hierarchy is as follows:
+Level 1
+applies to assets or liabilities for which there are quoted prices in active markets for identical assets or liabilities.
+Level 2
+applies to assets or liabilities for which there are inputs other than quoted prices that are observable for the asset or liability such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data. We use inputs such as actual trade data, benchmark yields, broker/dealer quotes, and other similar data, which are obtained from quoted market prices, independent pricing vendors, or other sources, to determine the ultimate fair value of assets or liabilities.
+Level 3
+applies to assets or liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets or liabilities. The fair values are determined based on model-based techniques such as discounted cash flow models using inputs that we could not corroborate with market data.
+(n) Derivative Instruments
+We recognize derivative instruments as either assets or liabilities and measure those instruments at fair value. The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. For a derivative instrument designated as a fair value hedge, the gain or loss is recognized in earnings in the period of change together with the offsetting loss or gain on the hedged item attributed to the risk being hedged. For a derivative instrument designated as a

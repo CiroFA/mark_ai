@@ -1,0 +1,23 @@
+economic performance.
+Production costs for radio and television advertising are expensed when the commercials are initially aired.
+These production costs, primarily in the U.S., as well as other marketing-related expenses are included in Selling, general & administrative expenses and were (in millions): 2024–$
+90
+; 2023–$
+42
+; 2022–$
+64
+.
+INCOME TAXES
+Income Tax Uncertainties
+The Company, like other multi-national companies, is regularly audited by federal, state and foreign tax authorities, and tax assessments may arise several years after tax returns have been filed. Accordingly, tax liabilities are recorded when, in management’s judgment, a tax position does not meet the more likely than not threshold for recognition. For tax positions that meet the more likely than not threshold, a tax liability may still be recorded depending on management’s assessment of how the tax position will ultimately be settled. The Company records interest and penalties on unrecognized tax benefits in the provision for income taxes.
+Deferred tax assets and liabilities are recognized for the tax consequences of temporary differences between the financial reporting basis and the tax basis of existing assets and liabilities. The Company records a valuation allowance to reduce its deferred tax assets if it is considered more likely than not that some portion or all of the deferred tax assets will not be realized. While the Company has considered future taxable income and ongoing prudent and feasible tax strategies, including the sale of appreciated assets, in assessing the need for the valuation allowance, if these estimates and assumptions change in the future, the Company may be required to adjust its valuation allowance. This could result in a charge to, or an increase in, income in the period such determination is made.
+Refer to the Income Taxes footnote on page
+59
+of this Form 10-K for additional information.
+Accounting for Global Intangible Low-Taxed Income ("GILTI")
+The accounting policy of the Company is to record any tax on GILTI in the provision for income taxes in the year it is incurred.
+FAIR VALUE MEASUREMENTS
+The Company measures certain financial assets and liabilities at fair value on a recurring basis, and certain non-financial assets and liabilities on a nonrecurring basis. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in the principal or most advantageous market in an orderly transaction between market participants on the measurement date. Fair value disclosures are reflected in a three-level hierarchy, maximizing the use of observable inputs and minimizing the use of unobservable inputs.
+The valuation hierarchy is based upon the transparency of inputs to the valuation of an asset or liability on the measurement date. The three levels are defined as follows:
+▪
+Level 1 – inputs to the valuation methodology are quoted prices (unadjusted) for an identical asset or liability in an active market.

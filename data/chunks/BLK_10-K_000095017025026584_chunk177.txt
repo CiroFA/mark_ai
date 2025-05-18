@@ -1,0 +1,74 @@
+addition, the Company enters into exchange traded futures to economically hedge the exposure to market movements on certain deferred cash compensation plans. The Company had outstanding exchange traded futures with aggregate notional values related to its deferred cash compensation hedging program of approximately
+$
+197
+million
+and $
+204
+million a
+t December 31, 2024 and 2023
+, with expiration dates during the
+first quarter
+of
+2025 and 2024, respectively.
+Changes in the value of the futures contracts are recognized as gains or losses within nonoperating income (expense). Variation margin payments, which represent settlements of profit/loss, are generally received or made daily, and are reflected in other assets and other liabilities on the consolidated statements of financial condition. These amounts were not material as of December 31, 2024 and 2023.
+The Company executes forward foreign currency exchange contracts to mitigate the risk of certain foreign exchange movements. At December 31, 2024 and 2023, the Company had outstanding forward foreign currency exchange contracts with aggregate notional values of approximately
+$
+3.6
+billion
+, with expiration dates in
+January
+2025
+, and $
+3.1
+billion, with expiration dates in
+January
+2024
+, respectively.
+At both December 31, 2024 and 2023,
+the Company had a derivative providing credit protection with a notional amount of approximately
+$
+17
+million
+to a counterparty, representing the Company’s maximum risk of loss with respect to the derivative. The Company carries the derivative at fair value based on the expected discounted future cash outflows under the arrangement.
+The following table presents the fair values of derivative instruments recognized in the consolidated statements of financial condition at December 31,
+2024:
+The following table presents realized and unrealized gains (losses) recognized in the consolidated statements of income on derivative instruments:
+(1)
+Amounts for 2024, 2023 and 2022 include
+$
+48
+million
+of losses, $
+112
+million of losses and $
+36
+million of gains on futures used as a macro hedging strategy of seed investments
+, respectively. In addition, amounts for 2024 and 2023 include
+$
+18
+million
+and $
+24
+million of gains on futures used to economically hedge certain deferred cash compensation plans, respectively
+.
+The Company's CIPs may utilize derivative instruments as a part of the funds' investment strategies. The change in fair value of such derivatives, which is recorded in nonoperating income (expense), was not material for 2024, 2023 and 2022.
+See Note 15,
+Borrowings
+, for more information on the Company’s net investment hedge.
+F-
+24
+10
+. Property and Equipment
+Property and equipment consists of the following:
+N/A – Not Applicable
+Qualifying software costs of approximately
+$
+105
+million
+, $
+103
+million and $
+91
+million have been capitalized within equipment and computer software during
+2024, 2023 and 2022
+, respectively, and are being amortized over an estimated useful

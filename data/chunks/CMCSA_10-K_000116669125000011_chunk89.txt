@@ -1,0 +1,20 @@
+disclosures containing future amounts where the functional currency is the local currency, we translate the amounts into U.S. dollars at the exchange rates as of the balance sheet date.
+In November 2024, we announced our intention to create SpinCo, a new independent publicly traded company comprised of select domestic cable television networks along with complementary digital assets through a tax-free spin-off. We are targeting to complete the Spin-off by the end of 2025, subject to the satisfaction of customary conditions, including obtaining final approval from our Board of Directors, satisfactory completion of SpinCo financings, receipt of tax opinions and receipt of any regulatory approvals. There can be no assurance that a separation transaction will occur, or, if one does, of its terms or timing. The consolidated financial statements and related notes do not reflect the proposed Spin-off.
+Reclassifications
+Our current liability for accrued participations and residuals is separately disclosed in Note 4 in the current year and is included within the “accrued expenses and other current liabilities” caption in our consolidated balance sheet for all periods presented. Previously these amounts were presented in a separate caption in our consolidated balance sheet.
+Accounting Policies
+Our consolidated financial statements are prepared in accordance with GAAP, which require us to select accounting policies, including in certain cases industry-specific policies, and make estimates that affect the reported amount of assets, liabilities, revenue and expenses, and the related disclosure of contingent assets and contingent liabilities. Actual results could differ from these estimates. The following accounting policies are specific to the industries in which we operate:
+•
+capitalization and amortization of film and television costs (see Note 4)
+•
+costs for connecting customers to our HFC network (see Note 8)
+Information on other accounting policies and methods that we use in the preparation of our consolidated financial statements are included, where applicable, in their respective footnotes that follow. Below is a discussion of accounting policies and methods used in our consolidated financial statements that are not presented within other footnotes.
+Advertising Expenses
+Advertising costs are expensed as incurred.
+Fair Value Measurements
+The accounting guidance related to fair value measurements establishes a hierarchy based on the types of inputs used for the various valuation techniques. The levels of the hierarchy are described below.
+•
+Level 1: Values are determined using quoted market prices for identical financial instruments in an active market.
+•
+Level 2: Values are determined using quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs and significant value drivers are observable in active markets.
+•

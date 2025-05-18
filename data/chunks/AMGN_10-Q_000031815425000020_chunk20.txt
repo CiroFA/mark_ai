@@ -1,0 +1,25 @@
+These investments, which are primarily investment funds of early-stage biotechnology companies, are accounted for by using the equity method of accounting and are measured by using our proportionate share of the net asset values of the underlying investments held by the limited partnerships as a practical expedient. These investments are typically redeemable only through distributions upon liquidation of the underlying assets. As of March 31, 2025, we had $
+147
+million of unfunded additional commitments to be made for these investments during the next several years. For the three months ended March 31, 2025 and 2024, net unrealized gains and losses recognized from our limited partnership investments were
+not
+material.
+7.
+Inventories
+Inventories consisted of the following (in millions):
+13
+8.
+Goodwill and other intangible assets
+Goodwill
+The change in the carrying amount of goodwill was as follows (in millions):
+Other intangible assets
+Other intangible assets consisted of the following (in millions):
+Developed-product-technology rights consists of rights related to marketed products acquired in business acquisitions. Licensing rights primarily consists of contractual rights to receive future milestone, royalty and profit-sharing payments; capitalized payments to third parties for milestones related to regulatory approvals to commercialize products; and upfront payments associated with royalty obligations for marketed products. Marketing-related rights primarily consists of rights related to the sale and distribution of marketed products. R&D technology rights pertains to technologies used in R&D that have alternative future uses.
+In January 2025, as part of the IRA, the Company’s product Otezla was selected by CMS for Medicare price setting that will be applicable beginning on January 1, 2027. The earlier than anticipated selection resulted in a decrease in the estimated future cash flows for the product in the United States. This selection represented a triggering event that required the Company to evaluate the underlying developed-product-technology rights for impairment. The Company utilized a discounted cash flow analysis based on Level 3 inputs, including estimated product sales, operating expenses and a discount rate. The discounted cash flow analysis resulted in an intangible asset fair value of $
+4.0
+billion as of March 31, 2025, which was lower than the carrying value of $
+4.8
+billion and resulted in a partial impairment of both the gross and net carrying amounts.
+See Note 11, Fair value measurement. Based on the revised estimated cash flows, during the three months ended March 31, 2025, we recorded an intangible asset impairment charge of $
+800
+million in Other operating expenses in the Condensed Consolidated Statements of Income (Loss).
+IPR&D consists of R&D projects acquired in a business combination that are not complete at the time of acquisition due to remaining technological risks and/or lack of receipt of required regulatory

@@ -1,0 +1,31 @@
+REPORTING AND GEOGRAPHIC INFORMATION
+See Note 1 for a description of the Company's business. The Company's portfolio of brands is organized into
+four
+operating segments. The Company determined its operating segments based on how its chief operating decision maker ("CODM"), who is the Chief Executive Officer and President, manages the business, makes operating decisions, and evaluates operating performance. The operating segments are aggregated into
+one
+reportable segment based on the similarity in economic characteristics, other qualitative factors, and the objectives and principles of ASC 280,
+Segment Reporting
+.
+The CODM reviews revenues and an adjusted measure of earnings before interest, taxes, depreciation, and amortization less additions to property and equipment ("Adjusted EBITDA less Capex") for each operating segment.
+The following table presents information for the Company's reportable segment. Other segment items include operating expenses such as general and administrative and information technology. See Note 2 for additional information on these expenses.
+Decisions to allocate resources to each operating segment are made predominantly through the budgeting and forecasting process. The CODM reviews budget-to-actual variances for revenues and Adjusted EBITDA less Capex to assess performance of the operating segments. The information is also used as a basis for determining compensation for certain employees. Estimates and judgments are made in allocating certain revenues and Adjusted EBITDA less Capex to operating segments due to the integrated nature of the operating segments in the underlying transactions. The allocation process is consistent with the manner in which the CODM assesses the performance of the operating segments. Information on segment assets is not presented as depreciation and amortization is not included in measuring Adjusted EBITDA less Capex.
+88
+The following table presents the reconciliation of the Company's segment Adjusted EBITDA less Capex to Income before income taxes:
+(1)    See Note 16 for additional information.
+(2)    See Note 22 for additional information.
+(3)    See Consolidated Statements of Operations.
+(4)    See Note 20 for additional information.
+(5)    See Note 21 for additional information.
+(6)    See Note 18 for additional information.
+(7)    See Note 12 for additional information.
+(8)    Primarily consists of the expenses of corporate headquarters and certain other functional departments.
+Stock-based compensation included in the determination of segment Adjusted EBITDA less Capex was $
+522
+million, $
+447
+million, and $
+347
+million for the years ended December 31, 2024, 2023, and 2022, respectively.
+89
+Geographic Information
+The Company's revenues from its businesses outside of the U.S. consists of the results of Booking.com and Agoda in their entirety and the results of the KAYAK and OpenTable businesses located outside of the U.S. This classification is independent of where the consumer resides,

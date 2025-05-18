@@ -1,0 +1,16 @@
+tax loss and credit carryforwards are subject to an annual limitation and/or are reduced by a valuation allowance. The net carrying amount of such assets is expected to be fully realized.
+In assessing the realizability of deferred tax assets, management determined that it is more likely than not that we will not fully realize certain available tax assets in domestic and foreign jurisdictions. Deferred tax assets are offset by a valuation allowance to the extent it is more likely than not that they are not expected to be realized. As of November 29, 2024, we continue to maintain a valuation allowance of $
+725
+million primarily related to certain state credits and federal capital loss carryforwards. For fiscal 2024, the increase in the valuation allowance was $
+321
+million, mainly related to the capital loss generated from the Figma acquisition termination fee.
+As we repatriate foreign earnings for use in the United States, the distributions will generally be exempt from federal income taxes. As of November 29, 2024, the cumulative amount of foreign earnings considered permanently reinvested upon which taxes have not been provided, and the corresponding unrecognized deferred tax liability, was not material.
+78
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Accounting for Uncertainty in Income Taxes
+During fiscal 2024 and 2023, the aggregate changes in our total gross amount of unrecognized tax benefits were as follows:
+Our policy is to record interest and penalties related to uncertain tax positions within the provision for income taxes. As of November 29, 2024 and December 1, 2023, the combined amounts of accrued interest and penalties included in long-term income taxes payable related to tax positions taken on our tax returns were not material.
+While we file federal, state and local income tax returns globally, our major tax jurisdictions are Ireland, California and the United States. We are subject to the examination of our income tax returns by various domestic and foreign tax authorities with 2020 being the earliest fiscal year open for examination in all of our major tax jurisdictions. We regularly assess the likelihood of outcomes resulting from examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result. While we believe our tax estimates are reasonable, we cannot provide assurance that the final determination of any of these examinations will not have an adverse effect on our financial position and results of operations.
+The timing of the resolution of income tax examinations is highly uncertain as are the amounts and timing of tax payments that are part of any audit settlement process. These events could cause large fluctuations in the balance sheet classification of our tax assets and liabilities. We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude or statutes of

@@ -1,0 +1,37 @@
+for distribution, primarily related to YouTube (we pay fees to these content providers based on revenues generated, subscriber counts, or a flat fee);
+◦
+depreciation expense related to our technical infrastructure;
+◦
+employee compensation expenses related to our technical infrastructure and other operations such as content review and customer and product support;
+◦
+inventory and other costs related to the devices we sell; and
+◦
+other technical infrastructure operations costs, including network capacity, energy, and equipment costs.
+TAC as a percentage of revenues generated from ads placed on Google Network properties are significantly higher than TAC as a percentage of revenues generated from ads placed on Google Search & other properties, because most of the advertiser revenues from ads served on Google Network properties are paid as TAC to our Google Network partners.
+Operating Expenses
+Operating expenses are generally incurred during our normal course of business, which we categorize as either R&D, sales and marketing, or general and administrative.
+The main components of our R&D expenses are:
+•
+depreciation;
+•
+employee compensation expenses for engineering and technical employees responsible for R&D related to our existing and new products and services; and
+•
+third-party services fees primarily relating to consulting and outsourced services in support of our engineering and product development efforts.
+The main components of our sales and marketing expenses are:
+•
+employee compensation expenses for employees engaged in sales and marketing, sales support, and certain customer service functions; and
+•
+spend relating to our advertising and promotional activities in support of our products and services.
+The main components of our general and administrative expenses are:
+•
+employee compensation expenses for employees in finance, human resources, information technology, legal, and other administrative support functions;
+•
+expenses relating to legal and other matters, including certain fines and settlements; and
+34
+•
+third-party services fees, including audit, consulting, outside legal, and other outsourced administrative services.
+Other Income (Expense), Net
+OI&E, net primarily consists of interest income (expense), the effect of foreign currency exchange gains (losses), net gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments.
+For additional information, including how we account for our investments and factors that can drive fluctuations in the value of our investments, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 and Item 7A, “Quantitative and Qualitative Disclosur
+es About Market Risk” in our An
+nual Report on Form 10-K for the fiscal year ended December 31, 2024 as well as Note 3 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.

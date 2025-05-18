@@ -1,0 +1,18 @@
+of $
+4
+million from the pretax amount recorded in AOCI as the anticipated cash flows occur.
+Fair Value Hedging Strategy
+The Company uses interest rate swap agreements designated as fair value hedges to minimize exposure to changes in the fair value of fixed-rate debt that result from fluctuations in benchmark interest rates. The Company also uses cross-currency interest rate swaps to hedge the changes in the fair value of foreign currency denominated debt relating to fluctuations in foreign currency exchange rates and benchmark interest rates. The changes in the fair values of derivatives designated as fair value hedges and the offsetting changes in the fair values of the hedged items are recognized in earnings. As a result, any difference is reflected in earnings as ineffectiveness. When a derivative is no longer designated as a fair value hedge for any reason, including termination and maturity, the remaining unamortized difference between the carrying value of the hedged item at that time and the face value of the hedged item is amortized to earnings over the remaining life of the hedged item, or immediately
+12
+if the hedged item has matured or has been extinguished. The total notional values of derivatives that were designated and qualified as fair value hedges of this type were $
+12,984
+million and $
+12,628
+million as of March 28, 2025 and December 31, 2024, respectively.
+The following table summarizes the pretax impact that changes in the fair values of derivatives designated as fair value hedges had on earnings (in millions):
+The following table summarizes the amounts recorded in our consolidated balance sheets related to hedged items in fair value hedging relationships (in millions):
+1
+Cumulative amount of fair value hedging adjustments does not include changes due to foreign currency exchange rate fluctuations.
+Hedges of Net Investments in Foreign Operations Strategy
+The Company uses forward contracts and a portion of its foreign currency denominated debt, a non-derivative financial instrument, to protect the value of our net investments in a number of foreign operations. For derivative financial instruments that are designated and qualify as hedges of net investments in foreign operations, the changes in the fair values of the derivative financial instruments are recognized in net foreign currency translation adjustments, a component of AOCI, to offset the changes in the values of the net investments being hedged. For non-derivative financial instruments that are designated and qualify as hedges of net investments in foreign operations, the changes in the carrying values of the designated portions of the non-derivative financial instruments due to fluctuations in foreign currency exchange rates are recorded in net foreign currency translation adjustments. Any ineffective portions of net investment hedges are reclassified from AOCI into earnings during the period of change.
+The following table summarizes the notional values and pretax

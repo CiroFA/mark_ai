@@ -1,0 +1,27 @@
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+(e)
+Valuation of Employee Share-Based Awards
+Time-based restricted stock units and PRSUs that are based on our financial performance metrics or non-financial operating goals are valued using the market value of our common stock on the date of grant, discounted for the present value of expected dividends. Starting in fiscal 2023, for PRSUs granted, we included a relative total shareholder return (TSR) modifier to determine the number of shares earned at the end of the performance period. The TSR modifier is determined using a Monte Carlo simulation model. For PRSUs granted in fiscal 2022, on the date of grant, we estimated the fair value of the TSR component of the PRSUs using a Monte Carlo simulation model. The PRSUs granted during the fiscal years presented are contingent on the achievement of our financial performance metrics, our comparative market-based returns, or the achievement of financial and non-financial operating goals.
+The assumptions for the valuation of time-based RSUs and PRSUs are summarized as follows:
+The assumptions for the valuation of employee stock purchase rights are summarized as follows:
+The valuation of employee stock purchase rights and the related assumptions are for the employee stock purchases made during the respective fiscal years.
+We used the implied volatility for traded options (with contract terms corresponding to the expected life of the employee stock purchase rights) on our stock as the expected volatility assumption required in the Black-Scholes model. The implied volatility is more representative of future stock price trends than historical volatility. The risk-free interest rate assumption is based upon observed interest rates appropriate for the term of our employee stock purchase rights. The dividend yield assumption is based on the history and expectation of dividend payouts at the grant date.
+96
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+(f)
+Employee 401(k) Plans
+We sponsor the Cisco Systems, Inc. 401(k) Plan (the “Plan”) to provide retirement benefits for our employees. As allowed under Section 401(k) of the Internal Revenue Code, the Plan provides for tax-deferred salary contributions and after-tax contributions for eligible employees. The Plan allows employees to contribute up to
+75
+% of their annual eligible earnings to the Plan on a pretax and after-tax basis, including Roth contributions. Employee contributions are limited to a maximum annual amount as set periodically by the Internal Revenue Code. We match pretax and Roth employee contributions up to
+100
+% of the first
+4.5
+% of eligible earnings that are contributed by employees. Therefore, the maximum matching contribution that we may allocate to each participant’s account will not exceed $
+15,525
+for the 2024 calendar year due to the $345,000 annual limit on eligible earnings imposed by the Internal

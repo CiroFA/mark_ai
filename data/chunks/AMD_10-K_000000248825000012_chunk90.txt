@@ -1,0 +1,38 @@
+stock-based compensation expense and acquisition-related costs, which are recorded under the “All Other” segment.
+69
+Table of Contents
+In 2023 and 2022, Xilinx acquisition-related costs of $
+26
+million and $
+350
+million were recorded under Cost of sales, Research and development, and Marketing, general and administrative expenses on the Company’s Consolidated Statements of Operations. Xilinx acquisition-related costs in 2024 were immaterial. Acquisition-related costs are primarily comprised of direct transaction costs, fair value adjustments for acquired inventory and certain compensation charges.
+Supplemental Unaudited Pro Forma Information
+Following are the supplemental consolidated financial results of the Company, Xilinx and Pensando on an unaudited pro forma basis, as if the acquisitions had been consummated as of the beginning of the fiscal year 2022.
+NOTE 6 –
+Acquisition-related Intangible Assets and Goodwill
+Acquisition-related Intangible Assets
+The following table summarizes Acquisition-related Intangible Assets:
+Acquisition-related intangible amortization expense was $
+2.4
+billion and $
+2.8
+billion in fiscal year 2024 and 2023, respectively. During the fourth quarter of fiscal year 2024, the Company determined that the fair value of certain IPR&D recorded within the Data Center segment was not recoverable resulting from actions related to the 2024 Restructuring Plan, and recorded an impairment charge of $
+58
+million within Restructuring charges in the Company’s Consolidated Statement of Operations.
+70
+Table of Contents
+Based on the carrying value of acquisition-related intangibles recorded as of December 28, 2024, and assuming no subsequent impairment of the underlying assets, the estimated annual amortization expense for acquisition-related intangibles is expected to be as follows:
+Goodwill
+The following table summarizes changes in the carrying amount of Goodwill:
+During the fourth quarter of fiscal years 2024 and 2023, the Company conducted its annual qualitative impairment tests of goodwill and concluded that there was no goodwill impairment with respect to its reporting units.
+NOTE 7 –
+Related Parties—Equity Joint Ventures
+ATMP Joint Venture
+s
+The Company holds a
+15
+% equity interest in
+two
+joint ventures (collectively, the ATMP JV) with affiliates of Tongfu Microelectronics Co., Ltd, a Chinese joint stock company. The Company has no obligation to fund the ATMP JV. The Company accounts for its equity interests in the ATMP JV under the equity method of accounting due to its significant influence over the ATMP JV.
+The ATMP JV provides assembly, test, mark and packaging (ATMP) services to the Company. The Company assists the ATMP JV in its management of certain raw material inventory. The purchases from and resales to the ATMP JV of inventory under the Company’s inventory management program are reported within purchases and resales with the ATMP JV and do not impact the Company’s Consolidated Statement of Operations.
+The Company’s

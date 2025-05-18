@@ -1,0 +1,39 @@
+collateral, LTV ratio and credit bureau information. Subsequent credit monitoring for residential real estate loans is performed at the portfolio level. Securities-based loan collateral values are monitored on an ongoing basis.
+For information related to credit quality indicators considered in developing the ACL, see Note 2.
+Loans Held for Investment before Allowance by Credit Quality and Origination Year
+IG—Investment Grade
+NIG—Non-investment Grade
+1.
+Securities-based loans are subject to collateral maintenance provisions, and at December 31, 2024 and December 31, 2023, these loans are predominantly over-collateralized. For more information on the ACL methodology related to securities-based loans, see Note 2.
+2. Other loans primarily include tailored lending. For a further discussion of Other loans, see “Quantitative and Qualitative Disclosures about Risk—Credit Risk” herein.
+Past Due Loans Held for Investment before Allowance
+1
+1.
+As of December 31, 2024, the majority of the amounts are 90 days or more past due. As of December 31, 2023, the majority of the amounts are past due for a period of less than 90 days.
+Nonaccrual Loans Held for Investment before Allowance
+1
+1.
+There were no loans held for investment that were 90 days or more past due and still accruing as of December 31, 2024 and December 31, 2023. For further information on the Firm’s nonaccrual policy, see Note 2 to the financial statements.
+Loan Modifications to Borrowers Experiencing Financial Difficulty
+The Firm may modify the terms of certain loans for economic or legal reasons related to a borrower’s financial difficulties, and these modifications include interest rate reductions, principal forgiveness, term extensions and other-than-
+insignificant payment delays or a combination of these aforementioned modifications. Modified loans are typically evaluated individually for allowance for credit losses.
+Modified Loans Held for Investment
+Period-end loans held for investment modified during the following periods
+1
+1.
+Lending commitments to borrowers for which the Firm has modified terms of the receivable, during the year ended December 31, 2024 and 2023, were $
+746
+million and $
+1,062
+million, as of December 31, 2024 and December 31, 2023, respectively.
+2.
+Percentage of total loans represents the percentage of modified loans to total loans held for investment by loan type.
+Financial Impact of Modifications on Loans Held for Investment
+1.
+In instances where more than one loan was modified, modification impact is presented on a weighted-average basis.
+Past Due Loans Held for Investment Modified in the Last 12 months
+At December 31, 2024, there were
+two
+commercial real estate loans held for investment with a total amortized cost of $
+56
+million that defaulted during the year ended December 31, 2024 and had been modified in the 12 month period prior to default. There were no loans held for investment that defaulted during the year ended December 31, 2023 that had been modified in the

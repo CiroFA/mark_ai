@@ -1,0 +1,15 @@
+ended December 31, 2023.
+Products/Pipeline
+Maridebart cafraglutide
+In November 2024, we announced positive data at 52 weeks in part 1 of a double-blind, dose-ranging Phase 2 study with MariTide, a differentiated peptide-antibody conjugate subcutaneously administered monthly or less frequently. In people living with obesity or overweight without type 2 diabetes, MariTide demonstrated up to approximately 20% average weight loss at week 52 without a weight loss plateau. The study also showed people living with obesity or overweight and type 2 diabetes achieved up to approximately 17% average weight loss without a weight loss plateau and lowered their average hemoglobin A1C (HbA1c) by up to 2.2 percentage points at week 52. MariTide also demonstrated robust and clinically meaningful improvements in cardiometabolic parameters, including blood pressure, triglycerides and high-sensitivity C-reactive protein (hs-CRP) across doses.
+The most common adverse events (AEs) in part 1 of the Phase 2 study were gastrointestinal (GI) related, including nausea, vomiting and constipation. The incidence of nausea and vomiting was substantially reduced with dose escalation. The discontinuation rate in the dose escalation arms due to any AE was approximately 11% and less than 8% for GI-related AEs.
+IMDELLTRA
+In May 2024, we announced IMDELLTRA received accelerated approval from the FDA for the treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) with disease progression on or after platinum-based chemotherapy.
+BLINCYTO
+In June 2024, we announced BLINCYTO received approval from the FDA in frontline consolidation for patients with CD19-positive Philadelphia chromosome-negative B-cell precursor acute lymphoblastic leukemia (B-ALL).
+In December 2024, we announced new data from a Phase 3 trial demonstrating that adding BLINCYTO to chemotherapy significantly improves disease-free survival (DFS) in newly diagnosed pediatric patients with National Cancer Institute (NCI) standard risk (SR) B-ALL of average or higher risk of relapse. The study met its primary endpoint of DFS. Overall, the 3-year DFS was 96.0% for patients treated with chemotherapy plus BLINCYTO compared to 87.9% for those treated with only chemotherapy. The hazard ratio (HR) was 0.39 [95% confidence interval (CI) 0.24-0.64], indicating a 61% reduction in the risk of disease relapse, secondary malignant neoplasm or remission death with BLINCYTO. At three years, more patients remained alive and cancer free when treated with BLINCYTO plus chemotherapy compared to chemotherapy alone. Safety results are consistent with the known safety profile of BLINCYTO.
+TEPEZZA
+In September 2024, we announced TEPEZZA was approved for the treatment of active or high clinical activity score (CAS) thyroid eye disease (TED) in Japan.
+1
+UPLIZNA
+In June 2024, we announced positive top-line results from our Phase 3 registrational trial evaluating UPLIZNA for the treatment of Immunoglobulin G4-related disease

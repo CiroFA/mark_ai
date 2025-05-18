@@ -1,0 +1,62 @@
+debt, excluding post-closing adjustments.
+Under the acquisition method, the purchase price was allocated to the assets acquired and liabilities assumed based on their fair value. NEE acquired identifiable assets of approximately $
+1.3
+billion, primarily relating to property, plant and equipment and intangible assets associated with biogas rights agreements and above-market purchased power agreements, and assumed liabilities of approximately $
+0.3
+billion and noncontrolling interests of approximately $
+0.1
+billion. The excess of the purchase price over the fair value of assets acquired and liabilities assumed resulted in approximately $
+0.3
+billion of goodwill which has been recognized on NEE's consolidated balance sheets, of which approximately $
+0.2
+billion is expected to be deductible for tax purposes. Goodwill associated with the RNG acquisition is reflected within NEER and, for impairment testing, is included in the clean energy assets reporting unit. The goodwill arising from the transaction represents expected benefits of synergies and expansion opportunities for NEE's clean energy businesses.
+7.
+Property, Plant and Equipment
+Property, plant and equipment consists of the following at December 31:
+FPL
+– At December 31, 2024, FPL's gross investment in electric plant in service and other property for the electric generation, transmission, distribution and general facilities of FPL represented approximately
+43
+%,
+14
+%,
+36
+% and
+7
+%, respectively; the respective amounts at December 31, 2023 were
+43
+%,
+14
+%,
+36
+% and
+7
+%. Substantially all of FPL's properties are subject to the lien of FPL's mortgage, which secures most debt securities issued by FPL. The weighted annual composite depreciation and amortization rate for FPL's electric plant in service, including capitalized software, but excluding the effects of decommissioning, dismantlement and the depreciation adjustments discussed in the following sentences, was approximately
+3.5
+%,
+3.4
+% and
+3.6
+% for 2024, 2023 and 2022, respectively. In accordance with the 2021 rate agreement (see Note 1 – Rate Regulation – Base Rates Effective January 2022 through December 2025), FPL recorded reserve amortization in 2024 and 2023 of approximately $
+328
+million and $
+227
+million, respectively. In 2022, FPL recorded a one-time reserve amortization adjustment of approximately $
+114
+million, as required under the 2021 rate agreement, 50% of which was used to reduce the capital recovery regulatory asset balance and the other 50% to increase the storm reserve regulatory liability (see Note 1 – Storm Funds, Storm Reserves and Storm Cost Recovery). During 2024, 2023 and 2022, FPL recorded AFUDC of approximately $
+245
+million, $
+190
+million and $
+136
+million, respectively, including the equity component of AFUDC of approximately $
+189
+million, $
+155
+million and $
+105
+million, respectively.
+NEER
+– At December 31, 2024, wind, solar, nuclear and rate-regulated transmission facilities represented approximately
+45
+%,
+23

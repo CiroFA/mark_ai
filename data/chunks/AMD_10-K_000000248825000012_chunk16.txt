@@ -1,0 +1,16 @@
+Including United States and foreign matters, we have approximately 18,800 patent matters worldwide consisting of approximately 13,200 issued patents and 5,600 patent applications pending. We expect to file future patent applications in both the United States and abroad on significant inventions, as we deem appropriate. We do not believe that any individual patent, or the expiration of any patent, is or would be material to our business. As is typical in the semiconductor industry, we have numerous cross-licensing and technology exchange agreements with other companies under which we both transfer and receive technology and intellectual property rights. We have acquired various licenses from external parties to certain technologies that are implemented in our products, including our IP cores and devices. These licenses support our continuing ability to make and sell our products. We have also acquired licenses to certain proprietary software, open-source software, and related technologies, such as compilers, for our design tools. Continued use of such software and technology is important to the operation of the design tools upon which our customers depend
+.
+Backlog
+Sales are made primarily pursuant to purchase orders for current delivery or agreements covering purchases over a period of time. Although such orders or agreements may provide visibility into future quarters, they may not necessarily be indicative of actual sales for any succeeding period as some of these orders or agreements may be revised or canceled without penalty.
+Seasonality
+Our operating results tend to vary seasonally. Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+Human Capital
+As of December 28, 2024, we had approximately 28,000 employees in our global workforce. We believe we are at our best when our culture of innovation, creative minds and people from all kinds of backgrounds work together in an engaging and open environment. Areas of focus for us include the following:
+Mission, Culture, and Engagement
+Our History - Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. From those modest beginnings, we have grown into a global
+10
+Table of Contents
+company achieving many important industry firsts along the way. Today, we develop high-performance and adaptive computing to solve some of the world’s toughest and most interesting challenges.
+Our Vision - High performance and adaptive computing is transforming our lives.
+Our Mission - Build great products that accelerate next-generation computing experiences.
+Our employees are driven by this vision and mission. Innovation occurs when creative minds and diverse perspectives from all over the world work together. This is the foundation of our unique culture and the reason we believe our

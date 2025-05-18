@@ -1,0 +1,22 @@
+solar generating capacity of 75 MW or greater, the FPSC requires investor-owned electric utilities, including FPL, to issue a request for proposal (RFP) except when the FPSC determines that an exception from the RFP process is in the public interest. The RFP process allows independent power producers and others to bid to supply the new generating capacity. If a bidder has the most cost-effective alternative, meets other criteria such as financial viability and demonstrates adequate expertise and experience in building and/or operating generating capacity of the type proposed, the investor-owned electric utility would seek to negotiate a PPA with the selected bidder and request that the FPSC approve the terms of the PPA and, if appropriate, provide the required authorization for the construction of the bidder's generating capacity.
+6
+Table of Content
+s
+FPL
+SOURCES OF GENERATION
+At
+December 31, 2024
+, FPL's resources for serving load consisted of approximately 35,296 MW of net generating capacity, of which
+35,052
+MW were from FPL-owned facilities and
+244
+MW were available through PPAs. FPL owned and operated
+44
+units with generating capacity of 24,297 MW that primarily use natural gas and 96 solar generation facilities with generating capacity totaling 7,038 MW. In addition, FPL owned, or had undivided interests in, and operated four nuclear units with net generating capacity totaling 3,502 MW (see Nuclear Operations below) and had a joint ownership interest in a coal unit located in Georgia which is operated by the joint owner with a net generating capacity of 215 MW (see Note 7 – Jointly-Owned Electric Plants). FPL also develops and constructs battery storage projects, which, when combined with its solar projects, serve to enhance its ability to meet customer needs for a nearly firm generation source. At
+December 31, 2024
+, FPL had 469 MW of battery storage capacity that delivers energy to the transmission system. FPL customer usage and operating revenues are typically higher during the summer months, largely due to the prevalent use of air conditioning in its service area. Occasionally, unusually cold temperatures during the winter months result in significant increases in electricity usage for short periods of time.
+In 2024 and in January 2025, FPL continued to add new solar generation with cost recovery through base rates, through a Solar Base Rate Adjustment (SoBRA) and through SolarTogether
+®
+(a voluntary community solar program that gives FPL electric customers an opportunity to participate directly in the expansion of solar energy where participants pay a fixed monthly subscription charge and receive credits on their related monthly customer bill). FPL added new solar generation with capacity totaling 2,235 MW in 2024 and 894 MW in January 2025 (see FPL Regulation – FPL Electric Rate Regulation – Base Rates – Base Rates Effective January 2022 through December 2025 below).
+Fuel Sources
+FPL relies upon a mix of fuel sources for its

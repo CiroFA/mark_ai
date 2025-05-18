@@ -1,0 +1,21 @@
+expense
+increased in 2024 compared to 2023 primarily due to an increase in average debt outstanding and higher weighted-average interest rates in the current year, partially offset by interest expense in the prior year associated with a collateralized obligation that was repaid in the fourth quarter of 2023.
+Consolidated investment and other income (loss), net
+increased
+in 2024 compared to 2023
+.
+The change in equity in net income (losses) of investees, net in 2024 compared to 2023 was primarily due to our investment in Atairos. The income (losses) at Atairos were driven by fair value adjustments on its underlying investments with income (loss) of $(474) million and $1.1 billion in 2024 and 2023, respectively.
+The change in realized and unrealized gains (losses) on equity securities, net in 2024 compared to 2023 was primarily
+due to higher losses on nonmarketable securities in the current year.
+The change in other income (loss), net in 2024 compared to 2023 primarily resulted from foreign exchange remeasurement.
+Our effective income tax rate in 2024 and 2023 was 15.0% and 26.2%, respectively.
+The decrease in income tax expense in 2024 was primarily driven by a tax benefit from an internal corporate reorganization completed in 2024, as well as lower domestic income before income taxes.
+See Note 5 for additional information on our income taxes.
+The changes in net income (loss) attributable to noncontrolling interests in 2024 compared to 2023 was primarily due to our regional sports networks.
+Table of Contents
+Our segment operating results are presented based on how we assess operating performance and internally report financial information. See Note 2 for additional information on our segments.
+(a)
+Our Adjusted EBITDA margin is Adjusted EBITDA as a percentage of revenue. We believe this metric is useful particularly as we continue to focus on growing our higher-margin businesses and improving overall operating cost management. The changes reflect the year-over-year basis point changes in the rounded Adjusted EBITDA margins.
+(b)
+Constant currency is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 44 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts.
+We continue to focus on growing our higher-margin connectivity businesses while managing overall operating costs. We also continue to invest in our network to support higher-speed broadband offerings and to expand the number of homes and businesses passed. A competitive environment, which has increased in recent years, has had negative impacts on our customer relationships additions/(losses). In addition, government funding for the Affordable Connectivity Program, which provided a monthly discount towards broadband service for eligible low-income households, expired during the second quarter of 2024, which had a negative impact on our residential domestic broadband customer

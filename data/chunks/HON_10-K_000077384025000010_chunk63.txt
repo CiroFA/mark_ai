@@ -1,0 +1,29 @@
+customer asset productivity and efficiency needs by providing connectivity, data integration, and software solutions to generate a holistic view of their operations.
+Corporate and All Other
+–
+Corporate and All Other includes revenue from Honeywell's majority-owned investment in Quantinuum. Through Quantinuum, Honeywell provides a wide range of service offerings of fully integrated quantum computing hardware and software solutions.
+See Note 22
+Segment Financial Data
+for a summary by disaggregated product and services sales for each reportable business segment.
+The Company recognizes revenue arising from performance obligations outlined in contracts with its customers that are satisfied at a point in time and over time.
+The disaggregation of the Company's revenue based off timing of recognition is as follows:
+CONTRACT BALANCES
+The Company tracks progress on satisfying performance obligations under contracts with customers. The related billings and cash collections are recorded in the Consolidated Balance Sheet in Accounts receivable—net and Other assets (unbilled receivables (contract assets) and billed receivables), and Accrued liabilities and Other liabilities (customer advances and deposits (contract liabilities)). Unbilled receivables arise when the timing of cash collected from customers differs from the timing of revenue recognition, such as when contract provisions require specific milestones to be met before a customer can be billed. Contract assets are recognized when the revenue associated with the contract is recognized prior to billing and derecognized when billed in accordance with the terms of the contract. Contract liabilities are recorded when customers remit contractual cash payments in advance of the Company satisfying performance obligations under contractual arrangements, including those with performance obligations to be satisfied over a period of time. Contract liabilities are derecognized when revenue is recorded, either when a milestone is met triggering the contractual right to bill or when the performance obligation is satisfied.
+67
+Honeywell International Inc.
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+Contract balances are classified as assets or liabilities on a contract-by-contract basis at the end of each reporting period.
+The following table summarizes the Company's contract assets and liabilities balances:
+For the years ended December 31, 2024, and 2023, the Company recognized revenue of $
+2,140
+million and $
+2,070
+million, respectively, that was previously included in the beginning balance of contract liabilities.
+Contract assets included $
+2,139
+million and $
+1,949
+million of unbilled balances under long-term contracts as of December 31, 2024, and 2023, respectively. These amounts are billed in accordance with the terms of customer contracts to which they relate.
+When contracts are modified to account for changes in

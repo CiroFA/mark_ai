@@ -1,0 +1,35 @@
+activity in municipal bond vehicles in CIB.
+Refer to Liquidity Risk Management on pages 108–115; and Notes 14 and 28 for additional information on Firm-sponsored VIEs and loan securitization trusts.
+Long-term debt
+increased, primarily driven by:
+•
+net issuances of structured notes in Markets due to client demand,
+partially offset by
+•
+a decline in Treasury and CIO, reflecting the net impact of lower FHLB advances and higher long-term debt from net issuances.
+Refer to Liquidity Risk Management on pages 108–115 and Note 34 for additional information on the First Republic acquisition.
+Stockholders’ equity
+increased, reflecting:
+•
+net income,
+largely offset by
+•
+the impact of capital actions, including repurchases of common shares, the declaration of common and preferred stock dividends, and net redemption of preferred stock, and
+•
+net unrealized losses in AOCI, including the impact of higher interest rates on cash flow hedges in Treasury and CIO.
+Refer to Consolidated Statements of changes in stockholders’ equity
+on page 175, Capital Actions on page 105, and Note 24 for additional information.
+Consolidated cash flows analysis
+The following is a discussion of cash flow activities during the years ended December 31, 2024 and 2023. Refer to Consolidated cash flows analysis on page 61 of the Firm’s 2023 Form 10-K for a discussion of the 2022 activities.
+Operating activities
+JPMorganChase’s operating assets and liabilities primarily support the Firm’s lending and capital markets activities. These assets and liabilities can vary significantly in the normal course of business due to the amount and timing of cash flows, which are affected by client-driven and risk management activities and market conditions. The Firm believes that cash flows from operations, available cash and other liquidity sources, and its capacity to generate cash through secured and unsecured sources, are sufficient to meet its operating liquidity needs.
+•
+In 2024, cash used resulted from higher trading assets and higher securities borrowed, largely offset by net income.
+•
+In 2023, cash provided primarily reflected net income, lower other assets, and accrued interest and accounts receivable, predominantly offset by higher trading assets, lower accounts payable and other liabilities, and higher securities borrowed.
+Investing activities
+The Firm’s investing activities predominantly include originating held-for-investment loans, investing in the investment securities portfolio and other short-term instruments.
+•
+In 2024, cash used resulted from net purchases of investment securities, net loan originations and higher securities purchased under resale agreements, partially offset by proceeds from sales and securitizations of loans held-for-investment.
+•
+In 2023, cash provided resulted from net proceeds from investment securities, proceeds from sales and securitizations of loans held-for-investment, and lower securities purchased under resale agreements, largely offset by net originations of

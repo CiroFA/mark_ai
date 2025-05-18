@@ -1,0 +1,20 @@
+including scenarios analyzed as part of the Firm’s resolution and recovery planning. Internal stress tests are produced on a daily basis, and other stress tests are performed in response to specific market events or concerns. Liquidity stress tests assume all of the Firm’s contractual financial obligations are met and take into consideration:
+•
+Varying levels of access to unsecured and secured funding markets;
+•
+Estimated non-contractual and contingent cash outflows;
+•
+Credit rating downgrades;
+•
+Collateral haircuts; and
+•
+Potential impediments to the availability and transferability of liquidity between jurisdictions and material legal entities such as regulatory, legal or other restrictions.
+Liquidity outflows are modeled across a range of time horizons and currency dimensions and contemplate both market and idiosyncratic stresses.
+Results of stress tests are considered in the formulation of the Firm’s funding plan and assessment of its liquidity position. The Parent Company acts as a source of funding for the Firm through equity and
+long-term debt issuances, and its intermediate holding company, JPMorgan Chase Holdings LLC (the “IHC”), provides funding to support the ongoing operations of the Parent Company and its subsidiaries. The Firm manages liquidity at the Parent Company, the IHC, and operating subsidiaries at levels sufficient to comply with liquidity risk tolerances and minimum liquidity requirements, and to manage through periods of stress when access to normal funding sources may be disrupted.
+Contingency funding plan
+The Firm’s Contingency Funding Plan (“CFP”) sets out the strategies for addressing and managing liquidity resource needs during a liquidity stress event and incorporates liquidity risk limits, indicators and risk appetite tolerances. The CFP also identifies the alternative contingent funding and liquidity resources available to the Firm and its legal entities in a period of stress.
+LCR and HQLA
+The LCR rule requires that the Firm and JPMorgan Chase Bank, N.A. maintain an amount of eligible HQLA that is sufficient to meet their respective estimated total net cash outflows over a prospective 30 calendar-day period of significant stress. Eligible HQLA, for purposes of calculating the LCR, is the amount of unencumbered HQLA that satisfy certain operational considerations as defined in the LCR rule. HQLA primarily consist of cash and certain high-quality liquid securities as defined in the LCR rule.
+Under the LCR rule, the amount of eligible HQLA held by JPMorgan Chase Bank, N.A. that is in excess of its stand-alone 100% minimum LCR requirement, and that is not transferable to non-bank affiliates, must be excluded from the Firm’s reported eligible HQLA.
+Estimated net cash outflows are based on standardized stress outflow and inflow rates prescribed in the LCR rule, which are applied to the balances of the Firm’s assets, sources of funds, and obligations. The LCR for both the Firm and JPMorgan Chase Bank, N.A. is required to

@@ -1,0 +1,17 @@
+capitalized software, and other intangible assets are stated at cost less accumulated depreciation or amortization. These assets are depreciated over their estimated useful lives using the straight-line method. Equipment on operating leases is depreciated over the terms of the leases using the straight-line method. Property and equipment expenditures for new and revised products, increased capacity, and the replacement or major renewal of significant items are capitalized. Expenditures for maintenance, repairs, and minor renewals are charged to expense as incurred.
+Cash and Cash Equivalents
+We consider investments with purchased maturities of three months or less to be cash equivalents.
+Receivables and Allowances
+All financing and trade receivables are reported on the balance sheet at outstanding principal and accrued interest, adjusted for:
+The allowance is a reduction to the receivable balances, and the provision is recorded in “Selling, administrative and general expenses.” The allowance for credit losses is an estimate of the credit losses expected over the life of our receivable portfolio. Non-performing receivables are included in the estimate of expected credit losses. The allowance is measured on a collective basis for receivables with similar risk characteristics. Receivables that do not share risk characteristics are evaluated on an individual basis. Risk characteristics include:
+​
+We utilize the following loss forecast models to estimate expected credit losses:
+Management reviews each model’s output quarterly, and qualitative adjustments are incorporated as necessary (see Note 11).
+Long-Lived Assets, Goodwill, and Other Intangible Asset Impairment
+We evaluate the carrying value of long-lived assets (including equipment on operating leases, property and equipment, goodwill, and other intangible assets) when events or circumstances warrant such a review. Goodwill and unamortized intangible assets are tested for impairment annually at the end of the third quarter of each fiscal year, and more often if events or circumstances may have caused the fair value to fall below the carrying value. If the carrying value of the long-lived asset is considered impaired, the long-lived asset is written down to its fair value (see Notes 4 and 25).
+Goodwill is allocated and reviewed for impairment by reporting unit. Goodwill is allocated to the reporting unit in which the business that created the goodwill resides. To test for goodwill impairment, the carrying value of each reporting unit is compared with its fair value. If the carrying value of the goodwill is considered impaired, the impairment is measured as the reporting unit’s carrying value minus the fair value.
+51
+Table of Contents
+​
+Derivative Financial Instruments
+It is our policy to use derivative transactions only to manage exposures from the normal course of business. We do not execute derivative transactions for the purpose of creating speculative positions or trading. Our financial services

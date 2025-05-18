@@ -1,0 +1,29 @@
+counterparties.
+The fair value of the debt was determined based on significant other observable inputs, including current interest rates.
+15
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2025
+(Unaudited)
+Note 10 — Financial Instruments, Derivatives and Fair Value Measures (Continued)
+The following table summarizes the bases used to measure certain assets and liabilities at fair value on a recurring basis in the balance sheet:
+The fair value of foreign currency forward exchange contracts is determined using a market approach, which utilizes values for comparable derivative instruments. The fair value of debt was determined based on the face value of the debt adjusted for the fair value of the interest rate swaps, which is based on a discounted cash flow analysis using significant other observable inputs. The fair value of the contingent consideration was determined based on independent appraisals at the time of acquisition, adjusted for the time value of money and other changes in fair value. The increase in the amount of contingent consideration from December 31, 2024 reflects a fair value adjustment for contingent consideration related to a previous business combination.
+The maximum amount for certain contingent consideration is not determinable as it is based on a percent of certain sales. Excluding such contingent consideration, the maximum amount that may be due under the other contingent consideration arrangements was estimated at March 31, 2025 to be $
+59
+million, which is dependent upon attaining certain sales thresholds or upon the occurrence of certain events, such as regulatory approvals.
+16
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2025
+(Unaudited)
+Note 11 — Litigation and Environmental Matters
+Abbott has been identified as a potentially responsible party for investigation and cleanup costs at a number of locations in the United States and Puerto Rico under federal and state remediation laws and is investigating potential contamination at a number of company-owned locations. Abbott has recorded an estimated cleanup cost for each site for which management believes Abbott has a probable loss exposure. No individual site cleanup exposure is expected to exceed $
+4
+million, and the aggregate cleanup exposure is not expected to exceed $
+10
+million.
+Abbott has been named as a defendant in a number of lawsuits alleging that its preterm infant formula and human milk fortifier products that contain cow’s milk cause an intestinal disease known as necrotizing enterocolitis (NEC) and inadequately warn about the risk of NEC. These lawsuits claim that certain preterm infants suffered injury or death as a result of contracting NEC. In a trial held in July 2024, a jury in a Missouri state court awarded a plaintiff $
+495
+million in damages. Abbott stands by its products and the information it

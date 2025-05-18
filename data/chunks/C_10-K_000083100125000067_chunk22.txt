@@ -1,0 +1,31 @@
+operations for Banking below excludes (where noted) the impact of any gain (loss) on hedges of accrual loans, which are non-GAAP financial measures. For a reconciliation of these metrics to the reported results, see the table above.
+2024 vs. 2023
+Net income
+was $1.5 billion, compared to a net loss of $35 million in the prior year, driven by higher revenues, lower expenses and a higher benefit from cost of credit.
+Revenues
+increased 32% (including losses on loan hedges), reflecting higher Investment Banking and Corporate Lending revenues, along with a lower loss on loan hedges ($180 million versus $443 million in the prior year). Excluding the impact of losses on loan hedges,
+Banking
+revenues increased 24%.
+Investment Banking revenues increased 38%, reflecting a 42% increase in investment banking fees, due to a rebound in overall wallet activity and wallet share gains across all products. DCM underwriting fees increased 61%, benefiting from near record debt issuance, particularly in investment grade and higher leveraged finance activity. Advisory fees increased 22%, due to strong announced deal volume from earlier in the year coming to fruition as those transactions closed. Equity underwriting fees increased 38%, due to stronger follow-on and convertibles activity.
+Corporate Lending revenues increased 23%, including the impact of gain (loss) on loan hedges. Excluding the impact of losses on loan hedges, Corporate Lending revenues increased 9%, primarily driven by a smaller impact from the currency devaluation in Argentina.
+Expenses
+decreased 8%, primarily driven by benefits of prior repositioning actions and other actions to lower the
+expense base, partially offset by higher volume-related expenses.
+Provisions
+reflected a benefit of $224 million, compared to a benefit of $143 million in the prior year, primarily driven by an ACL release on other assets.
+The net ACL release was $373 million, compared to a net release of $312 million in the prior year, primarily due to lower transfer risk associated with exposures outside the U.S., driven by safety and soundness considerations under U.S. banking law. The net ACL releases on loans and unfunded lending commitments in 2024 were primarily driven by improved macroeconomic conditions.
+For additional information on Citi’s ACL, see “Significant Accounting Policies and Significant Estimates” below.
+For additional information on
+Banking
+’s
+corporate credit portfolio, see “Managing Global Risk—Credit Risk—Corporate Credit” below.
+For additional information on trends in
+Banking
+’s deposits and loans, see “Managing Global Risk—Credit Risk—Loans” and “Managing Global Risk—Liquidity Risk—Deposits” below.
+For additional information about trends, uncertainties and risks related to
+Banking
+’s future results, see “Executive Summary” above and “Managing Global Risk—Other Risks—Country Risk—Argentina” and “—Russia” below.
+24
+WEALTH
+Wealth
+includes the Private Bank, Wealth at Work and Citigold businesses and provides

@@ -1,0 +1,38 @@
+Unless earlier converted, each share of Mandatory convertible preferred stock will automatically convert on October 15, 2027, into between
+5.8280
+shares and
+6.9940
+shares of our common stock, depending on the applicable market value of the common stock and subject to certain anti-dilution adjustments
+19
+Table of Contents
+described in the certificate of designations related to our Mandatory convertible preferred stock (Certificate of Designations). The applicable market value of our common stock will be determined based on the average volume-weighted average price per share of the common stock over the
+20
+consecutive trading day period beginning on, and including, the
+21
+st scheduled trading day immediately prior to October 15, 2027.
+If a fundamental change, as defined in the Certificate of Designations, occurs on or prior to October 15, 2027, then holders of Mandatory convertible preferred stock will be entitled to convert all or any portion of their shares into shares of our common stock at the fundamental change conversion rate, as defined in the Certificate of Designations, for a specified period of time and also to receive an amount to compensate such holders for unpaid accumulated dividends and any remaining future scheduled dividend payments.
+Other than during a fundamental change conversion period, at any time prior to October 15, 2027, holders of Mandatory convertible preferred stock may elect to convert all or any portion of their shares at a conversion rate of
+5.8280
+shares of common stock per share of Mandatory convertible preferred stock, subject to certain anti-dilution and other adjustments as described in the Certificate of Designations.
+Accumulated Other Comprehensive Loss
+Changes in Accumulated other comprehensive loss (AOCI) by component for the three months ended March 31, 2025 and 2024, were as follows:
+(1)
+Net of tax.
+(2)
+Primarily relates to the amortization of prior service credits and actuarial losses included in net periodic benefit cost for the three months ended March 31, 2025 and 2024 totaling $
+23
+and $
+0
+(net of tax of $
+2
+and $
+0
+).
+Note 15 –
+Derivative Financial Instruments
+Cash Flow Hedges
+Our cash flow hedges include foreign currency forward contracts, commodity swaps and commodity purchase contracts. We use foreign currency forward contracts to manage currency risk associated with certain expected sales and purchases through 2031. We use commodity derivatives, such as fixed-price purchase commitments and swaps to hedge against potentially unfavorable price changes for commodities used in production. Our commodity contracts hedge forecasted transactions through 2028.
+20
+Table of Contents
+Derivative Instruments Not Receiving Hedge Accounting Treatment
+We have entered into agreements to purchase and sell aluminum to address long-term strategic sourcing objectives and non-U.S. business requirements. These agreements are derivative instruments for accounting purposes. The quantities of aluminum in these agreements

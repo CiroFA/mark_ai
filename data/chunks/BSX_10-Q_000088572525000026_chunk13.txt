@@ -1,0 +1,23 @@
+for this transaction as a business combination in accordance with Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) Topic 805,
+Business Combinations
+(FASB ASC Topic 805).
+The preliminary purchase price was comprised of the amount presented below:
+We recorded the assets acquired and liabilities assumed at their respective fair values as of the closing date of the transaction. The preliminary purchase price allocation was comprised of the components presented below, which represent the preliminary determination of the fair value of assets acquired and liabilities assumed, with the excess of the purchase price over the fair value of net identifiable assets acquired recorded to goodwill.
+The final determination of the fair value of certain assets and liabilities will be completed within the measurement period in accordance with FASB ASC Topic 805.
+Goodwill was primarily established due to synergies expected to be gained from leveraging our existing operations, as well as revenue and cash flow projections associated with future technologies, none of which is deductible for tax purposes.
+We allocated a portion of the purchase price to the specific intangible asset categories as follows:
+10
+Table of Contents
+Our technology-related intangible assets consist of technical processes, intellectual property and institutional understanding with respect to products and processes that we intend to leverage in future products or processes. We used the multi-period excess earnings method, a form of the income approach, to derive the fair value of the technology-related intangible assets and are amortizing them on a straight-line basis over their assigned estimated useful lives.
+Contingent Consideration
+Changes in the fair value of our contingent consideration liability during the first quarter of 2025 associated with prior period acquisitions were as follows:
+There were no payments made during the first quarter of 2025. The maximum amount we could be required to pay for certain contingent consideration is not determinable as it is uncapped and based on a percent of certain sales. As of March 31, 2025, the fair value of such uncapped contingent consideration is estimated at $
+151
+million. As of March 31, 2025, the maximum amount that we could be required to pay under our other capped contingent consideration arrangements (undiscounted) is approximately $
+270
+million. Refer to
+Note B – Acquisitions and Strategic Investments
+to our audited financial statements contained in Item 8. Financial Statements and Supplementary Data of our most recent Annual Report on Form 10-K for additional information.
+The recurring Level 3 fair value measurements of our contingent consideration liability that we expect to be required to settle include the following significant unobservable inputs:
+(1)
+Unobservable inputs were weighted by the relative fair value of the contingent consideration liability. For projected year of payment, the amount represents

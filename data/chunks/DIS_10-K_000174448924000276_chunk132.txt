@@ -1,0 +1,23 @@
+equity method investee amounts:
+107
+TABLE OF
+CONTENTS
+Details about AOCI components reclassified to net income are as follows:
+108
+TABLE OF
+CONTENTS
+12
+Equity-Based Compensation
+Under various plans, the Company may grant stock options and other equity-based awards to executive, management, technology and creative personnel. The Company’s approach to long-term incentive compensation contemplates awards of stock options and restricted stock units (RSUs). Certain RSUs awarded to senior executives vest based upon the achievement of market or performance conditions (Performance RSUs).
+Stock options are generally granted with a
+10
+year term at exercise prices equal to or exceeding the market price at the date of grant and become exercisable ratably over a three-year period from the grant date (exercisable ratably over a four-year period from the grant date for awards granted prior to fiscal 2021). At the discretion of the Compensation Committee of the Company’s Board of Directors, options can occasionally extend up to
+15
+years after date of grant. RSUs generally vest ratably over three years (four years for grants awarded prior to fiscal 2021) and Performance RSUs generally fully vest after three years, subject to achieving market or performance conditions. Equity-based award grants generally provide continued vesting, in the event of termination, for employees that reach age 60 or greater, have at least ten years of service and have held the award for at least one year.
+Each share granted subject to a stock option award reduces the number of shares available under the Company’s stock incentive plans by one share while each share granted subject to a RSU award reduces the number of shares available by two shares. As of September 28, 2024, the maximum number of shares available for issuance under the Company’s stock incentive plans (assuming all the awards are in the form of stock options) was approximately
+146
+million shares and the number available for issuance assuming all awards are in the form of RSUs was approximately
+73
+million shares. The Company satisfies stock option exercises and vesting of RSUs with newly issued shares. Stock options and RSUs are generally forfeited by employees who terminate prior to vesting.
+Each year, generally during the first half of the year, the Company awards stock options and restricted stock units to a broad-based group of management, technology and creative personnel. The fair value of options is estimated based on the binomial valuation model. The binomial valuation model takes into account variables such as volatility, dividend yield and the risk-free interest rate. The binomial valuation model also considers the expected exercise multiple (the multiple of exercise price to grant price at which exercises are expected to occur on average) and the termination rate (the probability of a vested option being canceled due to the termination of the option holder) in computing the value of the option.
+The weighted

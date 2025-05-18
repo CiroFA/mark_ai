@@ -1,0 +1,27 @@
+held at third-party custodians related to derivative instruments where an appropriate legal opinion has been obtained. For some counterparties, the collateral amounts of financial instruments may exceed the derivative receivables and derivative payables balances. Where this is the case, the total amount reported is limited to the net derivative receivables and net derivative payables balances with that counterparty.
+(c)
+Derivative collateral relates only to OTC and OTC-cleared derivative instruments.
+(d)
+Net derivatives receivable included cash collateral netted of $
+46.9
+billion and $
+51.9
+billion at March 31, 2025 and December 31, 2024. Net derivatives payable included cash collateral netted of $
+53.8
+billion and $
+60.8
+billion at March 31, 2025 and December 31, 2024, respectively. Derivative cash collateral relates to OTC and OTC-cleared derivative instruments.
+104
+Liquidity risk and credit-related contingent features
+Refer to Note 5 of JPMorganChase’s 2024 Form 10-K for a more detailed discussion of liquidity risk and credit-related contingent features related to the Firm’s derivative contracts.
+The following table shows the aggregate fair value of net derivative payables related to OTC and OTC-cleared derivatives that contain contingent collateral or termination features that may be triggered upon a ratings downgrade, and the associated collateral the Firm has posted in the normal course of business, at March 31, 2025 and December 31, 2024.
+The following table shows the impact of a single-notch and two-notch downgrade of the long-term issuer ratings of JPMorgan Chase & Co. and its subsidiaries, predominantly JPMorgan Chase Bank, N.A., at March 31, 2025 and December 31, 2024, related to OTC and OTC-cleared derivative contracts with contingent collateral or termination features that may be triggered upon a ratings downgrade. Derivatives contracts generally require additional collateral to be posted or terminations to be triggered when the predefined rating threshold is breached. A downgrade by a single rating agency that does not result in a rating lower than a preexisting corresponding rating provided by another major rating agency will generally not result in additional collateral (except in certain instances in which additional initial margin may be required upon a ratings downgrade), nor in termination payment requirements. The liquidity impact in the table is calculated based upon a downgrade below the lowest current rating of the rating agencies referred to in the derivative contract.
+(a)
+Includes the additional collateral to be posted for initial margin.
+(b)
+Amounts represent fair values of derivative payables, and do not reflect collateral posted.
+105
+Impact of derivatives on the Consolidated statements of income
+The following tables provide information related to gains and losses recorded on derivatives based on their hedge accounting designation or purpose.
+Fair value hedge gains and losses
+The following tables present derivative

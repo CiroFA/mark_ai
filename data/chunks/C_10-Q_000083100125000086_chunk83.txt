@@ -1,0 +1,33 @@
+BORROWED, LOANED AND SUBJECT TO REPURCHASE AGREEMENTS
+For additional information on the Company’s resale and repurchase agreements and securities borrowing and lending agreements, see Note 12 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+Securities borrowed and purchased under agreements to resell
+, at their respective carrying values, consisted of the following:
+Securities loaned and sold under agreements to repurchase
+, at their respective carrying values, consisted of the following:
+(1)    The above tables do not include securities-for-securities lending transactions of $
+7.0
+billion and $
+5.2
+billion at March 31, 2025 and December 31, 2024, respectively, where the Company acts as lender and receives securities that can be sold or pledged as collateral. In these transactions, the Company recognizes the securities received at fair value within
+Other assets
+and the obligation to return those securities as a liability within
+Brokerage payables
+.
+(2)     See Note 15.
+117
+The following tables present the gross and net resale and repurchase agreements and securities borrowing and lending agreements and the related offsetting amounts permitted under ASC 210-20-45. The tables also include amounts related to financial instruments that are not permitted to be offset under ASC 210-20-45, but would be eligible for offsetting to the extent that an event of default has occurred and a legal opinion supporting enforceability of the offsetting rights has been obtained. Remaining exposures continue to be secured by financial collateral, but the Company may not have sought or been able to obtain a legal opinion evidencing enforceability of the offsetting right.
+(1)
+Includes financial instruments subject to enforceable master netting agreements that are permitted to be offset under ASC 210-20-45.
+(2)
+Beginning January 1, 2025, excludes amounts relating to accrued interest. Accrued interest receivable on Securities purchased under agreements to resell (reverse repos) is presented in
+Other assets
+and accrued interest payable on Securities sold under agreements to repurchase (repos) is presented in
+Other liabilities
+.
+(3)
+Includes financial instruments subject to enforceable master netting agreements that are not permitted to be offset under ASC 210-20-45, but would be eligible for offsetting to the extent that an event of default has occurred and a legal opinion supporting enforceability of the offsetting right has been obtained.
+(4)
+Remaining exposures continue to be secured by financial collateral, but the Company may not have sought or been able to obtain a legal opinion evidencing enforceability of the offsetting right.
+118
+The following tables present the gross amounts of liabilities associated with repurchase agreements and securities lending agreements by remaining contractual maturity:
+The following tables present the gross amounts of liabilities associated with repurchase agreements and securities lending agreements by class of

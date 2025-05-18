@@ -1,0 +1,17 @@
+accompanying Notes.
+8
+Table of Contents
+Salesforce, Inc.
+Notes to Condensed Consolidated Financial Statements
+1.
+Summary of Business and Significant Accounting Policies
+Description of Business
+Salesforce, Inc. (the “Company”) is a global leader in customer relationship management technology that brings companies and customers together. With the Salesforce platform, the Company delivers a single source of truth, connecting customer data with integrated artificial intelligence (“AI”) across systems, apps and devices to help companies sell, service, market and conduct commerce from anywhere. During the third quarter of fiscal 2025, the Company introduced Agentforce, a new layer of the trusted Salesforce platform that enables companies to build and deploy AI agents that can respond to inputs, make decisions and take action autonomously across business functions. Agentforce includes a suite of customizable agents for use across sales, service, marketing and commerce. Since its founding in 1999, the Company has pioneered innovations in cloud, mobile, social, analytics and AI, enabling companies of every size and industry to transform their businesses in the digital-first world.
+Fiscal Year
+The Company’s fiscal year ends on January 31. References to fiscal 2025, for example, refer to the fiscal year ending January 31, 2025.
+Basis of Presentation
+The accompanying condensed consolidated balance sheet as of October 31, 2024 and the condensed consolidated statements of operations, comprehensive income, stockholders' equity and cash flows for the three and nine months ended October 31, 2024 and 2023, respectively, are unaudited.
+These financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”) for interim financial information. Accordingly, they do not include all of the financial information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of the Company’s management, the unaudited condensed consolidated financial statements include all adjustments necessary for the fair presentation of the Company’s balance sheet as of October 31, 2024 and its results of operations, including its comprehensive income, stockholders' equity and cash flows for the three and nine months ended October 31, 2024 and 2023. All adjustments are of a normal recurring nature. The results for the three and nine months ended October 31, 2024 are not necessarily indicative of the results to be expected for any subsequent quarter or for the fiscal year ending January 31, 2025.
+These unaudited interim condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and related notes included in the Company's Annual Report on Form 10-K for the fiscal year ended January 31, 2024, filed with the Securities and Exchange Commission (the “SEC”) on March 6, 2024.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP

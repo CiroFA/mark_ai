@@ -1,0 +1,22 @@
+compared to $7,375 million for the fiscal quarter ended February 4, 2024. The increase was primarily due to higher software revenue and strong product demand for our AI semiconductor solutions.
+As a percentage of net revenue, gross margin was 68% and 62% of net revenue for the fiscal quarters ended February 2, 2025 and February 4, 2024, respectively. The increase was primarily due to higher software revenue and lower amortization of acquisition-related intangible assets as a percentage of revenue.
+Research and Development Expense
+Research and development expense decreased $55 million, or 2% for the fiscal quarter ended February 2, 2025 compared to the prior year fiscal period. The decrease was primarily due to lower compensation resulting from a decrease in headcount and lower stock-based compensation.
+Selling, General and Administrative Expense
+Selling, general and administrative expense decreased $623 million, or 40% for the fiscal quarter ended February 2, 2025 compared to the prior year fiscal period. The decrease was primarily due to lower compensation resulting from a decrease in headcount and lower stock-based compensation.
+In addition, in the prior year fiscal period,
+we incurred higher VMware acquisition-related costs.
+Amortization of Acquisition-Related Intangible Assets
+Amortization of acquisition-related intangible assets recognized in operating expenses decreased $281 million, or 35% for the fiscal quarter ended February 2, 2025 compared to the prior year fiscal period primarily due to full amortization of customer-related intangible assets from previous software acquisitions other than VMware.
+Restructuring and Other Charges
+Restructuring and other charges recognized in operating expenses decreased $448 million, or 72% for the fiscal quarter ended February 2, 2025 compared to the prior year fiscal period primarily due to lower employee termination costs associated with the integration of the VMware business.
+24
+Tab
+le of Contents
+Stock-Based Compensation Expense
+Total stock-based compensation expense was $1,280 million and $1,572 million for the fiscal quarters ended February 2, 2025, and February 4, 2024, respectively. The decrease was primarily due to the full vesting and forfeitures of certain equity awards assumed in the VMware acquisition, partially offset by
+December 2023 VMware inducement grants and March 2024 annual employee equity grants at higher grant-date fair values
+.
+The following table sets forth the total unrecognized compensation cost related to unvested stock-based awards outstanding and expected to vest as of February 2, 2025. The remaining weighted-average service period was 2.9 years.
+Segment Operating Results
+Operating income from our semiconductor solutions segment increased for the fiscal quarter ended February 2, 2025 compared to the prior year fiscal period due to strong demand for our networking products, primarily AI networking solutions, partially offset by lower demand for our non-AI solutions,

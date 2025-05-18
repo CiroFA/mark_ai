@@ -1,0 +1,99 @@
+gaap:CarryingReportedAmountFairValueDisclosureMember
+cat:FinancialProductsMember
+2024-12-31
+0000018230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+cat:FinancialProductsMember
+2024-12-31
+0000018230
+us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember
+2025-03-31
+0000018230
+us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember
+2024-12-31
+0000018230
+us-gaap:EmployeeSeveranceMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:EmployeeSeveranceMember
+2024-01-01
+2024-03-31
+0000018230
+cat:DivestitureMember
+2025-01-01
+2025-03-31
+0000018230
+cat:DivestitureMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:ContractTerminationMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:ContractTerminationMember
+2024-01-01
+2024-03-31
+0000018230
+cat:LonglivedassetimpairmentsMember
+2025-01-01
+2025-03-31
+0000018230
+cat:LonglivedassetimpairmentsMember
+2024-01-01
+2024-03-31
+0000018230
+us-gaap:OtherRestructuringMember
+2025-01-01
+2025-03-31
+0000018230
+us-gaap:OtherRestructuringMember
+2024-01-01
+2024-03-31
+0000018230
+srt:MinimumMember
+2025-03-31
+0000018230
+srt:MaximumMember
+2025-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                    to
+Commission File Number:
+1-768
+CATERPILLAR INC
+.
+(Exact name of registrant as specified in its charter)
+Registrant’s telephone number, including area code:
+(
+972
+)
+891-7700
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report:
+N/A
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and  “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or

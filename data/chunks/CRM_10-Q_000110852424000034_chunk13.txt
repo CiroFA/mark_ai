@@ -1,0 +1,27 @@
+requires management to make estimates and assumptions in the Company’s condensed consolidated financial statements and notes thereto.
+Significant estimates and assumptions made by management include the determination of:
+•
+the standalone selling price (“SSP”) of performance obligations for revenue contracts with multiple performance obligations;
+•
+the valuation of privately-held strategic investments;
+•
+the fair value of assets acquired and liabilities assumed for business combinations;
+•
+the recognition, measurement and valuation of current and deferred income taxes and uncertain tax positions;
+•
+the useful lives of intangible assets; and
+•
+the fair value of certain stock awards issued.
+Actual results could differ materially from these estimates. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable, which forms the basis for making judgments about the carrying values of assets and liabilities as well as income and expenses to be recognized.
+Principles of Consolidation
+The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All significant intercompany balances and transactions have been eliminated in consolidation.
+9
+Table of Contents
+Segments
+The Company operates as
+one
+operating segment. Operating segments are defined as components of an enterprise for which separate financial information is evaluated regularly by the chief operating decision maker (“CODM”) in deciding how to allocate resources and assess performance. Over the past few years, the Company has completed a number of acquisitions which have allowed the Company to expand its offerings, presence and reach in various market segments of the enterprise cloud computing market. While the Company has offerings in multiple enterprise cloud computing market segments, including as a result of the Company's acquisitions, and operates in multiple countries, the Company’s business operates in
+one
+operating segment because most of the Company's service offerings operate on the Salesforce platform and are deployed in a nearly identical manner, and the Company’s CODM evaluates the Company’s financial information and resources, and assesses the performance of these resources, on a consolidated basis.
+Concentrations of Credit Risk, Significant Customers and Investments
+The Company’s financial instruments that are exposed to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities and accounts receivable. The Company monitors and manages the overall exposure of its cash balances to individual financial institutions on an ongoing basis. The Company’s marketable securities portfolio consists primarily of investment-grade securities and the Company’s policies limit the amount of credit exposure to any one issuer. The Company does not require collateral for accounts receivable. The Company maintains an allowance for its doubtful

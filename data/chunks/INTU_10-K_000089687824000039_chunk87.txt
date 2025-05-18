@@ -1,0 +1,17 @@
+development costs as we incur them until technological feasibility has been established, at which time those costs are capitalized until the product is available for general release to customers. To date, our software has been available for general release concurrent with the establishment of technological feasibility and, accordingly, we have not capitalized any development costs. Costs we incur to enhance our existing products or after the general release of the service using the product are expensed in the period they are incurred and included in research and development expense in our consolidated statements of operations.
+We capitalize costs related to the development of hosted services that we provide to our customers and internal use of enterprise-level business and finance software in support of our operational needs. Costs incurred in the application development phase are capitalized and amortized on a straight-line basis over their useful lives, which are generally
+three
+to
+six years
+. Costs related to planning and other preliminary project activities and to post-implementation activities are expensed as incurred. We test these assets for impairment whenever events or changes in circumstances occur that could impact their recoverability.
+Tables of Contents
+We expense all advertising costs as we incur them to selling and marketing expense in our consolidated statements of operations. We recorded advertising expense of approximately $
+1.7
+billion for the twelve months ended July 31, 2024, $
+1.5
+billion for the twelve months ended July 31, 2023, and $
+1.6
+billion for the twelve months ended July 31, 2022.
+Our leases are primarily operating leases for office facilities. We determine if an arrangement is a lease and classify it as either a finance or operating lease at lease inception. Operating leases are included in operating lease right-of-use (ROU) assets, other current liabilities, and operating lease liabilities on our consolidated balance sheets.
+Operating lease liabilities are recognized at the lease commencement date based on the present value of the future minimum lease payments over the lease term. Our leases generally do not have a readily determinable implicit rate, therefore we use our incremental borrowing rate at the commencement date in determining the present value of future payments. Our incremental borrowing rate is determined based on a yield curve derived from publicly traded bond offerings for companies with similar credit ratings to ours. Our lease terms may include options to purchase, extend, or terminate the lease when it is reasonably certain that we will exercise that option. We account for the lease and non-lease components as a single lease component.
+We measure ROU assets based on the corresponding lease liabilities adjusted for any initial direct costs and prepaid lease payments made to the lessor before or at the commencement date, net of lease incentives. Lease expense for minimum lease payments is

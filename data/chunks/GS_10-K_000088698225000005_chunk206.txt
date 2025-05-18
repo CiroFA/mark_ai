@@ -1,0 +1,37 @@
+levels and trends of market indices, such as the CDX (an index that tracks the performance of corporate credit);
+•
+Current performance and recovery assumptions and, where the firm uses credit default swaps to value the related instrument, the cost of borrowing the underlying reference obligation;
+•
+Duration; and
+•
+Market and transaction multiples for corporate debt instruments with convertibility or participation options.
+Equity Securities
+Equity securities consists of private equities. Recent third-party completed or pending transactions (e.g., merger proposals, debt restructurings, tender offers) are considered the best evidence for any change in fair value. When these are not available, the following valuation methodologies are used, as appropriate:
+•
+Industry multiples (primarily EBITDA and revenue multiples) and public comparables;
+•
+Transactions in similar instruments;
+•
+Discounted cash flow techniques; and
+•
+Third-party appraisals.
+The firm also considers changes in the outlook for the relevant industry and financial performance of the issuer as compared to projected performance. Significant inputs include:
+•
+Market and transaction multiples;
+•
+Discount rates and capitalization rates; and
+•
+For equity securities with debt-like features, market yields implied by transactions of similar or related assets, current performance and recovery assumptions, and duration.
+Other Trading Cash Instruments, Investments and Loans
+The significant inputs to the valuation of other trading cash instruments, investments and loans are generally determined based on relative value analyses, which incorporate comparisons both to prices of credit default swaps that reference the same or similar underlying instrument or entity and to other debt instruments for the same issuer for which observable prices or broker quotations are available. Significant inputs include:
+•
+Market yields implied by transactions of similar or related assets and/or current levels and trends of market indices;
+•
+Current performance and recovery assumptions and, where the firm uses credit default swaps to value the related instrument, the cost of borrowing the underlying reference obligation; and
+•
+Duration.
+Valuation Techniques and Significant Inputs for Derivatives
+The firm’s level 2 and level 3 derivatives are valued using derivative pricing models (e.g., discounted cash flow models, correlation models and models that incorporate option pricing methodologies, such as Monte Carlo simulations). Price transparency of derivatives can generally be characterized by product type, as described below.
+•
+Interest Rate.
+In general, the key inputs used to value interest rate derivatives are transparent, even for most long-dated contracts. Interest rate swaps and options denominated in the currencies of leading industrialized nations are characterized by high trading volumes and tight bid/offer spreads. Interest rate derivatives that reference indices, such as an inflation index, or the shape of the

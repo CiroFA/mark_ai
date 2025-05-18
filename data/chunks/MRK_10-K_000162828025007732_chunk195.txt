@@ -1,0 +1,17 @@
+acquisition, have not reached technological feasibility. Amounts capitalized as IPR&D are accounted for as indefinite-lived intangible assets, subject to impairment testing until completion or abandonment of the projects. Upon successful completion of each IPR&D project, the Company will make a separate determination as to the then-useful life of the asset and begin amortization.
+In 2023, the Company recorded a $
+779
+million IPR&D impairment charge within
+Research and development
+expenses related to MK-7264, gefapixant, a non-narcotic, oral selective P2X3 receptor antagonist, that was in development for the treatment of refractory or unexplained chronic cough in adults. In December 2023, the FDA issued a Complete Response Letter (CRL) regarding the resubmission of Merck’s New Drug Application (NDA) for gefapixant. In the CRL, the FDA concluded that Merck’s application did not meet substantial evidence of effectiveness for treating refractory chronic cough and unexplained chronic cough. The CRL was not related to the safety of gefapixant. The marketing application for gefapixant was based on results from the COUGH-1 and COUGH-2 clinical trials. In January 2022, the FDA issued a CRL regarding Merck’s original NDA for gefapixant. In that CRL, the FDA requested additional information related to the cough counting system that was used to assess efficacy. Receipt of the second CRL from the FDA constituted a triggering event that required the evaluation of the gefapixant intangible asset for impairment. The Company estimated the current fair value of gefapixant utilizing an income approach, which calculates the present value of projected future cash flows. The market participant assumptions used to derive the forecasted cash flows were updated to reflect revised market launch plans, resulting in a reduction in the estimated fair value. The revised estimated fair value of gefapixant when compared with its related carrying value resulted in the impairment charge noted above. The remaining intangible asset balance related to
+Lyfnua
+(gefapixant) at December 31, 2024 of $
+21
+million is included in product rights in the table above and is being amortized over its expected useful life as supported by projected future cash flows in the markets where it is approved including Japan and the EU.
+In 2022, the Company recorded $
+1.7
+billion of intangible asset impairment charges within
+Research and development
+expenses, of which $
+1.6
+billion represents IPR&D impairment charges related to nemtabrutinib (MK-1026), an oral, reversible, non-covalent Bruton’s tyrosine kinase (BTK) inhibitor currently being evaluated for the treatment of hematological malignancies that was obtained through the 2020 acquisition of ArQule. Following discussions with regulatory authorities in the third quarter of 2022, the development period for nemtabrutinib was extended, which constituted a triggering event that required the evaluation of the nemtabrutinib intangible asset for impairment.

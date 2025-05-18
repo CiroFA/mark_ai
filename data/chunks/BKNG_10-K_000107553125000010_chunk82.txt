@@ -1,0 +1,25 @@
+Accounting and Financial Disclosure
+None.
+Item 9A.  Controls and Procedures
+42
+Disclosure Controls and Procedures
+. Under the supervision and with the participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of our disclosure controls and procedures, as defined under Exchange Act Rule 13a-15(e). Based on this evaluation, our principal executive officer and our principal financial officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this Annual Report on Form 10-K.
+Management's Report on Internal Control Over Financial Reporting.
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in the
+Internal Control - Integrated Framework (2013)
+issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+Based on our evaluation, our management concluded that our internal control over financial reporting was effective as of
+December 31, 2024
+. Our independent registered public accounting firm also attested to and reported on the effectiveness of internal control over financial reporting.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+Changes in Internal Controls.
+We continue to monitor changes related to the ongoing implementation of the integration and upgrade of financial systems and processes to determine the impact on internal control over financial reporting (as such term is defined in Exchange Act Rule 13a-15(f)). No change in our internal control over financial reporting occurred during the three months ended December 31, 2024 that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+43
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of Booking Holdings Inc.
+Opinion on Internal Control over Financial Reporting
+We have audited the internal control over financial reporting of Booking Holdings Inc. and subsidiaries (the "Company") as of
+December 31, 2024
+, based on criteria established in
+Internal Control - Integrated Framework (2013)
+issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over

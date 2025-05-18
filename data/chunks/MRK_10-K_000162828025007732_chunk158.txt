@@ -1,0 +1,19 @@
+actuarial assumptions, are recorded as a component of
+AOCL
+. Expected returns for pension plans are based on a calculated market-related value of assets. Net gain/loss amounts in
+AOCL
+in excess of certain thresholds are amortized into net periodic benefit cost over the average remaining service life of employees.
+Restructuring Costs
+Restructuring costs have been recorded in connection with restructuring program activities. As a result, the Company has made estimates and judgments regarding its future plans, including future employee termination costs to be incurred in conjunction with involuntary separations when such separations are probable and estimable. When accruing termination costs, the Company will recognize the amount within a range of costs that is the best estimate within the range. When no amount within the range is a better estimate than any other amount, the Company recognizes the minimum amount within the range. In connection with these actions, management also assesses the recoverability of long-lived assets employed in the business. In certain instances, asset lives have been shortened based on changes in the expected useful lives of the affected assets. Severance and employee-related costs, as well as other costs, such as facility shut-down costs, are reflected within
+Restructuring costs
+. Asset-related charges are reflected within
+Cost of sales
+,
+Selling, general and administrative
+expenses and
+Research and development
+expenses depending upon the nature of the asset.
+Impairments of Long-Lived Assets
+The Company assesses changes in economic, regulatory and legal conditions and makes assumptions regarding estimated future cash flows in evaluating the value of the Company’s property, plant and equipment, goodwill and other intangible assets.
+The Company periodically evaluates whether current facts or circumstances indicate that the carrying values of its long-lived assets to be held and used may not be recoverable. If such circumstances are determined to exist, an estimate of the undiscounted future cash flows of these assets, or appropriate asset groupings, is compared to the carrying value to determine whether an impairment exists. If the asset is determined to be impaired, the loss is measured based on the difference between the asset’s fair value and its carrying value. If quoted market prices are not available, the Company will estimate fair value using a discounted value of estimated future cash flows approach.
+Goodwill represents the excess of the consideration transferred over the fair value of net assets acquired in a business combination. Goodwill is assigned to reporting units and evaluated for impairment at least annually, or more frequently if impairment indicators exist, by first assessing qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. Some of the factors considered in the assessment include general macroeconomic

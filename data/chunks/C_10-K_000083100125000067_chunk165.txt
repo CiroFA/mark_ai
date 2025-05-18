@@ -1,0 +1,29 @@
+, a component of stockholders’ equity, net of applicable income taxes and hedges.
+•
+Interest income on HTM and AFS debt securities is included in
+Interest revenue
+. Accrued interest on these securities is subject to the Company’s non-accrual policy, which results in the timely write-off of uncollectible accrued interest.
+Debt securities are subject to evaluation for impairment as described in Note 16 for HTM securities and in Note 14 for AFS securities. Realized gains and losses on sales of investments are included in earnings, primarily on a specific identification basis.
+Equity Securities
+•
+Marketable equity securities are measured at fair value with changes in fair value recognized in earnings.
+•
+Non-marketable equity securities are measured at fair value with changes in fair value recognized in earnings unless (i) the measurement alternative is elected or (ii) the investment represents Federal Reserve Bank and Federal Home Loan Bank stock or certain exchange seats that continue to be carried at cost. Non-marketable equity securities under the measurement alternative are carried at cost less impairment (if any), plus or minus changes resulting from observed prices for orderly transactions for the identical or a similar investment of the same issuer.
+•
+Equity securities that are not measured at fair value through earnings are subject to evaluation for impairment as described in Note 14.
+•
+Certain investments that would otherwise have been accounted for using the equity method are carried at fair value with changes in fair value recognized in earnings, where the Company has elected to apply fair value accounting, as described in Note 27.
+•
+The Company uses a number of valuation techniques for investments carried at fair value, which are described in Note 26.
+Trading Account Assets and Liabilities
+Trading account assets
+include debt and marketable equity securities, derivatives in a receivable position, residual interests in securitizations and physical commodities inventory. In addition, as described in Note 27, certain assets that Citigroup has elected to carry at fair value under the fair value option, such as loans and purchased guarantees, are also included in
+Trading account assets
+.
+Trading account liabilities
+include securities sold, not yet purchased (short positions) and derivatives in a net payable position, as well as certain liabilities that Citigroup has elected to carry at fair value (as described in Note 27).
+Other than physical commodities inventory, all trading account assets and liabilities are carried at fair value. Revenues generated from trading assets and trading liabilities are generally reported in
+Principal transactions
+and include realized gains and losses as well as unrealized gains and losses resulting from changes in the fair value of such instruments. Interest income on trading assets, other than trading securities, is recorded in
+Interest revenue
+reduced by interest expense on trading liabilities. Interest income

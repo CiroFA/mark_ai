@@ -1,0 +1,29 @@
+addition, it is possible that significantly increased merchant steering or other actions impairing the Card Member experience as a result of an adverse resolution in one or any combination of the disclosed merchant cases could have a material adverse effect on our business and results of operations.
+58
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+8.
+Derivatives and Hedging Activities
+We use derivative financial instruments to manage exposures to various market risks. These instruments derive their value from an underlying variable or multiple variables, including interest rates and foreign exchange rates, and are carried at fair value on the Consolidated Balance Sheets. These instruments enable end users to increase, reduce or alter exposure to various market risks and, for that reason, are an integral component of our market risk management. We do not transact in derivatives for trading purposes.
+A majority of our derivative assets and liabilities as of March 31, 2025 and December 31, 2024 are subject to master netting agreements with our derivative counterparties. Accordingly, where appropriate, we have elected to present derivative assets and liabilities with the same counterparty on a net basis in the Consolidated Balance Sheets.
+In relation to our credit risk, certain of our bilateral derivative agreements include provisions that allow our counterparties to terminate the relevant agreement in the event of a downgrade of our debt credit rating below investment grade and settle the outstanding net liability position. As of March 31, 2025, these derivatives were not in a material net liability position. Based on our assessment of the credit risk of our derivative counterparties and our own credit risk as of March 31, 2025 and December 31, 2024,
+no
+credit risk adjustment to the derivative portfolio was required.
+The following table summarizes the total fair value, excluding interest accruals, of derivative assets and liabilities as of March 31, 2025 and December 31, 2024:
+Table 8.1: Fair Value of Derivative Assets and Liabilities
+(a)
+For our centrally cleared derivatives, variation margin payments are legally characterized as settlement payments as opposed to collateral.
+(b)
+Represents the amount of netting of derivative assets and derivative liabilities executed with the same counterparty under an enforceable master netting arrangement.
+(c)
+Represents the offsetting of the fair value of bilateral interest rate contracts and certain foreign exchange contracts with the right to cash collateral held from the counterparty or cash collateral posted with the counterparty.
+We posted $
+464
+million and $
+368
+million as of March 31, 2025 and December 31, 2024, respectively, as initial margin on our centrally cleared interest rate swaps; such amounts are recorded within Other assets on the Consolidated Balance Sheets and are not netted against the derivative balances.
+59
+Table of Contents
+AMERICAN

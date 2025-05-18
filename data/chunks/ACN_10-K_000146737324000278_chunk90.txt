@@ -1,0 +1,49 @@
+compensation is as follows:
+Restricted Share Units
+Under the Amended 2010 SIP, participants may be, and previously under the predecessor 2001 Share Incentive Plan were, granted restricted share units, each of which represent an unfunded, unsecured right to receive an Accenture plc Class A ordinary share on the date specified in the participant’s award agreement. The fair value of the awards is based on our stock price on the date of grant. The restricted share units granted under these plans are subject to cliff or graded vesting, generally ranging from
+two
+to
+five years
+. For awards with graded vesting, compensation expense is recognized over the vesting term of each separately vesting portion. Compensation expense is recognized on a straight-line basis for awards with cliff vesting.
+Restricted share unit activity during fiscal 2024 is as follows:
+(1)
+The weighted average grant-date fair value for restricted share units granted for fiscal 2024, 2023 and 2022 was $
+341.78
+, $
+267.37
+and $
+387.73
+, respectively.
+(2)
+The total grant-date fair value of restricted share units vested for fiscal 2024, 2023 and 2022 was $
+1,726,373
+, $
+1,716,464
+and $
+1,343,403
+, respectively.
+As of August 31, 2024, there was $
+1,652,741
+of total unrecognized restricted share unit compensation expense related to nonvested awards, which is expected to be recognized over a weighted average period of
+1.1
+years. As of August 31, 2024, there were
+406,596
+restricted share units vested but not yet delivered as Accenture plc Class A ordinary shares.
+Employee Share Purchase Plan
+2010 ESPP
+The Amended and Restated Accenture plc 2010 Employee Share Purchase Plan (the “2010 ESPP”) is a nonqualified plan that provides eligible employees of Accenture plc and its designated affiliates with an opportunity to purchase Accenture plc Class A ordinary shares through payroll deductions. Under the 2010 ESPP, eligible employees may purchase Accenture plc Class A ordinary shares through the Employee Share Purchase Plan (the “ESPP”) or the Voluntary Equity Investment Program (the “VEIP”). Under the ESPP, eligible employees may elect to contribute
+1
+% to
+10
+% of their eligible compensation during each semi-annual offering period (up to $
+7.5
+per offering period) to purchase Accenture plc Class A ordinary shares at a discount. Under the VEIP, eligible members of Accenture Leadership may elect to contribute up to
+30
+% of their eligible compensation towards the monthly purchase of Accenture plc Class A ordinary shares at fair market value. At the end of the VEIP program year, Accenture Leadership participants who did not withdraw from the program will be granted restricted share units under the Amended 2010 SIP equal to
+50
+% of the number of shares purchased during that year and held by the participant as of the grant date.
+A maximum of
+135,000,000
+Accenture plc Class A ordinary shares may be issued under the 2010 ESPP. As of August 31, 2024, we had issued
+84,424,032
+Accenture plc Class A ordinary

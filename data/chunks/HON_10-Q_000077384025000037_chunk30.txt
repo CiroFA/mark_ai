@@ -1,0 +1,25 @@
+FAIR VALUE MEASUREMENTS
+The accounting guidance for fair value measurements and disclosures establishes a three-level fair value hierarchy:
+•
+Level 1 - Inputs are based on quoted prices in active markets for identical assets and liabilities.
+•
+Level 2 - Inputs are based on observable inputs other than quoted prices in active markets for identical or similar assets and liabilities.
+•
+Level 3 - One or more inputs are unobservable and significant.
+The Company classifies financial and nonfinancial assets and liabilities in their entirety based on the lowest level of input that is significant to the fair value measurement.
+The following table sets forth the Company’s financial assets and liabilities accounted for at fair value on a recurring basis:
+The Company values foreign currency exchange contracts, interest rate swap agreements, cross currency swap agreements, and commodity contracts using broker quotations, or market transactions in either the listed or over-the-counter markets. These derivative instruments are classified within level 2. The Company also holds investments in commercial paper, certificates of deposits, time deposits, and corporate debt securities that are designated as available for sale. These investments are valued using published prices based on observable market data. These investments are classified within level 2.
+The Company holds certain available for sale investments in U.S. government securities and investments in equity securities. The Company values these investments utilizing published prices based on quoted market pricing, which are classified within level 1.
+The carrying value of cash and cash equivalents, trade accounts and notes receivables, payables, commercial paper, and other short-term borrowings contained in the Consolidated Balance Sheet approximates fair value.
+The following table sets forth the Company’s financial assets and liabilities that were not carried at fair value:
+The Company determined the fair value of the long-term receivables by utilizing transactions in the listed markets for identical or similar assets. As such, the fair value of these receivables is considered level 2.
+22
+Honeywell International Inc.
+TABLE OF CONTENTS
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+(Dollars in tables in millions, except per share amounts)
+The Company determined the fair value of the long-term debt and related current maturities by utilizing transactions in the listed markets for identical or similar liabilities. As such, the fair value of the long-term debt and related current maturities is considered level 2.
+As of March 31, 2025, and December 31, 2024,
+the Company measured the disposal group of the PPE business at fair value, less costs to sell. The fair value of the disposal group was determined using significant unobservable inputs based on expected proceeds to be received upon the sale of the business. As such, the fair value of the disposal group is considered

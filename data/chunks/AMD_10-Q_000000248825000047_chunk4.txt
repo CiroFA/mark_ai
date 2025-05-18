@@ -1,0 +1,32 @@
+discrete GPUs, and semi-custom SoC products and development services; and
+•
+the Embedded segment, which primarily includes embedded CPUs, GPUs, APUs, FPGAs, System on Modules (SOMs), and Adaptive SoC products.
+From time to time, the Company may also sell or license portions of its IP portfolio.
+In addition to these reportable segments, the Company has an All Other category, which is not a reportable segment. This category primarily includes certain expenses and credits that are not allocated to any of the reportable segments because the CODM does not consider these expenses and credits in evaluating the performance of the reportable segments. This category primarily includes amortization of acquisition-related intangibles, employee stock-based compensation expense, acquisition-related and other costs, inventory loss at contract manufacturer, and restructuring charges. Acquisition-related and other costs primarily include certain compensation charges and transaction costs.
+11
+Table of Contents
+The following table provides a summary of net revenue, cost of sales and operating expenses, and operating income (loss) by segment. Segment cost of sales and operating expenses primarily include materials, external manufacturing, labor and marketing and advertising costs, and exclude expenses and credits that are recorded within the All Other category. Each of the Client and Gaming businesses do not qualify as a reportable operating segment, however, the Company continues to separately disclose revenue for each business.
+12
+Table of Contents
+NOTE 5 –
+Goodwill and Acquisition-related Intangibles, net
+Goodwill
+In the first quarter of fiscal year 2025, the Company assigned goodwill to its updated reporting units to reflect the change in its segment reporting structure. The Company performed a goodwill impairment test immediately prior to and after the segment change and determined that no indicators of impairment to goodwill existed. The carrying amount of goodwill was reassigned as follows:
+Acquisition-related Intangibles, net
+The following table summarizes Acquisition-related Intangibles Assets:
+Acquisition-related intangible amortization expense was $
+567
+million and $
+622
+million for the three months ended March 29, 2025 and March 30, 2024, respectively.
+Based on the carrying value of acquisition-related intangibles recorded as of March 29, 2025, and assuming no subsequent impairment of the underlying assets, the estimated annual amortization expense for acquisition-related intangibles is expected to be as follows:
+13
+Table of Contents
+NOTE 6 –
+Related Party — Equity Joint Ventures
+ATMP Joint Ventures
+The Company holds a
+15
+% equity interest in
+two
+joint ventures (collectively, the ATMP JV) with affiliates of Tongfu Microelectronics Co., Ltd, a Chinese joint stock company. The Company has no obligation to fund the ATMP JV. The Company accounts for its equity interests in the ATMP JV under the equity method of accounting due to its significant influence

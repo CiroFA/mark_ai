@@ -1,0 +1,17 @@
+(2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Sales Incentives — Refer to Note 2 to the financial statements
+Critical Audit Matter Description
+The Company provides retail discount or financing sales incentives programs to dealers that are due when the dealer sells the equipment to a retail customer.
+The estimated cost of these programs is based on:
+At the time a sale is recognized, the Company records an estimate of the sales incentive costs. The final cost is determined at the time of the retail sale.
+There are numerous programs available at any time, and new programs may be announced after the Company records the equipment sale to the dealer. Changes in the mix and types of sales incentive programs affect these estimates, which are reviewed quarterly. Actual cost differences from the original cost estimate are recognized in “Net sales.” A key assumption is the predictive value of the historical percentage of retail sales incentive costs to retail sales.
+We identified the United States and Canada retail sales incentive accrual as a critical audit matter because estimating sales incentive costs requires significant judgment by management and changes in historical percentage of sales incentive costs to retail sales by dealers could have a material impact on the sales incentive accrual. Auditing management’s assumptions about the predictive nature of historical sales incentive costs involves a high degree of auditor judgment and an increased extent of effort to evaluate the reasonableness of management’s estimates.
+80
+Table of Contents
+​
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to testing management’s assumption that historical sales incentive costs are predictive of future incentive costs included the following, among others:
+Allowance for Credit Losses – Refer to Notes 2 and 11 to the financial statements
+Critical Audit Matter Description
+The allowance for credit losses is an estimate of the credit losses expected over the life of the Company’s receivable portfolio. Non-performing receivables are included in the estimate of expected credit losses. The allowance is measured on a collective basis for receivables with similar risk characteristics. Receivables that do not share risk characteristics are evaluated on an individual basis. Risk characteristics include:
+The Company utilizes linear regression models to estimate the expected credit losses for large and complex retail customer receivable pools, which represent more than 90 percent of retail customer receivables. These statistical models utilize independent variables, or predictive features, to estimate lifetime

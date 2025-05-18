@@ -1,0 +1,33 @@
+to expire at various points through
+2032
+. Further extensions of such terms may be implemented under given circumstances.
+For financial reporting purposes, when applicable, the general partners record a liability for potential clawback obligations to the limited partners of some of the funds due to changes in the unrealized value of a fund’s remaining investments and where the fund’s general partner has previously received Performance Allocation distributions with respect to such fund’s realized investments.
+The following table presents the clawback obligations by segment:
+During the year ended December 31, 2024, the Blackstone general partners paid an interim cash clawback obligation of $
+2.1
+million related to a Private Equity segment fund, of which $
+1.2
+million was paid by Blackstone Holdings and $
+0.9
+million by current and former Blackstone personnel.
+For Private Equity, Real Estate, and certain Credit & Insurance Funds, a portion of the Performance Allocations paid to current and former Blackstone personnel is held in segregated accounts in the event of a cash clawback obligation. These segregated accounts are not included in the Consolidated Financial Statements of Blackstone, except to the extent a portion of the assets held in the segregated accounts may be allocated to a consolidated Blackstone fund of hedge funds. At December 31, 2024, $
+1.1
+billion was held in segregated accounts for the purpose of meeting any clawback obligations of current and former personnel if such payments are
+required.
+214
+Table of Contents
+Blackstone Inc.
+Notes to Consolidated Financial Statements—Continued
+(All Dollars are in Thousands, Except Share and Per Share Data, Except Where Noted)
+In the Credit & Insurance segment, payment of Performance Allocations to Blackstone by the majority of the stressed/distressed, mezzanine and credit alpha strategies funds are substantially deferred under the terms of the partnership agreements. This deferral mitigates the need to hold funds in segregated accounts in the event of a cash clawback obligation.
+If, at
+December 31, 2024, all of the investments held by Blackstone’s carry funds were deemed worthless, a possibility that management views as remote, the amount of Performance Allocations subject to potential clawback would be $
+7.3
+billion, on an after-tax basis where applicable, of which Blackstone Holdings is potentially liable for $
+6.7
+billion if current and former Blackstone personnel default on their share of the liability, a possibility that management also views as remote.
+19. Segment Reporting
+Blackstone conducts its alternative asset management businesses through four segments:
+These business segments are differentiated by their various investment strategies. Each of the segments primarily earns its income from management fees and investment returns on assets under management. Blackstone’s chief operating decision makers are its Chief Executive Officer and
+Co-Founder
+and its President and Chief Operating

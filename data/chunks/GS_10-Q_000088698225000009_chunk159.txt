@@ -1,0 +1,16 @@
+assist the Firmwide Technology Risk Committee in carrying out its mandate, the Firmwide Artificial Intelligence Risk and Controls Committee, which oversees risks associated with the use of artificial intelligence (AI), reports to the Firmwide Technology Risk Committee
+.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+•
+Firmwide Compliance and Operational Risk Committee.
+The Firmwide Compliance and Operational Risk Committee is responsible for overseeing compliance and operational risk. This committee is co-chaired by our chief administrative officer for EMEA, our head of Operational Risk, and our chief compliance officer, who are appointed as chairs by the chairs of the Firmwide Enterprise Risk Committee.
+•
+Firmwide Risk Appetite Committee.
+The Firmwide Risk Appetite Committee (through delegated authority from the Firmwide Enterprise Risk Committee) is responsible for the ongoing approval and monitoring of risk frameworks, policies and parameters related to our risk management processes, as well as limits, thresholds and alerts, at firmwide, business and product levels. In addition, this committee is responsible for overseeing our financial and model risks and reviews the results of stress tests and scenario analyses. To assist the Firmwide Risk Appetite Committee in carrying out its mandate, a number of other risk committees with dedicated oversight for stress testing, model risks, Volcker Rule compliance, as well as our investments or other capital commitments that may give rise to financial risk, report into the Firmwide Risk Appetite Committee. This committee is chaired by our chief risk officer, who is appointed as chair by the chairs of the Firmwide Enterprise Risk Committee. The Firmwide Capital Committee and Firmwide Commitments Committee report to the Firmwide Risk Appetite Committee.
+•
+Firmwide Reputational Risk Committee.
+The Firmwide Reputational Risk Committee is responsible for assessing reputational risks arising from opportunities that have been identified as having potential heightened reputational risk, including transactions identified pursuant to the criteria established by the Firmwide Reputational Risk Committee and as determined by committee leadership. This committee is also responsible for overseeing client-related business standards and addressing client-related reputational risk. This committee is chaired by our president and chief operating officer, who is appointed as chair by our chief executive officer, and the vice-chairs are our chief legal officer and the head of Conflicts Resolution, who are appointed as vice-chairs by the chair of the Firmwide Reputational Risk Committee. This committee periodically provides updates to, and receives guidance from, the Public Responsibilities Committee of the Board. The Firmwide Suitability Committee reports to the Firmwide Reputational Risk Committee.
+•
+Firmwide Data Governance Committee.
+The Firmwide Data Governance Committee is responsible

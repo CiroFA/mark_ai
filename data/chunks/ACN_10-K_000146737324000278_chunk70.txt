@@ -1,0 +1,18 @@
+and related processes for its clients are recognized over time since control of the system is transferred continuously to the client. Generally, revenue is recognized using costs incurred to date relative to total estimated costs at completion to measure progress toward satisfying the Company’s performance obligations, which typically occurs over time periods ranging from six months to two years.
+We identified the evaluation of estimated costs to complete certain technology integration consulting services contracts as a critical audit matter. Subjective auditor judgment was required to evaluate the estimate of costs to complete the contracts.
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls over the Company’s process for estimating costs to complete technology integration consulting services contracts, including controls over the estimate of costs to complete the contracts. We tested the estimated costs to complete for certain technology integration consulting services contracts by evaluating:
+•
+the scope of the work and timing of delivery for consistency with the underlying contractual terms;
+•
+the estimated costs to complete in relation to progress towards satisfying the Company’s performance obligations, based on internal and customer-facing information;
+•
+changes to estimated costs, if any, including the amount and timing of the change based on internal information or contractual changes; and
+•
+actual costs incurred subsequent to the balance sheet date to assess if they were consistent with the estimate for that time period.
+We evaluated the Company’s ability to estimate costs by comparing estimates developed at contract inception to actual costs ultimately incurred to satisfy the performance obligation.
+Unrecognized tax benefits
+As discussed in Note 11 to the consolidated financial statements, the Company h
+as $1,905
+million of unrecognized tax benefits as of August 31, 2024. As discussed in Note 1 to the consolidated financial statements, the Company recognizes tax positions when it believes such positions are more likely than not of being sustained if challenged. Recognized tax positions are measured at the largest amount of benefit greater than 50 percent likely of being realized. The Company uses estimates and assumptions in determining the amount of unrecognized tax benefits.
+We identified the evaluation of the Company’s unrecognized tax benefits related to transfer pricing and certain other intercompany transactions as a critical audit matter. Complex auditor judgment was required in evaluating the Company’s interpretation of tax law and its analysis of the recognition and measurement of its tax positions.
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls over the

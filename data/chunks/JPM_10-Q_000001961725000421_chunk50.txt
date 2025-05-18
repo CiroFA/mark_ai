@@ -1,0 +1,22 @@
+potential impact to net revenue, OCI or noninterest expense for market risk-sensitive instruments that are not included in VaR or earnings-at-risk. Where appropriate, instruments used for hedging purposes are reported net of the positions being hedged. The sensitivities disclosed in the table below may not be representative of the actual gain or loss that would have been realized at March 31, 2025 and December 31, 2024, as the movement in market parameters across maturities may vary and are not intended to imply management’s expectation of future changes in these sensitivities.
+(a)
+Excludes equity securities without readily determinable fair values that are measured under the measurement alternative. Refer to Note 2 for additional information.
+(b)
+Impact recognized through net revenue.
+(c)
+Impact recognized through noninterest expense.
+(d)
+Impact recognized through OCI.
+70
+The Firm, through its LOBs and Corporate, may be exposed to country risk resulting from financial, economic, political or other significant developments which adversely affect the value of the Firm’s exposures related to a particular country or set of countries. The Country Risk Management group actively monitors the various portfolios which may be impacted by these developments and measures the extent to which the Firm’s exposures are diversified given the Firm’s strategy and risk tolerance relative to a country.
+Refer to pages 150–151 of JPMorganChase’s 2024 Form 10-K for a further discussion of the Firm’s country risk management.
+Risk Reporting
+The following table presents the Firm’s top 20 exposures by country (excluding the U.S.) as of March 31, 2025 and their comparative exposures as of December 31, 2024. The top 20 country exposures represent the Firm’s largest total exposures by individual country. Country exposures may fluctuate from period to period due to a variety of factors, including client activity, market flows and liquidity management activities undertaken by the Firm.
+The decrease in exposure to Japan when compared to December 31, 2024 was predominantly driven by a reduction in cash placed with the central bank of Japan as a result of client-driven market-making activities.
+The Firm continues to monitor its exposure to Russia, which corresponds to cash placed with the central bank, but which excludes deposits placed on behalf of clients at the Deposit Insurance Agency of Russia. The Firm currently believes that its remaining exposure to Russia is not material. Refer to Note 24 on pages 165-166 for information concerning Russian litigation.
+(a)
+Country exposures presented in the table reflect 88% and 89% of total Firmwide non-U.S. exposure, where exposure is attributed to an individual country based on the Firm’s internal country risk management approach, at March 31, 2025 and December 31, 2024, respectively.
+(b)
+Predominantly represents cash placed with central banks.
+(c)
+Includes loans and accrued interest receivable, lending-related commitments (net of

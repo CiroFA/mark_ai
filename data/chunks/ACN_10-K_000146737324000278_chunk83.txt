@@ -1,0 +1,47 @@
+2022.
+Other Derivatives
+We also use foreign currency forward contracts, which have not been designated as hedges, to hedge balance sheet exposures, such as intercompany loans. These instruments are generally short-term in nature, with typical maturities of less than one year, and are subject to fluctuations in foreign exchange rates. Realized gains or losses and changes in the estimated fair value of these derivatives were net losses of $
+48,840
+, $
+135,586
+and $
+168,625
+for fiscal 2024, 2023 and 2022, respectively. Gains and losses on these contracts are recorded in Other income (expense), net in the Consolidated Income Statements and are offset by gains and losses on the related hedged items.
+Fair Value of Derivative Instruments
+The notional and fair values of all derivative instruments are as follows:
+We utilize standard counterparty master agreements containing provisions for the netting of certain foreign currency transaction obligations and for the set-off of certain obligations in the event of an insolvency of one of the parties to the transaction. In the Consolidated Balance Sheets, we record derivative assets and liabilities at gross fair value.
+The potential effect of netting derivative assets against liabilities under the counterparty master agreements is as follows:
+10.
+Borrowings and Indebtedness
+As of August 31, 2024 and 2023, we had total outstanding debt of $
+1,024,857
+and $
+147,903
+, respectively.
+As of August 31, 2024, we had the following borrowing facilities:
+(1)
+On May 14, 2024, we replaced our $
+3,000,000
+syndicated
+5-year
+credit facility with a new $
+5,500,000
+syndicated credit facility maturing on May 14, 2029. This facility provides unsecured, revolving borrowing capacity for general corporate capital purposes, including the issuance of letters of credit and short-term commercial paper. Borrowings under this facility will accrue interest at the applicable risk-free rate plus a spread. We continue to be in compliance with relevant covenant terms. The facility is subject to annual commitment fees. As of August 31, 2024, we had $
+935,000
+of commercial paper outstanding (excluding unamortized discounts) and backed by this facility, with a weighted-average effective interest rate of
+5.4
+%, maturing at various dates through the first quarter of fiscal 2025. As of August 31, 2023 we had $
+100,000
+of commercial paper outstanding backed by our $
+3,000,000
+syndicated
+5-year
+credit facility, with a weighted-average effective interest rate of
+5.4
+%.
+(2)
+We maintain separate, uncommitted and unsecured multicurrency revolving credit facilities. These facilities provide local currency financing for the majority of our operations. Interest rate terms on the revolving facilities are at market rates prevailing in the relevant local markets. As of August 31, 2024 and 2023, we had
+no
+borrowings under these facilities.
+(3)
+We also maintain local guaranteed and non-guaranteed lines of credit for those locations that cannot access our global

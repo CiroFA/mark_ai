@@ -1,0 +1,36 @@
+loans is determined by modeling expected future draws and the timing and amount of repayments allocated to the funded balance. The firm does not recognize an allowance for credit losses on credit card lending commitments as they are cancellable by the firm.
+Credit card loans are charged off when they are 180 days past due.
+Allowance for Credit Losses Rollforward
+The table below presents information about the allowance for credit losses.
+In the table above:
+•
+Other primarily represented the reduction to the allowance related to loans transferred to held for sale.
+•
+The allowance ratio is calculated by dividing the allowance for loan losses by gross loans accounted for at amortized cost.
+•
+The net charge-off ratio is calculated by dividing annualized net (charge-offs)/recoveries by average gross loans accounted for at amortized cost.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Forecast Model Inputs as of March 2025
+When modeling expected credit losses, the firm employs a weighted, multi-scenario forecast, which includes baseline, favorable and adverse economic scenarios. During the first quarter of 2025, the firm incorporated an additional scenario to the forecast model, which reflects a sharper slowdown in U.S. GDP and higher inflation (relative to the baseline scenario) as a result of tariffs. As of March 2025, this multi-scenario forecast was weighted towards the baseline and adverse economic scenarios.
+The table below presents the forecasted U.S. unemployment and U.S. GDP growth rates used in the baseline economic scenario of the forecast model.
+In the table above:
+•
+U.S. unemployment rate represents the rate forecasted as of the respective quarter-end.
+•
+U.S. GDP rate represents the year-over-year growth rate forecasted for the respective years.
+The adverse economic scenario of the forecast model reflects a global recession, resulting in an economic contraction and rising unemployment rates. In this scenario, the U.S. unemployment rate peaks at
+7.4
+% (during the second quarter of 2026) and the maximum decline in quarterly U.S. GDP relative to the first quarter of 2025 is
+2.7
+% (which occurs during the first quarter of 2026).
+In the multi-scenario forecast, the weighted average peak U.S. unemployment rate is
+5.5
+% (during the second quarter of 2026) and the largest difference in quarterly U.S. GDP between the baseline scenario and the weighted average is (
+2.2
+)% (which occurs during the second quarter of 2027).
+While the U.S. unemployment and U.S. GDP growth rates are significant inputs to the forecast model, the model contemplates a variety of other inputs across a range of scenarios to provide a forecast of future economic conditions. Given the complex nature of the forecasting process, no single economic variable can be viewed in isolation and independently of other inputs.
+Allowance for Credit Losses Commentary
+Three Months Ended March 2025.
+The allowance for credit losses decreased

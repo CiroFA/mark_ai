@@ -1,0 +1,26 @@
+processes and metrics to quantify and balance risks and returns. Statistical models are built using detailed behavioral information from external sources, such as credit bureaus, and/or internal historical experience and are a component of our consumer credit risk management process. These models are used in part to assist in making both new and ongoing credit decisions as well as portfolio management strategies, including authorizations and line management, collection practices and strategies, and determination of the allowance for loan and lease losses and allocated capital for credit risk.
+Consumer Credit Portfolio
+During 2024, the U.S. unemployment rate remained relatively stable, and home prices increased steadily throughout most of 2024. Net charge-offs increased $1.1 billion to $4.2 billion in 2024 primarily due to higher credit card loan charge-offs.
+The consumer allowance for loan and lease losses was $8.6 billion, relatively unchanged from 2023. For more information, see Allowance for Credit Losses on page 72.
+For more information on our accounting policies regarding delinquencies, nonperforming status, charge-offs and loan modifications for the consumer portfolio, see
+Note 1 – Summary of Significant Accounting Principles
+and
+Note 5 – Outstanding Loans and Leases and Allowance for Credit Losses
+to the Consolidated Financial Statements.
+Table 19 presents our outstanding consumer loans and leases, consumer nonperforming loans and accruing consumer loans past due 90 days or more.
+(1)
+Residential mortgage loans accruing past due 90 days or more are fully-insured loans. At December 31, 2024 and 2023, residential mortgage included $119 million and $156 million of loans on which interest had been curtailed by the FHA, and therefore were no longer accruing interest, although principal was still insured, and $110 million and $96 million of loans on which interest was still accruing.
+(2)
+Outstandings primarily includes auto and specialty lending loans and leases of $54.9 billion and $53.9 billion, U.S. securities-based lending loans of $48.7 billion and $46.0 billion at December 31, 2024 and 2023, and non-U.S. consumer loans of $2.8 billion at both December 31, 2024 and 2023.
+(3)
+For more information on the fair value option, see
+Note 21 – Fair Value Option
+to the Consolidated Financial Statements.
+(4)
+Excludes consumer loans accounted for under the fair value option. At December 31, 2024 and 2023, loans accounted for under the fair value option past due 90 days or more and not accruing interest were insignificant.
+n/a= not applicable
+Table 20 presents net charge-offs and related ratios for consumer loans and leases.
+(1)
+Net charge-off ratios are calculated as net charge-offs divided by average outstanding loans and leases, excluding loans accounted for under the fair value option.
+n/m = not meaningful
+We believe that the presentation of information adjusted to exclude the impact of the fully-insured loan portfolio and loans accounted for under

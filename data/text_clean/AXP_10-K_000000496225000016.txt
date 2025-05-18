@@ -1,142 +1,98 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
+ITEM 16.    FORM 10-K SUMMARY
+Not applicable.
+171
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+February 7, 2025
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Company and in the capacities and on the date indicated.
+February 7, 2025
+172
+Table of Contents
+Appendix
+STATISTICAL DISCLOSURE BY BANK HOLDING COMPANIES
+The accompanying supplemental information should be read in conjunction with the “MD&A,” “Consolidated Financial Statements” and notes thereto.
+Distribution of Assets, Liabilities, and Shareholders’ Equity; Interest Rates and Interest Differential
+The following tables provide a summary of our consolidated average balances including major categories of interest-earning assets and interest-bearing liabilities along with an analysis of net interest earnings. Consolidated average balances, interest, and average yields are segregated between U.S. and non-U.S. offices. Assets, liabilities, interest income and interest expense are attributed to the United States and outside the United States based on the location of the office recording such items.
+(a)
+Averages based on month-end balances.
+(b)
+Interest income primarily reflects interest on deposits from banks and dividends on investments in Federal Reserve stock.
+(c)
+Amounts for 2024 include Card Member loans HFS and the associated interest income.
+(d)
+Average yields for both taxable and non-taxable investment securities have been calculated using amortized cost balances and do not include changes in fair value recorded in other comprehensive loss. Average yield on non-taxable investment securities is calculated on a tax-equivalent basis using the U.S. federal statutory tax rate of 21 percent for 2024, 2023 and 2022.
+(e)
+The average yield on total interest-earning assets is adjusted for the impacts of the items mentioned in footnote (d).
+A-1
+Table of Contents
+(a)
+Averages based on month-end balances.
+(b)
+Includes premises and equipment, net of accumulated depreciation and amortization.
+A-2
+Table of Contents
+(a)
+Averages based on month-end balances.
+(b)
+Interest expense primarily reflects interest on long-term financing and interest incurred on derivative instruments in qualifying hedging relationships on the hedged debt instruments.
+(c)
+U.S. non-interest-bearing Customer deposits include average Card Member credit balances of $463 million, $474 million and $502 million for 2024, 2023 and 2022, respectively. Non-U.S. non-interest-bearing Customer deposits include average Card Member credit balances of $420 million, $441 million and $471 million for 2024, 2023 and 2022, respectively.
+(d)
+Net average yield on interest-earning assets is defined as net interest income divided by average total interest-earning assets as adjusted for the items mentioned in footnote (c) from the table on A-1.
+A-3
+Table of Contents
+Changes in Net Interest Income − Volume and Rate Analysis
+(a)
+The following table presents the amount of changes in interest income and interest expense due to changes in both average volume and average rate. Major categories of interest-earning assets and interest-bearing liabilities have been segregated between U.S. and non-U.S. offices. Average volume/rate changes have been allocated between the average volume and average rate variances on a consistent basis based upon the respective percentage changes in average balances and average rates.
+(a)
+Refer to footnotes from “Distribution of Assets, Liabilities and Shareholders’ Equity” for additional information.
+(b)
+Represents the change in volume multiplied by the prior year rate.
+(c)
+Represents the sum of the change in rate multiplied by the prior year volume and the change in rate multiplied by the change in volume.
+A-4
+Table of Contents
+Weighted average yields and contractual maturities for AFS debt securities with stated maturities
+The following table presents weighted average yields by contractual maturities for AFS debt securities with stated maturities as of December 31, 2024:
+(a)
+Weighted average yields for investment securities have been calculated using the effective yield on the date of purchase. Yields on tax-exempt investment securities have been computed on a tax-equivalent basis using the U.S. federal statutory tax rate of 21 percent
 .
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+A-5
+Table of Contents
+Maturities and Sensitivities to Changes in Interest Rates
+The following table presents contractual maturities of loans and Card Member receivables by customer type, and distribution between fixed and floating interest rates for loans due after one year based upon the stated terms of the loan agreements. The information is presented excluding amounts associated with Card Member loans HFS as of December 31, 2024.
+(a)
+Card Member loans have no stated maturity and are therefore included in the due within one year category. However, many of our Card Members will revolve their balances, which may extend their repayment period beyond one year for balances outstanding as of December 31, 2024. Card Member receivables are due upon receipt of Card Member statements and have no stated interest rate and are therefore included in the due within one year category.
+(b)
+Card Member loans and receivables due after one year represent modification programs offered to Card Members experiencing financial difficulties wherein a long-term concession (more than 12 months) has been granted to the borrower.
+(c)
+Other loans due after one year represents installment loans.
+A-6
+Table of Contents
+Credit Quality Indicators for Loans and Card Member Receivables
+The following table summarizes the ratio of all loans and Card Member receivables categories. The information is presented excluding amounts associated with Card Member loans HFS effective December 1, 2024.
+(a)
+Averages are based on month-end balances for the periods presented.
+(b)
+The net write-off rate presented is on a worldwide basis and is based on principal losses only (i.e., excluding interest and/or fees) to be consistent with industry convention. In addition, as our practice is to include uncollectible interest and/or fees as part of our total provision for credit losses, a net write-off rate including principal, interest and/or fees is also presented.
+(c)
+Non-accrual loans primarily include certain loans placed with outside collection agencies for which we have ceased accruing interest. Amounts presented includes Other loans of $12 million and $7 million as of December 31, 2024 and 2023, respectively. Higher non-accrual loans are primarily driven by higher legal placements.
+(d)
+Refer to “Maturities and Sensitivities to Changes in Interest Rates” for total outstanding balance of loans and Card Member receivables.
+(e)
+Refer to “Allocation of reserve for credit losses” for reserve related to Card Member loans and Other loans.
+A-7
+Table of Contents
+Allocation of Reserve for Credit Losses
+The following table shows the reserve for credit losses allocated to Card Member loans (excluding Card Member loans HFS as of December 31, 2024), Card Member receivables and Other loans.
+(a)
+Percentage of reserve for credit losses on Card Member loans, Card Member receivables and Other loans to the total reserve.
+Uninsured Customer Deposits
+Our U.S. deposits are insured up to $250,000 per depositor, per ownership category through the FDIC. Our non-U.S. deposits are insured as per regulatory rules in the respective jurisdictions. As of December 31, 2024 and 2023, we had total deposits of $139.4 billion and $129.1 billion, respectively, of which approximately $12.4 billion and $11.3 billion, respectively, were uninsured.
+The following table presents the amount of uninsured time certificates of deposit issued by us in our U.S. and non-U.S. offices, further segregated by time remaining until maturity. For any account holder with aggregate deposits in excess of insured limits, the uninsured deposits are calculated proportionately as a percentage of total deposits for each category of deposits held as of the reporting date.
+(a)
+We offer deposits within our U.S. bank subsidiary, AENB. These funds are currently insured up to $250,000 per depositor, per ownership category through the FDIC.
+(b)
+Includes time deposits in certain of our Non-U.S. offices that exceed the insurance limit as defined by the regulatory rules in individual markets.
+A-8

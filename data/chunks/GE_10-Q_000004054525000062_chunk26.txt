@@ -1,0 +1,58 @@
+months ended March 31, 2025 and 2024, respectively, primarily in SG&A, driven by hedges of foreign exchange fluctuation. Substantially all of these amounts are offset by the remeasurement of the underlying exposure through income.
+CASH FLOW HEDGES AND NET INVESTMENT HEDGES
+(a) Primarily currency exchange contracts, and recognized in Costs of equipment or services sold in our Statement of Operations. We expect to reclassify a $
+13
+million gain from AOCI to net income in the next 12 months contemporaneously with the income effects of the related forecasted transactions.
+(b) The carrying value of foreign currency debt designated as net investment hedges was $
+5,389
+million and $
+5,199
+million at March 31, 2025 and December 31, 2024, respectively.
+28
+2025 1Q FORM 10-Q
+FAIR VALUE HEDGES.
+We used fair value hedges to hedge the effects of interest rate and currency changes on debt we issued. All fair value hedges were terminated in 2022 due to exposure management actions. The cumulative net gains related to hedging adjustments of $
+1,026
+million and $
+1,037
+million on discontinued hedges were included primarily in
+long-term borrowings
+of $
+8,526
+million and $
+8,387
+million as of March 31, 2025 and December 31, 2024, respectively, and will continue to amortize into interest expense until the borrowings mature.
+COUNTERPARTY CREDIT RISK.
+Our exposures to counterparties (including accrued interest) were $
+191
+million and $
+188
+million at March 31, 2025 and December 31, 2024, respectively. Counterparties' exposures to our derivative liability (including accrued interest), were $
+25
+million and $
+77
+million at March 31, 2025 and December 31, 2024, respectively.
+NOTE 21.
+VARIABLE INTEREST ENTITIES.
+In our Statement of Financial Position, we have assets of $
+154
+million and $
+141
+million and liabilities of $
+132
+million and $
+131
+million at March 31, 2025 and December 31, 2024, respectively, in consolidated Variable Interest Entities (VIEs). These VIEs are primarily associated with a legacy business in Corporate & Other and have no features that could expose us to losses that would significantly exceed the difference between the consolidated assets and liabilities.
+Our investments in unconsolidated VIEs were $
+8,234
+million and $
+8,131
+million at March 31, 2025 and December 31, 2024, respectively. Of these investments, $
+1,247
+million and $
+1,280
+million were owned for U.S. tax equity, comprising equity method investments primarily related to onshore renewable energy projects, at March 31, 2025 and December 31, 2024, respectively. In addition, $
+6,796
+million and $
+6,665
+million were owned by our run-off insurance operations, primarily comprised of equity method investments at March 31, 2025 and December 31, 2024, respectively. The increase in investments in unconsolidated VIEs in our run-off insurance operations reflects strategic initiatives to invest in higher-yielding asset classes. Our maximum exposure to loss with respect to unconsolidated VIEs is

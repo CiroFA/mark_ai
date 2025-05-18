@@ -1,142 +1,2588 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
+abbv-20250331
+0001551152
+false
+December 31
+2025
+Q1
+http://fasb.org/us-gaap/2024#CostOfGoodsAndServicesSold
+http://fasb.org/us-gaap/2024#CostOfGoodsAndServicesSold
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#ForeignCurrencyTransactionGainLossBeforeTax
+http://fasb.org/us-gaap/2024#ForeignCurrencyTransactionGainLossBeforeTax
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#MoneyMarketFundsMember
+http://fasb.org/us-gaap/2024#MoneyMarketFundsMember
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
+http://fasb.org/us-gaap/2024#Revenues
 1
-Twitter
-2
-Facebook
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:EUR
+iso4217:SEK
+iso4217:CAD
+iso4217:CHF
+abbv:wholesaler
+abbv:lawsuit
+abbv:claim
+abbv:company
+abbv:claims
+abbv:segment
+0001551152
+2025-01-01
+2025-03-31
+0001551152
+exch:XNYS
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001551152
+exch:XNYS
+abbv:Sec0.750SeniorNotesDue2027Member
+2025-01-01
+2025-03-31
+0001551152
+exch:XNYS
+abbv:Sec2.125SeniorNotesdue2028Member
+2025-01-01
+2025-03-31
+0001551152
+exch:XNYS
+abbv:Sec2625SeniorNotesDue2028Member
+2025-01-01
+2025-03-31
+0001551152
+exch:XNYS
+abbv:Sec2125SeniorNotesDue2029Member
+2025-01-01
+2025-03-31
+0001551152
+exch:XNYS
+abbv:Sec1.250SeniorNotesdue2031Member
+2025-01-01
+2025-03-31
+0001551152
+2025-04-30
+0001551152
+2024-01-01
+2024-03-31
+0001551152
+2025-03-31
+0001551152
+2024-12-31
+0001551152
+us-gaap:CommonStockMember
+2023-12-31
+0001551152
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001551152
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001551152
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001551152
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001551152
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001551152
+2023-12-31
+0001551152
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:CommonStockMember
+2024-03-31
+0001551152
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0001551152
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001551152
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001551152
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001551152
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+0001551152
+2024-03-31
+0001551152
+us-gaap:CommonStockMember
+2024-12-31
+0001551152
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001551152
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001551152
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001551152
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001551152
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001551152
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:CommonStockMember
+2025-03-31
+0001551152
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001551152
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001551152
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001551152
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001551152
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001551152
+abbv:NimbleTherapeuticsInc.Member
+2025-01-01
+2025-03-31
+0001551152
+abbv:NimbleTherapeuticsInc.Member
+2025-01-23
+0001551152
+abbv:CerevelTherapeuticsMember
+2024-08-01
+2024-08-01
+0001551152
+abbv:ImmunoGenMember
+2024-02-12
+2024-02-12
+0001551152
+abbv:OtherCollaborationArrangementsMember
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:OtherCollaborationArrangementsMember
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:SubsequentEventMember
+abbv:GubraASMember
+2025-04-01
+2025-06-30
+0001551152
+us-gaap:SubsequentEventMember
+abbv:GubraASMember
+us-gaap:CollaborativeArrangementMember
+2025-06-30
+0001551152
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2025-03-31
+0001551152
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:JanssenBiotechIncMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:JanssenBiotechIncMember
+us-gaap:CollaborativeArrangementMember
+2024-12-31
+0001551152
+abbv:GenentechInc.Member
+2025-01-01
+2025-03-31
+0001551152
+abbv:GenentechInc.Member
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:GenentechInc.Member
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:GenentechInc.Member
+us-gaap:CollaborativeArrangementMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:GenentechInc.Member
+us-gaap:CollaborativeArrangementMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:DevelopedTechnologyRightsMember
+2025-03-31
+0001551152
+us-gaap:DevelopedTechnologyRightsMember
+2024-12-31
+0001551152
+us-gaap:LicensingAgreementsMember
+2025-03-31
+0001551152
+us-gaap:LicensingAgreementsMember
+2024-12-31
+0001551152
+abbv:OtherRestructuringPlansMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:OtherRestructuringPlansMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:OtherRestructuringPlansMember
+2024-12-31
+0001551152
+abbv:OtherRestructuringPlansMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2024-12-31
+0001551152
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0001551152
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherNoncurrentAssetsMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherNoncurrentAssetsMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherLiabilitiesMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherLiabilitiesMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherNoncurrentAssetsMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherNoncurrentAssetsMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherLiabilitiesMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherLiabilitiesMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2024-12-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherNoncurrentAssetsMember
+2025-03-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherNoncurrentAssetsMember
+2024-12-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherLiabilitiesMember
+2025-03-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:OtherLiabilitiesMember
+2024-12-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:SeniorNotesMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:SeniorNotesMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:InterestExpenseMember
+us-gaap:FairValueHedgingMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:InterestExpenseMember
+us-gaap:FairValueHedgingMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:TreasuryLockMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:TreasuryLockMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignExchangeContractMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001551152
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignExchangeContractMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001551152
+us-gaap:MeasurementInputDiscountRateMember
+srt:MinimumMember
+2025-03-31
+0001551152
+us-gaap:MeasurementInputDiscountRateMember
+srt:MaximumMember
+2025-03-31
+0001551152
+us-gaap:MeasurementInputDiscountRateMember
+srt:WeightedAverageMember
+2025-03-31
+0001551152
+us-gaap:MeasurementInputDiscountRateMember
+srt:MinimumMember
+2024-12-31
+0001551152
+us-gaap:MeasurementInputDiscountRateMember
+srt:MaximumMember
+2024-12-31
+0001551152
+us-gaap:MeasurementInputDiscountRateMember
+srt:WeightedAverageMember
+2024-12-31
+0001551152
+abbv:ProbabilityofPaymentforRoyaltiesbyIndicationMember
+srt:MaximumMember
+2025-03-31
+0001551152
+abbv:ProbabilityofPaymentforRoyaltiesbyIndicationMember
+srt:WeightedAverageMember
+2025-03-31
+0001551152
+abbv:ProbabilityofPaymentforRoyaltiesbyIndicationMember
+srt:MaximumMember
+2024-12-31
+0001551152
+abbv:ProbabilityofPaymentforRoyaltiesbyIndicationMember
+srt:WeightedAverageMember
+2024-12-31
+0001551152
+abbv:ProjectedYearofPaymentsMember
+srt:MinimumMember
+2025-03-31
+0001551152
+abbv:ProjectedYearofPaymentsMember
+srt:MaximumMember
+2025-03-31
+0001551152
+abbv:ProjectedYearofPaymentsMember
+srt:WeightedAverageMember
+2025-03-31
+0001551152
+abbv:ProjectedYearofPaymentsMember
+srt:MinimumMember
+2024-12-31
+0001551152
+abbv:ProjectedYearofPaymentsMember
+srt:MaximumMember
+2024-12-31
+0001551152
+abbv:ProjectedYearofPaymentsMember
+srt:WeightedAverageMember
+2024-12-31
+0001551152
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-03-31
+0001551152
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-03-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+2025-03-31
+0001551152
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0001551152
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-31
+0001551152
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-31
+0001551152
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0001551152
+abbv:PrincipalUSCustomersMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0001551152
+abbv:PrincipalUSCustomersMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:SeniorNotesIssuedIn2025Member
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+abbv:A4.65SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+abbv:A4.875SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+abbv:A5.20SeniorNotesDue2035Member
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+abbv:A5.60SeniorNotesDue2055Member
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+abbv:A3.80SeniorNotesMember
+us-gaap:LoansPayableMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:A3.80SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-03-31
+0001551152
+us-gaap:CommercialPaperMember
+2025-03-31
+0001551152
+us-gaap:CommercialPaperMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:CommercialPaperMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:SubsequentEventMember
+abbv:A364DayTermLoanCreditAgreementMember
+2025-06-30
+0001551152
+us-gaap:SubsequentEventMember
+abbv:A364DayTermLoanAgreementMember
+2025-05-09
+0001551152
+abbv:RevolvingCreditFacilityMaturing2030Member
+2025-03-31
+0001551152
+abbv:RevolvingCreditFacilityMaturing2030Member
+2025-01-01
+2025-03-31
+0001551152
+abbv:RevolvingCreditFacilityMaturing2028Member
+2025-03-31
+0001551152
+abbv:RevolvingCreditFacilityMaturing2028Member
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:RevolvingCreditFacilityMember
+2025-03-31
+0001551152
+us-gaap:RevolvingCreditFacilityMember
+2024-12-31
+0001551152
+abbv:SeniorNotesIssuedIn2024Member
+us-gaap:SeniorNotesMember
+2024-03-31
+0001551152
+abbv:SeniorNotesIssuedIn2024Member
+2024-03-31
+0001551152
+abbv:December2023BridgeCreditFacilityMember
+2023-12-06
+0001551152
+abbv:A364DayTermLoanCreditAgreementMember
+2023-12-21
+0001551152
+abbv:December2023TermLoanCreditAgreementMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:December2023TermLoanCreditAgreementMember
+2024-07-01
+2024-09-30
+0001551152
+us-gaap:LoansPayableMember
+2024-07-01
+2024-09-30
+0001551152
+abbv:ImmunoGenSeniorSecuredTermLoanMember
+2024-02-12
+0001551152
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:PensionPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:CostOfSalesMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:CostOfSalesMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:EmployeeStockOptionMember
+2025-03-31
+0001551152
+abbv:RestrictedStockUnitsAndPerformanceSharesMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:RestrictedStockUnitsAndPerformanceSharesMember
+2025-03-31
+0001551152
+2024-10-01
+2024-12-31
+0001551152
+2024-07-01
+2024-09-30
+0001551152
+2024-04-01
+2024-06-30
+0001551152
+abbv:February2023StockRepurchaseAuthorizationMember
+2023-02-16
+0001551152
+abbv:February2023StockRepurchaseAuthorizationMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:February2023StockRepurchaseAuthorizationMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-12-31
+0001551152
+abbv:AccumulatedNetGainLossFromNetInvestmentHedgesMember
+2024-12-31
+0001551152
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-12-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2024-12-31
+0001551152
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2024-12-31
+0001551152
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:AccumulatedNetGainLossFromNetInvestmentHedgesMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2025-03-31
+0001551152
+abbv:AccumulatedNetGainLossFromNetInvestmentHedgesMember
+2025-03-31
+0001551152
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2025-03-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2025-03-31
+0001551152
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2025-03-31
+0001551152
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001551152
+abbv:AccumulatedNetGainLossFromNetInvestmentHedgesMember
+2023-12-31
+0001551152
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2023-12-31
+0001551152
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001551152
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:AccumulatedNetGainLossFromNetInvestmentHedgesMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-03-31
+0001551152
+abbv:AccumulatedNetGainLossFromNetInvestmentHedgesMember
+2024-03-31
+0001551152
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-03-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2024-03-31
+0001551152
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2024-03-31
+0001551152
+us-gaap:NetInvestmentHedgingMember
+us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NetInvestmentHedgingMember
+us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:ForeignExchangeForwardMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:TreasuryLockMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:TreasuryLockMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:InterestRateSwapMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NiaspanMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:PrescriptionDrugAbuseLitigationMember
+2025-03-31
+0001551152
+abbv:PrescriptionDrugAbuseLitigationInStateCourtsMember
+2025-03-31
+0001551152
+abbv:PrescriptionDrugAbuseLitigationBroughtByStatesCountiesCitiesAndOtherMunicipalEntitiesMember
+2025-03-31
+0001551152
+abbv:PrescriptionDrugAbuseLitigationInStateCourtsInProcessOfBeingDismissedMember
+2025-03-31
+0001551152
+abbv:PrescriptionDrugAbuseLitigationCoveredByAProposedClassSettlementMember
+2025-03-31
+0001551152
+abbv:TaxCourtPetitionMember
+2023-03-01
+2023-03-31
+0001551152
+abbv:ProductLiabilityALCLLitigationMember
+2025-03-31
+0001551152
+abbv:ProductLiabilityOtherLitigationMember
+2025-03-31
+0001551152
+abbv:ProductLiabilityALCLLitigationInStateCourtMember
+2025-03-31
+0001551152
+abbv:ProductLiabilityOtherLitigationInStateCourtMember
+2025-03-31
+0001551152
+abbv:ProductLiabilityALCLLitigationInOtherCountriesMember
+2025-03-31
+0001551152
+abbv:ProductLiabilityOtherLitigationInOtherCountriesMember
+2025-03-31
+0001551152
+country:US
+abbv:ImmunologyMember
+abbv:SKYRIZIMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:ImmunologyMember
+abbv:SKYRIZIMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:ImmunologyMember
+abbv:SKYRIZIMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:ImmunologyMember
+abbv:SKYRIZIMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:ImmunologyMember
+abbv:SKYRIZIMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:ImmunologyMember
+abbv:SKYRIZIMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:ImmunologyMember
+abbv:RINVOQMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:ImmunologyMember
+abbv:RINVOQMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:ImmunologyMember
+abbv:RINVOQMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:ImmunologyMember
+abbv:RINVOQMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:ImmunologyMember
+abbv:RINVOQMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:ImmunologyMember
+abbv:RINVOQMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:ImmunologyMember
+abbv:HUMIRAMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:ImmunologyMember
+abbv:HUMIRAMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:ImmunologyMember
+abbv:HUMIRAMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:ImmunologyMember
+abbv:HUMIRAMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:ImmunologyMember
+abbv:HUMIRAMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:ImmunologyMember
+abbv:HUMIRAMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:VraylarMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:VraylarMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:VraylarMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:VraylarMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:VraylarMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:VraylarMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:BotoxTherapeuticMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:BotoxTherapeuticMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:BotoxTherapeuticMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:BotoxTherapeuticMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:BotoxTherapeuticMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:BotoxTherapeuticMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:UbrelvyMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:UbrelvyMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:UbrelvyMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:UbrelvyMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:UbrelvyMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:UbrelvyMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:QuliptaMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:QuliptaMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:QuliptaMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:QuliptaMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:QuliptaMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:QuliptaMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:VyalevMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:VyalevMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:VyalevMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:VyalevMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:VyalevMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:VyalevMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:DuodopaMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:DuodopaMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:DuodopaMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:DuodopaMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:DuodopaMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:DuodopaMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:OtherNeuroscienceMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:NeuroscienceMember
+abbv:OtherNeuroscienceMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:OtherNeuroscienceMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:NeuroscienceMember
+abbv:OtherNeuroscienceMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:OtherNeuroscienceMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:NeuroscienceMember
+abbv:OtherNeuroscienceMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:HematologicOncologyMember
+abbv:ImbruvicaMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:HematologicOncologyMember
+abbv:ImbruvicaMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:ImbruvicaMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:ImbruvicaMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:ImbruvicaMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:ImbruvicaMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:HematologicOncologyMember
+abbv:VENCLEXTAMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:HematologicOncologyMember
+abbv:VENCLEXTAMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:VENCLEXTAMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:VENCLEXTAMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:VENCLEXTAMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:VENCLEXTAMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:HematologicOncologyMember
+abbv:ElahereMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:HematologicOncologyMember
+abbv:ElahereMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:ElahereMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:ElahereMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:ElahereMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:ElahereMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:EpkinlyMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:HematologicOncologyMember
+abbv:EpkinlyMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:EpkinlyMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:HematologicOncologyMember
+abbv:EpkinlyMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:AestheticsMember
+abbv:BotoxCosmeticMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:AestheticsMember
+abbv:BotoxCosmeticMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:AestheticsMember
+abbv:BotoxCosmeticMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:AestheticsMember
+abbv:BotoxCosmeticMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:AestheticsMember
+abbv:BotoxCosmeticMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:AestheticsMember
+abbv:BotoxCosmeticMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:AestheticsMember
+abbv:JuvedermCollectionMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:AestheticsMember
+abbv:JuvedermCollectionMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:AestheticsMember
+abbv:JuvedermCollectionMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:AestheticsMember
+abbv:JuvedermCollectionMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:AestheticsMember
+abbv:JuvedermCollectionMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:AestheticsMember
+abbv:JuvedermCollectionMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:AestheticsMember
+abbv:OtherAestheticsMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:AestheticsMember
+abbv:OtherAestheticsMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:AestheticsMember
+abbv:OtherAestheticsMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:AestheticsMember
+abbv:OtherAestheticsMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:AestheticsMember
+abbv:OtherAestheticsMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:AestheticsMember
+abbv:OtherAestheticsMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:OzurdexMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:OzurdexMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:OzurdexMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:OzurdexMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:EyeCareMember
+abbv:OzurdexMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:EyeCareMember
+abbv:OzurdexMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:LumiganGanfortMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:LumiganGanfortMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:LumiganGanfortMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:LumiganGanfortMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:EyeCareMember
+abbv:LumiganGanfortMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:EyeCareMember
+abbv:LumiganGanfortMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:AlphaganCombiganMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:AlphaganCombiganMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:AlphaganCombiganMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:AlphaganCombiganMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:EyeCareMember
+abbv:AlphaganCombiganMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:EyeCareMember
+abbv:AlphaganCombiganMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:OtherEyeCareMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:EyeCareMember
+abbv:OtherEyeCareMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:OtherEyeCareMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:EyeCareMember
+abbv:OtherEyeCareMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:EyeCareMember
+abbv:OtherEyeCareMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:EyeCareMember
+abbv:OtherEyeCareMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:OtherKeyProductsMember
+abbv:MAVYRETMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:OtherKeyProductsMember
+abbv:MAVYRETMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:OtherKeyProductsMember
+abbv:MAVYRETMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:OtherKeyProductsMember
+abbv:MAVYRETMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:OtherKeyProductsMember
+abbv:MAVYRETMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:OtherKeyProductsMember
+abbv:MAVYRETMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:OtherKeyProductsMember
+abbv:CreonMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:OtherKeyProductsMember
+abbv:CreonMember
+2024-01-01
+2024-03-31
+0001551152
+country:US
+abbv:OtherKeyProductsMember
+abbv:LinzessConstellaMember
+2025-01-01
+2025-03-31
+0001551152
+country:US
+abbv:OtherKeyProductsMember
+abbv:LinzessConstellaMember
+2024-01-01
+2024-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:OtherKeyProductsMember
+abbv:LinzessConstellaMember
+2025-01-01
+2025-03-31
+0001551152
+us-gaap:NonUsMember
+abbv:OtherKeyProductsMember
+abbv:LinzessConstellaMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:OtherKeyProductsMember
+abbv:LinzessConstellaMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:OtherKeyProductsMember
+abbv:LinzessConstellaMember
+2024-01-01
+2024-03-31
+0001551152
+abbv:OtherProductsMember
+2025-01-01
+2025-03-31
+0001551152
+abbv:OtherProductsMember
+2024-01-01
+2024-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission File Number:
+001-35565
+AbbVie Inc.
+1 North Waukegan Road
+North Chicago
+,
+Illinois
+60064-6400
+Telephone:
+(
+847
+)
+932-7900
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).        Yes
+☐
+No
+☒
+Securities registered pursuant to Section 12(b) of the Act:
+As of April 30, 2025, AbbVie Inc. had
+1,766,403,027
+shares of common stock at $0.01 par value outstanding.
+AbbVie Inc. and Subsidiaries
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+AbbVie Inc. and Subsidiaries
+Condensed Consolidated Statements of Earnings (unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+AbbVie Inc. and Subsidiaries
+Condensed Consolidated Statements of Comprehensive Income (unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+AbbVie Inc. and Subsidiaries
+Condensed Consolidated Balance Sheets
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+AbbVie Inc. and Subsidiaries
+Condensed Consolidated Statements of Equity (unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+AbbVie Inc. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+AbbVie Inc. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Note 1
+Basis of Presentation
+Basis of Historical Presentation
+The unaudited interim condensed consolidated financial statements of AbbVie Inc. (AbbVie or the company) have been prepared pursuant to the rules and regulations of the United States Securities and Exchange Commission. Accordingly, certain information and footnote disclosures normally included in annual financial statements prepared in accordance with generally accepted accounting principles in the United States (U.S. GAAP) have been omitted. These unaudited interim condensed consolidated financial statements should be read in conjunction with the company’s audited consolidated financial statements and notes included in the company’s Annual Report on Form 10-K for the year ended December 31, 2024.
+It is management’s opinion that these financial statements include all normal and recurring adjustments necessary for a fair presentation of the company’s financial position and operating results. Net revenues and net earnings for any interim period are not necessarily indicative of future or annual results. Certain other reclassifications were made to conform the prior period interim condensed consolidated financial statements to the current period presentation.
+Recent Accounting Pronouncements
+Recent Accounting Pronouncements Not Yet Adopted
+ASU No. 2024-03
+In November 2024, the Financial Accounting Standards Board (FASB) issued
+Accounting Standards Update (ASU) No. 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40
+). The standard requires further disaggregation of relevant expense captions in a separate note to the financial statements. The standard is effective for AbbVie starting in annual periods in 2027 and interim periods beginning in 2028, with early adoption permitted. AbbVie is currently assessing the impact of adopting this guidance on its consolidated financial statements.
+ASU No. 2023-09
+In December 2023, the FASB issued ASU No. 2023-09,
+Income Taxes (Topic 740)
+. The standard requires disaggregation of the effective rate reconciliation into standard categories, enhances disclosure of income taxes paid, and modifies other income tax-related disclosures. The standard is effective for AbbVie starting in annual periods in 2025. AbbVie is currently assessing the impact of adopting this guidance on its consolidated financial statements.
+Note 2
+Supplemental Financial Information
+Interest Expense, Net
+Inventories
+Property and Equipment, Net
+Depreciation expense was $
+181
+million for the three months ended March 31, 2025 and $
+183
+million for the three months ended March 31, 2024.
+Note 3
+Earnings Per Share
+AbbVie grants certain restricted stock units (RSUs) that are considered to be participating securities. Due to the presence of participating securities, AbbVie calculates earnings per share (EPS) using the more dilutive of the treasury stock or the two-class method. For all periods presented, the two-class method was more dilutive.
+The following table summarizes the impact of the two-class method:
+Certain shares issuable under stock-based compensation plans were excluded from the computation of EPS because the effect would have been antidilutive. The number of common shares excluded was insignificant for all periods presented.
+Note 4
+Licensing, Acquisitions and Other Arrangements
+Acquisition of Nimble Therapeutics, Inc.
+On January 23, 2025, AbbVie completed its acquisition of Nimble Therapeutics, Inc. (Nimble). Nimble is a biotechnology company dedicated to delivering on the promise of oral peptide therapeutics and its lead asset, an investigational oral peptide IL23R inhibitor, is in preclinical development for the treatment of psoriasis. The aggregate purchase price of $
+288
+million was comprised of a $
+210
+million upfront cash payment and $
+78
+million for the acquisition date fair value of contingent consideration liabilities, for which AbbVie may owe up to $
+130
+million in future payments upon achievement of certain development milestones. The transaction was accounted for as a business combination using the acquisition method of accounting. As of the acquisition date, AbbVie acquired $
+118
+million of intangible assets and resulted in the recognition of $
+170
+million of goodwill. Goodwill was calculated as the excess of the consideration transferred over the fair value of net assets recognized and represents the future economic benefits arising from other assets acquired that could not be individually identified and separately recognized, including expected synergies related to enhancement of AbbVie’s existing immunology discovery capabilities and development efforts. The goodwill is not deductible for tax purposes. Other assets acquired and liabilities assumed were insignificant.
+Acquisition of Cerevel Therapeutics Holdings, Inc.
+On August 1, 2024, AbbVie completed its acquisition of Cerevel Therapeutics Holdings, Inc. (Cerevel Therapeutics). Cerevel Therapeutics is a clinical-stage biotechnology company focused on the discovery and development of differentiated therapies for neuroscience diseases. Cerevel Therapeutics neuroscience pipeline included multiple clinical-stage and preclinical candidates with the potential to treat several diseases including schizophrenia, Parkinson's disease and mood disorders. The total fair value of the consideration transferred to owners of Cerevel Therapeutics common stock was $
+8.7
+billion ($
+8.3
+billion, net of cash acquired). The acquisition of Cerevel Therapeutics was accounted for as a business combination using the acquisition method of accounting and the valuation of assets acquired and liabilities assumed was finalized during the three months ended March 31, 2025.
+Acquisition of ImmunoGen, Inc.
+On February 12, 2024, AbbVie completed its acquisition of ImmunoGen, Inc. (ImmunoGen). ImmunoGen is a commercial-stage biotechnology company focused on the discovery, development and commercialization of antibody-drug conjugates (ADC) for cancer patients. ImmunoGen's oncology portfolio included its flagship cancer therapy Elahere, a first-in-class ADC approved for platinum-resistant ovarian cancer, and a pipeline of promising next-generation ADC's targeting hematologic malignancies and solid tumors. The total fair value of the consideration transferred to owners of ImmunoGen common stock was $
+9.8
+billion ($
+9.2
+billion, net of cash acquired). The acquisition of ImmunoGen was accounted for as a business combination using the acquisition method of accounting and the valuation of assets acquired and liabilities assumed was finalized during the three months ended December 31, 2024.
+Other Licensing & Acquisitions Activity
+Cash outflows related to other acquisitions and investments totaled $
+334
+million for the three months ended March 31, 2025 and $
+190
+million for the three months ended March 31, 2024.
+The following table summarizes acquired IPR&D and milestones expense:
+Gubra A/S
+Subsequent to March 31, 2025, AbbVie completed its previously announced licensing agreement with Gubra A/S. Under the terms of the agreement, AbbVie will receive an exclusive global license to develop and commercialize GUB014295 (ABBV-295), a long-acting amylin analog for the treatment of obesity. AbbVie made an upfront payment of $
+350
+million which will be recorded in acquired IPR&D and milestones expense in the condensed consolidated statement of earnings in the second quarter of 2025. AbbVie could make additional payments of up to $
+1.9
+billion upon achievement of certain development, regulatory and commercial milestones and pay tiered royalties.
+AbbVie entered into several other individually insignificant collaborations, licensing agreements or other asset acquisitions in which the related upfront payments were recorded in acquired IPR&D and milestones expense.
+Note 5
+Collaborations
+The company has ongoing transactions with other entities through collaboration agreements. The following represent the significant collaboration agreements impacting the periods ended March 31, 2025 and 2024.
+Collaboration with Janssen Biotech, Inc.
+In December 2011, Pharmacyclics, a wholly-owned subsidiary of AbbVie, entered into a worldwide collaboration and license agreement with Janssen Biotech, Inc. and its affiliates (Janssen), one of the Janssen Pharmaceutical companies of Johnson & Johnson, for the joint development and commercialization of Imbruvica, a novel, orally active, selective covalent inhibitor of Bruton’s tyrosine kinase and certain compounds structurally related to Imbruvica, for oncology and other indications, excluding all immune and inflammatory mediated diseases or conditions and all psychiatric or psychological diseases or conditions, in the United States and outside the United States.
+The collaboration provides Janssen with an exclusive license to commercialize Imbruvica outside of the United States and co-exclusively with AbbVie in the United States. Both parties are responsible for the development, manufacturing and marketing of any products generated as a result of the collaboration. The collaboration has no set duration or specific expiration date and provides for potential future development, regulatory and approval milestone payments of up to $
+200
+million to AbbVie. The collaboration also includes a cost sharing arrangement for associated collaboration activities. Except in certain cases, Janssen is responsible for approximately
+60
+% of collaboration development costs and AbbVie is responsible for the remaining
+40
+% of collaboration development costs.
+In the United States, both parties have co-exclusive rights to commercialize the products; however, AbbVie is the principal in the end-customer product sales. AbbVie and Janssen share pre-tax profits and losses equally from the commercialization of products. Sales of Imbruvica are included in AbbVie's net revenues. Janssen's share of profits is included in AbbVie's cost of products sold. Other costs incurred under the collaboration are reported in their respective expense line items, net of Janssen's share.
+Outside the United States, Janssen is responsible for and has exclusive rights to commercialize Imbruvica. AbbVie and Janssen share pre-tax profits and losses equally from the commercialization of products. AbbVie's share of profits is included in AbbVie's net revenues. Other costs incurred under the collaboration are reported in their respective expense line items, net of Janssen's share.
+The following table shows the profit and cost sharing relationship between Janssen and AbbVie:
+AbbVie’s receivable from Janssen, included in accounts receivable, net, was $
+235
+million at March 31, 2025 and $
+237
+million at December 31, 2024. AbbVie’s payable to Janssen, included in accounts payable and accrued liabilities, was $
+245
+million at March 31, 2025 and $
+282
+million at December 31, 2024.
+Collaboration with Genentech, Inc.
+AbbVie and Genentech, Inc. (Genentech), a member of the Roche Group, are parties to a collaboration and license agreement executed in 2007 to jointly research, develop and commercialize human therapeutic products containing BCL-2 inhibitors and certain other compound inhibitors which includes Venclexta, a BCL-2 inhibitor used to treat certain hematological malignancies. AbbVie
+shares equally with Genentech all pre-tax profits and losses from the development and commercialization of Venclexta in the United States. AbbVie pays royalties on Venclexta net revenues outside the United States.
+AbbVie manufactures and distributes Venclexta globally and is the principal in the end-customer product sales. Sales of Venclexta are included in AbbVie’s net revenues. Genentech’s share of United States profits is included in AbbVie’s cost of products sold. AbbVie records sales and marketing costs associated with the United States collaboration as part of selling, general and administrative (SG&A) expenses and global development costs as part of research and development (R&D) expenses, net of Genentech’s share. Royalties paid for Venclexta revenues outside the United States are also included in AbbVie’s cost of products sold.
+The following table shows the profit and cost sharing relationship between Genentech and AbbVie:
+Note 6
+Goodwill and Intangible Assets
+Goodwill
+The following table summarizes the changes in the carrying amount of goodwill:
+(a) Goodwill additions related to the acquisition of Nimble (see Note 4).
+The company performs its annual goodwill impairment assessment in the third quarter, or earlier if impairment indicators exist. As of March 31, 2025, there were
+no
+accumulated goodwill impairment losses.
+Intangible Assets, Net
+The following table summarizes intangible assets:
+Definite-Lived Intangible Assets
+Amortization expense was $
+1.9
+billion for the three months ended March 31, 2025 and 2024. Amortization expense was included in cost of products sold in the condensed consolidated statements of earnings.
+Indefinite-Lived Intangible Assets
+Indefinite-lived intangible assets represent acquired IPR&D associated with products that have not yet received regulatory approval. The company performs its annual impairment assessment of indefinite-lived intangible assets in the third quarter, or earlier if impairment indicators exist.
+Note 7
+Restructuring Plans
+AbbVie continuously evaluates its operations to identify opportunities to optimize its manufacturing and R&D operations, commercial infrastructure and administrative costs and to respond to changes in its business environment. As a result, AbbVie management periodically approves individual restructuring plans to achieve these objectives. As of March 31, 2025 and 2024, no such plans were individually significant. Restructuring charges were $
+17
+million for the three months ended March 31, 2025 and $
+15
+million for the three months ended March 31, 2024. These charges are recorded in cost of products sold, R&D expense and SG&A expense in the condensed consolidated statements of earnings based on the classification of the affected employees or the related operations.
+The following table summarizes the cash activity in the restructuring reserve for the three months ended March 31, 2025:
+Note 8
+Financial Instruments and Fair Value Measures
+Risk Management Policy
+See Note 11 to the company’s Annual Report on Form 10-K for the year ended December 31, 2024 for a summary of AbbVie’s risk management policy and use of derivative instruments.
+Financial Instruments
+Various AbbVie foreign subsidiaries enter into foreign currency forward exchange contracts to manage exposures to changes in foreign exchange rates for anticipated intercompany transactions denominated in a currency other than the functional currency of the local entity. These contracts, with notional amounts totaling $
+1.7
+billion at March 31, 2025 and $
+1.9
+billion at December 31, 2024, are designated as cash flow hedges and are recorded at fair value. The durations of these forward exchange contracts were generally less than
+18
+months. Accumulated gains and losses as of March 31, 2025 are reclassified from accumulated other comprehensive income (loss) (AOCI) and included in cost of products sold at the time the products are sold, generally not exceeding
+six months
+from the date of settlement.
+The company also enters into foreign currency forward exchange contracts to manage its exposure to foreign currency denominated trade payables and receivables and intercompany loans. These contracts are not designated as hedges and are recorded at fair value. Resulting gains or losses are reflected in net foreign exchange loss in the condensed consolidated statements of earnings and are generally offset by losses or gains on the foreign currency exposure being managed. These contracts had notional amounts totaling $
+6.6
+billion at March 31, 2025 and $
+5.9
+billion at December 31, 2024.
+The company also uses foreign currency forward exchange contracts or foreign currency denominated debt to hedge its net investments in certain foreign subsidiaries and affiliates. The company had an aggregate principal amount of senior Euro notes designated as net investment hedges of €
+3.1
+billion at March 31, 2025 and December 31, 2024. In addition, the company had foreign currency forward exchange contracts designated as net investment hedges with notional amounts totaling €
+6.5
+billion, SEK
+1.9
+billion, CAD
+500
+million and CHF
+80
+million at March 31, 2025 and €
+6.2
+billion, SEK
+1.4
+billion, CAD
+500
+million and CHF
+50
+million at December 31, 2024. The company uses the spot method of assessing hedge effectiveness for derivative instruments designated as net investment hedges. Realized and unrealized gains and losses from these hedges are included in AOCI and the initial fair value of hedge components excluded from the assessment of effectiveness is recognized in interest expense, net over the life of the hedging instrument.
+The company is a party to interest rate swap contracts designated as fair value hedges with notional amounts totaling $
+3.5
+billion at March 31, 2025 and December 31, 2024. The effect of the hedge contracts is to change a fixed-rate interest obligation to a floating rate for that portion of the debt. AbbVie records the contracts at fair value and adjusts the carrying amount of the fixed-rate debt by an offsetting amount.
+No
+amounts are excluded from the assessment of effectiveness for cash flow hedges or fair value hedges.
+The following table summarizes the amounts and location of AbbVie’s derivative instruments on the condensed consolidated balance sheets:
+While certain derivatives are subject to netting arrangements with the company’s counterparties, the company does not offset derivative assets and liabilities within the condensed consolidated balance sheets.
+The following table presents the pre-tax amounts of gains (losses) from derivative instruments recognized in other comprehensive income (loss):
+Assuming market rates remain constant through contract maturities, the company expects to reclassify pre-tax gains of $
+105
+million into cost of products sold for foreign currency cash flow hedges and pre-tax gains of $
+21
+million into interest expense, net for other cash flow hedges during the next 12 months.
+Related to AbbVie’s non-derivative, foreign currency denominated debt designated as net investment hedges, the company recognized in other comprehensive income (loss) pre-tax losses of $
+133
+million for the three months ended March 31, 2025 and pre-tax gains of $
+157
+million for the three months ended March 31, 2024.
+The following table summarizes the pre-tax amounts and location of derivative instrument net gains (losses) recognized in the condensed consolidated statements of earnings, including the net gains (losses) reclassified out of AOCI into net earnings. See Note 10 for the amount of net gains (losses) reclassified out of AOCI.
+Fair Value Measures
+The fair value hierarchy consists of the following three levels:
+•
+Level 1 – Valuations based on unadjusted quoted prices in active markets for identical assets that the company has the ability to access;
+•
+Level 2 – Valuations based on quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active and model-based valuations in which all significant inputs are observable in the market; and
+•
+Level 3 – Valuations using significant inputs that are unobservable in the market and include the use of judgment by the company’s management about the assumptions market participants would use in pricing the asset or liability.
+The following table summarizes the bases used to measure certain assets and liabilities carried at fair value on a recurring basis on the condensed consolidated balance sheet as of March 31, 2025:
+The following table summarizes the bases used to measure certain assets and liabilities carried at fair value on a recurring basis on the condensed consolidated balance sheet as of December 31, 2024:
+Money market funds and time deposits are valued using relevant observable market inputs including quoted prices for similar assets and interest rate curves. Equity securities primarily consist of investments for which the fair values were determined by using the published market prices per unit multiplied by the number of units held, without consideration of transaction costs. The derivatives entered into by the company were valued using observable market inputs including published interest rate curves and both forward and spot prices for foreign currencies.
+The financing liability is related to financing arrangements which the company elected to account for in accordance with the fair value option, as permitted under ASC 825
+Financial Instruments
+. The fair value measurement of the financing liability was determined based on significant unobservable inputs. Potential payments are estimated by applying a probability-weighted expected payment model, which are then discounted to present value. Changes to the fair value of the financing liability can result from changes to one or a number of inputs, including discount rates, estimated probabilities and timing of achieving milestones and estimated amounts of future sales. The change in fair value recognized in net earnings is recorded in other expense, net in the condensed consolidated statements of earnings and the change in fair value attributable to instrument-specific credit risk is recognized in other comprehensive income (loss). Changes in fair value recognized in other expense, net and other comprehensive income (loss) for the three months ended March 31, 2025 were insignificant.
+The fair value measurements of the contingent consideration liabilities were determined based on significant unobservable inputs, including the discount rate, estimated probabilities and timing of achieving specified development, regulatory and commercial milestones and the estimated amount of future sales of the acquired products. The potential contingent consideration payments are estimated by applying a probability-weighted expected payment model for contingent milestone payments and a Monte Carlo simulation model for contingent royalty payments, which are then discounted to present value. Changes to the fair value of the contingent consideration liabilities can result from changes to one or a number of inputs, including discount rates, the probabilities of achieving the milestones, the time required to achieve the milestones and estimated future sales. Significant judgment is employed in determining the appropriateness of certain of these inputs. Changes to the inputs described above could have a material impact on the company's financial position and results of operations in any given period.
+The fair value of the company's contingent consideration liabilities was calculated using the following significant unobservable inputs:
+(a) Unobservable inputs were weighted by the relative fair value of the contingent consideration liabilities.
+There have been
+no
+transfers of assets or liabilities into or out of Level 3 of the fair value hierarchy.
+The following table presents the changes in fair value of total contingent consideration liabilities which are measured using Level 3 inputs:
+(a) Additions during the three months ended March 31, 2025, represent contingent consideration liabilities related to the Nimble acquisition.
+The change in fair value recognized in net earnings is recorded in other expense, net in the condensed consolidated statements of earnings.
+Certain financial instruments are carried at historical cost or some basis other than fair value.
+The book values, approximate fair values and bases used to measure the approximate fair values of certain financial instruments as of March 31, 2025 are shown in the table below:
+The book values, approximate fair values and bases used to measure the approximate fair values of certain financial instruments as of December 31, 2024 are shown in the table below:
+AbbVie also holds investments in equity securities that do not have readily determinable fair values. The company records these investments at cost and remeasures them to fair value based on certain observable price changes or impairment events as they occur. The carrying amount of these investments was $
+157
+million as of March 31, 2025 and $
+169
+million as of December 31, 2024. No significant cumulative upward or downward adjustments have been recorded for these investments as of March 31, 2025.
+Concentrations of Risk
+Of total net accounts receivable,
+three
+U.S. wholesalers accounted for
+81
+% as of March 31, 2025 and December 31, 2024, and substantially all of AbbVie’s pharmaceutical product net revenues in the United States were to these
+three
+wholesalers.
+Debt and Credit Facilities
+Issuance and Repayment of Long-Term Debt
+In February 2025, the company issued $
+4.0
+billion aggregate principal amount of unsecured senior notes. The following table summarizes the issued debt:
+The notes are unsecured, unsubordinated obligations of AbbVie and will rank equally in right of payment with all of AbbVie’s existing and future unsecured, unsubordinated indebtedness, liabilities and other obligations. AbbVie may redeem the fixed-rate senior notes prior to maturity at a redemption price equal to the greater of the principal amount or the sum of present values of the remaining scheduled payments of principal and interest plus a make-whole premium. AbbVie may also redeem the fixed-rate senior notes at par between one and six months prior to maturity.
+In March 2025, the company repaid $
+3.0
+billion aggregate principal of
+3.80
+% senior notes at maturity.
+Short-Term Borrowings
+Short-term borrowings included commercial paper borrowings of $
+1.6
+billion as of March 31, 2025 and there were
+no
+amounts outstanding as of December 31, 2024. The weighted-average interest rate on commercial paper borrowings was
+4.59
+% for the three months ended March 31, 2025 and
+5.54
+% for the three months ended March 31, 2024.
+Subsequent to March 31, 2025, the company entered into a $
+4.0
+billion 364-day term loan credit agreement.
+No
+amounts were borrowed under the term loan credit agreement as of the date of filing of this Quarterly Report on Form 10-Q.
+In January 2025, AbbVie entered into a new $
+3.0
+billion
+five-year
+revolving credit facility that matures in January 2030 which is in addition to the existing $
+5.0
+billion
+five-year
+revolving credit facility that matures in March 2028. The revolving credit facilities are available to support AbbVie’s commercial paper program and enable the company to borrow funds to meet liquidity requirements on an unsecured basis at variable interest rates and contain various covenants. At March 31, 2025, the company was in compliance with all covenants, and commitment fees under the credit facility were insignificant.
+No
+amounts were outstanding under the company's credit facilities as of March 31, 2025 and December 31, 2024.
+Financing Related to ImmunoGen and Cerevel Therapeutics Acquisitions
+In connection with the acquisitions of ImmunoGen and Cerevel Therapeutics, in February 2024, the company issued $
+15.0
+billion aggregate principal amount of unsecured senior notes. The notes are unsecured, unsubordinated obligations of AbbVie and will rank equally in right of payment with all of AbbVie’s existing and future unsecured, unsubordinated indebtedness, liabilities and other obligations. AbbVie may redeem the fixed-rate senior notes prior to maturity at a redemption price equal to the greater of the principal amount or the sum of present values of the remaining scheduled payments of principal and interest on the fixed-rate senior notes to be redeemed plus a make-whole premium. AbbVie may also redeem the fixed-rate senior notes at par between one and six months prior to maturity. In connection with the offering, debt issuance costs incurred totaled $
+99
+million and debt discounts totaled $
+37
+million, which are being amortized over the respective terms of the notes to interest expense, net in the condensed consolidated statements of earnings.
+AbbVie used the net proceeds received from the issuance of the notes to finance the acquisition of ImmunoGen, repay its term-loan, repay commercial paper borrowings, pay fees and expenses in respect of the foregoing, finance general corporate purposes and, together with cash on hand, fund AbbVie’s acquisition of Cerevel Therapeutics.
+In December 2023, AbbVie entered into a $
+9.0
+billion 364-day bridge credit agreement and $
+5.0
+billion 364-day term loan credit agreement. In February 2024, AbbVie borrowed and repaid $
+5.0
+billion under the term loan credit agreement. Interest charged on this borrowing was based on Secured Overnight Financing Rate Reference Rate (SOFR) +
+0.975
+% with an effective interest rate of
+6.29
+%. Subsequent to the $
+15.0
+billion issuance of senior notes, AbbVie terminated both the bridge and term loan credit agreements in the first quarter of 2024. In February 2024, concurrent with the ImmunoGen acquisition, the company assumed and repaid an ImmunoGen senior secured term loan at a fair value of $
+99
+million.
+Note 9
+Post-Employment Benefits
+The following table summarizes net periodic benefit cost relating to the company’s defined benefit and other post-employment plans:
+The components of net periodic benefit cost other than service cost are included in other expense, net in the condensed consolidated statements of earnings.
+Note 10
+Equity
+Stock-Based Compensation
+Stock-based compensation expense is principally related to awards issued pursuant to the AbbVie 2013 Incentive Stock Program and the AbbVie Amended and Restated 2013 Incentive Stock Program and is summarized as follows:
+In addition to stock-based compensation expense included in the table above and in connection with the acquisition of ImmunoGen, AbbVie incurred cash-settled, post-closing expense for ImmunoGen employee incentive awards, which is summarized in the table below:
+Stock Options
+During the three months ended March 31, 2025, primarily in connection with the company's annual grant, AbbVie granted
+0.6
+million stock options with a weighted-average grant-date fair value of $
+38.39
+. As of March 31, 2025, $
+12
+million of unrecognized compensation cost related to stock options is expected to be recognized as expense over approximately the next
+two years
+.
+RSUs and Performance Shares
+During the three months ended March 31, 2025, primarily in connection with the company's annual grant, AbbVie granted
+4.7
+million RSUs and performance shares with a weighted-average grant-date fair value of $
+193.46
+. As of March 31, 2025, $
+1.1
+billion of unrecognized compensation cost related to RSUs and performance shares is expected to be recognized as expense over approximately the next
+two years
+.
+Cash Dividends
+The following table summarizes quarterly cash dividends declared during 2025 and 2024:
+Stock Repurchase Program
+The company's stock repurchase authorization permits purchases of AbbVie shares from time to time in open-market or private transactions at management's discretion. The program has no time limit and can be discontinued at any time. Shares repurchased under this program are recorded at acquisition cost, including related expenses, and are available for general corporate purposes.
+On February 16, 2023, AbbVie’s board of directors authorized a $
+5.0
+billion increase to the existing stock repurchase authorization. AbbVie repurchased
 3
-RSS
-4
-YouTube
+million shares for $
+606
+million during the three months ended March 31, 2025 and
 5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+million shares for $
+959
+million during the three months ended March 31, 2024. AbbVie's remaining stock repurchase authorization was approximately $
+2.9
+billion as of March 31, 2025.
+Accumulated Other Comprehensive Loss
+The following table summarizes the changes in each component of accumulated other comprehensive loss, net of tax, for the three months ended March 31, 2025:
+Other comprehensive income for the three months ended March 31, 2025 included foreign currency translation adjustments totaling a gain of $
+487
+million principally due to the impact of the strengthening of the Euro on the translation of the company’s Euro-denominated assets and the offsetting impact of net investment hedging activities totaling a loss of $
+283
+million.
+The following table summarizes the changes in each component of accumulated other comprehensive loss, net of tax, for the three months ended March 31, 2024:
+Other comprehensive loss for the three months ended March 31, 2024 included foreign currency translation adjustments totaling a loss of $
+396
+million principally due to the impact of the weakening of the Euro on the translation of the company’s Euro-denominated assets and the offsetting impact of net investment hedging activities totaling a gain of $
+207
+million.
+The following table presents the impact on AbbVie’s condensed consolidated statements of earnings for significant amounts reclassified out of each component of accumulated other comprehensive loss:
+(a) Amounts are included in interest expense, net (see Note 8)
+.
+(b) Amounts are included in the computation of net periodic benefit cost (see Note 9).
+(c) Amounts are included in cost of products sold (see Note 8).
+Note 11
+Income Taxes
+The effective tax rate was
+22
+% for the three months ended March 31, 2025 and 2024. The effective tax rate in each period differed from the U.S. statutory tax rate of
+21
+% principally due to the impact of foreign operations which reflects the impact of lower income tax rates in locations outside the United States, changes in fair value of contingent consideration and business development activities.
+Note 12
+Legal Proceedings and Contingencies
+AbbVie is subject to contingencies, such as various claims, legal proceedings and investigations regarding product liability, intellectual property, commercial, securities and other matters that arise in the normal course of business. Loss contingency provisions are recorded for probable losses at management’s best estimate of a loss, or when a best estimate cannot be made, a minimum loss contingency amount within a probable range is recorded. The recorded accrual balance for litigation was approximately $
+1.8
+billion as of March 31, 2025 and $
+2.5
+billion as of December 31, 2024. For litigation matters discussed below for which a loss is probable or reasonably possible, the company is unable to estimate the possible loss or range of loss, if any, beyond the amounts accrued. Initiation of new legal proceedings or a change in the status of existing proceedings may result in a change in the estimated loss accrued by AbbVie. While it is not feasible to predict the outcome of all proceedings and exposures with certainty, management believes that their ultimate disposition should not have a material adverse effect on AbbVie’s consolidated financial position, results of operations or cash flows.
+Subject to certain exceptions specified in the separation agreement by and between Abbott Laboratories (Abbott) and AbbVie, AbbVie assumed the liability for, and control of, all pending and threatened legal matters related to its business, including liabilities for any claims or legal proceedings related to products that had been part of its business, but were discontinued prior to the distribution, as well as assumed or retained liabilities, and will indemnify Abbott for any liability arising out of or resulting from such assumed legal matters.
+Antitrust Litigation
+Lawsuits are pending against AbbVie and others generally alleging that the 2005 patent litigation settlement involving Niaspan entered into between Kos Pharmaceuticals, Inc. (a company acquired by Abbott in 2006 and presently a subsidiary of AbbVie) and a
+generic company violated federal and state antitrust laws and state unfair and deceptive trade practices and unjust enrichment laws. Plaintiffs generally seek monetary damages and/or injunctive relief and attorneys' fees. The lawsuits pending in federal court consist of
+six
+individual plaintiff lawsuits and a certified class action by Niaspan direct purchasers. The cases are pending in the United States District Court for the Eastern District of Pennsylvania for coordinated or consolidated pre-trial proceedings under the federal multi-district litigation (MDL) Rules as In re: Niaspan Antitrust Litigation, MDL No. 2460. In October 2016, the Orange County, California District Attorney’s Office filed a lawsuit on behalf of the State of California regarding the Niaspan patent litigation settlement in Orange County Superior Court, asserting a claim under the unfair competition provision of the California Business and Professions Code seeking injunctive relief, restitution, civil penalties and attorneys’ fees.
+In November 2022, the State of Oregon filed a lawsuit in the Multnomah County, Oregon Circuit Court, alleging that 2011 patent litigation by Abbott with a generic company regarding AndroGel was sham litigation and the settlement of that litigation violated state antitrust law. Oregon also brought a claim under the Oregon False Claims Act, which the court dismissed on October 31, 2024.
+In March 2025, the court approved the parties’ settlement of this matter.
+Government Proceedings
+Lawsuits are pending against Allergan and several other manufacturers generally alleging that they improperly promoted and sold prescription opioid products. Approximately
+430
+lawsuits are pending against Allergan in federal and state courts. Most of the federal court lawsuits are consolidated for pre-trial purposes in the United States District Court for the Northern District of Ohio under the MDL rules as In re: National Prescription Opiate Litigation, MDL No. 2804. Approximately
+30
+of the lawsuits are pending in various state courts. The plaintiffs in these lawsuits, which include states, counties, cities, other municipal entities, Native American tribes, union trust funds and other third-party payors, private hospitals and personal injury claimants, generally seek compensatory and punitive damages. Of these approximately
+430
+lawsuits, approximately
+25
+of them are brought by states, counties, cities, and other municipal entities, approximately
+5
+of which are in the process of being dismissed pursuant to the previously announced settlement. Another approximately
+45
+of the approximately
+430
+lawsuits are in the process of being dismissed pursuant to class settlement between Allergan and a class of acute care hospitals, which received final court approval in March 2025.
+In March 2023, AbbVie Inc. filed a petition in the United States Tax Court, AbbVie Inc. and Subsidiaries v. Commissioner of Internal Revenue. The petition disputes the Internal Revenue Service determination concerning a $
+572
+million income tax benefit recorded in 2014 related to a payment made to a third party for the termination of a proposed business combination.
+Shareholder and Securities Litigation
+In October 2018, a federal securities lawsuit, Holwill v. AbbVie Inc., et al., was filed in the United States District Court for the Northern District of Illinois against AbbVie, its former chief executive officer and former chief financial officer, alleging that reasons stated for Humira sales growth in financial filings between 2013 and 2018 were misleading because they omitted alleged misconduct in connection with Humira patient and reimbursement support services and other services and items of value that allegedly induced Humira prescriptions. In September 2021, the court granted plaintiffs' motion to certify a class.
+Product Liability and General Litigation
+In April 2023, a putative class action lawsuit, Camargo v. AbbVie Inc., was filed in the United States District Court for the Northern District of Illinois on behalf of Humira patients who paid for Humira based on its list price or who, after losing insurance coverage, discontinued Humira because they could not pay based on its list price, alleging that Humira’s list price is excessive in violation of multiple states’ unfair and deceptive trade practices statutes. The plaintiff generally seeks monetary damages, injunctive relief, and attorneys’ fees.
+In 2018, a qui tam lawsuit, U.S. ex rel. Silbersher v. Allergan Inc., et al., was filed in the United States District Court for the Northern District of California against several Allergan entities and others, alleging that their conduct before the U.S. Patent Office resulted in false claims for payment being made to federal and state healthcare payors for Namenda XR and Namzaric. The plaintiff-relator sought damages and attorneys' fees under the federal False Claims Act and state law analogues. The federal government and state governments declined to intervene in the lawsuit. In March 2023, the court granted Allergan’s motion to dismiss, dismissing plaintiff-relator’s federal law claims with prejudice and state law claims without prejudice. In January 2025, the United States Court of Appeals for the Ninth Circuit affirmed that dismissal.
+Lawsuits are pending against various Allergan entities in the United States and other countries including Brazil, Canada, South Korea, and the Netherlands, in which plaintiffs generally allege that they developed, or may develop, breast implant-associated anaplastic large cell lymphoma (ALCL) or other injuries from Allergan’s Biocell® textured breast implants, which were voluntarily withdrawn from worldwide markets in 2019. Approximately
+145
+ALCL lawsuits and
+1,260
+other lawsuits are coordinated for pre-trial purposes in the United States District Court for the District of New Jersey under the MDL rules as In re: Allergan Biocell Textured Breast Implant
+Product Liability Litigation, MDL No. 2921. Approximately
+75
+ALCL lawsuits and
+475
+other lawsuits are pending in various state courts. Approximately
+60
+ALCL and
+1,000
+other lawsuits are pending in other countries. Plaintiffs generally seek monetary damages, medical monitoring, and attorneys’ fees.
+In January 2025, a putative class action lawsuit, Sheet Metal Workers’ Health Plan of Southern California, Arizona, and Nevada v. AbbVie Inc., was filed in the United States District Court for the Northern District of Illinois on behalf of third-party payors of Humira, alleging that AbbVie’s rebating practices are impairing biosimilar competition with Humira in violation of federal and state antitrust laws. The plaintiff generally seeks monetary damages, injunctive relief and attorneys' fees.
+Intellectual Property Litigation
+AbbVie Inc. is seeking to enforce patent rights relating to upadacitinib (a drug sold under the trademark Rinvoq). Litigation was filed in the United States District Court for the District of Delaware in November 2023 against Hetero USA, Inc., Hetero Labs Limited, Hetero Labs Limited Unit-V, Aurobindo Pharma USA, Inc., Aurobindo Pharma Ltd., Sandoz, Inc., Sandoz Private Limited, Sandoz GMBH, and Sun Pharmaceutical Industries, Ltd. AbbVie alleges defendants’ proposed generic upadacitinib products infringe certain patents and seeks declaratory and injunctive relief.
+AbbVie Inc. is seeking to enforce patent rights related to ubrogepant (a drug sold under the trademark Ubrelvy). Litigation was filed in the United States District Court for the District of New Jersey in March 2024 against Aurobindo Pharma U.S.A., Inc., Aurobindo Pharma Limited, and Apitoria Pharma Private Limited; Zydus Pharmaceuticals (USA) Inc. and Zydus Lifesciences Limited; MSN Pharmaceuticals Inc., MSN Laboratories Private Limited, and MSN Life Sciences Private Limited; and Hetero USA Inc., Hetero Labs Limited Unit-III, and Hetero Labs Limited. AbbVie alleges defendants’ proposed generic ubrogepant products infringe certain patents and seeks declaratory and injunctive relief. Merck Sharp & Dohme LLC, which exclusively licenses certain patents to AbbVie, is a co-plaintiff in the litigation.
+Note 13
+Segment Information
+AbbVie operates as a single global business segment dedicated to the research and development, manufacturing, commercialization and sale of innovative medicines and therapies. This operating structure enables the Chief Executive Officer, as chief operating decision maker (CODM), to allocate resources and assess business performance on a global basis in order to achieve established long-term strategic goals. Consistent with this structure, a global research and development and supply chain organization is responsible for the discovery, manufacturing and supply of products. Commercial efforts that coordinate the marketing, sales and distribution of these products are organized by geographic region or therapeutic area. All of these activities are supported by a global corporate administrative staff. The determination of a single business segment is consistent with the consolidated financial information regularly reviewed by the CODM for purposes of assessing performance, allocating resources and planning and forecasting future periods.
+The CODM regularly reviews net revenues, net earnings and significant segment expenses and uses net earnings as its principal measure of segment profit or loss. Net earnings and significant segment expenses reviewed by CODM are reported on the condensed consolidated statements of earnings for the periods ended March 31, 2025 and 2024. The CODM uses net earnings as its principal measure of segment profit or loss to compare past financial performance with current performance and analyze underlying business performance and trends. The CODM does not use segment assets to make decisions regarding resources; therefore, the total asset disclosure has not been included.
+The following table details AbbVie’s worldwide net revenues:
+See the following for additional information about certain income and expenses included in net earnings: intangible assets amortization expense (Note 6), change in fair value of contingent consideration (Note 8), interest income and expense (Note 2), depreciation expense (Note 2), litigation matters (Note 12), income tax expense (Note 11) and restructuring expense (Note 7).
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following is a discussion and analysis of the financial condition of AbbVie Inc. (AbbVie or the company) as of March 31, 2025 and December 31, 2024 and the results of operations for the three months ended March 31, 2025 and 2024. This commentary should be read in conjunction with the Condensed Consolidated Financial Statements and accompanying notes appearing in Item 1, “Financial Statements and Supplementary Data.”
+EXECUTIVE OVERVIEW
+Company Overview
+AbbVie is a global, diversified research-based biopharmaceutical company positioned for success with a comprehensive product portfolio that has leadership positions across immunology, neuroscience, oncology, aesthetics and eye care. AbbVie uses its expertise, dedicated people and unique approach to innovation to develop and market advanced therapies that address some of the world’s most complex and serious diseases.
+On February 13, 2025, the board of directors of AbbVie unanimously elected Chief Executive Officer (CEO) Robert A. Michael to succeed Richard A. Gonzalez as Chairman of the board of directors, effective July 1, 2025, at which time Mr. Gonzalez will retire from the board.
+AbbVie's products are generally sold worldwide directly to wholesalers, distributors, government agencies, health care facilities, specialty pharmacies and independent retailers from AbbVie-owned distribution centers and public warehouses. Certain products (including aesthetic products and devices) are also sold directly to physicians and other licensed healthcare providers. In the United States, AbbVie distributes pharmaceutical products principally through independent wholesale distributors, with some sales directly to retailers, pharmacies, patients or other customers. Outside the United States, AbbVie sells products primarily to wholesalers or through distributors, and depending on the market works through largely centralized national payers system to agree on reimbursement terms. Certain products are co-marketed or co-promoted with other companies. AbbVie operates as a single global business segment and has approximately 55,000 employees.
+2025 Strategic Objectives
+AbbVie's mission is to discover and develop innovative medicines and products that solve serious health issues today and address the medical challenges of tomorrow while achieving top-tier financial performance through outstanding execution. AbbVie intends to execute its strategy and advance its mission in a number of ways, including: (i) maximizing the benefits of a diversified revenue base with multiple long-term growth drivers; (ii) leveraging AbbVie's commercial strength and international infrastructure across therapeutic areas and ensuring strong commercial execution of new product launches; (iii) continuing to invest in and expand its pipeline in support of opportunities in immunology, neuroscience, oncology, aesthetics and eye care as well as continued investment in key on-market products; (iv) generating substantial operating cash flows to support investment in innovative research and development, and return cash to shareholders via a strong and growing dividend while also continuing to repay debt. In addition, AbbVie anticipates several regulatory submissions and data readouts from key clinical trials in the next 12 months.
+Financial Results
+The company’s financial performance for the three months ended March 31, 2025 included delivering worldwide net revenues of $13.3 billion, operating earnings of $3.7 billion, diluted earnings per share of $0.72 and cash flows from operations of $1.6 billion. Worldwide net revenues increased 8% on a reported basis and 10% on a constant currency basis.
+Financial results for the three months ended March 31, 2025 also included the following costs: (i) $1.9 billion related to the amortization of intangible assets; and (ii) $1.5 billion for the change in fair value of contingent consideration liabilities. Additionally, financial results reflected continued funding to support all stages of AbbVie’s pipeline assets and continued investment in AbbVie’s on-market brands.
+Recent Events
+AbbVie’s business may be impacted by risks associated with global macroeconomic conditions, including international trade disruptions and disputes as well as trade protection measures. For example, the U.S. government has recently imposed broad based tariffs targeting specified countries. While the impact of these tariffs on AbbVie’s operations to date has not been material, the U.S. government may in the future pause, reimpose or increase tariffs and foreign governments have and, in the future, may impose retaliatory trade protection measures. Any new or additional tariffs, particularly those targeting the pharmaceuticals industry, may increase uncertainties and associated risks and could adversely impact AbbVie’s business and results of operations.
+Research and Development
+Research and innovation are the cornerstones of AbbVie’s business as a global biopharmaceutical company. AbbVie’s long-term success depends to a great extent on its ability to continue to discover and develop innovative products and acquire or collaborate on compounds currently in development by other biotechnology or pharmaceutical companies.
+AbbVie’s pipeline currently includes approximately 90 compounds, devices or indications in development individually or under collaboration or license agreements. Of these programs, approximately 50 are in mid- and late-stage development. The company’s pipeline is focused on such important specialties as immunology, neuroscience, oncology, aesthetics and eye care. AbbVie’s recently announced partnership with Gubra marks the company’s entrance into the obesity field, a therapeutic area with significant unmet need.
+The following sections summarize transitions of significant programs from mid-stage development to late-stage development as well as developments in significant late-stage and registration programs. AbbVie expects multiple mid-stage programs to transition into late-stage programs in the next 12 months.
+Significant Programs and Developments
+Immunology
+Rinvoq
+•
+In April 2025, AbbVie announced that the European Commission (EC) granted marketing authorization to Rinvoq for the treatment of giant cell arteritis (GCA) in adult patients.
+•
+In April 2025, AbbVie announced that the U.S. Food and Drug Administration (FDA) approved Rinvoq for the treatment of GCA in adult patients.
+Neuroscience
+Qulipta
+•
+In February 2025, AbbVie initiated a Phase 3 clinical trial to evaluate Qulipta for the preventive treatment of menstrual migraine.
+Aesthetics
+BoNT/E
+•
+In April 2025, AbbVie announced that it submitted a Biologics License Application (BLA) to the U.S. FDA for approval of  trenibotulinumtoxinE (BoNT/E) for the treatment of moderate to severe glabellar lines. BoNT/E is a first-in-class botulinum neurotoxin serotype E characterized by a rapid onset of action as early as 8 hours after administration and short duration of effect of 2-3 weeks. If approved, BoNT/E will be the first neurotoxin of its kind available to patients.
+Other
+Emblaveo
+•
+In February 2025, AbbVie announced that the U.S. FDA approved Emblaveo (aztreonam and avibactam), as the first fixed-dose, intravenous, monobactam/β-lactamase inhibitor combination antibiotic to treat complicated intra-abdominal infections, including those caused by Gram-negative bacteria.
+For a more comprehensive discussion of AbbVie’s products and pipeline, see the company’s Annual Report on Form 10-K for the year ended December 31, 2024.
+RESULTS OF OPERATIONS
+Net Revenues
+The comparisons presented at constant currency rates reflect comparative local currency net revenues at the prior year’s foreign exchange rates. This measure provides information on the change in net revenues assuming that foreign currency exchange rates had not changed between the prior and current periods. AbbVie believes that the non-GAAP measure of change in net revenues at constant currency rates, when used in conjunction with the GAAP measure of change in net revenues at actual currency rates, may provide a more complete understanding of the company’s operations and can facilitate analysis of the company’s results of operations, particularly in evaluating performance from one period to another.
+The following table details AbbVie’s worldwide net revenues:
+n/m – Not meaningful
+The following discussion and analysis of AbbVie’s net revenues by product is presented on a constant currency basis.
+Net revenues for Skyrizi increased 72% for the three months ended March 31, 2025 primarily driven by continued strong market share uptake as well as market growth across all indications.
+Net revenues for Rinvoq increased 60% for the three months ended March 31, 2025 primarily driven by continued strong market share uptake as well as market growth across all indications.
+Net revenues for Humira decreased 50% for the three months ended March 31, 2025 primarily driven by continued impact of direct biosimilar competition following the loss of exclusivity.
+Net revenues for Vraylar increased 10% for the three months ended March 31, 2025 primarily driven by continued market share uptake as well as market growth.
+Net revenues for Botox Therapeutic increased 17% for the three months ended March 31, 2025 primarily driven by continued market share uptake as well as market growth.
+Net revenues for Ubrelvy increased 18% for the three months ended March 31, 2025 primarily driven by continued market share uptake.
+Net revenues for Qulipta increased 48% for the three months ended March 31, 2025 primarily driven by continued market share uptake.
+Net revenues for Imbruvica represent product revenues in the United States and collaboration revenues outside of the United States related to AbbVie’s 50% share of Imbruvica profit. AbbVie's global Imbruvica revenues decreased 12% for the three months ended
+March 31, 2025 primarily driven by the timing of customer inventory stocking in the prior year, decreased demand and lower market share in the United States as well as decreased collaboration revenues.
+Net revenues for Venclexta increased 12% for the three months ended March 31, 2025 primarily driven by continued market share uptake.
+Net revenues for Elahere increased greater than 100% for the three months ended March 31, 2025 primarily driven by a full period of Elahere results in 2025 compared to the prior year.
+Net revenues for Botox Cosmetic decreased 11% for the three months ended March 31, 2025. In the United States, Botox Cosmetic net revenues decreased 24% primarily driven by unfavorable pricing due to consumer loyalty program changes and decreased market share. Internationally, Botox Cosmetic net revenues increased 11% primarily driven by increased consumer demand across certain international markets and the timing of customer inventory stocking.
+Net revenues for Juvederm Collection decreased 20% for the three months ended March 31, 2025 primarily driven by decreased global consumer demand and unfavorable pricing due to consumer loyalty program changes in the United States.
+Gross Margin
+Gross margin as a percentage of net revenues increased for the three months ended March 31, 2025 compared to the prior year primarily due to increased leverage from net revenues growth, favorable changes in product mix and acquisition and integration costs incurred during the three months ended March 31, 2024 in connection with the ImmunoGen acquisition.
+Selling, General and Administrative
+Selling, general and administrative (SG&A) expenses as a percentage of net revenues decreased for the three months ended March 31, 2025 compared to the prior year primarily due to acquisition and integration costs incurred during the three months ended March 31, 2024 in connection with the ImmunoGen acquisition
+.
+Research and Development
+Research and development (R&D) expenses as a percentage of net revenues decreased for the three months ended March 31, 2025 compared to the prior year primarily due to acquisition and integration costs incurred during the three months ended March 31, 2024 in connection with the ImmunoGen
+acquisition partially offset by
+increased funding to support all stages of the company’s pipeline assets.
+Acquired IPR&D and Milestones
+Other Non-Operating Expenses (Income)
+Interest expense increased for the three months ended March 31, 2025 compared to the prior year primarily due to a higher average debt balance
+.
+Interest income decreased for the three months ended March 31, 2025 compared to the prior year primarily due to a lower average cash and cash equivalents balance.
+Other expense, net included charges related to changes in fair value of contingent consideration liabilities of $1.5 billion for the three months ended March 31, 2025 and $660 million for the three months ended March 31, 2024. The fair value of contingent consideration liabilities is impacted by the passage of time and multiple other inputs, including the probability of success of achieving regulatory milestones, discount rates, the estimated amount of future sales of the acquired products and other market-based factors. For the three months ended March 31, 2025, the change in fair value reflected higher estimated Skyrizi sales, the passage of time and lower discount rates. For the three months ended March 31, 2024, the change in fair value reflected higher estimated Skyrizi sales and the passage of time, partially offset by higher discount rates.
+Income Tax Expense
+The effective tax rate was 22% for the three months ended March 31, 2025 and 2024. The effective tax rate in each period differed from the U.S. statutory tax rate of 21% principally due to the impact of foreign operations which reflects the impact of lower income tax rates in locations outside the United States, changes in fair value of contingent consideration and business development activities.
+FINANCIAL POSITION, LIQUIDITY AND CAPITAL RESOURCES
+Operating cash flows for the three months ended March 31, 2025 decreased compared to the prior year primarily due to the timing of working capital and payments related to litigation matters, partially offset by increased results from operations driven by higher net revenues and ImmunoGen acquisition-related cash expenses during the three-months ended March 31, 2024.
+Investing cash flows for the three months ended March 31, 2025 included $210 million cash consideration paid to acquire Nimble Therapeutics, Inc. offset by cash acquired of $6 million, payments made for other acquisitions and investments of $334 million and capital expenditures of $235 million. Investing cash flows for the three months ended March 31, 2024 included $9.8 billion cash consideration paid to acquire ImmunoGen offset by cash acquired of $591 million, payments made for other acquisitions and investments of $190 million and capital expenditures of $193 million.
+Financing cash flows for the three months ended March 31, 2025 included the issuance of unsecured senior notes totaling $4.0 billion aggregate principal and the repayment of $3.0 billion aggregate principal of 3.80% senior notes. Financing cash flows for the three months ended March 31, 2024 included the issuance of unsecured senior notes totaling $15.0 billion aggregate principal which were used to finance the acquisitions of ImmunoGen and Cerevel Therapeutics. Additionally, financing cash flows included the issuance and repayment of $5.0 billion under the term loan credit agreement and repayment of $99 million of secured term notes assumed from ImmunoGen in conjunction with the acquisition.
+Financing cash flows also included cash dividend payments of $2.9 billion for the three months ended March 31, 2025 and $2.8 billion for the three months ended March 31, 2024. The increase in cash dividend payments was primarily driven by the increase in the quarterly dividend rate.
+On February 13, 2025, the company announced that its board of directors declared a quarterly cash dividend of $1.64 per share for stockholders of record at the close of business on April 15, 2025, payable on May 15, 2025. The timing, declaration, amount of and payment of any dividends by AbbVie in the future is within the discretion of its board of directors and will depend upon many factors, including AbbVie’s financial condition, earnings, capital requirements of its operating subsidiaries, covenants associated with certain of AbbVie’s debt service obligations, legal requirements, regulatory constraints, industry practice, ability to access capital markets and other factors deemed relevant by its board of directors.
+The company's stock repurchase authorization permits purchases of AbbVie shares from time to time in open-market or private transactions at management's discretion. The program has no time limit and can be discontinued at any time. On February 16, 2023, AbbVie’s board of directors authorized a $5.0 billion increase to the existing stock repurchase authorization. AbbVie repurchased 3 million shares for $606 million during the three months ended March 31, 2025 and 5 million shares for $959 million during the three months ended March 31, 2024.
+During the three months ended March 31, 2025 and 2024, the company issued and redeemed commercial paper. The balance of commercial paper borrowings outstanding was $1.6 billion as of March 31, 2025 and there were no amounts outstanding as of December 31, 2024. AbbVie may issue additional commercial paper or retire commercial paper to meet liquidity requirements as needed.
+Credit Risk
+AbbVie monitors economic conditions, the creditworthiness of customers and government regulations and funding, both domestically and abroad. AbbVie regularly communicates with its customers regarding the status of receivable balances, including their payment plans and obtains positive confirmation of the validity of the receivables. AbbVie establishes an allowance for credit losses equal to the estimate of future losses over the contractual life of outstanding accounts receivable. AbbVie may also utilize factoring arrangements to mitigate credit risk, although the receivables included in such arrangements have historically not been a significant amount of total outstanding receivables.
+Credit Facility, Access to Capital and Credit Ratings
+Credit Facility
+In January 2025, AbbVie entered into a new $3.0 billion five-year revolving credit facility that matures in January 2030 which is in addition to the existing $5.0 billion five-year revolving credit facility that matures in March 2028. The revolving credit facilities are available to support AbbVie’s commercial paper program and enable the company to borrow funds to meet liquidity requirements on an unsecured basis at variable interest rates and contain various covenants. At March 31, 2025, the company was in compliance with all covenants, and commitment fees under the credit facility were insignificant. No amounts were outstanding under the company's credit facility as of March 31, 2025 and December 31, 2024.
+Subsequent to March 31, 2025, the company entered into a $4.0 billion 364-day term loan credit agreement. No amounts were borrowed under the term loan credit agreement as of the date of filing of this Quarterly Report on Form 10-Q.
+In December 2023, in connection with the acquisitions of ImmunoGen and Cerevel Therapeutics, AbbVie entered into a $9.0 billion 364-day bridge credit agreement and $5.0 billion 364-day term loan credit agreement. In February 2024, AbbVie borrowed and repaid $5.0 billion under the term loan credit agreement. Subsequent to the $15.0 billion issuance of senior notes, AbbVie terminated both the bridge and term loan credit agreements in the first quarter of 2024.
+Access to Capital
+The company intends to fund short-term and long-term financial obligations as they mature through cash on hand, future cash flows from operations or has the ability to issue additional debt. The company’s ability to generate cash flows from operations, issue debt or enter into financing arrangements on acceptable terms could be adversely affected if there is a material decline in the demand for the company’s products or in the solvency of its customers or suppliers, deterioration in the company’s key financial ratios or credit ratings or other material unfavorable changes in business conditions. At the current time, the company believes it has sufficient financial flexibility to issue debt, enter into other financing arrangements and attract long-term capital on acceptable terms to support the company’s growth objectives.
+Credit Ratings
+There were no changes in the company’s credit ratings during the three months ended March 31, 2025. Unfavorable changes to the ratings may have an adverse impact on future financing arrangements; however, they would not affect the company’s ability to draw on its credit facility and would not result in an acceleration of scheduled maturities of any of the company’s outstanding debt.
+CRITICAL ACCOUNTING POLICIES
+A summary of the company’s significant accounting policies is included in Note 2, “Summary of Significant Accounting Policies” in AbbVie's Annual Report on Form 10-K for the year ended December 31, 2024. There have been no significant changes in the company’s application of its critical accounting policies during the three months ended March 31, 2025.
+FORWARD-LOOKING STATEMENTS
+Some statements in this quarterly report on Form 10-Q are, or may be considered, forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995. The words “believe,” “expect,” “anticipate,” “project,” and similar expressions and uses of future or conditional verbs, generally identify forward-looking statements. AbbVie cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. Such risks and uncertainties include, but are not limited to challenges to intellectual property, competition from other products, difficulties inherent in the research and development process, adverse litigation or government action, changes to laws and regulations applicable to our industry, the impact of global macroeconomic factors, such as economic downturns or uncertainty, international conflict, trade disputes and tariffs, and other uncertainties and risks associated with global business operations. Additional information about the economic, competitive, governmental, technological and other factors that may affect AbbVie’s operations is set forth in Item 1A, “Risk Factors,” in AbbVie’s Annual Report on Form 10-K for the year ended December 31, 2024, which has been filed with the Securities and Exchange Commission. AbbVie notes these factors for investors as permitted by the Private Securities Litigation Reform Act of 1995. AbbVie undertakes no obligation, and specifically declines, to release publicly any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+For a discussion of the company's market risk, see Item 7A, "Quantitative and Qualitative Disclosures About Market Risk" in AbbVie's Annual Report on Form 10-K for the year ended December 31, 2024.
+ITEM 4. CONTROLS AND PROCEDURES
+DISCLOSURE CONTROLS AND PROCEDURES
+Evaluation of disclosure controls and procedures.
+The Chief Executive Officer, Robert A. Michael, and the Chief Financial Officer, Scott T. Reents, evaluated the effectiveness of AbbVie's disclosure controls and procedures as of the end of the period covered by this report, and concluded that AbbVie's disclosure controls and procedures were effective to ensure that information AbbVie is required to disclose in the reports that it files or submits with the Securities and Exchange Commission under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission's rules and forms, and to ensure that information required to be disclosed by AbbVie in the reports that it files or submits under the Securities Exchange Act of 1934 is accumulated and communicated to AbbVie's management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+INTERNAL CONTROL OVER FINANCIAL REPORTING
+Changes in internal control over financial reporting.
+There were no changes in AbbVie's internal control over financial reporting (as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934) that have materially affected, or are reasonably likely to materially affect, AbbVie's internal control over financial reporting during the quarter ended March 31, 2025.
+Inherent Limitations on Effectiveness of Controls.
+AbbVie’s management, including its Chief Executive Officer and its Chief Financial Officer, do not expect that AbbVie’s disclosure controls or internal control over financial reporting will prevent or detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. The design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Further, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that
+judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls.
+The design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Projections of any evaluation of controls effectiveness to future periods are subject to risks. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures.
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+Information pertaining to legal proceedings is provided in Note 12 to the Condensed Consolidated Financial Statements and is incorporated by reference herein.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+(c)
+Issuer Purchases of Equity Securities
+1.
+In addition to AbbVie shares repurchased on the open market under a publicly announced program, these shares also included the shares purchased on the open market for the benefit of participants in the AbbVie Employee Stock Purchase Plan – 938 in January; 866 in February; and 890 in March.
+These shares do not include the shares surrendered to AbbVie to satisfy minimum tax withholding obligations in connection with the vesting or exercise of stock-based awards.
+ITEM 5. OTHER ITEMS
+(c)
+Director and Officer Trading Arrangements
+During the three months ended March 31, 2025, no director or officer of the company
+adopted
+, modified or
+terminated
+a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+ITEM 6. EXHIBITS
+Exhibits 32.1 and 32.2 are furnished herewith and should not be deemed to be “filed” under the Securities Exchange Act of 1934.
+_______________________________________________________________________________
+* Denotes management contract or compensatory plan or arrangement required to be filed as an exhibit hereto.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Date: May 9, 2025

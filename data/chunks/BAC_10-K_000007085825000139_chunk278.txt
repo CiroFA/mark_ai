@@ -1,0 +1,34 @@
+the maximum loss exposure includes outstanding trust certificates issued by trusts in rapid amortization, net of recorded reserves. For both consolidated and unconsolidated home equity loan VIEs, the maximum loss exposure excludes the reserve for representations and warranties obligations and corporate guarantees. For more information, see
+Note 12 – Commitments and Contingencies
+.
+(2)
+Maximum loss exposure includes obligations under loss-sharing reinsurance and other arrangements for non-agency residential mortgage and commercial mortgage securitizations, but excludes the reserve for representations and warranties obligations and corporate guarantees and also excludes servicing advances and other servicing rights and obligations. For more information, see
+Note 12 – Commitments and Contingencies
+and
+Note 20 – Fair Value Measurements
+.
+(3)
+Principal balance outstanding includes loans where the Corporation was the transferor to securitization VIEs with which it has continuing involvement, which may include servicing the loans.
+Other Asset-backed Securitizations
+The following paragraphs summarize select information related to other asset-backed VIEs in which the Corporation had a variable interest at December 31, 2024 and 2023.
+Credit Card and Automobile Loan Securitizations
+The Corporation securitizes originated and purchased credit card and automobile loans as a source of financing. The loans are sold on a non-recourse basis to consolidated trusts. The securitizations are ongoing, whereas additional receivables will be funded into the trusts by either loan repayments or proceeds from securities issued to third parties, depending on the securitization structure. The Corporation’s continuing involvement with the securitization trusts includes servicing the receivables and holding various subordinated interests, including an undivided seller’s interest in the credit card receivables and owning certain retained interests.
+At December 31, 2024 and 2023, the carrying values of the receivables in the trusts totaled $
+18.1
+billion and $
+16.6
+billion, which are included in loans and leases, and the carrying values of senior debt securities that were issued to third-party investors from the trusts totaled $
+8.0
+billion and $
+7.8
+billion, which are included in long-term debt.
+Resecuritization Trusts
+The Corporation transfers securities, typically MBS, into resecuritization VIEs generally at the request of customers seeking securities with specific characteristics. Generally, there are no significant ongoing activities performed in a resecuritization trust, and no single investor has the unilateral ability to liquidate the trust.
+The Corporation resecuritized $
+23.9
+billion, $
+8.6
+billion, and $
+21.8
+billion of securities during 2024, 2023 and 2022, respectively. Securities transferred into resecuritization VIEs were measured at fair value with changes in fair value recorded
+in market making and similar activities prior to the resecuritization and,

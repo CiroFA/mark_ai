@@ -1,0 +1,57 @@
+Assets
+Segment assets do not include intercompany investments or receivables.
+Assets at year-end 2024 and 2023 are as follows:
+Other Segment Information
+Additional information for the segmentation of major equity affiliates is contained in
+Note 15 Investments and Advances
+. Information related to properties, plant and equipment by segment is contained in
+Note 18 Properties, Plant and Equipment
+.
+Information related to unusual items is contained in
+Note 27 Other Financial Information
+.
+Note 15
+Investments and Advances
+Equity in earnings, together with investments in and advances to companies accounted for using the equity method and other investments accounted for at or below cost, is shown in the following table. For certain equity affiliates, Chevron pays its share of some income taxes directly. For such affiliates, the equity in earnings does not include these taxes, which are reported on the Consolidated Statement of Income as “Income tax expense.”
+83
+Descriptions of major equity affiliates and non-equity investments, including significant differences between the company’s carrying value of its investments and its underlying equity in the net assets of the affiliates, are as follows:
+Tengizchevroil
+Chevron has a
+50
+percent equity ownership interest in TCO, which operates the Tengiz and Korolev crude oil fields in Kazakhstan. At December 31, 2024, the company’s carrying value of its investment in TCO was about
+$
+73
+higher than the amount of underlying equity in TCO’s net assets. This difference results from Chevron acquiring
+a portion of its interest in TCO at a value greater than the underlying book value for that portion of TCO’s net assets. Included in the investment is a loan to TCO to fund the development of the Wellhead Pressure Management Project (WPMP) and Future Growth Project (FGP) with a principal balance of $
+4,500
+.
+Caspian Pipeline Consortium
+Chevron has a
+15
+percent interest in the Caspian Pipeline Consortium, which provides the critical export route for crude oil from both TCO and Karachaganak.
+Angola LNG Limited
+Chevron has a
+36.4
+percent interest in Angola LNG Limited, which processes and liquefies natural gas produced in Angola for delivery to international markets.
+Chevron Phillips Chemical Company LLC
+Chevron owns
+50
+percent of Chevron Phillips Chemical Company LLC. Included in the investment balance is a loan with a principal balance of
+$
+669
+to fund a portion of the Golden Triangle Polymers Project in Orange, Texas, in which Chevron Phillips Chemical Company LLC owns
+51
+percent.
+GS Caltex Corporation
+Chevron owns
+50
+percent of GS Caltex Corporation, a joint venture with GS Energy in South Korea. The joint venture imports, produces and markets petroleum products, petrochemicals and lubricants.
+Other Information
+“Sales and other operating revenues” on the Consolidated Statement of Income i
+ncludes $
+13,850
+, $
+13,623
+and $
+16,286
+with affiliated companies for 2024, 2023 and 2022, respectively. “Purchased crude oil and

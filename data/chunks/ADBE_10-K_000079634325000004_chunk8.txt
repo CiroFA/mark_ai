@@ -1,0 +1,18 @@
+digitally.
+Strategy
+Our goal is to be a leading provider of cloud-based solutions for delivering digital experiences and enabling digital transformation. Adobe Experience Cloud Apps and services are designed to manage customer journeys, enable personalized experiences at scale and deliver intelligence for businesses of any size in any industry. Adobe Experience Platform further strengthens our differentiation by offering a way to connect our comprehensive set of solutions. Further descriptions of our Digital Experience products are included below under “Principal Products, Services and Solutions.”
+Adobe Experience Cloud delivers solutions for our customers across the following strategic growth pillars:
+•
+Data insights and audiences
+. Our products deliver actionable data to our customers in real time to enable highly tailored and adaptive experiences across platforms.
+•
+Content, commerce and workflows
+. Our products help our customers manage, deliver, personalize, and optimize content delivery; build multi-channel commerce experiences for B2B and B2C customers; strategically plan,
+6
+Table of Contents
+manage, collaborate and execute on workflows for marketing campaigns and other projects at speed and scale; and leverage self-serve capabilities to deliver on-brand content.
+•
+Customer journeys
+. Our products help businesses manage, test, target and personalize customer journeys delivered as campaigns across B2B and B2C use cases.
+Our goal is to deploy our capabilities to help enterprises generate highly engaging experiences, enable content creators to enhance creativity and scale content production, and provide marketing strategists with recommendations to improve marketing strategy and enhance the delivery of personalized customer journeys. In our Adobe Experience Cloud, we believe our innovations, natively embedded AI services, and end-to-end content supply chain solutions enhance the delivery and personalization of digital experiences by allowing our customers to gain insights and understand their data, simulate outcomes, automate tasks, generate audiences, create content, optimize marketing campaigns and enable the delivery of more relevant and personalized customer journeys. Adobe Experience Cloud offers domain-specific AI services in areas such as attribution and automated insights, customer journey management, lead management, sentiment analysis, one-click personalization, enhanced anomaly detection and more that work with Adobe Experience Platform to augment our Experience Cloud product offerings. By building on these features and capabilities, we increase the value we provide our customers and create a competitive differentiation in the market.
+Adobe Experience Cloud offers an open platform and ecosystem through Adobe Experience Platform. Adobe Experience Platform’s open system transforms businesses’ customer data from across their Adobe solutions and third-party software into robust customer profiles. These profiles are updated in real time

@@ -1,0 +1,23 @@
+Significant judgment is required in determining our current provision for income taxes and deferred tax assets or liabilities. We record a valuation allowance to reduce deferred tax assets to an amount for which realization is more likely than not.
+Our assumptions, judgments and estimates relative to the current provision for income taxes take into account our interpretation and application of current tax laws and possible outcomes of current and future examinations conducted by domestic and foreign tax authorities. We have established reserves for income taxes to address potential exposures involving tax positions that could be challenged by tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and associated reserves. Our policy is to record interest and penalties related to unrecognized tax benefits in income tax expense.
+Taxes Collected from Customers
+We net taxes collected from customers against those remitted to government authorities in our financial statements. Accordingly, taxes collected from customers are not reported as revenue.
+Treasury Stock
+Prepayments made for repurchases of our common stock are classified as treasury stock on our Consolidated Balance Sheets and only shares physically delivered to us by each period end are excluded from the computation of net income per share.
+We account for treasury stock under the cost method. When treasury stock is re-issued at a price higher than its cost, the difference is recorded as a component of additional paid-in capital in our Consolidated Balance Sheets. When treasury stock is re-issued at a price lower than its cost, the difference is recorded as a component of additional paid-in capital to the extent that there are previously recorded gains to offset the losses. If there are no treasury stock gains in additional paid-in capital, the losses upon re-issuance of treasury stock are recorded as a reduction of retained earnings in our Consolidated Balance Sheets.
+Advertising Expenses
+Advertising costs are expensed as incurred. Advertising expenses for fiscal 2024, 2023 and 2022 were $
+1.04
+billion, $
+970
+million and $
+1.04
+billion, respectively.
+63
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Foreign Currency Translation
+We translate assets and liabilities of foreign subsidiaries, whose functional currency is their local currency, at exchange rates in effect at the balance sheet date. We translate revenue and expenses at the monthly average exchange rates. We include accumulated net translation adjustments in stockholders’ equity as a component of accumulated other comprehensive income (loss).
+Derivative Financial Instruments
+In countries outside the United States, we transact business in U.S. Dollars and in various other currencies. We may use foreign exchange forward contracts and option contracts to hedge a portion of our forecasted foreign

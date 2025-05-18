@@ -1,0 +1,37 @@
+credit losses on retail notes and financing lease receivables increased in 2024 primarily due to higher expected losses as a result of elevated
+67
+Table of Contents
+​
+delinquencies and a decline in market conditions impacting the agriculture receivable portfolio. This increase was partially offset by a decrease in the allowance on revolving charge accounts, driven by write-offs of seasonal financing program accounts and recoveries expected on those accounts in the future.
+During 2023, we determined that the financial services business in Russia met the held for sale criteria. The financing receivables in Russia were reclassified to “Other assets” and the associated allowance for credit losses was reversed. These operations were sold in the second quarter of 2023 (see Note 3). Excluding the portfolio in Russia, the allowance increased in 2023, primarily driven by growth in the retail notes and financing lease portfolios and higher expected losses on turf and construction customer accounts.
+Write-offs by year of origination were as follows:
+​
+​
+Financing receivable analysis metrics follow:
+​
+​
+​
+​
+Financing Receivables – Modifications
+We occasionally grant contractual modifications to customers experiencing financial difficulties. Before offering a modification, we evaluate the ability of the customer to meet the modified payment terms. Modifications offered include payment deferrals, term extensions, or a combination thereof. Finance charges continue to accrue during the deferral or extension period with the exception of modifications related to bankruptcy proceedings. Our allowance for credit losses incorporates historical loss information, including the effects of loan modifications with customers. Therefore, additional adjustments to the allowance are generally not recorded upon modification of a loan.
+​
+At October 27, 2024, the ending amortized cost and performance of modified loans with borrowers experiencing financial difficulty in 2024 was as follows:
+​
+​
+In 2024, these modifications represented
+0.18
+percent of our financing receivable portfolio. The financial effects of payment deferrals with borrowers experiencing financial difficulty resulted in a weighted average payment deferral of
+8 months
+to the modified contracts. Term extensions provided to borrowers experiencing financial difficulty added a weighted average of
+10 months
+to the terms of the modified contracts. Additionally, modifications with a combination of both payment deferrals and term extensions resulted in a weighted average payment deferral of
+4 months
+and a weighted average term extension of
+7 months
+.
+Defaults and subsequent write-offs of loans modified in the prior twelve months were not significant during 2024. At October 27, 2024, commitments to provide additional financing to these customers were
+$
+27
+.
+Financing Receivables – Troubled Debt Restructurings
+Prior to adopting ASU 2022-02, modifications of loans to borrowers experiencing financial difficulty were

@@ -1,0 +1,16 @@
+licensing. Our infrastructure software segment includes our private and hybrid cloud, application development and delivery, software-defined edge, application networking and security, mainframe, distributed and cybersecurity solutions, and our FC SAN business.
+Our fiscal year ending November 2, 2025 (“fiscal year 2025”), is a 52-week fiscal year, with our first fiscal quarter ended February 2, 2025 containing 13 weeks compared to 14 weeks in the prior year fiscal period. The additional week resulted in higher net revenue, gross margin dollars, research and development expense, and selling, general and administrative expense in the first fiscal quarter of fiscal year 2024, compared to the corresponding current year fiscal period.
+We acquired VMware, Inc. (“VMware”) on November 22, 2023, resulting in a partial quarter of operations from activities related to VMware in the first quarter of fiscal year 2024 compared to a full quarter of operations in the first quarter of fiscal year 2025.
+Quarterly Highlights
+Highlights during the fiscal quarter ended February 2, 2025 include the following:
+•
+We generated $6,113 million of cash from operations.
+•
+We paid $2,774 million in cash dividends.
+•
+We issued $4.0 billion of commercial paper and $3.0 billion of senior unsecured notes and used the net proceeds, as well as cash on hand, to repay $7,595 million of our unsecured term loans.
+Critical Accounting Estimates
+The preparation of financial statements in accordance with generally accepted accounting principles in the United States requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. We base our estimates and assumptions on current facts, historical experience and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. Our actual financial results may differ materially and adversely from our estimates. Our critical accounting policies are those that affect our historical financial statements materially and involve difficult, subjective or complex judgments by management. Those policies include revenue recognition, business combinations, valuation of goodwill and long-lived assets, and income taxes.
+There were no significant changes in our critical accounting estimates during the fiscal quarter ended February 2, 2025 compared to those previously disclosed in “Critical Accounting Estimates” in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in the 2024 Annual Report on Form 10-K.
+Macroeconomic Factors
+We are subject to risks and exposures from the evolving macroeconomic

@@ -1,0 +1,26 @@
+our total provision for credit losses, a net write-off rate including principal, interest and/or fees is also presented.
+(b)
+Net write-off rate based on principal losses only is not available due to system constraints.
+(c)
+For corporate receivables, delinquency data is tracked based on days past billing status rather than days past due. Delinquency data for periods other than 90+ days past billing is not available due to system constraints. 90+ days past billing as a % of total was
+0.4
+% and
+0.5
+% as of March 31, 2025 and 2024, respectively.
+Refer to Note 3 for additional indicators, including external qualitative factors, management considers in its evaluation process for reserves for credit losses.
+46
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Loans and Receivables Restructurings for Borrowers Experiencing Financial Difficulty
+We evaluate all loans and receivables restructurings according to the accounting guidance for loan refinancing and restructuring to determine whether such loan modification should be accounted for as a new loan or a continuation of the existing loan. Our loans and receivables restructurings for borrowers experiencing financial difficulty are generally accounted for as a continuation of the existing loan, which reflects the ongoing effort to support our customer and recover our investment in the existing loan.
+We offer several types of loans and receivables modification programs to customers experiencing financial difficulty. In such instances, we may modify loans and receivables with the intention to minimize losses and improve collectability, while providing customers with temporary or permanent financial relief.
+Such modifications to the loans and receivables primarily include (i) temporary interest rate reductions (reducing interest rates to as low as zero percent, in which case the loan is characterized as non-accrual), and/or (ii) placing the customer on a fixed payment plan not to exceed
+60
+months. Upon entering the modification program, the customer’s ability to make future purchases is limited, canceled or, in certain cases, suspended until the customer successfully exits from the modification program. As of March 31, 2025 and 2024, we had $
+19
+million and $
+28
+million, respectively, of unused credit available to customers with loans and receivables modified during each of the respective three month periods. In accordance with the modification agreement with the customer, loans and/or receivables may revert to the original contractual terms (including the contractual interest rate where applicable) when the customer exits the modification program, which is either (i) when all payments have been made in accordance with the modification agreement or (ii) when the customer defaults out of the modification program.
+The following table provides information relating to loans and receivables modifications for borrowers experiencing financial difficulty during the

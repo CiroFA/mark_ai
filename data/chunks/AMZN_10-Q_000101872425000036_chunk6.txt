@@ -1,0 +1,49 @@
+estimated fair value of our convertible notes and amounts recorded for nonvoting preferred stock investments was approximately $
+13.8
+billion. We also have a commercial arrangement primarily for the provision of AWS cloud services, which includes the use of AWS chips.
+As of December 31, 2024 and March 31, 2025, equity investments in private companies not accounted for under the equity-method had a carrying value of $
+989
+million and $
+6.1
+billion, with adjustments for observable changes in prices or impairments recognized in “Other income (expense), net” on our consolidated statements of operations.
+As of December 31, 2024 and March 31, 2025, equity investments accounted for under the equity-method of accounting, including investments for which we have elected the fair value option, had a carrying value of $
+1.2
+billion.
+We hold equity warrants giving us the right to acquire stock of other companies. As of December 31, 2024 and March 31, 2025, these warrants had a fair value of $
+2.7
+billion and $
+1.9
+billion, with gains and losses recognized in “Other income (expense), net” on our consolidated statements of operations. These warrants are classified as Level 2 and 3 assets.
+These non-marketable investments are included within “Other assets” on our consolidated balance sheets.
+Certain of our investments represent a variable interest in an entity for which we do not consolidate because we are not the primary beneficiary.
+Consolidated Statements of Cash Flows Reconciliation
+The following table provides a reconciliation of the amount of cash, cash equivalents, and restricted cash reported within the consolidated balance sheets to the total of the same such amounts shown in the consolidated statements of cash flows (in millions):
+Note 3 —
+LEASES
+We have entered into non-cancellable operating and finance leases for fulfillment network, data center, office, and physical store facilities as well as server and networking equipment, aircraft, and vehicles. Gross assets acquired under finance leases, including those where title transfers at the end of the lease, are recorded in “
+Property and equipment, net
+” and were $
+56.5
+billion and $
+54.7
+billion as of December 31, 2024 and March 31, 2025. Accumulated amortization associated with finance leases was $
+41.8
+billion and $
+40.6
+billion as of December 31, 2024 and March 31, 2025.
+Lease cost recognized in our consolidated statements of operations is summarized as follows (in millions):
+12
+Table of
+Contents
+Other information about lease amounts recognized in our consolidated financial statements is as follows:
+Our lease liabilities were as follows (in millions):
+13
+Table of
+Contents
+Note 4 —
+COMMITMENTS AND CONTINGENCIES
+Commitments
+The following summarizes our principal contractual commitments, excluding open orders for purchases that support normal operations and are generally cancellable, as of March 31, 2025 (in millions):
+___________________
+(1)
+Includes non-cancellable financing obligations for

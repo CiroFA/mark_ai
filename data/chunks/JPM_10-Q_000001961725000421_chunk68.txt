@@ -1,0 +1,24 @@
+possible losses that could arise from such transactions. For most derivative contracts, the notional amount is not exchanged; it is simply a reference amount used to calculate payments.
+100
+Impact of derivatives on the Consolidated balance sheets
+The following table summarizes information on derivative receivables and payables (before and after netting adjustments) that are reflected on the Firm’s Consolidated balance sheets as of March 31, 2025 and December 31, 2024, by accounting designation (e.g., whether the derivatives were designated in qualifying hedge accounting relationships or not) and contract type.
+(a)
+Balances exclude structured notes for which the fair value option has been elected. Refer to Note 3 for further information.
+(b)
+As permitted under U.S. GAAP, the Firm has elected to net derivative receivables and derivative payables and the related cash collateral receivables and payables when a legally enforceable master netting agreement exists.
+101
+Derivatives netting
+The following tables present, as of March 31, 2025 and December 31, 2024, gross and net derivative receivables and payables by contract and settlement type. Derivative receivables and payables, as well as the related cash collateral from the same counterparty, have been netted on the Consolidated balance sheets where the Firm has obtained an appropriate legal opinion with respect to the master netting agreement. Where such a legal opinion has not been either sought or obtained, amounts are not eligible for netting on the Consolidated balance sheets, and those derivative receivables and payables are shown separately in the tables.
+In addition to the cash collateral received and transferred that is presented on a net basis with derivative receivables and payables, the Firm receives and transfers additional collateral (financial instruments and cash). These amounts mitigate counterparty credit risk associated with the Firm’s derivative instruments, but are not eligible for net presentation:
+•
+collateral that consists of liquid securities and other cash collateral held at third-party custodians, which are shown separately as “Collateral not nettable on the Consolidated balance sheets” in the tables, up to the fair value exposure amount. For the purpose of this disclosure, the definition of liquid securities is consistent with the definition of high quality liquid assets as defined in the LCR rule;
+•
+the amount of collateral held or transferred that exceeds the fair value exposure at the individual counterparty level, as of the date presented, which is excluded from the tables; and
+•
+collateral held or transferred that relates to derivative receivables or payables where an appropriate legal opinion has not been either sought or obtained with respect to the master netting agreement, which is excluded from the tables.
+102
+103
+(a)
+Exchange-traded derivative balances that relate to futures contracts are settled daily.
+(b)
+Includes liquid securities and other cash collateral

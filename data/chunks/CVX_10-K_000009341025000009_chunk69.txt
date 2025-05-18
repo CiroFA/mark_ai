@@ -1,0 +1,20 @@
+impairment. A significant reduction in the estimated reserves of a property would trigger an impairment review. Proved reserves (and, in some cases, a portion of unproved resources) are used to estimate future production volumes in the cash flow model. For a further discussion of estimates and assumptions used in impairment assessments, see
+Impairment of Properties, Plant and Equipment and Investments in Affiliates
+below.
+Refer to
+Table V
+, “Proved Reserve Quantity Information,” for the changes in proved reserve estimates for each of the three years ended December 31, 2022, 2023 and 2024, and to
+Table VII
+, “Changes in the Standardized Measure of Discounted Future Net Cash Flows From Proved Reserves” for estimates of proved reserve values for each of the three years ended December 31, 2022, 2023 and 2024.
+56
+This Oil and Gas Reserves commentary should be read in conjunction with the Properties, Plant and Equipment section of
+Note 1 Summary of Significant Accounting Policies
+, which includes a description of the “successful efforts” method of accounting for oil and gas exploration and production activities.
+Impairment of Properties, Plant and Equipment and Investments in Affiliates
+The company assesses its properties, plant and equipment (PP&E) for possible impairment whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable. If the carrying value of an asset exceeds the future undiscounted cash flows expected from the asset, an impairment charge is recorded for the excess of the carrying value of the asset over its estimated fair value.
+Determination as to whether and how much an asset is impaired involves management estimates on highly uncertain matters, such as future commodity prices, operating expenses, carbon costs, production profiles, the pace of the energy transition, and the outlook for global or regional market supply-and-demand conditions for crude oil, NGLs, natural gas, commodity chemicals and refined products. However, the impairment reviews and calculations are based on assumptions that are generally consistent with the company’s business plans and long-term investment decisions. Refer also to the discussion of impairments of properties, plant and equipment in
+Note 18 Properties, Plant and Equipment
+and to the section on Properties, Plant and Equipment in
+Note 1 Summary of Significant Accounting Policies
+.
+The company performs impairment assessments when triggering events arise to determine whether any write-down in the carrying value of an asset or asset group is required. For example, when significant downward revisions to crude oil, NGLs and natural gas reserves are made for any single field or concession, an impairment review is performed to determine if the carrying value of the asset remains recoverable. Similarly, a significant downward revision in the company’s crude oil, NGLs or natural gas price outlook would trigger impairment reviews for impacted upstream assets.

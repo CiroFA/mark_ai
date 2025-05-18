@@ -1,0 +1,28 @@
+Item 8
+STOCKHOLDERS’ EQ
+UITY STATEMENTS
+Refer to accompanying notes.
+60
+PART II
+Item 8
+NOTES TO FINANCI
+AL STATEMENTS
+NOTE 1 — ACCOUNTING POLICIES
+Accounting Principles
+Our consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
+We have recast certain prior period amounts to conform to the current period presentation. The recast of these prior period amounts had no impact on our consolidated balance sheets, consolidated income statements, or consolidated cash flows statements.
+Principles of Consolidation
+The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries. Intercompany transactions and balances have been eliminated.
+Estimates and Assumptions
+Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (“SSP”) of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; product warranties; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; the market value of, and demand for, our inventory; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments. Actual results and outcomes may differ from management’s estimates and assumptions due to risks and uncertainties.
+In July 2022, we completed an assessment of the useful lives of our server and network equipment. Due to investments in software that increased efficiencies in how we operate our server and network equipment, as well
+as advances in technology, we determined we should increase the estimated useful lives of both server and network equipment from
+four years
+to
+six years
+. This change in accounting estimate was effective beginning fiscal year 2023.
+Foreign Currencies
+Assets and liabilities recorded in foreign currencies are translated at the exchange rate on the balance sheet date. Revenue and expenses are translated at average rates of exchange prevailing during the year. Translation adjustments resulting from this process are recorded to other comprehensive income.
+Revenue
+Product Revenue and Service and Other Revenue
+Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server applications, business

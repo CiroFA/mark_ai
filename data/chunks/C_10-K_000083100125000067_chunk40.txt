@@ -1,0 +1,26 @@
+Supplementary Leverage ratio and related components as of December 31, 2024, September 30, 2024 and December 31, 2023:
+(1)
+Represents the daily average of on-balance sheet assets for the quarter.
+(2)
+Citi’s regulatory capital ratios and components reflect certain deferrals based on the modified regulatory capital transition provision related to the CECL standard. See “Capital Resources—Regulatory Capital Treatment—Modified Transition of the Current Expected Credit Losses Methodology” above.
+(3)
+Represents the average of certain off-balance sheet exposures calculated as of the last day of each month in the quarter.
+(4)
+Under the U.S. Basel III rules, banking organizations are required to include in Total Leverage Exposure the effective notional amount of sold credit derivatives, with netting of exposures permitted if certain conditions are met.
+(5)
+Repo-style transactions include repurchase and reverse repurchase transactions as well as securities borrowing and securities lending transactions.
+As presented in the table above, Citigroup’s Supplementary Leverage ratio was 5.8% at December 31, 2024, September 30, 2024 and December 31, 2023. The ratios remained largely unchanged as changes in Tier 1 Capital were offset by changes in Total Leverage Exposure.
+44
+Capital Resources of Citigroup’s Subsidiary U.S. Depository Institutions
+Citigroup’s subsidiary U.S. depository institutions are also subject to regulatory capital standards issued by their respective primary bank regulatory agencies, which are similar to the standards of the FRB.
+The following tables present the capital components and ratios for Citibank, Citi’s primary subsidiary U.S. depository institution, as of December 31, 2024, September 30, 2024 and December 31, 2023:
+(1)
+Citibank’s required risk-based capital ratios are inclusive of the 2.5% Capital Conservation Buffer (all of which must be composed of CET1 Capital).
+(2)
+Citibank’s regulatory capital ratios and components reflect certain deferrals based on the modified regulatory capital transition provision related to the CECL standard. See “Capital Resources—Regulatory Capital Treatment—Modified Transition of the Current Expected Credit Losses Methodology” above.
+(3)
+Under the Standardized Approach, the allowance for credit losses is eligible for inclusion in Tier 2 Capital up to 1.25% of credit risk-weighted assets, with any excess allowance for credit losses being deducted in arriving at credit risk-weighted assets, which differs from the Advanced Approaches framework, in which eligible credit reserves that exceed expected credit losses are eligible for inclusion in Tier 2 Capital to the extent that the excess reserves do not exceed 0.6% of credit risk-weighted assets.
+(4)
+Citibank’s binding CET1 Capital, Tier 1 Capital and Total Capital ratios were derived under the Basel III Advanced Approaches framework for all periods presented.
+(5)
+Citibank must maintain required CET1 Capital, Tier 1 Capital, Total Capital and Leverage ratios

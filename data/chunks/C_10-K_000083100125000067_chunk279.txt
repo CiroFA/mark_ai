@@ -1,0 +1,26 @@
+(see below). The election is made upon the initial recognition of an eligible financial asset, financial liability or firm commitment or when certain specified reconsideration events occur. The fair value election
+may not otherwise be revoked once an election is made. The changes in fair value are recorded in current earnings. Movements in DVA are reported as a component of
+AOCI
+.
+The Company has elected fair value accounting for its mortgage servicing rights (MSRs). See Note 23 for additional details on Citi’s MSRs.
+Additional discussion regarding other applicable areas in which fair value elections were made is presented in Note 26.
+The following table presents the changes in fair value of those items for which the fair value option has been elected:
+(1)    Includes gains (losses) associated with interest rate lock commitments for originated loans for which the Company has elected the fair value option.
+(2)     Includes DVA that is included in
+AOCI
+. See Notes 21 and 26.
+287
+Own Debt Valuation Adjustments (DVA)
+Own debt valuation adjustments are recognized on Citi’s liabilities for which the fair value option has been elected using Citi’s credit spreads observed in the bond market. Changes in fair value of fair value option liabilities related to changes in Citigroup’s own credit spreads (DVA) are reflected as a component of
+AOCI
+. See Note 21 for additional information.
+Among other variables, the fair value of liabilities for which the fair value option has been elected (other than non-recourse debt and similar liabilities) is impacted by the narrowing or widening of the Company’s credit spreads.
+The estimated changes in the fair value of these non-derivative liabilities due to such changes in the Company’s own credit spread (or instrument-specific credit risk) were a loss of $
+573
+million and a loss of $
+2,078
+million for the years ended December 31, 2024 and 2023, respectively. Changes in fair value resulting from changes in instrument-specific credit risk were estimated by incorporating the Company’s current credit spreads observable in the bond market into the relevant valuation technique used to value each liability as described above.
+The Fair Value Option for Financial Assets and Financial Liabilities
+Selected Portfolios of Securities Purchased Under Agreements to Resell, Securities Borrowed, Securities Sold Under Agreements to Repurchase, Securities Loaned and Certain Uncollateralized Short-Term Borrowings
+The Company elected the fair value option for certain portfolios of fixed income securities purchased under
+agreements to resell and fixed income securities sold under agreements to repurchase, securities borrowed, securities loaned and certain uncollateralized short-term borrowings held primarily by broker-dealer entities in the U.S., the U.K. and Japan. In each case, the election was made because the related interest rate risk is managed on a portfolio basis, primarily with offsetting derivative instruments that are accounted for

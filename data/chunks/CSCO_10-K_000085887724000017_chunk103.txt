@@ -1,0 +1,37 @@
+required to be consolidated in our Consolidated Financial Statements.
+As of July 27, 2024, the carrying value of our investments in privately held companies was $
+1.8
+billion. Of the total carrying value of our investments in privately held companies as of July 27, 2024, $
+0.9
+billion of such investments are considered to be in variable interest entities which are unconsolidated. We have total funding commitments of $
+0.2
+billion related to privately held investments. The carrying value of these investments and the additional funding commitments, collectively, represent our maximum exposure related to privately held investments.
+84
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+11.
+Fair Value
+(a)
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Assets and liabilities measured at fair value on a recurring basis were as follows (in millions):
+(b)
+Assets Measured at Fair Value on a Nonrecurring Basis
+Our non-marketable equity securities using the measurement alternative are adjusted to fair value on a non-recurring basis. Adjustments are made when observable transactions for identical or similar investments of the same issuer occur, or due to impairment. These securities are classified as Level 3 in the fair value hierarchy because we estimate the value based on valuation methods using the observable transaction price at the transaction date and other unobservable inputs such as volatility, rights, and obligations of the securities we hold.
+The fair value for purchased intangible assets measured at fair value on a nonrecurring basis was categorized as Level 3 due to the use of significant unobservable inputs in the valuation. Significant unobservable inputs that were used included expected revenues and net income related to the assets and the expected life of the assets. The difference between the estimated fair value and the carrying value of the assets was recorded as an impairment charge, which was included in product cost of sales and operating expenses as applicable. See Note 5.
+85
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+(c)  Other Fair Value Disclosures
+The fair value of our short-term loan receivables approximates their carrying value due to their short duration. The aggregate carrying value of our long-term loan receivables as of July 27, 2024 and July 29, 2023 was $
+2.7
+billion and $
+2.9
+billion, respectively. The estimated fair value of our long-term loan receivables approximates their carrying value. We use unobservable inputs in determining discounted cash flows to estimate the fair value of our long-term loan receivables, and therefore they are categorized as Level 3.
+As of July 27, 2024 and July 29, 2023, the estimated fair value of our short-term debt approximates its carrying value due to the short maturities. As of July 27, 2024, the fair value of our senior notes was $
+20.4
+billion, with a carrying amount of $
+20.1

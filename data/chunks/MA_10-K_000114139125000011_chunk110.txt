@@ -1,0 +1,26 @@
+ruling was denied.
+In 2016, a proposed collective action was filed in the United Kingdom on behalf of U.K. consumers seeking damages for intra-European Economic Area (“EEA”) and domestic U.K. interchange fees that were allegedly passed on to consumers by merchants between 1992 and 2008.  The complaint, which seeks to leverage the European Commission’s 2007 decision on intra-EEA interchange fees, claims damages in an amount that exceeds £
+10
+billion (approximately $
+13
+billion as of December 31, 2024).  In 2021, the trial court issued a decision in which it granted class certification to the plaintiffs but narrowed the scope of the class.  Since January 2023, the trial court has held hearings on various issues, including whether any causal connection existed between the levels of Mastercard’s intra-EEA interchange fees and U.K. domestic interchange fees and regarding Mastercard’s request to narrow the number of years of damages sought by the plaintiffs on statute of limitations grounds.  In February 2024, the trial court ruled in
+101
+MASTERCARD 2024 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Mastercard’s favor, finding no causal connection between the levels of Mastercard’s intra-EEA interchange fees and U.K. domestic interchange fees.  In June 2024, the trial court ruled in Mastercard’s favor with respect to its request to dismiss
+five years
+of the plaintiffs’ damages claims on statute of limitations grounds.  The plaintiffs’ request for permission to appeal this ruling was granted.  In December 2024, the parties entered into a settlement agreement to resolve this matter.  The parties have submitted supporting papers to the court seeking approval of the settlement, and the court has scheduled a hearing on settlement approval for late February 2025.  Mastercard recorded an accrual of £
+200
+million ($
+251
+million as of December 31, 2024) in connection with this settlement agreement.
+Mastercard has been named as a defendant in a proposed consumer collective action filed in Portugal on behalf of Portuguese consumers.  The complaint, which seeks to leverage the 2019 resolution of the European Commission’s investigation of Mastercard’s central acquiring rules and interregional interchange fees, claims damages of approximately €
+0.4
+billion (approximately $
+0.4
+billion as of December 31, 2024) for interchange fees that were allegedly passed on to consumers by Portuguese merchants for a period of approximately
+20
+years.  Mastercard has submitted a statement of defense that disputes both liability and damages.
+Australia.
+In 2022, the Australian Competition & Consumer Commission (“ACCC”) filed a complaint targeting certain agreements entered into by Mastercard and certain Australian merchants related to Mastercard’s debit program.  The ACCC alleges that by entering into such agreements, Mastercard engaged in conduct with the purpose of substantially lessening competition in the supply

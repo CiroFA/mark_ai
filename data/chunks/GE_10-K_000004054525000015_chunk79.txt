@@ -1,0 +1,43 @@
+note from AerCap, for which we have adopted the fair value option and matures in the fourth quarter of 2025, is still outstanding as of December 31, 2024.
+The amortized cost of debt securities excludes accrued interest of $
+473
+million and $
+466
+million at December 31, 2024 and 2023, respectively
+, which is reported in All other current assets.
+The estimated fair value of investment securities at December 31, 2024 decreased since December 31, 2023, primarily due to share sales of our GE HealthCare equity interest and lower investment values due to higher market yields partially offset by new investments at our run-off insurance operations.
+50
+2024 FORM 10-K
+Total estimated fair value of debt securities in an unrealized loss position were $
+21,876
+million and $
+18,730
+million, of which $
+14,011
+million and $
+17,146
+million had gross unrealized losses of $(
+2,795
+) million and $(
+2,370
+) million and had been in a loss position for 12 months or more at December 31, 2024 and 2023, respectively. Gross unrealized losses  at December 31, 2024 included $(
+119
+) million related to commercial mortgage-backed securities (CMBS) collateralized by pools of commercial mortgage loans on real estate, and $(
+52
+) million related to asset-backed securities. The majority of our CMBS and asset-backed securities in an unrealized loss position have received investment-grade credit ratings from the major rating agencies. The majority of our U.S. and non-U.S. corporate securities' gross unrealized losses were in the consumer, electric, technology and energy industries. For our securities in an unrealized loss position, the losses are not indicative of credit losses, we currently do not intend to sell the investments, and it is not more likely than not that we will be required to sell the investments before recovery of their amortized cost basis.
+Cash flows associated with purchases, dispositions and maturities of insurance investment securities are as follows:
+Contractual maturities of our debt securities (excluding mortgage and asset-backed securities) at December 31, 2024 are as follows:
+We expect actual maturities to differ from contractual maturities because borrowers have the right to call or prepay certain obligations.
+In addition to the equity securities described above, we held $
+1,439
+million and $
+974
+million of equity securities without RDFV including $
+1,410
+million and $
+939
+million at our run-off insurance operations at December 31, 2024 and 2023, respectively, that are classified within All other assets in our Statement of Financial Position. Fair value adjustments, including impairments, recorded in earnings were $
+159
+million and $
+70
+million for the years ended December 31, 2024 and 2023, respectively, and insignificant for December 31, 2022. These are primarily limited partnership investments in private equity, infrastructure and real estate funds that are measured at net asset value per share (or equivalent) as a practical expedient to estimated fair

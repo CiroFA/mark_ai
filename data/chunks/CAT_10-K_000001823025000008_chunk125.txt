@@ -1,0 +1,21 @@
+Derivatives Association (ISDA) master netting agreements within ME&T and Financial Products that permit the net settlement of amounts owed under their respective derivative contracts.  Under these master netting agreements, net settlement generally permits the company or the counterparty to determine the net amount payable for contracts due on the same date and in the same currency for similar types of derivative transactions.  The master netting agreements may also provide for net settlement of all outstanding contracts with a counterparty in the case of an event of default or a termination event. Our exposure to credit loss in the event of nonperformance by the counterparties is limited to only those gains that we have recorded, but for which we have not yet received cash payment.
+Collateral is typically not required of the counterparties or of our company under the master netting agreements.  As of December 31, 2024 and 2023, no cash collateral was received or pledged under the master netting agreements.
+The effect of the net settlement provisions of the master netting agreements on our derivative balances upon an event of default or termination event was as follows:
+75
+Table of Contents
+5.
+Other income (expense)
+6.
+Income taxes
+Reconciliation of the U.S. federal statutory rate to effective rate:
+The provision for income taxes for 2024 included a non-cash tax benefit of $
+224
+million due to the reversal of a deferred tax liability from a U.S. tax law change related to currency translation.  The negative impact on the 2022 effective rate from the portion of the goodwill impairment not deductible for tax purposes is reported in the effective tax rate reconciliation line item above labeled “Nondeductible goodwill.”  Included in the line item above labeled “Non-U.S. subsidiaries taxed at other than the U.S. rate” are the effects of local and U.S. taxes related to earnings of non-U.S. subsidiaries, changes in the amount of unrecognized tax benefits associated with these earnings, losses at non-U.S. subsidiaries without local tax benefits due to valuation allowances and other permanent differences between tax and U.S. GAAP results.
+Distributions of profits from non-U.S. subsidiaries are not expected to cause a significant incremental U.S. tax impact in the future.  However, these distributions may be subject to non-U.S. withholding taxes if profits are distributed from certain jurisdictions.  Undistributed profits of non-U.S. subsidiaries of approximately
+$
+15
+billion
+are considered indefinitely reinvested.  Determination of the amount of unrecognized deferred tax liability related to indefinitely reinvested profits is not feasible primarily due to our legal entity structure and the complexity of U.S. and local tax laws.
+76
+Table of Contents
+Profit before taxes, as shown above, is based on the location of the entity to which such earnings are attributable.  Where an entity’s earnings are subject to taxation, however, may not correlate solely to

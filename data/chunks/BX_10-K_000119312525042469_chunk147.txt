@@ -1,0 +1,18 @@
+Metrics
+The alternative asset management business is primarily based on managing third-party capital and does not require substantial capital investment to support rapid growth. Since our inception, we have developed and used various key operating metrics to assess and monitor the operating performance of our various alternative asset management businesses in order to monitor the effectiveness of our value creating strategies.
+Total and
+Fee-Earning
+Assets Under Management
+“Total Assets Under Management” refers to the invested and available capital in Blackstone-managed or advised vehicles (including, without limitation, investment funds and SMAs). The Total Assets Under Management attributable to an individual vehicle is dependent on the structure and investment strategy of such vehicle and accordingly, will vary from vehicle to vehicle. Total Assets Under Management generally equals the sum of the following across Blackstone-managed or advised vehicles, as applicable:
+Uncalled commitments represent the capital we are entitled to call from investors pursuant to the terms of their respective capital commitments, including capital commitments to funds that have yet to commence their investment periods. Drawdown funds, perpetual capital vehicles,
+co-investment
+vehicles, and SMAs can each be structured with a commitment from an investor that is called over time as opposed to fully funded upon subscription.
+Assets may be raised in one vehicle or business unit and subsequently invested in or managed or advised by another vehicle or business unit. Total Assets Under Management are reported in the segment where the assets are managed.
+Our measurement of Total Assets Under Management includes commitments to, and the fair value of, invested capital in our funds from Blackstone and our personnel. Our calculation of Total Assets Under Management may differ from the calculations of other asset managers, and as a result this measure may not be comparable to similar measures presented by other asset managers. Our definition of Total Assets Under Management differs from the manner in which affiliated investment advisors report regulatory assets under management and may differ from the definition set forth in the agreements governing the vehicles we manage or advise.
+“Fee-Earning
+Assets Under Management” refers to the portion of Total Assets Under Management on which we are entitled to earn management fees and/or performance revenues. The
+Fee-Earning
+Assets Under Management attributable to an individual vehicle is driven by the basis on which fees are earned and accordingly, will vary from vehicle to vehicle.
+Fee-Earning
+Assets Under Management generally equals the sum of the following across Blackstone-managed or advised vehicles, as applicable: (a) net asset value, (b) committed capital and remaining invested capital during the investment period and post-investment period, respectively, (c) invested capital (including leverage to the extent management
+fee-

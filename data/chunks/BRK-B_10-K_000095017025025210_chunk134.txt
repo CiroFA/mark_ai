@@ -1,0 +1,15 @@
+31, 2024, our case loss estimates exceeded ceding company estimates by approximately $1.7 billion. We also periodically conduct detailed reviews of individual client claims, which may cause us to adjust our case estimates.
+Although liabilities for losses are initially determined based on pricing and underwriting analysis, we use a variety of actuarial methodologies that place reliance on the extrapolation of historical data, loss development patterns, industry data and other benchmarks. The estimate of the IBNR liabilities also requires judgment by actuaries and management to reflect the impact of additional factors like change in business mix, volume, claim reporting and handling practices, inflation, social and legal environment and the terms and conditions of the contracts. The methodologies generally fall into or are hybrids of one or more of the following categories:
+Paid and incurred loss development methods
+consider the expected case loss emergence and development patterns, together with expected loss ratios by year. Factors affecting loss development analysis include, but are not limited to, changes in the following: client claims reporting and settlement practices, the frequency of client company claim reviews, policy terms and coverage (such as loss retention levels and occurrence and aggregate policy limits), loss trends and legal trends that result in unanticipated losses. Collectively, these factors influence our selections of expected case loss emergence patterns.
+Incurred and paid loss Bornhuetter-Ferguson methods
+consider actual paid and incurred losses and expected reporting patterns of paid and incurred losses, taking the initial expected ultimate losses into account to determine an estimate of the expected unpaid or unreported losses.
+K-
+58
+Management’s Discussion and Analysis
+Critical Accounting Estimates
+Property and casualty insurance unpaid losses
+Frequency and severity methods
+commonly focus on a review of the number of anticipated claims and the anticipated claims severity and may also rely on development patterns to derive such estimates. However, our processes and techniques for estimating liabilities in such analyses generally rely more on a per-policy assessment of the ultimate cost associated with the individual loss rather than with an analysis of historical development patterns of past losses.
+Additional analysis
+– In some cases we have established reinsurance claim liabilities on a contract-by-contract basis, determined from case loss estimates reported by the ceding company and IBNR liabilities that are primarily a function of an anticipated loss ratio for the contract and the reported case loss estimate. Liabilities are adjusted upward or downward over time to reflect case losses reported versus expected case losses, which we use to form revised judgment on the adequacy of the expected loss ratio and the level of IBNR liabilities required for unreported claims. Anticipated loss ratios are also revised to include

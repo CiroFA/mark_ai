@@ -1,0 +1,22 @@
+long-term liabilities (see Note 7). On the consolidated statements of cash flows, the pre-tax impact of these charges, net of cash payments, is shown as an adjustment to reconcile net income to net cash provided by operating activities. In Note 18 Segment Information, Linde excluded these charges from its management definition of segment operating profit; a reconciliation of segment operating profit to consolidated income before income taxes and equity investments is shown within the operating profit table.
+55
+Table of Contents
+NOTE 4.
+LEASES
+In the normal course of its business, Linde enters into various leases as the lessee, primarily involving manufacturing and distribution equipment and office space. Linde determines whether a contract is or contains a lease at contract inception. Total lease and rental expenses related to operating lease right of use assets for the twelve months ended December 31, 2024 and 2023 were $
+303
+million and $
+284
+million, respectively. Operating lease costs are included in selling, general and administrative expenses and cost of sales, exclusive of depreciation and amortization. The related assets and obligations are included in other long-term assets and other current liabilities and other long-term liabilities, respectively. Total lease and rental expenses related to finance lease right of use assets for the twelve months ended December 31, 2024 and 2023 were $
+70
+million and $
+58
+million, respectively, and the costs are included in depreciation and amortization and interest. Related assets and obligations are included in other long-term assets and other current liabilities and other long-term liabilities, respectively
+.
+Linde includes renewal options that are reasonably certain to be exercised as part of the lease term. Operating and financing lease expenses above include short term and variable lease costs which are immaterial.
+As most leases do not provide an implicit rate, Linde uses the applicable incremental borrowing rate at lease commencement to measure lease liabilities and right-of-use assets. Linde determines incremental borrowing rates through market sources.
+The company has elected to apply the short-term lease exception for all underlying asset classes. Short-term leases are leases that, at the commencement date, have a lease term of twelve months or less and do not include a purchase option that the lessee is reasonably certain to exercise. Leases that meet the short-term lease definition are not recognized on the balance sheet, but rather expensed on a straight-line basis over the lease term.
+Some leasing arrangements require variable payments that are dependent on usage, output, or may vary for other reasons, such as insurance. The company does not have material variable lease payments.
+Gains and losses on sale and leaseback transactions were immaterial. Operating cash flows used for operating leases for the twelve months ended December 31, 2024 and 2023 were $
+249
+million. Cash flows used for

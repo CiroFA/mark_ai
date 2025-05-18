@@ -1,0 +1,32 @@
+customers’ systems are available for production;
+•
+government incentives for local suppliers and domestic semiconductor research and development, and increased investment in manufacturing capabilities;
+•
+the increasing role for and complexity of software in our products; and
+•
+the focus on reducing energy usage and improving the environmental impact and sustainability associated with manufacturing operations, and the availability of adequate and reliable sources of energy.
+If we do not effectively address these factors, our business and results of operations may be materially and adversely impacted.
+We are exposed to factors specific to the semiconductor industry.
+The largest proportion of our consolidated net revenue and profitability is derived from our Semiconductor Systems segment’s sale of a wide range of equipment used to fabricate semiconductor chips to the global semiconductor industry, and a majority of the revenues of Applied Global Services is from sales to semiconductor manufacturers. The semiconductor industry is characterized by factors particular to this industry that impact demand for and the profitability of our semiconductor manufacturing equipment and service products, including:
+•
+the frequency and complexity of technology transitions and inflections, and our ability to timely and effectively anticipate and adapt to these changes;
+•
+the cost of research and development due to many factors, including shrinking geometries, the use of new materials, new and more complex device structures, more applications and process steps, increasing chip design costs, and the cost and complexity of integrated manufacturing processes;
+•
+the need to reduce product development time and meet technical challenges;
+•
+the number of types and varieties of semiconductors and number of applications;
+•
+the cost and complexity for semiconductor manufacturers to move more technically advanced capability and smaller geometries to volume manufacturing, and the impact on investment in capital equipment;
+•
+semiconductor manufacturers’ levels of capital expenditures and the allocation of capital investment to market segments that we do not serve, such as lithography, or segments where our products have lower relative market presence;
+•
+delays in installation of our equipment delivered to customers;
+•
+the importance of increasing market positions in segments with growing demand;
+•
+semiconductor manufacturers’ ability to reconfigure and re-use equipment, resulting in diminished need to purchase new equipment and services from us, and challenges in providing parts for reused equipment;
+•
+shorter cycle times between order placements by customers and product shipment require greater reliance on forecasting of customer investment, which may lead to inventory write-offs and manufacturing inefficiencies that decrease gross margin;
+•
+competitive factors that make it difficult to enhance position, including challenges in securing development-tool-of-record (DTOR) and

@@ -1,0 +1,17 @@
+issuers to reimburse the issuers for a portion of the costs incurred.  These costs are incurred by issuers in providing services that benefit all participants in the system, including acquirers and merchants, whose participation in the network enables increased sales to their existing and new customers, efficiencies in the delivery of existing and new products, guaranteed payments and improved customer experience.  We (or, alternatively, financial institutions) establish “default interchange fees” that apply when there are no other established settlement terms in place between an issuer and an acquirer.  We administer the collection and remittance of interchange fees through the settlement process.
+10
+MASTERCARD 2024 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+•
+Additional Four-Party System Fees.
+The merchant discount rate is established by the acquirer to cover its costs of both participating in the four-party system and providing services to merchants.  The rate takes into consideration the amount of the interchange fee which the acquirer generally pays to the issuer.  Additionally, acquirers may charge merchants processing and related fees in addition to the merchant discount rate.  Issuers may also charge account holders fees for the transaction, including, for example, fees for extending revolving credit.
+Switched Transactions
+•
+Authorization, Clearing and Settlement.
+Through our payment network, we enable the routing of a transaction to the issuer for its approval, facilitate the exchange of financial transaction information between issuers and acquirers after a successfully conducted transaction, and settle the transaction by facilitating the exchange of funds between parties via settlement banks chosen by us and our customers.
+We guarantee the settlement of many of the transactions from issuers to acquirers to help ensure the integrity of our payment network.  We refer to the amount of this guarantee as our settlement exposure.  We do not, however, guarantee payments to merchants by their acquirers or the availability of unspent prepaid account holder account balances.
+Payment Network Architecture.
+Our payment network features a globally integrated structure that provides scale for our issuers, enabling them to expand into regional and global markets.  It is based largely on a distributed (peer-to-peer) architecture that enables the network to adapt to the needs of each transaction.  The network accomplishes this by performing intelligent routing and applying multiple services (such as fraud scoring, tokenization services, etc.) to appropriate transactions in real time.  This architecture enables us to connect all parties regardless of where or how the transaction is occurring.  It has 24-hour a day availability and world-class response time.
+Account-Based Payments Capabilities
+We offer ACH batch and real-time account-based payments capabilities, enabling payments for ACH transactions between bank accounts in real-time.  Our real-time account-based

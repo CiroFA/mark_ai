@@ -1,0 +1,20 @@
+more fixed income securities would lower the rate.  The expected return on plan assets is based on the fair value of plan asset allocations as of our measurement date, December 31.
+•
+We use the expected rate of compensation increase to develop benefit obligations using projected pay at retirement.  It represents average long-term salary increases.  This rate is influenced by our long-term compensation policies.
+•
+The assumed health care trend rate represents the rate at which health care costs are assumed to increase and is based on historical and expected experience.  Changes in our projections of future health care costs due to general economic conditions and those specific to health care (e.g., technology driven cost changes) will impact this trend rate.
+•
+We use the mortality assumption to estimate the life expectancy of plan participants.
+42
+Table of Contents
+Postretirement Benefit Plan Actuarial Assumptions Sensitivity
+The effects of a one percentage-point change in certain actuarial assumptions on 2024 pension and OPEB costs and obligations are as follows:
+Actuarial Assumptions
+See Note 12 — “Postemployment benefit plans” of Part II, Item 8 “Financial Statement and Supplemental Data” for further information regarding the accounting for postretirement benefits.
+43
+Table of Contents
+Post-sale discount reserve
+— We provide discounts to dealers through merchandising programs.  We have numerous programs that are designed to promote the sale of our products.  The most common dealer programs provide a discount when the dealer sells a product to a targeted end user.  The amount of accrued post-sale discounts was $2.2 billion and $2.1 billion at December 31, 2024 and 2023, respectively.  The reserve represents discounts that we expect to pay on previously sold units and is reviewed at least quarterly.  We adjust the reserve if discounts paid differ from those estimated.  Historically, those adjustments have not been material.
+Allowance for credit losses —
+The allowance for credit losses is management’s estimate of expected losses over the life of our finance receivable portfolio calculated using loss forecast models that take into consideration historical credit loss experience, current economic conditions and forecasts and scenarios that capture country and industry-specific economic factors. In addition, we consider qualitative factors not able to be fully captured in our loss forecast models, including borrower-specific and company-specific factors. These qualitative factors are subjective and require a degree of management judgment.
+We measure the allowance for credit losses on a collective (pool) basis when similar risk characteristics exist and on an individual basis when we determine that similar risk characteristics do not exist. We identify finance receivables for individual evaluation based on past due status and information available about the customer, such as financial statements, news reports and published credit ratings, as well as

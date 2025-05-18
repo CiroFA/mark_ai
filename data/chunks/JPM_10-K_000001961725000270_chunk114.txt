@@ -1,0 +1,18 @@
+operational continuity of its systems, including by carefully managing any changes introduced to its systems, prevent unauthorized access and the misuse of access to its systems, and adhere to all applicable legal and regulatory requirements, particularly in regions where JPMorganChase may face a heightened risk of malicious activity.
+JPMorganChase has experienced and expects that it will continue to experience failures and disruptions in the stability of its operational systems, including degraded performance of data processing systems, data quality issues, disruptions of network connectivity and malfunctioning software, as well as disruptions in its ability to access and use the operational systems of third parties and interruptions in service from third-party service providers. These incidents have resulted in various negative effects for customers, including the inability to access account information or transact through ATM, internet or mobile channels, the exfiltration of customer personal data, the recording of duplicative transactions and extended delays for customers requiring services from call centers. There can be no assurance that these and other types of operational failures or disruptions will not occur in the future.
+JPMorganChase’s ability to effectively manage the stability of its operational systems and infrastructure could be hindered by many factors, any of which could have a negative impact on JPMorganChase and its clients, customers and counterparties, including:
+•
+JPMorganChase’s ability to effectively maintain and upgrade systems and infrastructure can become more challenging as the speed, frequency, volume, interconnectivity and complexity of transactions continue to increase
+•
+attempts by third parties to defraud JPMorganChase or its clients and customers continue to increase, evolve and become more complex, and during periods of market disruption or economic uncertainty, these attempts can be expected to further increase in volume
+•
+errors made by JPMorganChase or another market participant, whether inadvertent or malicious, could cause widespread system disruption
+•
+failure to detect weaknesses or shortcomings in operational systems in a timely manner
+•
+isolated or seemingly insignificant errors in operational systems could compound, or migrate to other systems over time, to become larger issues
+•
+disruptions in operational systems or in the ability of systems to communicate with each other could be caused by failures in synchronization or encryption software, or degraded performance of microprocessors, and
+•
+attempts by third parties to block the use of key technology solutions by claiming that the use infringes on their intellectual property rights.
+JPMorganChase also depends on its ability to access and use the operational systems of third parties, including its custodians, vendors (such as those that provide data and cloud computing services, and security and technology services) and other market participants

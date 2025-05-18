@@ -1,0 +1,21 @@
+amounts)
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations is intended to help the reader understand the results of operations and financial condition of Honeywell International Inc. and its consolidated subsidiaries (Honeywell, we, us, our, or the Company) for the three years ended December 31, 2024. All references to Notes relate to Notes to Consolidated Financial Statements in the section titled
+Financial Statements and Supplementary Data
+.
+A detailed discussion of the prior year 2023 to 2022 year-over-year changes is not included herein and can be found in the Management's Discussion and Analysis of Financial Condition and Results of Operations section in
+Exhibit 99.1 to
+the
+Current Report on Form 8-K
+filed April
+2
+5, 202
+4
+, which updated our Form 10-K for the year ended December 31, 2023, by recasting historical segment information to reflect the realignment of certain of the Company's business units effective the first quarter of 2024 and impacted the composition of the Company's reportable segments
+.
+BUSINESS UPDATE
+MACROECONOMIC CONDITIONS
+We continue to monitor the impacts of ongoing macroeconomic conditions and geopolitical events. An escalation of geopolitical tensions or the implementation of global trade restrictions could impede disinflation and negatively impact growth prospects. Global conflicts, tariffs, labor disruptions, and regulations continue to create volatility in global markets and contribute to supply chain shortages and pricing volatility. We continue to actively collaborate with our suppliers to minimize shortages and reduce supply and price volatility. Global growth in the economy is projected to remain stable with further easing of inflation.
+Our mitigation strategies include pricing actions and hedging strategies, longer term planning for constrained materials, new supplier development, material supply tracking tools, and direct engagement with key suppliers to meet customer demand. Our continued relationships with strategic primary and secondary suppliers allow us to reliably source key components and raw materials, which include considering altering existing products, developing new products, and committing our own resources to assist certain suppliers. We believe these mitigation strategies enable us to reduce supply risk, accelerate new product innovation, and expand our penetration in the markets we serve. Additionally, due to the strenuous quality controls and product qualification we perform on a new or altered product, these mitigation strategies have not impacted, and we do not expect them to impact, product quality or reliability.
+To date, our strategies successfully mitigated our exposure to these conditions. However, if we are not successful in sustaining or executing these strategies, these macroeconomic conditions could have a material adverse effect on our consolidated results of operations or operating cash flows.
+See the section titled
+Risk Factors

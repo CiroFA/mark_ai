@@ -1,0 +1,20 @@
+transaction will not occur, or when the uncertainty associated with the variable consideration is resolved. The Company's estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based largely on an assessment of the Company's anticipated performance and all information (historical, current and forecasted) that is reasonably available to the Company.
+STOCK-BASED COMPENSATION PLANS
+The principal awards issued under the Company's stock-based compensation plans, which are described in Note 15
+Stock-Based Compensation Plans
+, are non-qualified stock options and restricted stock units. The cost for such awards is measured at the grant date based on the fair value of the award. The value of the portion of the award that is ultimately expected to vest is recognized as expense over the requisite service periods (generally the vesting period of the equity award) and is included in Selling, general and administrative expenses. Forfeitures are estimated at the time of grant to recognize expense for those awards expected to vest and are based on the Company's historical forfeiture rates.
+INCOME TAXES
+Significant judgment is required in evaluating tax positions. The Company establishes reserves for income taxes when, despite the belief that tax positions are fully supportable, certain positions remain that do not meet the minimum recognition threshold. The approach for evaluating certain and uncertain tax positions is defined by the authoritative guidance which determines when a tax position is more likely than not to be sustained upon examination by the applicable taxing authority. In the normal course of business, the Company and its subsidiaries are examined by various federal, state, and foreign tax authorities. The Company regularly assesses the potential outcomes of these examinations and any future examinations for the current or prior years in determining the adequacy of the Company's provision for income taxes. The Company continually assesses the likelihood and amount of potential adjustments and adjusts the income tax provision, the current tax liability, and deferred taxes in the period in which the facts that give rise to a change in estimate become known. See Note 5
+Income Taxes
+for additional information.
+61
+Honeywell International Inc.
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+EARNINGS PER SHARE
+Basic earnings per share is based on the weighted average number of common shares outstanding. Diluted earnings per share is based on the weighted average number of common shares outstanding and all dilutive potential common shares outstanding.
+ENVIRONMENTAL
+The Company accrues costs related to environmental matters when it is probable that it has incurred a liability related to a contaminated site and the amount can be reasonably estimated. See Note 19
+Commitments and Contingencies
+for

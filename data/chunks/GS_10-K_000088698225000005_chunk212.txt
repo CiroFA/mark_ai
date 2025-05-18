@@ -1,0 +1,35 @@
+average) as it related to a single position. Therefore, such unobservable inputs are not included in the table above.
+Level 3 Rollforward.
+The table below presents a summary of the changes in fair value for level 3 trading cash instruments.
+In the table above:
+•
+Changes in fair value are presented for all trading cash instruments that are classified in level 3 as of the end of the period.
+•
+Net unrealized gains/(losses) relates to trading cash instruments that were still held at period-end.
+•
+Transfers between levels of the fair value hierarchy are reported at the beginning of the reporting period in which they occur. If a trading cash instrument was transferred to level 3 during a reporting period, its entire gain or loss for the period is classified in level 3.
+•
+For level 3 trading cash instrument assets, increases are shown as positive amounts, while decreases are shown as negative amounts. For level 3 trading cash instrument liabilities, increases are shown as negative amounts, while decreases are shown as positive amounts.
+•
+Level 3 trading cash instruments are frequently economically hedged with level 1 and level 2 trading cash instruments and/or level 1, level 2 or level 3 derivatives. Accordingly, gains or losses that are classified in level 3 can be partially offset by gains or losses attributable to level 1 or level 2 trading cash instruments and/or level 1, level 2 or level 3 derivatives. As a result, gains or losses included in the level 3 rollforward below do not necessarily represent the overall impact on the firm’s results of operations, liquidity or capital resources.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The table below presents information, by product type, for assets included in the summary table above.
+In the table above, other includes government and agency obligations, other debt obligations, equity securities and commodities.
+Level 3 Rollforward Commentary for the Year Ended December 2024
+. The net realized and unrealized gains on level 3 trading cash instrument assets of $
+168
+million (reflecting $
+161
+million of net realized gains and $
+7
+million of net unrealized gains) for 2024 included gains of $
+100
+million reported in market making and $
+68
+million reported in
+interest income
+.
+The drivers of net unrealized gains on level 3 trading cash instrument assets for 2024 were not material.
+Transfers into level 3 trading cash instrument assets during 2024 primarily reflected transfers of certain corporate debt instruments and certain other debt obligations (included in other cash instruments) from level 2 (in each case, principally due to reduced price transparency as a result of a lack of market evidence, including fewer market transactions in these instruments).
+Transfers out of level 3 trading cash instrument assets during 2024 primarily reflected transfers of certain corporate debt instruments to level 2 (principally due to increased price transparency as a result of

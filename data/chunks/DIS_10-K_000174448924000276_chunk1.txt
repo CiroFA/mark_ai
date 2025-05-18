@@ -1,142 +1,119 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
+dis-20240928
+2024
+FY
+WALT DISNEY CO/
+0001744489
+9/28/2024
+--09-28
+false
+1,810,939,306
+223.4
+—
+1,023
+—
+1,023
+1,147
+1,159
+3,836
+237
+96
+667
+1,209
+1,397
+1,998
+2,353
+—
+—
+14
+0.01
+0.01
+4.6
+4.6
+1.9
+1.8
+1.9
+1.8
+47.0
+19.0
+http://fasb.org/us-gaap/2024#UsefulLifeShorterOfTermOfLeaseOrAssetUtilityMember
+20
+40
+20
+40
 3
-RSS
-4
-YouTube
+25
+10
+10
 5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+http://corporate.disney.go.com/20240928#HIBORMember
+http://corporate.disney.go.com/20240928#HIBORMember
+2025-09-30
+2028-12-31
+2036-12-31
+2036-12-31
+http://corporate.disney.go.com/20240928#HIBORMember
+2025-12-31
+2031-12-31
+2025-12-31
+2027-12-31
+0.655
+1.225
+2025-02-28
+2027-03-31
+2029-03-31
+2024-10-31
+2027-03-31
+2025-09-30
+2036-12-31
+2026-09-30
+2034-09-30
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+http://fasb.org/us-gaap/2024#InterestIncomeExpenseNonoperatingNet
+98
+4
+4
+3
+3
+3
+80
+110
+111
+140
+141
+170
+171
+200
+—
+92
+93
+184
+http://fasb.org/us-gaap/2024#OtherAssetsCurrent http://fasb.org/us-gaap/2024#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2024#OtherAssetsCurrent http://fasb.org/us-gaap/2024#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2024#OtherAssetsCurrent http://fasb.org/us-gaap/2024#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2024#OtherAssetsCurrent http://fasb.org/us-gaap/2024#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrent

@@ -1,0 +1,17 @@
+charge assets at the inception of the contracts, representing the excess, if any, of the estimated ultimate claim liabilities over the premiums earned. We subsequently adjust deferred charge assets as of the balance sheet date based on changes in the estimated timing and amount of ultimate loss payments, with retrospective application to the inception of the contract using the interest method. The resulting changes in deferred charge assets are included as a component of insurance losses and loss adjustment expenses in the Consolidated Statements of Earnings.
+K-
+76
+Notes to Consolidated Financial Statements
+(1)
+Significant accounting policies and practices
+(r)
+Insurance policy acquisition costs
+Deferred policy acquisition costs are included in other assets and were approximately $
+4.6
+billion at December 31, 2024 and 2023, of which $
+3.9
+billion in each year related to property and casualty insurance contracts. We capitalize the direct incremental costs that relate to the successful sale of insurance contracts, subject to ultimate recoverability. Direct incremental acquisition costs include commissions, premium taxes and certain other costs associated with successful efforts. We expense all other underwriting costs as incurred. For short-duration property and casualty insurance contracts, deferred policy acquisition costs are reflected in expenses over the contract term as the related premiums are earned. For long-duration life contracts, we expense deferred policy acquisition costs at a constant level based on the expected amount of insurance in-force and the expected term of the contract using the assumptions consistent with those used in determining related insurance liabilities.
+(s)
+Life, annuity and health insurance benefits
+Liabilities for life, annuity and health insurance benefits under long-duration insurance contracts represent the present value of expected future cash outflows from future benefit payments and certain non-acquisition costs, less the present value of expected future “net premiums,” which is the portion of gross premiums required to provide for all expected future benefits and variable expenses. Periodic payment and annuity reinsurance contracts are regarded as limited payment contracts. Such liabilities include the present value of expected future payments based on the discount rates used to measure benefit liabilities and deferred profit liabilities, which are based on the excess of gross premiums received over the net premiums established at the inception of the contract.
+In estimating future cash flows, we consider the timing and amount of future claims, premiums and expenses, which require estimates of expected mortality, morbidity and lapse rates. Cash flow assumptions are reviewed at least annually, with the effects of assumption changes recorded in earnings. The discount rate assumptions used to measure benefit liabilities are revised each reporting period based on the prevailing upper-medium-grade corporate bond

@@ -1,0 +1,23 @@
+Total Capital ratio was derived under the Basel III Advanced Approaches framework for all periods presented.
+(3)
+Leverage ratio denominator. Represents quarterly average total assets less amounts deducted from Tier 1 Capital.
+(4)
+Supplementary Leverage ratio denominator.
+As indicated in the table above, Citigroup’s capital ratios at March 31, 2025 were in excess of the regulatory capital requirements under the U.S. Basel III rules. In addition, Citi was “well capitalized” under current federal bank regulatory agencies definitions as of March 31, 2025.
+32
+Components of Citigroup Capital
+(1)
+Issuance costs of $67 million related to outstanding noncumulative perpetual preferred stock at March 31, 2025 and December 31, 2024 were excluded from common stockholders’ equity and netted against such preferred stock in accordance with FRB regulatory reporting requirements, which differ from those under U.S. GAAP.
+(2)
+Commencing January 1, 2025, the capital effects resulting from adoption of the current expected credit losses (CECL) methodology have been fully reflected in Citi’s regulatory capital. For additional information, see “Capital Resources—Regulatory Capital Treatment—Modified Transition of the Current Expected Credit Losses Methodology” in Citi’s 2024 Form 10-K.
+(3)
+Includes goodwill “embedded” in the valuation of significant common stock investments in unconsolidated financial institutions.
+(4)
+Of Citi’s $29.6 billion of net DTAs at March 31, 2025, $11.5 billion of net DTAs arising from net operating loss, foreign tax credit and general business credit tax carry-forwards, as well as $4.3 billion of DTAs arising from temporary differences that exceeded the 10% limitation, were excluded from Citi’s CET1 Capital as of March 31, 2025. DTAs arising from net operating loss, foreign tax credit and general business credit tax carry-forwards are required to be entirely deducted from CET1 Capital under the U.S. Basel III rules. DTAs arising from temporary differences are required to be deducted from capital only if they exceed 10%/15% limitations under the U.S. Basel III rules.
+(5)
+Assets subject to 10%/15% limitations include MSRs, DTAs arising from temporary differences and significant common stock investments in unconsolidated financial institutions. At March 31, 2025 and December 31, 2024, this deduction related only to DTAs arising from temporary differences that exceeded the 10% limitation.
+(6)
+Represents Citigroup Capital XIII trust preferred securities, which are permanently grandfathered as Tier 1 Capital under the U.S. Basel III rules.
+33
+(7)
+Under the Standardized Approach, the allowance for credit losses is eligible for inclusion in Tier 2 Capital up to 1.25% of credit risk-weighted assets, with any excess allowance for credit losses being deducted in arriving at credit risk-weighted assets, which differs from the Advanced Approaches framework, in which eligible credit reserves that exceed expected credit losses are eligible for inclusion in

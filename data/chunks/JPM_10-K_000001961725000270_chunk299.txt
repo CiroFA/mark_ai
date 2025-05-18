@@ -1,0 +1,37 @@
+other components of net periodic defined benefit costs are reported in other expense in the Consolidated statements of income.
+(b)
+Includes pension settlement losses of $
+92
+million for the year ended December 31, 2022.
+The following table presents the weighted-average actuarial assumptions used to determine the net periodic benefit costs for the defined benefit pension and OPEB plans.
+Plan assumptions
+The Firm’s expected long-term rate of return is a blended weighted average, by asset allocation of the projected long-term returns for the various asset classes, taking into consideration local market conditions and the specific allocation of plan assets. Returns on asset classes are developed using a forward-looking approach and are not strictly based on historical returns, with consideration given to current market conditions and the portfolio mix of each plan.
+The discount rates used in determining the benefit obligations are generally provided by the Firm’s actuaries, with the Firm’s principal defined benefit pension plan using a rate that was selected by reference to the yields on portfolios of bonds with maturity dates and coupons that closely match the plan’s projected annual cash flows.
+Investment strategy and asset allocation
+The assets of the Firm’s defined benefit pension plans are held in various trusts and are invested in well-diversified portfolios of equity and fixed income securities, cash and cash equivalents, and alternative investments. The Firm regularly reviews the asset allocations and asset managers, as well as other factors that could impact the portfolios, which are rebalanced when deemed necessary. As of December 31, 2024, the approved asset allocation ranges by asset class for the Firm’s principal defined benefit plan are
+41
+-
+100
+% debt securities,
+0
+-
+40
+% equity securities,
+0
+-
+1
+% real estate, and
+0
+-
+8
+% alternatives.
+Assets held by the Firm’s defined benefit pension and OPEB plans do not include securities issued by JPMorganChase or its affiliates, except through indirect exposures through investments in exchange traded funds, mutual funds and collective investment funds managed by third-parties. The defined benefit pension and OPEB plans hold investments that are sponsored or managed by affiliates of JPMorganChase in the amount of $
+1.8
+billion as of both December 31, 2024 and 2023.
+Fair value measurement of the plans’ assets and liabilities
+Refer to Note 2 for information on fair value measurements, including descriptions of level 1, 2, and 3 of the fair value hierarchy and the valuation methods employed by the Firm.
+(a) Consists predominantly of equity securities, U.S. federal, state, and local and non-U.S. government debt securities, and cash equivalents.
+(b) Consists of corporate debt securities, fund investments, mortgage-backed securities, and U.S. federal, state, and local and non-U.S. government debt securities.
+(c) Consists predominantly of corporate-owned life insurance policies
+.
+Notes to consolidated

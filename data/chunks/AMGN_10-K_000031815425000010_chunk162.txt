@@ -1,0 +1,34 @@
+The developed-product-technology rights acquired relates to TAVNEOS, which is approved in the United States and the EU for ANCA-associated vasculitis. The estimated fair value of $
+3.5
+billion was determined by using a multi-period excess earnings income approach that discounts expected future cash flows to present value by applying a discount rate that represents the estimated rate that market participants would use to value the intangible assets. The developed-product-technology rights are being amortized on a straight-line basis over a weighted-average period of approximately
+11
+years from the acquisition date using the straight-line methodology.
+The estimated fair value of the acquired inventory of $
+41
+million was determined using the comparative sales method, which uses actual or expected selling prices of inventory as the base amount to which adjustments for selling effort and a profit on the buyer’s effort are applied. The inventory fair value adjustment was amortized as inventory turned over, which we estimated to be approximately
+13
+months from the acquisition date.
+A net deferred tax liability of $
+502
+million was recognized on the temporary differences related to the book bases and tax bases of the acquired identifiable assets and assumed liabilities, primarily driven by the intangible assets acquired.
+The excess of the acquisition date consideration over the fair values assigned to the assets acquired and the liabilities assumed of $
+649
+million was recorded as goodwill, which is not deductible for tax purposes. The goodwill value is primarily attributable to the expected synergies from the TAVNEOS asset.
+Divestiture of Gensenta İlaç Sanayi ve Ticaret A.Ş.
+On November 2, 2022, we sold our shares in Gensenta, a subsidiary in Turkey, to Eczacıbaşı for net cash proceeds of approximately $
+130
+million. The transaction was accounted for as a sale of a business and did not meet the criteria to be classified as discontinued operations. Upon closing of this transaction, net assets related to Gensenta of $
+86
+million were divested, and during the year ended December 31, 2022, we recognized a loss on divestiture of $
+567
+million recorded in Other operating expenses in the Consolidated Statements of Income, primarily due to the reclassification of $
+615
+million of cumulative foreign currency translation losses from AOCI into earnings. See Note 17, Stockholders’ equity.
+F-20
+5.
+Stock-based compensation
+Our Amended 2009 Plan authorizes for issuance to employees of Amgen and nonemployee members of our Board of Directors shares of our common stock pursuant to grants of equity-based awards, including RSUs, stock options and performance units. The pool of shares available under the Amended 2009 Plan is reduced by
+one
+share for each stock option granted and by
+1.9
+shares for other types of awards granted, including full-value awards. In general, if any shares subject to an award granted under the Amended 2009 Plan expire or become forfeited,

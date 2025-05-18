@@ -1,0 +1,30 @@
+change of control of the Company or changes in our management.
+General Risks
+•
+Volatile and significantly weakened global economic conditions.
+•
+The occurrence of natural disasters and other events beyond our control.
+•
+The long-term impact of climate change on our business.
+Operational and Execution Risks
+If our security measures or those of our third-party data center hosting facilities, cloud computing platform providers or third-party service partners, or the underlying infrastructure of the Internet are breached, and unauthorized access is obtained to a customer’s data, our data or our IT systems, or authorized access is blocked or disabled, our services may be perceived as not being secure, customers may curtail or stop using our services, and we may incur significant reputational harm, legal exposure and liabilities, or a negative financial impact.
+Our services involve the storage and transmission of our customers’ and our customers’ customers’ proprietary and other sensitive data, including financial, health and other personal information. Our services and underlying infrastructure may in the future be materially breached or compromised as a result of the following:
+•
+third-party attempts to fraudulently induce our employees, partners or customers to disclose sensitive information such as usernames, passwords or other information to gain access to our customers’ data or IT systems, or our data or our IT systems;
+•
+efforts by individuals or groups of hackers and sophisticated organizations, such as criminal organizations, state-sponsored organizations or nation-states, to launch coordinated attacks, including ransomware, destructive malware and distributed denial-of-service attacks;
+•
+third-party attempts to abuse our marketing, advertising, messaging or social products and functionalities to impersonate persons or organizations and disseminate information that is false, misleading or malicious;
+•
+cyberattacks on our internally built infrastructure on which many of our service offerings operate, or on third-party cloud-computing platform providers;
+•
+vulnerabilities resulting from enhancements and updates to our existing service offerings;
+•
+vulnerabilities in the products or components across the broad ecosystem that our services operate in conjunction with and are dependent on;
+•
+vulnerabilities existing within new technologies and infrastructures, including those from acquired companies;
+•
+attacks on, or vulnerabilities in, the many different underlying networks and services that power the Internet that our products depend on, most of which are not under our control or the control of our vendors, partners or customers; and
+•
+employee or contractor errors or intentional acts that compromise our security systems.
+These risks are mitigated, to the extent possible, by our ability to maintain and improve business and data governance policies and enhance processes and internal security controls, including our ability to escalate and respond

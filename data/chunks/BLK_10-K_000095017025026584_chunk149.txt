@@ -1,0 +1,22 @@
+our fair value specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the valuation of acquired management contracts and contingent consideration included the following, among others:
+•
+We tested the design and operating effectiveness of controls over the Company’s valuation of acquired management contracts and contingent consideration, including management’s controls over forecasts of future revenue and cash flows, projected AUM, and determination of discount rates.
+•
+We evaluated the reasonableness of management’s forecasted revenue and cash flows and projected AUM, by comparing management’s projections to historical results, contractual revenue agreements in place, and relevant industry reports and evaluated whether the forecasted revenue and cash flows and projected AUM were consistent with evidence obtained in other areas of the audit.
+F-
+2
+•
+With the assistance of our fair value specialists, we evaluated the reasonableness of the Company’s valuation methodologies and valuation assumptions used in the fair value analysis by:
+o
+Testing the source information underlying the determination of the discount rates and the mathematical accuracy of the valuation.
+o
+For acquired management contracts, evaluating the reasonableness of the methodology used, and developing a range of independent estimates and comparing those to the discount rates selected by management.
+o
+For contingent consideration, evaluating the reasonableness of the methodology used, the acceptability of the valuation assumptions used, as well as evaluating the probability of contingent future events to calculate an independent estimate of fair value.
+Impairment of indefinite-lived intangible assets related to certain management contracts — Refer to Notes 2 and 12 to the financial statements
+Critical Audit Matter Description
+The Company’s indefinite-lived intangible assets are comprised of management contracts, trade names/trademarks and licenses acquired in business acquisitions. The Company performs its impairment assessment of its indefinite-lived intangible assets at least annually, as of July 31
+st
+. In 2024, the annual assessment excluded indefinite-lived intangible assets related to GIP as the acquisition was finalized October 1, 2024; refer to Acquisition of Global Infrastructure Management, LLC (GIP) – fair value of intangible assets related to management contracts and contingent consideration critical audit matter for discussion of the acquisition of GIP. In evaluating whether it is more likely than not that the fair value of indefinite-lived intangibles is less than carrying value, the Company performs certain quantitative assessments and assesses various significant qualitative factors. If an indefinite-lived intangible asset is determined to be more likely than not impaired, the fair value of the asset is then compared with its carrying value. Any excess of the carrying value over the fair value would be recognized as an
