@@ -1,0 +1,21 @@
+qualitative factors. The recoverability of the deferred tax assets is evaluated by assessing the adequacy of future expected taxable income from all sources, including reversal of taxable temporary differences, forecasted operating earnings and available tax planning strategies. These sources of income rely on estimates.
+In determining the provision for income taxes, an annual effective income tax rate is used based on annual income, permanent differences between book and tax income, and statutory income tax rates. Discrete events such as audit settlements or changes in tax laws are recognized in the period in which they occur.
+The Company records a liability for unrecognized tax benefits resulting from uncertain tax positions taken or expected to be taken in a tax return. The Company records interest and penalties related to unrecognized tax benefits in interest expense and operating, selling, general and administrative expenses, respectively, in the Company's Consolidated Statements of Income. Refer to
+Note 9
+for additional income tax disclosures.
+62
+Redeemable Noncontrolling Interest
+Noncontrolling interests that are redeemable outside the Company's control at fixed or determinable prices and dates are presented as temporary equity in the Consolidated Balance Sheets. Redeemable noncontrolling interests are recorded at the greater of the redemption fair value or the carrying value of the noncontrolling interest and adjusted each reporting period for income, loss and any distributions made. Remeasurements to the redemption value of the redeemable noncontrolling interest are recognized in capital in excess of par. The Company has a redeemable noncontrolling interest related to an acquisition in the Walmart U.S. segment as the minority interest owner holds a put option which may require the Company to purchase its interest beginning in December 2027, with annual options thereafter.
+Revenue Recognition
+Net Sales
+The Company recognizes sales revenue, net of sales taxes and estimated sales returns, at the time it sells merchandise or provides services to the customer. eCommerce sales include shipping revenue and are recorded upon delivery to the customer. Estimated sales returns are calculated based on expected returns.
+Financial, Advertising and Other Services
+The Company recognizes revenue from service transactions at the time the service is performed. Generally, revenue from services is classified as a component of net sales in the Company's Consolidated Statements of Income.
+Membership and Other Income
+Membership and other income primarily includes membership fee revenue associated with the Company's various membership offerings for customers and members across each reportable segment. Membership fee revenue is recognized over the term of the membership, which is typically 12 months. Membership fee revenue was $
+3.8
+billion for fiscal 2025, $
+3.1
+billion for fiscal 2024 and $
+2.6
+billion for fiscal 2023. Deferred membership fee revenue is

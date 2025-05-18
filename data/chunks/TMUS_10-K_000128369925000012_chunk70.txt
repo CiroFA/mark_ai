@@ -1,0 +1,30 @@
+related depreciation expense on leased devices from Adjusted EBITDA. Adjusted EBITDA, Adjusted EBITDA margin, Core Adjusted EBITDA and Core Adjusted EBITDA margin have limitations as analytical tools and should not be considered in isolation or as substitutes for income from operations, net income or any other measure of financial performance reported in accordance with GAAP.
+41
+Table of Contents
+The following table illustrates the calculation of Adjusted EBITDA and Core Adjusted EBITDA and reconciles Adjusted EBITDA and Core Adjusted EBITDA to Net income, which we consider to be the most directly comparable GAAP financial measure:
+(1)
+Stock-based compensation includes payroll tax impacts and may not agree with stock-based compensation expense on the consolidated financial statements. Additionally, certain stock-based compensation expenses associated with the Transactions have been included in Merger-related costs.
+(2)
+Merger-related costs, for the year ended December 31, 2024, includes the $100 million gain recognized for the extension fee previously paid by DISH associated with the DISH License Purchase Agreement.
+(3)
+Legal-related (recoveries) expenses, net, consists of the settlement of certain litigation associated with the August 2021 cyberattack and is presented net of insurance recoveries.
+(4)
+Other, net, primarily consists of certain severance, restructuring and other expenses, gains and losses, not directly attributable to the Merger, which are not reflective of T-Mobile’s core business activities and are, therefore, excluded from Adjusted EBITDA and Core Adjusted EBITDA. Other, net, for the year ended December 31, 2023, includes $462 million of severance and related costs associated with the August 2023 workforce reduction.
+NM - Not meaningful
+Core Adjusted EBITDA increased $2.7 billion, or 9%, for the year ended December 31, 2024. The components comprising Core Adjusted EBITDA are discussed further above.
+The increase was primarily from:
+•
+Higher Total service revenues;
+•
+Higher Equipment revenues, excluding lease revenues; and
+•
+Lower Cost of services, excluding Special Items; partially offset by
+•
+Higher Selling, general and administrative expenses, excluding Special Items; and
+•
+Higher Cost of equipment sales, excluding Special Items.
+Adjusted EBITDA increased $2.4 billion, or 8%, for the year ended December 31, 2024, primarily due to the fluctuations in Core Adjusted EBITDA, discussed above, partially offset by lower lease revenues, which decreased $219 million for the year ended December 31, 2024.
+42
+Table of Contents
+Liquidity and Capital Resources
+Our principal sources of liquidity are our cash and cash equivalents and cash generated from operations, proceeds from issuance of debt, financing leases, the sale of certain receivables, the Revolving Credit Facility and an unsecured short-term commercial paper program. Further, the incurrence of additional indebtedness may inhibit our ability to incur new debt in the future to

@@ -1,0 +1,30 @@
+table presents the balances of assets and liabilities measured at fair value on a recurring basis as of December 31, 2024:
+(1)
+Quoted prices in active markets for identical assets or liabilities.
+(2)
+Observable inputs other than quoted prices in active markets for identical assets and liabilities.
+(3)
+Unobservable pricing inputs in the market.
+Certain of our equity investments do not have readily determinable fair values and are excluded from the tables above. Such investments are measured at cost, less any impairment, plus or minus changes resulting from observable price changes in
+19
+Table of Contents
+orderly transactions for an identical or similar investment of the same issuer and are included in Investments in unconsolidated businesses in our condensed consolidated balance sheets. As of March 31, 2025 and December 31, 2024, the carrying amount of our investments without readily determinable fair values was $
+717
+million and $
+724
+million, respectively. During the three months ended March 31, 2025, there were insignificant adjustments due to observable price changes and there were
+no
+impairment charges. As of March 31, 2025, cumulative adjustments due to observable price changes and impairment charges were $
+180
+million and $
+120
+million, respectively.
+Fixed income securities consist primarily of investments in municipal bonds. The valuation of the fixed income securities is based on the quoted prices for similar assets in active markets or identical assets in inactive markets or models that apply inputs from observable market data. The valuation determines that these securities are classified as Level 2.
+Derivative contracts are valued using models based on readily observable market parameters for all substantial terms of our derivative contracts and thus are classified within Level 2. We use mid-market pricing for fair value measurements of our derivative instruments. Our derivative instruments are recorded on a gross basis.
+We recognize transfers between levels of the fair value hierarchy as of the end of the reporting period.
+Fair Value of Short-term and Long-term Debt
+The fair value of our debt is determined using various methods, including quoted prices for identical debt instruments, which is a Level 1 measurement, as well as quoted prices for similar debt instruments with comparable terms and maturities, which is a Level 2 measurement.
+The fair value of our short-term and long-term debt, excluding finance leases, was as follows:
+Derivative Instruments
+We enter into derivative transactions primarily to manage our exposure to fluctuations in foreign currency exchange rates and interest rates. We employ risk management strategies, which may include the use of a variety of derivatives including interest rate swaps, cross currency swaps, forward starting interest rate swaps, treasury rate locks, interest rate caps, swaptions and foreign exchange forwards. We do not hold derivatives for trading purposes.
+The following table sets forth the

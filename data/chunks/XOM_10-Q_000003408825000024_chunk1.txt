@@ -1,0 +1,38 @@
+FORM 10-Q
+FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2025
+TABLE OF CONTENTS
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+3
+Table of Contents
+4
+Table of Contents
+5
+Table of Contents
+6
+Table of Contents
+7
+Table of Contents
+Note 1. Basis of Financial Statement Preparation
+These unaudited condensed consolidated financial statements should be read in the context of the consolidated financial statements and notes thereto filed with the Securities and Exchange Commission in the Corporation's 2024 Annual Report on Form 10-K. In the opinion of the Corporation, the information furnished herein reflects all known accruals and adjustments necessary for a fair statement of the results for the periods reported herein. All such adjustments are of a normal recurring nature.
+Restricted cash represents sale proceeds required to be set aside by a contractual arrangement for any potential like kind exchange. The restriction will lapse upon the earlier of completion of the exchange or the expiry of the underlying time period, which is less than one year.
+The Corporation's exploration and production activities are accounted for under the "successful efforts" method.
+Note 2. Pioneer Natural Resources Merger
+On May 3, 2024, the Corporation acquired Pioneer Natural Resources Company ("Pioneer"), an independent oil and gas exploration and production company. In connection with the acquisition, we issued
+545
+million shares of ExxonMobil common stock having a fair value of $
+63
+billion on the acquisition date, and assumed debt with a fair value of $
+5
+billion.
+The transaction was accounted for as a business combination in accordance with ASC 805, which requires that assets acquired and liabilities assumed be recognized at their fair values as of the acquisition date.
+The following table summarizes the provisional fair values of the assets acquired and liabilities assumed.
+8
+Table of Contents
+Debt Assumed in the Merger
+The following table presents long-term debt assumed at closing:
+Note 3. Litigation and Other Contingencies
+Litigation
+A variety of claims have been made against ExxonMobil and certain of its consolidated subsidiaries in a number of pending lawsuits. Management has regular litigation reviews, including updates from corporate and outside counsel, to assess the need for accounting recognition or disclosure of these contingencies.
+The Corporation accrues an undiscounted liability for those contingencies where the incurrence of a loss is probable and the amount can be reasonably estimated. If a range of amounts can be reasonably estimated and no amount within the range is a better estimate than any other amount, then the minimum of the range is accrued. The Corporation does not record liabilities when the likelihood that the liability has been incurred is probable but the amount cannot be reasonably estimated or when the liability is believed to be only reasonably possible or remote. For contingencies where an unfavorable outcome is reasonably possible and which

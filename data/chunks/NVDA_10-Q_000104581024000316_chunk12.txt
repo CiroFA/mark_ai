@@ -1,0 +1,24 @@
+that we may release the valuation allowance associated with certain state deferred tax assets in the near term, which would decrease our income tax expense for the period the release is recorded. The timing and amount of the valuation allowance release could vary based on our assessment of all available information.
+While we believe that we have adequately provided for all uncertain tax positions, or tax positions where we believe it is not more-likely-than-not that the position will be sustained upon review, amounts asserted by tax authorities could be greater or less than our accrued position. Accordingly, our provisions on federal, state and foreign tax related matters to be recorded in the future may change as revised estimates are made or the underlying matters are settled or otherwise resolved with the respective tax authorities. As of October 27, 2024, we do not believe that our estimates, as otherwise provided for, on such tax positions will significantly increase or decrease within the next 12 months.
+Note 6 -
+Cash Equivalents and Marketable Securities
+The following is a summary of cash equivalents and marketable securities:
+(1)    Fair value adjustments on publicly-held equity securities are recorded in net income. Beginning in the second quarter of fiscal year 2025, publicly-held equity securities from investments in non-affiliated entities were classified in marketable securities on our Condensed Consolidated Balance Sheets.
+Net unrealized gains on investments in publicly-held equity securities were not significant and $
+195
+million for the third quarter and first nine months of fiscal year 2025, respectively. Net unrealized gains on investments in publicly-held equity securities were not significant for the third quarter and first nine months of fiscal year 2024.
+12
+NVIDIA Corporation and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Continued)
+(Unaudited)
+The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time that individual debt securities have been in a continuous loss position:
+Gross unrealized losses are related to fixed income securities, driven primarily by changes in interest rates.
+13
+NVIDIA Corporation and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Continued)
+(Unaudited)
+The amortized cost and estimated fair value of debt securities included in cash equivalents and marketable securities are shown below by contractual maturity.
+Note 7 -
+Fair Value of Financial Assets and Liabilities and Investments in Non-Affiliated Entities
+The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or market prices of similar assets from active markets. We review fair value classification on a quarterly basis.
+(1)    Liabilities are carried on our Condensed Consolidated Balance Sheets at their original issuance value, net of unamortized debt discount and issuance costs.

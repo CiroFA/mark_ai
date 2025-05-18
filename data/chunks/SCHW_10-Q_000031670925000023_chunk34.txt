@@ -1,0 +1,17 @@
+loaned and related interest expense. Prior period amounts have been reclassified to reflect this change.
+- 7 -
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+Net interest revenue increased $473 million, or 21%, in the first quarter of 2025, compared to the same period in 2024. This increase was primarily due to lower balances of bank supplemental funding, lower average rates paid on funding sources, and growth in margin and bank lending, partially offset by lower yields on floating-rate assets due to lower market rates. Average interest-earning assets declined by 2% in the first quarter of 2025 from the first quarter of 2024, as cash inflows from AFS and HTM securities were used to pay down bank supplemental funding amid improvement in client cash trends. The decrease was partially offset by growth in margin lending, which was supported by higher payables to brokerage clients and increased securities lending, and growth in bank loans.
+Net interest margin increased to 2.53% in the first quarter of 2025, compared to 2.02% during the same period in 2024, as lower rates paid on funding sources and reduced balances of bank supplemental funding more than offset lower yields on floating-rate assets due to lower market interest rates.
+The Company continues to prioritize repayment of bank supplemental funding balances and expects the total outstanding balance to continue to decrease over time to a level consistent with our diversified long-term funding profile. Our use and the financial impacts of such bank supplemental funding are dependent on several factors, including the volume and pace of clients’ cash allocation activity, which are driven primarily by changes in market interest rates, client engagement with equity markets, as well as asset gathering and the level of maturities and paydowns on our investment securities portfolios. The Company may rollover certain balances outstanding at March 31, 2025 into new borrowings, the amount and costs of which will depend on the above noted factors. See also Risk Management – Liquidity Risk, Capital Management, Item 1 – Notes 8, 9, and 12 for additional information on these and other funding sources.
+Asset Management and Administration Fees
+The following table presents asset management and administration fees, average client assets, and average fee yields:
+(1)
+Average client assets for managed investing solutions may also include the asset balances contained in the mutual fund and/or ETF categories listed above.
+(2)
+Includes various asset-related fees, such as trust fees, 401(k) recordkeeping fees, and mutual fund clearing fees and other service fees.
+(3)
+Includes miscellaneous service and transaction fees relating to mutual funds and ETFs that are not balance-based.
+Asset management and administration fees increased by $182 million, or 14%, in the first quarter of 2025 compared to

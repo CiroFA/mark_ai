@@ -1,0 +1,26 @@
+Agreement (the “DISH License Purchase Agreement”) pursuant to which DISH agreed to purchase certain 800 MHz spectrum licenses for a total of approximately $
+3.6
+billion. On October 15, 2023, we and DISH entered into an amendment (the “LPA Amendment”) to the DISH License Purchase Agreement pursuant to which, among other things, the parties agreed that (1) DISH will pay us a $
+100
+million non-refundable extension fee (in lieu of the approximately $
+72
+million termination fee that had previously been agreed to), (2) the closing for the purchase of the spectrum licenses by DISH will occur no later than April 1, 2024, (3) if DISH has not purchased the spectrum licenses by such date for any reason (including failure to receive the required FCC approval prior to such date), then the DISH License Purchase Agreement will automatically terminate, and we will retain the $
+100
+million extension fee, (4) if DISH does purchase the spectrum by April 1, 2024, the $
+100
+million extension fee will be credited against the $
+3.6
+billion purchase price, and (5) we are permitted to commence auction of the spectrum prior to April 1, 2024 at our discretion (and subject to DISH’s purchase right). The LPA Amendment was approved by the Court and became effective on October 23, 2023. On October 25, 2023, we received a payment of $
+100
+million from DISH for the extension fee and recorded a corresponding liability within Other current liabilities on our Consolidated Balance Sheets.
+DISH did not purchase the 800 MHz spectrum by April 1, 2024. As such, we recognized a gain for the $
+100
+million extension fee previously paid by DISH during the year ended December 31, 2024, within Selling, general and administrative expenses on our Consolidated Statements of Comprehensive Income and relieved the liability that was initially recorded upon receipt of the
+81
+Index for Notes to the Consolidated Financial Statements
+payment. On October 1, 2024, we concluded the auction process for the disposition of the spectrum as required under the final judgment agreed to by us, Deutsche Telekom AG (“DT”), Sprint LLC, SoftBank Group Corp. (“SoftBank”) and DISH with the U.S. District Court for the District of Columbia, which was approved by the Court on April 1, 2020, to offer the licenses for sale. We did not receive a qualifying bid and have been relieved of the obligation to sell the spectrum licenses. We are currently exploring alternatives to sell or utilize the spectrum licenses.
+Channel 51 License Co LLC and LB License Co, LLC
+On August 8, 2022, we, Channel 51 License Co LLC and LB License Co, LLC (together with Channel 51 License Co LLC, the “Sellers”) entered into License Purchase Agreements pursuant to which we will acquire spectrum in the 600 MHz band from the Sellers in exchange for total cash consideration of $
+3.5
+billion. The licenses will be acquired without any associated networks and are currently being utilized by us through exclusive leasing arrangements with the Sellers.
+On

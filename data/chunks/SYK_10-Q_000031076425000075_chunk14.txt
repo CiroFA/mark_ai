@@ -1,0 +1,117 @@
+of our counterparties. Should a
+counterparty default, our maximum loss exposure is the asset
+balance of the instrument. We have not changed our hedging
+strategies, accounting practices or objectives from those
+disclosed in our Annual Report on Form 10-K for
+2024
+.
+We had
+€
+2.3
+billion
+at
+March 31, 2025
+and
+December 31, 2024
+in
+certain forward currency contracts designated as net investment
+hedges,
+for which the maximum term is
+9
+.5 years
+,
+to hedge a
+portion of our investments in certain of our entities with functional
+currencies denominated in Euros. In addition to these derivative
+financial instruments designated as net investment hedges, we
+had
+€
+5.0
+billion
+at
+March 31, 2025
+and
+December 31, 2024
+of
+senior unsecured notes designated as net investment hedges to
+selectively hedge portions of our investment in certain
+international subsidiaries. The currency effects of our Euro-
+denominated senior unsecured notes are reflected in AOCI within
+shareholders' equity where they offset gains and losses recorded
+on our net investment in international subsidiaries.
+The total after-tax gain (loss) recognized in OCI related to
+designated net investment hedges was
+($
+218
+)
+in the
+three
+months 2025
+.
+Currency Exchange Rate Gains (Losses) Recognized in Net
+Earnings
+Pretax gains (losses) on derivatives designated as cash flow
+hedges of
+$
+13
+and net investment hedges of
+$
+40
+recorded in
+AOCI are expected to be reclassified to cost of sales and other
+income (expense), net in earnings within 12 months of
+March 31,
+2025
+.
+This cash flow hedge reclassification is primarily due to the
+sale of inventory that includes previously hedged purchases. A
+component of the AOCI amounts related to net investment
+hedges is reclassified over the life of the hedge instruments as
+we elected to exclude the initial value of the component related to
+the spot-forward difference from the effectiveness assessment.
+Interest Rate Hedges
+Pretax gains (losses) of
+$
+3
+recorded in AOCI related to interest
+rate hedges closed in conjunction with debt issuances are
+expected to be reclassified to other income (expense), net in
+earnings within 12 months of
+March 31, 2025
+.
+The cash flow
+effect of interest rate hedges is recorded in cash flow from
+operations.
+NOTE 5 -
+FAIR VALUE MEASUREMENTS
+Our policies for managing risk related to foreign currency, interest
+rates, credit and markets and our process for determining fair
+value have not changed from those described in our Annual
+Report on Form 10-K for
+2024
+.
+In the
+three months 2025
+we assumed contingent consideration
+liabilities with a fair value of
+$
+90
+related to previous acquisitions
+made by Inari Medical Inc. (Inari). Refer to Note 7 for further
+information on the acquisition of Inari.
+In
+2024
+we recorded
+$
+208
+of contingent consideration related to
+various acquisitions described in Note 7.
+There were no significant transfers into or out of any level of the
+fair value hierarchy in
+2025
+.
+On
+March 31, 2025
+and
+December 31, 2024
+the aggregate

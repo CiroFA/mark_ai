@@ -1,0 +1,23 @@
+the Company is generally obligated to defend its customer against the claim and to either settle the claim at the Company’s expense or pay damages that the customer is legally required to pay to the third-party claimant. In addition, in the event of an infringement, the Company generally agrees to secure the right for the customer to continue using the infringing product; to modify or replace the infringing product; or, if those options are not commercially practicable, to refund the cost of the software, as prorated over the period. To date, the Company has not been required to make any payment resulting from infringement claims asserted against its customers and does not believe that the Company will be liable for such claims in the foreseeable future. As such, the Company has not recorded a liability for infringement costs as of March 31, 2025 and December 31, 2024.
+The Company has obligations under certain circumstances to indemnify each of the defendant directors and certain officers against judgments, fines, settlements, and expenses related to claims against such directors and certain officers and otherwise to the fullest extent permitted under the law and the Company’s Amended and Restated Bylaws and Amended and Restated Certificate of Incorporation.
+8.
+Stockholders’ Equity
+The Company’s Class A, Class B, and Class F common stock (collectively, the “common stock”) all have the same rights, except with respect to voting and conversion rights. Class A and Class B common stock have voting rights of
+1
+and
+10
+votes per share, respectively. The Class F common stock has the voting rights generally described herein and each share of Class F common stock is convertible at any time, at the option of the holder thereof, into
+one
+share of Class B common stock. All shares of Class F common stock are held in a voting trust established by Stephen Cohen, Alexander Karp, and Peter Thiel (the “Founders”). The Class F common stock generally gives the Founders the ability to control up to
+49.999999
+% of the total voting power of the Company’s capital stock, so long as the Founders and certain of their affiliates collectively meet a minimum ownership threshold, which was
+100.0
+million of the Company's equity securities as of March 31, 2025.
+Holders of the common stock are entitled to dividends when, as, and if declared by the Company’s Board of Directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends.
+No
+dividends have been declared as of March 31, 2025.
+The following represented the total authorized, issued, and outstanding shares for each class of common stock (in thousands):
+Share Repurchase Program
+In August 2023, the Company’s Board of Directors authorized a stock repurchase program of up to $
+1.0
+billion of the Company’s outstanding shares of Class A common stock (the “Share Repurchase Program”). The Company may repurchase shares of its Class A common stock from time to time through open

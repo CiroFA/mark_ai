@@ -1,0 +1,23 @@
+Directors.
+At the management level, our
+CIO, CISO, and Deputy CISO
+, each of whom has extensive cybersecurity knowledge and skills gained from over 28 years, 29 years, and 20 years of relevant work experience, respectively, head the Internal Cybersecurity Team that is responsible for implementing and maintaining cybersecurity and data protection practices across our business, with our CIO reporting directly to our Chief Executive Officer.
+Our CISO and Deputy CISO receive reports on cybersecurity threats from a number of experienced information security professionals for various parts of our business on an ongoing
+16
+Table of
+Contents
+basis and, in conjunction with other management personnel, regularly consult on risk management measures implemented by the Company to identify and mitigate data protection and cybersecurity risks.
+In addition, our Risk and Compliance Committee (RCC) is responsible for oversight and support of the Company’s Enterprise Risk Management and Compliance and Ethics programs and is comprised of the Executive Leadership Team and the Senior Vice President and Chief Accounting, Risk, and Compliance Officer (Compliance Officer). The RCC also created a subcommittee, the Enterprise Risk Management Committee (ERMC), who is charged with continually monitoring, evaluating, and managing enterprise risks. The ERMC includes the Compliance Officer, General Auditor, Vice President Law - Finance, Compliance and Commercial Litigation, Vice President and Chief Safety Officer, CISO, Vice President - Strategy and Corporate Development, and Assistant Vice President - Executive Services. The RCC and ERMC both meet throughout the year and receive periodic updates on cybersecurity from the CISO.
+Item 2.
+Properties
+We employ a variety of assets in the management and operation of our rail business. Our rail network covers 23 states in the western two-thirds of the U.S.
+17
+Table of
+Contents
+TRACK
+Our rail network includes 32,880 route miles. We own 26,291 miles and operate on the remainder pursuant to trackage rights or leases. The following table describes track miles:
+HEADQUARTERS BUILDING
+We own our headquarters building in Omaha, Nebraska. The facility has 1.2 million square feet of space that can accommodate approximately 4,000 employees.
+HARRIMAN DISPATCHING CENTER
+The Harriman Dispatching Center (HDC), located in Omaha, Nebraska, is our primary dispatching facility. It is linked to regional dispatching and locomotive management facilities at various locations along our network. HDC employees coordinate moves of locomotives and trains, manage traffic and train crews on our network, and coordinate interchanges with other railroads. Generally, around 600 employees work on-site in the facility. In the event of a disruption of operations at HDC due to a cyber-attack, flooding or severe weather, pandemic outbreak, or other event, we maintain the capability to conduct critical operations at back-up facilities in different locations.
+RAIL FACILITIES

@@ -1,0 +1,39 @@
+our share-based 401(k) matching contributions to conform to our current period presentation.
+Raytheon follows a 4-4-5 fiscal calendar while Collins Aerospace (Collins) and Pratt & Whitney use a calendar quarter end. Throughout this Form 10-Q, when we refer to the quarters ended March 31, 2025 and 2024 with respect to Raytheon, we are referring to their March 30, 2025 and March 31, 2024 fiscal quarter ends, respectively.
+Note 2: Acquisitions and Dispositions
+Dispositions.
+On March 29, 2024, we completed the sale of our Cybersecurity, Intelligence and Services (CIS) business within our Raytheon segment for proceeds of approximately $
+1.3
+billion in cash, resulting in an aggregate pre-tax gain, net of transaction and other related costs, of $
+0.4
+billion ($
+0.2
+billion after tax), primarily recognized in Other income, net within the Condensed Consolidated Statement of Operations.
+On July 20, 2023, we entered into a definitive agreement to sell the actuation and flight control business within our Collins segment to Safran S.A. for gross proceeds of approximately $
+1.8
+billion. During the fourth quarter of 2024, as a result of progress towards regulatory approvals, held for sale criteria was met. At March 31, 2025, assets of approximately $
+1.6
+billion and liabilities of approximately $
+0.6
+billion are held for sale at fair value less cost to sell. Held for sale assets primarily include $
+0.7
+billion of goodwill and intangible assets presented in Other assets and $
+0.3
+billion of inventory presented in Other assets, current, within the Condensed Consolidated Balance Sheet. Held for sale liabilities primarily include $
+0.4
+billion of contract liabilities and other accrued liabilities presented in Other accrued liabilities within the Condensed Consolidated Balance Sheet. The closing of this transaction is subject to regulatory approvals and other customary closing conditions. This disposition does not qualify for presentation as discontinued operations.
+Note 3: Goodwill and Intangible Assets
+Goodwill.
+Changes in our goodwill balances for the quarter ended March 31, 2025 were as follows:
+9
+Table of Contents
+Intangible Assets.
+Identifiable intangible assets are comprised of the following:
+Amortization of intangible assets for the quarters ended March 31, 2025 and 2024 was $
+501
+million and $
+526
+million, respectively.
+The following is the expected amortization of intangible assets for the remainder of 2025 through 2030:
+Note 4: Earnings Per Share
+The computation of diluted earnings per share (EPS) excludes the effect of the potential exercise of stock awards, including stock appreciation rights and stock options, when the average market price of the common stock is lower than the exercise price of the related stock awards during the period because the effect would be anti-dilutive. In addition, the computation of diluted EPS excludes the effect of the potential release or exercise of stock awards when the awards’ assumed proceeds exceed the average market

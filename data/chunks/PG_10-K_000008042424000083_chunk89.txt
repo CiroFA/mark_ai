@@ -1,0 +1,40 @@
+investment hedges, certain of our foreign currency denominated debt instruments are designated as net investment hedges. The amount of gain/(loss) recognized in AOCI for such instruments was $
+255
+and $(
+315
+), for the fiscal years ended June 30, 2024 and 2023, respectively.
+The gains/(losses) on the derivatives in fair value hedging relationships are fully offset by the mark-to-market impact of the related exposure. These are both recognized in Interest expense. The losses on derivatives not designated as hedging instruments are substantially offset by the currency mark-to-market of the related exposure. These are both recognized in Selling, general and administrative expense (SG&A).
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        61
+NOTE 10
+SHORT-TERM AND LONG-TERM DEBT
+(1)
+Weighted average interest rate of debt due within one year includes the effects of interest rate swaps discussed in Note 9.
+(1)
+Weighted average interest rate of long-term debt includes the effects of interest rate swaps discussed in Note 9.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+62        The Procter & Gamble Company
+Long-term debt maturities during the next five fiscal years are as follows:
+Credit Facilities
+We maintain bank credit facilities to support our ongoing commercial paper program. The current facility is an $
+8.0
+billion facility split between a $
+3.2
+billion
+five-year
+facility and a $
+4.8
+billion
+364-day
+facility, which expire in November 2028 and October 2024, respectively. Both facilities can be extended for certain periods of time as specified in the terms of the credit agreement. These facilities are currently undrawn and we anticipate that they will remain undrawn. These credit facilities do not have cross-default or ratings triggers, nor do they have material adverse event clauses, except at the time of signing.
+NOTE 11
+ACCUMULATED OTHER COMPREHENSIVE INCOME/(LOSS)
+The table below presents the changes in Accumulated other comprehensive income/(loss) attributable to Procter & Gamble (AOCI), including the reclassifications out of AOCI by component:
+The below provides additional details on amounts reclassified from AOCI into the Consolidated Statement of Earnings:
+•
+Postretirement benefit plan amounts are reclassified from AOCI into Other non-operating income, net and included in the computation of net periodic postretirement costs (see Note 8).
+•
+Foreign currency translation amounts are reclassified from AOCI into Other non-operating income, net. These amounts relate to accumulated foreign currency translation losses recognized due to the substantial liquidation of operations in certain Enterprise Markets, including Nigeria (see Note 3).
+NOTE 12
+LEASES
+The Company determines whether a contract contains a lease at the inception of a contract by determining if the contract conveys the right to control the use of identified property, plant or

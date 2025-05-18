@@ -1,0 +1,48 @@
+interpreting market data to develop fair value estimates for the Senior Notes to third parties (EUR-denominated), Senior Notes to affiliates, ABS Notes and ECA Facility. The fair value estimates were based on information available as of March 31, 2025, and December 31, 2024. As such, our estimates are not necessarily indicative of the amount we could realize in a current market exchange.
+19
+Index for Notes to the Condensed Consolidated Financial Statements
+The carrying amounts and fair values of our short-term and long-term debt included on our Condensed Consolidated Balance Sheets were as follows:
+Note 8 – Debt
+The following table sets forth the debt balances and activity as of, and for the three months ended, March 31, 2025:
+(1)
+Issuances and borrowings and reclassifications are recorded net of accrued or paid issuance costs and discounts.
+(2)
+Other includes the amortization of premiums, discounts, debt issuance costs and consent fees and the impact from changes in foreign currency exchange rates.
+Our effective interest rate, excluding the impact of derivatives and capitalized interest, was approximately
+4.0
+% and
+4.1
+% on weighted-average debt outstanding of $
+80.8
+billion and $
+77.4
+billion for the three months ended March 31, 2025 and 2024, respectively. The weighted-average debt outstanding was calculated by applying an average of the monthly ending balances of total short-term and long-term debt to third parties and short-term and long-term debt to affiliates, net of unamortized premiums, discounts, debt issuance costs and consent fees.
+Issuances and Borrowings
+During the three months ended March 31, 2025, we issued and borrowed the following debt:
+(1)
+Includes accrued or paid issuance costs and discounts.
+20
+Index for Notes to the Condensed Consolidated Financial Statements
+Repayments
+During the three months ended March 31, 2025, we made the following repayments:
+Subsequent to March 31, 2025, on April 15, 2025, we repaid at maturity $
+3.0
+billion of our
+3.500
+% Senior Notes due 2025.
+Asset-backed Notes
+On February 27, 2025, we issued $
+500
+million of
+4.740
+% Class A Senior ABS Notes to third parties in a private placement transaction. Net proceeds of $
+498
+million from these ABS Notes are presented in Proceeds from issuance of long-term debt on our Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2025.
+As of March 31, 2025, $
+1.9
+billion of our ABS Notes were secured in total by $
+2.5
+billion of gross EIP receivables and future collections on such receivables. Our ABS Notes and the assets securing this debt are included on our Condensed Consolidated Balance Sheets.
+The expected maturities of our ABS Notes as of March 31, 2025, were as follows:
+Variable Interest Entities
+In connection with our ABS Notes issuances, we formed a wholly owned subsidiary, which qualifies as a bankruptcy remote entity (the “ABS BRE”), and a trust (the “ABS Trust” and together with the ABS BRE, the “ABS Entities”), in which the

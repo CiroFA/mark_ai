@@ -1,0 +1,42 @@
+respectively; (b)
+2.9370
+and
+3.6290
+, the class A common stock conversion rate applicable to the series B and C preferred stock outstanding, respectively; and (c)
+$
+230.01
+, Visa’s class A common stock closing stock price.
+75
+Table of Contents
+Note 6—Fair Value Measurements and Investments
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Level 1 assets and liabilities.
+Money market funds, U.S. Treasury securities and marketable equity securities are classified as Level 1 within the fair value hierarchy, as fair value is based on unadjusted quoted prices in active markets for identical assets. The Company’s deferred compensation liability is measured at fair value based on marketable equity securities held under the deferred compensation plan.
+Level 2 assets and liabilities.
+The fair value of U.S. government-sponsored debt securities, as provided by third-party pricing vendors, is based on quoted prices in active markets for similar, not identical, assets. Derivative instruments are valued using inputs that are observable in the market or can be derived principally from or corroborated by observable market data.
+U.S. Government-sponsored Debt Securities and U.S. Treasury Securities
+The amortized cost, unrealized gains and losses and fair value of debt securities were as follows:
+76
+Table of Contents
+Debt securities with unrealized losses for less than 12 months and 12 months or greater were as follows:
+The unrealized losses were primarily attributable to changes in interest rates.
+The stated maturities of debt securities were as follows:
+Equity Securities
+For fiscal 2024, 2023 and 2022, the Company recognized net unrealized gains of $
+12
+million and net unrealized losses of $
+102
+million and $
+393
+million, respectively, on marketable and non-marketable equity securities held as of period end.
+Fair value measurement alternative.
+The Company’s investments in privately held companies do not have readily determinable fair values. These investments are measured at fair value on a non-recurring basis and are classified as Level 3 due to the absence of quoted market prices, the inherent lack of liquidity and the fact that significant inputs used to measure fair value are unobservable and require management’s judgment.
+77
+Table of Contents
+The following table summarizes the Company’s non-marketable equity securities held as of period end that were accounted for using the fair value measurement alternative:
+Unrealized gains and losses of the Company’s non-marketable equity securities held as of period end that were accounted for using the fair value measurement alternative were as follows:
+Investment Income (Expense)
+Investment income (expense) consisted of the following:
+Other Fair Value Disclosures
+Debt.
+Debt instruments are measured at amortized cost on the Company’s consolidated balance sheets. The fair value of the debt instruments, as provided by third-party pricing vendors, is based on quoted prices in active markets for similar,

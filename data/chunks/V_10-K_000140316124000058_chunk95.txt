@@ -1,0 +1,55 @@
+difference in timing between the date of a payment transaction and the date of subsequent settlement. The Company maintains and regularly reviews global settlement risk policies and procedures to manage settlement risk, which may require clients to post collateral if certain credit standards are not met. Historically, the Company has experienced minimal losses as a result of its settlement risk guarantee. However, the Company’s future obligations, which could be material under its guarantees, are not determinable as they are dependent upon future events.
+The Company’s settlement exposure is limited to the amount of unsettled Visa payment transactions at any point in time, which vary significantly day to day. For fiscal 2024, the Company’s maximum daily settlement exposure was $
+137.4
+billion and the average daily settlement exposure was $
+84.3
+billion. To mitigate the risk of settlement exposure, the Company has various forms of collateral including restricted cash, letters of credit, guarantees, beneficial rights to trust assets and pledged securities. As of September 30, 2024 and 2023, the Company had total collateral of $
+7.7
+billion and $
+6.2
+billion, respectively.
+Note 13—Derivative and Hedging Instruments
+As of
+September 30, 2024 and 2023, the aggregate notional amount of the Company’s derivative instruments designated as hedging instruments was $
+11.7
+billion and $
+11.0
+billion, respectively. As of September 30, 2024 and 2023, the aggregate notional amount of the derivative instruments not designated as hedging instruments was $
+1.9
+billion and $
+0.8
+billion, respectively.
+The following table shows the Company’s derivative instruments at gross fair value:
+(1)
+These interest rate swaps were designated as fair value hedges on a portion of the outstanding senior notes. As of September 30, 2024 and 2023, the carrying value of the hedged
+senior notes
+was $
+3.9
+billion and $
+3.7
+billion, respectively.
+For fiscal 2024, 2023 and 2022, the Company recognized a net increase (decrease) in earnings related to excluded forward points from forward contracts designated as net investment hedges and interest differentials from swap agreements of ($
+94
+) million, ($
+25
+) million and $
+151
+million, respectively.
+84
+Table of Contents
+Cash flow hedges.
+For fiscal 2024, 2023 and 2022, the Company recognized pre-tax net gains (losses) in other comprehensive income (loss) related to cash flow hedges of ($
+38
+) million, ($
+126
+) million and $
+190
+million, respectively.
+The amount of pre-tax net gains (losses) related to cash flow hedges recorded in accumulated other comprehensive income (loss) as of September 30, 2024 that is expected to be reclassified into the consolidated statements of operations within the next 12 months is not material.
+Net investment hedges
+. For fiscal 2024, 2023 and 2022, the Company recognized pre-tax net gains (losses) in other comprehensive income (loss) related to net investment hedges of ($
+321
+) million, ($
+445
+) million and $
+845

@@ -1,0 +1,54 @@
+that are observable, either directly or indirectly.
+See Note 6
+Debt
+and Note 7
+Derivative Financial Instruments and Hedging Activities
+to the consolidated financial statements for further information regarding the fair value of the Company’s senior notes and derivative financial instruments.
+48
+Table of Contents
+5.
+Balance Sheet Components
+Content Assets, Net
+Content assets consisted of the following:
+As of December 31, 2024, approximately $
+6,409
+million, $
+2,465
+million, and $
+1,431
+million of the $
+12,422
+million unamortized cost of the licensed content is expected to be amortized in each of the next three years.  As of December 31, 2024, approximately $
+3,954
+million, $
+2,767
+million, and $
+1,718
+million of the $
+10,152
+million unamortized cost of the produced content that has been released is expected to be amortized in each of the next three years.
+The following table summarizes the amortization of content assets:
+(1)  Tax incentives earned on qualified production spend generally reduce the cost-basis of content assets and result in lower content amortization over the life of the title. For the years ended December 31, 2024, 2023 and 2022, tax incentives resulted in lower content amortization on produced content of approximately $
+899
+million, $
+835
+million and $
+719
+million, respectively.
+Property and Equipment, Net
+Property and equipment and accumulated depreciation consisted of the following:
+49
+Table of Contents
+Leases
+The Company has entered into operating leases primarily for real estate.  These leases generally have terms which range from
+1
+year to
+15
+years, and often include
+one
+or more options to renew.  These renewal terms can extend the lease term from
+1
+year to
+20
+years, and are included in the lease term when it is reasonably certain that the Company will exercise the option.  These operating leases are included in "Other non-current assets" on the Company's Consolidated Balance Sheets, and represent the Company’s right to use the underlying asset for the lease term. The Company’s obligations to make lease payments are included in "Accrued expenses and other liabilities" and "Other non-current liabilities" on the Company's Consolidated Balance Sheets.  Operating lease right-of-use assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term.  The Company has entered into various short-term operating leases with an initial term of twelve months or less. These leases are not recorded on the Company's Consolidated Balance Sheets.  All operating lease expense is recognized on a straight-line basis over the lease term.  Because the rate implicit in each lease is not readily determinable, the Company uses its incremental borrowing rate to determine the present value of the lease payments.  The Company has certain contracts for real estate which may contain lease and non-lease components which it has elected to treat as a single lease component.
+The components of lease

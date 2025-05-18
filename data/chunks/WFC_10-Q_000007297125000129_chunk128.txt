@@ -1,0 +1,22 @@
+conforming loans. The GSEs or GNMA design the structure of these securitizations, sponsor the involved VIEs, and have power over the activities most significant to the VIE.
+We account for loans transferred in conforming mortgage loan securitization transactions as sales and do not consolidate the VIEs as we are not the primary beneficiary. In exchange for the transfer of loans, we typically receive securities issued by the VIEs which we sell to third parties for cash or hold for investment purposes as HTM or AFS securities. We also retain servicing rights on the transferred loans. As a servicer, we retain the option to repurchase loans from certain loan securitizations, which
+becomes exercisable based on delinquency status such as when three scheduled loan payments are past due. When we have the unilateral option to repurchase a loan, we recognize the loan and a corresponding liability on our balance sheet regardless of our intent to repurchase the loan, and the loans remain pledged to the securitization. At both March 31, 2025, and December 31, 2024, we recorded assets and related liabilities of $
+1.5
+billion, where we did not exercise our option to repurchase eligible loans. We repurchased loans of $
+97
+million and $
+90
+million during the first quarter of 2025 and 2024, respectively.
+Upon transfers of loans, we also provide indemnification for losses incurred due to material breaches of contractual representations and warranties as well as other recourse arrangements. At March 31, 2025, and December 31, 2024, our liability for these repurchase and recourse arrangements was $
+189
+million and $
+188
+million, respectively, and the maximum exposure to loss was $
+13.5
+billion and $
+13.7
+billion
+at March 31, 2025, and December 31, 2024, respectively.
+Substantially all residential servicing activity is related to assets transferred to GSE and GNMA securitizations. See Note 6 (Mortgage Banking Activities) for additional information about residential and commercial servicing rights, advances and servicing fees.
+NONCONFORMING MORTGAGE LOAN SECURITIZATIONS.
+In the normal course of business, we sell nonconforming mortgage loans in securitization transactions that we design and sponsor. Nonconforming mortgage loan securitizations do not involve a government credit guarantee, and accordingly, beneficial interest holders are subject to credit risk of the underlying assets held by the securitization VIE. We typically originate the transferred loans and account for the transfers as sales. We also typically retain the right to service the loans and may hold other beneficial interests issued by the VIE, such as debt securities held for investment purposes. We do not consolidate the VIE because the most significant decisions impacting the performance of the VIE are generally made by the special servicer or the controlling class security holder. For our residential nonconforming mortgage loan securitizations accounted for as sales, we either do not hold variable

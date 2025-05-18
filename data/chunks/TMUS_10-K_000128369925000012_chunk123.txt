@@ -1,0 +1,29 @@
+Secured Notes to third parties were classified as Level 1 within the fair value hierarchy. The fair value of our Senior Notes to affiliates was determined based on market interest rates of instruments with similar terms and maturities. Accordingly, our Senior Notes to affiliates were classified as Level 2 within the fair value hierarchy. The fair value of our Senior Notes to third parties (EUR-denominated) and asset-backed notes (“ABS Notes”) was primarily based on quoted prices in inactive markets for identical instruments and observable changes in market interest rates, both of which are Level 2 inputs. Accordingly, our Senior Notes to third parties (EUR-denominated) and ABS Notes were classified as Level 2 within the fair value hierarchy.
+Although we have determined the estimated fair values using available market information and commonly accepted valuation methodologies, judgment was required in interpreting market data to develop fair value estimates for the Senior Notes to third parties (EUR-denominated), Senior Notes to affiliates and ABS Notes. The fair value estimates were based on information available as of December 31, 2024 and 2023. As such, our estimates are not necessarily indicative of the amount we could realize in a current market exchange.
+The carrying amounts and fair values of our short-term and long-term debt included on our Consolidated Balance Sheets were as follows:
+85
+Index for Notes to the Consolidated Financial Statements
+Note 9 – Debt
+Debt was as follows:
+86
+Index for Notes to the Consolidated Financial Statements
+Long-term debt was classified as follows:
+Our effective interest rate, excluding the impact of derivatives and capitalized interest, was approximately
+4.1
+% and
+4.0
+% on weighted-average debt outstanding of $
+78.3
+billion and $
+75.4
+billion for the years ended December 31, 2024 and 2023, respectively. The weighted-average debt outstanding was calculated by applying an average of the monthly ending balances of total short-term and long-term debt to third parties and short-term and long-term debt to affiliates, net of unamortized premiums, discounts, debt issuance costs and consent fees.
+Senior Notes
+The Senior Notes are guaranteed on a senior unsecured basis by the Company and certain of our consolidated subsidiaries. They are redeemable at our discretion, in whole or in part, at any time. The redemption price is calculated by reference to the date on which such notes are redeemed and generally includes a premium that steps down gradually as the Senior Notes approach their par call date, on or after which they are redeemable at par. The amount of time by which the par call date precedes the maturity date of the respective series of Senior Notes varies from
+one month
+to
+three years
+.
+Issuances and Borrowings
+During the year ended December 31, 2024, we issued the following Senior Notes and ABS Notes:
+Credit Facilities
+We maintain a revolving credit facility (the “Revolving Credit Facility”) with an aggregate

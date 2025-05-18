@@ -1,0 +1,25 @@
+to assess segment performance and allocate resources. See Note 12 – Segment and Geographic Information for additional information.
+Reclassification
+Certain prior year amounts have been reclassified for comparability purposes.
+86
+Table of Contents
+2.
+Acquisitions and Divestitures
+Acquisitions
+2024
+Acquisitions completed during the year ended December 31, 2024 included:
+•
+On December 31, 2024 we completed the acquisition of ProntoNLP, a leading provider of generative artificial intelligence tooling, allowing users to derive differentiated insights from unstructured and structured data. The acquisition is part of our Market Intelligence segment and its intellectual property is expected to power broader enterprise-wide applications. ProntoNLP’s proprietary models and LLM-based signal tools will bolster S&P Global’s textual data analytics capabilities. The acquisition of ProntoNLP is not material to our consolidated financial statements.
+•
+On May 1, 2024, we completed the acquisition of Visible Alpha, the financial technology provider of deep industry and segment consensus data creating a premium offering of fundamental investment research capabilities on Market Intelligence’s Capital IQ Pro platform. The acquisition is part of our Market Intelligence segment and further enhances the depth and breadth of the overall Visible Alpha and S&P Capital IQ Pro offering. The acquisition of Visible Alpha is not material to our consolidated financial statements.
+•
+On May 14, 2024, we completed the acquisition of World Hydrogen Leaders, a globally-recognized portfolio of hydrogen-related conferences and events, digital training and market intelligence. The acquisition is part of our Commodity Insight’s segment and complements Commodity Insights global conference business and provides customers with full coverage of the hydrogen and derivative value chain alongside Energy Transition and Sustainability solutions, including hydrogen price assessments, emission factors and market research. The acquisition of World Hydrogen Leaders is not material to our consolidated financial statements.
+None of our acquisitions completed during 2024 were material individually or in the aggregate, including the pro forma impact on earnings. For acquisitions during 2024 that were accounted for using the purchase method, the excess of the purchase price over the fair value of the net assets acquired is allocated to goodwill and other intangibles. The goodwill recognized on our acquisitions is largely attributable to anticipated operational synergies and growth opportunities as a result of the acquisition. The intangible assets, excluding goodwill and indefinite-lived intangibles, are being amortized over their anticipated use
+ful
+lives of
+7
+years.
+2023
+Acquisitions completed during the year ended December 31, 2023 included:
+•
+On February 16, 2023, we completed the acquisition of Market Scan Information Systems, Inc. (“Market Scan”), a leading provider of automotive pricing and

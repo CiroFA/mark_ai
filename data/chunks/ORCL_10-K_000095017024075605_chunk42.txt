@@ -1,0 +1,22 @@
+supporting infrastructure stability risks, particularly in areas in which we have significant operations;
+•
+fluctuations in currency exchange rates and related impacts on customer demand and our operating results;
+•
+difficulties in accessing or transferring funds from or converting currencies in certain countries that could lead to a devaluation of our net assets, in particular our cash assets, in that country’s currency;
+•
+regulatory changes, including government austerity measures in certain countries that we may not be able to sufficiently plan for or avoid that may unexpectedly impair bank deposits or other cash assets that we hold in these countries or that impose additional taxes that we may be required to pay in these countries;
+•
+common local business behaviors or regulatory requirements that conflict with our business ethics, practices and conduct policies;
+•
+longer payment cycles and difficulties in collecting accounts receivable;
+•
+overlapping tax regimes; and
+•
+reduced protection for intellectual property rights in some countries.
+The variety of risks and challenges listed above could also disrupt or otherwise negatively impact our supply chain operations and sales of our products and services in affected countries or regions.
+As the majority shareholder of Oracle Financial Services Software Limited, a publicly traded company in India, and Oracle Corporation Japan, a publicly traded company in Japan, we face several additional risks, including being subject to local securities regulations and being unable to exert full control that we would otherwise have if these entities were wholly-owned subsidiaries.
+28
+Table of Contents
+Index to Financial Statements
+The healthcare industry is highly regulated, and thus, we are subject to several laws, regulations and industry initiatives, non-compliance with certain of which could adversely affect our healthcare business.
+As a participant in the healthcare industry, certain of our operations and relationships, and those of our customers, are regulated by several U.S. federal, state, local and foreign governmental entities. The impact of these regulations on us is both direct and also indirect, in terms of government program requirements applicable to our customers for the use of health IT. Even though we may not be directly regulated by specific healthcare laws and regulations, our products and services must be capable of being used by our customers in a way that complies with those laws and regulations. There are significant, wide-ranging and rapidly evolving regulations both within and outside the U.S., such as regulations in the areas of healthcare fraud, information sharing, e-prescribing, claims processing and transmission, healthcare devices, the security and privacy of patient data and interoperability standards, that may be directly or indirectly applicable to our operations and relationships or the business practices of our customers. Specific risks include, but are not limited to, the

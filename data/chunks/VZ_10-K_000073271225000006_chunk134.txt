@@ -1,0 +1,22 @@
+one of the national credit reporting agencies because the potential customer does not have sufficient credit history. In those instances, alternative credit data is used for the risk assessment. For Business customers, we also verify the existence of the business with external data sources.
+Based on the custom credit risk score, we assign each customer a credit class, each of which has specified offers of credit. This includes an account level spending limit and a maximum amount of credit allowed per device for Consumer customers or a required down payment percentage for Business customers.
+Credit Quality Information
+Subsequent to origination, we assess indicators for the quality of our wireless device payment plan agreement portfolio using two models, one for new customers and one for existing customers. The model for new customers pools all Consumer and Business wireless customers based on less than
+210
+days as "new customers." The model for existing customers pools all Consumer and Business wireless customers based on
+210
+days or more as "existing customers."
+The following table presents device payment plan agreement receivables, at amortized cost, and gross write-offs recorded, as of and for the twelve months ended December 31, 2024, by credit quality indicator and year of origination:
+(1)
+Includes accounts that have been suspended at a point in time.
+The data presented in the table above was last updated on December 31, 2024.
+We assess indicators for the quality of our wireless service receivables portfolio as one overall pool. The following table presents wireless service receivables, at amortized cost, and gross write-offs recorded, as of and for the twelve months ended December 31, 2024, by year of origination:
+The data presented in the table above was last updated on December 31, 2024.
+Allowance for Credit Losses
+The credit quality indicators are used in determining the estimated amount and the timing of expected credit losses for the device payment plan agreement and wireless service receivables portfolios.
+For device payment plan agreement receivables, we record bad debt expense based on a default and loss calculation using our proprietary loss model. The expected loss rate is determined based on customer credit scores and other qualitative factors as noted above. The loss rate is assigned individually on a customer by customer basis and the custom credit scores are then
+82
+Table of
+Contents
+aggregated by vintage and used in our proprietary loss model to calculate the weighted-average loss rate used for determining the allowance balance.
+We monitor the collectability of our wireless service receivables as one overall pool. Wireline service receivables are disaggregated and pooled by the following types of customers and related contracts: consumer, small and medium business, enterprise, public sector and wholesale. For wireless service receivables and wireline consumer and small and medium business receivables, the allowance is

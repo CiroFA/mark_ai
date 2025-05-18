@@ -1,0 +1,32 @@
+logistics businesses (the "divested businesses"). The majority of the logistics business was sold to Flexport, a leading tech-driven global logistics platform. The Company received non-cash consideration in the form of a
+13
+% equity interest on a fully-diluted basis inclusive of warrants and options.
+The net assets of the divested businesses had an aggregate carrying amount above their estimated fair value and accordingly, an impairment loss was recorded in operating expenses as "Impairment on sales of Shopify's logistics businesses" in the consolidated statement of operations and comprehensive income (loss), for the year ended December 31, 2023.
+The components of the sale were as follows in US $ millions:
+(1)
+The value of non-cash consideration received is an estimate and was independently estimated by Shopify by using unobservable inputs, including the investee's revenue growth rates and revenue multiples based on market comparables.
+The non-cash consideration was in addition to the Company's existing equity interest in Flexport. The investment in Flexport is accounted for under the equity method investment (see Note 6).
+5.
+Cash and Cash Equivalents
+As of December 31, 2024 and 2023, the Company’s cash and cash equivalents balance was $
+1,498
+million and $
+1,413
+million, respectively. These balances include $
+806
+million and $
+755
+million, respectively, of money market funds, corporate bonds and commercial paper. As of December 31, 2024, $
+9
+million of the Company's cash and cash equivalents balance is considered restricted cash (December 31, 2023 - $
+8
+million).
+6.
+Financial Instruments
+The Company measures financial instruments based on quoted prices in active markets (Level 1), inputs from similar instruments such as quoted prices or other observable market data (Level 2) or where little or no market activity exists, using unobservable inputs that require judgment or estimation (Level 3).
+Debt Securities
+The Company holds certain debt securities that are classified as held-to-maturity at the time of purchase as the Company has both the positive intent and ability to hold to maturity. The fair value of corporate bonds are based upon Level 2 inputs, which include period-end mid-market quotations for each underlying contract as calculated by the financial institution with which the Company has transacted. The quotations are based on bid/ask quotations and represent the discounted future settlement amounts based on current market rates.
+The Company also holds debt securities in the form of convertible notes in private companies classified as available-for-sale for which the Company has elected to apply the fair value option. The investments are carried at fair value at each balance sheet date and any movements in the fair values are recognized in the consolidated statement of operations and comprehensive income (loss).
+91
+Table of Contents
+The following tables summarize debt securities by balance sheet classification and level within the fair

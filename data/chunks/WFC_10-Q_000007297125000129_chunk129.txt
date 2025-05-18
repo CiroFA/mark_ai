@@ -1,0 +1,31 @@
+interests that we consider potentially significant or are not the primary servicer for a majority of the VIE assets.
+WHOLE LOAN SALE TRANSACTIONS.
+We may also sell whole loans to VIEs where we have continuing involvement in the form of financing. We account for these transfers as sales, and do not consolidate the VIEs as we do not have the power to direct the most significant activities of the VIEs.
+Table 13.1 presents information about transfers of assets during the periods presented for which we recorded the transfers as sales and have continuing involvement with the transferred assets. In connection with these transfers, we received proceeds and recorded servicing assets and securities. Each of these interests are initially measured at fair value. Servicing rights are classified as Level 3 measurements, and generally securities are classified as Level 2. Transfers of residential mortgage loans are transactions with the GSEs or GNMA and generally result in
+no
+gain or loss because the loans are typically measured at fair value on a recurring basis. Transfers of commercial mortgage loans
+Note 13:
+Securitizations and Variable Interest Entities
+(continued)
+include both transactions with the GSEs or GNMA and nonconforming transactions. These commercial mortgage loans are carried at the lower of cost or market, and we recognize gains
+on such transfers when the market value is greater than the carrying value of the loan when it is sold.
+Table 13.1:
+Transfers with Continuing Involvement
+(1)
+In first quarter 2025, we sold the non-agency portion of our commercial mortgage third-party servicing business.
+(2)
+Represents cash proceeds and the fair value of non-cash beneficial interests recognized at securitization settlement.
+(3)
+Represents assets or liabilities recognized at securitization settlement date related to our continuing involvement in the transferred assets.
+(4)
+Represents debt securities obtained at securitization settlement held for investment purposes that are classified as available-for-sale or held-to-maturity. Excludes trading debt securities held temporarily for market-marking purposes, which are sold to third parties at or shortly after securitization settlement, of $
+531
+million and $
+642
+million during the quarters ended March 31, 2025 and 2024, respectively.
+In the normal course of business, we purchase certain non-agency securities at initial securitization or subsequently in the secondary market, which we hold for investment. We may also provide seller financing in the form of loans. During the quarters ended March 31, 2025 and 2024, for VIEs with significant continuing involvement, we received cash flows of $
+6
+million and $
+158
+million, respectively, related to principal and interest payments on these securities and loans. These amounts exclude cash flows related to trading activities.
+Table 13.2 presents the key weighted-average assumptions we used to initially measure residential MSRs recognized during the periods presented.

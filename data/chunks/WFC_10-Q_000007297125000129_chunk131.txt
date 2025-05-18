@@ -1,0 +1,22 @@
+million and $
+258
+million of commercial foreclosed assets and $
+24
+million and $
+18
+million of residential foreclosed assets at March 31, 2025, and December 31, 2024, respectively.
+(2)
+In first quarter 2025, we sold the non-agency portion of our commercial mortgage third-party servicing business.
+Transactions with Unconsolidated VIEs
+MORTGAGE LOAN SECURITIZATIONS.
+Table 13.4 includes nonconforming mortgage loan securitizations where we originate and transfer the loans to the unconsolidated securitization VIEs that we sponsor. For additional information about these VIEs, see the “Loan Sales and Securitization Activity” section within this Note.
+Conforming loan securitization and resecuritization transactions involving the GSEs and GNMA are excluded from Table 13.4 because we are not the sponsor or we do not have power over the activities most significant to the VIEs. Additionally, due to the nature of the guarantees provided by the GSEs and the FHA and VA, our credit risk associated with these VIEs is limited. For additional information about conforming mortgage loan securitizations and resecuritizations, see the “Loan Sales and Securitization Activity” and “Resecuritization Activities” sections within this Note.
+COMMERCIAL REAL ESTATE LOANS.
+We may transfer purchased industrial development bonds and GSE credit enhancements to VIEs in exchange for beneficial interests. We may also acquire such beneficial interests in transactions where we do not act as a transferor. We own all of the beneficial interests and may also service the underlying mortgages that serve as collateral to the bonds. The GSEs have the power to direct the servicing and workout activities of the VIE in the event of a default, therefore we do not have control over the key decisions of the VIEs.
+OTHER VIE STRUCTURES.
+We engage in various forms of structured finance arrangements with other VIEs, including asset-backed finance structures. Collateral may include rental properties and mortgage loans. We may participate in structuring or marketing the arrangements as well as provide financing, service one or more of the underlying assets, or enter into derivatives with the VIEs. We may also receive fees for those services. We are not the primary beneficiary of these structures because we do not have power to direct the most significant activities of the VIEs.
+Note 13:
+Securitizations and Variable Interest Entities
+(continued)
+Table 13.4 provides a summary of our exposure to the unconsolidated VIEs described above, which includes investments in securities, loans, guarantees, liquidity agreements, commitments and certain derivatives. We exclude certain transactions with unconsolidated VIEs when our continuing involvement is temporary or administrative in nature or insignificant in size.
+In Table 13.4, “Total VIE assets” represents the remaining principal balance of assets held by unconsolidated VIEs using the most current information available. “Carrying value” is the amount in our

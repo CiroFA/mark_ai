@@ -1,0 +1,35 @@
+currency is U.S. dollars, and we express all amounts in this Annual Report on Form 10-K in U.S. dollars, except where otherwise indicated. All references in this Annual Report on Form 10-K to "dollars", "$" and "USD" refer to United States dollars.
+4
+Table of C
+ontents
+Forward-Looking Statements
+This Annual Report on Form 10-K contains forward-looking statements under the provisions of the U.S. Private Securities Litigation Reform Act of 1995, Section 27A of the U.S. Securities Act of 1933 (as amended, the "Securities Act"), Section 21E of the U.S. Securities Exchange Act of 1934 (as amended, the "Exchange Act") and forward-looking information within the meaning of applicable Canadian securities legislation.
+In some cases, you can id
+entify forward-looking statements by terminology such as
+"enable", "may", "might", "will", "should", "could", "expects", "intends", "plans", "anticipates", "believes", "predicts", "potential", "continue", "become", "seek", "strive"
+or t
+he negative of these terms or other similar words. Any f
+orward-looking statements are based on our management’s perception of historic trends, current conditions and expected future developments, as well as other assumptions that management believes are appropriate in the circumstances.
+In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking. In particular, forward-looking statements include, but are not limited to, statements about:
+•
+our ability to: expand, grow and retain our merchant base; localize features; offer more sales channels that can connect to our platform; increase and extend the functionality of our platform; catalyze merchants' sales growth; leverage emerging technologies, including artificial intelligence ("AI"); enhance our ecosystem and partner programs; provide a high level of merchant service and support; hire key talent and retain and motivate qualified personnel; and maximize long-term value;
+•
+our products and solutions enabling and increasing the probability of merchant success;
+•
+the expected impact of seasonality on our current and future business;
+•
+the ability to grow our addressable markets and meet merchant needs;
+•
+our expectation that we will continue to invest in data analytics, machine learning and AI;
+•
+our expectations regarding the development of emerging technologies, including AI, and potential applications to our business;
+•
+our intentions regarding future growth and investments to drive future growth, the impact of those investments and our ability to manage such growth effectively;
+•
+our intention to further tailor our sales strategies to attract larger volume brands;
+•
+expansion of our platform's capabilities;
+•
+the growth and strengthening of our third-party ecosystem and partner program, including through the formation of strategic partnerships;
+•
+our

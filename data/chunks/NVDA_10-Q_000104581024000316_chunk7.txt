@@ -1,0 +1,103 @@
+nvda:ProfessionalVisualizationMember
+2023-07-31
+2023-10-29
+0001045810
+nvda:ProfessionalVisualizationMember
+2024-01-29
+2024-10-27
+0001045810
+nvda:ProfessionalVisualizationMember
+2023-01-30
+2023-10-29
+0001045810
+nvda:AutomotiveMember
+2024-07-29
+2024-10-27
+0001045810
+nvda:AutomotiveMember
+2023-07-31
+2023-10-29
+0001045810
+nvda:AutomotiveMember
+2024-01-29
+2024-10-27
+0001045810
+nvda:AutomotiveMember
+2023-01-30
+2023-10-29
+0001045810
+nvda:OEMAndOtherMember
+2024-07-29
+2024-10-27
+0001045810
+nvda:OEMAndOtherMember
+2023-07-31
+2023-10-29
+0001045810
+nvda:OEMAndOtherMember
+2024-01-29
+2024-10-27
+0001045810
+nvda:OEMAndOtherMember
+2023-01-30
+2023-10-29
+0001045810
+nvda:AartiShahMember
+2024-01-29
+2024-10-27
+0001045810
+nvda:AartiShahMember
+2024-07-29
+2024-10-27
+0001045810
+nvda:AartiShahMember
+2024-10-27
+0001045810
+nvda:AjayK.PuriMember
+2024-01-29
+2024-10-27
+0001045810
+nvda:AjayK.PuriMember
+2024-07-29
+2024-10-27
+0001045810
+nvda:AjayK.PuriMember
+2024-10-27
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+For the quarterly period ended
+October 27, 2024
+OR
+Commission File Number:
+0-23985
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+(
+408
+)
+486-2000
+(Registrant's telephone number, including area code)
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No
+☒
+The number of shares of common stock, $0.001 par value, outstanding as of November 15, 2024, was
+24.49
+billion.
+NVIDIA Corporation
+Form 10-Q
+For the Quarter Ended October 27, 2024
+Table of

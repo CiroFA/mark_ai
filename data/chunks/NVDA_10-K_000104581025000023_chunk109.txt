@@ -1,0 +1,38 @@
+gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse Enterprise software for building and operating industrial AI and digital twin applications.
+The “All Other” category includes the expenses that are not allocated to either Compute & Networking or Graphics for purposes of making operating decisions or assessing financial performance. The expenses include stock-based compensation expense, corporate infrastructure and support costs, acquisition-related and other costs, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature.
+Our CODM does not review any information regarding total assets on a reportable segment basis. There are no intersegment transactions. The accounting policies for segment reporting are the same as for our consolidated financial statements.
+The table below presents details of our reportable segments and the “All Other” category.
+78
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+(1)
+Other segment items for the Compute & Networking and Graphics reportable segments primarily include product costs and inventory provisions, compensation and benefits excluding stock-based compensation expense, compute and infrastructure expenses, and engineering development costs.
+Depreciation and amortization expense attributable to our Compute and Networking segment for fiscal years 2025, 2024, and 2023 was $
+732
+million, $
+457
+million, and $
+377
+million, respectively. Depreciation and amortization expense attributable to our Graphics segment for fiscal years 2025, 2024, and 2023 was $
+372
+million, $
+307
+million, and $
+315
+million, respectively. Acquisition-related intangible amortization expense is not allocated to either Compute & Networking or Graphics for purposes of making operating decisions or assessing financial performance and is included in “All Other”.
+Revenue by geographic area is based upon the billing location of the customer. The end customer and shipping location may be different from our customer’s billing location.
+(1) Singapore represented
+18
+% of fiscal year 2025 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Shipments to Singapore were less than
+2
+% of fiscal year 2025 total revenue.
+Revenue from sales to customers outside of the United States accounted for
+53
+%,
+56
+%, and
+69
+% of total revenue for fiscal years 2025, 2024, and 2023, respectively. The increase in revenue to the United States for fiscal years 2025 and 2024 was primarily due to higher U.S.-based Compute & Networking segment demand.
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, and system integrators. We have certain customers that may

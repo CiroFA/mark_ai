@@ -1,0 +1,36 @@
+RBH, PMI made various judgements, estimates and assumptions, the most significant of which were the discount rate, sales volumes and operating margins related to the fair value of the combustible tobacco product business in Canada. In addition, significant estimates were made with respect to the allocation amount of the aggregate global
+96
+settlement amount among RBH, ITL and JTIM, as well as the deductibility of the settlement amount payment for income tax purposes in Canada. All significant inputs used in the valuation are classified in Level 3 of fair value hierarchy. Transactions between PMI and RBH are considered to be related-party transactions from the date of deconsolidation and are included in the tables below.
+The fair value of PMI’s other equity securities, which have been classified within Level 1, was $
+921
+million and $
+375
+million for the years ended December 31, 2024 and 2023, respectively.  Unrealized pre-tax gains (losses) of $
+546
+million and $
+49
+million ($
+418
+million and $
+38
+million net of tax) on these equity securities were recorded in equity investments and securities (income)/loss, net on the consolidated statements of earnings for the years ended December 31, 2024 and 2023, respectively.  For a description of the fair value hierarchy and the three levels of inputs used to measure fair values, see Note 2.
+Summary of Significant Accounting Policies
+.
+Other related parties:
+United Arab Emirates-based Trans-Emirates Trading and Investments (FZC) ("TTI") holds a
+33
+% non-controlling interest in Philip Morris Misr LLC ("PMM"), an entity incorporated in Egypt which is consolidated in PMI’s financial statements in the SSEA, CIS & MEA segment. PMM sells, under license, PMI brands in Egypt through an exclusive distribution agreement with a local entity that is also controlled by TTI.
+Godfrey Phillips India Ltd ("GPI") is one of the non-controlling interest holders in IPM India, which is a
+56.3
+% owned PMI consolidated subsidiary in the SSEA, CIS & MEA segment.  GPI also acts as contract manufacturer and distributor for IPM India.
+Financial activity with the above related parties:
+PMI’s net revenues and expenses with the above related parties were as follows:
+(a)
+Net revenues exclude excise taxes and VAT billed to customers.
+PMI’s balance sheet activity with the above related parties was as follows:
+The activities with the above related parties are in the ordinary course of business, and are primarily for distribution, service fees, contract manufacturing and license agreements.  PMI eliminated its respective share of all significant intercompany transactions with the equity method investees.
+97
+Product Warranty:
+PMI's heat-not-burn devices and e-vapor products are subject to standard product warranties generally for a period of
+12
+months from the date of purchase or such other periods as required by law.  PMI generally provides in cost of sales for the estimated cost of warranty in the period the related revenue is recognized.

@@ -1,0 +1,18 @@
+connections, less the number of device disconnects in the period. Wireless retail postpaid connections, net additions in each period presented are calculated by subtracting the retail postpaid disconnects, net of certain adjustments, from the retail postpaid new connections in the period.
+Wireless retail prepaid connections, net additions
+are the total number of additional retail customer device prepaid connections, less the number of device disconnects in the period. Wireless retail prepaid connections, net additions in each period presented are calculated by subtracting the retail prepaid disconnects, net of certain adjustments, from the retail prepaid new connections in the period.
+Wireless retail postpaid phone connections, net additions
+are the total number of additional retail customer postpaid phone connections, less the number of phone disconnects in the period. Wireless retail postpaid phone connections, net additions in each period presented are calculated by subtracting the retail postpaid phone disconnects, net of certain adjustments, from the retail postpaid phone new connections in the period.
+Total broadband connections, net additions
+are the total number of additional total broadband connections, less the number of total broadband disconnects in the period. Total broadband connections, net additions in each period presented are calculated by subtracting the total broadband disconnects, net of certain adjustments, from the total broadband new connections in the period.
+29
+Table of
+Contents
+FWA broadband connections, net additions
+are the total number of additional FWA broadband connections, less the number of FWA broadband disconnects in the period. FWA broadband connections, net additions in each period presented are calculated by subtracting the FWA broadband disconnects, net of certain adjustments, from the FWA broadband new connections in the period.
+Wireline broadband connections, net additions
+are the total number of additional wireline broadband connections, less the number of wireline broadband disconnects in the period. Wireline broadband connections, net additions in each period presented are calculated by subtracting the wireline broadband disconnects, net of certain adjustments, from the wireline broadband new connections in the period.
+Wireless churn
+is the rate at which service to retail, retail postpaid, or retail postpaid phone connections is terminated on average in the period. The churn rate in each period presented is calculated by dividing retail disconnects, retail postpaid disconnects, or retail postpaid phone disconnects by the average retail connections, average retail postpaid connections, or average retail postpaid phone connections, respectively, in the period.
+Wireless retail postpaid ARPA
+is the calculated average retail postpaid service revenue per account (ARPA) from retail postpaid accounts in the period. Wireless retail postpaid service revenue does not include recurring device payment plan billings

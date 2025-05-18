@@ -1,0 +1,26 @@
+entered into derivative contracts to hedge the foreign currency exchange and interest rate risks related to intercompany loans between certain subsidiaries, and third-party loans. While effective as economic hedges, no hedge accounting is applied for these contracts; therefore, the gains (losses) relating to these contracts are reported in PMI’s consolidated statements of earnings.  Settlements of other derivative contracts are included primarily in cash flows from investing activities on PMI's consolidated statements of cash flows.
+Qualifying Hedging Activities Reported in Accumulated Other Comprehensive Losses
+Derivative gains or losses reported in accumulated other comprehensive losses are a result of qualifying hedging activity.  Transfers of these gains or losses to earnings are offset by the corresponding gains or losses on the underlying hedged item.
+Hedging activity affected accumulated other comprehensive losses, net of income taxes, as follows:
+At December 31, 2024, PMI expects $
+260
+million of derivative gains that are included in accumulated other comprehensive losses to be reclassified to the consolidated statement of earnings within the next 12 months. These gains are expected to be substantially offset by the statement of earnings impact of the respective hedged transactions.
+Contingent Features
+PMI’s derivative instruments do not contain contingent features.
+125
+Credit Exposure and Credit Risk
+PMI is exposed to credit loss in the event of non-performance by counterparties.  While PMI does not anticipate non-performance, its risk is limited to the fair value of the financial instruments less any cash collateral received or pledged.  PMI actively monitors its exposure to credit risk through the use of credit approvals and credit limits and by selecting and continuously monitoring a diverse group of major international banks and financial institutions as counterparties.
+Other Investments
+Certain PMI investments, which are comprised of held-to-maturity U.S. dollar denominated bonds in Argentina, have been classified within Level 1 and had a fair value of $
+125
+million at December 31, 2024. For the year ended December 31, 2024, the gross unrecognized holding losses on these investments were $
+7
+million.
+Accumulated Other Comprehensive Losses:
+PMI's accumulated other comprehensive losses, net of taxes, consisted of the following:
+Reclassifications from Other Comprehensive Earnings
+The movements in accumulated other comprehensive losses and the related tax impact, for each of the components above, that are due to current period activity and reclassifications to the income statement are shown on the consolidated statements of comprehensive earnings for the years ended December 31, 2024, 2023, and 2022. For additional information, see Note 3.
+Acquisitions and Divestitures
+and Note 20
+Restructuring Activities
+for disclosures related to the reclassification of accumulated foreign currency translation losses from other comprehensive losses,

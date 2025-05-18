@@ -1,0 +1,30 @@
+Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further information.
+Recent Accounting Pronouncements Not Yet Adopted
+In December 2023, the FASB issued a new accounting standard which includes new and updated income tax disclosures, including disaggregation of information in the rate reconciliation and income taxes paid. We expect to adopt this standard in our fiscal year 2026 annual report. We do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional disclosures.
+In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable. We expect to adopt this standard in our fiscal year 2028 annual report. We do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional disclosures.
+Note 2 -
+Business Combination
+Termination of the Arm Share Purchase Agreement
+In February 2022, NVIDIA and SoftBank Group Corp, or SoftBank, announced the termination of the Share Purchase Agreement whereby NVIDIA would have acquired Arm from SoftBank. The parties agreed to terminate it due to significant regulatory challenges preventing the completion of the transaction. We recorded an acquisition termination cost of $
+1.4
+billion in fiscal year 2023 reflecting the write-off of the prepayment provided at signing.
+Note 3 -
+Stock-Based Compensation
+Stock-based compensation expense is associated with RSUs, PSUs, market-based PSUs, and our ESPP.
+Consolidated Statements of Income include stock-based compensation expense, net of amounts capitalized into inventory and subsequently recognized to cost of revenue, as follows:
+Stock-based compensation capitalized in inventories was not significant during fiscal years 2025, 2024, and 2023.
+62
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+The following is a summary of equity awards granted under our equity incentive plans:
+As of January 26, 2025, aggregate unearned stock-based compensation expense was $
+11.6
+billion, which is expected to be recognized over a weighted average period of
+2.2
+years for RSUs, PSUs, and market-based PSUs, and
+one year
+for ESPP.
+The fair value of shares issued under our ESPP have been estimated with the following assumptions:
+For ESPP shares, the expected term represents the average term from the first day of the offering period to the purchase date. The risk-free interest rate assumption used to value ESPP shares is based upon observed interest rates on Treasury bills appropriate for the expected term. Our expected stock price volatility assumption for ESPP is estimated using

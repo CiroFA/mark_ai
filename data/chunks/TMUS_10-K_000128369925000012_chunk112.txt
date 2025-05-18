@@ -1,0 +1,19 @@
+11.1
+% and
+10.6
+% as of December 31, 2024 and 2023, respectively.
+The following table summarizes the EIP receivables, including imputed discounts and related allowance for credit losses:
+Many of our loss estimation techniques rely on delinquency-based models categorized by customer credit class; therefore, delinquency is an important indicator of credit quality in the establishment of our allowance for credit losses for EIP receivables. We manage our EIP receivables portfolio segment using delinquency and customer credit class as key credit quality indicators.
+The following table presents the amortized cost of our EIP receivables by delinquency status, customer credit class and year of origination as of December 31, 2024:
+75
+Index for Notes to the Consolidated Financial Statements
+We estimate credit losses on our EIP receivables segment by applying an expected credit loss model, which relies on historical loss data adjusted for current conditions to calculate default probabilities or an estimate for the frequency of customer default. Our assessment of default probabilities or frequency includes receivables delinquency status, historical loss experience, how long the receivables have been outstanding and customer credit ratings, as well as customer tenure. We multiply these estimated default probabilities by our estimated loss given default, which is the estimated amount of default or the severity of loss.
+As we do for our accounts receivable portfolio segment, we consider the need to adjust our estimate of credit losses on EIP receivables for reasonable and supportable forecasts of economic conditions through monitoring external forecasts and periodic internal statistical analyses.
+The following table presents write-offs of our EIP receivables by year of origination for the year ended December 31, 2024:
+Activity for the years ended December 31, 2024, 2023 and 2022, in the allowance for credit losses and unamortized imputed discount balances for the accounts receivable and EIP receivables segments were as follows:
+Off-Balance-Sheet Credit Exposures
+We do not have material off-balance-sheet credit exposures as of December 31, 2024. In connection with the sales of certain service accounts receivable and EIP receivables pursuant to the sale arrangements, we provide guarantees of credit performance (prior to November 1, 2024, this was deferred purchase price assets) included on our Consolidated Balance Sheets measured at fair value that are based on a discounted cash flow model using Level 3 inputs, including estimated customer default rates and credit worthiness, dilutions and recoveries. See
+Note 5 – Sales of Certain Receivables
+for further information.
+Note 5 – Sales of Certain Receivables
+We regularly enter into transactions to sell certain service accounts receivable and EIP receivables. The transactions, including our continuing involvement with the sold receivables and the respective impacts to our consolidated financial statements, are

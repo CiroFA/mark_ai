@@ -1,0 +1,34 @@
+The rates at which loans transition through delinquency stages, ultimately resulting in a loss. Schwab considers a loan to be delinquent if it is 30 days or more past due.
+Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act):
+Regulatory reform legislation containing numerous provisions which expanded prudential regulation of large financial services companies.
+Duration:
+Duration is typically used to measure the expected change in value of a financial instrument for a 1% change in interest rates, expressed in years.
+First Mortgages:
+Refers to first lien residential real estate mortgage loans.
+Full-time equivalent employees:
+Represents the total number of hours worked divided by a 40-hour work week for the following categories: full-time, part-time, and temporary employees and persons employed on a contract basis.
+High Quality Liquid Assets (HQLA):
+HQLA is defined by the Federal Reserve, but includes assets that are actively traded and readily convertible to cash in times of stress.
+Industry Fees:
+Includes fees collected from clients for certain securities transactions to offset, as applicable, charges assessed on the Company by SROs and foreign governments. Such charges include Section 31 fees, FINRA trading activity fees, options regulatory fees, proprietary index options fees, and foreign transaction tax on American Depositary Receipts.
+Interest-bearing liabilities:
+Primarily includes bank deposits, payables to brokerage clients, payables to brokers, dealers, and clearing organizations, Federal Home Loan Bank borrowings, other short-term borrowings, and long-term debt on which Schwab pays interest.
+Interest-earning assets:
+Primarily includes cash and cash equivalents, cash and investments segregated, receivables from brokerage clients, investment securities, and bank loans on which Schwab earns interest.
+Investment grade:
+Defined as a rating equivalent to a Moody’s Investors Service (Moody’s) rating of “Baa3” or higher, or a Standard & Poor’s Rating Group (Standard & Poor’s) or Fitch Ratings, Ltd (Fitch) rating of “BBB-” or higher.
+Liquidity Coverage Ratio (LCR):
+The ratio of HQLA to projected net cash outflows during a 30-day stress scenario.
+Loan-To-Value
+(LTV)
+ratio:
+Calculated as the principal amount of a loan divided by the value of the collateral securing the loan.
+Margin loans:
+Money borrowed against the value of certain stocks, bonds, and mutual funds in a client portfolio. The borrowed money can be used to purchase additional securities or to meet short-term financial needs.
+Master netting arrangement:
+An agreement between two counterparties that have multiple contracts with each other that provides for net settlement of all contracts through a single cash payment in the event of default or termination of any one contract.
+Mortgage-backed securities:
+A type of asset-backed security that is secured by a mortgage or group of mortgages.
+- 26 -
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of

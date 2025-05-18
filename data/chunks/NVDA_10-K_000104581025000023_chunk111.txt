@@ -1,0 +1,24 @@
+additional information.
+(4)
+Represents sales returns.
+82
+Exhibit Index
+83
+*
+Filed herewith.
++  Management contract or compensatory plan or arrangement.
+# In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release Nos. 33-8238 and 34-47986, Final Rule: Management's Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Annual Report on Form 10-K and will not be deemed “filed” for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+84
+^ Certain exhibits and schedules have been omitted in accordance with Regulation S-K Item 601(a)(5).
+Copies of above exhibits not contained herein are available to any shareholder upon written request to:
+Investor Relations: NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, CA 95051
+Item 16. Form 10-K Summary
+Not Applicable.
+85
+Signatures
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on February 26, 2025.
+Power of Attorney
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Jen-Hsun Huang and Colette M. Kress, and each or any one of them, his true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution, for him and in his name, place and stead, in any and all capacities, to sign any and all amendments to this report, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-facts and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his substitutes or substitutes, may lawfully do or cause to be done by virtue hereof.
+86
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+87

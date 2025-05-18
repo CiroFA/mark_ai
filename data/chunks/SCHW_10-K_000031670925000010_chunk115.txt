@@ -1,0 +1,16 @@
+state and municipal securities, commercial paper, and foreign government agency securities.
+At December 31, 2024, substantially all securities in the investment portfolios were rated investment grade. U.S. agency mortgage-backed securities do not have explicit credit ratings; however, management considers these to be of the highest credit quality and rating given the guarantee of principal and interest by the U.S. government or U.S. government-sponsored enterprises.
+- 46 -
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+Mortgage Lending Portfolio
+The bank loan portfolio includes First Mortgages, HELOCs, PALs (discussed below), and other loans. The credit risk exposure related to loans is actively managed through individual loan and portfolio reviews. Management regularly reviews asset quality, including concentrations, delinquencies, nonaccrual loans, charge-offs, and recoveries. All are factors in the determination of an appropriate allowance for credit losses.
+Our residential loan underwriting guidelines include maximum LTV ratios, cash out limits, and minimum Fair Isaac Corporation (FICO) credit scores. The specific guidelines are dependent on the individual characteristics of a loan (for example, whether the property is a primary or secondary residence, whether the loan is for investment property, whether the loan is for an initial purchase of a home or refinance of an existing home, and whether the loan size is conforming or jumbo).
+Schwab does not originate or purchase residential loans that allow for negative amortization and does not originate or purchase subprime loans (generally defined as extensions of credit to borrowers with a FICO score of less than 620 at origination), unless the borrower has compensating credit factors. For more information on credit quality indicators relating to Schwab’s bank loans, see Item 8 – Note 7.
+Securities and Instrument-Based Lending Portfolios
+Collateral arrangements relating to margin loans, PALs, option and futures positions, securities lending agreements, and securities purchased under agreements to resell (resale agreements) include provisions that require additional collateral in the event of market fluctuations. Additionally, for margin loans, PALs, options and futures positions, and securities lending agreements, collateral arrangements require that the fair value of such collateral sufficiently exceeds the credit exposure in order to maintain a fully secured position.
+Other Counterparty Exposures
+Schwab performs clearing services for all securities transactions in its client accounts. Schwab has exposure to credit risk due to its obligation to settle transactions with clearing corporations, mutual funds, and other financial institutions even if Schwab’s clients or a counterparty fail to meet their obligations to the Company.
+Market Risk
+Market risk is the potential for

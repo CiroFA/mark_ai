@@ -1,0 +1,15 @@
+vehicles to continually train and improve these neural networks for real-world performance.
+Currently, we offer in our vehicles certain advanced driver assist systems under our Autopilot and FSD (Supervised) options. Although at present, same as in the past, the driver is responsible for remaining fully engaged in the driving operation, our systems provide safety and convenience functionality that can relieve drivers of many tedious and potentially dangerous aspects of road travel much like the system that airplane pilots use, when conditions permit. As with other vehicle systems, we improve these functions in our vehicles over time through over-the-air software updates.
+In 2025, we intend to begin launching our Robotaxi business, a ride-hailing network that will eventually operate fully autonomous vehicles. We expect this business will open access to a new customer base even as modes of transportation evolve. We believe our capabilities and advancements in AI, including the deployment of Cortex, our training cluster at Gigafactory Texas, differentiates us from our competitors.
+We are also applying our artificial intelligence learnings from self-driving technology to the field of robotics, such as through Optimus, a robotic humanoid in development, which is controlled by the same AI system.
+3
+Table of Contents
+Energy Generation and Storage
+Energy Storage Products
+We leverage many of the component-level technologies from our vehicles in our energy storage products. By taking a modular approach to the design of battery systems, we can optimize manufacturing capacity of our energy storage products. Additionally, our expertise in power electronics enables our battery systems to interconnect with electricity grids while providing fast-acting systems for power injection and absorption. We have also developed software to remotely control and dispatch our energy storage systems.
+Solar Energy Systems
+We have engineered Solar Roof over numerous iterations to combine aesthetic appeal and durability with power generation. The efficiency of our solar energy products is aided by our own solar inverter, which incorporates our power electronics technologies. We designed both products to integrate with Powerwall.
+Design and Engineering
+Automotive
+We have established significant in-house capabilities in the design and test engineering of electric vehicles and their components and systems. Our team has significant experience in computer-aided design as well as durability, strength and crash test simulations, which reduces the product development time of new models. We have also achieved complex engineering feats in stamping, casting and thermal systems, and developed a method to integrate batteries directly with vehicle body structures without separate battery packs to optimize manufacturability, weight, range and cost characteristics.
+We are also expanding our manufacturing operations globally while taking action to localize our vehicle designs and production for

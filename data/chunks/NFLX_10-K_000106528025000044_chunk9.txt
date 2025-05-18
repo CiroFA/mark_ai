@@ -1,0 +1,139 @@
+gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-12-31
+0001065280
+nflx:TaxExpenseBenefitOnNetInvestmentHedgeMember
+2023-12-31
+0001065280
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-01
+2024-12-31
+0001065280
+nflx:AOCINetInvestmentHedgeParentMember
+2024-01-01
+2024-12-31
+0001065280
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-01-01
+2024-12-31
+0001065280
+us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember
+2024-01-01
+2024-12-31
+0001065280
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-01-01
+2024-12-31
+0001065280
+nflx:TaxExpenseBenefitOnNetInvestmentHedgeMember
+2024-01-01
+2024-12-31
+0001065280
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0001065280
+nflx:AOCINetInvestmentHedgeParentMember
+2024-12-31
+0001065280
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0001065280
+us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember
+2024-12-31
+0001065280
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-12-31
+0001065280
+nflx:TaxExpenseBenefitOnNetInvestmentHedgeMember
+2024-12-31
+0001065280
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001065280
+us-gaap:AccumulatedTranslationAdjustmentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001065280
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-12-31
+0001065280
+nflx:MultiemployerPensionBenefitsMember
+2024-01-01
+2024-12-31
+0001065280
+nflx:MultiemployerPensionBenefitsMember
+2023-01-01
+2023-12-31
+0001065280
+nflx:MultiemployerPensionBenefitsMember
+2022-01-01
+2022-12-31
+0001065280
+nflx:MultiemployerHealthBenefitsMember
+2024-01-01
+2024-12-31
+0001065280
+nflx:MultiemployerHealthBenefitsMember
+2023-01-01
+2023-12-31
+0001065280
+nflx:MultiemployerHealthBenefitsMember
+2022-01-01
+2022-12-31
+0001065280
+country:US
+2024-01-01
+2024-12-31
+0001065280
+country:US
+2023-01-01
+2023-12-31
+0001065280
+country:US
+2022-01-01
+2022-12-31
+0001065280
+country:US
+2024-12-31
+0001065280
+country:US
+2023-12-31
+0001065280
+nflx:InternationalMember
+2024-12-31
+0001065280
+nflx:InternationalMember
+2023-12-31
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_____________________________________________________________________
+FORM
+10-K
+_____________________________________________________________________
+(Mark One)
+For the fiscal year ended
+December 31
+, 2024
+OR
+For the transition period from              to
+Commission File Number:
+001-35727
+_____________________________________________________________________
+Netflix, Inc.
+(Exact name of registrant as specified in its charter)
+_____________________________________________________________________
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address and zip code of principal executive offices)
+(
+408
+)
+540-3700
+(Registrant’s telephone number, including area code)

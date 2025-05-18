@@ -1,0 +1,40 @@
+repledged, or otherwise used by the counterparties. See Notes 9 and 12 for additional information on these repurchase agreements.
+- 35 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Ratios, or as Noted)
+(Unaudited)
+At March 31, 2025, the Company had pledged AFS securities consisting of U.S. Treasury securities with an aggregate fair value of $
+371
+million as initial margin on interest rate swaps (see Notes 11 and 12). All of Schwab’s interest rate swaps are cleared through central counterparty (CCP) clearing houses which require the Company to post initial margin as collateral against potential losses. Initial margin is posted through futures commission merchants (FCM) which serve as the intermediary between the CCPs and Schwab. The FCM agreements governing our swaps allow for securities pledged as initial margin to be sold, repledged, or otherwise used by the FCM.
+AFS securities with unrealized losses, aggregated by category and period of continuous unrealized loss, are as follows:
+(1)
+Unrealized losses less than 12 months amounts were less than $
+500
+thousand.
+(2)
+For purposes of this table, unrealized losses on AFS securities excludes the unallocated PLM fair value hedge basis adjustments of $
+28
+million and $
+47
+million at March 31, 2025 and December 31, 2024, respectively.
+At March 31, 2025, substantially all rated securities in the investment portfolios were investment grade. U.S. agency mortgage-backed securities do not have explicit credit ratings; however, management considers these to be of the highest credit quality and rating given the guarantee of principal and interest by the U.S. government or U.S. government-sponsored enterprises.
+For a description of management’s quarterly evaluation of AFS securities in unrealized loss positions, see Item 8 – Note 2 in the 2024 Form 10-K.
+No
+amounts were recognized as credit loss expense and
+no
+securities were written down to fair value through earnings for the three months ended March 31, 2025 and the year ended December 31, 2024.
+None
+of the Company’s AFS securities held as of March 31, 2025 and December 31, 2024 had an allowance for credit losses. All HTM securities as of March 31, 2025 and December 31, 2024 were U.S. agency mortgage-backed securities and therefore had
+no
+allowance for credit losses because expected nonpayment of the amortized cost basis is zero.
+The Company had $
+418
+million and $
+455
+million of accrued interest for AFS and HTM securities as of March 31, 2025 and December 31, 2024, respectively. These amounts are excluded from the amortized cost basis and fair market value of AFS and HTM securities and included in other assets on the condensed consolidated balance sheets. There were
+no
+writeoffs of accrued interest receivable on AFS and HTM securities during the three months ended March 31, 2025, or for the year ended December 31, 2024.
+- 36 -
+THE CHARLES SCHWAB CORPORATION
+Notes to

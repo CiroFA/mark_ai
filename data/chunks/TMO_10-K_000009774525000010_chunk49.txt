@@ -1,0 +1,17 @@
+from the inability of its customers to pay amounts due. The allowance for doubtful accounts is the company’s best estimate of the amount of probable credit losses in existing accounts receivable. The company determines the allowance based on history of similarly aged receivables, the creditworthiness of the customer, reasons for delinquency, current economic conditions, expectations associated with future events and circumstances where reasonable and supportable forecasts are available and any other information that is relevant to the judgment. Receivables from academic and government customers as well as large, well-capitalized commercial customers have historically experienced less collectability risk. Account balances are charged off against the allowance when the company believes it is probable the receivable will not be recovered. The company does not have any off-balance-sheet credit exposure related to customers.
+38
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Contract assets include revenues recognized in advance of billings where the company’s right to bill includes something other than the passage of time. Such amounts are recorded net of estimated losses resulting from the inability to invoice customers, which is primarily due to risk associated with the company’s performance. Contract assets are classified as current or noncurrent based on the amount of time expected to lapse until the company's right to consideration becomes unconditional.
+Contract liabilities include billings in excess of revenues recognized, such as those resulting from customer advances and deposits and unearned revenues on service contracts. Contract liabilities are classified as current or noncurrent based on the periods over which remaining performance obligations are expected to be transferred to customers. Contract assets and liabilities are presented on a net basis in the consolidated balance sheet if they arise from different performance obligations in the same contract.
+Noncurrent contract assets and noncurrent contract liabilities are included within other assets and other long-term liabilities in the accompanying balance sheet, respectively (see Note 2).
+Property, Plant and Equipment
+Property, plant and equipment are recorded at cost. The costs of additions and improvements are capitalized, while maintenance and repairs are charged to expense as incurred. The company generally provides for depreciation and amortization using the straight-line method over the estimated useful lives of the property as follows: buildings and improvements,
+25
+to
+40
+years; machinery and equipment (including software),
+3
+to
+10
+years; and leasehold improvements, the shorter of the term of the lease or the life of the asset. When assets are retired or otherwise disposed of, the assets and related accumulated depreciation are eliminated from the accounts and the resulting gain or loss is reflected in the accompanying statement of income.

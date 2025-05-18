@@ -1,0 +1,18 @@
+the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Assessment of the litigation accrual for class members opting out of the Damages Class settlement in the Interchange Multidistrict Litigation (MDL)
+As discussed in Notes 5 and 20 to the consolidated financial statements, the Company is party to various legal proceedings, including the
+Interchange Multidistrict Litigation (MDL) – Individual Merchant Actions,
+and has recorded a litigation accrual of $1,537 million as of September 30, 2024, of which the substantial majority of that accrual relates to Individual Merchant Actions. In preparing its consolidated financial statements, the Company is required to assess the probability of loss associated with each legal proceeding and estimate the amount of such loss, if any. The outcome of legal proceedings to which the Company is a party is not within the complete control of the Company and may not be known for prolonged periods of time.
+We identified the assessment of the litigation accrual for class members opting out of the Damages Class settlement in the
+Interchange Multidistrict Litigation (MDL)
+, also known as the
+MDL – Individual Merchant Actions
+, as a critical audit matter. This proceeding involves claims that are subject to inherent uncertainties and unascertainable damages. The assessment of the litigation accrual for the
+MDL – Individual Merchant Actions
+required especially challenging auditor judgment due to the assumptions and estimation associated with the consideration and evaluation of possible outcomes. The Company could incur judgments, enter into settlements or revise its expectations regarding the outcome of merchants’ claims, which could have a material effect on the estimated amount of the liability in the period in which the effect becomes probable and reasonably estimable.
+55
+Table of Contents
+Report of Independent Registered Public Accounting Firm—(Continued)
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company’s litigation accrual process for the
+MDL – Individual Merchant Actions
+. We evaluated the Company’s ability to estimate its monetary exposure by comparing historically recorded liabilities to actual monetary amounts incurred upon resolution of legal matters for merchants that opted

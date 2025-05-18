@@ -1,0 +1,16 @@
+be properly followed in every instance or that those policies and procedures will be effective as cyber criminals are becoming more sophisticated and effective every day and increasingly targeting enterprise software companies. Although our Risk Factors include further detail about the material cybersecurity risks we face, we believe that risks from prior cybersecurity threats, including as a result of any previous cybersecurity incidents, have not materially affected our business to date. We can provide no assurance that there will not be incidents in the future or that they will not materially affect us, including our business strategy, results of operations, or financial condition.
+Risk Management and Strategy
+Our policies, standards, processes and practices for assessing, identifying, and managing material risks from cybersecurity threats are integrated into our overall risk management program and are based on frameworks established by the National Institute of Standards and Technology (“NIST”), the International Organization for Standardization and other applicable industry standards.
+Our cybersecurity program in particular focuses on the following key areas:
+Collaboration
+Our cybersecurity risks are identified and addressed through a comprehensive, cross-functional approach. Key security, risk, and compliance stakeholders meet regularly to develop strategies for preserving the confidentiality, integrity and availability of Company and customer information, identifying, preventing and mitigating cybersecurity threats, and effectively responding to cybersecurity incidents. We maintain controls and procedures that are designed to ensure prompt escalation of certain cybersecurity incidents so that decisions regarding public disclosure and reporting of such incidents can be made by management and the Board in a timely manner.
+Risk Assessment
+At least annually, we conduct a cybersecurity risk assessment that takes into account information from internal stakeholders, known information security vulnerabilities, and information from external sources (e.g., reported security incidents that have impacted other companies, industry trends, and evaluations by
+third parties
+and consultants). The results of the assessment are used to drive alignment on, and prioritization of, initiatives to enhance our security controls, make recommendations to improve processes, and inform a broader enterprise-level risk assessment that is
+presented to our Board
+, Audit Committee and members of management.
+Technical Safeguards
+We regularly assess and deploy technical safeguards designed to protect our information systems from cybersecurity threats. Such safeguards are regularly evaluated and improved based on vulnerability assessments, cybersecurity threat intelligence and incident response experience.
+Incident Response and Recovery Planning
+We have established comprehensive incident response and recovery plans and continue to regularly test and evaluate the effectiveness

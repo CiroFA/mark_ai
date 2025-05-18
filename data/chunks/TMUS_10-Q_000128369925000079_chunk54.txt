@@ -1,0 +1,18 @@
+transactions within Net cash used in investing activities on our Condensed Consolidated Statements of Cash Flows, were recognized as operating cash flows. The Pledge Amendments did not have a net impact on Adjusted Free Cash Flow.
+Borrowing Capacity
+We maintain a revolving credit facility (the “Revolving Credit Facility”) with an aggregate commitment amount of $7.5 billion. As of March 31, 2025, there was no outstanding balance under the Revolving Credit Facility.
+We maintain an unsecured short-term commercial paper program with the ability to borrow up to $2.0 billion from time to time. This program supplements our other available external financing arrangements and proceeds are expected to be used for general corporate purposes. As of March 31, 2025, there was no outstanding balance under this program.
+Debt Financing
+On January 31, 2025, our wholly owned subsidiary, T-Mobile USA, Inc., entered into a credit agreement with certain financial institutions, backed by an Export Credit Agency (the “ECA Facility”), providing for a loan of up to $1.0 billion. On March 17, 2025, we drew down the full $1.0 billion available under the ECA Facility and recognized the net proceeds within Proceeds from issuance of long-term debt on our Condensed Consolidated Statements of Cash Flows.
+46
+Table of Contents
+As of March 31, 2025, our total debt and financing lease liabilities were $88.0 billion, excluding our tower obligations, of which $77.5 billion was classified as long-term debt and $1.1 billion was classified as long-term financing lease liabilities.
+During the three months ended March 31, 2025, we issued long-term debt for net proceeds of $7.8 billion, including proceeds from the ECA Facility, and repaid short-term debt with an aggregate principal amount of $479 million.
+Subsequent to March 31, 2025, on April 15, 2025, we repaid at maturity $3.0 billion of our 3.500% Senior Notes due 2025.
+For more information regarding our debt financing transactions, see
+Note
+8
+– Debt
+of the Notes to the Condensed Consolidated Financial Statements.
+License Purchase Agreements
+On August 8, 2022, we entered into License Purchase Agreements to acquire spectrum in the 600 MHz band from Channel 51 License Co LLC and LB License Co, LLC (together with Channel 51 License Co LLC, the “Sellers”) in exchange for total cash consideration of $3.5 billion. On March 30, 2023, we and the Sellers entered into Amended and Restated License Purchase Agreements, pursuant to which we and the Sellers agreed to bifurcate the transaction into two tranches of licenses, with the closings on the acquisitions of certain licenses in Chicago, Dallas and New Orleans being deferred in order to potentially expedite the regulatory approval process for the remainder of the licenses. Subsequently, on August 25, 2023, we and the Sellers entered into Amendments No. 1 to the Amended and Restated License Purchase Agreements, whereby we deferred the closings of certain additional licenses in Chicago and Dallas

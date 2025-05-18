@@ -1,0 +1,21 @@
+Business combinations
+. The Company accounts for business combinations using the acquisition method and accordingly, the identifiable assets acquired, the liabilities assumed and any noncontrolling interest in the acquiree are generally recorded at their acquisition date fair values. The excess of the purchase price over the fair value of net assets acquired, including identifiable intangible assets, is recorded as goodwill. Acquisition-related costs are expensed in the periods in which the costs are incurred.
+66
+Table of Contents
+Intangible assets, net and goodwill
+. The Company records identifiable intangible assets at fair value on the date of acquisition and evaluates the useful life of each intangible asset.
+Finite-lived intangible assets primarily consist of customer relationships and trade names obtained through acquisitions. Finite-lived intangible assets are amortized on a straight-line basis and are tested for recoverability if events or changes in circumstances indicate that their carrying amounts may not be recoverable. These intangible assets have useful lives ranging from
+3
+to
+15
+years.
+Indefinite-lived intangible assets consist of trade name, customer relationships and reacquired rights. Intangible assets with indefinite useful lives are not amortized but are evaluated for impairment annually or more frequently if events or changes in circumstances indicate that impairment may exist. The Company first assesses qualitative factors to determine whether it is necessary to perform a quantitative impairment test for indefinite-lived intangible assets. The Company assesses each category of indefinite-lived intangible assets for impairment on an aggregate basis. Impairment exists if the fair value of the indefinite-lived intangible asset is less than the carrying value.
+Goodwill represents the excess of the purchase price over the fair value of the net assets acquired in a business combination. Goodwill is not amortized but is evaluated for impairment at the reporting unit level annually or more frequently if events or changes in circumstances indicate that impairment may exist.
+The Company performed its annual impairment review of indefinite-lived intangible assets and goodwill as of February 1, 2024, and concluded there was
+no
+impairment as of that date. No recent events or changes in circumstances indicate that impairment existed as of September 30, 2024.
+See
+Note 8—Intangible Assets and Goodwill
+.
+Accrued litigation
+. The Company evaluates the likelihood of an unfavorable outcome in legal or regulatory proceedings to which it is a party and records a loss contingency when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. These judgments are inherently subjective and based on a number of factors, including the specifics of such legal or regulatory proceedings, the merits of the Company’s defenses and consultation with internal and external legal counsel. Actual outcomes of these

@@ -1,0 +1,15 @@
+Balance Sheets.
+During the year ended December 31, 2022, we recognized a pre-tax loss of $
+1.1
+billion within (Gain) loss on disposal group held for sale and a non-cash expense of $
+477
+million within Impairment expense on our Consolidated Statements of Comprehensive Income related to the disposition of the Wireline Business.
+67
+Index for Notes to the Consolidated Financial Statements
+Leases
+Cell Site, Retail Store and Office Facility Leases
+We are a lessee for non-cancelable operating and financing leases for cell sites, switch sites, retail stores, network equipment and office facilities. We recognize a right-of-use asset and lease liability for operating leases based on the net present value of future minimum lease payments. The right-of-use asset for an operating lease is based on the lease liability. Lease expense is recognized on a straight-line basis over the non-cancelable lease term and renewal periods that are considered reasonably certain.
+In addition, we have financing leases for certain network equipment. We recognize a right-of-use asset and lease liability for financing leases based on the net present value of future minimum lease payments. The right-of-use asset for a finance lease is based on the lease liability. Expense for our financing leases is comprised of the amortization expense associated with the right-of-use asset and interest expense recognized based on the effective interest method.
+We include options to extend or terminate a lease when we are reasonably certain that we will exercise that option. We consider several factors in assessing whether renewal periods are reasonably certain of being exercised, including the continued maturation of our nationwide network, technological advances within the telecommunications industry and the availability of alternative sites. We have generally concluded we are not reasonably certain to exercise the options to extend or terminate our leases. Therefore, as of the lease commencement date, our lease terms generally do not include these options.
+In determining the discount rate used to measure the right-of-use asset and lease liability, we use rates implicit in the lease, or if not readily available, we use our incremental borrowing rate. Our incremental borrowing rate is based on an estimated secured rate comprised of a risk-free rate plus a credit spread as secured by our assets. Determining a credit spread as secured by our assets may require judgment.
+Certain of our lease agreements include rental payments based on changes in the consumer price index (“CPI”). Lease liabilities are not remeasured as a result of changes in the CPI; instead, changes in the CPI are treated as variable lease payments and are excluded from the measurement of the right-of-use asset and lease liability. These payments are recognized in the period in which the related obligation is incurred. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants.

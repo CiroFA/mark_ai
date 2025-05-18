@@ -1,0 +1,150 @@
+uber:OtherContingentlyIssuableSharesMember
+2024-01-01
+2024-03-31
+0001543151
+uber:OtherContingentlyIssuableSharesMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+uber:MobilityMember
+2024-01-01
+2024-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+uber:DeliveryMember
+2024-01-01
+2024-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+uber:FreightMember
+2024-01-01
+2024-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0001543151
+us-gaap:MaterialReconcilingItemsMember
+2024-01-01
+2024-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+uber:MobilityMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+uber:DeliveryMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+uber:FreightMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:MaterialReconcilingItemsMember
+2025-01-01
+2025-03-31
+0001543151
+uber:UnitedStatesAndCanadaMember
+2024-01-01
+2024-03-31
+0001543151
+uber:UnitedStatesAndCanadaMember
+2025-01-01
+2025-03-31
+0001543151
+srt:LatinAmericaMember
+2024-01-01
+2024-03-31
+0001543151
+srt:LatinAmericaMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:EMEAMember
+2024-01-01
+2024-03-31
+0001543151
+us-gaap:EMEAMember
+2025-01-01
+2025-03-31
+0001543151
+srt:AsiaPacificMember
+2024-01-01
+2024-03-31
+0001543151
+srt:AsiaPacificMember
+2025-01-01
+2025-03-31
+0001543151
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2024-12-31
+0001543151
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-03-31
+0001543151
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+2024-12-31
+0001543151
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+2025-03-31
+0001543151
+uber:MooveMember
+2024-12-31
+0001543151
+uber:MooveMember
+2025-03-31
+0001543151
+us-gaap:FinancialGuaranteeMember
+2025-03-31
+0001543151
+us-gaap:FinancialGuaranteeMember
+2024-12-31
+0001543151
+uber:FreightHoldingMember
+2025-03-31
+0001543151
+uber:FreightHoldingMember
+2024-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________________________________
+FORM
+10-Q
+____________________________________________
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from_____ to _____
+Commission File Number:
+001-38902
+____________________________________________
+UBER TECHNOLOGIES, INC.
+(Exact name of registrant as specified in its charter)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+____________________________________________________________________________
+1725 3rd Street
+San Francisco
+,
+California
+94158
+(Address of principal executive offices, including zip code)
+(
+415
+)
+612-8582
+(Registrant’s telephone number, including area code)

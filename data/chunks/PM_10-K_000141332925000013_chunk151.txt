@@ -1,0 +1,38 @@
+Interest expense, net, and provision for income taxes are centrally managed and, accordingly, such items are not presented
+110
+by segment since they are excluded from the measure of segment profitability reviewed by management. Information about total assets by segment is not disclosed because such information is not reported to or used by PMI’s CODM. Segment goodwill and other intangible assets, net, are disclosed in Note 5.
+Goodwill and Other Intangible Assets, net
+.  The accounting policies of the segments are the same as those described in Note 2.
+Summary of Significant Accounting Policies
+.
+PMI disaggregates its net revenues from contracts with customers by product category for each of PMI's
+four
+geographical segments, except the Wellness and Healthcare business. PMI believes this best depicts how the nature, amount, timing and uncertainty of its revenue and cash flows are affected by economic factors.
+On November 27, 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update ASU 2023-07, “Improvements to Reportable Segment Disclosures” (“ASU 2023-07”). ASU 2023-07 improves reportable segment disclosures, primarily through enhanced disclosures about significant segment expenses that impact segment profit or loss,  regularly provided to the chief operating decision maker. For further details, see Note 23.
+New Accounting Standards
+.
+Net revenues, significant expenses, and operating income (loss) by segment were as follows:
+Total net revenues attributable to customers located in Japan, PMI's largest market in terms of net revenues, were $
+4.1
+billion, $
+3.9
+billion and $
+3.9
+billion in 2024, 2023 and 2022, respectively. PMI had one customer in the EA, AU & PMI DF segment that accounted for
+11
+%,
+11
+% and
+12
+% of PMI’s consolidated net revenues, and one customer in the Europe segment that accounted for
+11
+%,
+12
+% and
+13
+% of PMI’s consolidated net revenues in 2024, 2023 and 2022, respectively.
+111
+PMI's net revenues by product category were as follows:
+Note: Sum of product categories or Regions might not foot to total PMI due to rounding.
+Net revenues related to combustible tobacco refer to the operating revenues generated from the sale of these products, including shipping and handling charges billed to customers, net of sales and promotion incentives, and excise taxes. These net revenue amounts consist of the sale of PMI's cigarettes and other tobacco products that are combusted. Other tobacco products primarily include roll-your-own and make-your-own cigarettes, pipe tobacco, cigars and cigarillos and do not include smoke-free products.
+Net revenues related to smoke-free, excluding wellness and healthcare, refer to the operating revenues generated from the sale of these products, including shipping and handling charges billed to customers, net of sales and promotion incentives, and excise taxes, if applicable. These net revenue amounts consist of the sale of PMI's products that are not combustible tobacco

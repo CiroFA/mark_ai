@@ -1,0 +1,16 @@
+Translation
+For most of our international operations, local currencies have been determined to be the functional currencies. We translate functional currency assets and liabilities to their U.S. dollar equivalents at exchange rates in effect as of the balance sheet date and income and expense amounts at average exchange rates for the period. The U.S. dollar effects that arise from changing translation rates are recorded in
+Other comprehensive income/(loss)
+. The effects of converting non-functional currency monetary assets and liabilities into the functional currency are recorded in
+Other (income)/deductions––net
+. For operations in highly inflationary economies, we translate monetary items at rates in effect as of the balance sheet date, with translation adjustments recorded in
+Other (income)/deductions––net
+, and we translate non-monetary items at historical rates.
+G. Revenues and Trade Accounts Receivable
+Revenue Recognition
+––We record revenues from product sales when there is a transfer of control of the product from us to the customer. We typically determine transfer of control based on when the product is shipped or delivered and title passes to the customer. For certain contracts, the finished product may temporarily be stored at our or our third-party subcontractors’ locations under a bill-and-hold arrangement. Revenue is recognized on bill-and-hold arrangements at the point in time when the customer obtains control of the product and all of the following criteria have been met: the arrangement is substantive; the product is identified separately as belonging to the customer; the product is ready for physical transfer to the customer; and we do not have the ability to use the product or direct it to another customer. In bill-and-hold arrangements which are part of the U.S. SNS, we recognize revenue for the product sale when the product is initially placed into the U.S. SNS and we provide a rotation service to maintain an agreed upon level of shelf life for product in the stockpile. In determining when the customer obtains control of the product, we consider certain indicators, including whether we have a present right to payment from the customer, whether title and/or significant risks and rewards of ownership have transferred to the customer and whether customer acceptance has been received.
+Our Sales Contracts
+––Sales on credit are typically under short-term contracts. Collections are based on market payment cycles common in various markets, with shorter cycles in the U.S. Sales
+are adjusted for sales allowances, chargebacks, rebates and sales returns and cash discounts. Sales returns may occur due to patent-based expirations or loss of regulatory exclusivity, product recalls or a changing competitive environment.
+Deductions from Revenues
+––Our gross product revenues are subject to a variety of deductions, which generally are estimated and recorded in the same period that the revenues are recognized. Such variable consideration

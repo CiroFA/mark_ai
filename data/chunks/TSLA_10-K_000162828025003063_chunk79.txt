@@ -1,0 +1,16 @@
+passed through to customers. We provide an allowance against accounts receivable for the amount we expect to be uncollectible. We write-off accounts receivable against the allowance when they are deemed uncollectible.
+Depending on the day of the week on which the end of a fiscal quarter falls, our accounts receivable balance may fluctuate as we are waiting for certain customer payments to clear through our banking institutions and receipts of payments from our financing partners, which can take up to approximately two weeks based on the contractual payment terms with such partners. Our accounts receivable balances associated with sales of energy storage products are dependent on billing milestones and payment terms negotiated for each contract, and our accounts receivable balances associated with our sales of regulatory credits are dependent on contractual payment terms. Additionally, government rebates can take up to a year or more to be collected depending on the customary processing timelines of the specific jurisdictions issuing them. These various factors may have a significant impact on our accounts receivable balance from period to period.
+As of December 31, 2024 and 2023, government rebates receivable was $
+315
+million and $
+378
+million, respectively, in Accounts receivable, net for the current portion and an
+immaterial
+amount and $
+207
+million, respectively, in Other non-current assets for the long-term portion in our consolidated balance sheets.
+Financing Receivables
+We provide financing options to our customers for our automotive and energy products. Financing receivables are carried at amortized cost, net of allowance for loan losses. Provisions for loan losses are charged to operations in amounts sufficient to maintain the allowance for loan losses at levels considered adequate to cover expected credit losses on the financing receivables. In determining expected credit losses, we consider our historical level of credit losses, current economic trends, and reasonable and supportable forecasts that affect the collectability of the future cash flows. Interest income on financing receivables is recognized over the loan term as revenue in the consolidated statements of operations.
+When originating consumer receivables, we review the credit application, the proposed contract terms, credit bureau information (e.g., FICO score) and other information. Our evaluation emphasizes the applicant’s ability to pay and creditworthiness focusing on payment, affordability, and applicant credit history as key considerations. Generally, all customers in this portfolio have strong creditworthiness at loan origination.
+After origination, we review the credit quality of retail financing based on customer payment activity and aging analysis. For all financing receivables, we define “past due” as any payment, including principal and interest, which is at least 31 days past the contractual due date.
+As of December 31, 2024 and 2023, the vast majority of our

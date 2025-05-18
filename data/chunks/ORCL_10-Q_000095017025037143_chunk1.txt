@@ -1,0 +1,31 @@
+FORM 10-Q QUARTERLY REPORT
+TABLE
+OF
+CONTENTS
+Table of Contents
+Cautionary Note on Forward-Looking Statements
+For purposes of this Quarterly Report on Form 10-Q (this Quarterly Report), the terms “Oracle,” “we,” “us” and “our” refer to Oracle Corporation and its consolidated subsidiaries. This Quarterly Report contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), and Section 27A of the Securities Act of 1933, as amended (the Securities Act). These include, among other things, statements regarding:
+•
+our expectation that we may acquire, and realize the anticipated benefits of acquiring, companies, products, services and technologies to further our corporate strategy as compelling opportunities become available;
+•
+our expectation that, on a constant currency basis, our total cloud and license revenues generally will continue to increase due to expected growth in our cloud services and continued demand for our cloud license and on-premise license and license support offerings;
+•
+our expectation that substantially all of our customers will renew their license support contracts upon expiration;
+•
+our expectation that current and expected customer demand will require continued growth in our cloud services and license support expenses in order to increase our existing data center capacity and establish additional data centers in new geographic locations;
+•
+our expectation that our hardware business will have lower operating margins as a percentage of revenues than our cloud and license business;
+•
+our expectation that we will continue to make significant investments in research and development to maintain and improve our current products and service offerings, and our belief that research and development efforts are essential to maintaining our competitive position;
+•
+our expectations regarding the financial performance and long-term potential of one of our investment companies;
+•
+our expectation that our international operations will continue to provide a significant portion of our total revenues and expenses;
+•
+our expectation that the proportion of our cloud services revenues relative to our total revenues will continue to increase;
+•
+the sufficiency of our sources of funding for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters;
+•
+our belief that we have adequately provided under United States (U.S.) generally accepted accounting principles for outcomes related to our tax audits, that the final outcome of our tax-related examinations, agreements or judicial proceedings will not have a material effect on our results of operations, and that our net deferred tax assets will likely be realized in the foreseeable future;
+•
+our

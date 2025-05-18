@@ -1,0 +1,442 @@
+QUARTERLY REPORT ON FORM 10-Q
+FOR THE QUARTER ENDED MARCH 29, 2025
+2
+THERMO FISHER SCIENTIFIC INC.
+PART I    FINANCIAL INFORMATION
+Item 1.    Financial Statements
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF REDEEMABLE NONCONTROLLING INTEREST AND EQUITY
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1.
+Nature of Operations and Summary of Significant Accounting Policies
+Nature of Operations
+Thermo Fisher Scientific Inc. (the company or Thermo Fisher) enables customers to make the world healthier, cleaner and safer by helping them accelerate life sciences research, solve complex analytical challenges, increase laboratory productivity, and improve patient health through diagnostics and the development and manufacture of life-changing therapies. Markets served include pharmaceutical and biotech, academic and government, industrial and applied, as well as healthcare and diagnostics.
+Interim Financial Statements
+The interim condensed consolidated financial statements presented herein have been prepared by the company, are unaudited and, in the opinion of management, reflect all adjustments of a normal recurring nature necessary for a fair statement of the financial position at March 29, 2025, the results of operations for the three-month periods ended March 29, 2025 and March 30, 2024, and the cash flows for the three-month periods ended March 29, 2025 and March 30, 2024. Interim results are not necessarily indicative of results for a full year.
+The condensed consolidated balance sheet presented as of December 31, 2024, has been derived from the audited consolidated financial statements as of that date. The condensed consolidated financial statements and notes are presented as permitted by Form 10-Q and do not contain all information that is included in the annual financial statements and notes thereto of the company. The condensed consolidated financial statements and notes included in this report should be read in conjunction with the 2024 financial statements and notes included in the company’s Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC). Certain reclassifications of prior year amounts have been made to conform to the current year presentation.
+Note
+1 to the consolidated financial statements for 2024 describes the significant accounting estimates and policies used in preparation of the consolidated financial statements. There have been no material changes in the company’s significant accounting policies during the three months ended March 29, 2025.
+Amounts and percentages reported within these condensed consolidated financial statements are presented and calculated based on underlying unrounded amounts. As a result, the sum of components may not equal corresponding totals due to rounding.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period.
+The company’s estimates include, among others, asset reserve requirements as well as the amounts of future cash flows associated with certain assets and businesses that are used in assessing the risk of impairment. Actual results could differ from those estimates.
+Recent Accounting Pronouncements
+The following table provides a description of recent accounting pronouncements adopted and those standards not yet adopted with potential for a material impact on the company's financial statements or disclosures.
+8
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 2
+.
+Supplemental Balance Sheet Information
+Inventories
+The components of inventories are as follows:
+Contract-related Balances
+Contract asset and liability balances are as follows:
+In the three months ended March 29, 2025, the company recognized revenues of $
+1.36
+billion that were included in the contract liabilities balance at December 31, 2024. In the three months ended March 30, 2024, the company recognized revenues of $
+1.32
+billion that were included in the contract liabilities balance at December 31, 2023.
+Remaining Performance Obligations
+The aggregate amount of the transaction price allocated to the remaining performance obligations for all open customer contracts as of March 29, 2025, was $
+24.54
+billion. The company will recognize revenues for these performance obligations as they are satisfied, approximately
+54
+% of which is expected to occur within the next
+twelve months
+. Amounts expected to occur thereafter generally relate to contract manufacturing, clinical research and extended warranty service agreements, which typically have durations of
+three
+to
+five years
+.
+9
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 3
+.
+Debt and Other Financing Arrangements
+The company’s debt and other financing arrangements are as follows:
+10
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The effective interest rates for the fixed-rate debt include the stated interest on the notes, the accretion of any discounts/premiums and the amortization of any debt issuance costs.
+See Note 4 for fair value information pertaining to the company’s long-term borrowings.
+Credit Facilities
+The company has a revolving credit facility (the Facility) with a bank group that provides for up to $
+5.00
+billion of unsecured multi-currency revolving credit. The Facility expires on January 7, 2027. The revolving credit agreement calls for interest at either a Term Secured Overnight Financing Rate (SOFR), a Euro Interbank Offered Rate (EURIBOR)-based rate (for funds drawn in euro), or a rate based on the prime lending rate of the agent bank, at the company’s option. The agreement contains affirmative, negative and financial covenants, and events of default customary for facilities of this type. The covenants in the Facility include a Consolidated Net Interest Coverage Ratio (Consolidated EBITDA to Consolidated Net Interest Expense), as such terms are defined in the Facility. Specifically, the company has agreed that, so long as any lender has any commitment under the Facility, any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a minimum Consolidated Net Interest Coverage Ratio of
+3.5
+:1.0 as of the last day of any fiscal quarter. As of March 29, 2025,
+no
+borrowings were outstanding under the Facility, although available capacity was reduced by immaterial outstanding letters of credit.
+Commercial Paper Programs
+The company has commercial paper programs pursuant to which it may issue and sell unsecured, short-term promissory notes (CP Notes). Under the U.S. program, a) maturities may not exceed
+397
+days from the date of issue and b) the CP Notes are issued on a private placement basis under customary terms in the commercial paper market and are not redeemable prior to maturity nor subject to voluntary prepayment. Under the euro program, maturities may not exceed
+183
+days and may be denominated in euro, U.S. dollars, Japanese yen, British pounds sterling, Swiss franc, Canadian dollars or other currencies.
+11
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Under both programs, the CP Notes are issued at a discount from par (or premium to par, in the case of negative interest rates), or, alternatively, are sold at par and bear varying interest rates on a fixed or floating basis.
+Senior Notes
+Interest is payable annually on the euro and public Swiss franc-denominated fixed rate senior notes and semi-annually on all other senior notes. Each of the U.S. dollar and euro-denominated fixed rate senior notes, and Japanese yen-denominated and Swiss franc-denominated private placement notes may be redeemed at a redemption price of
+100
+% of the principal amount plus a specified make-whole premium and accrued interest, together with swap breakage costs payable to holders of the Japanese yen-denominated and Swiss franc-denominated private placement notes who have entered into cross-currency swap agreements. The company is subject to certain affirmative and negative covenants under the indentures and note purchase agreement governing the senior notes, the most restrictive of which limits the ability of the company to pledge certain property and assets as security under borrowing arrangements. The company was in compliance with all covenants related to its senior notes at March 29, 2025.
+Thermo Fisher Scientific (Finance I) B.V. (Thermo Fisher International), a wholly-owned finance subsidiary of the company, issued each of the following notes outstanding as of March 29, 2025, included in the table above (collectively, the “Euronotes”) in registered public offerings: the
+0.00
+% Senior Notes due 2025, the
+0.80
+% Senior Notes due 2030, the
+1.125
+% Senior Notes due 2033, the
+1.625
+% Senior Notes due 2041, and the
+2.00
+% Senior Notes due 2051. The company has fully and unconditionally guaranteed all of Thermo Fisher International’s obligations under the Euronotes and all of Thermo Fisher International’s other debt securities, and no other subsidiary of the company will guarantee these obligations. Thermo Fisher International is a “finance subsidiary” as defined in Rule 13-01(a)(4)(vi) of the Exchange Act, with no assets or operations other than those related to the issuance, administration and repayment of the Euronotes and other debt securities issued by Thermo Fisher International from time to time. The financial condition, results of operations and cash flows of Thermo Fisher International are consolidated in the financial statements of the company.
+Note 4
+.
+Fair Value Measurements
+Fair Value Measurements
+The following tables present information about the company’s financial assets and liabilities measured at fair value on a recurring basis:
+12
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The company determines the fair value of its insurance contracts by obtaining the cash surrender value of the contracts from the issuer. The fair value of derivative contracts is the estimated amount that the company would receive/pay upon liquidation of the contracts, taking into account the change in interest rates and currency exchange rates. The company initially measures the fair value of acquisition-related contingent consideration based on amounts expected to be transferred (probability-weighted) discounted to present value. Changes to the fair values of contingent consideration are recorded in selling, general and administrative expense. The company determines the fair value of its equity method and non-marketable equity investments that are not eligible for the net asset value (NAV) practical expedient by considering factors such as financial position, operating results and cash flows of the investee; recent transactions in the same or similar securities; significant recent events affecting the investee; the price paid by Thermo Fisher; among others.
+In the three-month periods ended March 29, 2025, and March 30, 2024, the company recorded $
+2
+million and $
+10
+million, respectively, of net gains/(losses) on investments, which are included in other income/(expense) in the accompanying statements of income.
+The following table provides a rollforward of the fair value, as determined by level 3 inputs (such as likelihood of achieving production or revenue milestones, as well as changes in the fair values of the investments underlying a recapitalization investment portfolio), of the contingent consideration.
+The following table provides a rollforward of investments classified as level 3:
+13
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Fair Value of Other Financial Instruments
+The carrying value and fair value of the company’s debt instruments are as follows:
+The fair value of debt instruments, excluding private placement notes, was determined based on quoted market prices and on borrowing rates available to the company at the respective period ends, which represent level 2 measurements. The fair value of private placement notes was determined based on internally developed pricing models and unobservable inputs, which represent level 3 measurements.
+Note 5
+.
+Commitments and Contingencies
+Environmental Matters
+The company is currently involved in various stages of investigation and remediation related to environmental matters. The company cannot predict all potential costs related to environmental remediation matters and the possible impact on future operations given the uncertainties regarding the extent of the required cleanup, the complexity and interpretation of applicable laws and regulations, the varying costs of alternative cleanup methods and the extent of the company’s responsibility. Expenses for environmental remediation matters related to the costs of installing, operating and maintaining groundwater-treatment systems and other remedial activities related to historical environmental contamination at the company’s domestic and international facilities were not material in any period presented. At March 29, 2025, there have been no material changes to the accruals for pending environmental-related matters disclosed in the company’s 2024 financial statements and notes included in the company’s Annual Report on Form 10-K. While management believes the accruals for environmental remediation are adequate based on current estimates of remediation costs, the company may be subject to additional remedial or compliance costs due to future events such as changes in existing laws and regulations, changes in agency direction or enforcement policies, developments in remediation technologies or changes in the conduct of the company’s operations, which could have a material adverse effect on the company’s financial position, results of operations and cash flows.
+Litigation and Related Contingencies
+The company is involved in various disputes, governmental and/or regulatory inspections, inquiries, investigations and proceedings, and litigation matters that arise from time to time in the ordinary course of business. The disputes and litigation matters include product liability, intellectual property, employment and commercial issues. Due to the inherent uncertainties associated with pending litigation or claims, the company cannot predict the outcome, nor, with respect to certain pending litigation or claims where no liability has been accrued, make a meaningful estimate of the reasonably possible loss or range of loss that could result from an unfavorable outcome. The company has no material accruals for pending litigation or claims for which accrual amounts are not disclosed in the company’s 2024 financial statements and notes included in the company’s Annual Report on Form 10-K, nor are material losses deemed probable for such matters. It is reasonably possible, however, that an unfavorable outcome that exceeds the company’s current accrual estimate, if any, for one or more such matters could have a material adverse effect on the company’s results of operations, financial position and cash flows.
+Product Liability, Workers Compensation and Other Personal Injury Matters
+The company is involved in various proceedings and litigation that arise from time to time in connection with product liability, workers compensation and other personal injury matters. At March 29, 2025, there have been no material changes to the accruals for pending product liability, workers compensation, and other personal injury matters disclosed in the company’s 2024 financial statements and notes included in the company’s Annual Report on Form 10-K. Although the company believes that the amounts accrued and estimated insurance recoveries are probable and appropriate based on available information, including actuarial studies of loss estimates, the process of estimating losses and insurance recoveries involves a considerable degree of judgment by management and the ultimate amounts could vary, which could have a material adverse effect on the company’s results of operations, financial position, and cash flows. Insurance contracts do not relieve the company of its primary obligation with respect to any losses incurred. The collectability of amounts due from its insurers is subject to the solvency and willingness of the insurer to pay, as well as the legal sufficiency of the insurance claims. Management monitors the payment history as well as the financial condition and ratings of its insurers on an ongoing basis.
+14
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 6.
+Supplemental Income Statement Information
+Disaggregated Revenues
+Revenues by type are as follows:
+Revenues by geographic region based on customer location are as follows:
+Each reportable segment earns revenues from consumables, instruments and services in North America, Europe, Asia-Pacific and other regions.
+Revenues by business are as follows:
+15
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Restructuring and Other Costs
+In the first three months of 2025, restructuring and other costs primarily included continuing charges for headcount reductions and facility consolidations in an effort to streamline operations, impairment of long-lived assets, and, to a lesser extent, net charges for pre-acquisition litigation and other matters. In 2025, severance actions associated with facility consolidations and cost reduction measures affected approximately
+1
+% of the company’s workforce.
+As of May 2, 2025, the company has identified restructuring actions, primarily in the Laboratory Products and Biopharma Services segment, that it expects will result in additional charges of approximately $
+120
+million, primarily in 2025, and expects to identify additional actions in future periods.
+Restructuring and other costs by segment are as follows:
+The following table summarizes the changes in the company’s accrued restructuring balance, which is included in other accrued expenses in the accompanying balance sheets. Other amounts reported as restructuring and other costs in the accompanying statements of income have been summarized in the notes to the table.
+(a)
+The movements in the restructuring liability principally consist of severance and other costs associated with facility consolidations.
+(b)
+Excludes $
+55
+million of net charges, principally $
+68
+million of charges for impairment of long-lived assets in the Life Sciences Solutions and Laboratory Products and Biopharma Services segments.
+The company expects to pay accrued restructuring costs primarily through 2025.
+Earnings per Share
+16
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 7
+.
+Income Taxes
+The provision for income taxes in the accompanying statements of income differs from the provision calculated by applying the statutory federal income tax rate to income before provision for income taxes due to the following:
+During the first quarter of 2025, the company recorded a deferred tax benefit of $
+125
+million resulting from the recognition of a tax attribute related to a domestication transaction.
+During the first quarter of 2024, the company recorded a tax reserve and associated interest of $
+240
+million related to the potential settlement of international tax audits for tax years 2009 through 2016, which were settled during 2024.
+The company has operations and a taxable presence in approximately
+70
+countries outside the U.S. The company's effective income tax rate differs from the U.S. federal statutory rate each year due to certain operations that are subject to tax incentives, state and local taxes, and foreign taxes that are different than the U.S. federal statutory rate.
+Unrecognized Tax Benefits
+As of March 29, 2025, the company had $
+0.53
+billion of unrecognized tax benefits substantially all of which, if recognized, would reduce the effective tax rate.
+A reconciliation of the beginning and ending amounts of unrecognized tax benefits is as follows:
+17
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 8
+.
+Comprehensive Income/(Loss) and Shareholders' Equity
+Comprehensive Income/(Loss)
+Changes in each component of accumulated other comprehensive income/(loss), net of tax, are as follows:
+Note 9
+.
+Supplemental Cash Flow Information
+Cash, cash equivalents and restricted cash is included in the accompanying balance sheet as follows:
+Amounts included in restricted cash primarily represent funds held as collateral for bank guarantees, pension related deposits, and incoming cash in China awaiting government administrative clearance.
+Note 10
+.
+Derivatives
+Derivative Contracts
+The following table provides the aggregate notional value of outstanding derivative contracts.
+18
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+While certain derivatives are subject to netting arrangements with counterparties, the company does not offset derivative assets and liabilities within the balance sheet. The following tables present the fair value of derivative instruments in the accompanying balance sheets and statements of income.
+Gains and losses recognized on currency exchange contracts are included in the accompanying statements of income together with the corresponding, offsetting losses and gains on the underlying hedged transactions.
+The company uses foreign currency-denominated debt, certain foreign currency-denominated payables, and cross-currency interest rate swaps to partially hedge its net investments in foreign operations against adverse movements in exchange rates. A portion of the company’s euro-denominated senior notes, certain foreign currency-denominated payables, and its cross-currency interest rate swaps have been designated as, and are effective as, economic hedges of part of the net investment in a foreign operation. Accordingly, foreign currency transaction gains or losses due to spot rate fluctuations on the euro-denominated debt instruments and certain foreign currency-denominated payables, and contract fair value changes on the cross-currency interest rate swaps, excluding interest accruals, are included in currency translation adjustment within other comprehensive items and shareholders’ equity.
+The fair value of the cross-currency interest rate swaps is included in the accompanying balance sheets under the caption other assets or other long-term liabilities. The fair value of the currency exchange contracts is included in the accompanying balance sheets under the captions other current assets or other accrued expenses.
+See Note 1 to the consolidated financial statements for 2024 included in the company’s Annual Report on Form 10-K for additional information on the company’s risk management objectives and strategies.
+19
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 11.
+Business Segment Information
+Business Segment Information
+The company’s financial performance is reported in
+four
+segments. During 2025, there have been no changes to the company’s basis of segmentation or in the basis of measurement of segment income. Other segment items included in the below tables consist of stock-based compensation and other incentive compensation expenses, allocations of corporate expenses and certain overhead expenses as well as elimination of intersegment and intrasegment profits. Prior period segment expense amounts have been recast to reflect the method for allocating expenses to segments in the current period.
+2025
+20
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+2024
+21
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 12
+.
+Acquisitions
+The company’s acquisitions have historically been made at prices above the determined fair value of the acquired identifiable net assets, resulting in goodwill, primarily due to expectations of the synergies that will be realized by combining the businesses and the benefits that will be gained from the assembled workforces. These synergies include the elimination of redundant facilities, functions and staffing; use of the company’s existing commercial infrastructure to expand sales of the acquired businesses’ products and services; and use of the commercial infrastructure of the acquired businesses to cost-effectively expand sales of company products and services.
+Acquisitions have been accounted for using the acquisition method of accounting, and the acquired companies’ results have been included in the accompanying financial statements from their respective dates of acquisition.
+Pending Acquisition
+The company has entered into an agreement with Solventum Corporation to acquire its Purification & Filtration business for approximately $
+4.1
+billion in cash. Solventum’s Purification & Filtration business is a leading provider of purification and filtration technologies used in the production of biologics as well as in medical technologies and industrial applications. The transaction, which is expected to be completed by the end of 2025, is subject to customary closing conditions, including regulatory approvals. Upon completion, Solventum’s Purification & Filtration business will become part of the Life Sciences Solutions segment.
+2024
+On July 10, 2024, the company acquired, within the Life Sciences Solutions segment, Olink Holding AB (publ), a Swedish-based provider of next-generation proteomics solutions. The acquisition enhances the segment’s capabilities in the high-growth proteomics market with the addition of highly differentiated solutions. It also complements the existing life sciences and mass spectrometry offerings, accelerating protein biomarker discovery and providing strong synergy opportunities. The goodwill recorded as a result of this business combination is not tax deductible.
+The components of the purchase price and net assets acquired are as follows:
+The weighted-average amortization periods for definite-lived intangible assets acquired in 2024 are
+19
+years for customer relationships,
+15
+years for product technology, and
+15
+years for tradenames. The weighted-average amortization period for definite-lived intangible assets acquired in 2024 is
+18
+years.
+22
+THERMO FISHER SCIENTIFIC INC.
+Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Forward-looking statements, within the meaning of Section 21E of the Securities Exchange Act of 1934 (the Exchange Act), are made throughout this Management’s Discussion and Analysis of Financial Condition and Results of Operations. Any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements, including without limitation statements regarding: projections of revenues, expenses, earnings, margins, tax rates, tax provisions, cash flows, pension and benefit obligations and funding requirements, and our liquidity position; cost reductions, restructuring activities, new product and service developments, competitive strengths or market position, acquisitions or divestitures; growth, declines and other trends in markets we sell into; new or modified laws, regulations and accounting pronouncements; outstanding claims, legal proceedings, tax audits and assessments and other contingent liabilities; foreign currency exchange rates and fluctuations in those rates; general economic and capital markets conditions; the timing of any of the foregoing; assumptions underlying any of the foregoing; and any other statements that address events or developments that Thermo Fisher intends or believes will or may occur in the future. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects,” “seeks,” “estimates,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements are accompanied by such words. While the company may elect to update forward-looking statements in the future, it specifically disclaims any obligation to do so, even if the company’s estimates change, and readers should not rely on those forward-looking statements as representing the company’s views as of any date subsequent to the date of the filing of this report.
+A number of important factors could cause the results of the company to differ materially from those indicated by such forward-looking statements, including those detailed under the caption “Risk Factors” in the company’s
+Annual Report on Form 10-K
+for the year ended December 31, 2024 (which is on file with the SEC). Important factors that could cause actual results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the COVID-19 pandemic; the need to develop new products and adapt to significant technological change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers’ capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; any natural disaster, public health crisis or other catastrophic event; and the effect of laws and regulations governing government contracts, as well as the possibility that expected benefits related to recent or pending acquisitions may not materialize as expected.
+The company refers to various amounts or measures not prepared in accordance with generally accepted accounting principles (non-GAAP measures). These non-GAAP measures are further described and reconciled to their most directly comparable amount or measure under the section “
+Non-GAAP Measures
+” later in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+Certain amounts and percentages reported within this Quarterly Report on Form 10-Q are presented and calculated based on underlying unrounded amounts. As a result, the sum of components may not equal corresponding totals due to rounding.
+Overview
+Thermo Fisher Scientific Inc. enables customers to make the world healthier, cleaner and safer by helping them accelerate life sciences research, solve complex analytical challenges, increase laboratory productivity, and improve patient health through diagnostics and the development and manufacture of life-changing therapies. Markets served include pharmaceutical and biotech, academic and government, industrial and applied, as well as healthcare and diagnostics. The company’s operations fall into four segments (Note 11): Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics and Laboratory Products and Biopharma Services.
+Consolidated Results
+23
+THERMO FISHER SCIENTIFIC INC.
+Organic Revenue Growth
+During the first quarter of 2025, revenues grew slightly in the pharma and biotech market due to increased demand from customers, partially offset by reduced demand for COVID-19 vaccine and therapy related products and services. Revenues in the academic and government market declined driven by the macro conditions in the U.S. and China. Revenue to customers in the industrial and applied market and the diagnostics and healthcare market grew. During the first quarter of 2025, sales grew in Europe and Asia-Pacific. Sales were flat in North America. The first quarter of 2025 was also impacted by two fewer selling days than the first quarter of 2024. Contributions to organic revenue during the first quarter of 2025 from the Analytical Instruments, Specialty Diagnostics, and Life Sciences Solutions segments were partially offset by declines in the Laboratory Products and Biopharma Services segment.
+The company continues to execute its proven growth strategy which consists of three pillars:
+•
+High-impact innovation,
+•
+Our trusted partner status with customers, and
+•
+Our unparalleled commercial engine.
+GAAP operating income margin and adjusted operating income margin decreased in the first quarter of 2025 due primarily to unfavorable business mix, strategic investments, and the impacts of foreign exchange, largely offset by very strong productivity improvements. The aforementioned decrease in GAAP operating margin in the first quarter of 2025 was more than offset by lower levels of amortization expense, partially offset by higher levels of restructuring and other charges incurred for headcount reductions and facility consolidations in an effort to streamline operations (Note 6).
+The company’s references to strategic investments generally refer to targeted spending for enhancing commercial capabilities, including expansion of geographic sales reach and e-commerce platforms, marketing initiatives, expanded service and operational infrastructure, research and development projects and other expenditures to enhance the customer experience, as well as incentive compensation and recognition for employees. The company’s references throughout this discussion to productivity improvements generally refer to improved cost efficiencies from its Practical Process Improvement (PPI) business system to address inflation, including reduced costs resulting from implementing continuous improvement methodologies, global sourcing initiatives, a lower cost structure following restructuring actions including headcount reductions and consolidation of facilities, and low cost region manufacturing.
+Notable Recent Acquisitions
+On July 10, 2024, the company acquired, within the Life Sciences Solutions segment, Olink Holding AB (publ), a Swedish-based provider of next-generation proteomics solutions. The acquisition enhances the segment’s capabilities in the high-growth proteomics market with the addition of highly differentiated solutions. It also complements the existing life sciences and mass spectrometry offerings, accelerating protein biomarker discovery and providing strong synergy opportunities.
+Segment Results
+The company’s management evaluates segment operating performance using operating income before certain charges/credits as defined in Note 11 to the Consolidated Financial Statements of the company’s
+Annual Report on Form 10-K
+for 2024. Accordingly, the following segment data are reported on this basis.
+24
+THERMO FISHER SCIENTIFIC INC.
+Life Sciences Solutions
+The increase in organic revenues in the first quarter of 2025 was driven by the bioproduction business. On a reported basis, revenue grew by $56 million. Bioproduction grew $81 million, driven by higher demand from pharma and biotech customers, and genetic sciences grew $41 million, driven by the 2024 acquisition of Olink. Biosciences revenue was $66 million lower due to lower demand from academic and government customers. The decrease in segment income margin resulted primarily from unfavorable business mix and the impact of the Olink acquisition, partially offset by very strong productivity improvements.
+Analytical Instruments
+The increase in organic revenues in the first quarter of 2025 was primarily due to growth in the electron microscopy business. On a reported basis revenue grew $30 million, driven by strong demand for electron microscopy which grew $80 million, partially offset by lower demand, largely in China, for chemical analysis products, which had $34 million lower revenue. The decrease in segment income margin resulted primarily from strategic investments and the impact of foreign exchange, partially offset by strong productivity improvements.
+Specialty Diagnostics
+The increase in organic revenues in the first quarter of 2025 was led by the healthcare market channel, as well as the immunodiagnostics and transplant diagnostics businesses. On a reported basis, the healthcare market channel grew $36 million, which contributed 3 percentage points of reported revenue growth in the segment. Segment income margin was flat in the first quarter of 2025.
+25
+THERMO FISHER SCIENTIFIC INC.
+Laboratory Products and Biopharma
+Services
+The decrease in organic revenues in the first quarter of 2025 was primarily due to moderation in COVID-19 related revenue, which was largely offset by strong growth in the pharma services business and the research and safety market channel. On a reported basis, the clinical research business declined $95 million, or 2 percentage points of negative reported growth in the segment. Segment income margin was flat in the first quarter of 2025, with very strong productivity offset by unfavorable mix and strategic investments.
+Non-operating Items
+Net interest expense (interest expense less interest income) in the first quarter of 2025 increased due primarily to lower cash, and cash equivalents and short-term investments balances, as well as lower interest rates on these balances when compared to the first quarter of 2024. In the first quarter of 2025 and 2024, the company’s net interest expense was reduced by approximately $67 million and $65 million, respectively, as a result of its interest rate swap and cross-currency interest rate swap arrangements (Note 10).
+GAAP other income/(expense) and adjusted other income/(expense) includes currency transaction gains/losses on non-operating monetary assets and liabilities, and net periodic pension benefit cost/income, excluding the service cost component. GAAP other income/(expense) in the first quarter of 2025 and 2024 also includes $1 million and $10 million, respectively, of net gains on investments.
+The company’s GAAP and adjusted tax rates decreased in the first quarter of 2025 compared to 2024, due to a $125 million deferred tax benefit resulting from the recognition of a tax attribute related to a domestication transaction. The company’s GAAP and adjusted tax rates in the first quarter of 2024 were also impacted by $102 million of tax benefits resulting from capital losses generated as part of intra-entity transactions. The company’s GAAP tax rate in the first quarter of 2024 was also impacted by $176 million of expense, net, for a provision associated with a tax audit. (Note 7).
+The effective tax rates in the first quarter of both 2025 and 2024 were also affected by relatively significant earnings in lower tax jurisdictions. Due primarily to the non-deductibility of intangible asset amortization for tax purposes, the company’s cash payments for income taxes are higher than its income tax expense for financial reporting purposes and are expected to total approximately $1.80 billion in 2025.
+The company expects its GAAP effective tax rate in 2025 will be between 6% and 8% based on currently forecasted rates of profitability in the countries in which the company conducts business and expected generation of foreign tax credits. The effective tax rate can vary significantly from period to period as a result of discrete income tax factors and events. The company expects its adjusted tax rate will be approximately 10.5% in 2025.
+The company has operations and a taxable presence in approximately 70 countries outside the U.S. Some of these countries have lower tax rates than the U.S. The company’s ability to obtain a benefit from lower tax rates outside the U.S. is dependent on its relative levels of income in countries outside the U.S. and on the statutory tax rates in those countries. Based on the dispersion of the company’s non-U.S. income tax provision among many countries, the company believes that a change in the statutory tax rate in any individual country is not likely to materially affect the company’s income tax provision or net income.
+Weighted average diluted shares decreased in 2025 compared to 2024 due to share repurchases, net of option dilution.
+26
+THERMO FISHER SCIENTIFIC INC.
+Liquidity and Capital Resources
+The company’s proven growth strategy has enabled it to generate free cash flow as well as access the capital markets. The company deploys its capital primarily via mergers and acquisitions and secondarily via share buybacks and dividends.
+Approximately half of the company’s cash balances and cash flows from operations are from outside the U.S. The company uses its non-U.S. cash for needs outside of the U.S. including acquisitions, capacity expansion, and repayment of third-party foreign debt by foreign subsidiaries. In addition, the company also transfers cash to the U.S. using non-taxable intercompany transactions, including loans and returns of capital, as well as dividends where the related U.S. dividend received deduction or foreign tax credit equals any tax cost arising from the dividends. As a result of using such means of transferring cash to the U.S., the company does not expect any material adverse liquidity effects from its significant non-U.S. cash balances for the foreseeable future.
+The company believes that its existing cash and cash equivalents and its future cash flow from operations together with available borrowing capacity under its revolving credit agreement will be sufficient to meet the cash requirements of its existing businesses for the foreseeable future, including at least the next 24 months.
+As of March 29, 2025, the company’s short-term obligations and current maturities of long-term obligations totaled $2.82 billion. The company has a revolving credit facility with a bank group that provides up to $5.00 billion of unsecured multi-currency revolving credit (Note 3). If the company borrows under this facility, it intends to leave undrawn an amount equivalent to outstanding commercial paper to provide a source of funds in the event that commercial paper markets are not available. As of March 29, 2025, no borrowings were outstanding under the company’s revolving credit facility, although available capacity was reduced by immaterial outstanding letters of credit.
+Operating Activities
+During the first three months of 2025, cash provided by income was offset in part by investments in working capital. Changes in other assets and liabilities used cash of $1.19 billion primarily due to the timing of payments for compensation and income taxes. Cash payments for income taxes were $0.65 billion during the first three months of 2025.
+During the first three months of 2024, cash provided by income was offset in part by investments in working capital. Changes in other assets and other liabilities used cash of $0.57 billion primarily due to the timing of payments for compensation and income taxes. Cash payments for income taxes were $0.65 billion during the first three months of 2024.
+Investing Activities
+During the first three months of 2025 the company’s investing activities included purchases of $0.36 billion for the purchase of property, plant and equipment for capacity and capability investments.
+During the first three months of 2024, purchases of short-term investments used cash of $1.76 billion. The company’s investing activities also included purchases of $0.35 billion of property, plant and equipment for capacity and capability investments.
+The company expects that for all of 2025, expenditures for property, plant and equipment, net of disposals, will be between $1.4 billion and $1.7 billion.
+Financing Activities
+During the first three months of 2025, issuance of debt provided $2.84 billion of cash. Repayment of senior notes used cash of $0.84 billion. The company’s financing activities also included the repurchase of $2.00 billion of the company’s common stock (3.6 million shares) and the payment of $0.15 billion in cash dividends. On November 15, 2024, the Board of Directors announced that it replaced the existing authorization to repurchase the company’s common stock, of which $1.00 billion was remaining, with a new authorization to repurchase up to $4.00 billion of the company’s common stock. All of the shares of
+27
+THERMO FISHER SCIENTIFIC INC.
+common stock repurchased by the company during the first quarter of 2025 were under this program. At May 2, 2025, authorization remained for $1.00 billion of future repurchases of the company’s common stock.
+During the first three months of 2024, issuance of debt provided $1.20 billion of cash. The company’s financing activities also included the repurchase of $3.00 billion of the company’s common stock (5.5 million shares) and the payment of $0.14 billion in cash dividends.
+The company’s commitments for purchases of property, plant and equipment, contractual obligations and other commercial commitments, did not change materially subsequent to December 31, 2024, except for the agreement to acquire Solventum Corporation’s Purification & Filtration business (Note 12).
+Non-GAAP Measures
+In addition to the financial measures prepared in accordance with generally accepted accounting principles (GAAP), we use certain non-GAAP financial measures such as organic revenue growth, which is reported revenue growth, excluding the impacts of revenues from acquired/divested businesses and the effects of currency translation. We report organic revenue growth because Thermo Fisher management believes that in order to understand the company’s short-term and long-term financial trends, investors may wish to consider the impact of acquisitions/divestitures and foreign currency translation on revenues. Thermo Fisher management uses organic revenue growth to forecast and evaluate the operational performance of the company as well as to compare revenues of current periods to prior periods.
+We report adjusted operating income, adjusted operating margin, adjusted other income/(expense), adjusted tax rate, and adjusted EPS. We believe that the use of these non-GAAP financial measures, in addition to GAAP financial measures, helps investors to gain a better understanding of our core operating results and future prospects, consistent with how management measures and forecasts the company’s core operating performance, especially when comparing such results to previous periods, forecasts, and to the performance of our competitors. Such measures are also used by management in their financial and operating decision-making and for compensation purposes. To calculate these measures we exclude, as applicable:
+•
+Certain acquisition-related costs, including charges for the sale of inventories revalued at the date of acquisition, significant transaction/acquisition-related costs, including changes in estimates of contingent acquisition-related consideration, and other costs associated with obtaining short-term financing commitments for pending/recent acquisitions. We exclude these costs because we do not believe they are indicative of our normal operating costs.
+•
+Costs/income associated with restructuring activities and large-scale abandonments of product lines, such as reducing overhead and consolidating facilities. We exclude these costs because we believe that the costs related to restructuring activities and large-scale abandonment of product lines are not indicative of our normal operating costs.
+•
+Equity in earnings/losses of unconsolidated entities; impairments of long-lived assets; and certain other gains and losses that are either isolated or cannot be expected to occur again with any predictability, including gains/losses on investments, the sale of businesses, product lines, and real estate, significant litigation-related matters, curtailments/settlements of pension plans, and the early retirement of debt. We exclude these items because they are outside of our normal operations and/or, in certain cases, are difficult to forecast accurately for future periods.
+•
+The expense associated with the amortization of acquisition-related intangible assets because a significant portion of the purchase price for acquisitions may be allocated to intangible assets that have lives of up to 20 years. Exclusion of the amortization expense allows comparisons of operating results that are consistent over time for both our newly acquired and long-held businesses and with both acquisitive and non-acquisitive peer companies.
+•
+The noncontrolling interest and tax impacts of the above items and the impact of significant tax audits or events (such as changes in deferred taxes from enacted tax rate/law changes), the latter of which we exclude because they are outside of our normal operations and difficult to forecast accurately for future periods.
+We report free cash flow, which is operating cash flow excluding net capital expenditures, to provide a view of the continuing operations’ ability to generate cash for use in acquisitions and other investing and financing activities. The company also uses this measure as an indication of the strength of the company. Free cash flow is not a measure of cash available for discretionary expenditures since we have certain non-discretionary obligations such as debt service that are not deducted from the measure.
+The non-GAAP financial measures of the company’s results of operations and cash flows included in this Form 10-Q are not meant to be considered superior to or a substitute for the company’s results of operations prepared in accordance with GAAP. Reconciliations of such non-GAAP financial measures to the most directly comparable GAAP financial measures are set forth within the “Consolidated Results” and “Segment Results” sections and below.
+28
+THERMO FISHER SCIENTIFIC INC.
+(a)
+Adjusted results exclude accelerated depreciation on manufacturing assets to be abandoned due to facility consolidations. Adjusted results in 2025 exclude $5 million of charges for the sale of inventory revalued at the date of acquisition. Adjusted results in 2024 also exclude $12 million of charges for inventory write-downs associated with large-scale abandonment of product lines.
+(b)
+Adjusted results exclude certain third-party expenses, principally transaction/integration costs related to recent acquisitions and charges/credits for changes in estimates of contingent acquisition consideration.
+(c)
+Adjusted results exclude restructuring and other costs consisting principally of severance, impairments of long-lived assets, net charges/credits for pre-acquisition litigation and other matters, and abandoned facility and other expenses of headcount reductions and real estate consolidations.
+(d)
+Adjusted results exclude net gains/losses on investments.
+(e)
+Adjusted results exclude incremental tax impacts for the reconciling items between GAAP and adjusted net income, incremental tax impacts as a result of tax rate/law changes, and the tax impacts from audit settlements.
+29
+THERMO FISHER SCIENTIFIC INC.
+Critical Accounting Policies and Estimates
+Management’s Discussion and Analysis and Note 1 to the Consolidated Financial Statements of the company’s
+Annual Report on Form 10-K
+for 2024 describe the significant accounting estimates and policies used in preparation of the consolidated financial statements. There have been no significant changes in the company’s critical accounting policies during the first three months of 2025.
+Recent Accounting Pronouncements
+A description of recently issued accounting standards is included under the heading “Recent Accounting Pronouncements” in Note 1.
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk
+The company’s exposure to market risk from changes in interest rates and currency exchange rates has not changed materially from its exposure discussed in the company’s
+Annual Report on Form 10-K
+for the year ended December 31, 2024.
+Item 4.    Controls and Procedures
+Management’s Evaluation of Disclosure Controls and Procedures
+The company’s management, with the participation of the company’s chief executive officer and chief financial officer, has evaluated the effectiveness of the company’s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this report. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on such evaluation, the company’s chief executive officer and chief financial officer concluded that, as of the end of such period, the company’s disclosure controls and procedures were effective at the reasonable assurance level.
+Changes in Internal Control over Financial Reporting
+There have been no changes in the company’s internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) during the fiscal quarter ended March 29, 2025, that have materially affected or are reasonably likely to materially affect the company’s internal control over financial reporting.
+PART II    OTHER INFORMATION
+Item 1.    Legal Proceedings
+There are various lawsuits and claims against the company involving product liability, intellectual property, employment and commercial issues. See Note 5 to our Condensed Consolidated Financial Statements under the heading “
+Commitments and Contingencies
+.”
+Item 1A.    Risk Factors
+The risks that we believe are material to our investors are discussed in the company’s
+Annual Report on Form 10-K
+for the year ended December 31, 2024, under the caption “Risk Factors,” which is on file with the SEC.
+30
+THERMO FISHER SCIENTIFIC INC.
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+A summary of the share repurchase activity for the company’s first quarter of 2025 follows:
+(1)    Amounts exclude excise taxes and other transaction costs.
+(2)    On November 15, 2024, the Board of Directors announced that it replaced the existing authorization to repurchase the company’s common stock, of which $1.00 billion was remaining, with a new authorization to repurchase up to $4.00 billion of the company’s common stock. All of the shares of common stock repurchased by the company during the first quarter of 2025 were under this program.
+Item 5.    Other Information
+Director and Officer Trading
+Arrangements
+On
+February 10, 2025
+,
+Gianluca Pettiti
+, an
+executive vice president
+,
+adopted
+a trading plan intended to satisfy the conditions under Rule 10b5-1(c) of the Exchange Act. Mr. Pettiti’s plan is for the sale of up to
+1,200
+shares of company stock, and the exercise of vested stock options and the associated sale of up to
+2,975
+shares of company common stock, through December 12, 2025. The foregoing exercises and sales will be made in accordance with the prices and formulas set forth in the plan and such plan terminates on the earlier of the date all the shares under the plan are sold and
+December 12, 2025
+.
+Item 6.    Exhibits
+_______________________
+**    Certification is not deemed “filed” for purposes of Section 18 of the Exchange Act or otherwise subject to the liability of that section. Such certification is not deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act except to the extent that the registrant specifically incorporates it by reference.
+31
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+32

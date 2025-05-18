@@ -1,0 +1,29 @@
+attributable to foreign currency risk and interest rate risk generated from our foreign-denominated debt. These agreements include initial and final exchanges of principal from fixed foreign denominated amounts to fixed U.S. dollar denominated amounts, to be exchanged at a specified rate that is usually determined by the market spot rate upon issuance. They also include an interest rate swap of a fixed or floating foreign denominated interest rate to a fixed U.S. dollar denominated interest rate.
+Unrealized gains on derivatives designated as cash flow hedges are recorded at fair value as assets and unrealized losses are recorded at fair value as liabilities. For derivative instruments designated as cash flow hedges, changes in fair value are reported as a component of accumulated OCI and are reclassified into the consolidated statements of income in the same period the hedged transaction affects earnings.
+Periodically, we enter into and designate interest rate locks to partially hedge the risk of changes in interest payments attributable to increases in the benchmark interest rate during the period leading up to the probable issuance of fixed-rate debt. We designate our interest rate locks as cash flow hedges. Gains and losses when we settle our interest rate locks are amortized into income over the life of the related debt. Over the next 12 months, we expect to reclassify $
+59
+from accumulated OCI to “Interest expense” due to the amortization of net losses on historical interest rate locks.
+Collateral and Credit-Risk
+Contingency
+We have entered into agreements with our derivative counterparties establishing collateral thresholds based on respective credit ratings and netting agreements. At March 31, 2025, we had posted collateral of $
+196
+(a deposit asset) and held collateral of $
+0
+(a receipt liability). Under the agreements, if AT&T’s credit rating had been downgraded two ratings levels by Fitch Ratings, one level by S&P and one level by Moody’s before the final collateral exchange in March, we would have been required to post additional collateral of $
+50
+. If AT&T’s credit rating had been downgraded three ratings levels by Fitch Ratings, two levels by S&P and two levels by Moody’s, we would have been required to post additional collateral of $
+3,657
+. At December 31, 2024, we had posted collateral of $
+188
+(a deposit asset) and held collateral of $
+0
+(a receipt liability).
+We do not offset the fair value of collateral, whether the right to reclaim cash collateral (a receivable) or the obligation to return cash collateral (a payable) exists, against the fair value of the derivative instruments.
+Following are the notional amounts of our outstanding derivative positions:
+19
+AT&T INC.
+MARCH 31, 2025
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+Following are the related hedged items affecting our financial position and performance:
+In addition, the net swap settlements that

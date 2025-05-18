@@ -1,0 +1,18 @@
+by Sprint is presented in the table below:
+The summarized balance sheet information for the consolidated obligor group of debt issued by Sprint Capital Corporation is presented in the table below:
+(1)     The decrease in Due to non-guarantors was primarily driven by the impact of certain intercompany settlements during the three months ended March 31, 2025.
+The summarized results of operations information for the consolidated obligor group of debt issued by Sprint Capital Corporation is presented in the table below:
+39
+Table of Contents
+Performance Measures
+In managing our business and assessing financial performance, we supplement the information provided by our condensed consolidated financial statements with other operating or statistical data and non-GAAP financial measures. These operating and financial measures are utilized by our management to evaluate our operating performance and, in certain cases, our ability to meet liquidity requirements. Although companies in the wireless communications services industry may not define each of these measures in precisely the same way, we believe that these measures facilitate comparisons with other companies in the wireless industry on key operating and financial measures.
+Postpaid Accounts
+A postpaid account is generally defined as a billing account number that generates revenue. Postpaid accounts generally consist of customers that are qualified for postpaid service utilizing phones, High Speed Internet modems, mobile internet devices (including tablets and hotspots), wearables, DIGITS and other connected devices (including SyncUP and IoT), where they generally pay after receiving service.
+The following table sets forth the number of ending postpaid accounts:
+Postpaid Net Account Additions
+The following table sets forth the number of postpaid net account additions:
+Postpaid net account additions decreased 13,000, or 6%, for the three months ended March 31, 2025, primarily from higher account deactivations, including the impact from a growing account base and the temporary impact of current year rate plan optimizations, partially offset by higher gross account additions.
+Customers
+A customer is generally defined as a SIM number with a unique T-Mobile identifier which is associated with an account that generates revenue. Customers are qualified either for postpaid service utilizing phones, High Speed Internet modems, mobile internet devices (including tablets and hotspots), wearables, DIGITS and other connected devices (including SyncUP and IoT), where they generally pay after receiving service, or prepaid service, where they generally pay in advance of receiving service.
+The following table sets forth the number of ending customers:
+High Speed Internet customers included in Postpaid other customers were 6,129,000 and 4,634,000 as of March 31, 2025 and 2024, respectively. High Speed Internet customers included in Prepaid customers were 725,000 and 547,000 as of March 31, 2025 and 2024, respectively.

@@ -1,0 +1,17 @@
+the costs of short and long-term debt financing, which could have a material adverse effect on our results of operations, financial condition, and liquidity.
+General Risk Factors
+We Are Affected by General Economic Conditions
+– Prolonged, severe adverse domestic and global macroeconomic conditions or disruptions of financial and credit markets, including, for example, the cycles of recessionary fears, inflationary pressures, changes in interest rates, and/or related monetary policy actions by governments in response to inflation, may affect the producers and consumers of the commodities we carry and may have a material adverse effect on our access to liquidity, results of operations, and financial condition.
+We May Be Affected by Acts of Terrorism, War, or Risk of War
+– Our rail lines, facilities, and equipment, including rail cars carrying hazardous materials, could be direct targets or indirect casualties of terrorist attacks. Terrorist attacks, or other similar events, any government response thereto, and war or risk of war may adversely affect our results of operations, financial condition, and liquidity. In addition, insurance premiums for some or all of our current coverages could increase dramatically, or certain coverages may not be available to us in the future. Also, in the event of a national crisis or emergency, one or more government entities could take actions (such as via the U.S. Defense Production Act or the International Emergency Economic Powers Act) that could diminish our rights or economic opportunities with respect to the transportation services we offer.
+Item 1B.
+Unresolved Staff Comments
+None.
+Item 1C.
+Cybersecurity
+Risk Management and Strategy
+The Company is subject to cybersecurity threats that could have a material adverse impact on our results of operations, financial condition, and liquidity. See also our discussion in the Risk Factors in Item 1A of this report.
+As a component of our Company-wide enterprise risk management framework, we implemented a cybersecurity program whose objective is to assess, identify, and manage risks from cybersecurity threats that may result in adverse effects on the confidentiality, integrity, and availability of the electronic information systems that we own.
+We regularly perform internal security assessments, engage
+third-party
+consultants to conduct external security assessments, and participate in, conduct, and/or administer exercises, drills, and recovery tests as part of this program. We also maintain training programs and policies and procedures designed to safeguard employee handling and use of data, internet usage, controlled access measures, and physical protections. We consult with industry groups, monitor threat intelligence reports, and communicate with various government agencies in an effort to stay up-to-date on changes in the cybersecurity threat landscape. This program, in addition to addressing our own information systems, is also designed to oversee, identify, and

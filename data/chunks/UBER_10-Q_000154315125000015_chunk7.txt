@@ -1,0 +1,32 @@
+____________________________________________________________________________
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☒
+The number of shares of the registrant's common stock outstanding as of May 5, 2025 wa
+s
+2,091,168,098
+.
+UBER TECHNOLOGIES, INC.
+TABLE OF CONTENTS
+1
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q, including statements regarding our future results of operations or financial condition, business strategy and plans, and objectives of management for future operations, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “goal,” “hope,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. These forward-looking statements include, but are not limited to, statements concerning the following:
+•
+our ability to successfully defend litigation and government proceedings brought against us, including with respect to our relationship with drivers and couriers, and the potential impact on our business operations and financial performance if we are not successful;
+•
+our ability to successfully compete in highly competitive markets;
+•
+our expectations regarding financial performance, including but not limited to revenue, achieving or maintaining profitability, ability to generate or maintain positive Adjusted EBITDA or Free Cash Flow, expenses, and other

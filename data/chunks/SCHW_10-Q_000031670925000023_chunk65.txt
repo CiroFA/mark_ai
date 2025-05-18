@@ -1,0 +1,38 @@
+well as its fixed-to-floating rate Senior Notes during the fixed-rate period, due to changes in benchmark interest rates. The Company uses cleared interest rate swaps to manage its exposure to changes in fair value of these instruments attributable to changes in the designated benchmark interest rate. Cleared interest rate swaps designated as fair value hedges of AFS securities involve the payment of fixed-rate amounts to a CCP in exchange for the Company receiving floating-rate payments over the life of the agreements.
+- 47 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Ratios, or as Noted)
+(Unaudited)
+Cleared interest rate swaps designated as fair value hedges of Senior Notes involve the receipt of fixed-rate amounts from a CCP in exchange for the Company’s floating-rate payments over the life of the agreements.
+The Company had outstanding interest rate swaps with aggregate notional amounts of $
+33.9
+billion and $
+30.9
+billion at March 31, 2025 and December 31, 2024, respectively, that were designated as fair value hedges of interest rate risk. The notional amount is the basis upon which the pay-fixed/receive-float and receive-fixed/pay-float payments are determined; however, the amount is not exchanged.
+Fair Values of Derivative Instruments
+The table below presents the gross fair values of the Company’s interest rate swaps designated as hedging instruments on the condensed consolidated balance sheets:
+(1)
+Derivative assets are included in other assets and derivative liabilities are included in accrued expenses and other liabilities on the condensed consolidated balance sheets. Amounts were less than $
+500
+thousand as of December 31, 2024.
+(2)
+Includes reductions related to variation margin settlements. Settlements on derivative positions cleared through CCPs are reflected as reductions to the associated derivative asset and liability balances. As of March 31, 2025, there was a $
+191
+million reduction of derivative assets and a $
+42
+million reduction of derivative liabilities related to variation margin settlements. As of December 31, 2024, there was a $
+295
+million reduction of derivative assets and a $
+10
+million reduction of derivative liabilities related to variation margin settlements.
+Effects of Fair Value Hedge Accounting
+The following amounts are included on the condensed consolidated balance sheets related to fair value hedges:
+(1)
+Includes the amortized cost basis of closed portfolios of AFS securities used to designate hedging relationships in which the hedged item is the stated amount of assets in the closed portfolios anticipated to be outstanding for the designated hedge period. At March 31, 2025 and December 31, 2024, the amortized cost basis of the closed portfolios used in these hedging relationships was $
+2.4
+billion and $
+2.5
+billion, respectively, of which $
+2.0
+billion was designated in a portfolio layer hedging relationship at both

@@ -1,0 +1,27 @@
+the calculation agent determines to be the industry-accepted substitute or successor base rate to LIBOR.
+N/A Not applicable.
+Dividends declared on the Company’s preferred stock are as follows:
+(1)
+Excludes $
+3
+million of dividends declared on Series G, Series H, and Series I, and accrued by stockholders as of the repurchase date. Such dividends are part of the consideration paid upon repurchase of the depositary shares during the year ended December 31, 2023.
+(2)
+Series A was redeemed on November 1, 2022. Prior to redemption, dividends were paid semi-annually until February 1, 2022 and quarterly thereafter. The final dividend was paid on November 1, 2022.
+(3)
+Series E was redeemed on December 1, 2022. Prior to redemption, dividends were paid semi-annually until March 1, 2022 and quarterly thereafter. The final dividend was paid on December 1, 2022.
+(4)
+Series K was issued on March 4, 2022. Dividends are paid quarterly, and the first dividend was paid on June 1, 2022.
+N/A Not applicable.
+- 110 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+Dividends on CSC’s preferred stock are not cumulative and will only be paid on a series of preferred stock for a dividend period if declared by CSC’s Board of Directors. Under the terms of each series of preferred stock, CSC’s ability to pay dividends on, make distributions with respect to, or to repurchase, redeem or acquire its common stock or any preferred stock ranking on parity with or junior to the series of preferred stock, is subject to restrictions in the event that CSC does not declare and either pay or set aside a sum sufficient for payment of dividends on the series of preferred stock for the immediately preceding dividend period.
+Dividends on fixed-rate and fixed-rate reset preferred stock are payable quarterly. Dividends on fixed-to-floating-rate preferred stock are payable semi-annually while at a fixed-rate and will become payable quarterly after converting to a floating rate.
+Redemption Rights
+Each series of CSC’s preferred stock, except for Series G, may be redeemed at CSC’s option on any dividend payment date on or after the earliest redemption date for that series. Series G preferred stock may be redeemed at CSC’s option on any reset date on or after the earliest redemption date for the series. All outstanding preferred stock series may also be redeemed following a “capital treatment event,” as described in the terms of each series set forth in the relevant certificate of designations. Any redemption of CSC’s preferred stock is subject to approval from the Federal Reserve.
+21.
+Accumulated Other Comprehensive Income
+AOCI represents cumulative gains and losses that are not reflected in earnings.
+AOCI balances and the components of other comprehensive income (loss) are as follows:
+As of December 31, 2024, the total remaining unamortized loss on securities transferred from

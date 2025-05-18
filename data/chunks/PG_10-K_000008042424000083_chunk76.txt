@@ -1,0 +1,23 @@
+are based on salary levels and past service periods.
+Asset-Related Costs
+Asset-related costs consist of both asset write-downs and accelerated depreciation for manufacturing and facilities consolidations. Asset write-downs relate to the establishment of a new fair value basis for assets held-for-sale or for disposal. These assets are written down to the lower of their current carrying basis or amounts expected to be realized upon disposal, less minor disposal costs. Charges for accelerated depreciation relate to long-lived assets that will be taken out of service prior to the end of their normal service period.
+Other Costs
+Other restructuring-type charges are incurred as a direct result of the restructuring plan. Such charges include accumulated foreign currency translation losses, asset removal and termination of contracts related to Enterprise Market portfolio restructuring. As of June 30, 2024, the Company has substantially liquidated its operations in certain Enterprise Markets, including Nigeria, and recorded a non-cash charge of $
+216
+for accumulated foreign currency translation losses previously included in Accumulated other comprehensive income/(loss).
+Consistent with our historical policies for ongoing restructuring-type activities, the restructuring charges are funded by and included within Corporate for management and segment reporting
+.
+However, for information purposes, the following table summarizes the total restructuring costs related to our reportable segments:
+(1)
+Corporate includes costs related to allocated overheads, including charges related to our Enterprise Markets, Global Business Services and Corporate Functions activities.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        47
+NOTE 4
+GOODWILL AND INTANGIBLE ASSETS
+The change in the net carrying amount of goodwill by reportable segment was as follows:
+(1)
+Grooming goodwill balance is net of $
+7.9
+billion accumulated impairment losses.
+Goodwill decreased during fiscal 2024 primarily due to currency translation across all reportable segments and a brand divestiture in the Beauty reportable segment. Goodwill increased during fiscal 2023 primarily due to an acquisition in the Beauty segment, other minor brand acquisitions in the Baby, Feminine & Family Care segment and currency translation across all reportable segments.
+Goodwill and indefinite-lived intangibles are tested for impairment at least annually by comparing the estimated fair values of our reporting units and indefinite-lived intangible assets to their respective carrying values. We use the income method to estimate the fair value of these assets, which is based on forecasts of the expected future cash flows attributable to the respective assets. When appropriate, the market approach, which leverages comparable company revenue and earnings multiples, is weighted with the income approach to estimate fair value. Significant estimates and assumptions

@@ -1,0 +1,15 @@
+the investment advisor for Schwab’s proprietary mutual funds (Schwab Funds
+®
+) and for Schwab’s exchange-traded funds (Schwab ETFs).
+In May 2024, the Company completed the final client account conversions to CS&Co from the Ameritrade broker-dealers, TD Ameritrade, Inc. and TD Ameritrade Clearing, Inc. (TDAC). Accordingly, these entities are no longer principal business subsidiaries. See Note 16 for additional information regarding the Company’s integration of Ameritrade.
+Schwab’s securities broker-dealer has over
+380
+domestic branch offices in
+48
+states and the District of Columbia, as well as locations in Puerto Rico, the United Kingdom, Hong Kong, and Singapore.
+Unless otherwise indicated, the terms “Schwab,” “the Company,” “we,” “us,” or “our” mean CSC together with its consolidated subsidiaries.
+The accompanying consolidated financial statements include CSC and its subsidiaries. Intercompany balances and transactions have been eliminated. These consolidated financial statements have been prepared in conformity with GAAP, which require management to make certain estimates and assumptions that affect the reported amounts in the accompanying financial statements and in the related disclosures. These estimates are based on information available as of the date of the consolidated financial statements. While management makes its best judgment, actual amounts or results could differ from these estimates. Certain estimates relate to taxes on income and legal and regulatory reserves.
+Reclassifications:
+Certain prior period amounts have been reclassified to conform to the current period presentation. Beginning in 2024, receivables from brokers, dealers, and clearing organizations and payables to brokers, dealers, and clearing organizations are presented separately from other assets and accrued expenses and other liabilities, respectively, in the consolidated balance sheets. Correspondingly, interest expense related to securities lending is now presented as interest expense on payables to brokers, dealers, and clearing organizations. Prior period amounts have been reclassified to reflect these changes. Corresponding presentation changes have been made to the consolidated statements of cash flows and related notes also impacted.
+Principles of Consolidation
+Schwab evaluates all entities in which it has financial interests for consolidation, except for money market funds, which are specifically excluded from consolidation guidance. When an entity is evaluated for consolidation, Schwab determines whether its interest in the entity constitutes a controlling financial interest under either the variable interest entity (VIE) model or the voting interest entity (VOE) model. In evaluating whether Schwab’s interest in a VIE is a controlling financial interest, we consider whether our involvement in the context of the design, purpose, and risks of the VIE, as well as any involvement of related parties, provides us with (i) the power to direct the most significant

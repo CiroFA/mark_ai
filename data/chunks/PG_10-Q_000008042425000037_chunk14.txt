@@ -1,0 +1,36 @@
+dividing Net earnings attributable to Procter & Gamble by the diluted weighted average number of common shares outstanding during the period. The diluted shares include the dilutive effect of stock options and other share-based awards based on the treasury stock method and the assumed conversion of preferred stock.
+Net earnings per common share were calculated as follows:
+(1)
+An overview of preferred shares can be found in our Annual Report on Form 10-K for the fiscal year ended June 30, 2024.
+(2)
+Excludes approximately
+8
+million and
+6
+million
+for the three months ended March 31, 2025 and 2024 respectively, and
+6
+million for the nine months ended March 31, 2025 and 2024 respectively, of weighted average stock options outstanding because the exercise price of these options was greater than their average market value or their effect was antidilutive.
+6.
+Share-Based Compensation and Postretirement Benefits
+The following table provides a summary of our share-based compensation expense and postretirement benefit impacts:
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+10        The Procter & Gamble Company
+7.
+Risk Management Activities and Fair Value Measurements
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates, currency exchange rates and commodity prices. There have been no significant changes in our risk management policies or activities during the nine months ended March 31, 2025.
+The Company has not changed its valuation techniques used in measuring the fair value of any financial assets and liabilities during the period. The Company recognizes transfers between levels within the fair value hierarchy, if any, at the end of each quarter. There were no transfers between levels during the periods presented. Also, there was no significant activity within the Level 3 assets and liabilities during the periods presented. Except for the impairment of the Gillette indefinite-lived intangible asset discussed in Note 4, there were no significant assets or liabilities that were re-measured at fair value on a non-recurring basis during the nine months ended March 31, 2025 or during the fiscal year ended June 30, 2024.
+Cash equivalents were $
+7.9
+billion and $
+8.0
+billion as of March 31, 2025 and June 30, 2024, respectively, and are classified as Level 1 within the fair value hierarchy. The Company had no other material investments in debt or equity securities during the periods presented.
+The fair value of long-term debt was $
+27.9
+billion and $
+27.7
+billion as of March 31, 2025 and June 30, 2024, respectively. This includes the current portion of long-term debt instruments ($
+4.7
+billion and $
+3.8
+billion as of March 31, 2025 and June 30, 2024, respectively). Certain long-term debt (debt designated as a fair value hedge) is recorded at fair value. All other long-term debt is recorded at amortized cost but is measured at fair value for disclosure

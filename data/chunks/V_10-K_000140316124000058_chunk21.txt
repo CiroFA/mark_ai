@@ -1,0 +1,15 @@
+PSD2 also includes strong customer authentication requirements for certain transactions that could impose both operational complexity on Visa and impact consumer payment experiences. Visa Europe is also subject to supervisory oversight by the European Central Bank and certain competent authorities in Europe.
+In the UK, Visa Europe is designated as a Recognized Payment System, bringing it within the scope of the Bank of England’s supervisory powers and subjecting it to various requirements, including on issues such as governance and risk management designed to maintain the stability of the UK’s financial system. Visa Europe is also regulated by the UK’s Payment Systems Regulator (PSR), which has wide-ranging powers and authority to review our business practices, systems, rules and fees with respect to promoting competition and innovation in the UK, and ensuring payment systems take care of, and promote, the interests of service-users. The PSR recently established a supervisory team to specifically oversee payment system operators like Visa in the aforementioned areas. Post-Brexit, the UK has adopted various European regulations, including regulations that impact the payments ecosystem, such as the IFR and PSD2. The PSR is responsible for monitoring Visa Europe’s compliance with the IFR as adopted in the UK.
+Corporate Responsibility and Sustainability:
+Certain governments around the world are adopting laws and regulations pertaining to corporate responsibility and sustainability performance, transparency and reporting. Regulations may include mandated corporate reporting (e.g., Corporate Sustainability Reporting Directive) or in individual areas, such as mandated reporting on climate-related financial disclosures.
+Additional Regulatory Developments:
+Various regulatory agencies across the world also continue to examine a wide variety of other issues, including mobile payment transactions, tokenization, access rights for non-financial institutions, money transfer services, identity theft, account management guidelines, disclosure rules, security and marketing that could affect our financial institution clients and our business. Furthermore, following the passage of PSD2 in Europe, several countries, including Australia, Brazil, Canada, Hong Kong and Mexico, are contemplating granting or have already granted various types of access rights to third-party processors, including access to consumer account data maintained by our financial institution clients. In October 2024, the CFPB in the United States issued a final rule on personal financial data rights that would provide consumers (and third parties
+17
+Table
+of Contents
+authorized by consumers) with access to consumers’ financial data. These changes have the
+potential to change the competitive landscape, which would present new challenges and opportunities to our business.
+AVAILABLE INFORMATION
+Our corporate website is
+visa.com/ourbusiness
+. Our annual reports on Form 10-K, our quarterly reports on

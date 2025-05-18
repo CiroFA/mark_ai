@@ -1,0 +1,19 @@
+existing residential fiber customers, as well as funding of the joint venture. We do not anticipate making further capital contributions following the closing under the existing business plan.
+We expect to account for the Lumos and Metronet joint ventures under the equity method of accounting and recognize Service revenues for the acquired Lumos and Metronet fiber customers and wholesale costs paid to the joint ventures for network access within Cost of services on our Condensed Consolidated Statements of Comprehensive Income.
+11
+Index for Notes to the Condensed Consolidated Financial Statements
+Note 4 – Receivables and Related Allowance for Credit Losses
+We maintain an allowance for credit losses by applying an expected credit loss model. Each period, management assesses the appropriateness of the level of allowance for credit losses by considering credit risk inherent within each portfolio segment as of the end of the period.
+We consider a receivable past due when a customer has not paid us by the contractually specified payment due date. Account balances are written off against the allowance for credit losses if collection efforts are unsuccessful and the receivable balance is deemed uncollectible (customer default), based on factors such as customer credit ratings as well as the length of time the amounts are past due.
+Our portfolio of receivables is comprised of
+two
+portfolio segments: accounts receivable and equipment installment plan (“EIP”) receivables.
+Accounts Receivable Portfolio Segment
+Accounts receivable balances are predominately comprised of amounts currently due from customers (e.g., for wireless communications services), device insurance administrators, wholesale partners, other carriers and third-party retail channels.
+We estimate credit losses associated with our accounts receivable portfolio segment using an expected credit loss model, which utilizes an aging schedule methodology based on historical information and is adjusted for asset-specific considerations, current economic conditions and reasonable and supportable forecasts.
+Our approach considers a number of factors, including our overall historical credit losses and payment experience, as well as current collection trends such as write-off frequency and severity. We also consider other qualitative factors such as current and forecasted macroeconomic conditions.
+We consider the need to adjust our estimate of credit losses for reasonable and supportable forecasts of future macroeconomic conditions. To do so, we monitor external forecasts of changes in real U.S. gross domestic product and forecasts of consumer credit behavior for comparable credit exposures.
+EIP Receivables Portfolio Segment
+Based upon customer credit profiles at the time of customer origination, as well as subsequent credit performance, we classify the EIP receivables segment into
+two
+customer classes of “Prime” and “Subprime.” Prime customer receivables are those with lower credit risk, and Subprime

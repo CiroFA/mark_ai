@@ -1,0 +1,28 @@
+due to the extent of audit effort required and involvement of professionals with expertise in information technology (IT) necessary for us to identify, test, and evaluate the Company’s systems, software applications, and automated controls.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the Company’s systems to process the third-party mutual funds and managed investing solutions within AMAF, and commissions within trading revenue transactions included the following, among others:
+•
+With the assistance of our IT specialists, we:
+◦
+Identified the significant systems used to process third-party mutual funds, managed investing solutions, and commissions revenue transactions and, using a risk-based approach, tested the relevant general IT controls over each of these systems.
+◦
+Performed testing of automated business controls and system interface controls (including batch processing) within the relevant third-party mutual funds, managed investing solutions, and commissions revenue streams.
+◦
+For a sample of pricing rules, inspected configuration and ascertained that the relevant systems applied appropriate rates and calculated third-party mutual funds, managed investing solutions, and commissions revenue completely and accurately.
+•
+We tested internal controls within the relevant third-party mutual funds, managed investing solutions, and commissions revenue business processes, including those in place to reconcile the various systems to the Company’s general ledger.
+•
+We created data visualizations to evaluate recorded third-party mutual funds, managed investing solutions, and commissions revenue and evaluate trends in the data.
+•
+For a sample of third-party mutual funds, managed investing solutions, and commissions revenue transactions, we performed detail transaction testing by agreeing the amounts recognized to contractual agreements and testing the mathematical accuracy of the recorded revenue.
+•
+For a sample of accounts, we tested the accuracy and completeness of assets under management by obtaining independent pricing support and reconciling total positions to third-party statements.
+Dallas, TX
+February 26, 2025
+We have served as the Company’s auditor since 1976.
+- 123 -
+THE CHARLES SCHWAB CORPORATION
+Management’s
+Report on Internal Control Over Financial Reporting
+Management of The Charles Schwab Corporation, together with its subsidiaries (the Company), is responsible for establishing and maintaining adequate internal control over financial reporting. The Company’s internal control over financial reporting is a process designed under the supervision of and effected by the Company’s Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of published financial statements in accordance with accounting principles generally accepted in the United States of America.
+As of December 31, 2024, management conducted

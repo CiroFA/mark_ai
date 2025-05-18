@@ -1,0 +1,35 @@
+considered restricted cash and are included in Other current assets on our Consolidated Balance Sheets.
+As of December 31, 2024, $
+1.6
+billion of our ABS Notes were secured in total by $
+2.0
+billion of gross EIP receivables and future collections on such receivables. Our ABS Notes and the assets securing this debt are included on our Consolidated Balance Sheets.
+The expected maturities of our ABS Notes as of December 31, 2024, were as follows:
+88
+Index for Notes to the Consolidated Financial Statements
+Variable Interest Entities
+The ABS Entities meet the definition of a VIE for which we have determined that we are the primary beneficiary as we have the power to direct the activities of the ABS Entities that most significantly impact their performance. Those activities include selecting which receivables are transferred into the ABS Entities, servicing such receivables, and funding of the ABS Entities. Additionally, our equity interest and residual interest in the ABS BRE and the ABS Trust, respectively, obligate us to absorb losses and give us the right to receive benefits from the ABS Entities that could potentially be significant to the ABS Entities. Accordingly, we include the balances and results of operations of the ABS Entities in our consolidated financial statements.
+The following table summarizes the carrying amounts and classification of assets and liabilities included in our Consolidated Balance Sheets with respect to the ABS Entities:
+See
+Note
+4
+– Receivables and Related Allowance for Credit Losses
+for additional information on the EIP receivables used to secure the ABS Notes.
+Spectrum Financing
+On April 1, 2020, in connection with the closing of the Merger, we assumed Sprint’s spectrum-backed notes, which are collateralized by the acquired, directly held and third-party leased Spectrum licenses (collectively, the “Spectrum Portfolio”) transferred to wholly owned bankruptcy-remote special purpose entities (collectively, the “Spectrum Financing SPEs”). As of December 31, 2024 and 2023, the total outstanding obligations under these Notes were $
+1.3
+billion and $
+2.2
+billion, respectively.
+In October 2016, certain subsidiaries of Sprint Communications, Inc. transferred the Spectrum Portfolio to the Spectrum Financing SPEs, which was used as collateral to raise an initial $
+3.5
+billion in senior secured notes (the “2016 Spectrum-Backed Notes”) bearing interest at
+3.360
+% per annum under a $
+7.0
+billion securitization program. The 2016 Spectrum-Backed Notes were repayable over a
+five-year
+term, with interest-only payments over the first four quarters and amortizing quarterly principal payments thereafter commencing December 2017 through September 2021. We fully repaid the 2016 Spectrum-Backed Notes in 2021.
+In March 2018, Sprint issued approximately $
+3.9
+billion in aggregate principal amount of senior secured notes (the “2018 Spectrum-Backed Notes” and together with the 2016 Spectrum-Backed Notes, the “Spectrum-Backed Notes”) under the

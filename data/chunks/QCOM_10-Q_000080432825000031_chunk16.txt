@@ -1,0 +1,26 @@
+impact our consolidated financial statements, we continue to monitor the impact as countries implement legislation and the OECD provides additional guidance.
+20
+Discontinued operations in the second quarter and first six months of fiscal 2024 are related to the Non-Arriver businesses. Information regarding the Non-Arriver businesses is provided in this Quarterly Report in “Notes to Condensed Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items - Discontinued Operations.”
+Segment Results
+The following should be read in conjunction with our financial results for the second quarter of fiscal 2025 for each reportable segment included in this Quarterly Report in “Notes to Condensed Consolidated Financial Statements, Note 6. Segment Information.”
+QCT Segment (in millions, except percentages)
+(1) Descriptions of our three QCT revenue streams can be found in this Quarterly Report in “Notes to Condensed Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items.”
+(2) Earnings (loss) before income taxes.
+Substantially all of QCT’s revenues consist of equipment and services revenues, which were $9.3 billion and $7.9 billion in the second quarter of fiscal 2025 and 2024, respectively, and $19.2 billion and $16.2 billion in the first six months of fiscal 2025 and 2024, respectively. QCT handsets, automotive and IoT revenues mostly relate to sales of our Snapdragon platforms (which include processors and modems), stand-alone Mobile Data Modems, radio frequency transceiver, power management and wireless connectivity integrated chipsets as well as sales of 4G, 5G sub 6 and 5G millimeter wave RFFE products.
+Second quarter 2025 vs. 2024
+The increase in QCT revenues in the second quarter of fiscal 2025 was primarily due to:
++
+higher handsets revenues, primarily due to $381 million in higher chipset shipments driven by certain major OEMs, and $368 million in higher revenues per chipset (primarily driven by higher average selling prices), both of which benefited from an increase in demand in premium-tier Snapdragon platforms
++
+higher automotive revenues, primarily driven by an increase in shipments from new vehicle launches with our Snapdragon digital cockpit products
++
+higher IoT revenues, primarily due to $410 million in higher shipments primarily across edge networking and industrial products
+QCT EBT as a percentage of revenues increased in the second quarter of fiscal 2025 primarily due to:
++
+higher revenues
+-
+lower gross margin percentage, primarily driven by increased product costs, partially offset by increases in average selling prices
+First six months 2025 vs. 2024
+The increase in QCT revenues in the first six months of fiscal 2025 was primarily due to:
++
+higher handsets revenues, primarily due to $854 million in higher revenues per chipset (primarily driven by higher average selling prices), and $783 million in higher chipset shipments driven by certain major OEMs, both of which

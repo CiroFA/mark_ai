@@ -1,0 +1,27 @@
+(that is, the selling price is highly variable) and a representative SSP is not discernible from past transactions or other observable evidence. As a result, the SSP for a cloud license and an on-premise license included in a contract with multiple performance obligations is generally determined by applying a residual approach whereby all other performance obligations within a contract are first allocated a portion of the transaction price based upon their respective SSPs, with any residual amount of transaction price allocated to cloud license and on-premise license revenues.
+73
+Table of Contents
+Index to Financial Statements
+Remaining Performance Obligations from Contracts with Customers
+Trade receivables, net of allowance for credit losses, and deferred revenues are reported net of related uncollected deferred revenues in our consolidated balance sheets as of May 31, 2024 and 2023. The amount of revenues recognized during the year ended May 31, 2024 and 2023 that were included in the opening deferred revenues balance as of May 31, 2023 and 2022, respectively, was approximately $
+9.0
+billion and $
+8.3
+billion. Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial during each year ended May 31, 2024, 2023 and 2022.
+Remaining performance obligations represent contracted revenues that had not yet been recognized, and include deferred revenues; invoices that have been issued to customers but were uncollected and have not been recognized as revenues; and amounts that will be invoiced and recognized as revenues in future periods. The volumes and amounts of customer contracts that we book and total revenues that we recognize are impacted by a variety of seasonal factors. In each fiscal year, the amounts and volumes of contracting activity and our total revenues are typically highest in our fourth fiscal quarter and lowest in our first fiscal quarter. These seasonal impacts influence how our remaining performance obligations change over time and, combined with foreign exchange rate fluctuations and other factors, influence the amount of remaining performance obligations that we report at a point in time. As of May 31, 2024, our remaining performance obligations were $
+97.9
+billion, of which we expect to recognize approximately
+39
+% as revenues over the next
+twelve months
+,
+36
+% over the subsequent month
+13 to month 36
+,
+19
+% over the subsequent month
+37 to month 60
+and the remainder thereafter.
+Sales of Financing Receivables
+We offer certain of our customers the option to acquire certain of our cloud and license, hardware and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts’ dates of execution. We record the transfers of amounts due from customers to financial institutions as sales of financing

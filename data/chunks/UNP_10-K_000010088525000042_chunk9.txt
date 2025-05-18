@@ -1,0 +1,157 @@
+0000100885
+us-gaap:EquipmentTrustCertificateMember
+unp:RailroadAssetsEquipmentMember
+2024-12-31
+0000100885
+us-gaap:EquipmentTrustCertificateMember
+unp:RailroadAssetsEquipmentMember
+2023-12-31
+0000100885
+us-gaap:RevolvingCreditFacilityMember
+2024-12-31
+0000100885
+2024-02-13
+0000100885
+2022-02-28
+0000100885
+us-gaap:SecuredDebtMember
+2023-12-31
+0000100885
+us-gaap:SecuredDebtMember
+2024-12-31
+0000100885
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+2024-12-31
+0000100885
+unp:PersonalInjuryMember
+srt:MinimumMember
+2024-12-31
+0000100885
+unp:PersonalInjuryMember
+srt:MaximumMember
+2024-12-31
+0000100885
+unp:PersonalInjuryMember
+2023-12-31
+0000100885
+unp:PersonalInjuryMember
+2022-12-31
+0000100885
+unp:PersonalInjuryMember
+2021-12-31
+0000100885
+unp:PersonalInjuryMember
+2024-01-01
+2024-12-31
+0000100885
+unp:PersonalInjuryMember
+2023-01-01
+2023-12-31
+0000100885
+unp:PersonalInjuryMember
+2022-01-01
+2022-12-31
+0000100885
+unp:PersonalInjuryMember
+2024-12-31
+0000100885
+2022-04-01
+0000100885
+2022-04-01
+2024-12-31
+0000100885
+2024-01-01
+2024-03-31
+0000100885
+2023-01-01
+2023-03-31
+0000100885
+2024-04-01
+2024-06-30
+0000100885
+2023-04-01
+2023-06-30
+0000100885
+2024-07-01
+2024-09-30
+0000100885
+2023-07-01
+2023-09-30
+0000100885
+2024-10-01
+2024-12-31
+0000100885
+2023-10-01
+2023-12-31
+0000100885
+us-gaap:SubsequentEventMember
+2025-02-06
+0000100885
+unp:TTXCompanyMember
+unp:UPRRMember
+2024-12-31
+0000100885
+unp:TTXCompanyMember
+unp:UPRRMember
+2023-12-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2024-01-01
+2024-12-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2023-01-01
+2023-12-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2022-01-01
+2022-12-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2024-12-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2023-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-K
+(Mark One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+December 31
+, 2024
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________ to ____________
+Commission File Number
+1-6075
+UNION PACIFIC CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Registrant’s telephone number, including area code:
+(
+402
+)
+544-5000
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+☑
+Yes
+☐
+No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+☐
+Yes
+☑
+No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to

@@ -1,0 +1,22 @@
+None.
+Item 1C.
+Cybersecurity
+Risk Management and strategy.
+Integrated Risk Management
+Management is responsible for the day-to-day management of the Company’s risk exposures in a manner consistent with the strategic direction and objectives established by the Board.
+As a critical component of the Company’s risk management process, management has adopted an integrated risk management framework to continuously identify, assess, measure, manage, monitor and report current and emerging non-financial risks.
+As part of this framework, the Company has an Enterprise Risk Management (“ERM”) Committee which is chaired by the Company’s Chief Risk Officer. Our Chief Information Security Officer (“CISO”) is also a member of the ERM Committee.
+The ERM Committee oversees the Company’s risk management framework, including the implementation of the framework components across the Company and promotes a strong Company-wide culture of risk management, compliance and control.
+Engagement of Third-party Support
+We engage third-party services to conduct evaluations of our security controls, whether through penetration testing, independent audits or consulting on best practices to address new challenges. These evaluations include testing both the design and operational effectiveness of security controls. We also share and receive threat intelligence with our defense industrial base peers, government agencies, information sharing and analysis centers and cybersecurity associations.
+Third-party Risk Management
+Our risk management program also assesses third-party risks, and we perform third-party risk management to identify and mitigate risks from third parties such as vendors, suppliers, and other business partners associated with our use of third-party service providers. Cybersecurity risks are evaluated when determining the selection and oversight of applicable third-party service providers.
+Impact of Risks from Cybersecurity Threats
+We are regularly subject to cybersecurity attacks.  None of the risks from cybersecurity threats we’ve faced to date have materially affected, and we do not believe are reasonably likely to materially affect the Company, our business strategy, results of operations or financial condition. For further information about risks we face from cybersecurity threats, see the risk factor entitled "
+Our size, scale and role in the global markets increases our risk for cyber attacks and other cyber-security risks. Our information systems and networks and those of our third-party service providers are exposed to risks related to cybersecurity and protection of confidential information, including material non-public information, which could have a material adverse effect on our business, financial condition or results of operations
+" in Item 1A,
+Risk Factors
+in this Annual Report on Form 10-K.
+Governance.
+Board Oversight of Cybersecurity Threats
+The board of directors of the Company (the “Board”) has oversight responsibility for the Company’s risk

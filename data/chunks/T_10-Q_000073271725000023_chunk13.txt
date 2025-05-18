@@ -1,0 +1,25 @@
+equity method.
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions, including estimates of fair value, probable losses and expenses, that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates. Certain prior period amounts have been conformed to the current period’s presentation providing further disaggregation of activities within Cash from Operations in our consolidated statements of cash flows and additional revenue categories for our Business Wireline and Consumer Wireline business units (see Note 5).
+NOTE 2. EARNINGS PER SHARE
+A reconciliation of the numerators and denominators of basic and diluted earnings per share is shown in the table below:
+9
+AT&T INC.
+MARCH 31, 2025
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+NOTE 3. OTHER COMPREHENSIVE INCOME
+Changes in the balances of each component included in accumulated other comprehensive income (OCI) are presented below. All amounts are net of tax.
+NOTE 4. SEGMENT INFORMATION
+Our segments are comprised of strategic business units or other operations that offer products and services to different customer segments over various technology platforms and/or in different geographies that are managed accordingly. We have
+two
+reportable segments: Communications and Latin America.
+Our chief operating decision maker (CODM) is our Chief Executive Officer and President. Our CODM uses operating income to evaluate performance and allocate resources, including capital allocations, when managing the business. Our CODM manages operations through the review of actual and forecasted “Operations and Support Expenses” information at a segment and business unit level, with Communications and Latin America segments primarily evaluated on a direct cost basis and comprised of equipment, compensation, network and technology, sales, advertising and other costs.
+Additionally, business unit expenses within the Communications segment include direct and shared costs. Direct costs are incurred in support of products and services offered by the business units, such as equipment costs (predominantly wireless devices), network access, rents, leases, sales support, customer provisioning and commission expenses. Shared costs amongst the business units generally include information technology, network engineering and construction costs, advertising and other general and administrative expenses.
+10
+AT&T INC.
+MARCH 31, 2025
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The
+Communications segment
+provides wireless and wireline telecom and broadband services to consumers located in the U.S. and businesses globally. Our business strategies reflect integrated product offerings that cut across product lines and utilize

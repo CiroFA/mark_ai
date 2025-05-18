@@ -1,0 +1,28 @@
+STATEMENTS—(Continued)
+February 28, 2025
+(Unaudited)
+The following table reconciles total margin for operating segments to income before income taxes:
+Disaggregation of Revenues
+We have considered information that is regularly reviewed by our CODMs in evaluating financial performance and disclosures presented outside of our financial statements in our earnings releases and used in investor presentations to disaggregate revenues to depict how the nature, amount, timing and uncertainty of revenues and cash flows are affected by economic factors. The principal category we use to disaggregate revenues is the nature of our products and services as presented in our condensed consolidated statements of operations.
+The following table is a summary of our total revenues by geographic region:
+(1)
+Comprised of Europe, the Middle East and Africa
+The following table presents our cloud services and license support revenues by offerings:
+19
+Table of Contents
+ORACLE CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+February 28, 2025
+(Unaudited)
+The following table presents our cloud services and license support revenues by applications and infrastructure ecosystems
+:
+9.
+EARNINGS PER SHARE
+Basic earnings per share is computed by dividing net income for the period by the weighted-average number of common shares outstanding during the period. Diluted earnings per share is computed by dividing net income for the period by the weighted-average number of common shares outstanding during the period, plus the dilutive effect of outstanding restricted stock-based awards, stock options and shares issuable under the employee stock purchase plan as applicable pursuant to the treasury stock method. The following table sets forth the computation of basic and diluted earnings per share:
+(1)
+These stock awards primarily relate to contingently issuable shares pursuant to performance stock option arrangements. Such shares could be dilutive in the future.
+10.
+LEGAL PROCEEDINGS
+Derivative Litigation Concerning Oracle’s NetSuite Acquisition
+On May 3 and July 18, 2017, two alleged stockholders filed separate derivative lawsuits in the Court of Chancery of the State of Delaware, purportedly on Oracle’s behalf. Thereafter, the court consolidated the two derivative cases and designated the July 18, 2017 complaint as the operative complaint. The consolidated lawsuit was brought against all the then-current members and one former member of our Board of Directors, and Oracle as a nominal defendant. Plaintiffs alleged that the defendants breached their fiduciary duties by causing Oracle to agree to purchase NetSuite Inc. at an excessive price. The complaint, which was amended several times, sought declaratory relief, unspecified monetary damages (including interest) and attorneys’ fees and costs.
+After various proceedings, the case proceeded to trial on July 18, 2022, and on May 12, 2023, the court issued its trial ruling, rejecting plaintiffs’ claims and finding

@@ -1,0 +1,20 @@
+swap contracts with an aggregate notional value of $
+813
+million and received net proceeds of $
+155
+million upon termination. These contracts were designated as cash flow hedges and were scheduled to mature beginning in the first quarter of 2027. We performed a final effectiveness test upon the termination of each swap, and the effective portion of the gain of $
+155
+million was recorded in accumulated other comprehensive loss in our consolidated balance sheet. The gain will be recognized into interest expense, net over the term which related interest payments will be made when we enter into anticipated future debt refinancing.
+The following table provides information on the location and fair value amounts of our cash flow hedges and net investment hedges as of March 31, 2025 and December 31, 2024:
+14
+The following table provides information on the location and amounts of pre-tax gains (losses) on our cash flow hedges and net investment hedges for the three months ended March 31:
+The activity related to the change in unrealized gains (losses) in accumulated other comprehensive loss was as follows for the three months ended March 31:
+6.
+Employee Benefits
+We maintain a number of active defined contribution retirement plans for our employees. The majority of our defined benefit plans are frozen. As a result, no new employees will be permitted to enter these plans and no additional benefits for current participants in the frozen plans will be accrued.
+We also have supplemental benefit plans that provide senior management with supplemental retirement, disability and death benefits. Certain supplemental retirement benefits are based on final monthly earnings. In addition, we sponsor a voluntary 401(k) plan under which we may match employee contributions up to certain levels of compensation as well as profit-sharing plans under which we contribute a percentage of eligible employees’ compensation to the employees’ accounts.
+15
+We also provide certain medical, dental and life insurance benefits for active employees and eligible dependents. The medical and dental plans and supplemental life insurance plan are contributory, while the basic life insurance plan is noncontributory. We currently do not prefund any of these plans.
+We recognize the funded status of our retirement and postretirement plans in the consolidated balance sheets, with a corresponding adjustment to accumulated other comprehensive loss, net of taxes. The amounts in accumulated other comprehensive loss represent net unrecognized actuarial losses and unrecognized prior service costs. These amounts will be subsequently recognized as net periodic pension cost pursuant to our accounting policy for amortizing such amounts.
+Net periodic benefit cost for our retirement and postretirement plans other than the service cost component are included in other expense (income), net in our consolidated statements of income.
+The components of net periodic benefit cost for our retirement plans and

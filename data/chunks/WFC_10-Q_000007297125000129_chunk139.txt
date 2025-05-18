@@ -1,0 +1,24 @@
+those assets are presented parenthetically on our consolidated balance sheet.
+VIE RELATED.
+We also pledge assets in connection with various types of transactions entered into with VIEs, which are excluded from Table 16.1. These pledged assets can only be used to settle the liabilities of those entities. We also have loans recorded on our consolidated balance sheet which represent certain delinquent loans that are eligible for repurchase from GNMA loan securitizations. See Note 13 (Securitizations and Variable Interest Entities) for additional information on consolidated and unconsolidated VIE assets.
+Table 16.1:
+Pledged Assets
+Collateral Accepted
+We receive financial assets as collateral that we are permitted to sell or repledge. This collateral is obtained in connection with securities purchased under resale agreements and securities borrowing transactions, customer margin loans, and derivative contracts. We may use this collateral in connection with securities sold under repurchase agreements and securities lending transactions, derivative contracts, and short sales. At March 31, 2025, and December 31, 2024, the fair value of this collateral received that we have the right to sell or repledge was $
+314.8
+billion and $
+288.7
+billion, respectively, of which $
+175.9
+billion and $
+142.2
+billion, respectively, were sold or repledged.
+Our management reporting is organized into
+four
+reportable operating segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. All other business activities that are not included in the reportable operating segments have been included in Corporate. We define our reportable operating segments by type of product and customer segment, and their results are based on our management reporting process. The management reporting process measures the performance of the reportable operating segments based on the Company’s management structure, and the results are regularly reviewed with our Chief Executive Officer (CEO) and relevant senior management. Our CEO is the chief operating decision maker (CODM) and reviews actual and forecasted operating segment net income for assessing performance and deciding how to allocate resources. The management reporting process is based on U.S. GAAP and includes specific adjustments, such as funds transfer pricing for asset/liability management, shared revenue and expenses, and taxable-equivalent adjustments to consistently reflect income from taxable and tax-exempt sources, which allows management to assess performance consistently across the operating segments.
+Consumer Banking and Lending
+offers diversified financial products and services for consumers and small businesses with annual sales generally up to $
+10
+million. These financial products and services include checking and savings accounts, credit and debit cards as well as home, auto, personal, and small business lending.
+Commercial Banking
+provides financial

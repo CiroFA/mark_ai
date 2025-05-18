@@ -1,0 +1,34 @@
+consolidated balance sheet related to our involvement with the unconsolidated VIEs. “Maximum exposure to loss” is determined as the carrying value of our investment in the VIEs excluding the unconditional repurchase options that have not been exercised, plus the remaining undrawn liquidity
+and lending commitments, the notional amount of net written derivative contracts, and generally the notional amount of, or stressed loss estimate for, other commitments and guarantees.
+Debt, guarantees and other commitments include amounts related to lending arrangements, liquidity agreements, and certain loss sharing obligations associated with loans originated, sold, and serviced under certain GSE programs.
+“Maximum exposure to loss” represents estimated loss that would be incurred under severe, hypothetical circumstances, for which we believe the possibility is extremely remote, such as where the value of our interests and any associated collateral declines to zero, without any consideration of recovery or offset from any economic hedges. Accordingly, this disclosure is not an indication of expected loss.
+Table 13.4:
+Unconsolidated VIEs
+(1)
+Includes $
+3
+million and $
+298
+million of securities classified as trading at March 31, 2025, and December 31, 2024, respectively.
+(2)
+All other assets includes mortgage servicing rights, derivative assets, and other assets. Other assets at December 31, 2024, were predominantly servicer advances.
+(3)
+In first quarter 2025, we sold the non-agency portion of our commercial mortgage third-party servicing business. As a result, we no longer have continuing involvement in the form of servicing.
+INVOLVEMENT WITH TAX CREDIT VIES.
+In addition to the unconsolidated VIEs in Table 13.4, we may invest in or provide funding to affordable housing, renewable energy or similar projects that are designed to generate a return primarily through the realization of federal income tax credits and other income tax benefits. Our affordable housing investments generate low-income housing tax credits and our renewable energy investments generate either production tax credits, investment tax credits, or both. The projects are typically managed by third-party sponsors who have the power over the VIE’s assets; therefore, we do not consolidate the VIEs. The carrying value of our equity investments in tax credit VIEs was $
+21.1
+billion and $
+21.7
+billion at March 31, 2025, and December 31, 2024, respectively. Additionally, we had loans to tax credit VIEs with a carrying value of $
+2.0
+billion and $
+1.9
+billion at March 31, 2025, and December 31, 2024, respectively.
+Our maximum exposure to loss for tax credit VIEs at March 31, 2025, and December 31, 2024, was $
+28.5
+billion and $
+29.1
+billion, respectively. Our maximum exposure to loss included total unfunded equity and lending commitments of $
+5.5
+billion at both March 31, 2025, and December 31, 2024.
+Under these commitments, we are required to provide additional financial support during the investment

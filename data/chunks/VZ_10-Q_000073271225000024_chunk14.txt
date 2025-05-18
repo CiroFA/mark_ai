@@ -1,0 +1,23 @@
+the computation of diluted earnings per common share for the three months ended March 31, 2025 and
+2024
+,
+respectively.
+Cash, Cash Equivalents and Restricted Cash
+We consider all highly liquid investments with an original maturity of 90 days or less when purchased to be cash equivalents. Cash equivalents are stated at cost, which approximates quoted market value and includes amounts held in money market funds.
+Cash collections on the receivables
+and on the underlying receivables related to the participation interest
+collateralizing our asset-backed debt securities are required at certain specified times to be placed into segregated accounts. Deposits to the segregated accounts are considered restricted cash.
+Cash, cash equivalents and restricted cash are included in the following line items in the condensed consolidated balance sheets:
+We earn revenue from contracts with customers, primarily through the provision of telecommunications and other services and through the sale of wireless equipment.
+Revenue by Category
+We have
+two
+reportable segments that we operate and manage as strategic business units, Consumer and Business. Revenue is disaggregated by products and services within Consumer, and customer groups (Enterprise and Public Sector, Business Markets and Other, and Wholesale) within Business. See Note 10 for additional information on revenue by segment, including Corporate and other.
+8
+Table of Contents
+We also earn revenues that are not accounted for under Topic 606 from leasing arrangements (such as those for towers and equipment), captive reinsurance arrangements primarily related to wireless device insurance and the interest recognized when equipment is sold to the customer by an authorized agent under a device payment plan agreement. We have elected the practical expedient within Topic 842, to combine the lease and non-lease components for those customer arrangements under Topic 606 that involve customer premise equipment where we are the lessor.
+Remaining Performance Obligations
+When allocating the total contract transaction price to identified performance obligations, a portion of the total transaction price may relate to service performance obligations which were not satisfied or were partially satisfied as of the end of the reporting period. Below we disclose information relating to these unsatisfied performance obligations. We apply the practical expedient available under Topic 606 that provides the option to exclude the expected revenues arising from unsatisfied performance obligations related to contracts that have an original expected duration of one year or less. This situation primarily arises with respect to certain month-to-month service contracts.
+At March 31, 2025, month-to-month service contracts represented approximately
+95
+% of both our wireless postpaid contracts and our wireline Consumer and our Business Markets and Other contracts, compared to March 31, 2024, for which month-to-month service contracts represented

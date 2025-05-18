@@ -1,0 +1,32 @@
+average price as of March 31, 2025.
+No
+Ka’ena Contingent Shares were outstanding during the three months ended March 31, 2025, as the threshold specified performance indicators had not been achieved.
+As of March 31, 2025, we had authorized
+100
+million shares of preferred stock, with a par value of $
+0.00001
+per share. There was
+no
+preferred stock outstanding as of March 31, 2025 and 2024. Potentially dilutive securities were not included in the computation of diluted earnings per share if to do so would have been anti-dilutive.
+26
+Index for Notes to the Condensed Consolidated Financial Statements
+Note 14 – Commitments and Contingencies
+Purchase Commitments
+We have commitments for non-dedicated transportation lines with varying expiration terms that generally extend through 2038. In addition, we have commitments to purchase wireless devices, network services, equipment, software, marketing sponsorship agreements and other items in the ordinary course of business, with various terms through 2043.
+The following table summarizes the timing of such purchase commitments as of March 31, 2025:
+(1)     These amounts are not reflective of our entire anticipated purchases under the related agreements but are determined based on the non-cancelable quantities or termination amounts to which we are contractually obligated.
+From April 1, 2025, through April 18, 2025, we entered into additional contracts for non-dedicated transportation lines with varying expiration terms that generally extend through 2038 and are expected to increase our total purchase commitments by approximately $
+1.5
+billion.
+On April 24, 2024, we entered into a definitive agreement with a fund operated by EQT, Fund VI, to establish a joint venture between us and Fund VI to acquire Lumos, a fiber-to-the-home platform, from EQT’s predecessor fund, EQT Infrastructure III. Subsequent to March 31, 2025, on April 1, 2025, we completed the joint acquisition of Lumos, upon the completion of certain customary closing conditions, including the receipt of certain regulatory approvals. At closing, we invested $
+926
+million to acquire a
+50
+% equity interest in the joint venture and fiber customers. The funds invested by us will be used by the joint venture to fund future fiber builds. In addition, pursuant to the definitive agreement, we expect to make an additional capital contribution of approximately $
+500
+million in 2027 or 2028 under the existing business plan. The purchase price and expected additional capital contribution are excluded from our reported purchase commitments above. See
+Note 3 – Joint Ventures
+for additional details.
+On May 24, 2024, we entered into a securities purchase agreement with UScellular, Telephone and Data Systems, Inc., and USCC Wireless Holdings, LLC, pursuant to which, among other things, we will acquire substantially all of UScellular’s wireless operations and select spectrum assets for an aggregate purchase price of approximately $
+4.4
+billion, payable in cash and the

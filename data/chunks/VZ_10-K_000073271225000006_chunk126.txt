@@ -1,0 +1,24 @@
+related to the portion of the towers for which the right-of-use has passed to Vertical Bridge, which is reflected in Cash flows from operating activities in our consolidated statements of cash flows. In addition, we recorded a financing obligation of $
+830
+million related to the portion of the towers that we continue to occupy and use for network operations, which is reflected in Cash flows from financing activities in our consolidated statements of cash flows.
+During March 2015, we completed a transaction with American Tower Corporation (American Tower) pursuant to which American Tower acquired the exclusive rights to lease and operate approximately
+11,300
+of our wireless towers for an upfront payment of $
+5.0
+billion. We have subleased capacity on the towers from American Tower for a minimum of
+10
+years at current market rates in 2015, with options to renew. We continue to include the towers in Property, plant and equipment, net in our consolidated balance sheets and depreciate them accordingly.
+In addition to the rights to lease and operate the towers, Vertical Bridge and American Tower assumed the interest in the underlying ground leases related to these towers. While Vertical Bridge and American Tower can renegotiate the terms of and are responsible for paying the ground leases, we are still the primary obligor for these leases and accordingly, the present value of these ground leases are included in our operating lease right-of-use assets and operating lease liabilities. We do not expect to be required to make ground lease payments unless Vertical Bridge or American Tower defaults, which we determined to be remote.
+The components of net lease cost were as follows:
+(1)
+All operating lease costs, including short-term and variable lease costs, are split between Cost of services and Selling, general and administrative expense in the consolidated statements of income based on the use of the facility or equipment that the rent is being paid on. See Note 1 for additional information. Variable lease costs represent payments that are dependent on a rate or index, or on usage of the asset.
+73
+Table of
+Contents
+Supplemental disclosure for the statements of cash flows related to operating and finance leases were as follows:
+Supplemental disclosures for the balance sheet related to finance leases were as follows:
+The weighted-average remaining lease term and the weighted-average discount rate of our leases were as follows:
+The following table presents the maturity analysis of operating and finance lease liabilities as of December 31, 2024:
+As of December 31, 2024, we have contractually obligated lease payments amounting to $
+1.4
+billion primarily for office facility operating leases and small cell colocation and fiber operating leases that have not yet commenced. We have legally obligated lease payments for various other operating leases that have not yet commenced for which the total obligation was not significant. We have certain rights and

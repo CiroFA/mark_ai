@@ -1,0 +1,33 @@
+Accumulated Benefit Obligation
+– The accumulated benefit obligation (ABO) is the present value of benefits earned to date, assuming no future compensation growth. The underfunded accumulated benefit obligation represents the difference between the ABO and the fair value of plan assets.
+53
+Table of
+Contents
+The following table discloses only the PBO, ABO, and fair value of plan assets for pension plans where the accumulated benefit obligation is in excess of the fair value of the plan assets as of December 31:
+The ABO for all defined benefit pension plans was $
+3.3
+billion and $
+3.6
+billion at December 31, 2024 and 2023, respectively.
+Assumptions
+–
+The weighted-average actuarial assumptions used to determine benefit obligations at December 31:
+Expense
+Pension expense is determined based upon the annual service cost of benefits (the actuarial cost of benefits earned during a period) and the interest cost on those liabilities, less the expected return on plan assets. The expected long-term rate of return on plan assets is applied to a calculated value of plan assets that recognizes changes in fair value over a
+5
+-year period. This practice is intended to reduce year-to-year volatility in pension expense, but it can have the effect of delaying the recognition of differences between actual returns on assets and expected returns based on long-term rate of return assumptions. Differences in actual experience in relation to assumptions are not recognized in net income immediately but are deferred in accumulated other comprehensive income/loss and, if necessary, amortized as pension expense.
+The components of our net periodic pension benefit/cost were as follows for the years ended December 31:
+Assumptions
+–
+The weighted-average actuarial assumptions used to determine expense were as follows:
+We measure the service cost and interest cost components of our net periodic pension benefit/cost by using individual spot discount rates matched with separate cash flows for each future year. The discount rates were based on a yield curve of high-quality corporate bonds. The expected return on plan assets is based on our asset allocation mix and our historical return, taking into account current and expected market conditions.
+54
+Table of
+Contents
+Cash Contributions
+The following table details cash contributions, if any, for the qualified and non-qualified (supplemental) pension plans:
+Our policy with respect to funding the qualified pension plans is to fund at least the minimum required by law and not more than the maximum amount deductible for tax purposes.
+The non-qualified pension plan is not funded and is not subject to any minimum regulatory funding requirements. Benefit payments for each year represent supplemental pension payments. We anticipate our 2025 supplemental pension payments will be made from cash generated from operations.
+Benefit Payments
+The following table details expected benefit payments for the years 2025 through 2034:
+Asset Allocation

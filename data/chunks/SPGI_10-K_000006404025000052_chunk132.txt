@@ -1,0 +1,31 @@
+minimum based payments used to determine our lease liabilities include minimum based rent payments and escalations. As most of our leases do not provide an implicit rate, we use our estimated incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments.
+During the years ended December 31, 2024, 2023 and 2022, we recorded a pre-tax impairment charge of $
+3
+million, $
+26
+million and $
+132
+million, respectively, related to the impairment and abandonment of operating lease related ROU assets. The pre-tax impairment charge recorded during the year ended December 31, 2022 was primarily associated with reductions in the anticipated sublease income on vacated leased facilities following the deterioration of local market conditions and consolidating our real estate facilities following the merger with IHS Markit. The impairment charges are included in selling and general expenses within the consolidated statements of income.
+117
+Table of Contents
+The following table provides information on the location and amounts of our leases on our consolidated balance sheets as of December 31, 2024 and 2023:
+The components of lease expense for the years ended December 31 are as follows:
+Supplemental information related to leases for the years ended December 31 are as follows:
+Weighted-average remaining lease term and discount rate for our operating leases as of December 31 are as follows:
+Maturities of lease liabilities for our operating leases are as follows:
+Related Party Agreement
+In June of 2012, we entered into a license agreement (the “License Agreement”) with the holder of S&P Dow Jones Indices LLC noncontrolling interest, CME Group, which replaced the 2005 license agreement between Indices and CME Group. Under the terms of the License Agreement, S&P Dow Jones Indices LLC receives a share of the profits from the trading and clearing of CME Group’s equity index products. During the years ended December 31, 2024, 2023 and 2022, S&P Dow Jones Indices LLC earned $
+192
+million, $
+174
+million and $
+170
+million of revenue under the terms of the License Agreement, respectively.
+118
+Table of Contents
+The entire amount of this revenue is included in our consolidated statement of income and the portion related to the
+27
+% noncontrolling interest is removed in net income attributable to noncontrolling interests.
+Contractual Obligations
+We typically have various contractual obligations, which are recorded as liabilities in our consolidated balance sheets, while other items, such as certain purchase commitments and other executory contracts, are not recognized. For example, we are contractually committed to contracts for information-technology outsourcing, certain enterprise-wide information-technology software licensing and maintenance. In the first quarter of 2023, S&P Global and Amazon Web Services (“AWS”) entered into a multi-year strategic collaboration agreement with a purchase obligation of $
+1.0

@@ -1,0 +1,39 @@
+in earnings, was $
+60
+and $
+53
+for the three months ended March 31, 2025 and 2024, respectively. The amount of gain excluded from effectiveness testing was $
+167
+and
+$
+182
+for the nine months ended March 31, 2025 and 2024, respectively.
+(2)
+In addition to the foreign currency derivative contracts designated as net investment hedges, certain of our foreign currency denominated debt instruments are designated as net investment hedges. The amount of gain/(loss) recognized in Accumulated other comprehensive income (AOCI) for such instruments was $(
+436
+) and $
+262
+for the three months ended March 31, 2025 and 2024, respectively. The amount of gain/(loss) recognized in AOCI for such instruments was
+$(
+221
+) and $
+102
+for the
+nine months ended March 31, 2025 and 2024, respectively.
+The gains/(losses) on the derivatives in fair value hedging relationships are fully offset by the mark-to-market impact of the related exposure. These are both recognized in Interest expense. The gains/(losses) on derivatives not designated as hedging instruments are substantially offset by the currency mark-to-market of the related exposure. These are both recognized in Selling, general and administrative expense (SG&A).
+8.
+Accumulated Other Comprehensive Income/(Loss)
+The table below presents the changes in Accumulated other comprehensive income/(loss) attributable to Procter & Gamble (AOCI), including the reclassifications out of AOCI by component:
+The below provides additional details on amounts reclassified from AOCI into the Consolidated Statement of Earnings:
+•
+Postretirement benefit plan amounts are reclassified from AOCI into Other non-operating income/(expense), net and included in the computation of net periodic postretirement costs.
+•
+Foreign currency translation amounts are reclassified from AOCI into Other non-operating income/(expense), net. These amounts relate to accumulated foreign currency translation losses recognized due to the substantial liquidation of operations in Argentina recorded in the period ended September 30, 2024.
+9.
+Commitments and Contingencies
+Litigation
+We are subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a wide range of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental, patent and trademark
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+12        The Procter & Gamble Company
+matters, labor and employment matters and tax. While considerable uncertainty exists, in the opinion of management and our counsel, the ultimate resolution of the various lawsuits and claims will not materially affect our financial position, results of operations or cash flows.
+We are also subject to contingencies pursuant to environmental laws and regulations that in the future may require us to take action to correct the effects on the environment of prior manufacturing and waste disposal practices. Based on

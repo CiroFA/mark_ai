@@ -1,0 +1,34 @@
+potential common stock from employee stock options and employee RSUs and from its Notes, respectively.
+The following table summarizes the reconciliation of the basic weighted average number of shares outstanding and the diluted weighted average number of shares outstanding:
+(1)
+When the Notes are dilutive, the after tax effect of debt interest is added back to net income to calculate diluted net income per share.
+25
+Table of Contents
+17.
+Segment and Geographical Information
+The Company's CODM is its Chief Executive Officer. The CODM has determined that the Company operates in a single operating and reportable segment and manages segment performance and resource allocation based upon consolidated net income (loss). The measure of segment assets is reported on the condensed consolidated balance sheet as total consolidated assets. Significant expenses reviewed by the CODM include those that are presented in the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss).
+The following table presents total external revenues by geographic location, based on the location of the Company’s merchants:
+18.
+Business Combinations
+Vantage Discovery Inc.
+In March 2025, the Company completed the acquisition of Vantage Discovery Inc. (“Vantage”), a company based in Austin, Texas, that provides AI-powered search and content discovery services. By integrating Vantage’s hybrid search engine architecture that combines traditional search engines with vector databases and large language models, the development of AI-powered, multi-vector search across Search APIs, Shop and Storefront search offerings will be accelerated. The Company acquired
+100
+percent of the outstanding shares of Vantage in exchange for cash consideration of $
+59
+million. In connection with the transaction, $
+24
+million in restricted shares were granted and $
+6
+million in cash are being accounted for as compensation as these amounts are related to post-combination services.
+The following table summarizes the purchase price allocation of the Vantage assets acquired and liabilities assumed at the acquisition date:
+The acquired technology has an estimated fair value of $
+20
+million using a cost approach and is being amortized over
+three years
+. Goodwill from the Vantage acquisition is primarily attributable to the expected synergies that will result from integrating Vantage's technology with Shopify's Search offering, and the acquisition of the assembled workforce.
+None
+of the goodwill recognized is deductible for income tax purposes. There is no net deferred tax liability related to taxable temporary difference on acquired intangible assets due to offsetting deferred tax assets primarily related to losses from the pre-acquisition period.
+26
+Table of Contents
+Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations
+In this Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A"), "we", "us", "our", "Shopify"

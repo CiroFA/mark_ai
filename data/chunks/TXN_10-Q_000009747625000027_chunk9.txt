@@ -1,0 +1,28 @@
+because their effect would have been anti-dilutive.
+Derivatives and hedging
+We use derivative financial instruments to manage exposure to foreign exchange risk. These instruments are primarily forward foreign currency exchange contracts, which are used as economic hedges to reduce the earnings impact that exchange rate fluctuations may have on our non-U.S. dollar net balance sheet exposures. Gains and losses from changes in the fair value of these forward foreign currency exchange contracts are credited or charged to OI&E. We do not apply hedge accounting to our foreign currency derivative instruments.
+We are exposed to variability in compensation charges related to certain deferred compensation obligations to employees. We use total return swaps to economically hedge this exposure and offset the related compensation expense, recognizing changes in the fair value of the swaps and the related deferred compensation liabilities in SG&A.
+In connection with the issuance of long-term debt, we may use financial derivatives such as treasury-rate lock agreements that are recognized in AOCI and amortized over the life of the related debt.
+The results of these derivative transactions were not material. We do not use derivatives for speculative or trading purposes.
+Fair values of financial instruments
+The fair values of our derivative financial instruments were not material as of March 31, 2025. Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value. The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments.
+As of March 31, 2025, the carrying value of long-term debt was $
+12.85
+billion, and the estimated fair value was $
+11.89
+billion. The estimated fair value is measured using broker-dealer quotes, which are Level 2 inputs. See Note 4 for a description of fair value and the definition of Level 2 inputs.
+8
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+3.
+Income taxes
+Provision for income taxes is based on the following:
+The effective tax rate differs from the
+21
+% U.S. statutory corporate tax rate due to the effect of U.S. tax benefits.
+4.
+Valuation of debt and equity investments and certain liabilities
+Investments measured at fair value
+Money market funds, debt investments and mutual funds are stated at fair value, which is generally based on market prices or broker quotes. We classify all debt investments as available-for-sale. See
+Fair-value considerations
+. Unrealized gains and losses are recorded as an increase or decrease, net of taxes, in AOCI on our Consolidated Balance Sheets, and any credit losses are recorded as an allowance for credit losses with an offset recognized in OI&E in our Consolidated Statements of Income.
+Our mutual funds hold a variety of debt and equity investments intended to generate

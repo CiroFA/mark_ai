@@ -1,0 +1,20 @@
+until November 2025.
+13
+Assets Measured at Fair Value on a Recurring Basis
+The following table presents our financial assets measured at fair value on a recurring basis based on the three-tier fair value hierarchy (in millions):
+During the three months ended March 31, 2025, we did not make any transfers into or out of Level 3 of the fair value hierarchy.
+Debt Securities
+The following table summarizes the amortized cost, unrealized gains and losses, and fair value of our debt securities (in millions):
+As of December 31, 2024 and March 31, 2025, there were no allowance for credit losses related to our debt securities. The weighted-average remaining maturity of our debt securities was less than one year as of March 31, 2025.
+Derivatives Not Designated as Hedging Instruments
+We enter into financial derivative instruments, consisting of foreign currency contracts to mitigate the foreign currency exchange risk of our assets and liabilities denominated in currencies other than the functional currency. We do not use derivatives for trading or speculative purposes. These instruments are recorded on the condensed consolidated balance sheets at fair value and classified within Level 2 of the fair value hierarchy. Gains and losses on the derivative instruments that are not designated as hedging instruments are recognized in other income (expense), net in the condensed consolidated statements of operations. The cash flows associated with our non-designated derivatives are classified in cash flows from investing activities on our condensed consolidated statements of cash flows.
+As of March 31, 2025, the fair value of our outstanding derivative assets and liabilities were not material. We did not record any material realized or unrealized gains or losses for our financial derivative instruments during the three months ended March 31, 2025.
+We have master netting arrangements with certain counterparties to our foreign currency exchange contracts, which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty. We have elected to present the derivative assets and derivative liabilities on a gross basis on our condensed consolidated balance sheets. As of March 31, 2025, there were no rights of set-off associated with our foreign currency exchange contracts.
+The total notional amount of outstanding derivatives not designated as hedging instruments was $
+1.9
+billion as of March 31, 2025.
+Assets Measured at Fair Value on a Non-Recurring Basis
+Non-Marketable Equity Securities
+Our non-marketable equity securities are investments in privately held companies without readily determinable fair values. The
+14
+carrying value of our non-marketable equity securities are adjusted based on price changes from observable transactions of identical or similar securities of the same issuer (referred to as the measurement alternative) or for impairment. Any changes in carrying value are recorded within other income (expense), net in the

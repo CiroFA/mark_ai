@@ -1,0 +1,24 @@
+realizable value. We evaluate our ending inventories for estimated excess quantities and obsolescence. This evaluation includes analysis of sales levels by product and projections of
+76
+Table of Contents
+Index to Financial Statements
+future
+demand within specific time horizons. Inventories in excess of future demand are written down and charged to hardware expenses. In addition, we assess the impact of changing technology to our inventories and we write down inventories that are considered obsolete. At the point of loss recognition, a new, lower-cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. Inventories are included in prepaid expenses and other current assets in our consolidated balance sheets and totaled $
+334
+million and $
+298
+million as of May 31, 2024 and 2023, respectively.
+Other Receivables
+Other receivables represent value-added tax and sales tax receivables associated with the sale of our products and services to third parties. Other receivables are included in prepaid expenses and other current assets in our consolidated balance sheets and totaled $
+821
+million and $
+798
+million as of May 31, 2024 and 2023, respectively.
+Deferred Sales Commissions
+We defer sales commissions earned by our sales force that are considered to be incremental and recoverable costs of obtaining a cloud, license support and hardware support contract. Initial sales commissions for the majority of these aforementioned contracts are generally deferred and amortized on a straight-line basis over a period of benefit that we estimate to be four years. We determine the period of benefit by taking into consideration the historical and expected durations of our customer contracts, the expected useful lives of our technologies, and other factors. Sales commissions for renewal contracts relating to certain of our cloud-based arrangements are generally deferred and then amortized on a straight-line basis over the related contractual renewal period, which is generally one to three years. Amortization of deferred sales commissions is included as a component of sales and marketing expenses in our consolidated statements of operations and asset balances for deferred sales commissions are included in other current assets and other non-current assets in our consolidated balance sheets.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost, less accumulated depreciation. Depreciation is computed using the straight-line method based on estimated useful lives of the assets, which range from
+one
+to
+40
+years. Leasehold improvements are amortized over the lesser of the estimated useful lives of the improvements or the lease terms, as appropriate. Property, plant and equipment are periodically reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable at

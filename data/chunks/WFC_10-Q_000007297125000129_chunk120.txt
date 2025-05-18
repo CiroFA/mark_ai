@@ -1,0 +1,54 @@
+Table 11.4 show the net gains (losses) related to derivatives in cash flow and fair value hedging relationships, respectively.
+Table 11.3:
+Gains (Losses) Recognized on Cash Flow Hedging Relationships
+Table 11.4:
+Gains (Losses) Recognized on Fair Value Hedging Relationships
+Note 11:
+Derivatives
+(continued)
+Table 11.5 shows the carrying amount and associated cumulative basis adjustment related to the application of hedge accounting that is included in the carrying amount of hedged assets and liabilities in fair value hedging relationships.
+Table 11.5:
+Hedged Items in Fair Value Hedging Relationships
+(1)
+Does not include the carrying amount of hedged items where only foreign currency risk is the designated hedged risk. The carrying amount excluded $
+271
+million
+and $
+260
+million
+for AFS debt securities where only foreign currency risk is the designated hedged risk as of March 31, 2025, and December 31, 2024, respectively.
+(2)
+Represents the full carrying amount of the hedged asset or liability item as of the balance sheet date, except for circumstances in which only a portion of the asset or liability was designated as the hedged item in which case only the portion designated is presented.
+(3)
+The balance includes $
+538
+million and $
+566
+million of long-term debt cumulative basis adjustments as of March 31, 2025, and December 31, 2024, respectively, on terminated hedges whereby the hedged items have subsequently been re-designated into existing hedges.
+(4)
+Carrying amount represents the amortized cost.
+(5)
+At March 31, 2025, and December 31, 2024, the amortized cost of closed portfolios of AFS debt securities using the portfolio layer method was $
+24.7
+billion and $
+18.6
+billion, respectively, of which $
+13.5
+billion and $
+9.0
+billion was designated as hedged, respectively. The balance includes cumulative basis adjustments of $
+59
+million and $(
+43
+) million as of March 31, 2025, and December 31, 2024, respectively, related to certain AFS debt securities designated as the hedged item in a fair value hedge using the portfolio layer method.
+(6)
+Other assets consists of hedged physical commodity inventory.
+Derivatives Not Designated as Hedging Instruments
+Derivatives not designated as hedging instruments include economic hedges and derivatives entered into for customer accommodation trading purposes.
+Economic hedge derivatives do not qualify for, or we have elected not to apply, hedge accounting. We use economic hedge derivatives to manage our non-trading exposures to interest rate risk, equity price risk, foreign currency risk, and credit risk.
+For additional information on other derivatives, see Note 14 (Derivatives) in our 2024 Form 10-K.
+Table 11.6 shows the net gains (losses) related to economic hedge derivatives. Gains (losses) on customer accommodation trading derivatives are excluded from Table 11.6. For additional information, see Note 2 (Trading Activities).
+Table 11.6:
+Gains (Losses) on Economic Hedge Derivatives
+(1)
+Derivative gains and

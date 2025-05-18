@@ -1,0 +1,15 @@
+systems, including the top supercomputer, on the November 2024 Green500 list.
+We launched our Earth-2 initiative to create a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms. Earth-2 will enable scientists, companies, and policy makers to do ultra-high-resolution predictions of the impact of climate change and explore mitigation and adaptation strategies.
+Human Capital Management
+We believe that our employees are our greatest assets, and they play a key role in creating long-term value for our stakeholders. As of the end of fiscal year 2025, we had approximately 36,000 employees in 38 countries; 27,100 were engaged in research and development and 8,900 were engaged in sales, marketing, operations, and administrative positions. The Compensation Committee of our Board of Directors assists in the oversight of policies and strategies relating to human capital management.
+To execute our business strategy successfully, we must recruit, develop, and retain the very best talent globally, including exceptional executives, scientists, engineers, and technical and non-technical staff.
+Recruitment
+As the demand for global technical talent continues to be high, we have grown our technical workforce and have been successful in attracting top talent to NVIDIA. We have attracted talent worldwide through our strong employer brand and differentiated hiring strategies for college, professional, and leadership talent. Our workforce is 82% technical and 51%
+11
+Table of Contents
+hold advanced degrees. Additionally, we have increased our focus on diversity recruiting and we welcome employees of all backgrounds. Our own employees also help to surface top talent, with over 41% of our new hires in fiscal year 2025 coming from employee referrals.
+Development and Retention
+To support employee development, we provide opportunities to learn on-the-job through training courses, targeted development programs, mentoring and peer coaching and ongoing feedback. We constantly upgrade our learning offerings to ensure that our employees are exposed to the most current content and technologies available. We offer tuition reimbursement programs to subsidize educational programs and advanced certifications and encourage internal job mobility. We have also implemented specifically designed mentoring and development programs for women and employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.
+To evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party platform. We want NVIDIA to be a place where people can grow their careers over their lifetime and our employees tend to come and stay. In fiscal year 2025, our overall turnover rate was 2.5%.
+Compensation, Benefits, and Well-Being
+Our compensation program rewards performance and is structured to encourage employees to invest in the Company’s future. Employees receive equity, except where unavailable due to local

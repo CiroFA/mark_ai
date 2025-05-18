@@ -1,0 +1,29 @@
+required by Section 302 of the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley Act”) are filed as Exhibits
+31.1
+and
+31.2
+to this Form 10-Q.
+Changes in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act, during our most recently completed fiscal quarter that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. We are currently preparing to implement a new global enterprise resource planning (“ERP”) system, which will replace many of our operating and financial systems. The ERP system is designed to accurately maintain our financial records, support integrated billing, supply chain and other operational functionality, facilitate data analysis and accelerate information reporting to our management team related to the operation of the business. The implementation is expected to occur in phases over the next several years.
+As the phased implementation of the new ERP system continues, we could have changes to our processes and procedures which, in turn, could result in changes to our internal control over financial reporting. As such changes occur, we will evaluate quarterly whether such changes materially affect our internal control over financial reporting.
+52
+Table of Contents
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+For more information regarding the legal proceedings in which we are involved, see
+Note 1
+4
+– Commitments and Contingencies
+of the Notes to the Condensed Consolidated Financial Statements.
+Item 1A. Risk Factors
+Other than the updated risk factors below, there have been no material changes in our risk factors as previously disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2024.
+Any acquisition, divestiture, investment, joint venture or merger may subject us to significant risks, any of which may harm our business.
+We may pursue acquisitions of, investments in, or joint ventures or mergers with, other companies, or the acquisition of technologies, services, products or other assets that we believe would complement or expand our business. We may also elect to divest some of our assets to third parties. Some of these potential transactions could be significant relative to the size of our business and operations. Any such transaction would involve a number of risks and could present financial, managerial and operational challenges, including:
+•
+diversion of management attention from running our existing business;
+•
+increased costs to integrate the networks, spectrum, technology, personnel, customer base, distributors and business partners and business practices of the company involved in any such transaction with our business;
+•
+increased interest expense and leverage or limits on other uses of cash;
+•
+potential loss of talent during integration due to differences in culture, locations, or other

@@ -1,0 +1,24 @@
+government entities through innovative technologies.
+5
+Table
+of Contents
+Our net revenue in fiscal 2024 consisted of the following:
+Please see
+Item 7
+and
+Note 1—Summary of Significant Accounting Policies
+to our consolidated financial statements included in
+Item 8
+of this report, which include disclosures on how we earn and recognize our revenue.
+Visa provides payment processing for both non-Visa-branded and Visa-branded card transactions. In the context of non-Visa-branded card transactions, we facilitate payment processing by providing gateway routing services to other payment networks. At the client’s request, we may provide authorization, clearing or settlement services on our network before or after we route the transaction to the other payments network. In those instances, Visa may earn data processing revenue for the specific services provided. In the context of Visa-branded card transactions on our network, we provide authorization, clearing and settlement services and may earn service, data processing, international transaction or other revenue. Depending on applicable regulations, some payment processors may or may not use our network to process Visa-branded card transactions. If they use our network, we may earn service revenue and data processing revenue. If they do not use our network, we earn only service revenue.
+Visa is not a financial institution. We do not issue cards, extend credit or set rates and fees for account holders of Visa products nor do we earn revenue from, or bear credit risk with respect to, any of these activities.
+Interchange reimbursement fees reflect the value merchants receive from accepting our products and play a key role in balancing the costs and benefits that account holders and merchants derive from participating in our payments network. Generally, interchange reimbursement fees are paid by acquirers to issuers. We establish default interchange reimbursement fees that apply absent other established settlement terms. These default interchange reimbursement fees are set independently from the revenue we receive from issuers and acquirers. Our acquiring clients are responsible for setting the fees they charge to merchants for the MDR and for soliciting merchants. Visa sets fees to acquirers independently from any fees that acquirers may charge merchants. Therefore, the fees we receive from issuers and acquirers are not derived from interchange reimbursement fees or MDRs.
+6
+Table
+of Contents
+Visa’s strategy is to accelerate our revenue growth in consumer payments, new flows and value-added services, and fortify the key foundations of our business model.
+We seek to accelerate revenue growth in three primary areas — consumer payments, new flows and value- added services.
+Consumer Payments
+On an annual basis, we see more than $20 trillion
+(2)
+of opportunity globally, excluding Russia and China, to convert cash, check, Automated Clearing House (ACH), domestic schemes, and other forms of electronic payment into

@@ -1,0 +1,22 @@
+awards is reflected by application of the treasury stock method and convertible securities by application of the if-converted method, as applicable.
+We take into account the effect on consolidated net income (loss) per share of dilutive securities of entities in which we hold equity interests that are accounted for using the equity method.
+20
+The following table sets forth the computation of basic and diluted net income (loss) per share attributable to common stockholders (in millions, except share amounts which are reflected in thousands, and per share amounts):
+(1)
+Per share amounts are calculated using unrounded numbers and therefore may not recalculate.
+The following potentially dilutive outstanding securities were excluded from the computation of diluted net income (loss) per share because their effect would have been anti-dilutive for the periods presented, or issuance of such shares is contingent upon the satisfaction of certain conditions which were not satisfied by the end of the period (in thousands):
+21
+Note 8 – Segment Information and Geographic Information
+We determine our operating segments based on how the chief operating decision maker (“CODM”), our Chief Executive Officer, manages the business, allocates resources, makes operating decisions and evaluates operating performance.
+Our
+three
+operating and reportable segments are as follows:
+Our segment operating performance measure is segment Adjusted EBITDA. The CODM uses segment Adjusted EBITDA to evaluate segment operating performance, generate future operating plans, and make strategic decisions. The CODM does not evaluate operating segments using asset information and, accordingly, we do not report asset information by segment. Segment Adjusted EBITDA excludes non-cash items or items that management does not believe are reflective of our ongoing core operations (as shown in the table below).
+The following table provides information about our segments and a reconciliation to income (loss) before income taxes and income (loss) from equity method investments (in millions):
+22
+(1)
+Platform Participant direct transaction costs primarily consist of (i) costs paid directly to Platform Earners on our platform recorded in cost of revenue, excluding depreciation and amortization; and (ii) incentives to end-users recorded in sales and marketing.
+(2)
+Other primarily consists of non-Platform Participant costs, including: (i) trip insurance, payment card fees and bank fees, customer support and technology costs; and (ii) other operating costs, primarily related to employee headcount costs (excluding stock-based compensation), external contractor expenses and brand marketing as well as (iii) costs related to bringing new Platform Earners and new Platform end-users to the Platform recorded in costs and expenses.
+(3)
+Includes costs that are not directly attributable to our reportable segments. Corporate G&A also includes certain shared costs such as finance, accounting, tax, human resources,

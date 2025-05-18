@@ -1,0 +1,153 @@
+t:EquipmentInstallmentProgramMember
+us-gaap:GuaranteeObligationsMember
+2024-12-31
+0000732717
+us-gaap:GuaranteeObligationsMember
+t:EquipmentInstallmentProgramMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2025-03-31
+0000732717
+us-gaap:GuaranteeObligationsMember
+t:EquipmentInstallmentProgramMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2024-12-31
+0000732717
+t:RevolvingReceivablesProgramMember
+srt:MaximumMember
+2025-01-01
+2025-03-31
+0000732717
+us-gaap:AssetPledgedAsCollateralWithoutRightMember
+2025-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2024-09-29
+0000732717
+t:DIRECTVMember
+2025-01-01
+2025-03-31
+0000732717
+t:DIRECTVMember
+t:DividendsMember
+us-gaap:EquityMethodInvesteeMember
+2025-01-01
+2025-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2024-09-30
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2025-01-01
+2025-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:EquityMethodInvesteeMember
+us-gaap:AssetManagementArrangementMember
+2025-01-01
+2025-03-31
+0000732717
+us-gaap:EquityMethodInvesteeMember
+us-gaap:AssetManagementArrangementMember
+2024-01-01
+2024-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2025-03-31
+0000732717
+t:SupplierFinancingProgramMember
+2025-03-31
+0000732717
+t:SupplierFinancingProgramMember
+2024-12-31
+0000732717
+t:DirectSupplierFinancingProgramMember
+2025-03-31
+0000732717
+t:DirectSupplierFinancingProgramMember
+2024-12-31
+0000732717
+t:VendorFinancingProgramMember
+2025-01-01
+2025-03-31
+0000732717
+t:VendorFinancingProgramMember
+2024-01-01
+2024-03-31
+0000732717
+t:VendorFinancingProgramMember
+2025-03-31
+0000732717
+t:VendorFinancingProgramMember
+2024-12-31
+0000732717
+us-gaap:PropertyPlantAndEquipmentMember
+2025-01-01
+2025-03-31
+0000732717
+us-gaap:PropertyPlantAndEquipmentMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2025-01-01
+2025-03-31
+0000732717
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:LicenseMember
+2025-01-01
+2025-03-31
+0000732717
+us-gaap:LicenseMember
+2024-01-01
+2024-03-31
+0000732717
+t:ClassA4Member
+t:TelcoLLCMember
+2025-03-31
+0000732717
+t:ClassA4Member
+t:TelcoLLCMember
+2025-01-01
+2025-03-31
+0000732717
+us-gaap:SeriesBPreferredStockMember
+2025-03-03
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+For the quarterly period ended
+March 31, 2025
+or
+For the transition period from to
+Commission File Number
+001-08610
+AT&T INC.
+Incorporated under the laws of the State of
+Delaware
+I.R.S. Employer Identification Number
+43-1301883
+208 S. Akard St.
+,
+Dallas
+,
+Texas
+75202
+Telephone Number: (
+210
+)
+821-4105
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the

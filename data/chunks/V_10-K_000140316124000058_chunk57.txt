@@ -1,0 +1,35 @@
+share should not be relied upon as substitutes for, or considered in isolation from, measures calculated in accordance with U.S. GAAP. The following tables reconcile our as-reported financial measures, calculated in accordance with U.S. GAAP, to our respective non-GAAP financial measures:
+41
+Table
+of Contents
+(1)
+Determined by applying applicable tax rates.
+(2)
+Figures in the table may not recalculate exactly due to rounding. Effective income tax rate, diluted earnings per share and their respective totals are calculated based on unrounded numbers.
+Payments volume and processed transactions.
+Payments volume is the primary driver for our service revenue, and the number of processed transactions is the primary driver for our data processing revenue.
+Payments
+volume represents the aggregate dollar amount of purchases made with cards and other form factors carrying the Visa, Visa Electron, V PAY and Interlink brands and excludes Europe co-badged volume. Nominal payments volume is denominated in U.S. dollars and is calculated each quarter by applying an established U.S. dollar/foreign currency exchange rate for each local currency in which our volumes are reported.
+Processed transactions include payments and cash transactions, and represent transactions using cards and other form factors carrying the Visa, Visa Electron, V PAY, Interlink and PLUS brands processed on Visa’s networks.
+The following tables present nominal payments and cash volume:
+42
+Table
+of Contents
+The following table presents the change in nominal and constant payments and cash volume:
+(1)
+Service revenue in a given quarter is primarily assessed based on nominal payments volume in the prior quarter. Therefore, service revenue reported for the twelve months ended September 30, 2024, 2023 and 2022, was based on nominal payments volume reported by our financial institution clients for the twelve months ended June 30, 2024, 2023 and 2022, respectively. On occasion, previously presented volume information may be updated. Prior period updates are not material.
+(2)
+Figures in the table may not recalculate exactly due to rounding. Percentage changes and totals are calculated based on unrounded numbers.
+(3)
+Includes consumer prepaid volume and Interlink volume.
+(4)
+Includes large, medium and small business credit and debit, as well as commercial prepaid volume.
+(5)
+Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks.
+(6)
+Total nominal volume is the sum of total nominal payments volume and cash volume. Total nominal volume is provided by our financial institution clients, subject to review by Visa.
+(7)
+Growth on a constant-dollar basis excludes the impact of foreign currency fluctuations against the U.S. dollar.
+The following table presents the number of processed transactions:
+(1)
+Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers. On

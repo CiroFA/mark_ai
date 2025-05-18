@@ -1,0 +1,20 @@
+that are not denominated in the functional currency at exchange rates in effect at the end of each period.  Gains and losses from these remeasurements are recognized in "Interest and other income (expense)" in the Consolidated Statements of Operations.
+Foreign exchange gains (losses) were $(
+18
+) million, $(
+293
+) million, and $
+282
+million for the years ended December 31, 2024, 2023, and 2022, respectively.  These gains and losses were primarily due to the non-cash remeasurement of our Senior Notes denominated in euros and the remeasurement of cash and content liability positions denominated in currencies other than functional currencies.  Foreign exchange gains (losses) for the year ended December 31, 2024 were net of hedging impacts. No hedging gains or losses were recognized in the Consolidated Statements of Operations in the years ended December 31, 2023 and 2022.  See Note 7
+Derivative Financial Instruments and Hedging Activities
+for further information.
+Derivative Financial Instruments and Hedging Activities
+The Company uses derivative and non-derivative instruments to manage foreign exchange risk related to its ongoing business operations with the primary objective of reducing earnings and cash flow volatility associated with fluctuations in foreign exchange rates.
+The Company recognizes derivative instruments at fair value as either assets (presented in “Other current assets” and “Other non-current assets”) or liabilities (presented in “Accrued expenses and other liabilities” and “Other non-current liabilities”) on the Company’s Consolidated Balance Sheets. The Company classifies derivative instruments in the Level 2 category within the fair value hierarchy.
+Cash flow hedges
+44
+Table of Contents
+The Company enters into forward contracts to manage the foreign exchange risk on forecasted revenue transactions denominated in currencies other than the U.S. dollar, as well as the foreign exchange risk on forecasted transactions and firm commitments related to the licensing and production of foreign currency-denominated content assets. These forward contracts are designated as cash flow hedges of foreign currency firm commitments and forecasted transactions and generally have maturities of
+36
+months or less. The hedging contracts may reduce, but do not entirely eliminate, the effect of foreign currency exchange movements, and the Company may choose not to hedge certain exposures.
+The gain or loss on derivative instruments designated as cash flow hedges of forecasted foreign currency revenue is initially reported as a component of accumulated other comprehensive income (“AOCI”) and reclassified into “Revenues” on the Consolidated Statements of Operations in the same period the forecasted transaction affects earnings. The gain or loss on derivative instruments designated as cash flow hedges of firmly committed or forecasted transactions related to the licensing and production of content assets is initially reported as a component of AOCI and

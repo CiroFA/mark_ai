@@ -1,0 +1,17 @@
+services we provide to our customers and are included in Cost of services. When we separately bill and collect these regulatory fees from customers, they are recorded gross in Total service revenues on our Consolidated Statements of Comprehensive Income. For the years ended December 31, 2024, 2023 and 2022, we recorded approximately $
+386
+million, $
+317
+million and $
+185
+million, respectively, of USF fees on a gross basis.
+We have made an accounting policy election to exclude from the measurement of the transaction price all taxes assessed to the customer by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by us from a customer on behalf of the taxing agency (e.g., sales, use, value added, and some excise taxes).
+Equipment Revenues
+We generate equipment revenues from the sale of mobile communication devices and accessories. Equipment revenues related to device and accessory sales are typically recognized at a point in time when control of the device or accessory is transferred to the customer or dealer. We have elected to account for shipping and handling activities that occur after control of the related good transfers as fulfillment activities, as opposed to performance obligations. We estimate variable consideration (e.g., device returns or certain payments to indirect dealers) primarily based on historical experience. Equipment sales for which we determine it is not probable that we will collect substantially all of the transaction price are generally recorded as payments are received. Our assessment of collectibility considers contract terms such as down payments that reduce our exposure to credit risk.
+We offer certain customers the option to pay for devices and accessories in installments using an EIP. This financing option is provided at a stated interest of
+zero
+and is typically over a
+24
+-month period. We recognize as a reduction of the total transaction price the effects of a financing component in contracts via the imputation of interest when customers purchase their devices and accessories on an EIP, including those financing components that are not considered to be significant to the contract. However, we have elected the practical expedient of not recognizing the effects of a significant financing component for contracts where we expect, at contract inception, that the period between the transfer of a performance obligation to a customer and the customer’s payment for that performance obligation will be one year or less.
+Imputed Interest on EIP Receivables
+For EIP with a duration greater than one year, we record the effects of financing via the imputation of interest. This is performed on all such EIP receivables regardless as to whether or not the financing is considered to be significant. The imputation of interest results in a discount of the EIP receivable, thereby adjusting the transaction price of the contract with the customer, which is then

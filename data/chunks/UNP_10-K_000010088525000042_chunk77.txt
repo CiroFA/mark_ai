@@ -1,0 +1,46 @@
+straight-line method over the shorter of the estimated useful lives of the assets or the period of the related lease.
+12.
+Accounts Payable and Other Current Liabilities
+13.
+Financial Instruments
+Short-Term Investments
+– All of the Company’s short-term investments consist of time deposits and government agency securities. These investments are considered Level 2 investments and are valued at amortized cost, which approximates fair value. As of December 31, 2024 and 2023, the Company had $
+20
+million and $
+16
+million of short-term investments, respectively. All short-term investments have a maturity of less than one year and are classified as held-to-maturity.
+Fair Value of Financial Instruments
+– The fair value of our short- and long-term debt was estimated using a market value price model, which utilizes applicable U.S. Treasury rates along with current market quotes on comparable debt securities. All of the inputs used to determine the fair market value of the Corporation’s long-term debt are Level 2 inputs and obtained from an independent source. At December 31, 2024, the fair value of total debt was $
+25.3
+billion, approximately $
+5.9
+billion less
+63
+Table of
+Contents
+than the carrying value. At December 31, 2023, the fair value of total debt was $
+28.5
+billion, approximately $
+4.1
+billion less than the carrying value. The fair value of the Corporation’s debt is a measure of its current value under present market conditions. The fair value of our cash equivalents approximates their carrying value due to the short-term maturities of these instruments.
+14.
+Debt
+Total debt as of December 31, 2024 and 2023, is summarized below:
+[a]
+Equipment obligations are secured by an interest in certain railroad equipment with a carrying value of approximately
+$
+0.8
+billion
+and $
+0.9
+billion at December 31, 2024 and 2023, respectively.
+Debt Maturities
+–
+The following table presents aggregate debt maturities as of December 31, 2024, excluding market value adjustments:
+Credit Facilities
+– At December 31, 2024, we had $
+2.0
+billion of credit available under our revolving credit facility (the Facility), which is designated for general corporate purposes and supports the issuance of commercial paper. Credit facility withdrawals totaled $
+0
+during 2024. Commitment fees and interest rates payable under the Facility are similar to fees and rates available to comparably rated, investment-grade borrowers. The Facility allows for borrowings at floating rates based on Term Secured Overnight Financing Rate (SOFR), plus a spread, depending upon credit ratings for our senior unsecured debt. The Facility, set to expire May 20, 2027, requires UPC to maintain an adjusted debt-to-EBITDA (earnings before interest, taxes, depreciation, and amortization) coverage ratio.
+The definition of debt used for purposes of calculating the adjusted debt-to-EBITDA coverage ratio includes, among other things, certain credit arrangements, finance leases, guarantees, unfunded and vested pension

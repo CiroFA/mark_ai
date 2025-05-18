@@ -67,7 +67,7 @@ for file in sorted(os.listdir(CHUNKS_FOLDER)):
         new_metadata.append({
             "filename": file,
             "length": len(text),
-            "path": path
+            "path": os.path.relpath(path, ROOT_DIR)
         })
 
 print(f"📄 Chunk totali trovati: {len(os.listdir(CHUNKS_FOLDER))}")

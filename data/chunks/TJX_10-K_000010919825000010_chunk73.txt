@@ -1,0 +1,32 @@
+committed lease term (typically
+10
+years to
+15
+years), whichever is shorter. Furniture, fixtures and equipment are depreciated over
+3
+to
+10
+years. Depreciation and amortization expense for property was
+$
+1.1
+billion
+in fiscal 2025, $
+958
+million in fiscal 2024, and $
+879
+million in fiscal 2023. TJX had
+no
+property held under finance leases during fiscal 2025, fiscal 2024 or fiscal 2023. Maintenance and repairs are charged to expense as incurred. Significant costs incurred for internally developed software are capitalized and amortized, generally over
+5
+years. Upon retirement or sale, the cost of disposed assets and the related accumulated depreciation are eliminated, and any gain or loss is included in income. Pre-opening costs, including rent, are expensed as incurred.
+Lease Accounting
+Operating leases are included in “Operating lease right of use assets,” “Current portion of operating lease liabilities,” and “Long-term operating lease liabilities” on the Company’s Consolidated Balance Sheets. Right of use (“ROU”) assets represent TJX’s right to use an underlying asset for the lease term and lease liabilities represent TJX’s obligation to make lease payments arising from the lease. At the inception of the arrangement, the Company determines if an arrangement is a lease based on assessment of the terms and conditions of the contract. Operating lease ROU assets and lease liabilities are recognized at possession date based on the present value of lease payments over the lease term. The majority of the Company’s leases are retail store locations, and the possession date is typically
+30
+to
+60
+days prior to the opening of the store and generally occurs before the commencement of the lease term, as specified in the lease. TJX’s lessors do not provide an implicit rate, nor is one readily available, therefore the Company uses its incremental borrowing rate based on the information available at possession date in determining the present value of future lease payments. The incremental borrowing rate is calculated based on the US Consumer Discretionary yield curve and adjusted for collateralization and foreign currency impact for TJX International and Canada leases. The operating lease ROU assets also include any acquisition costs offset by lease incentives. The Company’s lease terms include options to extend the lease, which will be included in the operating lease ROU asset and lease liabilities when it is reasonably certain the Company will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term within “Cost of sales, including buying and occupancy costs”.
+See Note L—Leases for a detailed discussion of lease accounting.
+Goodwill and Tradenames
+Goodwill includes the excess of the purchase price paid over the carrying value of the minority interest acquired in fiscal 1990 in TJX’s former
+83
+%-owned subsidiary and represents goodwill associated with the TJ Maxx chain, which is included in the Marmaxx

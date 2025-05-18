@@ -1,0 +1,117 @@
+gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+qcom:MortgageandassetbackedandauctionratesecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+qcom:MortgageandassetbackedandauctionratesecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+qcom:MortgageandassetbackedandauctionratesecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueMeasurementsRecurringMember
+qcom:MortgageandassetbackedandauctionratesecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasuryAndGovernmentMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasuryAndGovernmentMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasuryAndGovernmentMember
+2024-09-29
+0000804328
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasuryAndGovernmentMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-09-29
+0000804328
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-09-29
+0000804328
+us-gaap:AvailableforsaleSecuritiesMember
+2024-09-29
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2023-09-24
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2023-09-25
+2024-09-29
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2024-09-29
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2022-09-25
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2022-09-26
+2023-09-24
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2021-09-26
+0000804328
+us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember
+2021-09-27
+2022-09-25
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-K
+(Mark one)
+For the fiscal year ended
+September 29, 2024
+OR
+For the transition period from
+to
+.
+Commission File Number
+0-19528
+QUALCOMM Incorporated
+(Exact name of registrant as specified in

@@ -1,0 +1,22 @@
+after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Adoption of this ASU can either be applied prospectively to consolidated financial statements issued for reporting periods after the effective date of this ASU or retrospectively to any or all prior periods presented in the consolidated financial statements. Early adoption is also permitted. This ASU will likely result in the required additional disclosures being included in our consolidated financial statements, once adopted. We are currently evaluating the provisions of this ASU.
+13
+Table of Contents
+Recently adopted accounting pronouncements
+ASU 2023-08
+In December 2023, the FASB issued ASU No. 2023-08, Accounting for and Disclosure of Crypto Assets (Subtopic 350-60) (“new crypto assets standard”). The new crypto assets standard requires certain crypto assets to be measured at fair value separately on the balance sheet with changes reported in the statement of operations each reporting period. The new crypto assets standard also enhances the other intangible asset disclosure requirements by requiring the name, cost basis, fair value, and number of units for each significant crypto asset holding. During the fourth quarter of 2024, we adopted the new crypto assets standard on a modified retrospective approach effective January 1, 2024. As such, the previously reported consolidated financial statements for the three months ended March 31, 2024 have been recast to reflect the adoption of the new crypto assets standard.
+The following table presents the effects of these changes on the Company’s consolidated financial statements:
+Note 2 –
+Fair Value of Financial Instruments
+ASC 820,
+Fair Value Measurements
+(“ASC 820”) states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability. The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data. The fair value hierarchy requires the use of observable market data when available in determining fair value.
+Our assets and liabilities that were measured at fair value on a recurring basis were as follows (in millions):
+14
+Table of Contents
+(1)
+As of March 31, 2025 and December 31, 2024, the majority of our digital assets were comprised of
+11,509
+units of Bitcoin held, at a cost of $
+386
+million.
+Our assets classified within Level I of the fair value hierarchy were valued using quoted prices in active

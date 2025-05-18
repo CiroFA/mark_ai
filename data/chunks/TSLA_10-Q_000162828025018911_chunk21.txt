@@ -1,0 +1,21 @@
+estimates, refer to Part II, Item 7,
+Critical Accounting Policies and Estimates
+in our Annual Report on Form 10-K for the year ended December 31, 2024. There have been no material changes to our critical accounting policies and estimates since our Annual Report on Form 10-K for the year ended December 31, 2024.
+Recent Accounting Pronouncements
+See Note 1,
+Summary of Significant Accounting Policies
+, to the consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+Results of Operations
+Revenues
+Automotive & Services and Other Segment
+Automotive sales revenue decreased $3.54 billion, or 21%, in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024, due to a decrease of approximately 51,000 combined Model 3 and Model Y cash deliveries in part from bringing down all of our vehicle factories simultaneously for the changeover to New Model Y. Additionally, we had a lower average selling price per unit driven by sales mix, higher customer incentives such as attractive financing options, and a negative impact from the strengthening of the United States dollar when compared to foreign currencies year over year, as well as a decrease of 5,000 deliveries of other models.
+Automotive regulatory credits revenue increased $153 million, or 35%, in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024. This increase was driven by demand for credits in North America as other automobile manufacturers have scaled back on their battery electric vehicle plans.
+Services and other revenue increased $350 million, or 15%, in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024. The increase was primarily due to increases in paid Supercharging revenue, insurance services revenue, non-warranty maintenance services and collision revenue, used vehicle revenue and part sales revenue.
+28
+Table of Contents
+Energy Generation and Storage Segment
+Energy generation and storage revenue increased $1.10 billion, or 67%, in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024. The increase was primarily due to increases in Megapack and Powerwall deployments compared to the prior year, partially offset by a decrease in average selling price of Megapack.
+Cost of Revenues and Gross Margin
+Automotive & Services and Other Segment
+Cost of automotive sales revenue decreased $2.44 billion, or 18%, in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024 due to the decreases in deliveries year over year as discussed above. Additionally, there was a decrease in the average cost per unit of our vehicles primarily from lower raw material costs and a positive impact from the strengthening of United States dollar when compared to foreign currencies year over year, partially offset by sales mix.
+Cost of services and other revenue increased $330 million, or 15%, in the three months

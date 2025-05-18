@@ -1,0 +1,65 @@
+Company’s RSU activity:
+(1)
+Calculated by multiplying the closing stock price on the last trading day of fiscal 2024 of $
+274.95
+by the number of instruments.
+As of September 30, 2024, there was $
+796
+million of total unrecognized compensation cost related to unvested RSUs, which is expected to be recognized over a weighted-average period of approximately
+0.93
+year.
+Performance-based Shares
+For the Company’s performance-based shares, in addition to service conditions,
+the ultimate number of shares to be earned depends on the achievement of both performance and market conditions. T
+he performance condition is based on the Company’s earnings per share target. The market condition is based on the Company’s total shareholder return ranked against that of other companies that are included in the Standard & Poor’s 500 Index.
+The fair value of each performance-based shares incorporating the market condition was estimated on the date of grant using a Monte Carlo simulation model with the following weighted-average assumptions:
+(1)
+Based on the zero-coupon U.S. treasury constant maturity yield curve, continuously compounded over the expected term of the awards.
+(2)
+Based on the Company’s implied and historical volatilities.
+(3)
+Based on the Company’s annual dividend rate on the date of grant.
+Performance-based shares vest over
+three years
+and are subject to earlier vesting in full under certain conditions. During fiscal
+2024, 2023 and 2022
+, the total grant date fair value of performance-based shares vested and earned was $
+81
+million
+,
+$
+44
+million and $
+49
+million, respectively. Compensation cost for performance-based shares is initially estimated based on target performance. It is recorded net of estimated forfeitures and adjusted as appropriat
+e throughout the performance period.
+92
+Table of Contents
+The following table summarizes the maximum number of performance-based shares which could be earned and related activity:
+(1)
+Calculated by multiplying the closing stock price on the last trading day of fiscal 2024 of $
+274.95
+by the number of instruments.
+(2)
+Represents the maximum number of performance-based shares which could be earned.
+As of September 30, 2024, there was $
+75
+million of total unrecognized compensation cost related to unvested performance-based shares, which is expected to be recognized over a weighted-average period of approximately
+0.88
+year.
+Note 18—Commitments
+As of September 30, 2024, future minimum payments on software licenses were as follows:
+Note 19—Income Taxes
+The Company’s income before income taxes by fiscal year consisted of the following:
+For fiscal 2024, 2023 and 2022, U.S. income before income taxes included $
+5.1
+billion, $
+4.2
+billion, and $
+3.6
+billion, respectively, of the Company’s U.S. entities’ income from operations outside of the U.S.
+93
+Table of Contents
+Income tax provision by fiscal year consisted of the following:
+The following table presents the components of deferred tax assets and liabilities:
+As of

@@ -1,0 +1,18 @@
+to employees, including grants of service-based restricted stock unit (RSU) awards, service-based employee stock options, performance-based stock options (PSOs), and purchases under employee stock purchase plans in accordance with ASC 718,
+Compensation
+—
+Stock Compensation,
+which requires that share-based payments (to the extent they are compensatory) be recognized in our consolidated statements of operations based on their fair values. We account for forfeitures of stock-based awards as they occur.
+For our service-based stock awards, we recognize stock-based compensation expense on a straight-line basis over the service period of the award, which is generally
+four years
+.
+For our PSOs, we recognize stock-based compensation expense on a straight-line basis for tranches that are probable of achievement over the longer of the (a) estimated implicit service period for performance-metric achievement or (b) derived service period for market-based metric achievement applicable for each tranche. During our interim and annual reporting periods, stock-based compensation expense is recorded based on expected attainment of performance targets. Changes in our estimates of the expected attainment of performance targets that result in a change in the number of shares that are expected to vest, or changes in our estimates of implicit service periods, may cause the amount of stock-based compensation expense that we record for each interim reporting period to vary. Any changes in estimates that impact our expectation of the number of shares that are expected to vest are reflected in the amount of stock-based compensation expense that we recognize for each PSO tranche on a cumulative catch up basis during each interim reporting period in which such estimates are altered. Changes in estimates of the implicit service periods are recognized prospectively.
+We
+record deferred tax assets for stock-based compensation awards that result in deductions on certain of our income tax returns based on the amount of stock-based compensation recognized in each reporting period and the fair values attributable to the vested portion of stock awards assumed in connection with a business combination at the statutory tax rates in the jurisdictions that we are able to recognize such tax deductions. The impacts of the actual tax deductions for stock-based awards that are realized in these jurisdictions are generally recognized in the reporting period that a restricted stock-based award vests or a stock option is exercised with any shortfall/windfall relative to the deferred tax asset established, and recorded as a discrete detriment/benefit to our provision for
+79
+Table of Contents
+Index to Financial Statements
+income
+taxes in such period. Note 12 below provides additional information regarding our stock-based compensation plans and related expenses.
+Research and Development Costs and Software Development Costs
+Research and development costs are generally expensed as incurred in

@@ -1,0 +1,53 @@
+purchase products directly from NVIDIA and may use either internal resources or third-party system integrators to complete their build. We also have indirect customers, who purchase products through our direct customers; indirect customers include CSPs, consumer internet companies, enterprises, and public sector entities.
+79
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Sales to direct customers which represented 10% or more of total revenue, all of which were primarily attributable to the Compute & Networking segment, are presented in the following table:
+* Less than 10% of total revenue.
+No customer represented 10% or more of total revenue for fiscal year 2023.
+The following table summarizes revenue by specialized markets:
+The following table presents summarized information for long-lived assets by country. Long-lived assets consist of property and equipment and exclude other assets, operating lease assets, goodwill, and intangible assets.
+Note 17 -
+Leases
+Our lease obligations primarily consist of operating leases for our headquarters' campus and domestic and international offices and data centers, with lease periods expiring between fiscal years 2026 and 2037.
+Future minimum lease obligations under our non-cancelable lease agreements as of January 26, 2025 were as follows:
+80
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+Between fiscal years 2026 and 2030, we expect to commence leases with future obligations of $
+7.6
+billion primarily of data center and office operating leases, with lease terms of
+3
+to
+15.5
+years.
+Operating lease expenses for fiscal years 2025, 2024, and 2023 were $
+356
+million, $
+269
+million, and $
+193
+million, respectively. Short-term and variable lease expenses for fiscal years 2025, 2024, and 2023 were not significant.
+Other information related to leases was as follows:
+As of January 26, 2025, our operating leases have a weighted average remaining lease term of
+6.5
+years and a weighted average discount rate of
+4.16
+%. As of January 28, 2024, our operating leases had a weighted average remaining lease term of
+6.1
+years and a weighted average discount rate of
+3.76
+%.
+81
+NVIDIA Corporation and Subsidiaries
+Schedule II – Valuation and Qualifying Accounts
+(1)
+Additions represent either expense or acquired balances and deductions represent write-offs.
+(2)
+Additions represent estimated product returns charged as a reduction to revenue or an acquired balance.
+(3)
+Additional valuation allowance on deferred tax assets not likely to be realized. Additions represent additional valuation allowance on capital loss carryforwards, and certain state and other deferred tax assets. Deductions represent the release of valuation allowance on certain state deferred tax assets. Refer to Note 13 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for

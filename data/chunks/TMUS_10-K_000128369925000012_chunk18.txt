@@ -1,0 +1,42 @@
+financial statements.
+☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).                Yes
+☐
+No
+☒
+As of June 28, 2024, the aggregate market value of the voting and non-voting common equity held by non-affiliates was $
+86.0
+billion based on the closing sale price as reported on the NASDAQ Global Select Market. As of January 24, 2025, there were
+1,141,744,952
+shares of common stock outstanding.
+Table of Contents
+DOCUMENTS INCORPORATED BY REFERENCE
+Part III of this Annual Report on Form 10-K will be incorporated by reference from certain portions of the definitive Proxy Statement for the Registrant’s 2025 Annual Meeting of Stockholders, which definitive Proxy Statement will be filed with the Securities and Exchange Commission pursuant to Regulation 14A or will be included in an amendment to this Report.
+2
+Table of Contents
+T-Mobile US, Inc.
+Form 10-K
+For the Year Ended December 31, 2024
+Table of Contents
+3
+Table of Contents
+Cautionary Statement Regarding Forward-Looking Statements
+This Annual Report on Form 10-K (“Form 10-K”) of T-Mobile US, Inc. (“T-Mobile,” “we,” “our,” “us” or the “Company”) includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, including information concerning our future results of operations, are forward-looking statements. These forward-looking statements are generally identified by the words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “could” or similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to differ materially from the forward-looking statements. The following important factors, along with the Risk Factors included in
+Part I, Item 1A
+of this Form 10-K, could affect future results and cause those results to differ materially from those expressed in the forward-looking statements:
+•
+competition, industry consolidation and changes in the market for wireless communications services and other forms of connectivity;
+•
+criminal cyberattacks, disruption, data loss or other security breaches;
+•
+our inability to timely adopt and effectively deploy network technology developments;
+•
+our inability to effectively execute our digital transformation and drive customer and employee adoption of emerging technologies;
+•
+our inability to retain or motivate key personnel, hire qualified personnel or maintain our corporate culture;
+•
+system failures and business disruptions, allowing for unauthorized use of or interference with our network and other systems;
+•
+the scarcity

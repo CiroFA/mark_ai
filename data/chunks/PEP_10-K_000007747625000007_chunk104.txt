@@ -1,0 +1,35 @@
+administrative expenses in our PBNA division. We estimated the fair value of our ownership in TBG using discounted cash flows and an option pricing model related to our liquidation preference in TBG, which we categorized as Level 3 in the fair value hierarchy.
+In 2024, after identifying several indicators of impairment such as worsening operating losses and liquidity position, we quantitatively assessed our investment in TBG for impairment and, consequently, recorded an other-than-temporary impairment of our remaining investment, resulting in pre-tax impairment charges of $
+498
+million ($
+416
+million after-tax or $
+0.30
+per share), with $
+409
+million in our PBNA division and $
+89
+million in our Europe division, recorded in selling, general and administrative expenses. We estimated the fair value of our ownership in TBG using discounted cash flows. We also recorded an allowance for expected credit losses in selling, general and administrative expenses in 2024, primarily related to outstanding receivables associated with the Juice Transaction; see Note 1 for further information.
+103
+Table of
+Contents
+Recurring Fair Value Measurements
+The fair values of our financial assets and liabilities as of December 28, 2024 and December 30, 2023 are categorized as follows:
+(a)
+Fair value hierarchy levels are defined in Note 7. Unless otherwise noted, financial assets are classified on our balance sheet within prepaid expenses and other current assets and other assets. Financial liabilities are classified on our balance sheet within accounts payable and other current liabilities and other liabilities.
+(b)
+Classified as other assets. Includes Level 3 assets of $
+1,041
+million as of December 28, 2024, and Level 2 assets of $
+178
+million and Level 3 assets of $
+1,156
+million as of December 30, 2023. The fair value of our Level 3 investment in Celsius is estimated using probability-weighted discounted future cash flows based on a Monte Carlo simulation using significant unobservable inputs such as an
+80
+% probability that a certain market-based condition will be met and an average estimated discount rate of
+7.3
+% and
+8.1
+% as of December 28, 2024 and December 30, 2023, respectively, based on Celsius’ estimated synthetic credit rating. The fair value of the other Level 3 investment is estimated using a lattice model primarily based on the underlying stock price, volatility and certain significant unobservable inputs, such as a discount rate of
+8.3
+% as of December 28, 2024, based upon an estimated synthetic credit rating. An increase in the probability that certain market-based conditions will be met or a decrease in the discount rate would result in a higher fair value measurement, while a decrease in the probability that certain market-based conditions will be met or an increase in the discount rate would result in a lower fair value measurement. The fair value of our Level 2 investment as of December 30, 2023 approximates the transaction price and any accrued

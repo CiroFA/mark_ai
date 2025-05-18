@@ -1,0 +1,46 @@
+Notes to the Consolidated Financial Statements
+(Continued)
+Note 13 -
+Income Taxes
+The income tax expense (benefit) applicable to income before income taxes consists of the following:
+Income before income tax consists of the following:
+The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:
+75
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:
+(1)    Net deferred tax asset includes long-term deferred tax assets of $
+11
+billion and $
+6.1
+billion and long-term deferred tax liabilities of $
+886
+million and $
+462
+million for fiscal years 2025 and 2024, respectively. Long-term deferred tax liabilities are included in other long-term liabilities on our Consolidated Balance Sheets.
+As of January 26, 2025, we intend to indefinitely reinvest approximately $
+1.4
+billion of cumulative undistributed earnings held by certain subsidiaries. We have not provided the amount of unrecognized deferred tax liabilities for temporary differences related to these investments as the determination of such amount is not practicable.
+As of both January 26, 2025 and January 28, 2024, we had a valuation allowance of $
+1.6
+billion related to capital loss carryforwards, and certain state and other deferred tax assets that management determined are not likely to be realized due, in part, to jurisdictional projections of future taxable income, including capital gains. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax assets as income tax benefits during the period.
+Given our current and possible future earnings, we believe that we may release the valuation allowance associated with certain state deferred tax assets in the near term, which would decrease our income tax expense for the period the release is recorded. The timing and amount of the valuation allowance release could vary based on our assessment of all available information.
+As of January 26, 2025, we had U.S. federal, state and foreign net operating loss carryforwards of $
+479
+million, $
+332
+million and $
+349
+million, respectively. The federal and state carryforwards will begin to expire in fiscal years 2026 and 2027, respectively. The foreign net operating loss carryforwards of $
+349
+million may be carried forward indefinitely. As of January 26, 2025, we had federal research tax credit carryforwards of $
+46
+million, before the impact of uncertain tax positions, that will begin to expire in fiscal year 2026. We have state research tax credit carryforwards of $
+1.5
+billion, before the impact of uncertain tax positions. $
+1.4
+billion is attributable to the State of California and may be carried over indefinitely and $
+98
+million is attributable to

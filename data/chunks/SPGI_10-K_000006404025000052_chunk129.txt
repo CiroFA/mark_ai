@@ -1,0 +1,51 @@
+and the comparability of that information in our valuation models, are forward-looking and could be affected by future economic and market conditions. Any adjustments to the redemption value will impact retained income.
+Noncontrolling interests that do not contain such redemption features are presented in equity.
+Ch
+anges to redeemable noncontrolling interests during the year ended December 31, 2024 were as follows:
+1
+Relates to foreign currency translation adjustments
+2
+As of December 31, 2024, $
+4,239
+million relates to our redeemable noncontrolling interest in the Indices business
+110
+Table of Contents
+Accumulated Other Comprehensive Loss
+The following table summarizes the changes in the components of accumulated other comprehensive loss for the year ended December 31, 2024:
+1
+Includes an unrealized loss related to our cross currency swaps. See Note 6 –
+Derivative Instruments
+for additional detail of items recognized in accumulated other comprehensive loss.
+2
+Reflects amortization of net actuarial losses and is net of a tax benefit of $
+1
+million for the year ended December 31, 2024. See Note 7
+—
+Employee Benefits
+for additional details of items reclassed from accumulated other comprehensive loss to net earnings.
+3
+See Note 6 –
+Derivative Instruments
+for additional details of items reclassified from accumulated other comprehensive loss to net earnings.
+10.
+Earnings per Share
+Basic earnings per common share (“EPS”) is computed by dividing net income attributable to the common shareholders of the Company by the weighted-average number of common shares outstanding. Diluted EPS is computed in the same manner as basic EPS, except the number of shares is increased to include additional common shares that would have been outstanding if potential common shares with a dilutive effect had been issued. Potential common shares consist primarily of restricted performance shares and stock options calculated using the treasury stock method.
+The calculation for basic and diluted EPS is as follows:
+We have certain stock options and restricted performance shares that are potentially excluded from the computation of diluted EPS. The effect of the potential exercise of stock options is excluded when the average market price of our common stock is lower than the exercise price of the related option during the period or when a net loss exists because the effect would have been antidilutive. Additionally, restricted performance shares are excluded because the necessary vesting conditions had not been met or when a net loss exists. Restricted performance shares outstandin
+g of
+0.5
+million as of December 31, 2024,
+0.7
+111
+Table of Contents
+million as of December 31, 2023 and
+0.6
+million as of December 31, 2022, respectively, were excl
+uded. As of
+December 31, 2024
+, 2023 and 2022, there were
+no
+stock options excluded.
+11.
+Restructuring
+We continuously evaluate our cost structure to identify cost savings associated with streamlining our management structure. Our 2024

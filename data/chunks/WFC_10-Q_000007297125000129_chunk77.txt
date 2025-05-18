@@ -1,0 +1,26 @@
+ASSETS).
+For information about when we generally place loans on nonaccrual status, see Note 1 (Summary of Significant Accounting Policies) to Financial Statements in our 2024 Form 10-K. Table 17 summarizes nonperforming assets.
+Table 17:
+Nonperforming Assets (Nonaccrual Loans and Foreclosed Assets)
+(1)
+Residential mortgage loans are not placed on nonaccrual status when they are insured or guaranteed by U.S. government agencies, such as the FHA or the VA.
+(2)
+Consistent with regulatory reporting requirements, foreclosed real estate resulting from government insured/guaranteed loans are classified as nonperforming. Both principal and interest related to these foreclosed real estate assets are collectible because the loans were insured or guaranteed by U.S. government agencies. Receivables related to the foreclosure of certain government guaranteed real estate mortgage loans are excluded from this table and included in accounts receivable in other assets. For additional information on the classification of certain government-guaranteed mortgage loans upon foreclosure, see Note 1 (Summary of Significant Accounting Policies) to Financial Statements in our 2024 Form 10-K.
+Total nonaccrual loans increased $248 million from December 31, 2024, driven by higher commercial and industrial nonaccrual loans.
+For additional information on commercial nonaccrual loans, see the “Risk Management – Credit Risk Management – Commercial and Industrial Loans and Lease Financing” and “Risk Management – Credit Risk Management – Commercial Real Estate” sections in this Report.
+Table 18 provides an analysis of the changes in nonaccrual loans. Typically, changes to nonaccrual loans period-over-period represent inflows for loans that are placed on nonaccrual status in accordance with our policies, offset by reductions for loans
+that are paid down, charged off, sold, foreclosed, or are no longer classified as nonaccrual as a result of continued performance and an improvement in the borrower’s financial condition and loan repayment capabilities.
+Table 18:
+Analysis of Changes in Nonaccrual Loans
+We considered the risk of losses on nonaccrual loans in developing our allowance for loan losses. We believe exposure to losses on nonaccrual loans is mitigated by the following factors at March 31, 2025:
+•
+97% of total commercial nonaccrual loans were secured, predominantly by real estate.
+•
+61% of total commercial nonaccrual loans were current on interest and 49% of commercial nonaccrual loans were current on both principal and interest, but were on nonaccrual status because the full or timely collection of interest or principal had become uncertain.
+•
+99% of total consumer nonaccrual loans were secured, of which 96% were secured by real estate and 98% had an LTV ratio of 80% or less.
+•
+$431 million of the $533 million of consumer loans in bankruptcy or discharged in bankruptcy, and classified as nonaccrual, were current.
+Risk Management – Credit Risk Management
+(continued)
+NET CHARGE-

@@ -1,0 +1,17 @@
+revenues for any of fiscal 2024, 2023 or 2022:
+(1)
+Long-lived assets exclude goodwill, intangible assets, non-marketable investments and deferred taxes, which are not allocated to specific geographic locations as it is impracticable to do so.
+15.
+EARNINGS PER SHARE
+Basic earnings per share is computed by dividing net income for the period by the weighted-average number of common shares outstanding during the period. Diluted earnings per share is computed by dividing net income for the period by the weighted-average number of common shares outstanding during the period, plus the dilutive effect of outstanding restricted stock-based awards, stock options and shares issuable under the Purchase Plan as applicable pursuant to the treasury stock method. The following table sets forth the computation of basic and diluted earnings per share:
+(1)
+These weighted shares relate to anti-dilutive restricted service based stock-based awards as calculated using the treasury stock method and contingently issuable shares pursuant to PSOs arrangements. Such shares could be dilutive in the future. See Note 12 for information regarding the exercise prices of our outstanding, unexercised stock options.
+16.
+LEGAL PROCEEDINGS
+Derivative Litigation Concerning Oracle’s NetSuite Acquisition
+On May 3 and July 18, 2017, two alleged stockholders filed separate derivative lawsuits in the Court of Chancery of the State of Delaware, purportedly on Oracle’s behalf. Thereafter, the court consolidated the two derivative cases and designated the July 18, 2017 complaint as the operative complaint. The consolidated lawsuit was brought against all the then-current members and one former member of our Board of Directors, and Oracle as a nominal defendant. Plaintiff alleged that the defendants breached their fiduciary duties by causing Oracle to agree to purchase NetSuite Inc. at an excessive price. The complaint sought (and the operative complaint continues to seek) declaratory relief, unspecified monetary damages (including interest) and attorneys’ fees and costs. The defendants filed a motion to dismiss, which the court denied on March 19, 2018.
+103
+Table of Contents
+Index to Financial Statements
+On May 4, 2018, our Board of Directors established a Special Litigation Committee (SLC) to investigate the allegations in this derivative action. Three non-employee directors served on the SLC. On August 15, 2019, the SLC filed a letter with the court, stating that the SLC believed that plaintiff should be allowed to proceed with the derivative litigation on behalf of Oracle. After the SLC advised the Board that it had fulfilled its duties and obligations, the Board withdrew the SLC’s authority, except that the SLC maintained certain authority to respond to discovery requests in the litigation.
+After plaintiff filed the July 18, 2017 complaint, an additional plaintiff joined the case. Plaintiffs filed several amended complaints, and filed their most recent amended complaint on December 11,

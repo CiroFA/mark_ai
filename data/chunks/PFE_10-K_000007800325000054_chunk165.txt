@@ -1,0 +1,58 @@
+Derived Intangible Income deduction in 2022 is mainly the result of the TCJA requirement to capitalize R&D costs for tax years beginning after December 31, 2021.
+(e)
+Includes the impact of U.S. state and local taxes and changes in the state valuation allowances including those related to the acquisition of Seagen.
+(f)
+Includes changes in interest related to our uncertain tax positions not included in the reconciling item called “Tax settlements and resolution of certain tax positions”.
+(g)
+All other, net is primarily due to routine business operations.
+C. Deferred Taxes
+^
+The deferred tax assets and liabilities associated with global intangible low-taxed income are included in the relevant categories. See
+Note 1Q
+.
+(a)
+The increase in net deferred tax assets in 2024 is primarily related to temporary differences associated with the timing of accruals recorded in the ordinary course of business.
+(b)
+The increase in net deferred tax assets in 2024 is primarily due to measurement period adjustments of inventories related to Seagen. See
+Note
+2A
+.
+(c)
+The decrease in net deferred tax liabilities in 2024 is primarily due to amortization of intangible assets and certain impairment charges, as well as the measurement period adjustments of intangible assets related to Seagen.
+(d)
+The decrease in net deferred tax assets in 2024 is primarily due to changes in pension and postretirement benefit obligations, as well as the performance of plan assets reported in the period. See
+Note 11
+.
+(e)
+The increase in deferred tax assets in 2024 is primarily related to the TCJA requirement to capitalize R&D costs for tax years beginning after December 31, 2021.
+(f)
+The amounts in 2024 and 2023 are reduced for unrecognized tax benefits of $
+575
+million and $
+1.3
+billion, respectively, where we have net operating loss carryforwards, similar tax losses, and/or tax credit carryforwards that are available, under the tax law of the applicable jurisdiction, to settle any additional income taxes that would result from the disallowance of a tax position.
+(g)
+In 2024,
+Noncurrent deferred tax assets and other noncurrent tax assets
+($
+6.6
+billion), and
+Noncurrent deferred tax liabilities
+($
+2.1
+billion). In 2023,
+Noncurrent deferred tax assets and other noncurrent tax assets
+($
+1.8
+billion), and
+Noncurrent deferred tax liabilities
+($
+640
+million).
+(h)
+Excludes indefinite- and definite-lived deferred tax assets for certain non-U.S. tax losses and interest carryforwards and U.S. state general business credits,  totaling $
+11.3
+billion and $
+11.1
+billion for 2024 and 2023 respectively, given that management has determined based on applicable accounting rules that it is remote that these tax attributes will be utilized.
+We have carryforwards, primarily related to net operating and capital losses, general business credits, foreign tax credits and charitable contributions, which are available to reduce future U.S. federal and/or state, as well as international, income taxes payable with

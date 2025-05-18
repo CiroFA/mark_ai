@@ -1,0 +1,41 @@
+Arrangement
+On January 3, 2022, we entered into an agreement (the “Crown Agreement”) with CCI. The Crown Agreement extends the current term of the leasebacks by up to
+12
+years and modifies the leaseback payments for both the Existing CCI Tower Lease Arrangements and the Acquired CCI Tower Lease Arrangements. As a result of the Crown Agreement, there was an increase in our financing obligation as of the effective date of the Crown Agreement of approximately $
+1.2
+billion, with a corresponding decrease to Other long-term liabilities associated with unfavorable contract terms. The modification resulted in a revised interest rate under the effective interest method for the tower obligations:
+11.6
+% for the Existing CCI Tower Lease Arrangements and
+5.3
+% for the Acquired CCI Tower Lease Arrangements. There were no changes made to either of our master prepaid leases with CCI.
+The following table summarizes the balances associated with both of the tower arrangements on our Consolidated Balance Sheets:
+Future minimum payments related to the tower obligations are approximately $
+380
+million for the 12-month period ending December 31, 2025, $
+788
+million in total for both of the 12-month periods ending December 31, 2026 and 2027, $
+835
+million in total for both of the 12-month periods ending December 31, 2028 and 2029, and $
+3.7
+billion in total thereafter.
+We are contingently liable for future ground lease payments through the remaining term of the CCI Lease Sites and the Master Lease Sites. These contingent obligations are not included in Operating lease liabilities, as any amount due is contractually owed by CCI based on the subleasing arrangement. Under the arrangement, we remain primarily liable for ground lease
+91
+Index for Notes to the Consolidated Financial Statements
+payments on approximately
+900
+sites and have included lease liabilities of $
+251
+million in our Operating lease liabilities as of December 31, 2024.
+Note 11 – Revenue from Contracts with Customers
+Disaggregation of Revenue
+We provide wireless communications services to
+three
+primary categories of customers:
+•
+Postpaid customers generally include customers who are qualified to pay after receiving wireless communications services utilizing phones, High Speed Internet, mobile internet devices (including tablets and hotspots), wearables, DIGITS and other connected devices (including SyncUP and IoT);
+•
+Prepaid customers generally include customers who pay for wireless communications services in advance; and
+•
+Wholesale customers include Machine-to-Machine and Mobile Virtual Network Operator customers that operate on our network but are managed by wholesale partners.
+Postpaid service revenues, including postpaid phone revenues and postpaid other revenues, were as follows:
+The balances presented in each revenue line item on our Consolidated Statements of Comprehensive Income represent categories of revenue from contracts with customers disaggregated by type of product and service. Postpaid

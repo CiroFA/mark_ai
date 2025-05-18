@@ -1,0 +1,41 @@
+represent the discounted future settlement amounts based on current market rates.
+Derivative Instruments Designated as Hedges
+The Company has a hedging program to mitigate the impact of foreign currency fluctuations on future cash flows and earnings. Under this program, the Company has entered into foreign exchange forward contracts and options with certain financial institutions and designated those hedges as cash flow hedges. The Company is hedging cash flows associated with payroll and facility costs.
+The fair values of outstanding derivative instruments were as follows:
+Unrealized gains and losses related to changes in the fair value of foreign exchange forward contracts and options designated as cash flow hedges were as follows:
+These unrealized gains and losses were included in "Accumulated other comprehensive (loss) income", "Other current assets" and "Accounts payable and accrued liabilities" in the consolidated balance sheets. These amounts are expected to be reclassified into earnings over the next twelve months.
+Realized losses related to the maturity of foreign exchange forward contracts and options designated as cash flow hedges were as follows:
+95
+Table of Contents
+Derivative Instruments Not Designated as Hedges
+The Company holds an investment option to purchase
+15,743,174
+of Series B common shares of Klaviyo, Inc. at an exercise price of $
+88.93
+with an expiration date of July 28, 2030. The options are fair valued quarterly under Level 3 of the fair value hierarchy as certain unobservable inputs are used within the Black-Scholes model as well as a discount for lack of marketability. The fair value of the options as of December 31, 2024, utilizing a discount for lack of marketability of
+29
+%, was $
+204
+million (December 31, 2023 -
+31
+% and $
+122
+million) and is presented within "Equity and other investments" in the consolidated balance sheets. The Company recognized an unrealized gain of $
+82
+million for the year ended December 31, 2024 (December 31, 2023 - unrealized gain of $
+68
+million) and is presented as a component of "Net unrealized (loss) gain on equity and other investments".
+7.
+Trade and Other Receivables
+Trade receivables and unbilled revenues, net of allowance for credit losses, were as follows:
+Unbilled revenues represent amounts not yet billed related to partner referral fees, subscription fees for Plus merchants, shipping charges and transaction fees as of the consolidated balance sheet date.
+The allowance for credit losses reflects the Company's best estimate of probable losses inherent in the unbilled revenues and trade receivables accounts. The Company determined the provision based on known troubled accounts, historical experience, supportable forecasts of collectibility and other currently available evidence.
+Activity in the allowance for credit losses was as follows:
+96
+Table of Contents
+8.
+Loans and Merchant Cash Advances
+(1)
+Included in the loans receivable gross balance as of December 31, 2024 is $
+15
+million

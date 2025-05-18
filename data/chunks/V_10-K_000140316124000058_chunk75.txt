@@ -1,0 +1,17 @@
+with stated maturities of less than one year from the balance sheet date, or investments that the Company intends to sell within one year, are classified as current assets, while all other securities are classified as non-current assets. Unrealized gains and losses are reported in other comprehensive income (loss). The specific identification method is used to calculate realized gain or loss on the sale of securities, which is recorded in investment income (expense) and other on the consolidated statements of operations. Interest income is recognized when earned and included in investment income (expense) and other on
+the consolidate
+d statements of operations.
+The Company evaluates its debt securities for impairment on an ongoing basis. When there has been a decline in fair value of a debt security below the amortized cost basis, the Company recognizes an impairment in investment income (expense) and other on the consolidated statements of operations if it has the intent to sell the security or it is more likely than not that the Company will be required to sell the security before recovery of the amortized cost basis. In addition, if the Company identifies that the decline in fair value has resulted from credit losses, the credit loss component is recognized as an allowance on the consolidated balance sheets and
+in
+investment income (expense) and other o
+n the consolidat
+ed statements of operations. The non-credit loss component remains in accumulated other comprehensive income (loss) until realized from a sale or subsequent impairment.
+Non-marketable equity securities.
+The Company’s non-marketable equity securities, which are reported in other assets on the consolidated balance sheets, include investments in privately held entities without readily determinable fair values. All gains and losses on non-marketable equity securities are recognized in inv
+estment income (expense) and other
+on the consolidated statements of operations.
+The Company applies the equity method of accounting when it does not have control but has the ability to exercise significant influence over the entity. Under the equity method, the Company’s share of each entity’s profit or loss is recognized
+in investment income (expense) and other on the co
+nsolidated statements of operations.
+The Company applies the fair value measurement alternative for equity securities in certain other entities when it does not have the ability to exercise significant influence over the entity. The Company adjusts the carrying value of these equity securities to fair value when orderly transactions for identical or similar investments of the same issuer are observable.
+The Company regularly reviews investments accounted for under the equity method and the fair value measurement alternative for possible impairment, which generally involves an analysis of the facts and changes in circumstances influencing the investment, expectations of the entity’s cash flows and capital needs, and the viability

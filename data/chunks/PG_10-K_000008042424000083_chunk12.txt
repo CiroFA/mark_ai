@@ -1,0 +1,84 @@
+gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-07-01
+2024-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-07-01
+2024-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-07-01
+2024-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2024-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2024-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2024-06-30
+0000080424
+country:AR
+srt:ScenarioForecastMember
+2024-07-01
+2024-09-30
+0000080424
+2024-04-01
+2024-06-30
+(Mark one)
+[x]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+TRUE
+For the Fiscal Year Ended
+June 30
+, 2024
+OR
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+False
+For the transition period from
+to
+Commission File No.
+1-434
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+þ
+No
+o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.    Yes
+o
+No
+þ
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+þ
+No
+o
+Indicate by check mark whether the

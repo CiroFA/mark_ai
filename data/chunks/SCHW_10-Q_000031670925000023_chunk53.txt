@@ -1,0 +1,41 @@
+included for a fair statement of this interim financial information.
+These condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto, included in Schwab’s 2024 Form 10-K.
+Reclassifications
+: Beginning in the fourth quarter of 2024, receivables from brokers, dealers, and clearing organizations and payables to brokers, dealers, and clearing organizations are presented separately from other assets and accrued expenses and other liabilities, respectively, in the consolidated balance sheets. Correspondingly, interest expense related to securities lending is now presented as interest expense on payables to brokers, dealers, and clearing organizations. Prior period amounts have been reclassified to reflect these changes. Corresponding presentation changes have been made to the condensed consolidated statements of cash flows and related notes also impacted.
+The significant accounting policies are included in Item 8 – Note 2 in the 2024 Form 10-K. There have been no significant changes to these accounting policies during the first three months of 2025.
+2.
+New Accounting Standards
+Adoption of New Accounting Standards
+New Accounting Standards Not Yet Adopted
+- 32 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Ratios, or as Noted)
+(Unaudited)
+3.
+Revenue Recognition
+Disaggregation of Schwab’s revenue by major source is as follows:
+(1)
+Beginning in the fourth quarter of 2024, this line item includes interest expense related to securities loaned. Prior period amounts have been reclassified to reflect this change. See Note 1 for additional information.
+For a summary of revenue provided by our reportable segments, see Note 18. The recognition of revenue is not impacted by the operating segment in which revenue is generated.
+Contract balances
+: Receivables from contracts with customers within the scope of Accounting Standards Codification (ASC) 606
+Revenue From Contracts With Customers
+(ASC 606), are included in other assets on the condensed consolidated balance sheets, and totaled $
+752
+million and $
+694
+million at March 31, 2025 and December 31, 2024, respectively.
+The Company had net contract assets of $
+210
+million and $
+216
+million at March 31, 2025 and December 31, 2024, respectively, related to the buy down of fixed-rate obligation amounts pursuant to the 2023 IDA agreement. These amounts are included in other assets on the condensed consolidated balance sheets and are amortized on a straight-line basis over the remaining contractual term as a reduction to bank deposit account fee revenue. For additional discussion of the 2023 IDA agreement, see Note 10.
+- 33 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Ratios, or as Noted)
+(Unaudited)
+Unsatisfied performance obligations
+:
+We do not have any

@@ -1,0 +1,25 @@
+liquidation value is $
+6.82
+per share.
+In 1991, the ESOP borrowed an additional $
+1.0
+billion. The proceeds were used to purchase Series B ESOP Convertible Class A Preferred Stock to fund a portion of retiree health care benefits. These shares, net of the ESOP's debt, are considered plan assets of the other retiree benefits plan discussed above. The original borrowings of $
+1.0
+billion were repaid in 2021. Debt service requirements were funded by preferred stock dividends, cash contributions and advances provided by the Company, of
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+58        The Procter & Gamble Company
+which $
+737
+are outstanding at June 30, 2024. Each share is convertible at the option of the holder into one share of the Company's common stock. The dividend for the current year was equal to the common stock dividend of $
+3.83
+per share. The liquidation value is $
+12.96
+per share.
+Our ESOP accounting practices are consistent with current ESOP accounting guidance, including the permissible continuation of certain provisions from prior accounting guidance. ESOP debt, which was guaranteed by the Company, was recorded as debt with an offset to the Reserve for ESOP debt retirement, which is presented within Shareholders' equity. Advances to the ESOP by the Company are recorded as an increase in the Reserve for ESOP debt retirement. Interest incurred on the ESOP debt was recorded as Interest expense. Dividends on all preferred shares are charged to Retained earnings.
+The series A and B preferred shares of the ESOP are allocated to employees based on debt service requirements.
+The number of preferred shares outstanding at June 30 was as follows:
+For purposes of calculating diluted net earnings per common share, the preferred shares held by the ESOP are considered converted from inception.
+NOTE 9
+RISK MANAGEMENT ACTIVITIES AND FAIR VALUE MEASUREMENTS
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates, currency exchange rates and commodity prices. We evaluate exposures on a centralized basis to take advantage of natural exposure correlation and netting. To the extent we choose to manage volatility associated with the net exposures, we enter into various financial transactions that we account for using the applicable accounting guidance for derivative instruments and hedging activities. These financial transactions are governed by our policies covering acceptable counterparty exposure, instrument types and other hedging practices.
+If the Company elects to do so and if the instrument meets certain specified accounting criteria, management designates derivative instruments as cash flow hedges, fair value hedges or net investment hedges. We record derivative instruments at fair value and the accounting for changes in the fair value depends on the intended use of the derivative, the resulting designation and the effectiveness of the

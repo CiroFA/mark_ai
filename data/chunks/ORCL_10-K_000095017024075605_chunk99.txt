@@ -1,0 +1,28 @@
+accordance with ASC 730,
+Research and Development
+. Software development costs required to be capitalized under ASC 985-20,
+Costs of Software to be Sold, Leased or Marketed
+, and under ASC 350-40,
+Internal-Use Software
+,
+were not material to our consolidated financial statements in fiscal 2024, 2023 and 2022.
+Acquisition Related and Other Expenses
+Acquisition related and other expenses primarily consist of personnel related costs for transitional and certain other employees, certain business combination adjustments, including adjustments after the measurement period has ended, and certain other operating items, net. For fiscal 2022, acquisition related and other expenses included certain litigation related charges.
+Non-Operating Expenses, net
+Non-operating expenses, net consists primarily of interest income, net foreign currency exchange losses, the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Corporation Japan), net losses related to equity investments, including losses attributable to equity method investments (primarily Ampere) and net other income and expenses, including net unrealized gains and losses from our investment portfolio related to our deferred compensation plan and non-service net periodic pension income and losses.
+Income Taxes
+We account for income taxes in accordance with ASC 740,
+Income Taxes
+(ASC 740). Deferred income taxes are recorded for the expected tax consequences of temporary differences between the tax bases of assets and liabilities for financial reporting purposes and amounts recognized for income tax purposes. We record a valuation allowance to reduce our deferred tax assets to the amount of future tax benefit that is more likely than not to be realized.
+A two-step approach is applied pursuant to ASC 740 in the recognition and measurement of uncertain tax positions taken or expected to be taken in a tax return. The first step is to determine if the weight of available evidence indicates that it is more likely than not that the tax position will be sustained in an audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is
+80
+Table of Contents
+Index to Financial Statements
+more than 50% likely to be realized upon ultimate settlement. We recognize interest and penalties related to uncertain tax positions in our provision for income taxes line of our consolidated statements of operations.
+A description of our accounting policies associated with tax related contingencies and valuation allowances assumed as a part of a business combination is provided under “Business Combinations” above.
+Recent Accounting Pronouncements
+Segment Reporting
+:
+In November 2023, the FASB issued ASU 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+(ASU 2023-07), which enhances the disclosures required for operating

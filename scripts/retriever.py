@@ -42,7 +42,7 @@ def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2):
             continue
         meta = metadata[idx]
         fname = meta["filename"]
-        with open(meta["path"], "r", encoding="utf-8") as f:
+        with open(os.path.join(ROOT_DIR, meta["path"]), "r", encoding="utf-8") as f:
             text = f.read()
 
         chunk = {

@@ -1,0 +1,33 @@
+revenue and expenses during the reporting period. Actual results could differ materially from our estimates. On an on-going basis, we evaluate our estimates, including those related to accounts receivable, cash equivalents and marketable securities, goodwill, income taxes, inventories and product purchase commitments, investigation and settlement costs, litigation, other contingencies, property, plant, and equipment, revenue recognition, and stock-based compensation. These estimates are based on historical facts and other assumptions that we believe are reasonable.
+Recently Issued Accounting Pronouncements
+Recent Accounting Pronouncements Not Yet Adopted
+In November 2023, the Financial Accounting Standards Board, or FASB, issued a new accounting standard requiring disclosures of significant expenses in operating segments. We expect to adopt this standard in our fiscal year 2025 annual report. We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
+In December 2023, the FASB issued a new accounting standard which includes new and updated income tax disclosures, including disaggregation of rate reconciliation and income taxes paid. We expect to adopt this standard in our fiscal year 2026 annual report. We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
+In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory,
+9
+NVIDIA CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable. We expect to adopt this standard in our fiscal year 2028 annual report. We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
+Note 2 -
+Leases
+Our lease obligations primarily consist of operating leases for our headquarters' campus and domestic and international offices and data centers, with lease periods expiring between fiscal years 2025 and 2036.
+Future minimum lease obligations under our non-cancelable lease agreements as of October 27, 2024 were as follows:
+Between the fourth quarter of fiscal year 2025 and fiscal year 2027, we expect to commence leases with future obligations of $
+4.2
+billion primarily of data center and office operating leases, with lease terms of
+1.5
+to
+15.5
+years.
+Operating lease expenses were $
+92
+million and $
+69
+million for the third quarter, and $
+258
+million and $
+195
+million for the first nine months, of fiscal years 2025 and 2024, respectively. Short-term and variable lease expenses for the third quarter and first nine months of fiscal years 2025 and 2024 were not significant.
+Other information related to leases was as follows:
+As of October 27, 2024, our operating

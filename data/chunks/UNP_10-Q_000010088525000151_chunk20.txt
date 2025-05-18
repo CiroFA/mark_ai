@@ -1,0 +1,19 @@
+of
+Contents
+Railroad performance measures are included in the table below:
+[a]
+As reported to the STB.
+Gross and revenue ton-miles
+– Gross ton-miles are calculated by multiplying the weight of loaded and empty freight cars by the number of miles hauled. Revenue ton-miles are calculated by multiplying the weight of freight by the number of rate miles. Both gross ton-miles and revenue ton-miles increased 3%, in the first quarter of 2025 compared to 2024, while carloadings increased 7% in the first quarter of 2025 compared to 2024. Changes in business mix drove the year-over-year variances between gross ton-miles, revenue ton-miles, and carloads due to increased international intermodal shipments that are generally lighter.
+Freight car velocity
+– Freight car velocity measures the average daily miles per car on our network. The two key drivers of this metric are the speed of the train between terminals (average train speed) and the time a rail car spends at the terminals (average terminal dwell time). Freight car velocity increased 6% in the first quarter of 2025 compared to 2024 driven by a 6% improvement in terminal dwell.
+Locomotive productivity
+– Locomotive productivity is gross ton-miles per average daily locomotive horsepower available. Locomotive productivity increased 1% in the first quarter of 2025 compared to 2024 driven by improved network fluidity and asset utilization despite the increase in active fleet to handle the additional volumes.
+Train length
+– Train length is the average maximum train length on a route measured in feet. Our train length increased 2% in the first quarter of 2025 compared to 2024 due to train length improvement initiatives and increases in international intermodal shipments.
+Service performance index (SPI)
+– SPI is a ratio of the service customers are currently receiving relative to the best monthly performance over the last three years. Measuring our performance relative to a historical benchmark demonstrates our focus on continuously improving service for our customers. Our SPI is calculated for intermodal and manifest products. Intermodal SPI was essentially flat in the first quarter of 2025 compared to 2024, while handling 18% more volume. Manifest SPI improved 6 points in the first quarter of 2025 compared to 2024 driven by improved network fluidity.
+Workforce productivity
+– Workforce productivity is average daily car miles per employee. Workforce productivity improved 9% in the first quarter of 2025 as average daily car miles increased 6% and employees decreased 3% compared to 2024. In the first quarter of 2025, we continued to adjust our active train, engine, and yard (TE&Y) workforce to enable responsiveness in an ever-changing demand and operating environment. As a result, we were able to handle 7% more volume with 1% fewer active TE&Y employees.
+Operating ratio
+– Operating ratio is our operating expenses reflected as a percentage of operating revenues. Our operating ratio of 60.7% for the first quarter

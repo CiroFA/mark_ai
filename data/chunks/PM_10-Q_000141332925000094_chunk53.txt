@@ -1,0 +1,18 @@
+initial order from the Ontario Superior Court of Justice granting it protection under the Companies’ Creditors Arrangement Act ("CCAA"), which is a Canadian federal law that permits a Canadian business to restructure its affairs while carrying on its business in the ordinary course with minimal disruption to its customers, suppliers and employees. The administration of the CCAA process, principally relating to the powers provided to the court under the CCAA and the oversight provided by the court appointed monitor, removed certain elements of control of the business from both PMI and RBH. As a result, PMI determined that it no longer had a controlling financial interest over RBH as defined in ASC 810 (Consolidation), and deconsolidated RBH as of the date of the CCAA filing.
+Since the deconsolidation of RBH on March 22, 2019, PMI has accounted for its continuing investment in RBH in accordance with ASC 321 (Investments-Equity Securities) as an equity security, without readily determinable fair value, and recorded its continuing investment in RBH at fair value of $
+3,280
+million, which included the estimated settlement amount at the date of deconsolidation, within equity investments.
+On October 17, 2024, the court-appointed mediator and monitor in the CCAA proceedings filed a proposed plan of compromise and arrangement (“Proposed Plan”) setting forth, among other things, certain terms of a proposed comprehensive resolution of Canadian tobacco claims and related litigation. Under the resolution contemplated by the Proposed Plan, RBH, Imperial Tobacco Canada Limited ("ITL") and JTI Macdonald Corp ("JTIM") would pay an aggregate global settlement amount of CAD
+32.5
+billion (approximately $
+23.6
+billion). A significant determinative factor in the analysis of impairment indicators was the issue of allocation of CAD
+32.5
+billion aggregate settlement amount among RBH, ITL, and JTIM which remained unresolved at the time of filing.
+On January 24, 2025, RBH filed an objection to approval of the Proposed Plan with the CCAA court (for further details, see Note 9.
+Contingencies
+). Developments, including the positions taken by RBH in this objection and the positions taken by other parties in related filings narrowed the range of possible outcomes with respect to the allocation of the aggregate settlement amount of CAD
+32.5
+billion among RBH, ITL, and JTIM, which was determined to be an indicator that PMI’s investment in RBH may be impaired. Although there remained some uncertainty as to the final terms of the Proposed plan, PMI evaluated its investment in RBH for potential impairment and concluded that the estimated fair value of its investment in RBH was lower than its carrying value. As a result, PMI performed a quantitative valuation of its investment in RBH as of December 31, 2024, and recorded a non-cash impairment charge of $
+2,316
+million in the consolidated statement of earnings in the fourth quarter and for the year ended December 31, 2024, as a

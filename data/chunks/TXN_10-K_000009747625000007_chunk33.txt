@@ -1,0 +1,15 @@
+information officer has primary oversight of material risks from cybersecurity threats. Our chief information officer is the senior vice president responsible for the Information Technology Solutions (ITS) organization and for information protection. Our chief information officer has more than 25 years of experience across various engineering, business and management roles, including serving as the vice president of the design and manufacturing ITS organization, leading the development and implementation of information technology strategies and roadmaps for manufacturing automation.
+Our chief information security officer reports to our chief information officer.
+Our chief information security officer has more than 15 years of experience working in information technology-related roles, a degree in Information Technology, and Global Information Assurance Certifications in Security Essentials (GSEC) as an Intrusion Analyst (GCIA) and as a Penetration Tester (GPEN).
+Our chief information officer and chief information security officer assess our cybersecurity readiness through internal assessment tools as well as third-party control tests, vulnerability assessments, audits and evaluation against industry standards. We have governance and compliance structures that are designed to elevate issues relating to cybersecurity to our chief information officer and chief information security officer, such as potential threats or vulnerabilities. We also employ various defensive and continuous monitoring techniques using recognized industry frameworks and cybersecurity standards.
+Our chief information officer meets with the audit committee periodically to review our information technology systems and discuss key cybersecurity risks. In addition, the chief financial officer reviews with the audit committee at least annually our global enterprise risk management program, which includes cybersecurity risks, and is also reported to the board
+.
+15
+ITEM 2. Properties
+Our principal executive offices are located at 12500 TI Boulevard, Dallas, Texas. The following table indicates the general location of our principal manufacturing and design operations and the reportable segments that make major use of them. Except as otherwise indicated, we own these facilities.
+*
+Leased.
+**    Portions of the facilities are leased and owned. This may include land leases.
+Our facilities in the United States contained approximately 17.6 million square feet at December 31, 2024, of which approximately 0.5 million square feet were leased. Our facilities outside the United States contained approximately 12.7 million square feet at December 31, 2024, of which approximately 2.3 million square feet were leased.
+At the end of 2024, we occupied substantially all of the space in our facilities.
+Leases covering our currently occupied leased facilities expire at varying dates, generally within the next five years. We believe our current properties are suitable and adequate for their intended

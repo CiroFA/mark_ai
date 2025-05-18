@@ -1,0 +1,47 @@
+to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 5.
+Goodwill and Other Intangible Assets, net:
+Goodwill
+The movements in goodwill were as follows:
+As discussed in Note 1.
+Background and Basis of Presentation
+, following the sale of Vectura Group Ltd. on December 31, 2024, we updated our segment reporting in January 2025 by including the Wellness & Healthcare balance in the Europe segment. As a result, the December 31, 2024 goodwill balance for the Europe segment in the table above includes the reclassification of the former Wellness & Healthcare segment.
+At March 31, 2025, goodwill primarily reflects PMI’s acquisitions of Swedish Match AB and Fertin Pharma A/S, as well as acquisitions in Indonesia, the Philippines, Egypt, Greece, Mexico, and Serbia.
+Other Intangible Assets
+Details of other intangible assets were as follows:
+Non-amortizable intangible assets substantially consist of the
+ZYN
+trademarks and other trademarks related to acquisitions in Indonesia and Mexico, as well as the tobacco manufacturing license associated with the preliminary purchase price allocation of PMI's acquisition in Egypt in the second quarter of 2024 (see Note 2.
+Acquisitions and Divestitures
+for further details). The increase since December 31, 2024, was mainly due to currency movements of $
+117
+million.
+15
+Table of Contents
+Philip Morris International Inc. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The increase in the gross carrying amount of amortizable intangible assets from December 31, 2024, was primarily due to currency movements of $
+186
+million.
+The change in the accumulated amortization from December 31, 2024, was mainly due to the 2025 amortization of $
+246
+million, combined with currency movements of $
+39
+million. The amortization of intangibles for the three months ended March 31, 2025 was recorded in cost of sales ($
+5
+million) and in marketing, administration and research costs ($
+241
+million) on PMI's condensed consolidated statements of earnings.
+Amortization expense for each of the next five years is estimated to be approximately $
+994
+million or less, assuming no additional transactions occur that require the amortization of intangible assets. This amount includes amortization of
+IQOS
+commercialization rights in the U.S. (see Note 2.
+Acquisitions and Divestitures
+).
+Note 6.
+Financial Instruments:
+Overview
+PMI operates globally with manufacturing and sales facilities in various locations around the world and is exposed to risks such as changes in foreign currency exchange rates and interest rates. As a result, PMI uses deliverable and non-deliverable forward foreign exchange contracts, foreign currency swaps and foreign currency options, (collectively referred to as "foreign exchange contracts"), and interest rate contracts to mitigate its exposure to changes in foreign currency exchange and interest rates related to net investments in foreign operations, third-party and intercompany actual and

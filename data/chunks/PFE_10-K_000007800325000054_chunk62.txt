@@ -1,0 +1,18 @@
+clinical research, data privacy and information security, among others. These laws and regulations may require administrative guidance for implementation, and a failure to comply could subject us to legal and/or administrative actions. Enforcement measures may include substantial fines and/or penalties, orders to stop non-compliant activities, criminal charges, warning letters, product recalls or seizures, delays in product approvals, exclusion from participation in government programs or contracts as well as limitations on conducting business in applicable jurisdictions, and could result in harm to our reputation and business. See
+Note 16A
+.
+Compliance with these laws and regulations is costly, and requires significant technical expertise and capital investment to ensure compliance.
+In the U.S.
+Drug and Biologic Regulation
+.
+The FDA, pursuant to the FFDCA, the Public Health Service Act and other federal statutes and regulations, extensively regulates pre- and post-marketing activities related to our biopharmaceutical products and devices. The statutes and regulations govern areas such as safety and efficacy, clinical trials, advertising and promotion, quality control, manufacturing, labeling, distribution, post-marketing safety surveillance and reporting, and record keeping. Other U.S. federal agencies, including the DEA, may also regulate certain of our products and activities.
+For a biopharmaceutical company to market a drug or a biologic product, including vaccines, the FDA must evaluate whether the product is safe and effective for its intended use. Absent statutory exclusivity for a competing product, if the FDA determines that the drug or biologic is safe and effective, the FDA generally will approve the product’s NDA or BLA (or supplemental NDA or supplemental BLA), as appropriate.
+A drug or biologic may be subject to post marketing commitments, which are studies or clinical trials that the product sponsor agrees to conduct, or post marketing requirements, which are studies or clinical trials that are required as a condition of approval. In addition, we are also required to report adverse events and comply with cGMPs (the FDA regulations that govern all aspects of manufacturing quality for pharmaceuticals) and the Drug Supply Chain Security Act (the law that, among other things, sets forth requirements related to product tracing, product identifiers and verification for manufacturers, wholesale distributors, third-party logistics providers, re-packagers and dispensers to facilitate the tracing of product through the pharmaceutical distribution supply chain), as well as advertising and promotion regulations. See the
+Item 1A. Risk Factors
+—
+Development, Regulatory Approval and Marketing of Products
+and
+—
+Post-Authorization/Approval Data
+sections.
+We are also responsible for monitoring, reviewing, and the periodic reporting of adverse drug experience, or pharmacovigilance, including information received from any source, such as commercial

@@ -1,0 +1,16 @@
+stockholder derivative action was filed in the United States District Court for the District of Delaware captioned
+Miao v. Karp, et al.
+, Case No. 1:23-cv-00103-MN, each against certain current and former officers and directors asserting breach of fiduciary duty and related claims relating to the allegations of the securities class action complaints and seek unspecified damages and injunctive remedies under Section 14(a) of the Exchange Act and Delaware law. On August 22, 2023, a stockholder derivative action was filed in the Court of Chancery of the State of Delaware captioned
+Central Laborers’ Pension Fund v. Karp, et al.
+, Case No. 2023-0864 against certain current and former officers and directors asserting breach of fiduciary duty and related claims relating to the allegations of the securities class action complaints and seeks unspecified damages and injunctive relief under Delaware law. On April 25, 2025, the Court dismissed the
+Central Laborers’ Pension Fund
+matter in its entirety under Rule 23.1.
+As of March 31, 2025, the Company was not aware of any currently pending legal matters or claims, individually or in the aggregate, that were expected to have a material adverse impact on its condensed consolidated financial statements.
+Warranties and Indemnification
+The Company generally provides a warranty for its software products and services and a service level agreement (“SLA”) for the Company’s performance of software operations. The Company’s products are generally warranted to perform substantially as described in the associated product documentation during the subscription term or for a period of up to 90 days where the software is hosted by the customer, and the Company includes operations and maintenance (“O&M”) services as part of its subscription and license agreements to support this warranty and maintain the operability of the software. The Company’s services are generally warranted to be performed in a professional manner and by an adequate staff with knowledge about the products. In the event there is a failure of such warranties, the Company generally is obligated to correct the product or service to conform to the warranty provision, or, if the Company is unable to do so, the customer is entitled to seek a refund of the
+13
+Table of contents
+Palantir Technologies Inc.
+Notes to Unaudited Condensed Consolidated Financial Statements
+purchase price of the product and service (generally prorated over the contract term). Due to the absence of historical warranty claims, the Company’s expectations of future claims related to products under warranty continue to be insignificant. The Company has not recorded warranty expense or related accruals as of March 31, 2025 and December 31, 2024.
+The Company generally agrees to indemnify its customers against legal claims that the Company’s software products infringe certain third-party intellectual property rights and accounts for its indemnification obligations. In the event of such a claim,

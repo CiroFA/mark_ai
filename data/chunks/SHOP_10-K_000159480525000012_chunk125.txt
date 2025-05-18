@@ -1,0 +1,32 @@
+31, 2024 and 2023 were as follows:
+(1)
+During the year ended December 31, 2024, the Company identified an observable price change resulting in the remeasurement of a private investment at fair value on a non-recurring basis. The resulting unrealized gains of $
+78
+million were presented as "Net unrealized (loss) gain on equity and other investments" in the consolidated statement of operations and comprehensive income (loss).
+(2)
+During the years ended December 31, 2024 and 2023, the Company identified an observable price change resulting in the remeasurement of private investments at fair value on a non-recurring basis. The resulting unrealized losses were presented as "Net unrealized (loss) gain on equity and other investments" in the consolidated statement of operations and comprehensive income (loss).
+(3)
+Effective September 20, 2023, the Company's investment in Klaviyo, Inc. no longer qualified for the use of the measurement alternative as $
+257
+million of the fair value of the investment became readily determinable. Additionally, the net settlement criteria was met for the Company's investment option to purchase Series B common shares resulting in $
+54
+million of the fair value being accounted for as a derivative.
+As of December 31, 2024, included in the total $
+717
+million of equity and other investments without readily determinable fair values, $
+593
+million was remeasured at fair value and was classified within Level 3 of the fair value measurement hierarchy on a non-recurring basis.
+Equity Method Investment
+The Company holds an equity method investment in Flexport which is presented within "Equity method investment" in the consolidated balance sheets and is carried at the amount of Shopify’s original investment, as adjusted each period for Shopify’s share of the investee’s income or loss and the basis difference amortization, which is the difference between the fair value of our investment in the company and the underlying equity in the net assets of the investee. Results are reported with a one-quarter delay due to the timing of financial information availability from the investee. For the year ended December 31, 2024, our share of the loss in the investee was $
+138
+million (December 31, 2023 - $
+58
+million), and is presented within "Net loss on equity method investment" in the consolidated statement of operations and comprehensive income (loss).
+94
+Table of Contents
+Derivative Instruments and Hedging
+As of December 31, 2024, the Company held foreign exchange forward contracts and options for USD, GBP, AUD and CAD with a total notional value of $
+454
+million (December 31, 2023 - $
+473
+million), to fund a portion of its operations. The fair value of foreign exchange forward contracts and options was based upon Level 2 inputs, which included year-end mid-market quotations for each underlying contract as calculated by the financial institution with which the Company has transacted. The quotations are based on bid/ask quotations and

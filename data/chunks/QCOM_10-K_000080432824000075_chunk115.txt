@@ -1,0 +1,39 @@
+2024, 2023 and 2022, respectively. At September 29, 2024, amortization expense related to other intangible assets, including acquired in-process research and development beginning upon the completion of the underlying projects, is expected to be $
+290
+million, $
+274
+million, $
+187
+million, $
+156
+million and $
+129
+million for each of the five years from fiscal 2025 through 2029, respectively, and $
+208
+million thereafter.
+F-15
+QUALCOMM Incorporated
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Equity Method and Non-marketable Equity Investments.
+The carrying values of our equity method and non-marketable equity investments are recorded in other assets and were as follows (in millions):
+(1)
+Cumulative unrealized gains were $
+370
+million and $
+241
+million at September 29, 2024 and September 24, 2023, respectively. Cumulative unrealized losses, including impairments, were $
+385
+million and $
+335
+million at September 29, 2024 and September 24, 2023, respectively.
+Revenues.
+We disaggregate our revenues by segment (Note 8), by products and services (as presented on our consolidated statements of operations), and for our QCT segment, by revenue stream, which is based on the industry and application in which our products are sold (as presented below). In certain cases, the determination of QCT revenues by industry and application requires the use of certain assumptions. Substantially all of QCT’s revenues consist of equipment revenues that are recognized at a point in time, and substantially all of QTL’s revenues represent licensing revenues that are recognized over time and are principally from royalties generated through our licensees’ sales of mobile handsets.
+QCT revenue streams were as follows (in millions):
+(1)
+Includes revenues from products sold for use in mobile handsets.
+(2)
+Includes revenues from products sold for use in automobiles, including connectivity, digital cockpit and ADAS/AD.
+(3)
+Primarily includes products sold for use in the following industries and applications: consumer (including PCs, tablets, voice and music and XR), edge networking (including mobile broadband and wireless access points) and industrial (including handhelds, retail, tracking and logistics and utilities).
+Revenues recognized from performance obligations satisfied (or partially satisfied) in previous periods generally include certain QCT sales-based royalty revenues related to system software, certain amounts related to QCT customer incentives and QTL royalty revenues recognized related to devices sold in prior periods (including adjustments to prior period royalty estimates, which includes the impact of the reporting by our licensees of actual royalties due) and were as follows (in millions):
+Unearned revenues (which are considered contract liabilities) consist primarily of certain customer contracts for which QCT received fees upfront and QTL license fees for intellectual property with continuing performance obligations (substantially all of which were recognized

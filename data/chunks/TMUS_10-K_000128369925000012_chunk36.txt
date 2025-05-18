@@ -1,0 +1,17 @@
+important to our long-term success. Additionally, as we continue to make significant investments in new technologies and new business areas, we are increasingly dependent on being able to hire and retain technically skilled employees, including those with expertise in AI and machine learning.
+Both external factors, such as fluctuations in economic and industry conditions, changes in U.S. immigration policies, regulatory changes, political forces and the competitive landscape, and internal factors, such as employee tolerance for changes in our corporate culture, organizational changes, limited remote working opportunities, and our compensation programs, may impact our ability to effectively manage our workforce. Further, employee compensation and benefit costs may increase due to inflationary pressures, and if our compensation does not keep up with inflation or that of our competitors’, we may see increased employee dissatisfaction and departures or difficulty in recruiting new employees. If key employees depart or we are unable to recruit and integrate new employees successfully, our business could be negatively impacted.
+System failures and business disruptions may prevent us from providing reliable service, which could materially and adversely affect our reputation and financial condition.
+We rely upon systems and networks – those of third-party suppliers and other providers, in addition to our own – to provide services to our customers. System, network, or infrastructure failures resulting from one of several potential causes may prevent us from providing reliable service or otherwise operate our business. Examples of these risks include:
+•
+physical damage, power surges or outages, equipment failure, or other service disruptions with respect to both our wireless and wireline networks, including those resulting from severe weather, storms, earthquakes, floods, hurricanes, wildfires and other natural disasters, which may occur more frequently or with greater intensity as a result of global climate change, public health crises, terrorist attacks, political instability and volatility and acts of war;
+•
+human error due to factors such as poor change management or policy compliance;
+•
+risks to our access to and use of reliable energy and water;
+•
+hardware or software failures or outages of our business systems or communications network;
+•
+supplier failures or delays; and
+•
+shifts in physical conditions due to climate change, such as sea-level rise or changes in temperature or precipitation patterns, which may impact the operating conditions of our infrastructure or other infrastructure we rely on.
+Such events could cause us to lose customers and revenue, incur expenses, suffer reputational damage, and subject us to fines, penalties, adverse actions or judgments, litigation, or governmental investigations. Remediation costs could include liability for information loss, costs of repairing infrastructure and systems, and/or costs of incentives offered

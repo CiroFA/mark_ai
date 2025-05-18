@@ -1,0 +1,17 @@
+jurisdictions.
+Government Inquiries relating to Biohaven
+In June 2022, the U.S. Department of Justice’s Commercial Litigation Branch and the U.S. Attorney’s Office for the Western District of New York issued a CID to Biohaven. The CID seeks records and information related to, among other things, Biohaven’s engagements with healthcare professionals and co-pay coupons cards prior to Pfizer’s acquisition of Biohaven. In March 2023, the California Department of Insurance issued a subpoena seeking records similar to those requested by the CID. Biohaven is a wholly-owned subsidiary that we acquired in October 2022. We have produced records in response to these requests. In January 2025, Biohaven entered into civil settlement agreements with the U.S., numerous states, and the California Department of Insurance to resolve these matters. Pursuant to these settlement agreements, $
+59.7
+million, plus interest, was paid to the U.S. and participating states, and $
+3.3
+million was paid to the California Department of Insurance. The settlement agreements relate to alleged conduct at Biohaven before Pfizer’s acquisition of the company and do not include an admission of liability by Biohaven.
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+Government Inquiries relating to Xeljanz
+In April 2023, we received a HIPAA subpoena issued by the U.S. Attorney’s Office for the Western District of Virginia, in coordination with the Department of Justice’s Commercial Litigation Branch, seeking records and information related to programs Pfizer sponsored in retail pharmacies relating to Xeljanz. We have produced records pursuant to this request.
+B. Guarantees and Indemnifications
+In the ordinary course of business and in connection with the sale of assets and businesses and other transactions, we often indemnify our counterparties against certain liabilities that may arise in connection with the transaction or that are related to events and activities prior to or following a transaction. If the indemnified party were to make a successful claim pursuant to the terms of the indemnification, we may be required to reimburse the loss. These indemnifications are generally subject to various restrictions and limitations. Historically, we have not paid significant amounts under these provisions and, as of December 31, 2024, the estimated fair value of these indemnification obligations is not material to Pfizer.
+In addition, in connection with our entry into certain agreements and other transactions, our counterparties may be obligated to indemnify us. For example, our global agreement with BioNTech to co-develop a mRNA-based coronavirus vaccine program aimed at preventing COVID-19 infection includes certain indemnity provisions pursuant to which each of BioNTech and Pfizer has agreed to indemnify the other for certain liabilities that may arise in connection with certain third-party claims relating to Comirnaty.
+See
+Note 7D
+for information on Pfizer

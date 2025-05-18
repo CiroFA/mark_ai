@@ -1,0 +1,37 @@
+accordance with the contracts and applicable law. Our credit risk monitoring activities include managing the amount of commitments, both to individual customers and in total, and the size and maturity structure of these commitments. We do not recognize an ACL for commitments that are unconditionally cancellable at our discretion.
+We issue commercial letters of credit to assist customers in purchasing goods or services, typically for international trade. At March 31, 2025, and December 31, 2024, we had $
+945
+million and $
+968
+million, respectively, of outstanding issued commercial letters of credit. See Note 14 (Guarantees and Other Commitments) for additional information on issued standby letters of credit.
+We may be a fronting bank, whereby we act as a representative for other lenders, and advance funds or provide for the issuance of letters of credit under syndicated loan or letter of credit agreements. Any advances are generally repaid in less than a week and would normally require default of both the customer and another lender to expose us to loss.
+The contractual amount of our unfunded credit commitments, including unissued letters of credit, is summarized in Table 5.4. The table is presented net of commitments syndicated to others, including the fronting arrangements described above, and excludes issued letters of credit and discretionary amounts where our approval or consent is required prior to any loan funding or commitment increase.
+Table 5.4:
+Unfunded Credit Commitments
+(1)
+Includes lines of credit totaling
+$
+21.0
+billion
+and $
+22.5
+billion as of
+March 31, 2025,
+and December 31, 2024, respectively.
+Allowance for Credit Losses
+Table 5.5 presents the ACL for loans, which consists of the allowance for loan losses and the allowance for unfunded credit commitments. Total net loan charge-offs decreased $
+140
+million from March 31, 2024, due to lower losses in our commercial real estate portfolio driven by the office property type, as well as lower losses in our commercial and industrial, auto and other
+consumer portfolios, partially offset by higher losses in our credit card portfolio. The ACL for loans decreased $
+84
+million from December 31, 2024, reflecting a lower allowance for commercial real estate loans on lower loan balances, partially offset by a higher allowance for commercial and industrial loans.
+Table 5.5:
+Allowance for Credit Losses for Loans
+Note 5:
+Loans and Related Allowance for Credit Losses
+(continued)
+Table 5.6 summarizes the activity in the ACL by our commercial and consumer portfolio segments.
+Table 5.6:
+Allowance for Credit Losses for Loans Activity by Portfolio Segment
+Credit Quality
+We monitor credit quality by evaluating various attributes and utilize such information in our evaluation of the appropriateness of the ACL for loans. The following sections provide the credit quality indicators we most closely monitor. The credit quality indicators are generally based on information as of our financial statement date.

@@ -1,0 +1,25 @@
+amounts recorded.
+Liabilities measured at fair value on a recurring basis include interest rate swaps, securities sold but not yet purchased, and repurchase liabilities related to client-held fractional shares of equities, ETFs, and other securities, which are included in other assets on the consolidated balance sheets (see Other securities owned and securities sold but not yet purchased above in this Note 2 for the treatment of client-held fractional shares). The fair values of securities sold but not yet purchased are based on quoted market prices or other observable market data. The Company has elected the fair value option pursuant to ASC 825
+Financial Instruments
+for the repurchase liabilities to match the measurement and accounting of the related client-held fractional shares. The fair values of the repurchase liabilities are based on quoted market prices or other observable market data consistent with the related client-held fractional shares. Unrealized gains and losses on client-held fractional shares offset the unrealized gains and losses on the corresponding repurchase liabilities, resulting in no impact to the consolidated statements of income. The Company’s liabilities to repurchase client-held fractional shares do not have credit risk, and, as a result, the Company has not recognized any gains or losses in the consolidated statements of income or comprehensive income attributable to instrument-specific credit risk for these repurchase liabilities. The repurchase liabilities are included in accrued expenses and other liabilities on the consolidated balance sheet.
+The fair values of interest rate swaps are based on market observable interest rate yield curves. Fair value measurements are priced considering the coupon rate of the fixed leg of the contract and the variable coupon rate on the floating leg of the contract. Valuation is based on both spot and forward rates on the swap yield curve. The Company validates its valuations with counterparty quotations from central counterparty (CCP) clearing houses. See Note 17 for additional information on the Company’s interest rate swaps.
+- 79 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+New Accounting Standards
+Adoption of New Accounting Standards
+New Accounting Standards Not Yet Adopted
+- 80 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+3.
+Revenue Recognition
+Disaggregated Revenue
+Disaggregation of Schwab’s revenue by major source is as follows:
+(1)
+Beginning in 2024, this line item includes interest expense related to securities loaned. Prior period amounts have been reclassified to reflect this change. See Note 1 for additional information.
+(2)
+Managed investing solutions was formerly referred to as “Advice solutions”.
+For additional

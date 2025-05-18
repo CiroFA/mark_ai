@@ -1,0 +1,20 @@
+our overall governance structure. In many cases, we are unable to predict the outcomes and implications of these inquiries and investigations on our business, which could be time consuming, costly to investigate, and require significant management attention. Furthermore, the outcome of these inquiries and investigations could negatively impact our business, reputation, financial condition, and operating results, including possible fines and penalties and requiring changes to operational activities and procedures.
+We have been and expect to continue to be subject to personal injury claims for compensation based on traffic accidents, deaths, injuries, or other incidents that occur on our platform even when Drivers, consumers, or third parties are not actively using our platform. Various plaintiffs have also coordinated and may in the future attempt to coordinate personal injury claims in various jurisdictions through mass tort or similar proceedings. We use a combination of third-party insurance and self-insurance mechanisms to provide for personal injury risks. Our insurance reserves include unpaid losses and loss adjustment expenses related to these claims.
+Indemnifications
+In the ordinary course of business, we often include standard indemnification provisions in our arrangements with third parties. Pursuant to these provisions, we may be obligated to indemnify such parties for losses or claims suffered or incurred in connection with their activities or non-compliance with certain representations and warranties made by us. In addition, we have entered into indemnification agreements with our officers, directors, and certain current and former employees, and our certificate of incorporation and bylaws contain certain indemnification obligations. It is not possible to determine the maximum potential loss under these indemnification provisions / obligations because of the unique facts and circumstances involved in each particular situation.
+Note 10 – Variable Interest Entities
+Consolidated VIEs
+We consolidate VIEs in which we hold a variable interest and are the primary beneficiary. We are the primary beneficiary because we have the power to direct the activities that most significantly impact the economic performance of these VIEs. As a result, we consolidate the assets and liabilities of these VIEs.
+Total assets included on the condensed consolidated balance sheets for our consolidated
+VIEs as of December 31, 2024 and March 31, 2025 were $
+3.4
+billion and $
+3.4
+billion, respectively. Total liabilities included on the condensed consolidated balance sheets for these VIEs as of December 31, 2024 and March 31, 2025 were $
+724
+million and $
+740
+million, respectively.
+Uber Freight Holding Corporation
+As of March 31, 2025, we own the majority of the issued and outstanding capital stock of Uber Freight Holding Corporation (“Freight Holding”) and report a non-controlling interest as further described in Note 11 – Non-Controlling Interests.
+Unconsolidated

@@ -1,0 +1,15 @@
+tax positions have met a “more-likely-than-not” threshold of being sustained by the applicable tax authority. Tax benefits related to tax positions not deemed to meet the “more-likely-than-not” threshold are not permitted to be recognized in the consolidated financial statements.
+Item 7A: Quantitative and Qualitative Disclosures About Market Risk
+We are exposed to market risks, as discussed in Note 3 in our consolidated financial statements and the accompanying notes for the fiscal year ended December 31, 2024. These risks primarily include foreign currency exchange risk, equity and other investments risk, interest rate risk, concentration of credit risk and inflation risk, as discussed below. We regularly assess these risks to minimize any adverse effects on our business as a result of those factors.
+Foreign Currency Exchange Risk
+While the majority of our revenues, cost of revenues and operating expenses are denominated in USD, a significant portion are denominated in foreign currencies. Due to offering Shopify Payments, Shopify Capital, subscriptions and other billing to select countries in local currency, a significant proportion of revenue transactions are denominated in EUR, GBP and CAD. A significant proportion of operating expenses are also incurred in the aforementioned foreign currencies. We therefore are subject to foreign currency exchange risk related to these currencies and fluctuations in foreign currency exchange rates. To help mitigate the impacts associated with foreign currency fluctuations on future cash flows from operating expenses, we maintain a portfolio of foreign exchange derivative products designated as hedging instruments.
+67
+Table of C
+ontents
+Effect of Foreign Exchange Rates
+The following non-GAAP financial measures convert our revenues, cost of revenues, operating expenses and income (loss) from operations in the current reporting period using the comparative prior year period's monthly average exchange rates:
+(1)
+Represents the outcome that would have resulted if the comparative prior year period's effective foreign exchange rates are applied to the current reporting period.
+(2)
+Represents the increase or decrease in GAAP amounts reported resulting from using the comparative prior year period's effective foreign exchange rates. The exchange rate effect is primarily driven by fluctuations in CAD, GBP, JPY and EUR foreign exchange rates.
+This effect of foreign exchange rates on our consolidated statements of operations disclosure is a supplement to our consolidated financial statements, which are prepared and presented in accordance with U.S. GAAP. We have provided the above non-GAAP disclosure as we believe it presents a clear comparison of our period to period operating results by removing the impact of fluctuations in foreign exchange rates and to assist investors in understanding our financial and operating performance. Non-GAAP financial measures are not recognized measures for financial statement presentation

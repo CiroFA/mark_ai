@@ -1,0 +1,40 @@
+sublease income as an offset to lease expense in the consolidated statements of operations and comprehensive (loss) income.
+Property and Equipment
+Property and equipment is stated at cost, less accumulated depreciation and impairment. Depreciation is calculated using the straight-line method over the estimated useful lives of the related assets. Computer equipment is depreciated over the lesser of
+three years
+and their estimated useful lives while furniture and equipment are depreciated over
+four years
+. Leasehold improvements are amortized on a straight-line basis over the shorter of their estimated useful lives or the term of their associated leases, which range from
+one
+to
+fifteen years
+. Fulfillment robots and fulfillment equipment, which were depreciated over the lesser of
+three years
+and its useful life and ranged from
+three
+to
+ten years
+, respectively, were depreciated up until the second quarter of 2023, at which point the Company sold its logistics businesses, as further described in Note 4.
+Intangible Assets
+Intangible assets are stated at cost, less accumulated amortization and impairment. Amortization is calculated using the straight-line method over the estimated useful lives of the related assets. Acquired technology is amortized over a
+one
+to
+six year
+period, acquired customer relationships are amortized over a
+one
+- to
+two-year
+period, capitalized software development costs are amortized over a
+two
+- to
+four-year
+period and other intangible assets are amortized over a
+three
+- to
+ten-year
+period or may have an indefinite useful life and not amortized. Amortization is recorded into cost of revenues and operating expenses, depending on the nature of the asset.
+Impairment of Long-lived Assets
+The carrying values of long-lived assets (including leases, property and equipment and intangible assets) are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amounts of such assets may not be recoverable. The determination of whether any impairment exists includes a comparison of estimated undiscounted future cash flows anticipated to be generated over the remaining life of the asset or asset group to their net carrying value. If the estimated undiscounted future cash flows associated with the asset or asset group are less than the carrying value, an impairment loss will be recorded based on the estimated fair value.
+Goodwill
+Goodwill represents the excess of the purchase price over the estimated fair value of net assets of a business acquired in a business combination. Goodwill is not amortized, but instead tested for impairment at least annually. Should certain events or indicators of impairment occur between annual impairment tests, the Company will perform the impairment test as those events or indicators occur for our reporting unit.
+Goodwill is tested for impairment at the reporting unit level by first performing a qualitative assessment to determine whether it is more likely than not that the

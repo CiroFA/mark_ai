@@ -1,0 +1,25 @@
+authorization. Based on our investigation, the impacted API is only able to provide a limited set of customer account data, including name, billing address, email, phone number, date of birth, T-Mobile account number and information, such as the number of lines on the account and plan features. The result from our investigation indicates that the bad actor(s) obtained data from this API for approximately
+37
+million current postpaid and prepaid customer accounts, though many of these accounts did not include the full data set. We believe that the bad actor first retrieved data through the impacted API starting on or around November 25, 2022. We have notified individuals whose information was impacted consistent with state and federal requirements.
+In connection with the January 2023 cyberattack, we became subject to consumer class actions and regulatory inquiries, to which we will continue to respond in due course and may incur significant expenses. However, we cannot predict the timing or outcome of any of these potential matters or whether we may be subject to additional legal proceedings, claims, regulatory inquiries, investigations, or enforcement actions. In addition, we are unable to predict the full impact of this incident on customer behavior in the future, including whether a change in our customers’ behavior could negatively impact our results of operations on an ongoing basis, although we presently do not expect that it will have a material effect on our operations.
+On February 25, 2025, a purported Company shareholder filed a putative class action and derivative lawsuit in the Delaware Court of Chancery under the caption
+Palkon v. Deutsche Telekom AG et al.
+, Case No. 2025-0211-PAF, against four DT entities, our current directors, and certain of our former directors, asserting breach of fiduciary duty and unjust enrichment claims relating to our 2022 Stock Repurchase Program and our 2023-2024 Stockholder Return Program. We are also named as a nominal defendant in the lawsuit. We are unable to predict the potential outcome of these claims.
+Note 15 – Additional Financial Information
+Accounts Payable and Accrued Liabilities
+Accounts payable and accrued liabilities are summarized as follows:
+Book overdrafts included in accounts payable were $
+228
+million and $
+460
+million as of March 31, 2025, and December 31, 2024, respectively.
+Supplemental Condensed Consolidated Statements of Cash Flows Information
+The following table summarizes T-Mobile’s supplemental cash flow information:
+30
+Index for Notes to the Condensed Consolidated Financial Statements
+Cash and Cash Equivalents, Including Restricted Cash
+Cash and cash equivalents, including restricted cash, presented on our Condensed Consolidated Statements of Cash Flows were included on our Condensed Consolidated Balance Sheets as follows:
+Note 16 – Subsequent Events
+Subsequent to March 31, 2025, on April 1, 2025, we completed the joint acquisition of Lumos. See
+Note 3 - Joint Ventures
+for

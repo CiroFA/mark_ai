@@ -1,0 +1,27 @@
+and 2023 after consideration of the cross-currency interest rate swap agreements were
+8.76
+% and
+8.36
+%, respectively, for the July 2025 Notes. Refer to Note 1 for a description of our accounting for fair value hedges.
+(3)
+In fiscal 2023, we entered into certain interest rate swap agreements that have the economic effect of converting our floating-rate borrowings to fixed-rate borrowings with a fixed annual interest rate of
+3.07
+%, plus a margin depending on the credit rating assigned to our long-term senior unsecured debt, as further discussed below. The effective interest rates after consideration of the interest rate swap agreements were
+4.74
+% for each of fiscal 2024 and 2023. Refer to Note 1 for a description of our accounting for cash flow hedges.
+Future principal payments (adjusted for the effects of the cross-currency interest rate swap agreements associated with the July 2025 Notes) for all of our borrowings at May 31, 2024 were as follows (in millions):
+Senior Notes
+Interest is payable semi-annually for the senior notes listed in the above table except for the Euro Notes for which interest is payable annually. We may redeem some or all of the senior notes of each series prior to their maturity, subject to certain restrictions, and the payment of an applicable make-whole premium in certain instances.
+The senior notes rank pari passu with all existing and future notes issued pursuant to our commercial paper program (see additional discussion regarding our commercial paper program below) and all existing and future unsecured senior indebtedness of Oracle Corporation, including the Revolving Credit Agreement and the Term Loan Credit Agreement each as defined and described further below. All existing and future liabilities of the subsidiaries of Oracle Corporation are or will be effectively senior to the senior notes and Commercial Paper Notes (defined below), borrowings under the Term Loan Credit Agreement and any future borrowings pursuant to the Revolving Credit Agreement. We were in compliance with all debt-related covenants at May 31, 2024.
+Delayed Draw Term Loan Credit Agreement
+On June 8, 2022, we borrowed $
+15.7
+billion under a delayed draw term loan credit agreement (Bridge Credit Agreement) that we entered into in March 2022 to partly finance our acquisition of Cerner. The Bridge Credit Agreement provided that, subject to certain exceptions, net cash proceeds received by us from certain debt and equity issuances shall result in mandatory prepayments under the Bridge Credit Agreement. Interest was based on either (a) a Term Secured Overnight Financing Rate (SOFR)-based formula plus a margin of
+100.0
+basis points to
+137.5
+basis points, depending on the credit rating assigned to our long-term senior unsecured debt, or (b) a Base Rate formula plus a margin of
+0.0
+basis points to
+37.5
+basis points, depending on the same such credit rating, each as set forth in the Bridge Credit Agreement. The effective interest rate for fiscal 2023 was

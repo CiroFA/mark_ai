@@ -1,0 +1,25 @@
+Therefore, the results and trends in these interim financial statements may not be representative of those for the full year.
+Pfizer’s fiscal quarter-end for subsidiaries operating outside the U.S. is as of and for the three months ended February 23, 2025 and February 25, 2024, and for U.S. subsidiaries is as of and for the three months ended March 30, 2025 and March 31, 2024.
+We manage our commercial operations through
+three
+operating segments, each led by a single manager: Biopharma, PC1 and Pfizer Ignite. Biopharma is the only reportable segment. See
+Note 13A
+.
+B.
+Revenues and Trade Accounts Receivable
+Trade Accounts Receivable––
+Trade accounts receivable are stated at their net realizable value. The allowance for credit losses reflects our best estimate of expected credit losses of the receivables portfolio determined on the basis of historical experience, current information, and forecasts of future economic conditions. In developing the estimate for expected credit losses, trade accounts receivables are segmented into pools of assets depending on market (U.S. versus international), delinquency status, and customer type (high risk versus low risk and government versus non-government), and fixed reserve percentages are established for each pool of trade accounts receivables.
+In determining the reserve percentages for each pool of trade accounts receivables, we considered our historical experience with certain customers and customer types, regulatory and legal environments, country and political risk, and other relevant current and future forecasted macroeconomic factors. When management becomes aware of certain customer-specific factors that impact credit risk, specific allowances for these known troubled accounts are recorded.
+During the three months ended March 30, 2025 and March 31, 2024, additions to the allowance for credit losses, write-offs and recoveries of customer receivables were not material to our condensed consolidated financial statements. For additional information on our trade accounts receivable, see
+Note 1G
+in our 2024 Form 10-K.
+Note 2.
+Research and Development Arrangement
+Research and Development Funding Arrangement with Blackstone
+––In March 2025, we entered into an arrangement with Blackstone under which we will receive up to a total of $
+326
+million in 2025 through 2028 to co-fund our quarterly development costs for specified treatments. As there is substantive transfer of risk to the financial partner, the development funding is recognized by us as an obligation to perform contractual services. We are recognizing the funding as a reduction of
+Research and development expenses
+using an attribution model over the period of the related expenses. If successful, upon regulatory approval in the U.S. or certain major markets in the EU for the indications based on the applicable clinical trials, Blackstone will be eligible to receive approval-based fixed milestone payments of up to $
+277
+million contingent upon the successful

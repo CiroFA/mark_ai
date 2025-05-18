@@ -1,0 +1,30 @@
+our actual return on assets and a credit of $
+206
+million due to other actuarial assumption adjustments.
+The components of income before provision for income taxes are as follows:
+The components of the provision for income taxes are as follows:
+The following table shows the principal reasons for the difference between the effective income tax rate and the statutory federal income tax rate:
+(1)
+The states that contribute to the majority (greater than 50%) of the tax effect in this category include California, Maryland and Pennsylvania for 2024, California, Georgia, Illinois, Maryland and Virginia for 2023, and California, Florida, Georgia, Illinois, New Jersey, Oregon and Pennsylvania for 2022.
+The effective income tax rate for 2024 was
+21.9
+% compared to
+28.8
+% for 2023. The decrease in the effective income tax rate was primarily due to the Verizon Business Group goodwill impairment charge of $
+5.8
+billion in 2023 that substantially decreased income before income taxes and was not deductible. The increase in the provision for income taxes was primarily due to the increase in income before income taxes in the current period.
+97
+Table of
+Contents
+The effective income tax rate for 2023 was
+28.8
+% compared to
+23.1
+% for 2022. The increase in the effective income tax rate was primarily due to the Verizon Business Group goodwill impairment charge of $
+5.8
+billion that substantially decreased income before income taxes and was not deductible. The decrease in the provision for income taxes was primarily due to the decrease in income before income taxes in the current period.
+The amounts of cash taxes paid by Verizon are as follows:
+In 2024, there were no individual jurisdictions with cash taxes paid that equaled or exceeded 5% of total income taxes paid. In 2022 and 2023, the only jurisdiction with cash taxes paid that equaled or exceeded 5% of total income taxes paid was Ireland.
+Deferred Tax Assets and Liabilities
+Deferred taxes arise because of differences in the book and tax bases of certain assets and liabilities. Significant components of deferred tax assets and liabilities are as follows:
+Undistributed earnings of certain foreign subsidiaries continue to be indefinitely invested outside the U.S. The majority of Verizon's cash flow is generated from domestic operations and we are not dependent on foreign cash or earnings to meet our funding requirements, nor do we intend to repatriate these undistributed foreign earnings to fund U.S. operations. Furthermore, a portion of these undistributed earnings represents amounts that legally must be kept in reserve in accordance with certain foreign jurisdictional requirements and are unavailable for distribution or repatriation. As a result, we have not provided U.S. deferred taxes on these undistributed earnings because we intend that they will remain indefinitely reinvested outside of the U.S. and, therefore unavailable for use in funding U.S. operations. Determination of the amount of unrecognized

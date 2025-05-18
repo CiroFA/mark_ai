@@ -1,0 +1,31 @@
+stock at a specified price. We account for our employee stock options under the fair value method of accounting using a Black-Scholes valuation model to measure stock option expense at the date of grant. All stock option grants have an exercise price equal to the fair market value of our common stock on the date of grant and generally have a
+10
+-year term.
+Our weighted-average Black-Scholes fair value assumptions are as follows:
+The expected life is the period over which our employee groups are expected to hold their options. It is based on our historical experience with similar grants. The risk-free interest rate is based on the expected U.S. Treasury rate over the expected life. Volatility reflects movements in our stock price over the most recent historical period equivalent to the expected life. Dividend yield is estimated over the expected life based on our stated dividend policy and forecasts of net income, share repurchases and stock price.
+A summary of our stock option activity for the year ended December 28, 2024 is as follows:
+(a)
+In thousands.
+Restricted Stock Units and Performance Stock Units
+Each RSU represents our obligation to deliver to the holder one share of PepsiCo common stock when the award vests at the end of the service period. PSUs are awards pursuant to which a number of shares are delivered to the holder upon vesting at the end of the service period based on PepsiCo’s performance against specified financial performance metrics. The number of shares may be increased to the maximum or reduced to the minimum threshold based on the results of these performance metrics in accordance with
+89
+Table of
+Contents
+the terms established at the time of the award. During the vesting period, RSUs and PSUs accrue dividend equivalents that pay out in cash (without interest) if and when the applicable RSU or PSU vests and becomes payable.
+The fair value of RSUs and PSUs are measured at the market price of the Company’s stock on the date of grant.
+A summary of our RSU and PSU activity for the year ended December 28, 2024 is as follows:
+(a)
+In thousands. Outstanding awards are disclosed at target.
+(b)
+The outstanding PSUs for which the vesting period has not ended as of December 28, 2024, at the threshold, target and maximum award levels were
+zero
+,
+0.7
+million and
+1.3
+million, respectively.
+(c)
+Represents the number of outstanding awards expected to vest, including estimated performance adjustments on all outstanding PSUs as of December 28, 2024.
+Long-Term Cash
+Certain executive officers and other senior executives were granted long-term cash awards for which final payout is based on PepsiCo’s total shareholder return relative to a specific set of peer companies and achievement of a specified performance target over a three-year performance period.
+Long-term cash awards that qualify as liability awards under share-based compensation guidance are valued through the end of the performance period on a mark-to-market basis using the Monte

@@ -1,0 +1,63 @@
+include increasingly optimizing our cloud-based infrastructure to deliver local performance and global reach to more merchants than ever before, with consistent levels of availability, performance and resilience.
+Sustainability
+Shopify is a company that wants to see the next century and has taken many steps to build a sustainable business, including removing and reducing emissions from building and home office energy usage and business travel and leveraging Google Cloud for platform operations. In 2019, Shopify launched the Sustainability Fund which is designed to identify and support impactful carbon-removal and reduction technologies and projects. Shopify is also a founding member of Frontier, alongside Stripe, Alphabet and McKinsey, among others, with a goal to collectively purchase over $1 billion of permanent carbon removal by the end of 2030. Merchants can also choose to address carbon associated with shipping their orders by adding the Shopify Planet app to their store.
+Competition
+Our market is transforming, competitive and highly fragmented, and we expect competition to increase in the future. We believe the principal competitive factors in our market are:
+•
+vision for commerce and product strategy;
+•
+simplicity and ease of use for merchants and their buyers;
+•
+integration of multiple sales channels;
+10
+Table of C
+ontents
+•
+embedding of commerce functionality onto more surfaces;
+•
+cost-effective solutions;
+•
+significant app ecosystem;
+•
+breadth and depth of functionality;
+•
+pace of innovation;
+•
+powerful data analytics;
+•
+ability to leverage emerging technologies, including AI;
+•
+ability to scale;
+•
+security and reliability;
+•
+support for a merchant’s brand development; and
+•
+brand recognition and reputation.
+With respect to each of these factors, we believe that we compare favorably to our competitors.
+The growth of ecommerce may attract new entrants or new offerings from existing competitors. Additionally, some merchants may select one or more integrated or standalone offerings from other providers such as:
+•
+ecommerce software vendors;
+•
+content management systems;
+•
+payment processors;
+•
+POS providers;
+•
+domain registrars;
+•
+shipping label providers;
+•
+fulfillment service providers;
+•
+alternative lenders;
+•
+financial services;
+•
+cross-border services providers; and
+•
+marketplaces.
+For additional information regarding these and other laws, regulations and rules that affect us and our business, see Part I, Item 1A, "Risk Factors" in this Annual Report on Form 10-K.
+Intellectual Property
+Our intellectual property and proprietary rights are important to our business. In our efforts to safeguard them, we rely on a combination of copyright, trade secret, trade dress, domain names, trademarks, patents and other rights in Canada, Ireland, Singapore and the United States, and other jurisdictions in which we conduct business. We also have confidentiality agreements, assignment agreements and license agreements with employees, contractors,

@@ -1,0 +1,23 @@
+known.
+Sales usage-based royalties
+Sales usage-based royalty revenue at our Indices segment is primarily related to trading based fees from exchange-traded derivatives. Sales and usage-based royalty revenue at our Commodity Insights segment is primarily related to licensing of its proprietary market price data and price assessments to commodity exchanges.
+For sales usage-based royalty products and services, we provide licenses conveying the right to continuous access to our intellectual property over the contract term, with revenue recognized when the extent of our license’s utilization can be quantified, or more specifically, when trading volumes are known and publicly available to us or when we are notified by our customers. Recognition of revenue of fees tied to trading volumes is subject to the recognition constraint for a usage-based
+80
+Table of Contents
+royalty promised by our customers in exchange for the license of our intellectual property, with revenue recognized when trading volumes are known.
+Recurring variable revenue
+Recurring variable revenue at Market Intelligence represents revenue from contracts for services that specify a fee based on, among other factors, the number of trades processed, assets under management, or the number of positions valued.
+Arrangements with Multiple Performance Obligations
+Our contracts with customers may include multiple performance obligations. Revenue relating to agreements that provide for more than one performance obligation is recognized based upon the relative fair value to the customer of each service component as each component is earned. The fair value of the service components are determined using an analysis that considers cash consideration that would be received for instances when the service components are sold separately. If the fair value to the customer for each service is not objectively determinable, we make our best estimate of the services’ stand-alone selling price and record revenue as it is earned over the service period.
+Receivables
+We record a receivable when a customer is billed or when revenue is recognized prior to billing a customer. For multi-year agreements, we generally invoice customers annually at the beginning of each annual period.
+Contract Assets
+Contract assets include unbilled amounts from when the Company transfers service to a customer before a customer pays consideration or before payment is due. As of December 31, 2024 and 2023, contract assets were $
+69
+million and $
+75
+million, respectively, and are included in accounts receivable in our consolidated balance sheets.
+Unearned Revenue
+We record unearned revenue when cash payments are received in advance of our performance. The increase in the unearned revenue balance for the year ended December 31, 2024 is primarily driven by cash payments received in advance of satisfying our performance obligations, offset by $
+3.2
+billion of revenues recognized that were included in the unearned revenue balance at the

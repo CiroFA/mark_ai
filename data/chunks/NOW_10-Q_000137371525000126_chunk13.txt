@@ -1,0 +1,19 @@
+related to our cash flow hedges as operating activities in our condensed consolidated statements of cash flows.
+The total gross fair values of derivatives designated as hedging instruments recorded within the condensed consolidated balance sheets were as follows (in millions):
+As of March 31, 2025, approximately $
+4
+million of the pre-tax derivative gains from accumulated other comprehensive income (loss) is expected to be recognized in subscription revenues within the next 12 months.
+All hedging relationships are formally documented at the inception of the hedge and the hedges must be highly effective in offsetting changes to future cash flows on hedged transactions. We evaluate hedge effectiveness at the inception of the hedge prospectively, and on an ongoing basis both retrospectively and prospectively. We report changes in fair value of these cash flow hedges as a component of accumulated other comprehensive income (loss) and subsequently reclassify into earnings in the same period the forecasted transaction affects earnings. Amounts reclassified to subscription revenues were a gain of $
+9
+million for the three months ended March 31, 2025. For the three months ended March 31, 2024, there were no net gains or losses reclassified to subscription revenues. There was no ineffectiveness in the Company’s cash flow hedging program for each of the three months ended March 31, 2025 and 2024.
+Derivatives not Designated as Hedging Instruments
+Our derivatives not designated as hedging instruments consist of foreign currency forward contracts that we primarily use to hedge monetary assets and liabilities denominated in non-functional currencies. These foreign currency forward contracts are recorded at fair value and have maturities of 12 months or less. The changes in the fair value of these contracts are recorded in
+11
+Table of Contents
+other expense, net on the condensed consolidated statements of comprehensive income. For each of the periods ended March 31, 2025 and December 31, 2024, we had foreign currency forward contracts with total notional values of $
+2.2
+billion, which were not designated as hedging instruments. The gross fair value of these foreign currency forward contracts was immaterial as of March 31, 2025 and December 31, 2024. The gains (losses) recognized for foreign currency forward contracts from derivatives not designated as hedging instruments were immaterial for each of the three months ended March 31, 2025 and 2024. Realized gains (losses) from settlement of the derivative assets and liabilities are classified as investing activities in the condensed consolidated statements of cash flows.
+All foreign currency forward contracts, both designated and not designated as hedging instruments, are classified within Level 2 as the valuation inputs are based on quoted prices and market observable data of similar instruments in active markets, such as currency spot and forward rates.
+(9)
+Deferred Revenue and Performance Obligations
+Revenues

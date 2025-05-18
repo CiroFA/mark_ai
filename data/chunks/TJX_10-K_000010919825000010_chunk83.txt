@@ -1,0 +1,32 @@
+periods within the contractual life of the option based on the U.S. Treasury yield curve in effect at the time of grant. The Company uses historical data to estimate option exercises, employee termination behavior and dividend yield within the valuation model. Expected volatility is based on a combination of implied volatility from traded options on the Company’s stock, and historical volatility during a term approximating the expected life of the option granted. The expected option life represents an estimate of the period of time options are expected to remain outstanding based upon historical exercise trends. Employee groups and option characteristics are considered separately for valuation purposes, when applicable.
+A summary of the status of TJX’s stock options and related weighted average exercise prices (“WAEP”) is presented below:
+The total intrinsic value of options exercised was $
+466
+million in fiscal 2025, $
+278
+million in fiscal 2024 and $
+294
+million in fiscal 2023.
+The following table summarizes information about stock options outstanding that were expected to vest and stock options outstanding that were exercisable as of February 1, 2025:
+(a)
+Reflects
+9
+million unvested options, net of anticipated forfeitures.
+Stock Awards
+TJX grants restricted stock units and performance share units under the Stock Incentive Plan. Restricted stock units and performance share units are collectively referred to as stock awards. These stock awards were granted without a purchase price to the recipient and are subject to vesting conditions. Vesting conditions for performance share units include specified performance criteria, generally for a period of
+three
+fiscal years. The grant date fair value of the stock awards is charged to income over the requisite service period during which the recipient must remain employed. The fair value of the stock awards is determined at date of grant in accordance with ASC Topic 718 and, for performance share units, assumes that performance goals will be achieved at target. Performance share units and related compensation costs recognized are adjusted, as applicable, for performance above or below the target specified in the award.
+There were no significant modifications to stock awards in fiscal 2025, fiscal 2024 or fiscal 2023.
+F-24
+A summary of the status of the Company’s non-vested stock awards and changes during fiscal 2025 is presented below:
+A summary of units granted and the weighted average grant date fair value for total stock awards over the previous two fiscal years is presented below:
+The fair value of awards that vested was $
+46
+million in fiscal 2025, $
+48
+million in fiscal 2024 and $
+55
+million in fiscal 2023.
+The nonvested performance share units are based on the target level of performance achievement under the awards. The actual payout of performance share units will depend on performance results for the award cycle.
+Other Awards
+TJX also awards deferred shares to its outside directors under the

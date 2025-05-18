@@ -1,0 +1,50 @@
+significant tax jurisdictions for which we are currently under examination include Germany, Hong Kong, India, Israel, and Taiwan for fiscal years 2014 through 2024, and the State of California for fiscal years 2020 to 2022.
+Note 14 -
+Shareholders’ Equity
+Capital Return Program
+On August 26, 2024, our Board of Directors approved an additional $
+50
+billion to our share repurchase authorization, without expiration. In fiscal years 2025 and 2024, we repurchased
+310
+million and
+210
+million shares of our common stock for $
+34.0
+billion and $
+9.7
+billion, respectively. As of January 26, 2025, we were authorized, subject to certain specifications, to repurchase up to $
+38.7
+billion of our common stock. Our share repurchase program aims to offset dilution from shares issued to employees while maintaining adequate liquidity to meet our operating requirements. We may pursue additional share repurchases as we weigh market factors and other investment opportunities.
+From January 27, 2025 through February 21, 2025, we repurchased
+29
+million shares for $
+3.7
+billion pursuant to a pre-established trading plan.
+77
+Table of Contents
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+In fiscal years 2025, 2024, and 2023, we paid cash dividends to our shareholders of $
+834
+million, $
+395
+million, and $
+398
+million, respectively. The payment of future cash dividends is subject to our Board of Directors' continuing determination that the declaration of dividends is in the best interests of our shareholders.
+Note 15 -
+Employee Retirement Plans
+We provide tax-qualified defined contribution plans to eligible employees in the U.S. and certain other countries. Our contribution expense for fiscal years 2025, 2024, and 2023 was $
+314
+million, $
+255
+million, and $
+227
+million, respectively.
+Note 16 -
+Segment Information
+Our Chief Executive Officer is our chief operating decision maker, or CODM, and reviews financial information presented on an operating segment basis for purposes of making decisions and assessing financial performance. Our CODM assesses operating performance of each segment based on regularly provided segment revenue and segment operating income. Operating results by segment include costs or expenses directly attributable to each segment, and costs or expenses that are leveraged across our unified architecture and therefore allocated between our
+two
+segments. Our CODM reviews expenses on a consolidated basis, and expenses attributable to each segment are not regularly provided to our CODM.
+The Compute & Networking segment includes our Data Center accelerated computing platforms and AI solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services.
+The Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for

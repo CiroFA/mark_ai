@@ -1,0 +1,28 @@
+no market data exists, therefore requiring the Company to develop its own assumptions.
+The Company measures the fair value of certain equity investments, including certain immaterial equity method investments where the Company has elected the fair value option, on a recurring basis within other long-term assets in the accompanying Condensed Consolidated Balance Sheets. The amounts of gains and losses included in earnings from fair value changes for these investments are recognized within other gains and losses in the Condensed Consolidated Statements of Income.
+The fair value of these investments is as follows:
+The fair value of these investments decreased $
+3.7
+billion and $
+4.3
+billion for the three and nine months ended October 31, 2024, respectively, primarily due to
+the sale of the Company's investment in JD.com in August 2024, as well as gains and losses resulting from net changes in the underlying stock prices of the remaining investments and certain other immaterial investment activity. The fair value of these investments decreased $
+4.2
+billion for both the three and nine months ended October 31, 2023, respectively, primarily due to gains and losses resulting from net changes in the underlying stock prices and certain other immaterial investment activity. Equity investments without readily determinable fair values are carried at cost and adjusted for any observable price changes or impairments within other gains and losses in the Condensed Consolidated Statements of Income.
+Sale of Investment
+In August 2024, the Company sold its investment in JD.com for net proceeds of approximately $
+3.6
+billion and recorded a realized loss of $
+0.3
+billion within other gains and losses in the Condensed Consolidated Statement of Income.
+Derivatives
+The Company also has derivatives recorded at fair value. Derivative fair values are the estimated amounts the Company would receive or pay upon termination of the related derivative agreements as of the reporting dates. The fair values have been measured using the income approach and Level 2 inputs, which include the relevant interest rate and foreign currency forward curves.
+As of October 31, 2024 and January 31, 2024, the notional amounts and fair values of these derivatives were as follows:
+(1)
+Primarily classified in deferred income taxes and other within the Company's Condensed Consolidated Balance Sheets.
+13
+Table of Contents
+Nonrecurring Fair Value Measurements
+In addition to assets and liabilities recorded at fair value on a recurring basis, the Company's assets and liabilities are also subject to nonrecurring fair value measurements. Generally, assets are recorded at fair value on a nonrecurring basis as a result of impairment charges. The Company did not have any material assets or liabilities resulting in nonrecurring fair value measurements as of October 31, 2024 in the Company's Condensed Consolidated Balance Sheets.
+Other Fair Value Disclosures
+The Company records cash and cash equivalents,

@@ -1,0 +1,31 @@
+our results of operations and financial condition. Management has made significant estimates in several areas, including:
+•
+allowance for credit losses (Note 5 (Loans and Related Allowance for Credit Losses) and Note 3 (Available-for-Sale and Held-to-Maturity Debt Securities));
+•
+fair value measurements (Note 6 (Mortgage Banking Activities) and Note 12 (Fair Value Measurements));
+•
+liability for legal actions (Note 10 (Legal Actions));
+•
+income taxes; and
+•
+goodwill impairment (Note 7 (Intangible Assets and Other Assets)).
+Actual results could differ from those estimates.
+These unaudited interim financial statements reflect all adjustments that are, in the opinion of management, necessary for a fair statement of the results for the periods presented. These adjustments are of a normal recurring nature, unless otherwise disclosed in this Form 10-Q. The results of operations in the interim financial statements do not necessarily indicate the results that may be expected for the full year. The interim financial information should be read in conjunction with our 2024 Form 10-K.
+Accounting Standards Adopted in 2025
+We did not adopt any accounting standards in first quarter 2025.
+Subsequent Events
+We have evaluated the effects of events that have occurred subsequent to March 31, 2025, and there have been no material events that would require recognition in our first quarter 2025 consolidated financial statements or disclosure in the Notes to the consolidated financial statements.
+Table 2.1 presents a summary of our trading assets and liabilities measured at fair value through earnings.
+Table 2.1:
+Trading Assets and Liabilities
+(1)
+Represents balance sheet netting for trading derivative asset and liability balances, and trading portfolio level valuation adjustments. See Note 11 (Derivatives) for additional information.
+Table 2.2 provides net interest income earned from trading assets and liabilities, and net gains and losses due to the realized and unrealized gains and losses from trading activities.
+Net interest income also includes dividend income on trading securities and dividend expense on trading securities we have sold, but not yet purchased.
+Table 2.2:
+Net Interest Income and Net Gains (Losses) from Trading Activities
+(1)
+Substantially all relates to interest income on debt and equity securities.
+(2)
+Includes gains (losses) on trading portfolio level valuation adjustments, as well as remeasurement gains (losses) on foreign currency-denominated assets and liabilities, including related hedges. See Note 11 (Derivatives) for additional information.
+Table 3.1 provides the amortized cost, net of the allowance for credit losses (ACL) for debt securities, and fair value by major categories of available-for-sale (AFS) debt securities, which are carried at fair value, and held-to-maturity (HTM) debt securities, which are carried at amortized cost, net of the ACL. The net unrealized gains (losses) for AFS debt securities are reported as a component of

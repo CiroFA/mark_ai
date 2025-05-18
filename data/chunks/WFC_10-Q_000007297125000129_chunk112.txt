@@ -1,0 +1,36 @@
+Loan modifications in an active payment deferral are excluded. Includes loans where delinquency status was not reset to current upon exit from the deferral period.
+(2)
+Credit card loans that are past due at the time of the modification do not become current until they have three consecutive months of payment performance.
+Commitments to lend additional funds on commercial loans modified during the first quarter of 2025 and 2024, were $
+102
+million and $
+142
+million, respectively, the majority of which were in the commercial real estate portfolio. Commitments to lend additional funds on consumer loans modified during the first quarter of both 2025 and 2024, were insignificant.
+Mortgage banking activities consist of residential and commercial mortgage originations, sales and servicing.
+We apply the fair value method to residential mortgage servicing rights (MSRs) and apply the amortization method to commercial
+MSRs.
+Table 6.1 presents MSRs, including the changes in MSRs measured using the fair value method and the amortization method.
+Table 6.1:
+Mortgage Servicing Rights
+(1)
+Includes prepayment rate changes due to changes in market interest rates. Residential MSRs are economically hedged with derivative instruments to reduce exposure to changes in market interest rates.
+(2)
+Represents other changes in valuation model inputs or assumptions, including prepayment rate estimation changes that are independent of mortgage interest rate changes.
+(3)
+Represents the reduction in the residential MSR fair value for the cash flows expected to be collected during the period, net of income accreted due to the passage of time.
+(4)
+The estimated fair value of commercial MSRs was $
+780
+million and $
+1.7
+billion at March 31, 2025 and 2024, respectively. In first quarter 2025, we sold the non-agency portion of our commercial mortgage third-party servicing business.
+Table 6.2 provides key weighted-average assumptions used in the valuation of residential MSRs and sensitivity of the current fair value of residential MSRs to immediate adverse changes in
+those assumptions. See Note 12 (Fair Value Measurements) for additional information on key assumptions for residential MSRs.
+Table 6.2:
+Assumptions and Sensitivity of Residential MSRs
+(1)
+Includes a blend of prepayment speeds and expected defaults. Prepayment speeds are influenced by mortgage interest rates as well as our estimation of drivers of borrower behavior.
+Note 6:
+Mortgage Banking Activities
+(continued)
+The sensitivities in the preceding table are hypothetical and caution should be exercised when relying on this data. Changes in value based on variations in assumptions generally cannot be extrapolated because the relationship of the change in the assumption to the change in value may not be linear. Also, the effect of a variation in a particular assumption on the value of the other interests held is calculated independently without changing any other assumptions. In reality, changes in one factor may result in

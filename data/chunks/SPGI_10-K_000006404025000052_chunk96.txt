@@ -1,0 +1,19 @@
+its subsidiaries became wholly owned consolidated subsidiaries of S&P Global, and the financial results include IHS Markit from the date of acquisition.
+See Note 2 —
+Acquisitions and Divestitures
+for further discussion.
+Revenue Recognition
+Under ASC 606, revenue is recognized when a customer obtains control of promised goods or services in an amount that reflects the consideration the entity expects to receive in exchange for those goods or services.
+Subscription revenue
+Subscription revenue at Market Intelligence is primarily derived from distribution of data, valuation services, analytics, third party research, and credit ratings-related information through both feed and web-based channels. Subscription revenue at Market Intelligence also includes software and hosted product offerings which provide maintenance and continuous access to our platforms over the contract term. Subscription revenue at Commodity Insights is primarily from subscriptions to our market data and market insights (price assessments, market reports and commentary and analytics) along with other information products and software term licenses. Subscription revenue at Mobility is primarily derived from products that provide data and insight on future vehicles sales and production, including detailed forecasts on technology and vehicle components; supply car makers and dealers with market reporting products, predictive analytics and marketing automation software; and support dealers with vehicle history reports, used car listings and service retention solutions. Subscription revenue at Mobility also include a range of services to financial institutions, to support their marketing, insurance underwriting and claims management activities. Subscription revenue at Indices is derived from the contracts for underlying data of our indexes to support our customers’ management of index funds, portfolio analytics, and research. Subscription revenue at Engineering Solutions was primarily from subscriptions to our Product Design offerings providing standards, codes and specifications; applied technical reference; engineering journals, reports, best practices, and other vetted technical reference; and patents and patent applications.
+79
+Table of Contents
+For subscription products and services, we generally provide continuous access to dynamic data sets and analytics for a defined period, with revenue recognized ratably as our performance obligation to provide access to our data and analytics is progressively fulfilled over the stated term of the contract.
+Non-transaction revenue
+Non-transaction revenue at Ratings primarily includes fees for surveillance of a credit rating, annual fees for customer relationship-based pricing programs, fees for entity credit ratings and global research and analytics at Crisil. Non-transaction revenue also includes an intersegment revenue elimination of $
+186
+million, $
+177
+million and $
+169
+million for the years ended December 31, 2024, 2023 and 2022,

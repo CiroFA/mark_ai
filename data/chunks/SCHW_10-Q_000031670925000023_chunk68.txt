@@ -1,0 +1,53 @@
+relationship; however, we do not net these positions. Therefore, interest rate swaps are presented gross in the condensed consolidated balance sheets. See Note 11 for additional information on the Company’s interest rate swaps.
+- 49 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Ratios, or as Noted)
+(Unaudited)
+The following table presents information about our interest rate swaps, resale agreements, securities lending, repurchase agreements, and other activity depicting the potential effect of rights of setoff between these recognized assets and liabilities:
+(1)
+Included in cash and investments segregated and on deposit for regulatory purposes in the condensed consolidated balance sheets.
+(2)
+Actual collateral was greater than or equal to the value of the related assets. At March 31, 2025 and December 31, 2024, the fair value of collateral received in connection with resale agreements that are available to be repledged or sold was $
+14.6
+billion and $
+10.3
+billion, respectively.
+(3)
+Included in receivables from brokers, dealers, and clearing organizations in the condensed consolidated balance sheets.
+(4)
+Derivative assets are included in other assets and derivative liabilities are included in accrued expenses and other liabilities in the condensed consolidated balance sheets. Amounts were less than $
+500
+thousand as of December 31, 2024.
+(5)
+At March 31, 2025 and December 31, 2024, the fair value of initial margin pledged as collateral related to interest rate swaps was $
+371
+million and $
+378
+million, respectively. See Notes 5 and 11 for additional information.
+(6)
+Included in other short-term borrowings in the condensed consolidated balance sheets. Actual collateral value was greater than or equal to the value of the related liabilities. At March 31, 2025 and December 31, 2024, the fair value of collateral pledged in connection with repurchase agreements was $
+5.8
+billion and $
+5.9
+billion, respectively. See Note 9 for additional information.
+(7)
+Included in payables to brokers, dealers, and clearing organizations in the condensed consolidated balance sheets. Securities loaned are predominantly comprised of equity securities held in client brokerage accounts. At March 31, 2025, $
+9.4
+billion of securities loaned had overnight and continuous remaining contractual maturities and $
+5.3
+billion of securities loaned had contractual maturities of
+35
+-
+95
+days. At December 31, 2024, $
+8.8
+billion of securities loaned had overnight and continuous remaining contractual maturities and $
+4.3
+billion of securities loaned had contractual maturities of
+35
+-
+95
+days. The cash collateral received from counterparties under securities lending transactions was equal to or greater than the market value of the securities loaned at March 31, 2025 and December 31, 2024.
+(8)
+Included in other short-term borrowings in the condensed consolidated balance sheets. See below for

@@ -1,0 +1,24 @@
+discretionary bonus payments at March 31, 2025.
+Table 31 provides information regarding the calculation and composition of our risk-based capital under the Standardized and Advanced Approaches.
+Table 31:
+Risk-Based Capital Calculation and Components
+(1)
+Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end.
+(2)
+Differences between the approaches are driven by the qualifying amounts of ACL includable in Tier 2 capital. Under the Advanced Approach, eligible credit reserves represented by the amount of qualifying ACL in excess of expected credit losses (using regulatory definitions) is limited to 0.60% of Advanced credit RWAs, whereas the Standardized Approach includes ACL in Tier 2 capital up to 1.25% of Standardized credit RWAs. Under both approaches, any excess ACL is deducted from the respective total RWAs.
+Capital Management
+(continued)
+Table 32 provides the composition and net changes in the components of RWAs under the Standardized and Advanced Approaches.
+Table 32:
+Risk-Weighted Assets
+(1)
+RWAs calculated under the Advanced Approach utilize a risk-sensitive methodology, which relies upon the use of internal credit models based upon our experience with internal rating grades. The Advanced Approach also includes an operational risk component, which reflects the risk of loss resulting from inadequate or failed internal processes, people and systems, or from external events.
+Table 33 provides an analysis of changes in CET1.
+Table 33:
+Analysis of Changes in Common Equity Tier 1
+(1)
+Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end.
+TANGIBLE COMMON EQUITY.
+We also evaluate our business based on certain ratios that utilize tangible common equity. Tangible common equity is a non-GAAP financial measure and represents total equity less preferred equity, noncontrolling interests, goodwill, certain identifiable intangible assets (other than MSRs) and goodwill and other intangibles on venture capital investments in consolidated portfolio companies, net of applicable deferred taxes. The ratios are (i) tangible book value per common share, which represents tangible common equity divided by common shares outstanding; and (ii) return on average tangible common equity (ROTCE), which represents our
+annualized earnings as a percentage of tangible common equity. The methodology of determining tangible common equity may differ among companies. Management believes that tangible book value per common share and return on average tangible common equity, which utilize tangible common equity, are useful financial measures because they enable management, investors, and others to assess the Company’s use of equity.
+Table 34 provides a reconciliation of these non-GAAP

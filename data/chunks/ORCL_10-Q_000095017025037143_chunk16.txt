@@ -1,0 +1,19 @@
+for the two remaining defendants: our Chief Executive Officer and our Chief Technology Officer. Plaintiffs appealed, and on January 21, 2025, the Supreme Court of Delaware, sitting en banc, affirmed the trial court’s opinion in favor of defendants. This matter is now concluded.
+20
+Table of Contents
+ORACLE CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+February 28, 2025
+(Unaudited)
+Netherlands Privacy Class Action
+On August 14, 2020, The Privacy Collective (TPC), a foundation having its registered office in Amsterdam, filed a purported class action lawsuit against Oracle Nederland B.V, Oracle Corporation and Oracle America, Inc. (the Oracle Defendants), Salesforce.com, Inc. and SFDC Netherlands B.V. in the District Court of Amsterdam. TPC alleges that the Oracle Defendants’ Data Management Platform product violates certain articles of the EU Charter of Fundamental Rights, the General Data Protection Regulation (GDPR) and the Dutch Telecommunications Act (Telecommunicatiewet). TPC claims damages under a number of categories, including: “immaterial damages” (at a fixed amount of €
+500
+per Dutch internet user); “material damages” (in that the costs of loss of control over personal data should be equated to the market value of the personal data for parties like the Oracle Defendants); compensation for losses suffered due to an alleged data breach (at a fixed amount of €
+100
+per Dutch internet user); and compensation for the costs of the litigation funder (
+10
+% to
+25
+% of the compensation awarded); and the (actual) cost of the proceedings and extrajudicial costs.
+We filed our defense on March 3, 2021, and on December 29, 2021, the District Court issued a judgment, holding that all of TPC’s claims were deemed inadmissible because of fundamental procedural flaws. TPC filed an appeal with the Court of Appeal in Amsterdam challenging the District Court’s judgment, except for the claims regarding the alleged data breach, which were dropped. On June 18, 2024, the Court of Appeal overturned the District Court’s decision regarding admissibility, thus permitting the case to proceed. We requested that the Court of Appeal permit an interim appeal to the Dutch Supreme Court and/or the European Court of Justice. On September 24, 2024, the Court of Appeal issued a judgment confirming that TPC’s claims are admissible and referred the matter back to the District Court of Amsterdam for a decision on the merits of TPC’s claims, including TPC’s claims for damages under article 82 of the GDPR. The Court of Appeal also granted Oracle’s request for an interim appeal to the Supreme Court, appealing the June 18 and the September 24, 2024, judgments.
+Oracle filed its statement of appeal with the Dutch Supreme Court on December 20, 2024, and TPC appeared in the proceedings on January 31, 2025. The filing of the Supreme Court appeal effectively suspended proceedings before the District Court pursuant to applicable procedural rules. TPC filed its

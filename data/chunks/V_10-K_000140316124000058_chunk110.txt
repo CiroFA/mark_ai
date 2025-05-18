@@ -1,0 +1,18 @@
+Company’s rules in the U.S. that, among other things, streamline requirements for merchants who wish to impose a surcharge on credit transactions. On March 26, 2024, the Injunctive Relief Class plaintiffs filed a motion for preliminary approval of the settlement, which was denied on June 25, 2024.
+Interchange Multidistrict Litigation (MDL) - Individual Merchant Actions
+Since May 2013, more than
+50
+cases have been filed in or removed to various federal district courts by hundreds of merchants generally pursuing damages claims on allegations similar to those raised in MDL 1720. The cases name as defendants Visa Inc., Visa U.S.A., Visa International, Mastercard Incorporated and Mastercard International Incorporated, although some also include certain U.S. financial institutions as defendants. A number of the cases include allegations that Visa has monopolized, attempted to monopolize and/or conspired to monopolize debit card-related market segments. Some of the cases seek an injunction against the setting of default interchange rates; certain Visa operating rules relating to merchants, including the honor-all-cards rule; and various transaction fees, including the fixed acquirer network fee. In addition, some cases assert that Visa, Mastercard and/or their member banks conspired to prevent the adoption of chip-and-PIN authentication in the U.S. or otherwise circumvent competition in the debit market. Certain individual merchants have filed amended complaints to, among other things, add claims for injunctive relief and update claims for damages.
+99
+Table of Contents
+The individual merchant actions described in this section are U.S. covered litigation for purposes of the U.S. retrospective responsibility plan. See
+Note 5—U.S. and Europe Retrospective Responsibility Plans.
+Visa has reached settlements with a number of merchants representing approximately
+73
+% of the Visa-branded payment card sales volume of merchants who opted out of the Amended Settlement Agreement with the Damages Class plaintiffs.
+The district court’s rulings on defendants’ summary judgment motions under
+Ohio v. American Express
+and on post-IPO conspiracy claims, described above, apply to these Individual Merchant Actions. In addition, on October 9, 2022, defendants’ motion for summary judgment regarding damages for EMV-related chargebacks was denied. On February 22, 2024, defendants' motion for summary judgment based on
+Illinois Brick
+standing was denied, and the district court denied as moot certain plaintiffs’ motions for partial summary judgment. On April 2, 2024, the district court granted in part and denied in part defendants’ motion for summary judgment on certain plaintiffs’ monopolization claims.
+On May 28, 2024, the district court found that merchants serviced by Intuit and Square are members of the MDL Damages Class and therefore granted defendants’ motion to enforce the Amended Settlement Agreement, and denied a motion by Intuit Inc. and Intuit Payment Solutions, LLC

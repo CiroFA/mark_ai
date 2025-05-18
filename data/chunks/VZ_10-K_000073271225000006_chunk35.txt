@@ -1,0 +1,21 @@
+infrastructure, we have a presence globally and relationships with many operators and partners allowing us to service multinational network needs.
+•
+Services and capabilities
+– We provide connectivity, access to the internet, voice calling, text messaging and both linear and streaming video capabilities. Beyond these basic services, our network solutions include advanced services and capabilities such as E911, first responder solutions and private networking solutions.
+•
+Reliability
+– We strive to design and deploy reliable networks. We test our networks for reliability and use various methods and procedures to maintain network availability, capability and capacity. To mitigate the impact of power disruptions on our operations, we have battery backup at every switch and every macro cell. We also utilize backup generators at a majority of our macro cells and at every switch location. In addition, we have a fleet of portable backup generators that can be deployed if needed.
+Network Evolution
+We consider the reliability, speed, capacity, coverage and security of our wireless network to be key factors in our continued success. We are evolving and transforming our networks to ensure our customers receive access to the best network possible. Areas of evolution and transformation include:
+•
+5G Wireless
+– Verizon has driven the conversion from 4G to 5G through a sequence of network changes involving the radio access network, the core network infrastructure and change to the devices connecting to the network. Over the past several years, we have been leading the development of 5G wireless technology industry standards and the ecosystems for fixed and mobile 5G wireless services. 5G technology enables higher throughput and lower latency than 4G LTE technology and allows our networks to handle more traffic as the number of internet-connected devices and customer usage needs grow. Our evolution to 5G with its new architecture allows us to simplify operations by eliminating legacy network elements.
+•
+Coverage and densification
+– We continue to improve 5G wireless service coverage by leveraging our breadth of wireless spectrum, including millimeter wave and C-Band spectrum, which we are continuing to deploy across the continental U.S. We are densifying our networks by utilizing macro and small cell technology, in-building solutions and distributed antenna systems. Network densification enables us to increase coverage, improve quality of service and add capacity to accommodate an increasing number of users. It also supports our growing FWA business and growing bandwidth needs for uses such as streaming and video content creation.
+•
+Virtualization
+– We are leveraging the benefits of cloud computing and storage as we evolve our network infrastructure. Our private cloud infrastructure allows us to use shared compute, storage and networking resources rather than building unique physical instances for our network infrastructure.
+•
+Fiber transport and IP networking
+–

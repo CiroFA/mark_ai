@@ -1,0 +1,25 @@
+follows:
+•
+Cybersecurity Threat Scenarios.
+Our cybersecurity risk assessment process consists of identifying and compiling a catalogue of top cybersecurity threat scenarios relevant to PMI, which facilitates risk assessments with our IT and business stakeholders.
+19
+•
+Cybersecurity Maturity Assessment.
+Our risk exposure from relevant cybersecurity threat scenarios is mitigated by evaluating existing cybersecurity capabilities and corresponding maturity to identify and address areas for improvement.
+•
+Cybersecurity Threat Assessment.
+To establish PMI’s current and target cybersecurity risk exposure, residual risk exposure from the most relevant cybersecurity threat scenarios across IT platforms and regions is evaluated and measured based upon the cybersecurity maturity assessments.
+•
+Cybersecurity Risk Program.
+PMI has a cybersecurity risk program to enhance its ability to identify, prevent, mitigate, respond and recover from disruptive cybersecurity threats and incidents and to reduce cybersecurity risk exposure. Improvements in our cybersecurity defense capabilities are prioritized based upon the results of cybersecurity threat assessments and cybersecurity maturity assessments. Identified issues from these assessments form the improvement initiatives under our cybersecurity risk program. As discussed in more detail below under “
+Governance
+,” the program’s key improvement initiatives, their implementation status, and the overall progression in our cybersecurity capability maturity are regularly presented to the applicable governing body within PMI. In addition, our cybersecurity risk program operates in coordination with the following:
+Cyber Defense
+. Our dedicated cyber defense team provides services to identify, help prevent, detect and respond against cybersecurity threats and intrusions and collaborates with internal and external stakeholders to help protect PMI’s information, mitigate operational disruptions and maintain business continuity. The cyber defense team’s controls and procedures identify and enable escalation of cybersecurity incidents to the applicable governing body within PMI, as appropriate, to meet disclosure and reporting requirements for such incidents.
+Third-Party Cyber Risk Management
+.
+Some of our information systems and networks are developed, supplied, or managed by third-party service providers.
+Our third-party cyber risk management process analyzes and seeks to control risks associated with outsourcing products or services, such as “supply chain” style cyberattacks, and identifies preventative and detective controls to mitigate third-party vendor and service provider cybersecurity risks that could adversely impact our business and operations.
+Education and Awareness
+.
+PMI regularly and annually provides its in scope workforce with mandatory cybersecurity awareness education and training addressing information security related tasks in line with our evolving information security policies, standards, procedures, and

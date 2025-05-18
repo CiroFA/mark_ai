@@ -1,0 +1,32 @@
+debt investments as available-for-sale. See
+Fair-value considerations.
+Unrealized gains and losses are recorded as an increase or decrease, net of taxes, in AOCI on our Consolidated Balance Sheets, and any credit losses are recorded as an allowance for credit losses with an offset recognized in OI&E in our Consolidated Statements of Income.
+Our mutual funds hold a variety of debt and equity investments intended to generate returns that offset changes in certain deferred compensation liabilities. We record changes in the fair value of these mutual funds and the related deferred compensation liabilities in SG&A.
+Other investments
+Our other investments include equity-method investments and nonmarketable investments, which are not measured at fair value. These investments consist of interests in venture capital funds and other nonmarketable securities. Gains and losses from equity-method investments are recognized in OI&E based on our ownership share of the investee’s financial results. Nonmarketable securities are measured at cost with adjustments for observable changes in price or impairments. Gains and losses on nonmarketable investments are recognized in OI&E.
+41
+Details of our investments are as follows:
+As of December 31, 2024 and 2023, unrealized gains and losses associated with our debt investments were not material. We did
+no
+t recognize any credit losses related to debt investments in 2024, 2023 or 2022.
+The following table presents the aggregate maturities of our debt investments as of December 31, 2024:
+In 2024, 2023 and 2022, the proceeds from sales, redemptions and maturities of short-term debt investments were $
+11.19
+billion, $
+13.39
+billion and $
+13.66
+billion, respectively. Gross realized gains and losses from these sales were not material.
+Fair-value considerations
+We measure and report certain financial assets and liabilities at fair value on a recurring basis. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. The three-level hierarchy
+described
+below indicates the inputs used to estimate fair-value measurements.
+•
+Level 1
+– Uses unadjusted quoted prices that are available in active markets for identical assets or liabilities as of the measurement date.
+•
+Level 2
+– Uses inputs other than Level 1 that are either directly or indirectly observable as of the measurement date through correlation with market data. Inputs include quoted prices for similar assets and liabilities in active markets, quoted prices in markets that are not active and models or other pricing methodologies that do not require significant judgment. We utilize a third-party data service to provide Level 2 valuations, and we verify these valuations for reasonableness.
+•
+Level 3
+– Uses inputs that are unobservable, supported by little or no market activity and reflect the use of significant management judgment. As of December 31,

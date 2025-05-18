@@ -1,0 +1,18 @@
+internet using Fios internet services as of the end of the period. Fios internet connections are calculated by adding Fios internet new connections in the period to prior period Fios internet connections, and subtracting Fios internet disconnects in the period.
+Fios video connections
+are the total number of connections to traditional linear video programming using Fios video services as of the end of the period. Fios video connections are calculated by adding Fios video net additions in the period to prior period Fios video connections. Fios video net additions are calculated by subtracting the Fios video disconnects from the Fios video new connections.
+Total broadband connections
+are the total number of connections to the internet using Fios internet services, Digital Subscriber Line (DSL), and postpaid, prepaid and IoT FWA as of the end of the period. Total broadband connections are calculated by adding total broadband connections, net additions in the period to prior period total broadband connections.
+FWA broadband connections
+are the total number of postpaid and prepaid connections to the internet through our 5G or 4G LTE wireless networks as of the end of the period. FWA broadband connections are calculated by adding FWA broadband connections, net additions in the period to prior period FWA broadband connections.
+Wireline broadband connections
+are the total number of connections to the internet using DSL and Fios internet services as of the end of the period. Wireline broadband connections are calculated by adding wireline broadband connections, net additions in the period to prior period wireline broadband connections.
+Wireless retail connections, net addition
+s are the
+total number of additional retail customer device postpaid and prepaid connections, less the number of device disconnects in the period. Wireless retail connections, net additions in each period presented are calculated by subtracting the total retail postpaid and prepaid disconnects, net of certain adjustments, from the total retail postpaid and prepaid new connections in the period.
+Wireless retail postpaid connections, net additions
+are the total number of additional retail customer device postpaid connections, less the number of device disconnects in the period. Wireless retail postpaid connections, net additions in each period presented are calculated by subtracting the retail postpaid disconnects, net of certain adjustments, from the retail postpaid new connections in the period.
+Wireless retail prepaid connections, net additions
+are the total number of additional retail customer device prepaid connections, less the number of device disconnects in the period. Wireless retail prepaid connections, net additions in each period presented are calculated by subtracting the retail prepaid disconnects, net of certain adjustments, from the retail prepaid new connections in the period.
+Wireless retail core prepaid connections, net additions
+are the total number of additional

@@ -1,0 +1,18 @@
+executive and principal financial officers, to allow timely decisions regarding required disclosure, and reported within the time periods specified in the SEC’s rules and forms. The Chief Executive Officer and Chief Financial Officer have performed an evaluation of the effectiveness of the design and operation of the registrant’s disclosure controls and procedures as of March 31, 2025. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the registrant’s disclosure controls and procedures were effective as of March 31, 2025.
+There have not been any changes in our internal control over financial reporting during our most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+36
+AT&T INC.
+MARCH 31, 2025
+CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS
+Information set forth in this report contains forward-looking statements that are subject to risks and uncertainties, and actual results could differ materially. Many of these factors are discussed in more detail in the “Risk Factors” section herein and in our most recent Form 10-K. We claim the protection of the safe harbor for forward-looking statements provided by the Private Securities Litigation Reform Act of 1995.
+The following factors could cause our future results to differ materially from those expressed in the forward-looking statements:
+•
+Adverse economic and political changes, public health emergencies and our ability to access financial markets on favorable terms.
+•
+Increases in our benefit plans’ costs, including due to worse-than-assumed investment returns and discount rates, mortality assumptions, medical cost trends, or healthcare laws or regulations.
+•
+The final outcome of FCC and other federal, state or foreign government agency proceedings (including judicial review of such proceedings) and legislative and regulatory efforts involving issues important to our business, including, without limitation, pending Notices of Apparent Liability; the transition from legacy technologies to IP-based infrastructure, including the withdrawal of legacy TDM-based services; universal service; broadband deployment; wireless equipment siting regulations; E911 services; rules concerning digital discrimination; competition policy; privacy; net neutrality; copyright protection; availability of new spectrum on fair and reasonable terms; and wireless and satellite license awards and renewals, and our response to such legislative and regulatory efforts.
+•
+Enactment of or changes to state, local, federal and/or foreign tax laws and regulations, and actions by tax agencies and judicial authorities, and the resolution of disputes with any taxing jurisdictions, pertaining to our subsidiaries and foreign investments.
+•
+U.S. and foreign laws and regulations regarding intellectual property rights protection and privacy, personal data protection and user consent, which

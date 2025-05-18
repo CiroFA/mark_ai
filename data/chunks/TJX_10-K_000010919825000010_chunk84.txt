@@ -1,0 +1,31 @@
+Stock Incentive Plan. As of the end of fiscal 2025, a total of
+348
+thousand of these deferred shares were outstanding under the plan.
+Note I.
+Pension Plans and Other Retirement Benefits
+Pension
+TJX has a funded defined benefit retirement plan that covers eligible U.S. employees hired prior to February 1, 2006. No employee contributions are required, or permitted, and benefits are based principally on compensation earned in each year of service. TJX’s funded defined benefit retirement plan assets are invested in domestic and international equity and fixed income securities, both directly and through investment funds. The plan does not invest in TJX securities. TJX also has an unfunded supplemental retirement plan that covers certain key employees and provides additional retirement benefits based on final average compensation for certain of those employees (the “primary benefit”) or, alternatively, based on benefits that would be provided under the funded retirement plan absent Internal Revenue Code limitations (the “alternative benefit”).
+Presented below is financial information relating to TJX’s funded defined benefit pension plan (“qualified pension plan” or “funded plan”) and its unfunded supplemental pension plan (“unfunded plan”) for the fiscal years indicated. The Company has elected the practical expedient pursuant to ASU 2015-4–Compensation-retirement benefits (Topic 715) and has selected the measurement date of January 31, the calendar month end closest to the Company’s fiscal year-end.
+F-25
+The Consolidated Balance Sheets reflect the funded status of the plans with any unrecognized prior service cost and actuarial gains and losses recorded in Accumulated other comprehensive (loss) income. The funded plan asset of $
+179
+million and $
+166
+million is reflected on the Consolidated Balance Sheets in Other assets as of February 1, 2025 and February 3, 2024, respectively. The unfunded plan liability is reflected on the Consolidated Balance Sheets as current liabilities of $
+7
+million and $
+10
+million and a long-term liability of $
+100
+million and $
+95
+million as of February 1, 2025 and February 3, 2024, respectively.
+The decrease in the actuarial losses included in Accumulated other comprehensive (loss) income for the funded plan for fiscal 2025 was driven by the impact of higher discount rates offset by a decrease in actual return on plan assets.
+F-26
+TJX determined the assumed discount rate using the BOND: Link model in fiscal 2025 and fiscal 2024. TJX uses the BOND: Link model as this model allows for the selection of specific bonds resulting in better matches in timing of the plans’ expected cash flows.
+Presented below are weighted average assumptions for measurement purposes for determining the obligation at the year-end measurement date:
+TJX made aggregate cash contributions of $
+4
+million in fiscal 2025 and $
+12
+million in fiscal 2024 to the funded plan and to fund current benefit and expense payments under the unfunded plan. TJX’s

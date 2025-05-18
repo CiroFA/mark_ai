@@ -1,0 +1,33 @@
+charge-offs on overdrafts, which are generally charged-off at 60 days past due.
+NONACCRUAL LOANS.
+Table 5.13 provides loans on nonaccrual status. Nonaccrual loans may have an ACL or a negative allowance for credit losses from expected recoveries of amounts previously written off.
+Table 5.13:
+Nonaccrual Loans
+(1)
+Nonaccrual loans may not have an allowance for credit losses if the loss expectations are zero given the related collateral value.
+LOANS IN PROCESS OF FORECLOSURE.
+Our recorded investment in consumer mortgage loans collateralized by residential real estate property that are in process of foreclosure was $
+786
+million and $
+705
+million at March 31, 2025, and December 31, 2024, respectively, which included $
+623
+million and $
+540
+million, respectively, of loans that are government insured/guaranteed. Under the Consumer Financial Protection Bureau guidelines, we do not commence the foreclosure process on residential mortgage loans until after the loan is 120 days delinquent. Foreclosure procedures and timelines vary depending on whether the property address resides in a judicial or non-judicial state. Judicial states require the foreclosure to be processed through the state’s courts while non-judicial states are processed without court intervention. Foreclosure timelines vary according to state law.
+LOANS 90 DAYS OR MORE PAST DUE AND STILL ACCRUING.
+Certain loans 90 days or more past due are still accruing, because they are (1) well-secured and in the process of collection or (2) residential mortgage or consumer loans exempt under regulatory rules from being classified as nonaccrual until later delinquency, usually 120 days past due.
+Table 5.14 shows loans 90 days or more past due and still accruing by class for loans not government insured/guaranteed.
+Table 5.14:
+Loans 90 Days or More Past Due and Still Accruing
+(1)
+Represents residential mortgage loans whose repayments are insured or guaranteed by U.S. government agencies, such as the FHA or the VA
+.
+Note 5:
+Loans and Related Allowance for Credit Losses
+(continued)
+LOAN MODIFICATIONS TO BORROWERS EXPERIENCING FINANCIAL DIFFICULTY.
+We may agree to modify the contractual terms of a loan to a borrower experiencing financial difficulty.
+The following disclosures provide information on loan modifications in the form of principal forgiveness, interest rate reductions, other-than-insignificant (e.g., greater than three months) payment delays, term extensions or a combination of these modifications, as well as the financial effects of these modifications, and loan performance in the twelve months following the modification. Loans that both modify and are paid off or charged-off during the period are not included in the disclosures below. These disclosures do not include loans
+discharged by a bankruptcy court as the only concession, which were insignificant for the first quarter of both 2025 and 2024.
+For additional information on our loan modifications to borrowers experiencing financial

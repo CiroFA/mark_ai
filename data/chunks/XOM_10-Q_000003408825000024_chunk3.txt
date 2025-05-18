@@ -1,0 +1,18 @@
+respectively, the Corporation had $
+538
+million and $
+491
+million of collateral under master netting arrangements not offset against the derivatives on the Condensed Consolidated Balance Sheet, primarily related to initial margin requirements.
+The Corporation may use non-derivative financial instruments, such as its foreign currency-denominated debt, as hedges of its net investments in certain foreign subsidiaries. Under this method, the change in the carrying value of the financial instruments due to foreign exchange fluctuations is reported in accumulated other comprehensive income.
+As of March 31, 2025, the Corporation has designated $
+3.2
+billion of its Euro-denominated debt and related accrued interest as a net investment hedge of its European business. The net investment hedge is deemed to be perfectly effective.
+The Corporation had undrawn short-term committed lines of credit of $
+0.2
+billion and undrawn long-term committed lines of credit of $
+1.0
+billion as of the end of first quarter 2025.
+Derivative Instruments
+The Corporation’s size, strong capital structure, geographic diversity, and the complementary nature of its business segments reduce the Corporation’s enterprise-wide risk from changes in commodity prices, currency rates and interest rates. In addition, the Corporation uses commodity-based contracts, including derivatives, to manage commodity price risk and to generate returns from trading. Commodity contracts held for trading purposes are presented in the Condensed Consolidated Statement of Income on a net basis in the line “Sales and other operating revenue" and in the Consolidated Statement of Cash Flows in “Cash Flows from Operating Activities”. The Corporation’s commodity derivatives are not accounted for under hedge accounting. At times, the Corporation also enters into currency and interest rate derivatives, none of which are material to the Corporation’s financial position as of March 31, 2025 and December 31, 2024, or results of operations for the periods ended March 31, 2025 and 2024.
+The Corporation operates a program to hedge certain of its fixed-rate debt instruments against changes in fair value due to changes in the designated benchmark interest rate. This program utilizes fair value hedge accounting. The derivative (hedging) instruments are fixed-for-floating interest rate swaps, with settlement dates that correspond to the interest payments associated with the fixed-rate debt (hedged item). Changes in the fair values of the hedging instruments are perfectly offset by changes in the fair values of the hedged items; the effects of these changes in fair values are recorded in "Interest expense" in the Consolidated Statement of Income. This program was not material to the Consolidated Financial Statements as of the end of first quarter 2025.
+Credit risk associated with the Corporation’s derivative position is mitigated by several factors, including the use of derivative clearing exchanges and the quality of and

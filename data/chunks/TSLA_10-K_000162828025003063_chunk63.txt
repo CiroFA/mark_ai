@@ -1,0 +1,24 @@
+December 31, 2024 and 2023, respectively.
+Cash Flows from Financing Activities
+Net cash flows from financing activities increased by $1.26 billion to $3.85 billion during the year ended December 31, 2024 from $2.59 billion during the year ended December 31, 2023. The increase was primarily due to a $1.81 billion increase in proceeds from issuances of debt, partially offset by a $1.15 billion increase in repayments of debt. See Note 10,
+Debt
+, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details regarding our debt obligations. Additionally, there was an increase of $541 million in proceeds from exercises of stock options and other stock issuances compared to the prior year.
+Recent Accounting Pronouncements
+See Note 2,
+Summary of Significant Accounting Policies
+, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+43
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Foreign Currency Risk
+We transact business globally in multiple currencies and hence have foreign currency risks related to our revenue, costs of revenue and operating expenses denominated in currencies other than the U.S. dollar (primarily the Chinese yuan and euro in relation to our current year operations). In general, we are a net receiver of currencies other than the U.S. dollar for our foreign subsidiaries. Accordingly, changes in exchange rates affect our operating results as expressed in U.S. dollars as we do not typically hedge foreign currency risk.
+We have also experienced, and will continue to experience, fluctuations in our net income as a result of gains (losses) on the settlement and the re-measurement of monetary assets and liabilities denominated in currencies that are not the local currency (primarily consisting of our intercompany and cash and cash equivalents balances).
+We considered the historical trends in foreign currency exchange rates and determined that it is reasonably possible that adverse changes in foreign currency exchange rates of 10% for all currencies could be experienced in the near-term. These changes were applied to our total monetary assets and liabilities denominated in currencies other than our local currencies at the balance sheet date to compute the impact these changes would have had on our net income before income taxes. These changes would have resulted in a gain or loss of $1.15 billion at December 31, 2024 and $1.01 billion at December 31, 2023, assuming no foreign currency hedging.
+44
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Index to Consolidated Financial Statements
+45
+Report of Independent Registered Public Accounting Firm
+To the
+Board of Directors and Stockholders of Tesla, Inc.
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of Tesla, Inc. and its subsidiaries (the "Company") as of December 31, 2024 and 2023,

@@ -1,0 +1,44 @@
+accumulated other comprehensive income (AOCI), net of the ACL and applicable income taxes. Information on debt securities held for trading is included in Note 2 (Trading Activities). For both AFS and HTM debt securities, amortized cost is the unpaid principal amount, net of unamortized basis
+adjustments. Basis adjustments may include purchase premiums or discounts, fair value hedge accounting basis adjustments, fair value write-downs related to recognition of intent to sell, impairment losses, and charge-offs or recoveries of amounts deemed uncollectible.
+Outstanding balances exclude accrued interest receivable on AFS and HTM debt securities, which are included in other assets. See Note 7 (Intangible Assets and Other Assets) for additional information on accrued interest receivable. Amounts considered to be uncollectible are reversed through interest income.
+Table 3.1:
+Available-for-Sale and Held-to-Maturity Debt Securities Outstanding
+(1)
+Represents amortized cost of the securities, net of the ACL of $
+34
+million related to AFS debt securities at both March 31, 2025, and December 31, 2024, and $
+104
+million and $
+95
+million related to HTM debt securities at March 31, 2025, and December 31, 2024, respectively.
+(2)
+Includes investments in tax-exempt preferred debt securities issued by investment funds or trusts that predominantly invest in tax-exempt municipal securities. The amortized cost, net of the ACL, and fair value of these types of securities, was $
+2.8
+billion at both March 31, 2025, and December 31, 2024.
+(3)
+Predominantly consists of commercial mortgage-backed securities at both March 31, 2025, and December 31, 2024.
+(4)
+Represents fair value hedge basis adjustments related to active portfolio layer method hedges of AFS debt securities, which are not allocated to individual securities in the portfolio. For additional information, see Note 11 (Derivatives).
+Note 3:
+Available-for-Sale and Held-to-Maturity Debt Securities
+(continued)
+Table 3.2 details the breakout of purchases of HTM debt securities by major category of security. There were
+no
+transfers to HTM debt securities during the periods presented below.
+Table 3.2:
+Held-to-Maturity Debt Securities Purchases
+(1)
+Inclusive of non-cash purchases from securitization of loans held for sale (LHFS).
+Table 3.3 shows the composition of interest income, provision for credit losses, and gross realized gains and losses
+from sales and impairment write-downs included in earnings related to AFS and HTM debt securities (pre-tax)
+.
+Table 3.3:
+Income Statement Impacts for Available-for-Sale and Held-to-Maturity Debt Securities
+(1)
+Excludes interest income from trading debt securities, which is disclosed in Note 2 (Trading Activities).
+(2)
+Realized gains and losses relate to AFS debt securities. There were
+no
+realized gains or losses from HTM debt securities in all periods presented.
+Credit Quality
+We monitor credit quality of debt securities by evaluating various attributes and utilize such

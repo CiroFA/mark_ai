@@ -1,0 +1,55 @@
+discussion of contract balances, see Note 10. For a summary of revenue provided by our reportable segments, see Note 25. The recognition of revenue is not impacted by the operating segment in which revenue is generated.
+- 81 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+4.
+Receivables from and Payables to Brokers, Dealers, and Clearing Organizations
+Receivables from and payables to brokers, dealers, and clearing organizations are detailed below:
+See Note 18 for additional information regarding securities lending and borrowing activities.
+5.
+Receivables from and Payables to Brokerage Clients
+Receivables from and payables to brokerage clients are detailed below:
+(1)
+The allowance for credit losses for receivables from brokerage clients and related activity was immaterial for all periods presented.
+At December 31, 2024, approximately
+16
+% of CS&Co’s total client accounts were located in California. As of December 31, 2023, approximately
+17
+% of CS&Co and TD Ameritrade, Inc. client accounts were located in California.
+- 82 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+6.
+Investment Securities
+The amortized cost, gross unrealized gains and losses, and fair value of the Company’s AFS and HTM investment securities are as follows:
+(1)
+As of December 31, 2024 and 2023, approximately
+35
+% and
+36
+%, respectively, of the total AFS corporate debt securities were issued by institutions in the financial services industry.
+(2)
+Approximately
+62
+% and
+61
+% of asset-backed securities held as of December 31, 2024 and 2023, respectively, were Federal Family Education Loan Program Asset-Backed Securities. Asset-backed securities collateralized by credit card receivables represented approximately
+25
+% and
+24
+% of the asset-backed securities held as of December 31, 2024 and 2023, respectively.
+(3)
+This represents the amount of PLM fair value hedge basis adjustments related to AFS securities hedged in a closed portfolio. See Notes 2 and 17 for more information on PLM hedge accounting.
+At December 31, 2024, our banking subsidiaries had pledged investment securities with a fair value of $
+62.7
+billion (collateral value of $
+58.1
+billion) as collateral to secure borrowing capacity on secured credit facilities with the FHLB (see Note 13). Our banking subsidiaries also pledge investment securities as collateral to secure borrowing capacity at the Federal Reserve discount window, and had pledged securities with a fair value of $
+31.6
+billion (collateral value of $
+30.5
+billion) as collateral for this facility at December 31, 2024. The Company also pledges investment securities issued by federal agencies to secure certain trust deposits. The fair value and collateral value of these pledged securities was $
+1.5
+billion at

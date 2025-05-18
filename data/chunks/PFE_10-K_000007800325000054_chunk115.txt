@@ -1,0 +1,20 @@
+ratios, factors, assessments, experiences or judgments are not indicative or accurate estimates of our future experience, our results could be materially affected. The potential of our estimates to vary (sensitivity) differs by program, product, type of customer and geographic location. However, estimates associated with U.S. Medicare, Medicaid and performance-based contract rebates are most at risk for material adjustment because of the extensive time delay between the recording of the accrual and its ultimate settlement, an interval that can generally range up to one year. Because of this lag, our recording of adjustments to reflect actual amounts can incorporate revisions of several prior quarters. Rebate accruals are product specific and, therefore for any period, are impacted by the mix of products sold as well as the forecasted channel mix for each individual product. For further information, see the
+Product Revenue Deductions
+section within MD&A and
+Note 1G
+.
+Asset Impairments
+We review all of our long-lived assets for impairment indicators throughout the year. We perform impairment testing for indefinite-lived intangible assets and goodwill at least annually and for all other long-lived assets whenever impairment indicators are present. When necessary, we record charges for impairments of long-lived assets for the amount by which the fair value is less than the carrying value of these assets. Our impairment review processes are described in
+Note 1M
+.
+Examples of events or circumstances that may be indicative of impairment include:
+•
+A significant adverse change in legal factors or in the business climate that could affect the value of the asset. For example, a successful challenge of our patent rights would likely result in generic competition earlier than expected.
+•
+A significant adverse change in the extent or manner in which an asset is used such as a restriction imposed by the FDA or other regulatory authorities, withdrawals or other unusual items that could affect our ability to manufacture or sell a product.
+•
+An expectation of losses or reduced profits associated with an asset. This could result, for example, from a change in development plans or a change in a government reimbursement program that results in an inability to sustain projected product revenues and profitability. This also could result from the introduction of a competitor’s product that impacts projected revenue growth, as well as the lack of acceptance of a product by patients, physicians and payors. For IPR&D projects, this could result from, among other things, a change in outlook based on clinical trial data, a delay in the projected launch date or additional expenditures to commercialize the product.
+•
+Changes in development plans and/or de-prioritization of certain assets.
+Identifiable Intangible Assets
+––We use an income approach, specifically the discounted cash flow method to determine the fair value of intangible assets, other than goodwill. We start with

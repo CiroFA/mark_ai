@@ -1,0 +1,16 @@
+allocated to the performance obligations of the arrangement.
+Judgment is required to determine the imputed interest rate. For EIP sales, the imputed rate used to adjust the transaction price reflects current market interest rates, including the estimated credit risk of the underlying customers. Customer credit behavior is inherently uncertain. See “Receivables and Related Allowance for Credit Losses” above, for additional discussion on how we assess credit risk.
+Contract Balances
+Generally, our devices and service plans are available at standard prices, which are maintained on price lists and published on our website and/or within our retail stores.
+For contracts that involve more than one product or service that are identified as separate performance obligations, the transaction price is allocated to the performance obligations based on their relative standalone selling prices. The standalone selling price is the price at which we would sell the good or service separately, on a standalone basis, to similar customers in similar circumstances.
+A contract asset is recorded when revenue is recognized in advance of our right to receive consideration (i.e., we must perform additional services in order to receive consideration). Amounts are recorded as receivables when our right to consideration is unconditional.
+When consideration is received, or we have an unconditional right to consideration in advance of delivery of goods or services, a contract liability is recorded. The transaction price can include non-refundable upfront fees, which are allocated to the identifiable performance obligations.
+66
+Index for Notes to the Consolidated Financial Statements
+Contract assets are included in Other current assets and Other assets and contract liabilities are included in Deferred revenue on our Consolidated Balance Sheets. See
+Note 11 – Revenue from Contracts with Customers
+for further information.
+Contract Modifications
+Our service contracts allow customers to frequently modify their contracts without incurring penalties, in many cases. For contract modifications, we evaluate the change in scope or price of the contract to determine if the modification should be treated as a separate contract, as if there is a termination of the existing contract and creation of a new contract, or if the modification should be considered a change associated with the existing contract. We typically do not have significant impacts from contract modifications.
+Contract Costs
+We incur certain incremental costs to obtain a contract that we expect to recover, such as sales commissions. We record an asset when these incremental costs to obtain a contract are incurred and amortize them on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the asset relates. We capitalize postpaid sales commissions for service activation as costs to acquire a contract and amortize them on a straight-line basis over the estimated period of

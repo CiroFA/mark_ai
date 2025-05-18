@@ -1,0 +1,64 @@
+13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days:
+Yes
+☒
+No
+☐
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Table of Contents
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☒
+As of March 31, 2025, there were approximately
+207
+million shares of the Registrant’s Common Stock outstanding.
+TABLE OF CONTENTS
+i
+Table of Contents
+PART I
+ITEM 1.     FINANCIAL STATEMENTS
+SERVICENOW, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in millions, except number of shares which are reflected in thousands and per share data)
+See accompanying notes to condensed consolidated financial statements
+1
+Table of Contents
+SERVICENOW, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions, except number of shares which are reflected in thousands and per share data)
+(unaudited)
+(1)
+Includes stock-based compensation as follows:
+2
+Table of Contents
+See accompanying notes to condensed consolidated financial statements
+3
+Table of Contents
+SERVICENOW, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(in millions, except number of shares which are reflected in thousands)
+(unaudited)
+See accompanying notes to condensed consolidated financial statements
+4
+Table of Contents
+SERVICENOW, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+(unaudited)
+See accompanying notes to condensed consolidated financial statements
+5
+Table of Contents
+SERVICENOW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)
+Unless the context requires otherwise, references in this report to “ServiceNow,” the “Company,” “we,” “us,” and “our” refer to ServiceNow, Inc. and its consolidated subsidiaries.
+(1)
+Description of the Business
+ServiceNow was founded on a simple premise: to make work flow better. Our intelligent platform, the Now Platform, is a cloud-based solution that helps enterprises and organizations across public and

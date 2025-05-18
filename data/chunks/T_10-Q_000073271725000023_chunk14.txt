@@ -1,0 +1,57 @@
+shared assets. This segment contains the following business units:
+•
+Mobility
+provides nationwide wireless service and equipment.
+•
+Business Wireline
+provides advanced ethernet-based fiber services, fixed wireless services, IP Voice and managed professional services, as well as legacy voice and data services and related equipment, to business customers.
+•
+Consumer Wireline
+provides broadband services, including fiber connections that provide multi-gig services, and our fixed wireless access product (AT&T Internet Air or “AIA”) that provides internet services delivered over our 5G wireless network, to residential customers in select locations. Consumer Wireline also provides legacy telephony voice communication services.
+The
+Latin America segment
+provides wireless services and equipment in Mexico.
+Corporate and Other
+reconciles our segment results to consolidated operating income and income before income taxes.
+Corporate includes
+:
+•
+DTV-related retained costs
+, which are costs previously allocated to the Video business that were retained after the transaction, net of reimbursements from DIRECTV Entertainment Holdings, LLC (DIRECTV) under transition service agreements.
+•
+Parent administration support
+, which includes costs borne by AT&T where the business units do not influence decision making.
+•
+Securitization fees
+associated with our sales of receivables (see Note 8).
+•
+Value portfolio
+, which are businesses no longer integral to our operations or which we no longer actively market.
+Other items consist of
+:
+•
+Certain significant items
+, which includes items associated with the merger and integration of acquired or divested businesses, including amortization of intangible assets, employee separation charges associated with voluntary and/or strategic offers, asset impairments and abandonments and restructuring, and other items for which the segments are not being evaluated.
+“Interest expense,” “Other income (expense) – net” and “Equity in net income of affiliates” are managed only on a total company basis and are, accordingly, reflected only in consolidated results.
+11
+AT&T INC.
+MARCH 31, 2025
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+12
+AT&T INC.
+MARCH 31, 2025
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table is a reconciliation of Segment Operating Income to “Income Before Income Taxes” reported in our consolidated statements of income:
+The following tables present assets, investments in equity affiliates and capital expenditures by segment:
+13
+AT&T INC.
+MARCH 31, 2025
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+NOTE 5. REVENUE RECOGNITION
+Revenue Categories
+The following tables set forth reported revenue by category and by business unit:
+Deferred Customer Contract Acquisition and Fulfillment Costs
+Costs to acquire and fulfill

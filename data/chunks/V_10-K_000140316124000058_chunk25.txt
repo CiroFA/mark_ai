@@ -1,0 +1,17 @@
+India, Costa Rica, and Turkey, are using regulation to further drive down MDR, which could negatively affect the economics of our transactions.
+•
+While the focus of interchange and MDR regulation has primarily been on domestic rates historically, there are several examples of increasing focus on cross-border rates in recent years. For example, in 2019, we agreed to limit certain cross-border interchange rates in a settlement with the European Commission. That agreement has been extended through 2029. In 2020,
+Costa Rica became the first country to formally regulate cross-border interchange rates by regulation. Cross-border MDR is also regulated in Costa Rica and Turkey. In June 2022, the UK’s PSR initiated a market review
+focusing on post-Brexit increases in interchange rates for transactions between the UK and Europe.
+•
+As referenced above, with increased lobbying by merchants and other industry participants, we are also beginning to see regulatory interest in network fees. For example, the UK’s PSR is conducting a market review into scheme and processing fees. In its interim report, the PSR indicated that it is reviewing possible remedies, any of which, if adopted, could impose additional complexity and burdens on our business in the UK. Other regulators, for example, in Australia, the EU, and Chile, have expressed an interest in network fees, including issues related to transparency. Finally, in 2024, the Greek Parliament limited acquirer fees for certain small ticket transactions in some merchant categories for a period of three years.
+•
+In addition, industry participants in some countries, including Argentina, Colombia, the Dominican Republic, Paraguay, Peru and South Africa have sought intervention from competition regulators or filed claims relating to certain network rules, including Visa’s restrictions on cross-border acquiring. The Central Bank of Chile recently enacted regulation that will permit cross-border acquiring for CNP transactions under certain conditions. Other countries, like Brazil, have adopted regulations that require us to seek government pre-approval for certain of our network rules, which could also impact the way we operate in certain markets.
+•
+Government regulations or pressure may also impact our rules and practices and require us to allow other payments networks to support Visa products or services, to have the other networks’ functionality or brand marks on our products, or to share our intellectual property with other networks. In addition, the EU’s
+20
+Table
+of Contents
+requirement to separate scheme and processing adds costs and impacts the execution of our commercial, innovation and product strategies.
+•
+We are also subject to central bank oversight in a growing number of countries, including Brazil, India, the UK and within the EU. In several jurisdictions, we have been designated as a “systemically important payment system.” Some countries with existing oversight frameworks are looking to further enhance

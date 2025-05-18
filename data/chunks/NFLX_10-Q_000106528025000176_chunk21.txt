@@ -1,0 +1,15 @@
+of March 31, 2025, pricing on our plans ranged from the U.S. dollar equivalent of $1 to $31 per month, and pricing on our extra member sub accounts ranged from the U.S. dollar equivalent of $2 to $9 per month.  We expect that from time to time the prices of our membership plans in each country may change and we may test other plan and price variations.
+We also earn revenues from advertisements presented on our streaming service, consumer products, live experiences and various other sources.  Revenues earned from sources other than monthly membership fees were not a material component of revenues for the three months ended March 31, 2025 and March 31, 2024.
+Revenues for the three months ended March 31, 2025 increased 13% as compared to the three months ended March 31, 2024, primarily due to the growth in memberships and higher pricing, partially offset by unfavorable changes in foreign exchange rates, net of hedging.
+The following table summarizes revenue by region for the three months ended March 31, 2025 and 2024.  Hedging gains (losses) of $165 million and $(11) million are included in “Revenues” for the three months ended March 31, 2025 and 2024, respectively.  See Note 7
+Derivative Financial Instruments and Hedging Activities
+to the consolidated financial statements for further information regarding the Company’s derivative and non-derivative financial instruments.
+Non-GAAP Constant Currency Information
+We believe the non-GAAP financial measure of constant currency revenue is useful in analyzing period-to-period comparisons in revenues absent foreign currency fluctuations.  However, this non-GAAP financial measure should be considered in addition to, not as a substitute for, or superior to other financial measures prepared in accordance with GAAP.
+In order to exclude the effect of foreign currency rate fluctuations on revenue, we calculate current period revenue assuming foreign exchange rates had remained constant with foreign exchange rates from each of the corresponding months of the prior-year period and exclude the impact of hedging gains or losses realized as revenues.  Constant currency percentage change in revenues is calculated as the percentage change between current period constant currency revenue and the prior comparative period revenue.  The impact of hedging gains or losses is excluded from both the current and prior periods.
+The table below summarizes constant currency revenues by region for the three months ended March 31, 2025 and the constant currency percentage change in revenues by region for the three months ended March 31, 2025 as compared to the three months ended March 31, 2024:
+24
+Table of Contents
+Cost of Revenues
+Cost of revenues primarily consists of the amortization of content assets.  Other costs of revenues include expenses associated with the acquisition, licensing and production of content, streaming delivery costs, and other operating costs.
+Expenses related to the acquisition, licensing and production of

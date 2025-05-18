@@ -1,0 +1,105 @@
+0000097476
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000097476
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0000097476
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0000097476
+us-gaap:CommonStockMember
+2025-03-31
+0000097476
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0000097476
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000097476
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0000097476
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000097476
+us-gaap:CommonStockMember
+2023-12-31
+0000097476
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0000097476
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000097476
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0000097476
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000097476
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0000097476
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0000097476
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-03-31
+0000097476
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0000097476
+us-gaap:CommonStockMember
+2024-03-31
+0000097476
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0000097476
+us-gaap:RetainedEarningsMember
+2024-03-31
+0000097476
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0000097476
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0000097476
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0000097476
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+For the quarterly period ended
+March 31, 2025
+For the transition period from ___________ to ___________
+Commission File Number
+001-03761
+TEXAS INSTRUMENTS INCORPORATED
+(Exact Name of Registrant as Specified in Its Charter)
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated

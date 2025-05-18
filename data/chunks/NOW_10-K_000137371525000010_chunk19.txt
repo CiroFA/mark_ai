@@ -1,0 +1,15 @@
+guided experience and highly automated processes that reduce cycle time and cuts costs across procurement, supplier management and accounts payable processes.
+Now Assist for Source-to-Pay Operations, our AI solution, delivers simple experiences that can turn conversations into requisitions, making it easy for new or occasional users to follow the right process and reduce rogue spend.
+Customer Support, Professional Services and ServiceNow Impact
+Customer Support
+We offer our customers standard and enhanced support, from technical resources located around the globe, on a subscription-based model, as well as self-service technical support through our support portal, which provides access to documentation, knowledge-based articles, online training, online support forums and online case creation.
+Professional Services
+Our Professional Services, offered by ServiceNow directly and through our network of partners, include process design, implementation, configuration, architecture and optimization services that help our customers maximize the value of their ServiceNow investment. With a strong implementation methodology at the core of its foundation, our Professional Services help customers succeed by giving them access to ServiceNow product experts and technical best practices. Our training services include programs for all our products.
+8
+Table of Contents
+ServiceNow Impact
+ServiceNow Impact helps our customers accelerate the value they realize with our products and solutions. Through our subscription-based model, we offer our customers software tools and AI-driven recommendations that help increase adoption of ServiceNow solutions within their organizations, as well as with their customers. It also proactively monitors platform health, and tracks and reports on key platform metrics. In addition, ServiceNow Impact customers have access to designated experts, on-demand training, technical support and other services.
+Our Technology and Operations
+We operate a multi-instance architecture that provides each customer with its own dedicated application logic and databases. This architecture is designed to deliver high-availability, scalability, performance, security and control. Our cloud infrastructure primarily consists of industry-standard servers, networks and storage components. We host our full software-as-a-service (“SaaS”) experience on our own private cloud or customers may elect to use public cloud service providers.
+Our data centers operate in paired configurations to enable replication for high-availability and redundancy. We currently operate data centers in North America, South America, Europe, Asia and Australia, and we continuously evaluate our data center operations and capacity in existing and new geographies.
+We offer customers the option to deploy our services on dedicated hardware in our data centers. Our architecture also gives us the added flexibility to allow customers to deploy our services internally in their own data centers, with
