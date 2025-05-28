@@ -24,7 +24,7 @@ mark_ai/
   /data/ │ 
  ├── /db/ # Database relazionale SQL │ 
  ├── /raw/ # (opzionale) dati non strutturati │
- ├── /pdf_raw/ # HTML dei filing SEC (EDGAR) │ 
+ ├── /documents_raw/ # HTML dei filing SEC (EDGAR) │ 
  ├── /text_clean/ # Testi puliti e uniformati │ 
  ├── /chunks/ # Blocchi semantici (chunk) │ 
  └── /index/ # Vector store FAISS + mapping │ 

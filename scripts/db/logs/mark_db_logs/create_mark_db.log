@@ -1,0 +1,4 @@
+2025-05-25 20:48:58 [INFO] ✅ Successfully connected to MySQL server.
+2025-05-25 20:48:58 [INFO] ✅ Database 'mark_db' created or already exists.
+2025-05-25 20:48:58 [INFO] ✅ Successfully connected to database 'mark_db' at 127.0.0.1:3306.
+2025-05-25 20:48:58 [INFO] ✅ All tables created successfully in 'mark_db'.
