@@ -1,8 +1,3 @@
-# 🔍 Versione migliorata di retriever.py
-# - Aggiunto filtro per azienda/ticker nei chunk
-# - Parametro opzionale: company_hint
-# - Protezione fallback da mismatch
-
 import os
 import json
 import faiss
@@ -47,52 +42,20 @@ def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2, 
         meta = metadata[idx]
         fname = meta["filename"]
 
-        # 🎯 Filtro per azienda specifica nel fallback
-        if company_hint and not fname.startswith(company_hint):
+        # 🎯 Filtro per azienda/ticker nei chunk
+        if tickers and not any(t in fname for t in tickers):
             continue
 
-        with open(os.path.join(ROOT_DIR, meta["path"]), "r", encoding="utf-8") as f:
-            text = f.read()
-
-        chunk = {
-            "filename": fname,
-            "distance": round(dist, 4),
-            "text": text.strip()
-        }
-
-        matched = False
         if tickers:
             for t in tickers:
-                if fname.startswith(t) and tickers_found[t] < per_company_k:
-                    results.append(chunk)
+                if t in fname and tickers_found[t] < per_company_k:
+                    results.append(meta)
                     tickers_found[t] += 1
-                    matched = True
                     break
-        if matched:
-            continue
+        else:
+            results.append(meta)
 
-        if len(results) < total_k:
-            results.append(chunk)
-
-        if len(results) >= total_k and (not tickers or all(v >= per_company_k for v in tickers_found.values())):
+        if len(results) >= total_k:
             break
 
     return results
-
-# 🔁 Fallback semantico (già presente prima)
-from sentence_transformers import SentenceTransformer, util
-
-GENERAL_TOPICS = [
-    "mercato della frutta", "agricoltura", "tecnologia",
-    "sanità", "consumi", "materie prime", "settore industriale"
-]
-st_model = SentenceTransformer('all-MiniLM-L6-v2')
-
-def find_closest_general_topic(query):
-    q_emb = st_model.encode(query, convert_to_tensor=True)
-    sims = [
-        (topic, float(util.cos_sim(q_emb, st_model.encode(topic, convert_to_tensor=True))))
-        for topic in GENERAL_TOPICS
-    ]
-    sims.sort(key=lambda x: x[1], reverse=True)
-    return sims[0] if sims else (None, 0)
