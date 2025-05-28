@@ -9,4 +9,5 @@ pymysql
 python-dotenv
 lxml
 sentence-transformers
+flask
 
