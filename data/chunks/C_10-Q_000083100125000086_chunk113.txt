@@ -1,0 +1,46 @@
+amount of total gains or losses for the period, included in earnings (and
+AOCI
+for changes in fair value of available-for-sale debt securities and DVA on fair value option liabilities), attributable to the change in fair value relating to assets and liabilities classified as Level 3 that are still held at March 31, 2024.
+(4)
+Total Level 3 trading derivative assets and liabilities have been netted in these tables for presentation purposes only.
+183
+Level 3 Fair Value Transfers
+There were no significant Level 3 transfers for the period from December 31, 2024 to March 31, 2025.
+The following were the significant Level 3 transfers for the period from December 31, 2023 to March 31, 2024:
+During the three months ended March 31, 2024, transfers of
+Long-term debt
+were $
+1.4
+billion from Level 2 to Level 3. Of the $
+1.4
+billion transfer, approximately $
+0.9
+billion related to interest rate option volatility inputs becoming unobservable and/or significant relative to their overall valuation, and $
+0.4
+billion related to equity and credit derivative inputs (in addition to other volatility inputs, e.g., interest rate volatility inputs) becoming unobservable and/or significant to their overall valuation. In other instances, market changes have resulted in some inputs becoming more observable, and some unobservable inputs becoming less significant to the overall valuation of the instruments (e.g., when an option becomes deep-in or deep-out of the money). This has primarily resulted in $
+0.8
+billion of certain structured long-term debt products being transferred from Level 3 to Level 2 during the three months ended March 31, 2024
+.
+184
+Valuation Techniques and Inputs for Level 3 Fair Value Measurements
+The following tables present the valuation techniques covering the majority of Level 3 inventory and the most significant unobservable inputs used in Level 3 fair value measurements.
+Differences between these tables and amounts presented in the Level 3 Fair Value Rollforward tables represent individually immaterial items that have been measured using a variety of valuation techniques other than those listed.
+185
+186
+(1)
+The tables above include the fair values for the items listed and may not represent the total population for each category.
+(2)
+Some inputs are shown as zero due to rounding.
+(3)
+When the low and high inputs are the same, there is either a constant input applied to all positions, or the methodology involving the input applies to only one large position.
+(4)
+Weighted averages are calculated based on the fair values of the instruments.
+(5)
+For equity securities, the price inputs are expressed on an absolute basis, not as a percentage of the notional amount.
+(6)
+Both trading and non-trading account derivatives—assets and liabilities—are presented on a gross absolute value basis.
+(7)
+Includes hybrid products.
+187
+Items Measured at Fair Value on a Nonrecurring Basis
+Certain assets and liabilities are measured at fair value on a nonrecurring basis and,

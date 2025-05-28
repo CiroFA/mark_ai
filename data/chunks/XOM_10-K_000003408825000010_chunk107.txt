@@ -1,0 +1,37 @@
+be recoverable and conducted impairment assessments. Before-tax impairment charges recognized during 2024 are immaterial.
+In 2023, the Corporation recognized before-tax impairment charges of $
+3.3
+billion, in large part due to impairing the idled Upstream Santa Ynez Unit assets and associated facilities in California, reflecting the continuing challenges in the state regulatory environment that impeded progress in restoring operations. Other before-tax impairment charges recognized during 2023 included $
+0.3
+billion in Upstream, $
+0.3
+billion in Chemical Products, and $
+0.1
+billion in Specialty Products.
+In 2022, the Corporation recognized before-tax impairment charges of $
+4.5
+billion as a result of the Corporation's plans to discontinue operations on the Sakhalin-1 project and develop steps to exit the venture in response to Russia's military action in Ukraine (Refer to
+Note 2
+for additional information). Other before-tax impairment charges recognized during 2022 included $
+1.5
+billion in Upstream and $
+0.4
+billion in Energy Products.
+Impairment charges are primarily recognized in the lines “
+Depreciation and depletion” and “Exploration expenses, including dry holes
+” on the Consolidated Statement of Income. Accumulated depreciation and depletion totaled $
+259,585
+million at the end of 2024 and $
+272,445
+million at the end of 2023.
+92
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Asset Retirement Obligations
+The Corporation incurs retirement obligations for certain assets. The fair values of these obligations are recorded as liabilities on a discounted basis, which is typically at the time the assets are installed. In the estimation of fair value, the Corporation uses assumptions and judgments regarding such factors as the existence of a legal obligation for an asset retirement obligation, technical assessments of the assets, estimated amounts and timing of settlements, discount rates, and inflation rates. Asset retirement obligations incurred in the current period were level 3 fair value measurements. The costs associated with these liabilities are capitalized as part of the related assets and depreciated as the reserves are produced. Over time, the liabilities are accreted for the change in their present value.
+Asset retirement obligations for facilities in the Product Solutions business generally become firm at the time a decision is made to permanently shut down and dismantle the facilities. These obligations may include the costs of asset disposal and additional soil remediation. However, these sites generally have indeterminate lives based on plans for continued operations and as such, the fair value of the conditional legal obligations cannot be measured, since it is impossible to estimate the future settlement dates of such obligations.
+The following table summarizes the activity in the liability for asset retirement obligations:
+The long-term Asset Retirement Obligations were $
+10,886
+million and $
+11,942
+million at December 31, 2024 and

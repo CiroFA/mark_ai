@@ -1,0 +1,16 @@
+per share, which was paid in March 2025.
+16
+Accumulated other comprehensive income (loss)
+The components of AOCI were as follows (in millions):
+Reclassifications out of AOCI and into earnings, including related income tax expenses, were as follows (in millions):
+11.
+Fair value measurement
+To estimate the fair values of our financial assets and liabilities, we use valuation approaches within a hierarchy that maximize the use of observable inputs and minimize the use of unobservable inputs by requiring that observable inputs be used when available. Observable inputs are inputs that market participants would use in pricing an asset or liability based on market data obtained from sources independent of the Company. Unobservable inputs are inputs that reflect the Company’s assumptions about the inputs that market participants would use in pricing an asset or liability and are developed based on the best information available in the circumstances. The fair value hierarchy is divided into three levels based on the sources of inputs as follows:
+The availability of observable inputs can vary among different types of financial assets and liabilities. To the extent that the valuation is based on models or inputs that are less observable or unobservable in the market, the determination of fair value requires more judgment. In certain cases, inputs used for measuring fair value may fall into different levels of the fair value hierarchy. In such cases, for financial statement disclosure purposes, the level in the fair value hierarchy within which the fair value measurement is categorized is based on the lowest level of input used that is significant to the overall fair value measurement.
+17
+The fair values of each major class of the Company’s financial assets and liabilities measured at fair value on a recurring basis were as follows (in millions):
+18
+Interest-bearing and equity securities
+The fair values of our U.S. Treasury bills are determined by utilizing third-party pricing services, which obtain pricing data from active market makers and brokers. The fair values of our money market mutual funds and equity investments in publicly traded securities, including our equity investments in BeiGene and Neumora, as of March 31, 2025 and December 31, 2024, are based on quoted market prices in active markets, with no valuation adjustment.
+Derivatives
+All of our foreign currency forward contracts, cross-currency swap contracts and interest rate swap contracts are with counterparties that have minimum credit ratings of A– or equivalent by S&P, Moody’s or Fitch. We estimate the fair values of these contracts by taking into consideration valuations obtained from a third-party valuation service that uses an income-based industry-standard valuation model for which all significant inputs are observable either directly or indirectly. These inputs, as applicable, include foreign currency exchange rates, SOFR, swap rates, obligor credit default swap rates and cross-currency

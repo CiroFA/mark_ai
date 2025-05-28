@@ -1,0 +1,28 @@
+deposits at fair value because they are not hedged using derivatives.
+Short-term Borrowings
+The Corporation elects to account for certain short-term borrowings, primarily short-term structured liabilities, under the fair value option because this debt is risk-managed on a fair value basis.
+The Corporation also elects to account for certain asset-backed secured financings, which are also classified in short-term borrowings, under the fair value option. Election of the fair value option allows the Corporation to reduce the accounting volatility that would otherwise result from the asymmetry created by accounting for the asset-backed secured financings at historical cost and the corresponding mortgage LHFS securing these financings at fair value.
+Long-term Debt
+The Corporation elects to account for certain long-term debt, primarily structured liabilities, under the fair value option. This
+long-term debt is either risk-managed on a fair value basis or the related hedges do not qualify for hedge accounting.
+Fair Value Option Elections
+The following tables provide information about the fair value carrying amount and the contractual principal outstanding of assets and liabilities accounted for under the fair value option at December 31, 2024 and 2023, and information about where changes in the fair value of assets and liabilities accounted for under the fair value option are included in the Consolidated Statement of Income for 2024, 2023 and 2022.
+(1)
+A significant portion of the loans reported as trading account assets and LHFS are distressed loans that were purchased at a deep discount to par, and the remainder are loans with a fair value near contractual principal outstanding.
+n/a = not applicable
+(1)
+The gains (losses) in market making and similar activities are primarily offset by (losses) gains on trading liabilities that hedge these assets.
+(2)
+Includes the value of IRLCs on funded loans, including those sold during the period.
+(3)
+The net gains (losses) in market making and similar activities relate to the embedded derivatives in structured liabilities and are typically offset by (losses) gains on derivatives and securities that hedge these liabilities. For the cumulative impact of changes in the Corporation’s own credit spreads and the amount recognized in accumulated OCI, see
+Note 14 – Accumulated Other Comprehensive Income (Loss)
+. For more information on how the Corporation’s own credit spread is determined, see
+Note 20 – Fair Value Measurements.
+(4)
+Includes gains (losses) on other assets, long-term deposits and federal funds purchased and securities loaned or sold under agreements to repurchase.
+NOTE 22
+Fair Value of Financial Instruments
+Financial instruments are classified within the fair value hierarchy using the methodologies described in
+Note 20 – Fair Value Measurements
+. Certain loans, deposits, long-term debt, unfunded lending commitments and other financial instruments are accounted for under the fair value option. For more

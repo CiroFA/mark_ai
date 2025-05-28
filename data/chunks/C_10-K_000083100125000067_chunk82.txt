@@ -1,0 +1,21 @@
+spreads and equity prices on Citi’s net interest income, economic value of equity or
+AOCI
+.
+•
+Operational risk
+is the risk of loss resulting from inadequate or failed internal processes, people and systems, or from external events. It includes legal risk, which is the risk of loss (including litigation costs, settlements and regulatory fines) resulting from Citi’s failure to comply with laws, regulations, prudent ethical standards or contractual obligations in any aspect of Citi’s business, but excludes strategic and reputation risks (see below).
+•
+Compliance risk
+is the risk to current or projected financial condition and resilience arising from violations of laws, rules or regulations, or from non-conformance
+68
+with prescribed practices, internal policies and procedures or ethical standards.
+•
+Reputation risk
+is the risk to current or projected financial conditions and resilience from negative opinion held by stakeholders. This risk may impair Citi’s competitiveness by affecting its ability to establish new relationships or services or continue servicing existing relationships.
+•
+Strategic risk
+is the risk of a sustained impact (not episodic impact) to Citi’s core strategic objectives as measured by impacts on anticipated earnings, market capitalization or capital, arising from the external factors affecting the Company’s operating environment, as well as the risks associated with defining the strategy and executing the strategy, which are identified, measured and managed as part of the Strategic Risk Framework at the Enterprise Level.
+Additionally, Citi categorizes and summarizes risks that span the above risk categories, such as concentration risk, country risk and climate risk.
+Citi uses a lines of defense model as a key component of its ERM Framework to manage its risks. As discussed below, the lines of defense model brings together risk-taking, risk oversight and risk assurance under one umbrella and provides an avenue for risk accountability of the first line of defense, a construct for effective challenge by the second line of defense (Independent Risk Management and Independent Compliance Risk Management), and empowers independent risk assurance by the third line of defense (Internal Audit). In addition, the lines of defense model includes organizational units tasked with supporting a strong control environment (enterprise support functions). The first, second and third lines of defense, along with enterprise support functions, have distinct roles and responsibilities and are empowered to perform relevant risk management processes and responsibilities in order to manage Citi’s risks in a consistent and effective manner.
+First Line of Defense: Front Line Units and Front Line Unit Activities
+Citi’s first line of defense owns the risks and associated controls inherent in, or arising from, the execution of its business activities and is responsible for identifying, measuring, monitoring, controlling and reporting those risks consistent

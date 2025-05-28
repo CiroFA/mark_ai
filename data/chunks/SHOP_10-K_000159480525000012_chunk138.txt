@@ -1,0 +1,33 @@
+option group.
+•
+Expected Dividend.
+The Company has not paid and does not anticipate paying any cash dividends in the foreseeable future and, therefore, uses an expected dividend yield of
+zero
+in the option pricing model.
+The grant weighted average assumptions used to estimate the fair value of stock options granted to employees were as follows:
+In addition to the assumptions used in the Black-Scholes option valuation model, the Company also estimates a forfeiture rate to calculate the share-based compensation expense for our awards. The Company's forfeiture rate is based on an analysis of its actual forfeitures. The Company will continue to evaluate the appropriateness of the forfeiture rate based on actual forfeiture experience, analysis of employee turnover, and other factors. Changes in the estimated forfeiture rate can have a significant impact on share-based compensation expense as the cumulative effect of adjusting the rate is recognized in the period the forfeiture estimate is changed. If a revised forfeiture rate is higher/lower than the previously estimated forfeiture rate, an adjustment is made that will result in an increase/decrease to the share-based compensation expense recognized in the consolidated financial statements.
+110
+Table of Contents
+The following table illustrates the classification of stock-based compensation in the consolidated statement of operations and comprehensive income (loss), which includes both stock-based compensation and restricted share-based compensation expense:
+(1)
+Includes accelerated stock-based compensation of $
+5
+million and $
+164
+million in sales and marketing and research and development, respectively, during the year ended December 31, 2023
+.
+20.
+Changes in Accumulated Other Comprehensive (Loss) Income
+The following table summarizes the changes in accumulated other comprehensive (loss) income, which is reported as a component of shareholders’ equity, were as follows:
+111
+Table of Contents
+21.
+Income Taxes
+The domestic and foreign components of income (loss) before income taxes and (provision for) recovery of income taxes were as follows:
+The reconciliation of the expected income tax (expense) recovery calculated using the statutory tax rate to the actual (provision for) recovery of income taxes reported in the consolidated statements of operations and comprehensive income (loss) for the years ended December 31, 2024, 2023 and 2022 is as follows:
+(1)
+Our Canadian corporate tax rate is comprised of a basic Part I federal tax rate of 38%, net 15% after federal tax abatement and general tax reduction, plus the additional provincial tax of 11.5%.
+112
+Table of Contents
+The significant components of the Company’s deferred income tax assets and liabilities as of December 31, 2024 and 2023 were as follows:
+During the year ended December 31, 2024, the Company assessed whether a valuation allowance should be established or maintained against its deferred tax assets, based on consideration of all available

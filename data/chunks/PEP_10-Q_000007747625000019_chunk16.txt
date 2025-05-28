@@ -1,0 +1,48 @@
+recorded in cash and cash equivalents. As of December 28, 2024, we had
+no
+investments in held-to-maturity debt securities. As of March 22, 2025, gross unrecognized gains and losses and the allowance for expected credit losses on these securities were
+not material
+.
+Available-for-Sale
+Related to our Level 3 (significant unobservable inputs) investment in Celsius Holdings, Inc. (Celsius), we recorded an unrealized gain of $
+110
+million in other comprehensive income and a decrease in the investment of $
+7
+million due to cash dividends received during the 12 weeks ended March 22, 2025. We recorded an unrealized gain of $
+691
+million in other comprehensive income during the 12 weeks ended March 23, 2024.
+In addition, we recorded an unrealized loss of $
+14
+million in other comprehensive income during the 12 weeks ended March 22, 2025 related to our other Level 3 available-for-sale debt securities. There were
+no
+other Level 3 available-for-sale debt securities held during the 12 weeks ended March 23, 2024.
+There were
+no
+impairment charges related to our investments in available-for-sale debt securities in both the 12 weeks ended March 22, 2025 and March 23, 2024. There were unrealized gains of $
+430
+million and $
+1,303
+million as of March 22, 2025 and March 23, 2024, respectively, associated with our available-for-sale debt securities.
+17
+Table of Contents
+Recurring Fair Value Measurements
+The fair values of our financial assets and liabilities as of March 22, 2025 and December 28, 2024 are categorized as follows:
+(a)
+Fair value hierarchy levels are categorized consistently by Level 1 (quoted prices in active markets for identical assets), Level 2 (significant other observable inputs) and Level 3 in both years. Unless otherwise noted, financial assets are classified on our balance sheet within prepaid expenses and other current assets and other assets. Financial liabilities are classified on our balance sheet within accounts
+payable and other current liabilities and other liabilities.
+(b)
+Classified as other assets. Includes $
+888
+million and $
+785
+million related to our investment in Celsius as of March 22, 2025 and December 28, 2024, respectively; also, includes $
+242
+million and $
+256
+million related to our other investment in available-for-sale debt securities as of March 22, 2025 and December 28, 2024, respectively. The fair value of our Level 3 investment in Celsius is estimated using probability-weighted discounted future cash flows based on a Monte Carlo simulation using significant unobservable inputs such as an
+80
+% probability that a certain market-based condition will be met and an average estimated discount rate of
+7.3
+% based on Celsius’ estimated synthetic credit rating. The fair value of the other Level 3 investment is estimated using a lattice model primarily based on the underlying stock price, volatility and certain significant unobservable inputs, such as a discount rate of
+8.3
+% based on an estimated synthetic credit rating. An

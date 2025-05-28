@@ -1,0 +1,16 @@
+but not including, the date of repurchase.
+Principal on the Secured Borrowings will be paid over the term with repayment amounts dependent on the performance of the underlying assets securing each borrowing. Repayment amounts from the underlying assets are restricted to solely satisfy the Secured Borrowings obligations. As of December 31, 2024, the fair value of the assets securing both Secured Borrowings equaled $49.6 million.
+CLO Notes Payable have maturity dates ranging from June 2025 to January 2037. A portion of the borrowing outstanding is comprised of subordinated notes which do not have contractual interest rates but instead pay distributions from the excess cash flows of the CLO vehicles.
+Represents the Credit Facility of Blackstone, through the Issuer. Interest on the borrowings is based on an adjusted Secured Overnight Finance Rate (“SOFR”) or alternate base rate, in each case plus a margin, and undrawn commitments bear a commitment fee
+Fair value is determined by broker quote and these notes would be classified as Level II within the fair value hierarchy.
+Total Segment Expenses is comprised of the following:
+A summary of the investments where the fair value is not readily determinable and NAV is used as a practical expedient as of December 31, 2024 is presented by strategy type below:
+Equity Securities, Partnership and LLC Interest includes investments in investment funds.
+For the years ended December 31, 2024 and 2023, this includes shares to be issued under the contingently issuable share model for an acquisition-related compensation arrangement.
+Dividends declared reflects the calendar date of the declaration for each distribution. The fourth quarter dividends, if any, for any fiscal year will be declared and paid in the subsequent fiscal year.
+This adjustment removes Unrealized Performance Revenues on a segment basis.
+This adjustment removes Unrealized Principal Investment (Income) Loss on a segment basis.
+This adjustment removes Interest and Dividend Revenue on a segment basis.
+This adjustment removes Other Revenue on a segment basis. For the years ended December 31, 2024, 2023 and 2022, Other Revenue on a GAAP basis was $123.7 million, $(92.9) million and $184.6 million and included $122.3 million, $(94.7) million, and $182.9 million of foreign exchange gains (losses), respectively.
+This adjustment reverses the effect of consolidating Blackstone Funds, which are excluded from Blackstone’s segment presentation. This adjustment includes the elimination of Blackstone’s interest in these funds, the removal of amounts attributable to the reimbursement of certain expenses by the Blackstone Funds and certain NAV-based fee arrangements, which are presented on a gross basis under GAAP but as a reduction of Management and Advisory Fees, Net in the Total Segment measures, and the removal of amounts associated with the ownership of Blackstone consolidated operating partnerships held by non-controlling interests.
+Total Segment Revenues is

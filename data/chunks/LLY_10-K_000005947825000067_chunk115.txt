@@ -1,0 +1,34 @@
+launch timing.
+Note 6:
+Inventories
+We use the last-in, first-out (LIFO) method for the majority of our inventories located in the continental U.S. Other inventories are valued by the first-in, first-out (FIFO) method. FIFO cost approximates current replacement cost.
+Inventories measured using LIFO must be valued at the lower of cost or market. Inventories measured using FIFO must be valued at the lower of cost or net realizable value.
+Inventories at December 31 consisted of the following:
+Inventories valued under the LIFO method comprised $
+2.70
+billion and $
+1.77
+billion of total inventories at December 31, 2024 and 2023, respectively.
+When we believe that future commercialization is probable and the future economic benefit is expected to be realized, we capitalize pre-launch inventory prior to regulatory approval. A number of factors are considered, including the current status in the regulatory approval process, potential impediments to the approval process such as safety or efficacy, viability of commercialization, and marketplace trends. Pre-launch inventory capitalized as of December 31, 2024 was $
+548.1
+million, primarily related to orforglipron.
+75
+Note 7:
+Financial Instruments
+Investments in Equity and Debt Securities
+Our equity investments are accounted for using three different methods depending on the type of equity investment:
+•
+Investments in companies over which we have significant influence but not a controlling interest are accounted for using the equity method, with our share of earnings or losses reported in other-net, (income) expense.
+•
+For equity investments that do not have readily determinable fair values, we measure these investments at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for the identical or similar investment of the same issuer. Any change in recorded value is recorded in other-net, (income) expense.
+•
+Our public equity investments are measured and carried at fair value. Any change in fair value is recognized in other-net, (income) expense.
+We adjust our equity investments without readily determinable fair values based upon changes in the equity instruments' values resulting from observable price changes in orderly transactions for an identical or similar investment of the same issuer. Downward adjustments resulting from an impairment are recorded based upon impairment considerations, including the financial condition and near-term prospects of the issuer, general market conditions, and industry specific factors.
+Adjustments recorded for the years ended December 31, 2024, 2023, and 2022 were not material.
+The net losses recognized in our consolidated statements of operations for equity securities were $
+49.5
+million, $
+20.2
+million, and $
+410.7
+million for the years ended December 31, 2024, 2023, and 2022, respectively. The net gains (losses) recognized for the years ended December 31, 2024, 2023, and 2022 on equity securities sold during the

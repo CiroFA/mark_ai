@@ -1,0 +1,18 @@
+Net of net income (loss) attributable to noncontrolling interests (redeemable and nonredeemable).
+(2)
+BlackRock reports its financial results in accordance with accounting principles generally accepted in the United States (“GAAP”); however, management believes evaluating the Company’s ongoing operating results may be enhanced if investors have additional non-GAAP financial measures.
+Beginning in the first quarter of 2022, BlackRock updated the definitions of operating income, as adjusted, operating margin, as adjusted, and net income attributable to BlackRock, Inc., as adjusted, to include new adjustments. Such measures have been recast for all prior periods to reflect the inclusion of such new adjustments. In addition, beginning in the first quarter of 2023, BlackRock updated the definitions of its non-GAAP financial measures to exclude the impact of market valuation changes on certain deferred cash compensation plans which the Company began economically hedging in 2023. For further information on non-GAAP financial measures and for as adjusted items for 2024 and 2023, see Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures
+. For further information on non-GAAP financial measures and for as adjusted items for 2022, 2021 and 2020, see Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures
+, of the Company's Annual Report on Form 10-K for the year ended December 31, 2022.
+Assets Under Management
+The Company’s AUM by product type for the years 2020 through 2024 is presented below.
+(1)
+Percentage represents compound annual growth rate (“CAGR”) over a five-year period (December 31, 2019 – December 31, 2024).
+Component changes in AUM by product type for the five years ended December 31, 2024 are presented below.
+(1)
+Amounts include the following: (a) net AUM from the acquisition of Aperio Group, LLC (“Aperio Transaction”) in February 2021, (b) net AUM from the acquisition of Kreos Capital (the “Kreos Transaction”) in August 2023, (c) net AUM from the acquisition of SpiderRock Advisors (the "SpiderRock Transaction") in May 2024 and (d) net AUM from the GIP Transaction in October 2024.
+2
+AUM represents the broad range of financial assets managed for clients on a discretionary basis pursuant to investment management and trust agreements that are expected to continue for at least 12 months. In general, reported AUM reflects the valuation methodology that corresponds to the basis used for determining revenue (for example, net asset value). Reported AUM does not include assets for which BlackRock provides risk management or other forms of nondiscretionary advice, or assets that the Company is retained to manage on a short-term, temporary basis.
+Investment management fees are typically earned as a percentage of AUM. BlackRock also earns performance fees on certain portfolios relative to an agreed-upon benchmark or

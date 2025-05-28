@@ -1,0 +1,27 @@
+on trading securities is recorded in
+Principal transactions
+.
+Physical commodities inventory is carried at the lower of cost or market, except when included in a hedging
+relationship. Any gains and losses related to physical commodities inventory are reported in
+Principal transactions
+. Realized gains and losses on hedged commodities inventories and sales of commodities inventory are included in
+Principal transactions
+. Investments in unallocated precious metals accounts (gold, silver, platinum and palladium) are accounted for as hybrid instruments containing a debt host contract and an embedded non-financial derivative instrument indexed to the price of the relevant precious metal. The embedded derivative instrument and debt host contract are carried at fair value under the fair value option, as described in Note 27.
+The Company manages its exposures to market movements outside of its trading activities by modifying the asset and liability mix, either directly or through the use of derivative financial products, including interest rate swaps, futures, forwards, purchased options and commodities, as well as foreign exchange contracts. These end-user derivatives are carried at fair value in
+Trading account assets
+and
+Trading account liabilities
+.
+See Note 24 for a further discussion of the Company’s hedging and derivative activities.
+Derivatives include interest rate, currency, equity, credit and commodity swap agreements, options, caps and floors, warrants, and financial and commodity futures and forward contracts. Derivative asset and liability positions are presented net by counterparty on the Consolidated Balance Sheet when a valid master netting agreement exists and the other conditions set out in ASC Topic 210-20,
+Balance Sheet—Offsetting
+, are met. See Note 24.
+The Company uses a number of techniques to determine the fair value of trading assets and liabilities, which are described in Note 26.
+Accounting for Derivative Hedging
+Citigroup accounts for its hedging activities in accordance with ASC 815,
+Derivatives and Hedging
+. As a general rule, hedge accounting is permitted where the Company is exposed to a particular risk, such as interest rate or foreign exchange risk, that causes changes in the fair value of an asset or liability or variability in the expected future cash flows of an existing asset, liability or a forecasted transaction that may affect earnings.
+Derivative contracts hedging the risks associated with changes in fair value are referred to as fair value hedges, while contracts hedging the variability of expected future cash flows are cash flow hedges. Hedges that utilize derivatives or debt instruments to manage the foreign exchange risk associated with equity investments in non-U.S.-dollar-functional-
+150
+currency foreign subsidiaries (i.e., net investment in a foreign operation) are net investment hedges.
+To qualify as an accounting hedge under the hedge accounting rules (versus an economic hedge where hedge accounting is

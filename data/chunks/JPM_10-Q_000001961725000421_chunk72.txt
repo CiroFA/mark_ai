@@ -1,0 +1,24 @@
+flow hedges that have been terminated, the maximum length of time over which the derivative results recorded in AOCI will be recognized in earnings is approximately
+seven years
+, corresponding to the timing of the originally hedged forecasted cash flows. For open cash flow hedges, the maximum length of time over which forecasted transactions are hedged is approximately
+seven years
+. The Firm’s longer-dated forecasted transactions relate to core lending and borrowing activities.
+Net investment hedge gains and losses
+The following table presents hedging instruments, by contract type, that were used in net investment hedge accounting relationships, and the pre-tax gains/(losses) recorded on such instruments for the three months ended March 31, 2025 and 2024.
+(a)
+Certain components of hedging derivatives are permitted to be excluded from the assessment of hedge effectiveness, such as forward points on foreign exchange forward contracts. The changes in fair value of these amounts are recorded in net interest income.
+(b)
+Excludes amounts reclassified from AOCI to income associated with net investment hedges. There were no sales or liquidations of legal entities that resulted in reclassifications for the three months ended March 31, 2025 and 2024. Refer to Note 19 for further information.
+108
+Gains and losses on derivatives used for specified risk management purposes
+The following table presents pre-tax gains/(losses) recorded on a limited number of derivatives, not designated in hedge accounting relationships, that are used to manage risks associated with certain specified assets and liabilities, including certain risks arising from mortgage commitments, warehouse loans, MSRs, wholesale lending exposures, and foreign currency-denominated assets and liabilities.
+(a)
+Primarily represents interest rate derivatives used to hedge the interest rate risk inherent in mortgage commitments, warehouse loans and MSRs, as well as written commitments to originate warehouse loans. Gains and losses were recorded predominantly in mortgage fees and related income.
+(b)
+Relates to credit derivatives used to mitigate credit risk associated with lending exposures in the Firm’s wholesale businesses. These derivatives do not include credit derivatives used to mitigate counterparty credit risk arising from derivative receivables, which is included in gains and losses on derivatives related to market-making activities and other derivatives. Gains and losses were recorded in principal transactions revenue.
+(c)
+Primarily relates to derivatives used to mitigate foreign exchange risk of specified foreign currency-denominated assets and liabilities. Gains and losses were recorded in principal transactions revenue.
+(d)
+Gains and losses were recorded in principal transactions revenue.
+Gains and losses on derivatives related to market-making activities and other derivatives
+The Firm makes markets in derivatives in order to meet the needs of customers and uses derivatives to manage

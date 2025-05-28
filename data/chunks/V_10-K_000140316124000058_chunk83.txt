@@ -1,0 +1,20 @@
+investment hedges are recorded in other comprehensive income (loss).
+Cash flows associated with derivatives designated as a cash flow hedge are classified as an operating activity on the consolidated statements of cash flows. Cash flows associated with derivatives designated as a fair value hedge or a net investment hedge are classified as an investing activity. Cash flows associated with derivatives not designated as a hedging instrument are classified as an operating activity.
+See
+Note 13—Derivative and Hedging Instruments
+.
+Share-based compensation
+. The Company measures share-based compensation cost at the grant date, net of estimated forfeitures, based on the estimated fair value of the award. The Company recognizes compensation cost for awards with only service conditions on a straight-line basis over the requisite service period, which is generally the vesting period. Compensation cost for performance-based awards is recognized on a graded-vesting basis. The amount is initially estimated based on target performance and is adjusted as appropriate based on management’s best estimate throughout the performance period.
+See
+Note 17—Share-based Compensation.
+Earnings per share
+. The Company calculates earnings per share using the two-class method to reflect the different rights of each class of outstanding common stock and participating securities.
+69
+Table of Contents
+Basic earnings per share is computed by dividing net income available to each class of shares by the weighted-average number of shares of common stock and participating securities outstanding during the period. Participating securities include the Company’s series A, B and C preferred stock and restricted stock units (RSUs) that contain non-forfeitable rights to dividends or dividend equivalents. Net income is allocated to each class of common stock and participating securities based on its proportional ownership on an as-converted basis. The weighted-average number of shares outstanding of each class of common stock reflects changes in ownership over the periods presented. See
+Note 15—Stockholders’ Equity
+.
+Diluted earnings per share is computed by dividing net income available to each class of shares by the weighted-average number of shares of common stock outstanding, participating securities outstanding and, if dilutive, potential class A common stock equivalent shares outstanding during the period. Dilutive class A common stock equivalents may consist of: (1) shares of class A common stock issuable upon the conversion of series A, B and C preferred stock and class B-1, B-2 and C common stock based on the conversion rates in effect through the period, and (2) incremental shares of class A common stock calculated by applying the treasury stock method to the assumed exercise of employee stock options, the assumed purchase of stock under the Company’s Employee Stock Purchase Plan and the assumed vesting of unearned performance shares.
+See
+Note 16—Earnings Per Share.
+Note

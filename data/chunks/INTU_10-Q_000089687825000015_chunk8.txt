@@ -1,0 +1,17 @@
+measurement of its fair value. The three levels of input defined by the authoritative guidance are as follows:
+•
+Level 1
+uses unadjusted quoted prices that are available in active markets for identical assets or liabilities.
+•
+Level 2
+uses inputs other than quoted prices included in Level 1 that are either directly or indirectly observable through correlation with market data. These include quoted prices in active markets for similar assets or liabilities; quoted prices for identical or similar assets or liabilities in markets that are not active; and inputs to valuation models or other pricing methodologies that do not require significant judgment because the inputs used in the model, such as interest rates and volatility, can be corroborated by readily observable market data for substantially the full term of the assets or liabilities.
+•
+Level 3
+uses one or more unobservable inputs that are supported by little or no market activity and that are significant to the determination of fair value. Level 3 assets and liabilities include those whose fair values are determined using pricing models, discounted cash flow methodologies, or similar valuation techniques and significant management judgment or estimation.
+Table of Contents
+The following table summarizes financial assets and financial liabilities that we measured at fair value on a recurring basis at the dates indicated, classified in accordance with the fair value hierarchy described above.
+The following table summarizes our cash equivalents and available-for-sale debt securities by balance sheet classification and level in the fair value hierarchy at the dates indicated.
+We value our Level 1 assets, consisting primarily of money market funds, using quoted prices in active markets for identical instruments.
+Financial assets whose fair values we measure on a recurring basis using Level 2 inputs consist of corporate notes and U.S. agency securities. We measure the fair values of these assets with the help of a pricing service that either provides quoted market prices in active markets for identical or similar securities or uses observable inputs for their pricing without applying significant adjustments. Our fair value processes include controls designed to ensure that we record appropriate fair values for our Level 2 investments. These controls include comparison to pricing provided by a secondary pricing service or investment manager, validation of pricing sources and models, review of key model inputs, analysis of period-over-period price fluctuations, and independent recalculation of prices where appropriate.
+Financial assets whose fair values we measure using Level 3 inputs consist of notes receivable held for sale. These loans are recorded at the lower of cost or fair value. As of January 31, 2025 and July 31, 2024, total notes receivable held for sale were not material and the difference between amortized cost and fair value was not material.
+Financial liabilities whose fair values we

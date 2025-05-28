@@ -1,0 +1,21 @@
+business and financial results.
+See the “Risk Factors” section in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC on January 30, 2025 for further discussion of the possible impact of conflicts and macroeconomic events on our business and financial results.
+Key Business Metrics
+Remaining performance obligations.
+Transaction price allocated to remaining performance obligations (“RPO”) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancellable amounts that will be invoiced and recognized as revenue in future periods. RPO excludes contracts that are billed in arrears, such as certain time and materials contracts, as we apply the “right to invoice” practical expedient under relevant accounting guidance. Current remaining performance obligations (“cRPO”) represents RPO that will be recognized as revenue in the next 12 months.
+As of March 31, 2025, our RPO was $22.1 billion, of which 47% represented cRPO. RPO and cRPO increased by 25% and 22%, respectively, compared to March 31, 2024. Factors that may cause our RPO to vary from period to period include the following:
+•
+Foreign currency exchange rates
+. While a majority of our contracts have historically been in U.S. Dollars, an increasing percentage of our contracts in recent periods has been in foreign currencies, particularly the Euro and British Pound Sterling. Fluctuations in foreign currency exchange rates as of the balance sheet date will cause variability in our RPO.
+•
+Mix of offerings
+. In a minority of cases, we allow our customers to host our software by themselves or through a third-party service provider. In self-hosted offerings, we recognize a portion of the revenue upfront upon the delivery of the software and as a result, such revenue is excluded from RPO.
+•
+Subscription start date
+. From time to time, we enter into contracts with a subscription start date in the future and these amounts are included in RPO if such contracts are signed by the balance sheet date.
+•
+Timing of contract renewals
+. While customers typically renew their contracts at the end of the contract term, from time to time, customers may do so either before or after the scheduled expiration date. For example, in cases where we are successful in selling additional products or services to an existing customer, a customer may decide to renew its existing contract early to ensure that all its contracts expire on the same date. In other cases, prolonged negotiations or other factors may result in a contract not being renewed until after it has expired.
+•
+Contract duration
+. While we typically enter into multi-year subscription services, the duration of our contracts varies. Further, we continue to see an increase in the number of 12-month agreements entered into with the U.S. federal government throughout the year, with the highest number of agreements entered into in the quarter ended September 30, driven primarily by timing of their annual budget

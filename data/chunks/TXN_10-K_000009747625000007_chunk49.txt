@@ -1,0 +1,35 @@
+2018 through 2022.
+In non-U.S. jurisdictions, the years open to audit represent the years still open under the statute of limitations. With respect to major jurisdictions outside the United States, our subsidiaries are no longer subject to income tax audits for years before 2012.
+5.
+Financial instruments and risk concentration
+Financial instruments
+We hold derivative financial instruments such as forward foreign currency exchange contracts, the fair value of which was not material as of December 31, 2024. Our forward foreign currency exchange contracts outstanding as of December 31, 2024, had a notional value of $
+565
+million to hedge our non-U.S. dollar net balance sheet exposures, including $
+180
+million to buy Indian rupee,
+$
+91
+million to sell British pounds and $
+78
+million to sell Japanese yen.
+Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value. Our postretirement plan assets are carried at fair value or net asset value per share. The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments. As of December 31, 2024, the carrying value of long-term debt, including the current portion, was $
+13.60
+billion, and the estimated fair value was $
+12.48
+billion. The estimated fair value is measured using broker-dealer quotes, which are Level 2 inputs. See Note 6 for a description of fair value and the definition of Level 2 inputs.
+40
+Risk concentration
+We are subject to counterparty risks from financial institutions, customers and issuers of debt securities. Financial instruments that could subject us to concentrations of credit risk are primarily cash deposits, cash equivalents, short-term investments and accounts receivable. To manage our credit risk exposure, we place cash investments in investment-grade debt securities and limit the amount of credit exposure to any one issuer. We also limit counterparties on cash deposits and financial derivative contracts to financial institutions with investment-grade ratings.
+Concentrations of credit risk with respect to accounts receivable are limited due to our large number of customers and their dispersion across different industries and geographic areas. We maintain allowances for expected returns, disputes, adjustments, incentives and credit losses. These allowances are deducted from accounts receivable on our Consolidated Balance Sheets.
+Accounts receivable allowances changed to reflect amounts charged to operating results by $
+5
+million, $
+3
+million and $
+5
+million in 2024, 2023 and 2022, respectively.
+6.
+Valuation of debt and equity investments and certain liabilities
+Investments measured at fair value
+Money market funds, debt investments and mutual funds are stated at fair value, which is generally based on market prices or broker quotes. We classify all

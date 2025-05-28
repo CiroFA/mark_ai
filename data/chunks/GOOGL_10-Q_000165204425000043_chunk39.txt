@@ -1,0 +1,19 @@
+projects with multiple phases, where we acquire land and buildings, construct buildings, and secure and install servers and network equipment.
+During the three months ended March 31, 2024 and 2025, we spent $12.0 billion and $17.2 billion on capital expenditures, respectively. We expect to increase, relative to 2024, our investment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. Depreciation of our property and equipment commences when such assets are ready for our intended use. For the three months ended March 31, 2024 and 2025, depreciation on property and equipment was $3.4 billion and $4.5 billion, respectively.
+Leases
+As of March 31, 2025, the amount of total future lease payments under operating and finance leases was $17.0 billion and $2.5 billion, respectively.
+As of March 31, 2025, we have entered into leases primarily related to data centers that have not yet commenced with future lease payments of $17.3 billion. These leases will commence between 2025 and 2031 with non-cancelable lease terms between one and 25 years.
+43
+For additional information on leases, see Note 4 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Financing
+We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of March 31, 2025, we had $2.5 billion of short-term commercial paper outstanding.
+As of March 31, 2025, we had senior unsecured notes outstanding with a total carrying value of $11.9 billion.
+As of March 31, 2025, we had $10.0 billion of revolving credit facilities,
+$4.0 billion
+expiring in April 2025 and
+$6.0 billion
+expiring in April 2028.
+In April 2025, we entered into a new $4.0 billion revolving credit facility expiring in April 2026. Additionally, we terminated the $6.0 billion revolving credit facility expiring in April 2028 and entered into a new $6.0 billion revolving credit facility expiring in April 2030. The interest rates for all credit facilities are determined based on a formula using certain market rates.
+No amounts have been borrowed under the credit facilities.
+For additional information, see Note 6 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+We primarily utilize contract manufacturers for the assembly of our servers used in our technical infrastructure and devices we sell. We have agreements where we may purchase components directly from suppliers and then supply these components to contract manufacturers for use in the assembly of the servers and devices. Certain of these arrangements result in a portion of the cash received from and paid to the contract manufacturers to be presented as financing activities in the Consolidated

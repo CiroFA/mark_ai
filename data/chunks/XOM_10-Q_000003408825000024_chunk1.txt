@@ -1,142 +1,38 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+FORM 10-Q
+FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2025
+TABLE OF CONTENTS
 2
-Facebook
+Table of Contents
+PART I. FINANCIAL INFORMATION
 3
-RSS
+Table of Contents
 4
-YouTube
+Table of Contents
 5
-Flickr
+Table of Contents
 6
-LinkedIn
+Table of Contents
 7
-Pinterest
+Table of Contents
+Note 1. Basis of Financial Statement Preparation
+These unaudited condensed consolidated financial statements should be read in the context of the consolidated financial statements and notes thereto filed with the Securities and Exchange Commission in the Corporation's 2024 Annual Report on Form 10-K. In the opinion of the Corporation, the information furnished herein reflects all known accruals and adjustments necessary for a fair statement of the results for the periods reported herein. All such adjustments are of a normal recurring nature.
+Restricted cash represents sale proceeds required to be set aside by a contractual arrangement for any potential like kind exchange. The restriction will lapse upon the earlier of completion of the exchange or the expiry of the underlying time period, which is less than one year.
+The Corporation's exploration and production activities are accounted for under the "successful efforts" method.
+Note 2. Pioneer Natural Resources Merger
+On May 3, 2024, the Corporation acquired Pioneer Natural Resources Company ("Pioneer"), an independent oil and gas exploration and production company. In connection with the acquisition, we issued
+545
+million shares of ExxonMobil common stock having a fair value of $
+63
+billion on the acquisition date, and assumed debt with a fair value of $
+5
+billion.
+The transaction was accounted for as a business combination in accordance with ASC 805, which requires that assets acquired and liabilities assumed be recognized at their fair values as of the acquisition date.
+The following table summarizes the provisional fair values of the assets acquired and liabilities assumed.
 8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of Contents
+Debt Assumed in the Merger
+The following table presents long-term debt assumed at closing:
+Note 3. Litigation and Other Contingencies
+Litigation
+A variety of claims have been made against ExxonMobil and certain of its consolidated subsidiaries in a number of pending lawsuits. Management has regular litigation reviews, including updates from corporate and outside counsel, to assess the need for accounting recognition or disclosure of these contingencies.
+The Corporation accrues an undiscounted liability for those contingencies where the incurrence of a loss is probable and the amount can be reasonably estimated. If a range of amounts can be reasonably estimated and no amount within the range is a better estimate than any other amount, then the minimum of the range is accrued. The Corporation does not record liabilities when the likelihood that the liability has been incurred is probable but the amount cannot be reasonably estimated or when the liability is believed to be only reasonably possible or remote. For contingencies where an unfavorable outcome is reasonably possible and which

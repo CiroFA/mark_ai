@@ -1,0 +1,19 @@
+seen over the past two fiscal years have stabilized. A reemergence of slower growth in new and renewal business could impact our remaining performance obligation, revenues and our ability to meet financial guidance and long-term targets.
+In addition, the expanding global scope of our business and the heightened volatility of global markets expose us to the risk of fluctuations in foreign currency markets. Total revenues in the
+nine months ended October 31, 2024 were minimally impacted by foreign currency
+fluctuations
+compared to the
+nine months ended October 31, 2023.
+Our current remaining performance obligatio
+n as of October 31, 2024 was minimally impacted by foreign currency fluctuations compared to our remaining performance obligation as of October 31, 2023. The impact of foreign currency fluctuations could impact our near-term results and ability to accurately predict our future results and earnings. The impact of these fluctuations can also be compounded by the seasonality of our business in which our fourth quarter has historically been our strongest quarter for new business and renewals.
+Fiscal Year
+Our fiscal year ends on January 31. References to fiscal 2025, for example, refer to the fiscal year ending January 31, 2025.
+Operating Segments
+We operate as one segment. See Note 1 “Summary of Business and Significant Accounting Policies” to the condensed consolidated financial statements for further discussion.
+Sources of Revenues
+We derive our revenues from two sources: (1) subscription and support revenues and (2) professional services and other revenues. Subscription and support revenues accounted for approximately
+94 percent
+of our total revenues for the nine months ended October 31, 2024.
+Subscription and support revenues include subscription fees from customers accessing our enterprise cloud computing services (collectively, “Cloud Services”), software license revenues from the sales of term software licenses, and support revenues from the sale of support and updates beyond the basic subscription fees or related to the sales of software licenses. Our Cloud Services allow customers to use our multi-tenant software without taking possession of the software. Revenue is generally recognized ratably over the contract term. Subscription and support revenues also include revenues associated with term software licenses that provide the customer with a right to use the software as it exists when made available. Revenues from term software licenses are generally recognized at the point in time when the software is made available to the customer. Revenue from support and updates is recognized as such support and updates are provided, which is generally ratably over the contract term. Changes in contract duration for multi-year term software licenses can impact the amount of revenues recognized upfront. Revenues from term software licenses represent less than
+ten percent
+of total subscription and support revenue for the three and nine months

@@ -1,0 +1,16 @@
+discount for lack of marketability of approximately $
+800
+million as of December 31, 2021, which expired in Q1 2022.
+Income Taxes
+Income tax expense includes U.S. (federal and state) and foreign income taxes. Certain foreign subsidiary earnings and losses are subject to current U.S. taxation and the subsequent repatriation of those earnings is not subject to tax in the U.S. We intend to invest substantially all of our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries, indefinitely outside of the U.S. in those jurisdictions in which we would incur significant, additional costs upon repatriation of such amounts.
+Deferred income tax balances reflect the effects of temporary differences between the carrying amounts of assets and liabilities and their tax bases, as well as net operating loss and tax credit carryforwards, and are stated at enacted tax rates expected to be in effect when taxes are actually paid or recovered.
+Deferred tax assets represent amounts available to reduce income taxes payable in future periods. Deferred tax assets are evaluated for future realization and reduced by a valuation allowance to the extent we believe they will not be realized. We consider many factors when assessing the likelihood of future realization of our deferred tax assets, including recent cumulative loss experience and expectations of future earnings, capital gains and investment in such jurisdiction, the carry-forward periods available to us for tax reporting purposes, and other relevant factors.
+We utilize a two-step approach to recognizing and measuring uncertain income tax positions (income tax contingencies). The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not the position will be sustained on audit, including resolution of related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount which is more than 50% likely of being realized upon ultimate settlement. We consider many factors when evaluating our tax positions and estimating our tax benefits, which may require periodic adjustments and which may not accurately forecast actual outcomes. We include interest and penalties related to our income tax contingencies in income tax expense.
+Fair Value of Financial Instruments
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation methodologies used to measure fair value:
+Level 1
+— Valuations based on quoted prices for identical assets and liabilities in active markets.
+45
+Table of Contents
+Level 2
+— Valuations based on observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in

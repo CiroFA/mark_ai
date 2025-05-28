@@ -1,0 +1,29 @@
+revenue and income (loss) from operations. Our CODM does not evaluate operating segments using asset or liability information.
+Revenue and costs and expenses are generally directly attributed to our segments. These costs and expenses include certain product development related operating expenses, costs associated with partnership arrangements, consumer hardware product costs, content costs, and legal-related costs. Indirect costs are allocated to segments based on a reasonable allocation methodology, when such costs are significant to the performance measures of the operating segments. Indirect operating expenses, such as facilities, information technology, certain shared research and development activities, recruiting, and physical security expenses are mostly allocated based on headcount. Costs related to the operation of our data centers and technical infrastructure are generally allocated to our segments based on estimated usage, most of which is allocated to the FoA segment.
+Beginning in 2024 annual reporting, we adopted ASU 2023-07 retrospectively.
+The following table sets forth our segment information of revenue, expenses, and income (loss) from operations (in millions):
+____________________________________
+(1)
+Employee compensation includes employee payroll, share-based compensation, bonus, and employee benefits for medical care, retirement, insurances and other.
+(2)
+Includes costs and expenses in FoA segment for infrastructure, professional services, partner arrangements, marketing, facilities, legal-related costs, and other expenses.
+(3)
+Includes costs and expenses in RL segment for inventory, professional services, marketing, infrastructure, facilities, and other expenses.
+121
+Table of
+Contents
+The following table sets forth our long-lived assets by geographic area, which consist of property and equipment, net and operating lease right-of-use assets (in millions):
+_________________________
+(1)
+No individual country, other than disclosed above, exceeded 10% of our total long-lived assets for any period presented.
+For information regarding revenue disaggregated by geography, see Note 2 — Revenue.
+122
+Table of
+Contents
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A.
+Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our chief executive officer (CEO) and chief financial officer (CFO), has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a- 15(e) and 15d- 15(e) under the Securities Exchange Act of 1934, as amended (Exchange Act)), as of the end of the period covered by this Annual Report on Form 10-K. Based on such evaluation, our CEO and CFO have concluded that as of December 31, 2024, our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports

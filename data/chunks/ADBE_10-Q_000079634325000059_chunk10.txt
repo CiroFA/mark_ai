@@ -1,0 +1,28 @@
+equity on our condensed consolidated balance sheets, at the payment date, though only shares physically delivered to us by the end of the respective period are excluded from the computation of net income per share. As of February 28, 2025, a portion of the $
+2.75
+billion prepayment under the ASR entered into in December 2024 was evaluated as an unsettled forward contract indexed to our own stock, classified within stockholders’ equity.
+19
+Table of Contents
+ADOBE INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+Subsequent to February 28, 2025, as part of the March 2024 stock repurchase authority, we entered into an ASR with a large financial institution whereupon we provided them with a prepayment of $
+3.5
+billion and received an initial delivery of
+6.8
+million shares, which represents approximately
+75
+% of our prepayment. Upon completion of this $
+3.5
+billion ASR, $
+10.9
+billion remains under our March 2024 stock repurchase authority.
+NOTE 11.
+NET INCOME PER SHARE
+Basic net income per share is computed using the weighted average number of common shares outstanding for the period, excluding unvested stock-based awards and purchase rights. Diluted net income per share is based upon the weighted average common shares outstanding for the period plus dilutive potential common shares, including unvested restricted stock units, stock purchase rights and performance share awards using the treasury stock method. Performance share awards are included based on the number of shares that would be issued as if the end of the reporting period was the end of the performance period and the result was dilutive.
+The following table sets forth the computation of basic and diluted net income per share for the three months ended February 28, 2025 and March 1, 2024:
+NOTE 12.
+COMMITMENTS AND CONTINGENCIES
+Indemnifications
+In the ordinary course of business, we provide indemnifications of varying scope to our customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations.
+To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer’s or director’s lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have director and officer insurance coverage that reduces our exposure and enables us to

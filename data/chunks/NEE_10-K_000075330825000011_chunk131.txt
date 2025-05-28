@@ -1,0 +1,31 @@
+unconditionally guaranteed by NEE.
+In October 2024, NEE sold $
+1.5
+billion of equity units (initially consisting of Corporate Units). Each equity unit has a stated amount of $
+50
+and consists of a contract to purchase NEE common stock (stock purchase contract) and, initially, a
+5
+% undivided beneficial ownership interest in a Series O Debenture due November 1, 2029, issued in the principal amount of $
+1,000
+by NEECH. Each stock purchase contract requires the holder to purchase by no later than November 1, 2027 (the final settlement date) for a price of $
+50
+in cash, a number of shares of NEE common stock (subject to antidilution adjustments), based on a price per share range described in the following sentence. If purchased on the final settlement date, as of December 31, 2024, the number of shares issued per equity unit would (subject to antidilution adjustments) range from
+0.6034
+shares if the applicable market value of a share of NEE common stock is less than or equal to $
+82.87
+(the reference price) to
+0.4827
+shares if the applicable market value of a share is equal to or greater than $
+103.58
+(the threshold appreciation price), with the applicable market value to be determined using the average closing prices of NEE common stock over a
+20
+-day trading period ending on October 27, 2027. Total annual distributions on the equity units are at the rate of
+7.234
+%
+, consisting of interest on the debentures (
+4.635
+% per year) and payments under the stock purchase contracts (
+2.599
+% per year). The interest rate on the debentures is expected to be reset on or after May 1, 2027.
+A holder of an equity unit may satisfy its purchase obligation with proceeds raised from remarketing the NEECH debentures that are part of its equity unit. The undivided beneficial ownership interest in the NEECH debenture that is a component of each Corporate Unit is pledged to NEE to secure the holder's obligation to purchase NEE common stock under the related stock purchase contract. If a successful remarketing does not occur on or before the third business day prior to the final settlement date, and a holder has not notified NEE of its intention to settle the stock purchase contract with cash, the debentures that are components of the Corporate Units will be used to satisfy in full the holders' obligations to purchase NEE common stock under the related stock purchase contracts on the final settlement date. The debentures are fully and unconditionally guaranteed by NEE.
+Prior to the issuance of NEE’s common stock, the stock purchase contracts, if dilutive, will be reflected in NEE’s diluted earnings per share calculations using the treasury stock method. Under this method, the number of shares of NEE common stock used in calculating diluted earnings per share is deemed to be increased by the excess, if any, of the number of shares that would be issued upon settlement of the stock purchase contracts over the number of shares that could be purchased by NEE in the market, at

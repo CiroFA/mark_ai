@@ -1,0 +1,28 @@
+GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Model Risk Management
+Overview
+Model risk is the potential for adverse consequences from decisions made based on model outputs that may be incorrect or used inappropriately. We rely on quantitative models across our business activities primarily to value certain financial assets and liabilities, to monitor and manage our risk, and to measure and monitor our regulatory capital.
+Model Risk, which is part of our second line of defense, is independent of our model developers, model owners and model users, and reports to our chief risk officer, has primary responsibility for assessing, monitoring and managing our model risk by providing firmwide oversight and challenge across our global businesses.
+Our model risk management framework is managed through a governance structure and risk management controls, which encompass standards designed to ensure we maintain a comprehensive model inventory, including risk assessment and classification, sound model development practices, independent review and model-specific usage controls. The Firmwide Model Risk Control Committee oversees our model risk management framework.
+Model Review and Validation Process
+Model Risk consists of quantitative professionals who perform an independent review, validation and approval of our models. This review includes an analysis of the model documentation, independent testing, an assessment of the appropriateness of the methodology used, and verification of compliance with model development and implementation standards.
+We regularly refine and enhance our models to reflect changes in market or economic conditions and our business mix. All models are reviewed on an annual basis, and new models or significant changes to existing models and their assumptions are approved prior to implementation.
+The model validation process incorporates a review of models and trade and risk parameters across a broad range of scenarios (including extreme conditions) in order to critically evaluate and verify:
+•
+The model’s conceptual soundness, including the reasonableness of model assumptions, and suitability for intended use;
+•
+The testing strategy utilized by the model developers to ensure that the models function as intended;
+•
+The suitability of the calculation techniques incorporated in the model;
+•
+The model’s accuracy in reflecting the characteristics of the related product and its significant risks;
+•
+The model’s consistency with models for similar products; and
+•
+The model’s sensitivity to input parameters and assumptions.
+See “Critical Accounting Policies — Fair Value — Review of Valuation Models,” “Liquidity Risk Management,” “Market Risk Management,” “Credit Risk Management” and “Operational Risk Management” for further information about our use of models within these areas.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Other Risk Management
+In addition to the areas of

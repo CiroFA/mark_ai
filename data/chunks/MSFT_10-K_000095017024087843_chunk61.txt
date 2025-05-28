@@ -1,0 +1,16 @@
+non-GAAP financial measures presented should not be considered a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.
+47
+PART II
+Item 7
+The following table reconciles our financial results reported in accordance with GAAP to non-GAAP financial results:
+*
+Not meaningful.
+LIQUIDITY AND CAPITAL RESOURCES
+We expect existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets to continue to be sufficient to fund our operating activities and cash commitments for investing and financing activities, such as dividends, share repurchases, debt maturities, material capital expenditures, and the transition tax related to the Tax Cuts and Jobs Act (“TCJA”), for at least the next 12 months and thereafter for the foreseeable future.
+Cash, Cash Equivalents, and Investments
+Cash, cash equivalents, and short-term investments totaled $75.5 billion and $111.3 billion as of June 30, 2024 and 2023, respectively. Equity and other investments were $14.6 billion and $9.9 billion as of June 30, 2024 and 2023, respectively. Our short-term investments are primarily intended to facilitate liquidity and capital preservation. They consist predominantly of highly liquid investment-grade fixed-income securities, diversified among industries and individual issuers. The investments are predominantly U.S. dollar-denominated securities, but also include foreign currency-denominated securities to diversify risk. Our fixed-income investments are exposed to interest rate risk and credit risk. The credit risk and average maturity of our fixed-income portfolio are managed to achieve economic returns that correlate to certain fixed-income indices. The settlement risk related to these investments is insignificant given that the short-term investments held are primarily highly liquid investment-grade fixed-income securities.
+Valuation
+In general, and where applicable, we use quoted prices in active markets for identical assets or liabilities to determine the fair value of our financial instruments. This pricing methodology applies to our Level 1 investments, such as U.S. government securities, common and preferred stock, and mutual funds. If quoted prices in active markets for identical assets or liabilities are not available to determine fair value, then we use quoted prices for similar assets and liabilities or inputs other than the quoted prices that are observable either directly or indirectly. This pricing methodology applies to our Level 2 investments, such as commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Level 3 investments are valued using internally-developed models with unobservable inputs. Assets and liabilities measured at fair value on a recurring basis using unobservable inputs are an immaterial portion of our portfolio.
+48
+PART II
+Item

@@ -1,0 +1,29 @@
+Management.
+Asset Management Revenue Sensitivity
+Certain asset management revenues in the Wealth Management and Investment Management business segments are derived from management fees, which are based on fee-based client assets in Wealth Management or AUM in Investment Management (together, “client holdings”). The assets underlying client holdings are primarily composed of equity, fixed income and alternative investments and are sensitive to changes in related markets. These revenues depend on multiple factors including, but not limited to, the level and duration of a market increase or decline, price volatility, the geographic and industry mix of client assets, and client behavior such as the rate and magnitude of client investments and redemptions. Therefore, overall revenues may not correlate completely with changes in the related markets.
+Credit Risk
+Credit risk refers to the risk of loss arising when a borrower, counterparty or issuer does not meet its financial obligations to us. We are primarily exposed to credit risk from institutions and individuals through our Institutional Securities and Wealth Management business segments.
+We incur credit risk in our Institutional Securities business segment through a variety of activities, including, but not limited to, the following:
+•
+extending credit to clients through loans and lending commitments;
+•
+entering into swap or other derivative contracts under which counterparties may have obligations to make payments to us;
+•
+acting as clearing broker for listed and over-the-counter derivatives whereby we guarantee client performance to clearinghouses;
+•
+providing short- or long-term funding that is secured by physical or financial collateral, including, but not limited to, real estate and marketable securities, whose value may at times be insufficient to fully cover the repayment amount;
+•
+posting margin and/or collateral to clearinghouses, clearing agencies, exchanges, banks, securities firms and other financial counterparties;
+•
+placing funds on deposit at other financial institutions to support our clearing and settlement obligations; and
+•
+investing or trading in securities and loan pools, whereby the value of these assets may fluctuate based on realized or expected defaults on the underlying obligations or loans.
+We incur credit risk in our Wealth Management business segment, primarily through lending to individuals and entities, including, but not limited to, the following:
+•
+margin loans collateralized by securities;
+•
+securities-based lending and other forms of secured loans, including tailored lending to ultra-high net worth clients, that are in most cases secured by various types of collateral, including marketable securities, private investments, commercial real estate and other financial assets;
+•
+single-family residential mortgage loans in conforming, non-conforming or HELOC form, primarily to existing Wealth Management clients; and
+•
+employee loans granted primarily to recruit certain

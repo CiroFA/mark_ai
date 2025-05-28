@@ -1,142 +1,177 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+nflx-20241231
+0001065280
+2024
+FY
+false
+10/30/2024
+1097
+458
+490
+428
+426
+419
+459
+http://fasb.org/us-gaap/2024#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2024#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2024#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2024#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2024#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2024#OtherLiabilitiesNoncurrent
+P1Y
+http://fasb.org/us-gaap/2024#OtherPensionPlansPostretirementOrSupplementalPlansDefinedBenefitMember
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+nflx:membership
+nflx:country
+xbrli:pure
+nflx:option
+iso4217:EUR
+nflx:vote
+nflx:segment
+0001065280
+2024-01-01
+2024-12-31
+0001065280
+2024-06-30
+0001065280
+2024-12-31
+0001065280
+nflx:GregPetersPlanTerminationMember
+nflx:GregPetersMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:GregPetersPlanTerminationMember
+nflx:GregPetersMember
+2024-12-31
+0001065280
+nflx:GregPetersPlanAdoptionMember
+nflx:GregPetersMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:GregPetersPlanAdoptionMember
+nflx:GregPetersMember
+2024-12-31
+0001065280
+nflx:DavidHymanMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:DavidHymanMember
+2024-12-31
+0001065280
+nflx:TedSarandosMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:TedSarandosMember
+2024-12-31
+0001065280
+nflx:SpencerNeumannMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:SpencerNeumannMember
+2024-12-31
+0001065280
+nflx:AnnMatherMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:AnnMatherMember
+2024-12-31
+0001065280
+nflx:StriveMasiyiwaMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:StriveMasiyiwaMember
+2024-12-31
+0001065280
+nflx:JeffreyKarbowskiMember
+2024-10-01
+2024-12-31
+0001065280
+nflx:JeffreyKarbowskiMember
+2024-12-31
+0001065280
+2024-10-01
+2024-12-31
+0001065280
+2023-01-01
+2023-12-31
+0001065280
+2022-01-01
+2022-12-31
+0001065280
+2023-12-31
+0001065280
+2022-12-31
+0001065280
+2021-12-31
+0001065280
+us-gaap:CommonStockMember
+2021-12-31
+0001065280
+us-gaap:TreasuryStockCommonMember
+2021-12-31
+0001065280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-12-31
+0001065280
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001065280
+us-gaap:RetainedEarningsMember
+2022-01-01
+2022-12-31
+0001065280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-01-01
+2022-12-31
+0001065280
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001065280
+us-gaap:CommonStockMember
+2022-12-31
+0001065280
+us-gaap:TreasuryStockCommonMember
+2022-12-31
+0001065280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001065280
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001065280
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001065280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-12-31
+0001065280
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001065280
+us-gaap:TreasuryStockCommonMember
+2023-01-01
+2023-12-31
+0001065280
+us-gaap:CommonStockMember
+2023-12-31
+0001065280
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001065280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001065280
+us-

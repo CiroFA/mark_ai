@@ -1,0 +1,16 @@
+energy generation customers, multiple of which may be grouped together to form larger installations of gigawatt hours (“GWh”) or greater capacity.
+We also continue to develop software capabilities for remotely controlling and dispatching our energy storage systems across a wide range of markets and applications, including through our real-time energy control and optimization platforms.
+2
+Table of Contents
+Solar Energy Offerings
+We sell retrofit solar energy systems to customers and channel partners. We purchase most of the components for our retrofit solar energy systems from multiple sources to ensure competitive pricing and adequate supply. We also design and manufacture certain components for our solar energy products.
+We sell our Solar Roof, which combines premium glass roof tiles with energy generation, to consumers, including through channel customers. We continue to improve our installation capability and efficiency, including through collaboration with real estate developers and builders on new homes.
+Technology
+Automotive
+Battery and Powertrain
+Our core vehicle technology competencies include powertrain engineering and manufacturing and our ability to design vehicles that utilize the unique advantages of an electric powertrain. We have designed our proprietary powertrain systems to be adaptable, efficient, reliable and cost-effective while withstanding the rigors of an automotive environment. We offer dual motor powertrain vehicles, which use two electric motors to maximize traction and performance in an all-wheel drive configuration, as well as vehicle powertrain technology featuring three electric motors for further increased performance in certain versions of Model S and Model X, Cybertruck and the Tesla Semi.
+We maintain extensive testing and R&D capabilities for battery cells, packs and systems, and have built an expansive body of knowledge on lithium-ion cell chemistry types and performance characteristics. In order to enable a greater supply of cells for our products with higher energy density at lower costs, we have developed a new proprietary lithium-ion battery cell and improved manufacturing processes.
+Vehicle Control and Infotainment Software
+The performance and safety systems of our vehicles and their battery packs utilize sophisticated control software. Control systems in our vehicles optimize performance, customize vehicle behavior, manage charging and control all infotainment functions. We develop almost all of this software, including most of the user interfaces, internally and update our vehicles’ software regularly through over-the-air updates.
+Self-Driving Development and Artificial Intelligence
+We have expertise in developing technologies, systems and software to enable self-driving vehicles using primarily vision-based technologies. Our FSD Computer runs our neural networks in our vehicles, and we are also developing additional computer hardware to better enable the massive amounts of field data captured by our

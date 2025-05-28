@@ -1,0 +1,17 @@
+other model and cash flow assumptions.
+CPR = Constant Prepayment Rate
+CDR = Constant Default Rate
+MMBtu = Million British thermal units
+IR = Interest Rate
+FX = Foreign Exchange
+n/a = not applicable
+In the previous tables, instruments backed by residential and commercial real estate assets include RMBS, commercial MBS, whole loans and mortgage CDOs. Commercial loans, debt securities and other include corporate CLOs and CDOs, commercial loans and bonds, and securities backed by non-real estate assets. Structured liabilities primarily include equity-linked notes that are accounted for under the fair value option.
+The Corporation uses multiple market approaches in valuing certain of its Level 3 financial instruments. For example, market comparables and discounted cash flows are used together. For a given product, such as corporate debt securities, market comparables may be used to estimate some of the unobservable inputs, and then these inputs are incorporated into a discounted cash flow model. Therefore, the balances disclosed encompass both of these techniques.
+The levels of aggregation and diversity within the products disclosed in the tables result in certain ranges of inputs being wide and unevenly distributed across asset and liability categories.
+Uncertainty of Fair Value Measurements from Unobservable Inputs
+Loans and Securities
+A significant increase in market yields, default rates, loss severities or duration would have resulted in a significantly lower fair value for long positions. Short positions would have been impacted in a directionally opposite way. The impact of changes in prepayment speeds would have resulted in differing impacts depending on the seniority of the instrument and, in the case of CLOs, whether prepayments can be reinvested. A significant increase in price would have resulted in a significantly higher fair value for long positions, and short positions would have been impacted in a directionally opposite way.
+Structured Liabilities and Derivatives
+For credit derivatives, a significant increase in market yield, upfront points (i.e., a single upfront payment made by a
+protection buyer at inception), credit spreads, default rates or loss severities would have resulted in a significantly lower fair value for protection sellers and higher fair value for protection buyers. The impact of changes in prepayment speeds would have resulted in differing impacts depending on the seniority of the instrument.
+Structured credit derivatives are impacted by credit correlation. Default correlation is a parameter that describes the degree of dependence among credit default rates within a credit portfolio that underlies a credit derivative instrument. The sensitivity of this input on the fair value varies depending on the level of subordination of the tranche. For senior tranches that are net purchases of protection, a significant increase in default correlation would have resulted in a significantly higher fair value. Net short protection

@@ -1,0 +1,28 @@
+$
+178
+million was designated as hedged. The cumulative amount of basis adjustments was $(
+2
+) million as of December 31, 2024. Refer to Note 2 and Note 7 for additional information.
+2.
+Hedge accounting basis adjustments are primarily related to outstanding hedges.
+Gains (Losses) on Economic Hedges of Loans
+1.
+Amounts related to hedges of certain held-for-investment and held-for-sale loans.
+Derivatives with Credit Risk-Related Contingencies
+Net Derivative Liabilities and Collateral Posted
+The previous table presents the aggregate fair value of certain derivative contracts that contain credit risk-related contingent features that are in a net liability position for which the Firm has posted collateral in the normal course of business.
+Incremental Collateral and Termination Payments upon Potential Future Ratings Downgrade
+1.
+Amount represents arrangements between the Firm and other parties where upon the downgrade of one party, the downgraded party must deliver collateral to the other party. These bilateral downgrade arrangements are used by the Firm to manage the risk of counterparty downgrades.
+The additional collateral or termination payments that may be called in the event of a future credit rating downgrade vary by contract and can be based on ratings by Moody’s Investors Service, Inc., S&P Global Ratings and/or other rating agencies. The previous table shows the future potential
+collateral amounts and termination payments that could be called or required by counterparties or exchange and clearing organizations in the event of one-notch or two-notch downgrade scenarios based on the relevant contractual downgrade triggers.
+Maximum Potential Payout/Notional of Credit Protection Sold
+1
+Fair Value Asset (Liability) of Credit Protection Sold
+1
+1.
+Investment grade/non-investment grade determination is based on the internal credit rating of the reference obligation. Internal credit ratings serve as the CRM’s assessment of credit risk and the basis for a comprehensive credit limits framework used to control credit risk. The Firm uses quantitative models and judgment to estimate the various risk parameters related to each obligor.
+Protection Purchased with CDS
+The Firm enters into credit derivatives, principally CDS, under which it receives or provides protection against the risk of default on a set of debt obligations issued by a specified reference entity or entities. A majority of the Firm’s counterparties for these derivatives are banks, broker-dealers, and insurance and other financial institutions.
+The fair value amounts as shown in the previous tables are prior to cash collateral or counterparty netting.
+The purchase of credit protection does not represent the sole manner in which the Firm risk manages its exposure to credit derivatives. The Firm manages its exposure to these derivative contracts through a variety of risk mitigation strategies, which include managing the credit and correlation risk across single-name, non-tranched indices and

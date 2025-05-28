@@ -1,0 +1,20 @@
+financial instruments for trading or speculative purposes, or that contain credit risk related contingent features. The Company maintains credit support agreements (CSA) with certain derivative counterparties establishing collateral thresholds based on respective credit ratings and netting agreements. As of December 29, 2024 and December 31, 2023, the total amount of cash collateral paid by the Company under the CSA amounted to $
+2.2
+billion and $
+4.0
+billion net respectively, related to net investment and cash flow hedges. On an ongoing basis, the Company monitors counter-party credit ratings. The Company considers credit non-performance risk to be low, because the Company primarily enters into agreements with commercial institutions that have at least an investment grade credit rating. Refer to the table on significant financial assets and liabilities measured at fair value contained in this footnote for receivables and payables with these commercial institutions. As of December 29, 2024, the Company had notional amounts outstanding for forward foreign exchange contracts, cross currency interest rate swaps and interest rate swaps of $
+45.1
+billion, $
+40.5
+billion and $
+9.0
+billion, respectively. As of December 31, 2023, the Company had notional amounts outstanding for forward foreign exchange contracts, cross currency interest rate swaps and interest rate swaps of $
+42.9
+billion, $
+39.7
+billion and $
+10.0
+billion, respectively.
+All derivative instruments are recorded on the balance sheet at fair value. Changes in the fair value of derivatives are recorded each period in current earnings or other comprehensive income, depending on whether the derivative is designated as part of a hedge transaction, and if so, the type of hedge transaction. Cash exchanged for derivatives is primarily in cash flows from operating activities.
+The designation as a cash flow hedge is made at the entrance date of the derivative contract. At inception, all derivatives are expected to be highly effective. Foreign exchange contracts designated as cash flow hedges are accounted for under the forward method and all gains/losses associated with these contracts will be recognized in the income statement when the hedged item impacts earnings. Changes in the fair value of these derivatives are recorded in accumulated other comprehensive income until the underlying transaction affects earnings, and are then reclassified to earnings in the same account as the hedged transaction.
+Gains and losses associated with interest rate swaps and changes in fair value of hedged debt attributable to changes in interest rates are recorded to interest expense in the period in which they occur. Gains and losses on net investment hedges are accounted through the currency translation account within accumulated other comprehensive income. The portion excluded from effectiveness testing is recorded through interest (income) expense using the spot method. On an ongoing basis, the Company assesses

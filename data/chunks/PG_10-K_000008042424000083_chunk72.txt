@@ -1,0 +1,23 @@
+currency exposures are classified as operating activities. Cash payments related to income taxes are classified as operating activities.
+Investments
+The Company holds minor equity investments in certain companies over which we exert significant influence, but do not control the financial and operating decisions. These are accounted for as equity method investments. Other equity investments that are not controlled, and over which we do not have the ability to exercise significant influence, and for which there is a readily determinable market value, are recorded at fair value, with gains and losses recorded through net earnings. Equity investments without readily determinable fair values are measured at cost, less impairments, plus or minus observable price changes. Equity investments are included as Other noncurrent assets in the Consolidated Balance Sheets.
+The Company also holds highly liquid investments, primarily money market funds and time deposits. Such investments are considered cash equivalents and are included within Cash and cash equivalents in the Consolidated Balance Sheets.
+Inventory Valuation
+Inventories are valued at the lower of cost or net realizable value. Product-related inventories are maintained on the first-in, first-out method. The cost of spare part inventories is maintained using the average-cost method.
+Property, Plant and Equipment
+Property, plant and equipment is recorded at cost reduced by accumulated depreciation. Depreciation expense is recognized over the assets' estimated useful lives using the straight-line method. Machinery and equipment includes office furniture and fixtures (
+15
+-year life), computer equipment and capitalized software (
+3
+- to
+5
+-year lives) and manufacturing equipment (
+3
+- to
+20
+-year lives). Buildings are depreciated over an estimated useful life of
+40
+years. Estimated useful lives are periodically reviewed and, when appropriate, changes are made prospectively. When certain events or changes in operating conditions occur, asset lives may be adjusted and an impairment assessment may be performed on the recoverability of the carrying amounts.
+Goodwill and Other Intangible Assets
+Goodwill and indefinite-lived intangible assets are not amortized but are evaluated for impairment annually or more often if indicators of a potential impairment are present. Our annual impairment testing of goodwill is performed separately from our impairment testing of indefinite-lived intangible assets.
+We have acquired brands that have been determined to have indefinite lives. We evaluate several factors to determine whether an indefinite life is appropriate, including the competitive environment, market share, brand history, underlying product life cycles, operating plans and the macroeconomic environment of the countries in which the brands are sold. In addition, when certain events or changes in operating conditions occur, an additional impairment assessment is performed and indefinite-lived assets may be

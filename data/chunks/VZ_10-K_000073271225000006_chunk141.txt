@@ -1,0 +1,30 @@
+postretirement benefits, operating expenses include service costs associated with pension and other postretirement benefits while other credits and/or charges based on actuarial assumptions, including projected discount rates, an estimated return on plan assets, and impact from health care trend rates are reported in Other income (expense), net. These estimates are updated in the fourth quarter or upon a remeasurement event, to reflect actual return on plan assets and updated actuarial assumptions. The adjustment is recognized in the income statement during the fourth quarter and upon a remeasurement event pursuant to our accounting policy for the recognition of actuarial gains and losses.
+Pension and Other Postretirement Benefits
+Pension and other postretirement benefits for certain employees are subject to collective bargaining agreements. Modifications in benefits have been bargained from time to time, and we may also periodically amend the benefits in the management plans.
+The following tables summarize benefit costs, as well as the benefit obligations, plan assets, funded status and rate assumptions associated with pension and postretirement health care and life insurance benefit plans.
+89
+Table of
+Contents
+Obligations and Funded Status
+The accumulated benefit obligation for all defined benefit pension plans was $
+7.9
+billion and $
+15.1
+billion at December 31, 2024 and 2023, respectively.
+Pension Annuitization
+On February 29, 2024, we entered into
+two
+separate commitment agreements, one by and between the Company, State Street Global Advisors Trust Company (State Street), as independent fiduciary of the Verizon Management Pension Plan and Verizon Pension Plan for Associates (the Pension Plans), and The Prudential Insurance Company of America (Prudential), and one by and between the Company, State Street and RGA Reinsurance Company (RGA), under which the Pension Plans purchased nonparticipating single premium group annuity contracts from Prudential and RGA, respectively, to settle approximately $
+5.8
+billion of benefit liabilities of the Pension Plans, net of certain adjustments, resulting in a net pre-tax settlement gain of $
+200
+million.
+The purchase of the group annuity contracts closed on March 6, 2024. The group annuity contracts primarily cover a population that includes
+56,000
+retirees who commenced benefit payments from the Pension Plans prior to January 1, 2023 (Transferred Participants). Prudential and RGA each irrevocably guarantee and assume the sole obligation to make future payments to the Transferred Participants as provided under their respective group annuity contracts, with direct payments beginning July 1, 2024. The aggregate amount of each Transferred Participant's payment under the group annuity contracts will be equal to the amount of each individual’s payment under the Pension Plans.
+90
+Table of
+Contents
+The purchase of the group annuity contracts was funded directly by transferring $
+5.6
+billion, of assets of the

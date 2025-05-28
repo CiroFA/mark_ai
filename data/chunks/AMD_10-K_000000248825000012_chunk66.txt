@@ -1,0 +1,19 @@
+as payment of withholding taxes in connection with the vesting and exercise of equity awards.
+For information about our equity compensation plans, see Part III, Item 11, below.
+41
+Table of Contents
+Performance Graph
+Comparison of Five-Year Cumulative Total Returns
+Advanced Micro Devices, S&P 500 Index and S&P 500 Semiconductors Index
+The following graph shows a five-year comparison of cumulative total return on our common stock, the S&P 500 Index and the S&P 500 Semiconductors Index from December 28, 2019 through December 28, 2024, assuming reinvestment of dividends. The past performance of our common stock is no indication of future performance.
+Unregistered Sales of Equity Securities
+None.
+ITEM 6.       [RESERVED]
+42
+Table of Contents
+ITEM 7.       MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion should be read in conjunction with the Consolidated Financial Statements as of December 28, 2024 and December 30, 2023 and for each of the three years in the period ended December 28, 2024 and related notes, which are included in this Annual Report on Form 10-K as well as with the other sections of this Annual Report on Form 10-K, “Part II, Item 8: Financial Statements and Supplementary Data.”
+Introduction
+In this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries (collectively, “us,” “our” or “AMD”), including a discussion of our results of operations for 2024 compared to 2023, an analysis of changes in our financial condition and a discussion of our off-balance sheet arrangements. Discussions of 2022 items and year-to-year comparisons between 2023 and 2022 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 30, 2023.
+Overview
+In 2024, we delivered strong annual revenue growth with net revenue increasing 14% to $25.8 billion, compared to $22.7 billion in 2023. This growth was driven by the performance of our Data Center and Client segments. Data Center net revenue of $12.6 billion increased by 94% compared to $6.5 billion in 2023, driven by higher sales of our AMD Instinct™ GPUs and AMD EPYC™ CPUs. Client segment net revenue of $7.1 billion in 2024 increased by 52% compared to $4.7 billion in 2023, primarily due to higher sales of our AMD Ryzen™ mobile and desktop processors. The increase in annual net revenue was partially offset by a decrease in net revenue in our Gaming and Embedded segments. Gaming net revenue of $2.6 billion decreased by 58% compared to $6.2 billion in 2023. The decrease in net revenue was primarily due to lower semi-custom product revenue. Embedded net revenue of $3.6 billion decreased by 33% compared to net revenue of $5.3 billion in 2023, as customers normalized their inventory levels.

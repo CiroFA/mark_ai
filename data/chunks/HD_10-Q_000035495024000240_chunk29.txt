@@ -1,0 +1,16 @@
+of commercial paper borrowings and the $10.0 billion long-term debt issuance, along with increased cash on hand resulting from the pause of share repurchases, were utilized in connection with the SRS acquisition.
+Table of
+Contents
+CRITICAL ACCOUNTING ESTIMATES
+During the first nine months of fiscal 2024, there were no changes to our critical accounting estimates or our significant accounting policies as disclosed in the 2023 Form 10-K, except as set forth below. Our significant accounting policies are disclosed in
+Note 1
+to our consolidated financial statements.
+Business Combinations
+We account for business combinations using the acquisition method of accounting, which requires that once control is obtained, all the assets acquired and liabilities assumed are recorded at their respective fair values at the date of acquisition. The determination of fair values of identifiable assets and liabilities requires estimates and the use of valuation techniques when fair value is not readily available and requires a significant amount of management judgment. For the valuation of intangible assets acquired in a business combination, we typically use an income approach. Specifically, for the SRS acquisition, we used the multi-period excess earnings method to value the customer relationships intangible assets. The significant assumptions used to estimate the fair values of customer relationships included forecasted revenues, expected customer attrition rates, and discount rates. Although the Company believes its estimates of fair value are reasonable, actual financial results could differ from those estimates due to the inherent uncertainty involved in making such estimates. Changes in assumptions concerning future financial results or other underlying assumptions could have a significant impact on the determination of the fair values of the customer relationships intangible assets acquired.
+The excess of the purchase price over fair values of identifiable assets acquired and liabilities assumed is recorded as goodwill. During the measurement period, which is up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill due to the use of preliminary information in our initial estimates. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+ADDITIONAL INFORMATION
+For information on accounting pronouncements that have impacted or are expected to materially impact our consolidated financial condition, results of operations, or cash flows, see
+Note 1
+to our consolidated financial statements.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+Our exposure to market risk results primarily from fluctuations in interest rates in connection with our long-term debt portfolio. We are also exposed to risks from foreign currency exchange rate fluctuations on the translation of our foreign operations into U.S. dollars

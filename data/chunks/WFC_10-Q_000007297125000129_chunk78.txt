@@ -1,0 +1,21 @@
+OFFS.
+Table 19 presents net loan charge-offs.
+Table 19:
+Net Loan Charge-offs
+(1)
+Net loan charge-offs (recoveries) as a percentage of average loans are annualized.
+The decrease in commercial net loan charge-offs in first quarter 2025, compared with the same period a year ago, was due to lower losses in our commercial real estate portfolio driven by the office property type and lower losses in our commercial and industrial portfolio.
+The decrease in consumer net loan charge-offs in first quarter 2025, compared with the same period a year ago, was due to lower losses in our auto and other consumer portfolios, partially offset by higher losses in our credit card portfolio.
+ALLOWANCE FOR CREDIT LOSSES.
+We maintain an allowance for credit losses (ACL) for loans, which is management’s estimate of the expected lifetime credit losses in the loan portfolio and unfunded credit commitments, at the balance sheet date, excluding loans and unfunded credit commitments carried at fair value or held for sale. Additionally, we maintain an ACL for debt securities classified as either AFS or HTM, other financial assets measured at amortized cost, including deposits with banks, net investments in leases, and other off-balance sheet credit exposures.
+The process for establishing the ACL for loans takes into consideration many factors, including historical and forecasted loss trends, loan-level credit quality ratings and loan grade-specific characteristics. The process involves subjective and
+complex judgments. In addition, we review a variety of credit metrics and trends. These credit metrics and trends, however, do not solely determine the amount of the allowance as we use several analytical tools. For additional information on our ACL, see the “Critical Accounting Policies – Allowance for Credit Losses” section and Note 1 (Summary of Significant Accounting Policies) to Financial Statements in our 2024 Form 10-K. For additional information on our ACL for loans, see Note 5 (Loans and Related Allowance for Credit Losses) to Financial Statements in this Report, and for additional information on our ACL for debt securities, see Note 3 (Available-for-Sale and Held-to-Maturity Debt Securities) to Financial Statements in this Report.
+Table 20 presents the allocation of the ACL for loans by loan portfolio segment and class.
+Table 20:
+Allocation of the ACL for Loans
+(1)
+Includes negative allowance for expected recoveries of amounts previously charged off.
+(2)
+Total net loan charge-offs are annualized for the quarter ended March 31, 2025.
+The ratios for the allowance for loan losses and the ACL for loans presented in Table 20 may fluctuate from period to period due to such factors as the mix of loan types in the portfolio, borrower credit strength, and the value and marketability of collateral.
+The ACL for loans decreased $84 million, or 1%, from December 31, 2024, reflecting a lower allowance for commercial real estate loans on lower loan balances, partially offset by a

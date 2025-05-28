@@ -1,0 +1,41 @@
+and transaction based fees. Our core product offering is organized into four key areas: custody, fund services, liquidity and trading services, and data solutions. These services are marketed primarily to institutional investors.
+Description of certain business metrics:
+Assets under custody (“AUC”):
+represents activities associated with the safekeeping and servicing of assets on which Securities Services earns fees.
+Investment banking fees:
+represents advisory, equity underwriting, bond underwriting and loan syndication fees.
+Description of CIB client coverage segment for Banking & Payments revenue
+(a)
+:
+Global Corporate Banking & Global Investment Banking:
+provides banking products and services generally to large corporations, financial institutions and merchants.
+Commercial Banking:
+provides banking products and services generally to middle market clients, including start-ups, small and mid-sized companies, local governments, municipalities, and nonprofits, as well as to commercial real estate clients.
+Other:
+includes amounts related to credit protection purchased against certain retained loans and lending-related commitments in Lending, the impact of equity investments in Payments and revenues not aligned with a primary client coverage segment.
+(a)
+Global Banking
+is a client coverage view within the Banking & Payments business and is comprised of the Global Corporate Banking, Global Investment Banking and Commercial Banking client coverage segments
+.
+179
+ASSET & WEALTH MANAGEMENT (“AWM”)
+Assets under management (“AUM”):
+represent assets managed by AWM on behalf of its Private Banking, Global Institutional and Global Funds clients. Includes “Committed capital not Called.”
+Client assets:
+represent assets under management, as well as custody, brokerage, administration and deposit accounts.
+Multi-asset:
+Any fund or account that allocates assets under management to more than one asset class.
+Alternative assets "Alternatives":
+The following types of assets constitute alternative investments – hedge funds, currency, real estate, private equity and other investment funds designed to focus on nontraditional strategies.
+AWM’s lines of business consist of the following:
+Asset Management:
+offers multi-asset investment management solutions across equities, fixed income, alternatives and money market funds to institutional and retail investors providing for a broad range of clients’ investment needs.
+Global Private Bank:
+provides retirement products and services, brokerage, custody, trusts and estates, loans, mortgages, deposits and investment management to high net worth clients.
+AWM’s client segments consist of the following:
+Private Banking:
+clients include high- and ultra-high-net-worth individuals, families, money managers and business owners.
+Global Institutional:
+clients include both corporate and public institutions, endowments, foundations, nonprofit organizations and governments worldwide.
+Global Funds:
+clients include financial intermediaries and

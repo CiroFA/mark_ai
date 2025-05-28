@@ -1,142 +1,21 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+10-Q
+http://fasb.org/us-gaap/2024#RelatedPartyMember
+http://fasb.org/us-gaap/2024#RelatedPartyMember
+http://fasb.org/us-gaap/2024#RelatedPartyMember
+http://fasb.org/us-gaap/2024#RelatedPartyMember
+false
+Q1
+0001393818
+--12-31
+http://fasb.org/us-gaap/2024#OtherAssets
+http://fasb.org/us-gaap/2024#OtherAssets
+As of March 31, 2025 and December 31, 2024, Other Investments includes Level III Freestanding Derivatives.
+A summary of the investments where the fair value is not readily determinable and NAV is used as a practical expedient as of March 31, 2025 is presented by strategy type below:
+Represents freestanding derivatives, corporate treasury investments and Other Investments.
+Transfers in and out of Level III financial assets and liabilities were due to changes in the observability of inputs used in the valuation of such assets and liabilities.
+For Freestanding Derivatives included within Other Investments, Settlements includes all ongoing contractual cash payments made or received over the life of the instrument.
+Amounts presented are inclusive of both legally enforceable master netting agreements, and financial instruments received or pledged as collateral. Financial instruments received or pledged as collateral offset derivative counterparty risk exposure, but do not reduce net balance sheet exposure.
+Fair value is determined by broker quote and these notes would be classified as Level II within the fair value hierarchy.
+CLO Notes Payable have maturity dates ranging from June 2025 to January 2037. A portion of the borrowing outstanding is comprised of subordinated notes which do not have contractual interest rates but instead pay distributions from the excess cash flows of the CLO vehicles. As of March 31, 2025, the CLO Notes Payable were deconsolidated.
+The Secured Borrowings Due 10/27/2033 and 1/29/2035 were repaid during the three months ended March 31, 2025.
+Represents the Revolving Credit Facility of Blackstone, through Blackstone Holdings Finance Co. L.L.C. Interest on the borrowings is based on an adjusted Secured Overnight Finance Rate (“SOFR”) or alternate base rate, in each case plus a margin, and undrawn commitments bear a commitment fee of 0.06%. The margin above adjusted SOFR used to calculate interest on borrowings was 0.75% plus an additional credit spread adjustment of 0.10% to account for the difference between London Interbank Offered Rate (“LIBOR”) and SOFR. The margin is subject to change based on Blackstone’s credit rating. Borrowings may also be made in U.K. sterling, euros, Swiss francs, Japanese yen or Canadian dollars, in each case subject to certain sub-limits. The Revolving Credit Facility contains customary representations, covenants and events of default. Financial covenants consist of a maximum net leverage ratio and a requirement to keep a minimum amount of fee-earning assets under management, each tested quarterly. As of March 31, 2025 and December 31, 2024, Blackstone had outstanding but undrawn letters of credit

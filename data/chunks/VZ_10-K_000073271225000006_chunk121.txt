@@ -1,0 +1,30 @@
+consolidated balance sheets were as follows:
+For the years ended December 31, 2024 and 2023, we recognized expense of $
+3.4
+billion and $
+3.2
+billion, respectively, associated with the amortization of deferred contract costs, primarily within Selling, general and administrative expense in our consolidated statements of income.
+We assess our deferred contract costs for impairment on a quarterly basis. We recognize an impairment charge to the extent the carrying amount of a deferred cost exceeds the remaining amount of consideration we expect to receive in exchange for the goods and services related to the cost, less the expected costs related directly to providing those goods and services that have not yet been recognized as expenses. There were
+no
+impairment charges recognized for the year ended December 31, 2024. There were insignificant impairment charges recognized for the year ended December 31, 2023.
+69
+Table of
+Contents
+Spectrum License Transactions
+In February 2021, the FCC concluded Auction 107 for C-Band wireless spectrum. In accordance with the rules applicable to the auction, Verizon is required to make payments for our allocable share of clearing costs incurred by, and incentive payments due to, the incumbent license holders associated with the auction, which are estimated to be $
+7.5
+billion. During 2024, 2023 and 2022, we made payments of $
+269
+million, $
+4.3
+billion and $
+1.6
+billion respectively, for obligations related to clearing costs and accelerated clearing incentives. The carrying value of the wireless spectrum won in Auction 107 consists of all payments required to participate and purchase licenses in the auction, including Verizon’s allocable share of clearing costs incurred by, and incentive payments due to, the incumbent license holders associated with the auction that we are obligated to pay in order to acquire the licenses, as well as capitalized interest to the extent qualifying activities have occurred.
+In March 2022, Verizon signed agreements with satellite operators in which operators agreed to clear C-Band spectrum in certain markets and frequencies ahead of the previously expected timeframe. During 2022, Verizon incurred costs associated with these agreements of approximately $
+340
+million, of which $
+310
+million was paid as of December 31, 2022 and the remainder was paid in 2023. This early clearance accelerated Verizon's access to more spectrum in a number of key markets to support its 5G network initiatives.
+On October 17, 2024, Verizon entered into a license purchase agreement to acquire select spectrum licenses of United States Cellular Corporation and certain of its subsidiaries (UScellular) for total consideration of $
+1.0
+billion, subject to certain potential adjustments. The closing of this transaction is subject to the receipt of regulatory approvals and other closing conditions, including the consummation of UScellular's proposed sale of its wireless operations and select spectrum assets to T-Mobile

@@ -1,0 +1,48 @@
+the trust preferred securities.
+(3)
+The spread incorporates the original contractual spread and a
+26.161
+bps tenor spread adjustment.
+151
+19.
+CHANGES IN ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS) (AOCI)
+Changes in each component of Citigroup’s
+Accumulated other comprehensive income (loss)
+were as follows:
+(1)
+Reflects the after-tax valuation of Citi’s fair value option liabilities. See “Market Valuation Adjustments” in Note 23.
+(2)
+Primarily driven by Citi’s pay floating/receive fixed interest rate swap programs that hedge certain floating rates on assets.
+(3)
+Primarily reflects adjustments based on actuarial valuations of the Company’s significant pension and postretirement plans, actuarial valuations of all other plans and amortization of amounts previously recognized in other comprehensive income. Citigroup remeasures its significant pension and postretirement benefits plans’ obligations and assets by updating plan actuarial assumptions quarterly, when certain conditions are met to trigger interim remeasurement. No interim remeasurement occurred for the first quarter of 2025.
+(4)
+Primarily reflects the movements in (by order of impact) the euro, Polish zloty, Japanese yen, Brazilian real, Chilean peso, British pound sterling and Singapore dollar against the U.S. dollar and changes in related tax effects and hedges for the three months ended March 31, 2025. Primarily reflects the movements in (by order of impact) the Egyptian pound, Chilean peso, euro and Japanese yen against the U.S. dollar and changes in related tax effects and hedges for the three months ended March 31, 2024. Amounts recorded in the CTA component of
+AOCI
+remain in
+AOCI
+until the sale or substantial liquidation of the foreign entity, at which point such amounts related to the foreign entity are reclassified into earnings.
+(5)
+Reflects the change in the liability for future policyholder benefits for certain long-duration life-contingent annuity contracts that are issued by a regulated Citi insurance subsidiary in Mexico and reported within Legacy Franchises. The amount reflects the change in the liability after discounting using an upper-medium-grade fixed income instrument yield that reflects the duration characteristics of the liability. The balance of the liability for future policyholder benefits, which is recorded within
+Other Liabilities
+, for this insurance subsidiary was approximately $
+425
+million and $
+546
+million at March 31, 2025 and 2024, respectively.
+152
+The pretax and after-tax changes in each component of
+Accumulated other comprehensive income (loss)
+were as follows:
+(1)    Income tax effects of these items are released from
+AOCI
+contemporaneously with the related gross pretax amount.
+153
+The Company recognized pretax (gains) losses related to amounts in
+AOCI
+reclassified to the Consolidated Statement of Income as follows:
+(1)
+The pretax amount is reclassified to
+Realized gains (losses) on sales of investments, net
+and
+Gross impairment losses
+in the

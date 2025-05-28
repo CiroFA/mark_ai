@@ -1,0 +1,58 @@
+may require payment within three months or less. During 2024, we issued
+$
+5.3
+billion and retired
+$
+3.8
+billion of retail note securitization borrowings, which are presented in “Net proceeds (payments) in short-term borrowings (original maturities three months or less).”
+Cash, cash equivalents, and restricted cash recorded in “Assets held for sale” relates to BJD (see Note 4). Restricted cash recorded in “Other assets” relates to securitization of financing receivables (see Note 12) and cash held in Russia.
+​
+Supplemental cash flow information follows:
+​
+​
+​
+​
+7. PENSION AND OTHER POSTRETIREMENT BENEFITS
+We have several funded and unfunded defined benefit pension plans and other postretirement benefit (OPEB) plans. These plans cover U.S. employees and certain foreign employees. The measurement date of our plans is October 31.
+The funded status as of October 31, 2024 of the significant plans follows:
+​
+​
+The components of net periodic pension and OPEB (benefit) cost excluding the service cost component are included in the line item “Other operating expenses.”
+The components of net periodic pension (benefit) cost and the related assumptions consisted of the following:
+​
+​
+During 2024,
+curtailment expense
+of $
+35
+was recognized related to U.S. hourly employee layoffs.
+The 2025 net periodic pension benefit is expected to increase by
+$
+100
+due to an increase in the expected long-term rates of return on pension plan assets (estimated to be
+7.1
+percent) and the U.S. hourly pension curtailment recognized in 2024, described above.
+58
+Table of Contents
+​
+The components of net periodic OPEB cost and the assumptions related to the cost consisted of the following:
+​
+​
+The benefit plan obligations, funded status, and the assumptions related to the obligations at October 27, 2024 and October 29, 2023 follow:
+​
+​
+​
+The actuarial loss for pension for 2024 was due to a decrease in discount rates. The actuarial loss for OPEB for 2024 was due to a decrease in discount rates and changes to health care assumptions. The actuarial gain for pension for 2023 was due to an increase in discount rates. The actuarial gain for OPEB for 2023 was due to changes to health care assumptions.
+​
+During
+2023
+, we irrevocably transferred to an insurance company
+$
+112
+of a Canadian pension plan’s defined benefit obligations and related
+plan assets
+. The transaction resulted in no changes to the benefits to be received by the retired participants. We recognized a one-time, non-cash, pretax pension settlement charge of
+$
+36
+related to the accelerated recognition of actuarial losses included within “Accumulated other comprehensive income (loss).”
+The discount rate assumptions used to determine the pension and OPEB obligations for all periods presented were based on hypothetical AA yield curves represented by a series of annualized individual discount rates. These discount rates represent the rates at which our benefit obligations could effectively be settled at the October 31 measurement

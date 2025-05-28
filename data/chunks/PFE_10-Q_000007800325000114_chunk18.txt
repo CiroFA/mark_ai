@@ -1,0 +1,36 @@
+compared to the first quarter of 2024, reflects (i) lower interest expense mainly due to lower long-term debt and commercial paper balances and (ii) an increase in interest income primarily due to higher cash balances from sales of our remaining investment in Haleon.
+(b)
+The net losses in the first quarter of 2025 include, among other things, a net loss of $
+144
+million related to our investment in Haleon, composed of unrealized losses of $
+1.0
+billion, partially offset by $
+900
+million in realized gains on the sales of our remaining investment.
+(c)
+The amount for the first quarter of 2025 primarily includes certain product liability and other legal expenses related to products discontinued and/or divested by Pfizer. The amount for the first quarter of 2024 primarily included certain product liability expenses related to products discontinued and/or divested by Pfizer.
+(d)
+The amount for the first quarter of 2025 primarily represents an intangible asset impairment charge associated with our Biopharma segment of $
+210
+million for KRAS G12D, a Phase 2 indefinite-lived out-licensed asset that was discontinued by our out-licensing partner. The amount for the first quarter of 2024 represented intangible asset impairment charges associated with our Biopharma segment for developed technology rights due to updated commercial forecasts mainly reflecting competitive pressures.
+(e)
+The first quarter of 2024 primarily i
+ncluded, among other things,
+a $
+150
+million realized gain on the partial sale of our investment in Haleon.
+(a)
+The fair value amount is presented as of the date of impairment, as this asset is not measured at fair value on a recurring basis. See also
+Note 1E
+in our 2024 Form 10-K
+.
+(b)
+Reflects intangible assets written down to fair value in 2025. Fair value was determined using the income approach, specifically the multi-period excess earnings method, also known as the discounted cash flow method. We started with a forecast of all the expected net cash flows for the asset and then applied an asset-specific discount rate to arrive at a net present value amount. Some of the more significant estimates and assumptions inherent in this approach include: the amount and timing of the projected net cash flows, which includes the expected impact of competitive, legal and/or regulatory forces on the product; and assumptions about the probability of technical and regulatory success (PTRS) of ongoing clinical trials, the discount rate, which seeks to reflect the various risks inherent in the projected cash flows; and the tax rate, which seeks to incorporate the geographic diversity of the projected cash flows.
+Note 5.
+Tax Matters
+A. Taxes on Income/(Loss) from Continuing Operations
+Our effective tax rate for continuing operations was (
+6.8
+)% for the first quarter of 2025, compared to
+8.6
+% for the first quarter of 2024. The negative and lower effective tax rate for the first quarter of 2025, compared to the first quarter of 2024, was primarily due to

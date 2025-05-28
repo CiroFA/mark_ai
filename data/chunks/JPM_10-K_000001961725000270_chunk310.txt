@@ -1,0 +1,23 @@
+by the FFIEC. Residential real estate loans, unmodified credit card loans and scored business banking loans are generally charged off no later than
+180
+days past due. Scored auto and closed-end consumer loans, including modified credit card
+Notes to consolidated financial statements
+accounts placed on a fixed payment plan, are charged off no later than
+120
+days past due.
+Certain consumer loans are charged off or charged down to their net realizable value earlier than the FFIEC charge-off standards in the following circumstances:
+•
+Loans modified to borrowers experiencing financial difficulty that are determined to be collateral-dependent.
+•
+Loans to borrowers who have experienced an event that suggests a loss is either known or highly certain are subject to accelerated charge-off standards (e.g., residential real estate and auto loans are charged off or charged down within
+60
+days of receiving notification of a bankruptcy filing).
+•
+Auto loans upon repossession of the automobile.
+Other than in certain limited circumstances, the Firm typically does not recognize charge-offs on the government-guaranteed portion of loans.
+Wholesale loans are charged off when it is highly certain that a loss has been realized. The determination of whether to recognize a charge-off includes many factors, including the prioritization of the Firm’s claim in bankruptcy, expectations of the workout/restructuring of the loan and valuation of the borrower’s equity or the loan collateral.
+When a loan is charged down to the lower of its amortized cost or the estimated net realizable value of the underlying collateral, the determination of the fair value of the collateral depends on the type of collateral (e.g., securities, real estate). In cases where the collateral is in the form of liquid securities, the fair value is based on quoted market prices or broker quotes. For illiquid securities or other financial assets, the fair value of the collateral is generally estimated using a discounted cash flow model.
+For residential real estate loans, collateral values are based upon external valuation sources. When it becomes likely that a borrower is either unable or unwilling to pay, the Firm utilizes a broker’s price opinion, appraisal and/or an automated valuation model of the home based on an exterior-only valuation (“exterior opinions”), which is then updated at least every
+12
+months, or more frequently depending on various market factors. As soon as practicable after the Firm receives the property in satisfaction of a debt (e.g., by taking legal title or physical possession), the Firm generally obtains an appraisal based on an inspection that includes the interior of the home (“interior appraisals”). Exterior opinions and interior appraisals are discounted based upon the Firm’s experience with actual liquidation values as compared with the estimated values provided by exterior opinions and interior appraisals, considering state-specific factors.
+For commercial real estate

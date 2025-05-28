@@ -1,0 +1,21 @@
+losses. These consequences can also impair JPMorganChase’s ability to effectively manage its credit risk exposure from its market activities, or cause harm to JPMorganChase’s reputation.
+The financial or operational failure of a significant market participant, such as a major financial institution or a CCP, or concerns about the creditworthiness of such a market participant or its ability to fulfill its obligations, can cause substantial and cascading disruption within the financial markets, including in circumstances where coordinated action by multiple other market participants is required to address the failure or disruption. JPMorganChase’s businesses could be significantly disrupted by such an event, particularly if it leads to other market participants incurring significant losses, experiencing liquidity issues or defaulting, and JPMorganChase is likely to have significant interrelationships with, and credit exposure to, such a significant market participant.
+JPMorganChase may suffer losses if the value of collateral declines in stressed market conditions.
+During periods of market stress or illiquidity, JPMorganChase’s credit risk may be further increased when:
+•
+JPMorganChase fails to realize the estimated value of the collateral it holds
+•
+collateral is liquidated at prices that are not sufficient to recover the full amount owed to it, or
+•
+counterparties are unable to post collateral, whether for operational or other reasons.
+Furthermore, disputes with counterparties concerning the valuation of collateral may increase in times of significant market stress, volatility or illiquidity, and JPMorganChase could suffer losses during these periods if it is unable to realize the fair value of collateral or to manage declines in the value of collateral.
+JPMorganChase could incur significant losses arising from concentrations of credit and market risk.
+JPMorganChase is exposed to greater credit and market risk to the extent that groupings of its clients or counterparties, or obligors on securities and other financial instruments:
+•
+engage in similar or related businesses, or in businesses in related industries
+•
+do business in the same geographic region, or
+Part I
+•
+have business profiles, models or strategies that could cause their ability to meet their obligations to be similarly affected by changes in economic conditions.
+For example, a significant deterioration in the credit quality of a counterparty, borrower or other obligor could lead to concerns about the creditworthiness of other counterparties, borrowers or obligors in similar, related or dependent industries. This type of interrelationship could exacerbate JPMorganChase’s credit, liquidity and market risk exposure and potentially cause it to incur losses, including fair value losses in its market-making businesses and investment portfolios. In addition, JPMorganChase may be required to increase the allowance for credit losses or establish other reserves with respect to certain clients,

@@ -1,0 +1,17 @@
+methodologies used to determine the Firm’s allowance for credit losses, and Allowance for credit losses on pages 61-63 and Note 12 of this Form 10-Q for further information.
+One of the most significant judgments involved in estimating the Firm’s allowance for credit losses relates to the macroeconomic forecasts used to estimate credit losses over the eight-quarter forecast period within the Firm’s methodology. The eight-
+quarter forecast incorporates hundreds of macroeconomic variables ("MEVs") that are relevant for exposures across the Firm, with modeled credit losses being driven primarily by a subset of less than twenty variables. The specific variables that have the greatest effect on the modeled losses vary by portfolio and geography.
+•
+Key MEVs for the consumer portfolio include regional U.S. unemployment rates and U.S. HPI.
+•
+Key MEVs for the wholesale portfolio include U.S. unemployment, U.S. real GDP, U.S. equity prices, U.S. interest rates, U.S. corporate credit spreads, oil prices, U.S. commercial real estate prices and U.S. HPI.
+Changes in the Firm’s assumptions and forecasts of economic conditions could significantly affect its estimate of expected credit losses in the portfolio at the balance sheet date or lead to significant changes in the estimate from one reporting period to the next.
+It is difficult to estimate how potential changes in any one factor or input might affect the overall allowance for credit losses because management considers a wide variety of factors and inputs in estimating the allowance for credit losses. Changes in the factors and inputs considered may not occur at the same rate and may not be consistent across all geographies or product types, and changes in factors and inputs may be directionally inconsistent, such that improvement in one factor or input may offset deterioration in others.
+To consider the impact of a hypothetical alternate macroeconomic forecast, the Firm compared the modeled credit losses determined using its central and relative adverse macroeconomic scenarios, which are two of the five scenarios considered in estimating the allowances for loan losses and lending-related commitments. The central and relative adverse scenarios each included a full suite of MEVs, but differed in the levels, paths and peaks/troughs of those variables over the eight-quarter forecast period.
+For example, compared to the Firm’s central scenario shown on page 61 and in Note 12, the Firm’s relative adverse scenario assumes an elevated U.S. unemployment rate, averaging approximately 2.1% higher over the eight-quarter forecast, with a peak difference of approximately 2.9% in the first quarter of 2026.
+This analysis is not intended to estimate expected future changes in the allowance for credit losses, for a number of reasons, including:
+•
+The allowance as of March 31, 2025, reflects credit losses beyond those estimated under the central scenario due to the weight placed on the adverse scenarios.
+72
+•
+The impacts of

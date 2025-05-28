@@ -1,0 +1,26 @@
+guarantee will remain in place for the life of the obligation
+15
+Table of Contents
+unless terminated pursuant to its terms, including the operating telephone company no longer being a wholly-owned subsidiary of the Company.
+Debt Covenants
+We and our consolidated subsidiaries are in compliance with all of our restrictive covenants in our debt agreements.
+The following table presents information about accounts receivable, net of allowances, recorded in our condensed consolidated balance sheet:
+(1)
+Other receivables primarily include wireline and other receivables, of which the allowances are individually insignificant.
+Included in Other assets and Accounts receivable, net at March 31, 2025 and December 31, 2024, are net device payment plan agreement receivables, net wireless service receivables and net other receivables of $
+28.8
+billion and $
+29.9
+billion, respectively, which have been transferred to ABS Entities and continue to be reported in our condensed consolidated balance sheets. Included in Accounts receivable, net at March 31, 2025 and December 31, 2024, are net other receivables of $
+815
+million and $
+1.2
+billion, respectively, on which a participation interest has been transferred to ABS Entities and continue to be reported in our condensed consolidated balance sheets. See Note 5 for additional information. We believe the carrying value of these receivables approximate their fair value using a Level 3 expected cash flow model.
+Under the Verizon device payment program, our eligible wireless customers purchase wireless devices under a device payment plan agreement. Customers that activate service on devices purchased under the device payment program pay lower service fees as compared to those under our fixed-term service plans, and their device payment plan charge is included on their wireless monthly bill. While we no longer offer Consumer customers fixed-term subsidized service plans for devices, we continue to offer subsidized plans to our Business customers. We also continue to service existing plans for customers who have not yet purchased and activated devices under the Verizon device payment program.
+Wireless Device Payment Plan Agreement Receivables
+The following table displays both the current and non-current portions of device payment plan agreement receivables, net, recognized in our condensed consolidated balance sheets:
+(1)
+Includes allowance for both short-term and long-term device payment plan agreement receivables.
+For indirect channel wireless contracts with customers, we impute risk adjusted interest on the device payment plan agreement receivables. We record the imputed interest as a reduction to the related accounts receivable. The associated interest income, which is included within Service revenues and other in our condensed consolidated statements of income, is recognized over the financed device payment term.
+Promotions
+In connection with certain device payment plan agreements, we may offer a promotion to allow our

@@ -1,0 +1,25 @@
+proposed merger. In accordance with the terms of the termination agreement, we paid Figma a termination fee of $
+1
+billion. The termination fee was recorded in operating expenses in our Consolidated Statements of Income during fiscal 2024, and was not tax-deductible for financial statement purposes.
+NOTE 4.
+CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+Cash equivalents consist of highly liquid marketable securities with remaining maturities of three months or less at the date of purchase. We classify our investments in marketable debt securities as “available-for-sale.” We carry these investments at fair value, based on quoted market prices or other readily available market information. Unrealized gains and unrealized non-credit-related losses of marketable debt securities are included in accumulated other comprehensive income, net of taxes, in our Consolidated Balance Sheets. Unrealized credit-related losses are recorded to other income (expense), net in our Consolidated Statements of Income with a corresponding allowance for credit-related losses in our Consolidated Balance Sheets. Gains and losses are determined using the specific identification method and recognized when realized in our Consolidated Statements of Income.
+Cash, cash equivalents and short-term investments consisted of the following as of November 29, 2024:
+69
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Cash, cash equivalents and short-term investments consisted of the following as of December 1, 2023:
+See Note 5 for further information regarding the fair value of our financial instruments.
+The following table summarizes the estimated fair value of short-term fixed income debt securities classified as short-term investments based on stated effective maturities as of November 29, 2024:
+We review our debt securities classified as short-term investments on a regular basis for impairment. For debt securities in unrealized loss positions, we determine whether any portion of the decline in fair value below the amortized cost basis is due to credit-related factors if we neither intend to sell nor anticipate that it is more likely than not that we will be required to sell prior to recovery of the amortized cost basis. We consider factors such as the extent to which the market value has been less than the cost, any noted failure of the issuer to make scheduled payments, changes to the rating of the security and other relevant credit-related factors in determining whether or not a credit loss exists. During fiscal 2024 and 2023, we did not recognize an allowance for credit-related losses on any of our investments.
+70
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 5.
+FAIR VALUE MEASUREMENTS
+Assets and Liabilities Measured and Recorded at Fair Value on a Recurring Basis
+The fair value of our financial assets and liabilities at November 29, 2024 was determined using the following inputs:
+71
+Table of

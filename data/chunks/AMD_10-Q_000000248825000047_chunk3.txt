@@ -1,0 +1,30 @@
+periods. Actual results are likely to differ from those estimates, and such differences may be material to the financial statements. Areas where management uses subjective judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill, long-lived and intangible assets, and income taxes.
+Significant Accounting Policies.
+There have been no material changes to the Company’s significant accounting policies in Note 2 - Basis of Presentation and Significant Accounting Policies, of the Notes to Condensed Consolidated Financial Statements included in the Company’s Annual Report on Form 10-K for the fiscal year ended December 28, 2024.
+NOTE 3 –
+Supplemental Financial Statement Information
+9
+Table of Contents
+Revenue
+Revenue allocated to remaining performance obligations that are unsatisfied or partially unsatisfied include amounts received from customers and amounts that will be invoiced and recognized as revenue in future periods for development services, IP licensing and product revenue. As of March 29, 2025, the aggregate transaction price allocated to remaining performance obligations under contracts with an original expected duration of more than one year was $
+74
+million, of which $
+56
+million is expected to be recognized in the next
+12
+months. The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+Revenue recognized over time associated with custom products and development services accounted for approximately
+9
+% and
+16
+% of the Company’s revenue for the three months ended March 29, 2025 and March 30, 2024, respectively.
+NOTE 4 –
+Segment Reporting
+Management, including the Chief Operating Decision Maker (CODM), who is the Company’s Chief Executive Officer, reviews and assesses operating performance using segment net revenue, cost of sales and operating expenses, and operating income (loss). These performance measures include the allocation of expenses to the reportable segments based on management’s judgment. The CODM is regularly provided segment operating income to assess relative segment performance.
+10
+Table of Contents
+Beginning with the fiscal year ending December 27, 2025, the Company changed its segment structure, combining the Client and Gaming segments into one reportable segment to align with how the Company manages its business. All prior period segment data were retrospectively adjusted. The Company’s three reportable segments are:
+•
+the Data Center segment, which primarily includes Artificial Intelligence (AI) accelerators, microprocessors (CPUs) for servers, graphics processing units (GPUs), accelerated processing units (APUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), Smart Network Interface Cards (SmartNICs) and Adaptive System-on-Chip (SoC) products for data centers;
+•
+the Client and Gaming segment, which primarily includes CPUs, APUs, chipsets for desktops and notebooks,

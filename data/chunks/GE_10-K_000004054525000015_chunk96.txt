@@ -1,0 +1,32 @@
+represents the liabilities associated with certain of our deferred incentive compensation plans.
+LEVEL 3 INSTRUMENTS.
+The majority of our Level 3 balances comprised debt securities classified as available-for-sale with changes in fair value recorded in Other comprehensive income.
+(a)
+Primarily included net unrealized gains (losses) of $(
+29
+) million and $
+134
+million in Other comprehensive income for the years ended December 31, 2024 and 2023, respectively.
+(b)
+Included $
+491
+million of U.S. corporate debt securities and $
+600
+million of Mortgage and asset-backed debt securities for the year ended December 31, 2024. Included $
+379
+million of U.S. corporate debt securities and $
+177
+million of Mortgage and asset-backed debt securities for the year ended December 31, 2023.
+(c)
+Transfers out of Level 3 during the year ended December 31, 2024, related to increases in the observability of external information used in determining fair value. These transfers were in our run-off insurance operations and primarily included certain investments in private placement U.S. and non-U.S. corporate debt securities.
+The majority of these Level 3 securities are fair valued using non-binding broker quotes or other third-party sources that utilize a number of different unobservable inputs not subject to meaningful aggregation.
+NOTE 22.
+FINANCIAL INSTRUMENTS.
+The following table provides information about assets and liabilities not carried at fair value and excludes finance leases, equity securities without readily determinable fair value and non-financial assets and liabilities. Substantially all of these assets are considered to be Level 3 and the vast majority of our liabilities’ fair value are considered Level 2.
+(a) Primarily related to our run-off insurance operations. See Note 12 for further information.
+Assets and liabilities that are reflected in the accompanying financial statements at fair value are not included in the above disclosures; such items include cash and cash equivalents, investment securities (Note 3) and derivative financial instruments below.
+DERIVATIVES AND HEDGING.
+Our policy requires that derivatives are used solely for managing risks and not for speculative purposes. We use derivatives to manage risks related to foreign currency exchange (including foreign equity investments), interest rates and commodity prices.
+70
+2024 FORM 10-K
+We use currency exchange contracts (including cross-currency swaps) for net investment hedges to hedge investments in our foreign operations, or for cash flow hedges primarily to reduce or eliminate the effects of foreign exchange rate changes. Gains and losses on derivatives used in qualified hedges are initially recognized in our Statement of Other Comprehensive Income (Loss) except for interest on cross-currency swaps. For cross-currency swaps, we recognize the periodic interest settlements within Interest and other financial charges in the Statement of Earnings (Loss), and the cash flows associated with

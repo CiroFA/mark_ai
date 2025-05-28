@@ -1,0 +1,25 @@
+business models.
+Through a principled approach (including applying prudent risk management practices and maintaining continuous monitoring of our partners that are active in the digital asset market), we are focused on supporting blockchain ecosystems and digital currencies.  We integrate with financial institutions using the Mastercard Multi-Token Network™ to enable programmable payments, which helps make transactions within blockchain ecosystems more secure, scalable and interoperable.  We work with a wide range of crypto players to enable consumers to buy cryptocurrencies on card and spend those balances anywhere our brands are accepted.
+•
+Simplifying access to, and integration of, our digital assets.
+Our Mastercard Developer platform makes it easy for customers and partners to leverage our many digital assets and services.  By providing a single access point with tools and capabilities to find APIs across a broad range of Mastercard services, we enable easy integration of our services into new and existing solutions.
+•
+Identifying and experimenting with future technologies, start-ups and trends.
+Through Mastercard Foundry, we continue to provide customers and partners access to thought leadership, innovation methodologies, new technologies and relevant early-stage fintech players.
+14
+MASTERCARD 2024 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+Our Services and Other Solutions
+•
+Prevention
+solutions designed to help customers establish and strengthen measures that keep systems, applications and data secure from potential security risks.  We continue to grow global usage of EMV chip and contactless security technology, helping to reduce fraud.  We also utilize our technology to evaluate and continuously monitor the cybersecurity posture of organizations worldwide, offering insights into potential vulnerabilities and risks.
+•
+Identification
+solutions designed to help banks and merchants verify identities and authenticate consumers during digital interactions like account openings, account access and money movements using identity data and identity signals, device intelligence, biometric technologies and behavioral user data assessments.
+•
+Detection
+solutions designed to both spot and take action to stop fraudulent behavior and cyber-attacks.  Our offerings include fraud scoring technology that scans billions of transactions each day while increasing approvals and reducing false declines, alerts when accounts are exposed to data breaches or security incidents, and network-level monitoring on a global scale to help detect the occurrence of widespread fraud attacks when a customer may be unable to detect or defend against them.
+•
+Business continuity
+solutions designed to enable uninterrupted commerce, fostering trust and reliability for both merchants and consumers.  These solutions include Mastercard’s Stand-In processing, which is designed to ensure transaction continuity when a card issuer’s systems are unavailable.  This solution provides a backup

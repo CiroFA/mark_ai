@@ -1,0 +1,28 @@
+in Item 1 of this Quarterly Report on Form 10-Q.
+•
+OI&E of $11.2 billion for the three months ended March 31, 2025 included an $8.0 billion unrealized gain on our non-marketable equity securities related to our investment in a private company.
+•
+Operating cash flow was $36.2 billion for the three months ended March 31, 2025.
+•
+Capital expenditures, which primarily reflected investments in technical infrastructure, were $17.2 billion for the three months ended March 31, 2025.
+•
+As of March 31, 2025, we had 185,719 employees.
+We are monitoring ongoing developments surrounding international trade and the macroeconomic environment. As a result of volatility in international trade and financial markets, we may experience direct and indirect effects on our business, operations, and financial results. Our past results may not be indicative of our future performance, and our financial results may differ materially from historical trends.
+Financial Results
+Revenues
+The following table presents revenues by type (in millions):
+36
+Google Services
+Google advertising revenues
+Google Search & other
+Google Search & other revenues
+increased
+$4.5 billion from the three months ended March 31, 2024 to the three months ended March 31, 2025. The overall growth was driven by interrelated factors including increases in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and improvements we have made in ad formats and delivery.
+YouTube ads
+YouTube ads revenues increased $837 million from the three months ended March 31, 2024 to the three months ended March 31, 2025. The growth was driven by our direct response advertising products followed by our brand advertising products, both of which benefited from increased spending by our advertisers.
+Google Network
+Google Network revenues decreased $157 million from the three months ended March 31, 2024 to the three months ended March 31, 2025, primarily due to the unfavorable effect of foreign currency exchange rates and a decrease in Google Ad Manager and AdMob revenues. These decreases were partially offset by an increase in AdSense revenues.
+Monetization Metrics
+The following table presents changes in monetization metrics for Google Search & other revenues (paid clicks and cost-per-click) and Google Network revenues (impressions and cost-per-impression), expressed as a percentage, from three months ended March 31, 2024 to three months ended March 31, 2025:
+Changes in paid clicks and impressions are driven by a number of interrelated factors, including changes in advertiser spending; ongoing product and policy changes; and, as it relates to paid clicks, fluctuations in search queries resulting from changes in user adoption and usage, primarily on mobile devices.
+Changes in cost-per-click and cost-per-impression are driven by a number of interrelated factors including changes in device mix, geographic mix, advertiser spending, ongoing product and policy changes,

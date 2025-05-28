@@ -1,0 +1,24 @@
+recognition may differ from the timing of invoicing to customers. Certain performance obligations may require payment before delivery of the license or service to the customer. Included in trade receivables on the Consolidated Balance Sheets are unbilled receivable balances which have not yet been invoiced, and are typically related to license revenue or services which are delivered prior to invoicing. As of November 29, 2024, the balance of trade receivables, net of allowances for doubtful accounts, was $
+2.07
+billion, inclusive of unbilled receivables of $
+66
+million. As of December 1, 2023, the balance of trade receivables, net of allowances for doubtful accounts, was $
+2.22
+billion, inclusive of unbilled receivables of $
+80
+million.
+Allowance for Doubtful Accounts
+We maintain an allowance for doubtful accounts which reflects our best estimate of potentially uncollectible trade receivables and is based on both specific and general reserves. We maintain general reserves on a collective basis by considering factors such as historical experience, credit-worthiness, the age of the trade receivable balances, current economic conditions and a reasonable and supportable forecast of future economic conditions.
+The allowance for doubtful accounts was $
+14
+million and $
+16
+million as of November 29, 2024 and December 1, 2023, respectively.
+Contract Assets
+A contract asset is recognized when a conditional right to consideration exists and transfer of control has occurred. Contract assets are typically related to subscription and hosted service contracts where the transaction price allocated to the satisfied performance obligations exceeds the value of billings to date. Contract assets are included in prepaid expenses and other current assets for the current portion and other assets for the long-term portion on the Consolidated Balance Sheets. We regularly review contract asset balances for impairment, considering factors such as historical experience, credit-worthiness, age of the balance, current economic conditions and a reasonable and supportable forecast of future economic conditions. Contract asset impairments were not material in fiscal 2024 and 2023. Contract assets were $
+248
+million and $
+141
+million as of November 29, 2024 and December 1, 2023, respectively.
+Deferred Revenue and Remaining Performance Obligations
+Deferred revenue primarily consists of billings or payments received in advance of revenue recognition from subscription services, including non-cancellable and non-refundable committed funds and refundable customer deposits. Deferred revenue is recognized as revenue when transfer of control to customers has occurred. Customers are typically invoiced for these agreements in regular installments and revenue is recognized ratably over the contractual subscription period. The deferred revenue balance is influenced by several factors, including the compounding effects of renewals, invoice duration, invoice timing, size and new business

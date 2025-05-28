@@ -1,0 +1,21 @@
+those estimates that require significant judgment from management include: (a) how the customer will utilize the assets covered over the contract term; (b) the expected timing and extent of future overhaul services; (c) the future cost of materials, labor, and other resources; and (d) forward looking information concerning market conditions.
+Given the complexity involved with evaluating the key estimates, which includes significant judgment necessary to estimate future costs, auditing these assumptions required a high degree of auditor judgment and extensive audit effort, including the involvement of professionals with specialized skills and industry knowledge.
+How the Critical Audit Matter Was Addressed in the Audit
+Our auditing procedures over the key estimates described above related to the amount and timing of revenue recognition of the long-term service agreements included the following, among others:
+•
+We tested the effectiveness of controls over the revenue recognition process for the long-term service agreements, including controls over management’s key estimates.
+•
+We evaluated management’s risk assessment process through observation of key meetings and processes, including inspection of documentation, addressing contract status and current market conditions including the timely incorporation of changes that affect total estimated costs to complete the contract.
+•
+We evaluated the appropriateness and consistency of management’s methods and key assumptions applied in recognizing revenue and developing cost estimates.
+2024 FORM 10-K
+35
+•
+We tested management’s utilization assumptions for the assets covered over the contract term, which impact the estimated timing and extent of future maintenance and overhaul services by comparing current estimates to historical information and forward-looking market conditions.
+•
+We tested management’s process for estimating the timing and amount of costs associated with overhaul and other maintenance events throughout the contract term, including comparing estimates to historical cost experience, performing a retrospective review, performing analytical procedures, and utilized specialists to evaluate statistical models used by the Company to estimate the useful life of certain components of the applicable engine platform.
+Future Policy Benefits - refer to Note 12 to the financial statements
+Critical Audit Matter Description
+The liability for future policy benefits as of December 31, 2024 is measured under ASU 2018-12 “Targeted Improvements to the Accounting for Long Duration Contracts” (LDTI) based on current assumptions applied to the underlying policy cash flows. The liability for future policy benefits includes $24,675 million for long term care policies.
+Significant uncertainties exist in evaluating future cash flow projections, including consideration of a wide range of possible outcomes of future events over the life of the insurance contracts that can extend for long periods of time.
+A key

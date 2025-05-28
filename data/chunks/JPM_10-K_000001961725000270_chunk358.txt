@@ -1,0 +1,31 @@
+of its customers and clients. The contractual amount of these financial instruments represents the maximum possible credit risk to the Firm should the customer or client draw upon the commitment or the Firm be required to fulfill its obligation under the guarantee, and should the customer or client subsequently fail to perform according to the terms of the contract. Most of these commitments and guarantees have historically been refinanced, extended, cancelled, or expired without being drawn or a default occurring. As a result, the total contractual amount of these instruments is not, in the Firm’s view, representative of its expected future credit exposure or funding requirements.
+To provide for expected credit losses in wholesale and certain consumer lending-related commitments, an allowance for credit losses on lending-related commitments is maintained. Refer to Note 13 for further information regarding the allowance for credit losses on lending-related commitments.
+The following table summarizes the contractual amounts and carrying values of off-balance sheet lending-related financial instruments, guarantees and other commitments at December 31, 2024 and 2023. The amounts in the table below for credit card, home equity  and certain scored business banking lending-related commitments represent the total available credit for these products. The Firm has not experienced, and does not anticipate, that all available lines of credit for these commitments will be utilized at the same time. The Firm can reduce or cancel these commitments, in accordance with the contract, or to the extent otherwise permitted by law, including  when there has been a demonstrable decline in the creditworthiness of the borrower or significant decrease in the value of underlying property.
+(a)
+Includes certain commitments to purchase loans from correspondents.
+(b)
+Also includes commercial card lending-related commitments primarily in CIB.
+(c)
+Predominantly all consumer and wholesale lending-related commitments are in the U.S.
+(d)
+As of December 31, 2024 and 2023, reflected the contractual amount net of risk participations totaling $
+85
+million and $
+88
+million, respectively, for other unfunded commitments to extend credit; $
+9.5
+billion and  $
+8.2
+billion, respectively, for standby letters of credit and other financial guarantees; and $
+556
+million and $
+589
+million, respectively, for other letters of credit. In regulatory filings with the Federal Reserve these commitments are shown gross of risk participations.
+(e)
+As of December 31, 2024 and 2023, collateral held by the Firm in support of securities lending indemnification agreements was $
+328.7
+billion and $
+300.3
+billion, respectively. Securities lending collateral primarily consists of cash, G7 government securities, and securities issued by U.S. GSEs and government agencies.
+(f)
+As of December 31, 2024 and 2023, includes guarantees to the Fixed Income Clearing Corporation under the sponsored member repo program and

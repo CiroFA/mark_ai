@@ -1,0 +1,51 @@
+typically adjust every
+six
+to
+twelve months
+pursuant to the terms of the loan thereafter. Approximately
+25
+% of the balance of these mortgages consisted of loans with interest-only payment terms. The interest rates on approximately
+78
+% of the balance of these interest-only loans are not scheduled to reset for
+three
+or more years.
+At March 31, 2025 and December 31, 2024, Schwab had $
+180
+million and $
+171
+million, respectively, of accrued interest on bank loans, which is excluded from the amortized cost basis of bank loans and included in other assets on the condensed consolidated balance sheets.
+The HELOC product has a
+30-year
+loan term with an initial draw period of
+ten years
+from the date of origination. After the initial draw period, the balance outstanding at such time is converted to a
+20-year
+amortizing loan. The interest rate during the initial draw period and the
+20-year
+amortizing period is a floating-rate based on the prime rate plus a margin.
+- 41 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Ratios, or as Noted)
+(Unaudited)
+The following table presents when current outstanding HELOCs will convert to amortizing loans:
+(1)
+Includes $
+3
+million of HELOCs converted to amortizing loans during the three months ended March 31, 2025.
+At March 31, 2025, $
+329
+million of the HELOC portfolio was secured by second liens on the associated properties. Second lien mortgage loans typically possess a higher degree of credit risk given the subordination to the first lien holder in the event of default. In addition to the credit monitoring activities described previously, Schwab also monitors credit risk by reviewing the delinquency status of the first lien loan on the associated property. At March 31, 2025, the borrowers on approximately
+61
+% of HELOC loan balances outstanding only paid the minimum amount due.
+7.
+Variable Interest Entities
+As of March 31, 2025 and December 31, 2024, substantially all of Schwab’s involvement with variable interest entities (VIEs) is through CSB’s Community Reinvestment Act (CRA) related investments and most of these are related to Low-Income Housing Tax Credit (LIHTC) investments. As part of CSB’s community reinvestment initiatives, CSB invests in funds that make equity investments in multifamily affordable housing properties and receives tax credits and other tax benefits for these investments. During the three months ended March 31, 2025 and 2024, CSB recorded amortization of $
+47
+million and $
+42
+million, respectively, and recognized tax credits and other tax benefits of $
+61
+million and $
+53
+million, respectively, associated with these investments. The amortization, as well as the tax credits and other tax benefits, are included in taxes on income on the condensed consolidated statements of income. Tax credits and other tax benefits are reflected as cash flows from operating activities on the condensed consolidated

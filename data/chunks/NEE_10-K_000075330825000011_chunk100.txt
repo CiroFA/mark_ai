@@ -1,0 +1,16 @@
+million, $
+1,135
+million and $
+987
+million, respectively, associated with differential membership interests, which is reflected as net loss attributable to noncontrolling interests on NEE's consolidated statements of income.
+Redeemable Noncontrolling Interests
+– Certain subsidiaries of NextEra Energy Resources sold Class B noncontrolling membership interests in entities that have ownership interests in wind generation, as well as solar and solar plus battery storage facilities to third-party investors. As specified in the respective limited liability company agreements, if, subject to certain contingencies, certain events occur, including, among others, those that would delay completion or cancel any of the underlying projects, an investor has the option to require NEER to return all or part of its investment. As these potential redemptions were outside of NEER’s control, these balances were classified as redeemable noncontrolling interests on NEE's consolidated balance sheets as of December 31, 2024 and 2023. During 2024, the contingencies associated with the December 31, 2023 balance
+78
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+were resolved and reclassified to noncontrolling interests. The contingencies associated with the December 31, 2024 balance are expected to be resolved in 2025.
+Variable Interest Entities (VIEs)
+– An entity is considered to be a VIE when its total equity investment at risk is not sufficient to permit the entity to finance its activities without additional subordinated financial support, or its equity investors, as a group, lack the characteristics of having a controlling financial interest. A reporting company is required to consolidate a VIE as its primary beneficiary when it has both the power to direct the activities of the VIE that most significantly impact the VIE's economic performance, and the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE. NEE and FPL evaluate whether an entity is a VIE whenever reconsideration events as defined by the accounting guidance occur. See Note 9.
+Leases
+– NEE and FPL determine if an arrangement is a lease at inception. NEE and FPL recognize a right-of-use (ROU) asset and a lease liability for operating and finance leases by recognizing and measuring leases at the commencement date based on the present value of lease payments over the lease term. For sales-type leases, the book value of the leased asset is removed from the balance sheet and a net investment in sales-type lease is recognized based on fixed payments under the contract and the residual value of the asset being leased. NEE and FPL have elected not to apply the recognition requirements to short-term leases and not to separate nonlease components from associated lease components for all classes of underlying assets except for purchased power agreements. ROU assets

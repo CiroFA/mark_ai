@@ -1,0 +1,37 @@
+regulatory environment in our Mobility business, see Note 13
+–
+Commitments and Contingencies
+to the consolidated financial statements under Item 8,
+Consolidated Financial Statements and Supplementary Data
+, in this Annual Report on Form 10-K.
+Indices
+Indices is a global index provider maintaining a wide variety of valuation and index benchmarks for investment advisors, wealth managers and institutional investors. Indices’ mission is to provide transparent benchmarks to help with decision making, collaborate with the financial community to create innovative products, and provide investors with tools to monitor world markets.
+Indices derives revenue from asset-linked fees when investors direct funds into its proprietary designed or owned indexes, sales usage-based royalties of its indices, as well as data subscription arrangements. Specifically, Indices generates revenue from the following sources:
+•
+Investment vehicles
+—
+asset-linked fees such as ETFs and mutual funds, that are based on the S&P Dow Jones Indices’ benchmarks that generate revenue through fees based on assets and underlying funds;
+57
+Table of Contents
+•
+Exchange traded derivatives
+—
+generate sales usage-based royalties based on trading volumes of derivatives contracts listed on various exchanges;
+•
+Index-related licensing fees
+—
+fixed or variable annual and per-issue asset-linked fees for over-the-counter derivatives and retail-structured products; and
+•
+Data and customized index subscription fees
+—
+fees from supporting index fund management, portfolio analytics and research.
+During the year ended December 31, 2022, we recorded a pre-tax gain of $52 million ($43 million after-tax) for the sale of a family of leveraged loan indices in (Gain) loss on dispositions, net in the consolidated statements of income.
+The following table provides revenue and segment operating profit information for the years ended December 31:
+1
+2024 includes IHS Markit merger costs of $4 million, a loss on disposition of $1 million and employee severance charges of $1 million. 2023 includes employee severance charges of $5 million, a gain on disposition of $4 million and IHS Markit merger costs of $4 million. 2022 i
+ncludes
+a gain on disposition of $52 million, employee severance charges of $14 million and IHS Markit merger costs of $2 million
+.
+2024, 2023 and 2022 include amortization of intangibles from acquisitions of $36 million, $36 million and $31 million, respectively.
+2024
+Revenue at Indices increased 16% primarily due to an increase in asset linked fees revenue driven by higher levels of assets under management (“AUM”) for ETFs and mutual funds, higher over-the-counter derivatives revenue, higher exchange-traded derivative revenue driven by continued strength in trading volume and higher data subscription revenue. Average levels of AUM for ETFs increased 33% to $3.836 trillion and ending AUM for ETFs increased 33% to $4.389 trillion compared to 2023. Foreign exchange rates had an unfavorable impact

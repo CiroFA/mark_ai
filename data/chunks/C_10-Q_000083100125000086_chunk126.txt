@@ -1,0 +1,58 @@
+10% of the total assets of Citigroup Inc. and its consolidated subsidiaries. Citigroup Inc. will furnish copies of any such instrument to the SEC upon request.
++    Filed herewith.
+*    Denotes a management contract or compensatory plan or arrangement.
+204
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on the 8
+th
+day of May, 2025.
+CITIGROUP INC.
+(Registrant)
+By
+/s/ Mark A. L. Mason
+Mark A. L. Mason
+Chief Financial Officer
+(Principal Financial Officer)
+By
+/s/ Nicole Giles
+Nicole Giles
+Controller and Chief Accounting Officer
+(Principal Accounting Officer)
+205
+GLOSSARY OF TERMS AND ACRONYMS
+The following is a list of terms and acronyms that are used in this report and certain other Citigroup presentations.
+* Denotes a Citi metric
+2024 Annual Report on Form 10-K (2024 Form 10-K):
+Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC.
+90+ days past due delinquency rate*:
+Represents consumer loans that are past due by 90 or more days, divided by that period’s total EOP loans.
+ABS:
+Asset-backed securities
+ACL:
+Allowance for credit losses, which is composed of the allowance for credit losses on loans (ACLL), allowance for credit losses on unfunded lending commitments (ACLUC), allowance for credit losses on HTM securities and allowance for credit losses on other assets.
+ACLL:
+Allowance for credit losses on loans
+ACLUC:
+Allowance for credit losses on unfunded lending commitments
+Advanced Approaches:
+The Advanced Approaches capital framework, established through Basel III rules by the FRB, requires certain banking organizations to use an internal ratings-based approach and other methodologies to calculate risk-based capital requirements for credit risk and advanced measurement approaches to calculate risk-based capital requirements for operational risk.
+AFS:
+Available-for-sale
+ALCO:
+Asset and Liability Committee
+Amortized cost:
+Amount at which a financing receivable or investment is originated or acquired, adjusted for accretion or amortization of premium, discount, and net deferred fees or costs, collection of cash, charge-offs, foreign exchange and fair value hedge accounting adjustments. For AFS securities, amortized cost is also reduced by any impairment losses recognized in earnings. Amortized cost is not reduced by the allowance for credit losses, except where explicitly presented net.
+AOCI:
+Accumulated other comprehensive income (loss)
+ASC:
+Accounting Standards Codification under GAAP issued by the FASB.
+Asia Consumer:
+Asia Consumer Banking
+ASU:
+Accounting Standards Update under GAAP issued by the FASB.
+AUA:
+Assets under administration
+AUC:
+Assets under custody
+Available liquidity resources*:
+Resources available at the balance sheet date to support Citi’s client and business needs, including HQLA assets; additional unencumbered securities, including excess liquidity held

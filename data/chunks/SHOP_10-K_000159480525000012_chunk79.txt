@@ -1,0 +1,17 @@
+lower than the same period in 2023 driven mainly by the effects of the increase in subscription plan pricing for certain plans during the second quarter of 2023 and the lift from paid trial incentives launched in the second half of 2022 that converted in 2023. The amounts associated with prospective merchants on trial incentives were immaterial to MRR as of December 31, 2024, but we expect to continue to see an increase in MRR as these cohorts of merchants convert to full price subscription plans.
+In the year ended December 31, 2023, we observed a higher MRR growth rate compared to the same period in 2022. The MRR growth rate in the year ended December 31, 2023 was driven mainly by the effects of the increase in subscription plan pricing during the second quarter of 2023 and merchants converting to full price subscription plans that were previously on paid trial incentives. The paid trial incentives initially launched in the second half of 2022.
+48
+Table of C
+ontents
+Gross Merchandise Volume
+GMV is the total dollar value of orders facilitated through our platform including certain apps and channels for which a revenue-sharing arrangement is in place in the period, net of refunds, and inclusive of shipping and handling, duty and value-added taxes. GMV does not represent revenue earned by us. However, the volume of GMV facilitated through our platform is an indicator of the success of our merchants and the strength of our platform. Our merchant solutions revenues are also directionally correlated with the level of GMV facilitated through our platform. For the year ended December 31, 2024 we facilitated GMV of $292.3 billion (December 31, 2023 - $235.9 billion, December 21, 2022 - $197.2 billion
+), representing year-over-year growth
+24% (2023 vs 2022 - 20%). In 2024, o
+ver 57% of our GMV was generated in the United States.
+On a constant currency basis, in which GMV in the year ended
+December 31, 2024
+is converted using the comparative period's monthly average exchange rates, yea
+r-over-year growth was 24% (2023 vs 2022 - 16%).
+Factors Affecting the Comparability of Our Results
+Change in Revenue Mix
+As a result of the continued growth of Shopify Payments, referral fees, other transaction services and other services rendered as part of strategic partnerships and Shopify Capital, our revenues from merchant solutions have increased significantly. Merchant solutions are intended to complement subscription solutions by providing additional value to our merchants and increasing their use of our platform. Gross profit margins on Shopify Payments, the biggest driver of merchant solutions revenue, are typically lower than on subscription solutions due to the associated third-party costs of providing this solution. We view this revenue stream as beneficial to our operating margins, as Shopify Payments requires significantly less sales and marketing and research and development expense than Shopify’s core subscription business. The lower margins on merchant

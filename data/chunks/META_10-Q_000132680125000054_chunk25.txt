@@ -1,0 +1,17 @@
+IRS's amendment to answer was filed stating that it planned to assert at trial an adjustment that is higher than the adjustment stated in the Notice. The first session of the trial was completed in March 2020 and the final trial session was completed in August 2022. We expect the Tax Court to issue an opinion in 2025 which will likely provide a transfer pricing value for intellectual property transferred. This value will need to be extrapolated into income adjustments to determine the specific tax liability, which will likely remain in dispute and will not be resolved until the Tax Court enters a decision. If the IRS prevails in its updated position, this could result in an additional federal tax liability of an estimated, aggregate amount of up to approximately $
+9.0
+billion in excess of the amounts in our originally filed U.S. return, plus interest and any penalties asserted. Once the Tax Court decision is entered, the IRS and Meta will each have the option to file an appeal to the Ninth Circuit Court of Appeals.
+In March 2018, we received a second Notice from the IRS in conjunction with the examination of our 2011 through 2013 tax years. The IRS applied its position from the 2010 tax year to each of these years and also proposed new adjustments related to other transfer pricing with our foreign subsidiaries and certain tax credits that we claimed. If the IRS prevails in its position for these new adjustments, this could result in an additional federal tax liability of up to approximately $
+680
+million in excess of the amounts in our originally filed U.S. returns, plus interest and any penalties asserted. We do not agree with the positions of the IRS in the second Notice and have filed a petition in the Tax Court challenging the second Notice.
+We have previously accrued an estimated unrecognized tax benefit consistent with the guidance in Accounting Standards Codification (ASC) 740, Income Taxes, that is lower than the potential additional federal tax liability from the positions taken by the IRS in the
+two
+Notices and its Pretrial Memorandum. In addition, if the IRS prevails in its positions related to transfer pricing with our foreign subsidiaries, the additional tax that we would owe would be partially offset by a reduction in the tax that we owe under the mandatory transition tax on accumulated foreign earnings from the 2017 Tax Cuts and Jobs Act. As of March 31, 2025, we have not resolved these matters and proceedings continue in the Tax Court.
+25
+Table of Contents
+Note 11.
+Segment Information
+We report our financial results for our
+two
+reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook, Instagram, Messenger, WhatsApp, and other services. RL includes our virtual, augmented, and mixed reality related consumer hardware, software, and content. Our operating segments are the same as our reportable segments.
+The following table sets forth our segment information of revenue, expenses, and income (loss) from

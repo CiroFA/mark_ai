@@ -1,0 +1,31 @@
+and return on average shareholders’ equity are annualized amounts.
+•
+ROE is calculated by dividing annualized net earnings to common by average monthly common shareholders’ equity.
+•
+ROTE is calculated by dividing annualized net earnings to common by average monthly tangible common shareholders’ equity. Tangible common shareholders’ equity is calculated as total shareholders’ equity less preferred stock, goodwill and identifiable intangible assets. We believe that tangible common shareholders’ equity is meaningful because it is a measure that we and investors use to assess capital adequacy and that ROTE is meaningful because it measures the performance of businesses consistently, whether they were acquired or developed internally. Tangible common shareholders’ equity and ROTE are non-GAAP measures and may not be comparable to similar non-GAAP measures used by other companies.
+The table below presents our average equity and the reconciliation of average common shareholders’ equity to average tangible common shareholders’ equity.
+•
+Net earnings to average assets is calculated by dividing annualized net earnings by average total assets.
+•
+Return on shareholders’ equity is calculated by dividing annualized net earnings by average monthly shareholders’ equity.
+•
+Average equity to average assets is calculated by dividing average total shareholders’ equity by average total assets.
+•
+Dividend payout ratio is calculated by dividing dividends declared per common share by diluted EPS.
+Net Revenues
+The table below presents our net revenues by line item.
+In the table above:
+•
+Investment banking consists of revenues (excluding net interest) from financial advisory and underwriting assignments. These activities are included in Global Banking & Markets.
+•
+Investment management consists of revenues (excluding net interest) from providing asset management and wealth advisory services across all major asset classes to a diverse set of clients. These activities are included in Asset & Wealth Management.
+•
+Commissions and fees consists of revenues from executing and clearing client transactions on major stock, options and futures exchanges worldwide, as well as over-the-counter (OTC) transactions. Substantially all of these activities are included in Global Banking & Markets.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+•
+Market making consists of revenues (excluding net interest) from client execution activities related to making markets in interest rate products, credit products, mortgages, currencies, commodities and equity products. These activities are included in Global Banking & Markets.
+•
+Other principal transactions consists of revenues (excluding net interest) from our equity investing activities, including revenues related to our consolidated investments (included in Asset & Wealth Management), and debt investing and lending activities (included across our three segments).
+•
+See Note 25 to the consolidated financial

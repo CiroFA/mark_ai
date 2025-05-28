@@ -1,0 +1,23 @@
+changes in political, regulatory, legal or economic conditions, geopolitical turmoil (including China-Taiwan relations), including terrorism, war or political or military coups, state-sponsored or politically motivated cyber-attacks, or civil disturbances or political instability (foreign and domestic);
+•
+restrictive governmental actions, such as restrictions on the transfer or repatriation of funds and foreign investments, data privacy regulations, climate change regulations and trade protection measures, including increasing protectionism, import/export restrictions (including with regards to advanced technologies), import/export duties and quotas, trade sanctions and customs duties and tariffs, all of which have increased and may further increase;
+•
+changes in global tax regulations;
+•
+difficulty in obtaining product distribution and support, and transportation delays;
+•
+potential inability to localize software products;
+•
+difficulty in enforcing contracts, collecting accounts receivables and maintaining appropriate financial controls;
+•
+difficulty in conducting due diligence with respect to business partners;
+•
+public health or safety concerns, medical epidemics or pandemics, and other natural- or man-made disasters; and
+•
+nationalization of businesses and expropriation of assets.
+A significant legal risk associated with conducting business internationally is compliance with the various and differing laws and regulations of the many countries in which we do business. Although our policies prohibit us, our employees and our agents from engaging in unethical business practices, there can be no assurance that all of our employees, distributors or other agents will refrain from acting in violation of our related anti-corruption or other policies and procedures. Any such violation could have a material adverse effect on our business.
+18
+Table of Contents
+Failure to realize the benefits expected from the VMware Merger could adversely affect our business and the value of our common stock.
+As part of our integration of the VMware business, we are focusing on VMware’s core business of creating private cloud environments on-premises among large enterprises globally and divesting non-core assets. If VMware customers do not accept our business strategy, including our transition from a perpetual to a subscription licensing model and our simplified product portfolio, the investments we have made or may make to implement our strategy may be of no or limited value, we may lose significant customers, our financial results may be adversely affected and our stock price may suffer.
+Although we expect significant benefits to result from the VMware Merger, if we do not successfully manage the challenges inherent in integrating an acquired business, we may not realize these benefits, and our revenue, expenses, operating results, financial condition and stock price could be materially adversely affected. Achieving these benefits will depend, in part, on our ability

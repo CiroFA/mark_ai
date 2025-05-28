@@ -1,0 +1,23 @@
+the asset is written down to its estimated fair value, which is based on discounted future cash flows. Useful lives are periodically evaluated to determine whether events or circumstances have occurred which indicate the need for revision.
+Indefinite-Lived Intangible Assets
+As discussed in Note 2, we perform our annual impairment assessment on indefinite-lived intangible assets during our third quarter. The annual impairment assessment on indefinite-lived intangible assets performed in the third quarter of 2024, based on best available market information and our internal forecasts and operating plans at the time, did not result in any material impairment charges.
+As of December 28, 2024, the estimated fair value of the SodaStream reporting unit narrowly exceeded its carrying value. Given the low coverage, there could be further impairment to the carrying value of the SodaStream reporting unit goodwill if future sales and operating profit results are not in line with the forecasted future cash flows of the business and/or if macroeconomic conditions worsen and drive an increase in the weighted-average cost of capital used to estimate its fair value. We continue to monitor the performance of the SodaStream reporting unit, as well as all of our indefinite-lived intangible assets.
+We did
+not
+recognize any impairment charges for goodwill in the year ended
+December 28, 2024
+.
+In the fourth quarter of 2023, macroeconomic conditions, including higher interest rates, inflationary costs, and the ongoing conflict in the Middle East, and recent business performance indicated a deterioration of the significant inputs used to determine the fair value of our indefinite-lived intangible assets in various markets, primarily assumptions underlying the weighted-average cost of capital and the impact of economic uncertainty on current and future financial performance, and required us to perform a quantitative assessment on certain assets. The fair value of our indefinite-lived intangible assets was estimated using discounted cash flows under the income approach, which we consider to be a Level 3 measurement. We determined that the carrying value exceeded the fair value for certain of our intangible assets, which reflects the increase in the weighted-average cost of capital as well as our most current estimates of future sales and their contributions to operating profit and expected future cash flows (including perpetuity growth assumptions). As a result of the quantitative assessment, we recorded pre-tax impairment charges of $
+0.6
+billion ($
+0.5
+billion after-tax or $
+0.35
+per share) for brands and $
+0.3
+billion ($
+0.3
+billion after-tax or $
+0.22
+per share) for goodwill, both in impairment of intangible assets, primarily related to the SodaStream brand and reporting unit in our Europe division, in the year ended December 30, 2023. See Note 1 for further information.
+In the first quarter of 2022, we discontinued or repositioned certain juice and dairy brands in

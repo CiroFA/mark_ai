@@ -1,0 +1,47 @@
+for network equipment that generally have a non-cancelable lease term of
+three
+to
+five years
+. The financing leases do not have renewal options and contain a bargain purchase option at the end of the lease.
+The components of lease expense were as follows:
+Information relating to the lease term and discount rate is as follows:
+101
+Index for Notes to the Consolidated Financial Statements
+Maturities of lease liabilities as of December 31, 2024, were as follows:
+Interest payments for financing leases were $
+111
+million, $
+79
+million and $
+68
+million for the years ended December 31, 2024, 2023 and 2022, respectively.
+As of December 31, 2024, we have additional operating leases for commercial properties that have not yet commenced with future lease payments of approximately $
+24
+million.
+As of December 31, 2024, we were contingently liable for future ground lease payments related to certain tower obligations. These contingent obligations are not included in the above table as the amounts owed are contractually owed by CCI based on the subleasing arrangement. See
+Note
+10
+– Tower Obligations
+for further information.
+Note 18 – Commitments and Contingencies
+Purchase Commitments
+We have commitments for non-dedicated transportation lines with varying expiration terms that generally extend through 2038. In addition, we have commitments to purchase wireless devices, network services, equipment, software, marketing sponsorship agreements and other items in the ordinary course of business, with various terms through 2043.
+Such purchase commitments are approximately $
+4.6
+billion for the 12-month period ending December 31, 2025, $
+5.1
+billion in total for both of the 12-month periods ending December 31, 2026 and 2027, $
+2.2
+billion in total for both of the 12-month periods ending December 31, 2028 and 2029, and $
+2.3
+billion in total thereafter. These amounts are not reflective of our entire anticipated purchases under the related agreements but are determined based on the non-cancelable quantities or termination amounts to which we are contractually obligated.
+On April 24, 2024, we entered into a definitive agreement with a fund operated by EQT, Fund VI, to establish a joint venture between us and Fund VI to acquire Lumos, a fiber-to-the-home platform, from EQT’s predecessor fund, EQT Infrastructure III. At closing, we expect to invest approximately $
+950
+million in the joint venture to acquire a
+50
+% equity interest and all existing Lumos fiber customers. The funds invested by us will be used by the joint venture to fund future fiber builds. In addition, pursuant to the definitive agreement, we expect to make an additional capital contribution of approximately $
+500
+million in 2027 or 2028 under the existing business plan. The agreement remains subject to regulatory approval, and the estimated purchase price is excluded from our reported purchase commitments above. See
+Note 3 – Joint Ventures
+for additional details.
+On May 24, 2024, we entered into a securities

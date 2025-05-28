@@ -1,0 +1,55 @@
+nonaccrual risk-rated loans.
+(c)
+The allowance for lending-related commitments is reported in accounts payable and other liabilities on the Consolidated balance sheets.
+(d)
+At March 31, 2025 and 2024, lending-related commitments excluded $
+20.3
+billion and $
+17.7
+billion, respectively, for the consumer, excluding credit card portfolio segment; $
+1.0
+trillion and $
+943.9
+billion, respectively, for the credit card portfolio segment; and $
+26.3
+billion and $
+20.9
+billion, respectively, for the wholesale portfolio segment, which were not subject to the allowance for lending-related commitments.
+140
+Discussion of changes in the allowance
+The allowance for credit losses as of March 31, 2025 was $
+27.8
+billion, reflecting a net addition of $
+1.0
+billion from December 31, 2024. The net addition to the allowance for credit losses was largely driven by changes in the weighted-average macroeconomic outlook, including the qualitative adjustment to reflect additional weight placed on the adverse scenarios due to elevated risks and uncertainties related to the geopolitical and macroeconomic environment.
+The net addition to the allowance for credit losses included:
+•
+$
+562
+million in
+wholesale
+, which also reflected changes in credit quality on client-specific exposures and the impact of new lending-related commitments, and
+•
+$
+441
+million in
+consumer
+, predominantly driven by Card Services.
+The Firm's allowance for credit losses is estimated using a weighted average of five internally developed macroeconomic scenarios. The adverse scenarios incorporate more punitive macroeconomic factors than the central case assumptions provided in the following table, resulting in:
+•
+a weighted average U.S. unemployment rate peaking at 5.8% in the first quarter of 2026, and
+•
+a weighted average U.S. real GDP level that is 2.6% lower than the central case at the end of the second quarter of 2026.
+The following table presents the Firm’s central case assumptions for the periods presented:
+(a)
+Reflects quarterly average of forecasted U.S. unemployment rate.
+(b)
+The year over year growth in U.S. real GDP in the forecast horizon of the central scenario is calculated as the percentage change in U.S. real GDP levels from the prior year.
+Subsequent changes to this forecast and related estimates will be reflected in the provision for credit losses in future periods.
+Refer to Note 13 and Note 10 of JPMorganChase’s 2024 Form 10-K for a description of the policies, methodologies and judgments used to determine the Firm’s allowance for credit losses on loans, lending-related commitments, and investment securities.
+Refer to Note 11 for additional information on the consumer and wholesale credit portfolios.
+Refer to Critical Accounting Estimates Used by the Firm on pages 72–75 for further information on the allowance for credit losses and related management judgments.
+141
+Note 13 –
+Variable interest entities
+Refer to Note 1 and Note 14 of JPMorganChase’s 2024 Form 10-K for a further

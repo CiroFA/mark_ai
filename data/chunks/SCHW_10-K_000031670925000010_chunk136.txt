@@ -1,0 +1,18 @@
+activities of the VIE, and (ii) the obligation to absorb losses or receive benefits that are significant to the VIE. If both of these conditions exist, then Schwab would be the primary beneficiary of that VIE and consolidate it. Based upon the assessments for all of our interests in VIEs, there are no cases where the Company is the primary beneficiary; therefore, we are not required to consolidate any VIEs. See Note 11 for further information about VIEs. Schwab consolidates all VOEs in which it has majority-voting interests.
+Investments in entities in which Schwab does not have a controlling financial interest are accounted for under the equity method of accounting when we have the ability to exercise significant influence over operating and financing decisions of the entity or by accounting policy for investments in certain types of limited liability entities. Investments in entities for which Schwab does not apply the equity method are generally carried at cost and adjusted for impairment and observable price changes of the identical or similar investments of the same issuer (adjusted cost method), except for certain investments in qualified affordable
+- 70 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+housing projects which are accounted for under the proportional amortization method. All equity method, adjusted cost method, and proportional amortization method investments are included in other assets on the consolidated balance sheets.
+2.
+Summary of Significant Accounting Policies
+Revenue recognition
+Net interest revenue
+Net interest revenue is not within the scope of Accounting Standards Codification (ASC) 606
+Revenue From Contracts With Customers
+(ASC 606), because it is generated from financial instruments covered by various other areas of GAAP. Net interest revenue is the difference between interest generated on interest-earning assets and interest paid on funding sources. Our primary interest-earning assets include cash and cash equivalents; segregated cash and investments; margin loans; investment securities; and bank loans. Fees earned and incurred on securities borrowing and lending activities, which are conducted by the Company’s broker-dealer subsidiary on assets held in client brokerage accounts, are also included in interest revenue and expense.
+Asset management and administration fees
+The majority of asset management and administration fees are generated through our proprietary and third-party mutual fund and ETF offerings, as well as fee-based advisory solutions. Mutual fund and ETF service fees are charged for investment management, shareholder, and administration services provided to Schwab Funds
+®
+and Schwab ETFs, as well as recordkeeping, shareholder, and administration services provided to third-party funds. Managed investing solutions (formerly referred to as advice solutions) fees are charged for

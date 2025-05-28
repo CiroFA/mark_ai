@@ -1,0 +1,47 @@
+flow hedges). The Corporation hedges its net investment in consolidated non-U.S.
+operations determined to have functional currencies other than the U.S. dollar using forward exchange contracts and cross-currency basis swaps, and by issuing foreign currency- denominated debt (net investment hedges).
+Fair Value Hedges
+The table below summarizes information related to fair value hedges for the three months ended March 31, 2025 and 2024.
+(1)
+Amounts are recorded in interest expense in the Consolidated Statement of Income.
+(2)
+Represents cross-currency interest rate swaps related to available-for-sale debt securities and long-term debt. For the three months ended March 31, 2025 and 2024, the derivative amount includes gains (losses) of $
+9
+million and $
+9
+million in interest income, $(
+210
+) million and $
+324
+million in market making and similar activities, and $(
+1
+) million  and $
+11
+million in accumulated other comprehensive income (OCI). Line item totals are in the Consolidated Statement of Income and on the Consolidated Balance Sheet.
+(3)
+Amounts are recorded in interest income in the Consolidated Statement of Income.
+(4)
+Amounts are recorded in market making and similar activities in the Consolidated Statement of Income.
+The table below summarizes the carrying value of hedged assets and liabilities that are designated in fair value hedging relationships, along with the cumulative amount of gains and losses on the hedged assets and liabilities that are included in their carrying value. There is no impact to earnings for the cumulative amount of these fair value hedging adjustments as long as the hedging relationships remain open through the
+hedged period. Instead, the open hedges have the effect of synthetically converting the hedged assets and liabilities into variable-rate instruments. If an open hedge is de-designated prior to the derivative’s maturity, any cumulative fair value adjustments at the de-designation date are then amortized or accreted into earnings over the remaining life of the hedged assets or liabilities.
+(1)
+Increase (decrease) to carrying value.
+(2)
+These amounts include the amortized cost of the financial assets in closed portfolios used to designate hedging relationships in which the hedged item is a stated layer that is expected to be remaining at the end of the hedging relationship (i.e. portfolio layer hedging relationship). At March 31, 2025 and December 31, 2024, the amortized cost of the closed portfolios used in these hedging relationships was $
+33.6
+billion and $
+34.8
+billion, of which $
+26.3
+billion and $
+26.1
+billion were designated in a portfolio layer hedging relationship. At March 31, 2025 and December 31, 2024, the cumulative adjustment associated with these hedging relationships was a decrease of $
+88
+million and $
+435
+million.
+(3)
+Carrying value represents amortized cost.
+(4)
+Represents hedging activities related to certain commodities inventory.
+At March 31, 2025 and December 31, 2024, the fair value basis

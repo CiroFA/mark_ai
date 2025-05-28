@@ -1,0 +1,27 @@
+three months or less when purchased. If items meeting this definition are part of a larger investment pool, we classify them as
+Short-term investments
+.
+Cash flows for financial instruments designated as fair value or cash flow hedges may be included in operating, investing or financing activities, depending on the classification of the items being hedged. Cash flows for financial instruments designated as net investment hedges are classified according to the nature of the hedging instrument. Cash flows for financial instruments that do not qualify for hedge accounting treatment are classified according to their purpose and accounting nature.
+P.
+Investments and Derivative Financial Instruments
+The classification of an investment depends on the nature of the investment, our intent and ability to hold the investment, and the degree to which we may exercise influence. Our investments are primarily comprised of the following:
+•
+Public equity securities with readily determinable fair values, which are carried at fair value, with changes in fair value reported in
+Other (income)/deductions—net.
+•
+Available-for-sale debt securities, which are carried at fair value, with changes in fair value reported in
+Other comprehensive income/(loss)
+until realized.
+•
+Held-to-maturity debt securities, which are carried at amortized cost.
+•
+Private equity securities without readily determinable fair values and where we have no significant influence are measured at cost minus any impairment and plus or minus adjustments resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer.
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+•
+For equity investments in common stock or in-substance common stock where we have significant influence over the financial and operating policies of the investee, we use the equity-method of accounting. Under the equity-method, we record our share of the investee’s income and expenses in
+Other (income)/deductions—net
+. The excess of the cost of the investment over our share of the underlying equity in the net assets of the investee as of the acquisition date is allocated to the identifiable assets and liabilities of the investee, with any remaining excess amount allocated to goodwill. Such investments are initially recorded at cost, which is the fair value of consideration paid and typically does not include contingent consideration.
+Realized gains or losses on sales of investments are determined by using the specific identification cost method.
+We regularly evaluate all of our financial assets for impairment. For investments in debt and equity, if and when a decline in fair value is determined, an impairment charge is recorded and a new cost basis in the investment is established. For equity-method investments, an impairment charge is recorded only if and when a decline in fair value is determined to be other-than-temporary.
+Derivative financial

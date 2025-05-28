@@ -1,0 +1,85 @@
+into USD
+each period. The CTA amount in EOP
+AOCI
+is a cumulative balance, net of tax.
+CVA:
+Credit valuation adjustment
+DCM:
+Debt Capital Markets
+Delinquency managed:
+Loans primarily evaluated for credit risk based on delinquencies, FICO scores and the value of underlying collateral.
+Digital asset:
+Anything created and stored digitally that is identifiable and discoverable, establishes ownership and has or provides value (e.g., cryptocurrency).
+Divestiture-related impacts:
+Citi’s results excluding divestiture-related impacts represent as reported, or GAAP, financial results adjusted for items that are incurred and recognized, which are wholly and necessarily a consequence of actions taken to sell (including through a public offering), dispose of or wind down business activities associated with Citi’s announced 14 exit markets.
+Dividend payout ratio*:
+Represents dividends declared per common share as a percentage of net income per diluted share.
+DPD:
+Days past due
+DTA:
+Deferred tax asset
+DVA:
+Debt valuation adjustment
+ECM:
+Equity Capital Markets
+Efficiency ratio*:
+A ratio signifying how much of a dollar in expenses (as a percentage) it takes to generate one dollar in revenue. Represents total operating expenses divided by total revenues, net.
+EOP:
+End-of-period
+EPS*:
+Earnings per share
+EU:
+European Union
+Fannie Mae:
+Federal National Mortgage Association
+FASB:
+Financial Accounting Standards Board
+FCA:
+Financial Conduct Authority
+FDIC:
+Federal Deposit Insurance Corporation
+Federal Reserve Board (FRB):
+The Board of the Governors of the Federal Reserve System
+FFIEC:
+Federal Financial Institutions Examination Council
+FHA:
+Federal Housing Administration
+FHLB:
+Federal Home Loan Bank
+FICO:
+Fair Issac Corporation
+FICO score:
+A measure of consumer credit risk provided by credit bureaus, typically produced from statistical models by Fair Isaac Corporation utilizing data collected by the credit bureaus.
+FINRA:
+Financial Industry Regulatory Authority
+FRB:
+Federal Reserve Board
+Freddie Mac:
+Federal Home Loan Mortgage Corporation
+FVA:
+Funding valuation adjustment
+321
+FX:
+Foreign exchange
+FX translation:
+The impact of converting non-U.S. dollar currencies into U.S. dollars.
+GAAP or U.S. GAAP:
+Generally accepted accounting principles in the United States of America.
+Ginnie Mae:
+Government National Mortgage Association
+GSIB:
+Global Systemically Important Bank
+HFI loans:
+Loans that are held-for-investment (i.e., excludes loans held-for-sale).
+HFS:
+Held-for-sale
+HQLA:
+High-quality liquid assets. Consist of cash and certain high-quality liquid securities as defined in the LCR rule.
+HTM:
+Held-to-maturity
+Hyperinflation:
+Extreme economic inflation with prices rising at a very high rate in a very short time. Under U.S. GAAP, entities operating in a hyperinflationary economy need to change their functional currency to the U.S. dollar. Once the change is made, the CTA balance is frozen.
+IMF:
+International Monetary Fund
+Interchange revenue:
+Fees earned from merchants based

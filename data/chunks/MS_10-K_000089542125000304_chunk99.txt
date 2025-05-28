@@ -1,0 +1,22 @@
+credit spreads, interest rates and commercial real estate indices. See Note 2 to the financial statements for a discussion of the Firm’s ACL methodology under CECL.
+Status of Loans Held for Investment
+1.
+Nonaccrual loans are loans where principal or interest is not expected when contractually due or are past due 90 days or more.
+Net Charge-off Ratios for Loans Held for Investment
+CRE—Commercial real estate
+SBL—Securities-based lending
+1.
+Net charge-off ratio represents gross charge-offs net of recoveries divided by total average loans held for investment before ACL.
+Institutional Securities Loans and Lending Commitments
+1
+NIG–Non-investment grade
+1.
+Counterparty credit ratings are internally determined by the CRM.
+2.
+Unrated loans and lending commitments are primarily trading positions that are measured at fair value and risk-managed as a component of market risk. For a further discussion of our market risk, see “Quantitative and Qualitative Disclosures about Risk—Market Risk” herein.
+Institutional Securities Loans and Lending Commitments by Industry
+Institutional Securities Lending Activities
+The Institutional Securities business segment lending activities include Corporate, Secured lending facilities, Commercial and Residential real estate, and Securities-based lending and Other. As of December 31, 2024 and December 31, 2023, over 90% of our total lending exposure, which consists of loans and lending commitments, was investment grade and/or secured by collateral.
+Corporate comprises relationship and event-driven loans and lending commitments supporting general and event-driven financing needs for our institutional clients, which typically consist of revolving lines of credit, term loans and bridge loans; may have varying terms; may be senior or
+subordinated; may be secured or unsecured; are generally contingent upon representations, warranties and contractual conditions applicable to the borrower; and may be syndicated, traded or hedged. Relationship loans and lending commitments are extended to select institutional clients, primarily for general corporate purposes and generally with the intent to hold for the foreseeable future. Event-driven loans and lending commitments are extended in connection with specific client transactions and are explained in further detail in “Institutional Securities Event-Driven Loans and Lending Commitments” herein.
+Secured lending facilities include loans provided to clients, which are collateralized by various assets, including residential and commercial real estate mortgage loans, investor commitments for capital calls, corporate loans and other assets. These facilities generally provide for overcollateralization. Credit risk with respect to these loans and lending commitments arises from the failure of a borrower to perform according to the terms of the loan agreement and/or a decline in the underlying collateral value. The Firm monitors collateral levels against the requirements of lending agreements. See

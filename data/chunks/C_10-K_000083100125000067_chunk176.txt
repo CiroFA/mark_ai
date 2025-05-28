@@ -1,0 +1,16 @@
+commitments, home equity lines of credit (HELOCs), undrawn mortgage loan commitments and financial guarantees).
+•
+CECL models are designed to be economically sensitive. They utilize the macroeconomic forecasts provided by Citi’s enterprise scenario group that are approved by senior management. Analysis is performed and documented to determine the necessary qualitative management adjustment (QMA) to capture idiosyncratic events and model uncertainty.
+•
+The portion of the forecast that reflects the enterprise scenario group’s R&S period indicates the maximum length of time its models can produce a R&S macroeconomic forecast, after which mean reversion reflecting historical loss experience is used for the remaining life of the loan to estimate expected credit losses. For the loss forecast, businesses consume the macroeconomic forecast as determined to be appropriate and justifiable.
+Citi’s ability to forecast credit losses over the R&S period is based on the ability to forecast economic activity over a reasonable and supportable time window. The R&S period reflects the overall ability to have a reasonable and supportable forecast of credit loss based on economic forecasts. The R&S forecast period for consumer and corporate loans is eight quarters.
+•
+The loss models consume all or a portion of the R&S economic forecast and then revert to historical loss experience.
+•
+The ACL incorporates provisions for accrued interest on products that are not subject to a non-accrual and timely write-off policy (e.g., credit cards, etc.).
+•
+Citi uses the most recent available information to inform its macroeconomic forecasts, allowing sufficient time for analysis of the results and corresponding approvals. Key variables are reviewed for significant changes through year end and changes to portfolio positions are reflected in the ACL.
+•
+Reserves are calculated at an appropriately granular level and on a pooled basis where financial assets share risk characteristics. At a minimum, reserves are calculated at a portfolio level (product and country). Where a financial asset does not share risk characteristics with any of the pools, it is evaluated for credit losses individually.
+Quantitative and Qualitative Components of the ACL
+The loss likelihood and severity models use both internal and external information and are sensitive to forecasts of different macroeconomic conditions. For the quantitative component, Citi uses multiple macroeconomic scenarios and associated probabilities to estimate the ECL. Estimates of these ECLs are based upon (i) Citigroup’s internal system of credit risk ratings, (ii) historical default and loss data, including comprehensive internal history and rating agency information regarding default rates and internal data on the severity of losses in the event of default, and (iii) a R&S forecast of future macroeconomic conditions. ECL is determined primarily by utilizing models for the borrowers’ PD, LGD and EAD. Adjustments may be made to this

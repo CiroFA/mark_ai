@@ -1,0 +1,33 @@
+the other components, including mark-to-market adjustments, if any, are recorded in Other income (expense), net.
+Other pre-tax changes in plan assets and benefit obligations recognized in Other comprehensive (income) loss are as follows:
+Assumptions
+The weighted-average assumptions used in determining benefit obligations follow:
+N/A - not applicable
+The weighted-average assumptions used in determining net periodic cost follow:
+N/A - not applicable
+In determining our pension and other postretirement benefit obligations, we used a weighted-average discount rate of
+5.7
+% in 2024. The rates were selected to approximate the composite interest rates available on a selection of high-quality bonds available in the market at December 31, 2024. The bonds selected had maturities that coincided with the time periods during which benefits payments are expected to occur, were non-callable (or callable with certain selection criteria met) and available in sufficient quantities to ensure marketability (at least $
+300
+million par outstanding).
+In order to project the long-term target investment return for the total portfolio, estimates are prepared for the total return of each major asset class over the subsequent
+10-year
+period. Those estimates are based on a combination of factors including the current market interest rates and valuation levels, consensus earnings expectations and historical long-term risk premiums. To
+92
+Table of
+Contents
+determine the aggregate return for the pension trust, the projected return of each individual asset class is then weighted according to the allocation to that investment area in the trust’s long-term asset allocation policy.
+The assumed health care cost trend rates are as follows:
+Plan Assets
+The Company’s overall investment strategy is to achieve a mix of assets that allows us to meet projected benefit payments while taking into consideration risk and return. While target allocation percentages will vary over time, the current target allocation for plan assets is designed so that
+53
+% to
+63
+% of the assets have the objective of achieving a return in excess of the growth in liabilities (comprised of public equities, private equities, real estate, hedge funds, high yield bonds and emerging market debt) and
+41
+% to
+51
+% of the assets are invested as liability hedging assets (where interest rate sensitivity of the liability hedging assets better match the interest rate sensitivity of the liability) and a maximum of
+10
+% is in cash. This allocation will shift as funded status improves to a higher allocation of liability hedging assets. Target policies will be revisited periodically to ensure they are in line with fund objectives. Both active and passive management approaches are used depending on perceived market efficiencies and various other factors. Due to our diversification and risk control processes, there are no significant concentrations of risk, in terms of sector, industry, geography or company names.
+Pension and

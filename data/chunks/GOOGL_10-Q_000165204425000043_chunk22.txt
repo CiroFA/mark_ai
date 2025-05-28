@@ -1,0 +1,31 @@
+the EC announced its decision that certain provisions in Google’s Android-related distribution agreements infringed European antitrust laws, imposed a €
+4.3
+billion fine, and directed the termination of the conduct at issue. We appealed the EC decision and implemented changes to certain of our Android distribution practices. In September 2022, the General Court affirmed the EC decision but reduced the fine from €
+4.3
+billion to €
+4.1
+billion. We subsequently appealed the General Court's affirmation of the EC decision with the European Court of Justice, which remains pending. In 2018, we recognized a charge of $
+5.1
+billion for the fine, which we reduced by $
+217
+million in 2022.
+•
+AdSense for Search:
+In March 2019, the EC announced its decision that certain provisions in Google's agreements with AdSense for Search partners infringed European antitrust laws, imposed a fine of €
+1.5
+billion, and directed actions related to AdSense for Search partners' agreements, which we implemented
+25
+prior to the decision. In 2019, we recognized a charge of $
+1.7
+billion for the fine and appealed the EC decision. In September 2024, the General Court overturned the EC decision and annulled the €
+1.5
+billion fine. The EC has appealed the General Court's decision with the European Court of Justice.
+•
+Search:
+In October 2020, the DOJ and a number of state Attorneys General filed a lawsuit in the U.S. District Court for the District of Columbia alleging that Google violated U.S. antitrust laws relating to Search and Search advertising. In August 2024, the U.S. District Court for the District of Columbia ruled that Google violated such U.S. antitrust laws. A separate proceeding is being held to determine remedies, the range of which vary widely. The DOJ has proposed a high level remedy framework, which includes alterations to our products and services and our business models and operations, including structural remedies, and/or our distribution arrangements, among other changes, some of which could have a material adverse effect on our business. We have filed our own remedies proposal ahead of a hearing on remedies in April 2025. We expect a decision likely in the second half of 2025, after which we intend to appeal.
+Further, in June 2022, the Australian Competition and Consumer Commission and in October 2023, the Japanese Fair Trade Commission (JFTC) each opened an investigation into Search distribution practices.
+In April 2025, the JFTC issued a cease-and-desist order requiring us to make changes to our Android agreements to ensure they are consistent with Japanese antitrust law. The JFTC did not impose monetary penalties. We are constructively engaging with JFTC regarding compliance with the order.
+Given the nature of these matters, we cannot estimate a possible loss.
+•
+Advertising Technology:
+In December 2020, a number of state Attorneys General filed a lawsuit in the U.S. District Court for the Eastern District of Texas alleging that Google violated U.S.

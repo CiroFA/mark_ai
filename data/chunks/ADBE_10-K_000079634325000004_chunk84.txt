@@ -1,0 +1,19 @@
+linearity within the quarter. Deferred revenue does not represent the total contract value of annual or multi-year non-cancellable subscription agreements.
+Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 30 to 60 days. In instances where the timing of revenue recognition differs from the timing of invoicing, we have determined our contracts generally do not include a significant financing component. The primary purpose of our invoicing terms is to provide customers with simplified and predictable ways of purchasing our products and services, such as invoicing at the beginning of a subscription term with revenue recognized ratably over the contract period, and not to receive financing from our customers. Any potential financing fees are considered insignificant in the context of our contracts.
+As of November 29, 2024, the balance of deferred revenue was $
+6.26
+billion, which includes $
+83
+million of refundable customer deposits. Refundable customer deposits represent arrangements in which the customer has a unilateral cancellation right for which we are obligated to refund amounts paid related to products or services not yet delivered or provided at the time of cancellation on a prorated basis. Arrangements with some of our enterprise customers with non-cancellable and non-refundable committed funds provide options to either renew monthly on-premise term-based licenses or use some or all funds to purchase other Adobe products or services. Non-cancellable and non-refundable committed funds related to these agreements comprised approximately
+4
+% of the total deferred revenue.
+67
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+As of December 1, 2023, the balance of deferred revenue was $
+5.95
+billion. Significant movements in the deferred revenue balance during the period consisted of increases due to payments received prior to transfer of control of the underlying performance obligations to the customer, which were offset by decreases due to revenue recognized in the period. During the year ended November 29, 2024, approximately $
+5.87
+billion of revenue was recognized that was included in the balance of deferred revenue as of December 1, 2023.
+Transaction price allocated to remaining performance obligations represents contracted revenue that has not yet been recognized, which includes deferred revenue and unbilled amounts that will be recognized as revenue in future periods. Transaction price allocated to remaining performance obligations is influenced by several factors, including the timing of renewals and average contract term. We applied practical expedients to exclude amounts related to performance obligations that are billed and recognized as they are delivered, optional purchases that do not represent material rights, sales and usage-based royalties not yet consumed and any estimated amounts of variable consideration that are subject to

@@ -1,0 +1,22 @@
+revenue was up 15% from a year ago and up 14% sequentially. These increases were driven by sales of our GeForce RTX 40 Series GPUs and game console SoCs.
+Professional Visualization revenue was up 17% from a year ago and up 7% sequentially. These increases were driven by the continued ramp of RTX GPU workstations based on our Ada architecture.
+Automotive revenue was up 72% from a year ago and up 30% sequentially. These increases were driven by our self-driving platforms.
+Gross margin increased from a year ago due to a higher mix of Data Center revenue. Sequentially, gross margin decreased primarily driven by a mix shift from H100 systems to more complex and higher cost systems within Data Center.
+26
+Operating expenses were up 44% from a year ago and up 9% sequentially, driven by higher compensation and benefits expenses due to employee growth and compensation increases.
+Financial Information by Business Segment and Geographic Data
+Refer to Note 14 of the Notes to the Condensed Consolidated Financial Statements for disclosure regarding segment information.
+Critical Accounting Policies and Estimates
+Refer to Part II, Item 7, "Critical Accounting Policies and Estimates" of our Annual Report on Form 10-K for the fiscal year ended January 28, 2024. There have been no material changes to our Critical Accounting Policies and Estimates.
+Results of Operations
+The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue.
+Revenue
+Revenue by Reportable Segments
+27
+Operating Income by Reportable Segments
+Compute & Networking revenue
+– The year over year increase in the third quarter and first nine months of fiscal year 2025 was due to strength in Data Center computing for accelerated computing and AI solutions. Revenue from Data Center computing grew 133% year-on-year and 195% compared to the first nine months of fiscal year 2024 driven by demand for our Hopper computing platform for training and inferencing of large language models, recommendation engines, and generative AI applications. Networking was up 20% year-on-year and 90% compared to the first nine months of fiscal year 2024 driven by Ethernet for AI revenue, which includes Spectrum-X end-to-end ethernet platform.
+Graphics revenue
+– The year over year increase in the third quarter and first nine months of fiscal year 2025 was led by higher sales of our GeForce RTX 40 Series GPUs.
+Reportable segment operating income
+– The year over year increase in Compute & Networking segment operating income in the third quarter and first nine months of fiscal year 2025 was primarily driven by growth in data center revenue. The year over year increase in Graphics segment operating income in the third quarter of fiscal year 2025 was primarily driven by growth in revenue, partially offset by an increase of 52% in segment operating expense. The year over year increase in Graphics segment operating income in the first nine

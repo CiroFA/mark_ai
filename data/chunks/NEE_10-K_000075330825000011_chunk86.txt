@@ -1,0 +1,70 @@
+2021, the FPSC issued a final order approving a stipulation and settlement between FPL and several intervenors in FPL's base rate proceeding (2021 rate agreement).
+Key elements of the 2021 rate agreement, which is effective from January 2022 through December 2025, include, among other things, the following:
+•
+New retail base rates and charges were established resulting in the following increases in annualized retail base revenues:
+◦
+$
+692
+million beginning January 1, 2022, and
+◦
+$
+560
+million beginning January 1, 2023.
+71
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+•
+In addition, FPL received base rate increases associated with the addition of up to
+894
+megawatts (MW) annually of new solar generation (through a Solar Base Rate Adjustment (SoBRA) mechanism) in each of 2024 and 2025. FPL's recovery through the SoBRA mechanism was limited to an installed cost cap of $
+1,250
+per kilowatt.
+•
+FPL's authorized regulatory return on common equity (ROE) was
+10.60
+%, with a range of
+9.70
+% to
+11.70
+%. However, in the event the average 30-year U.S. Treasury rate was
+2.49
+% or greater over a consecutive
+six-month
+period, FPL was authorized to increase the regulatory ROE to
+10.80
+% with a range of
+9.80
+% to
+11.80
+%. During August 2022, this provision was triggered and effective September 1, 2022, FPL's authorized regulatory ROE and ROE range were increased. If FPL's earned regulatory ROE falls below
+9.80
+%, FPL may seek retail base rate relief. If the earned regulatory ROE rises above
+11.80
+%, any party with standing may seek a review of FPL's retail base rates.
+•
+Subject to certain conditions, FPL may amortize, over the term of the 2021 rate agreement, up to $
+1.45
+billion of depreciation reserve surplus, provided that in any year of the 2021 rate agreement FPL must amortize at least enough reserve amount to maintain its minimum authorized regulatory ROE and also may not amortize any reserve amount that would result in an earned regulatory ROE in excess of its maximum authorized regulatory ROE.
+•
+FPL is authorized to expand SolarTogether
+®
+, a voluntary community solar program that gives FPL electric customers an opportunity to participate directly in the expansion of solar energy where participants pay a fixed monthly subscription charge and receive credits on their related monthly customer bill, by constructing an additional
+1,788
+MW of solar generation from 2022 through 2025, such that the total capacity of SolarTogether
+®
+would be
+3,278
+MW.
+•
+Future storm restoration costs would be recoverable on an interim basis beginning
+60
+days from the filing of a cost recovery petition, but capped at an amount that produces a surcharge of no more than $
+4
+for every
+1,000
+kilowatt-hour (kWh) of usage on residential bills during the first
+12
+months of cost recovery. Any additional costs would be eligible for recovery in subsequent years. If storm restoration costs exceed $
+800
+million

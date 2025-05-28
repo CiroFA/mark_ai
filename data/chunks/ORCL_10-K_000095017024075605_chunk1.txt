@@ -1,142 +1,25 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+FORM 10-K
+ANNUAL REPORT
+TABLE OF CONTENTS
+Table of Contents
+Index to Financial Statements
+Cautionary Note on Forward-Looking Statements
+For purposes of this Annual Report on Form 10-K (this Annual Report), the terms “Oracle,” “we,” “us” and “our” refer to Oracle Corporation and its consolidated subsidiaries. This Annual Report contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), and Section 27A of the Securities Act of 1933, as amended (the Securities Act). These include, among other things, statements regarding:
+•
+our expectation that we may acquire, and realize the anticipated benefits of acquiring, companies, products, services and technologies to further our corporate strategy as compelling opportunities become available;
+•
+our belief that our acquisitions enhance the products and services that we can offer to customers, expand our customer base, provide greater scale to accelerate innovation, grow our revenues and earnings and increase stockholder value;
+•
+our expectation that, on a constant currency basis, our total cloud and license revenues generally will continue to increase due to expected growth in our cloud services and continued demand for our cloud license and on-premise license and license support offerings;
+•
+our belief that our Oracle Cloud Software-as-a-Service (SaaS) and Oracle Cloud Infrastructure (OCI) offerings are opportunities for us to continue to expand our cloud and license business, and that we are in the early stages of what we expect will be a material migration of our existing Oracle customer base from on-premise applications and infrastructure products and services to the Oracle Cloud;
+•
+our belief that we can market our Oracle SaaS and OCI services (collectively Oracle Cloud Services) to a broader ecosystem of small and medium-sized businesses, non-IT lines of business purchasers, developers and partners due to the highly available, intuitive design, ease of access, low touch and low cost characteristics of the Oracle Cloud;
+•
+our expectation that substantially all of our customers will renew their license support contracts upon expiration;
+•
+our belief that Oracle Fusion Cloud Enterprise Resource Planning (ERP) is a strategic suite of applications that is foundational to facilitating and extracting more business value out of the adoption of other Oracle SaaS offerings as customers realize the value of a common data model that spans across core business applications;
+•
+our belief that our SaaS offerings remove business boundaries between front- and back-office activities;
+•
+our expectation that current and expected customer demand will require continued growth in our cloud services and license support expenses in order to increase our existing data center capacity and establish

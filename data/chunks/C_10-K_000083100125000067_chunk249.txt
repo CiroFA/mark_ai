@@ -1,0 +1,37 @@
+which Citi holds a retained interest as of December 31, 2024 and 2023 were approximately $
+76.8
+billion and $
+84.1
+billion, respectively.
+As of December 31, 2024 and 2023, the Company did not consolidate any private label or agency re-securitization entities.
+Citi-Administered Asset-Backed Commercial Paper Conduits
+Citi’s multi-seller commercial paper conduits provide the Company’s clients access to low-cost funding in the commercial paper markets. The conduits provide financing facilities to clients that are funded by issuing commercial paper to third-party investors.
+As administrator to Citi’s conduits, the Company is responsible for selecting and structuring assets purchased or financed by the conduits, making decisions regarding the funding of the conduits, including determining the tenor and other features of the commercial paper issued, monitoring the quality and performance of the conduits’ assets and facilitating the operations and cash flows of the conduits. In return, the Company earns structuring fees from customers for individual transactions and earns an administration fee from the conduit.
+The assets are privately negotiated and structured transactions that are generally designed to be held by the conduit, rather than actively traded and sold. The yield earned by the conduit on each asset is generally tied to the rate on the commercial paper issued by the conduit, thus passing interest rate risk to the client. Each asset purchased by the conduit is structured with transaction-specific credit enhancement features provided by the third-party client, including over-collateralization, cash and excess spread collateral accounts, direct recourse or third-party guarantees. These credit enhancements are sized with the objective of approximating a credit rating of A or above, based on Citi’s internal risk ratings. At December 31, 2024 and 2023, the commercial paper conduits administered by Citi had approximately $
+21.3
+billion and $
+21.1
+billion of purchased assets outstanding, and unfunded commitments with clients of approximately $
+16.7
+billion and $
+16.7
+billion, respectively.
+At December 31, 2024 and 2023, the weighted-average remaining maturities of the commercial paper issued by the conduits were approximately
+82
+and
+68
+days, respectively.
+The conduits have obtained letters of credit from the Company that equal at least
+8
+% to
+10
+% of the conduit’s assets with a minimum of $
+200
+million to $
+350
+million. The letters of credit provided by the Company to the conduits total approximately $
+2.1
+billion as of December 31, 2024 and $
+2.1
+billion as of December 31, 2023. In the event that defaulted assets exceed the transaction-specific credit enhancement described above, any losses in each conduit are allocated first to the Company and then to the commercial paper investors.
+Citigroup also provides the conduits with two forms of liquidity agreements that are used to provide funding to the conduits in the event of a market disruption, among

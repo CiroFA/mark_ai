@@ -1,0 +1,21 @@
+process incorporates a review of models and trade and risk parameters across a broad range of scenarios (including extreme conditions) in order to critically evaluate and verify:
+•
+The model’s conceptual soundness, including the reasonableness of model assumptions, and suitability for intended use;
+•
+The testing strategy utilized by the model developers to ensure that the models function as intended;
+•
+The suitability of the calculation techniques incorporated in the model;
+•
+The model’s accuracy in reflecting the characteristics of the related product and its significant risks;
+•
+The model’s consistency with models for similar products; and
+•
+The model’s sensitivity to input parameters and assumptions.
+See “Critical Accounting Policies — Fair Value — Review of Valuation Models,” “Liquidity Risk Management,” “Market Risk Management,” “Credit Risk Management” and “Operational Risk Management” for further information about our use of models within these areas.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Other Risk Management
+In addition to the areas of risks discussed above, we also manage other risks, including capital, climate, compliance, conflicts and reputational. These areas of risks are discussed below.
+Capital Risk Management
+Capital risk is the risk that our capital is insufficient to support our business activities under normal and stressed market conditions or we face capital reductions or RWA increases, including from new or revised rules or changes in interpretations of existing rules, and are therefore unable to meet our internal capital targets or external regulatory capital requirements. Capital adequacy is of critical importance to us. We have in place a comprehensive capital management policy that provides a framework, defines objectives and establishes guidelines to assist us in maintaining the appropriate level and composition of capital in both business-as-usual and stressed conditions. Our capital management framework is designed to provide us with the information needed to identify and comprehensively manage risk, and develop and apply projected stress scenarios that capture idiosyncratic vulnerabilities with a goal of holding sufficient capital to remain adequately capitalized even after experiencing a severe stress event. See “Capital Management and Regulatory Capital” for further information about our capital management process.
+We have established a comprehensive governance structure to manage and oversee our day-to-day capital management activities and to ensure compliance with capital rules and related policies. Our capital management activities are overseen by the Board and its committees. The Board is responsible for approving our annual capital plan and the Risk Committee of the Board approves our capital management policy, which details the risk committees and members of senior management who are responsible for the ongoing monitoring of our capital adequacy and evaluation of

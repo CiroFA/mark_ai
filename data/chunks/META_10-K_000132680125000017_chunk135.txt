@@ -1,0 +1,20 @@
+credit quality of our customers, current economic conditions, reasonable and supportable forecasts of future economic conditions, and other factors that may affect our ability to collect from customers. Expected credit losses are recorded as general and administrative expenses on our consolidated statements of income.
+As of December 31, 2024 and 2023, the allowance for credit losses on accounts receivable were not material.
+Property and Equipment
+Property and equipment, including finance leases, are depreciated and stated at cost less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of the assets or the remaining lease term, whichever is shorter.
+The estimated useful lives of property and equipment and amortization periods of finance lease right-of-use (ROU) assets as of December 31, 2024 are described below:
+_______________________
+(1)
+Effective January 2025, the useful lives of certain servers and network assets are extended to
+5.5
+years.
+We evaluate at least annually the recoverability of property and equipment for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. If such review indicates that the carrying amount of property and equipment assets is not recoverable, and the asset's fair value is less than the carrying amount, an impairment charge is recognized.
+The useful lives of our property and equipment are management's estimates when the assets are initially recognized and are routinely reviewed for the remaining estimated useful lives. Our estimate of useful lives represents the best estimate of the useful lives based on current facts and circumstances, but may differ from the actual useful lives due to changes to our business operations, changes in the planned use of assets, and technological advancements. When we change the estimated
+96
+Table of
+Contents
+useful life assumption for any asset, the remaining carrying amount of the asset is accounted for prospectively and depreciated or amortized over the revised estimated useful life.
+Servers and network assets include equipment mostly in our data centers, which is used to support production traffic. Land and assets held within construction in progress (CIP) are not depreciated. CIP assets are related to the construction or development of property and equipment that have not yet been placed in service for their intended use. We also capitalize interest on our debt related to certain eligible CIP assets and depreciate over the useful life of the related assets.
+The cost of maintenance and repairs is expensed as incurred. When assets are retired or otherwise disposed of, the cost and related accumulated depreciation are removed from their respective accounts, and gain or loss on such sale or disposal is reflected in income from operations.
+Lease Obligations
+Our operating leases mostly comprise of certain data centers, offices, and colocations. We also

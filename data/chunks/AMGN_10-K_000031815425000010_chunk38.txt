@@ -1,0 +1,16 @@
+file an IND with the FDA to begin human testing. Typically, we undertake an FDA-designated three-phase human clinical testing program.
+13
+•
+In phase 1, we conduct small clinical trials to investigate the safety and proper dose ranges of our product candidates in a small number of human subjects.
+•
+In phase 2, we conduct clinical trials to investigate side-effect profiles and the efficacy of our product candidates in a patient population larger than phase 1 but still relatively small, who have the disease or condition under study.
+•
+In phase 3, we conduct clinical trials to investigate the short- and long-term safety and efficacy of our product candidates, compared to commonly used treatments, in a large number of patients who have the disease or condition under study.
+The FDA monitors the progress of each trial conducted under an IND and may, at its discretion, reevaluate, alter, suspend or terminate the testing based on data accumulated to that point and the FDA’s risk–benefit assessment with regard to the patients enrolled in the trial. The results of preclinical and clinical trials are submitted to the FDA in the form of either a BLA for biologic products or a New Drug Application for small molecule products. We are not permitted to market or promote a new product until the FDA has approved our marketing application.
+Approval of Biosimilars
+.
+The Affordable Care Act authorized the FDA to approve biosimilars via a separate, abbreviated pathway. The pathway allows sponsors of a biosimilar to seek and obtain regulatory approval based in part on the nonclinical-trial and clinical-trial data of an originator product to which the biosimilar has been demonstrated to be “highly similar” and to have no clinically meaningful differences with regard to safety, purity and potency. The relevance of demonstrating “similarity” is that in many cases, biosimilars can be brought to market without conducting the full suite of clinical trials typically required of originators, because risk–benefit has previously been established. To preserve incentives for future innovation, the law establishes a period of exclusivity for originators’ products, which in general prohibits biosimilars from gaining FDA approval based in part on reliance on or reference to the originator’s data in their application to the FDA for 12 years after initial FDA approval of the originator product. The law does not change the duration of patents granted on biologic products. As part of the implementation of the abbreviated approval pathway for biosimilars, the FDA released a number of guidance documents, some of which remain in draft form. See Item 1A. Risk Factors—
+We currently face competition from biosimilars and generics and expect to face increasing competition from biosimilars and generics in the future
+.
+Regulation of Product Marketing and Promotion
+. The FDA regulates the marketing and promotion of drug products. Our product promotions for approved product indications must comply

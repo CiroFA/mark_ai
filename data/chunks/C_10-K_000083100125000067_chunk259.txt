@@ -1,0 +1,67 @@
+on a net basis, which largely offset in the current period.
+(2)
+The gain (loss) amounts for commodity hedges are included in
+Principal transactions
+for periods beginning 2023.
+(3)
+Amounts related to the forward points (i.e., the spot-forward difference) that are excluded from the assessment of hedge effectiveness and are generally reflected directly in earnings under the mark-to-market approach. Amounts related to cross-currency basis, which are recognized in
+AOCI
+, are not reflected in the table above. The amount of cross-currency basis included in
+AOCI
+was $(
+19
+) million and $(
+70
+) million for the years ended December 31, 2024 and 2023, respectively.
+(4)
+Amounts related to the forward points (i.e., the spot-forward difference) that are excluded from the assessment of hedge effectiveness and are generally reflected directly in earnings under the mark-to-market approach or recorded in
+AOCI
+under the amortization approach. The year ended December 31, 2024 includes gain (loss) of approximately $
+321
+million and $
+75
+million under the mark-to-market approach and amortization approach, respectively. The year ended December 31, 2023 includes gain (loss) of approximately $
+284
+million and $
+28
+million under the mark-to-market approach and amortization approach, respectively.
+260
+Cumulative Basis Adjustment
+The table below presents the carrying amount of Citi’s hedged assets and liabilities under qualifying fair value hedges at December 31, 2024 and 2023, along with the cumulative basis adjustments included in the carrying value of those hedged assets and liabilities that would reverse through earnings in future periods.
+(1)    Excludes physical commodities inventories with a carrying value of approximately $
+11.4
+billion and $
+8
+billion as of December 31, 2024 and 2023, respectively, which includes cumulative basis adjustments of approximately $
+0.8
+billion and $
+1.2
+billion, respectively, for active hedges.
+(2)    Carrying amount represents the amortized cost basis of the hedged securities or portfolio layers.
+(3)    The Company designated approximately $
+12.9
+billion and $
+14.0
+billion as the hedged amount in the portfolio-layer hedging relationship as of December 31, 2024 and 2023, respectively.
+(4)    The Company designated approximately $
+17.0
+billion as the hedged amount in the portfolio-layer hedging relationship as of December 31, 2024.
+(5)    The Company designated approximately $
+3.0
+billion and $
+3.6
+billion as the hedged amount in the portfolio-layer hedging relationship as of December 31, 2024 and 2023, respectively.
+261
+Cash Flow Hedges
+The pretax change in
+AOCI
+from cash flow hedges is presented below:
+(1)
+All amounts reclassified into earnings for interest rate contracts are included in
+Interest income/Interest expense (Net interest income)
+. For all other hedges, the amounts reclassified to earnings are included primarily in
+Other revenue
+and
+Net interest income
+in the Consolidated Statement of Income.
+The net gain (loss) associated

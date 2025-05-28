@@ -1,0 +1,17 @@
+significant portion of our customer base elects to consolidate their spending on financial, commodity market and automotive products and services with other vendors and not us or self-source their product and service needs, or if we lose a large portion of our business to lower priced competitors, our business, financial condition or results of operations could be materially and adversely affected.
+From time to time, we lose key outside suppliers of data, products, and services or the data, products, or services of these suppliers have errors or are delayed, resulting in a disruption or inability to provide our clients with the information, products or services they desire.
+•
+Our ability to produce our products and services and develop new products and services is dependent upon the products and services of other suppliers, including certain data, software and service suppliers. Some of our products and services and their related value are dependent upon updates from our data suppliers and most of our information and data products and services are dependent upon continuing access to historical and current data.
+•
+Many of our suppliers are also our competitors, and from time to time they negotiate to change the terms of the data and products that they supply to us in order to gain an advantage in the marketplace, which could materially harm our business.
+•
+We utilize certain information and data provided by third-party sources in a variety of ways, including information gathered by market participants and large volumes of data from certain stock exchanges around the world.
+•
+From time to time, the data from our suppliers has errors, is delayed, has design defects, is unavailable on acceptable terms or is not available at all.  While such issues have not materially adversely affected us to date, the future occurrence of any such issue could have a material adverse effect on our business, financial condition or results of operations.
+•
+The consolidation of our suppliers has reduced the number of firms we partner with, which has impacted the size of our supplier base for certain products and services and resulted in an increase in fees charged by certain of our supplier partners.
+•
+Some of our agreements with data suppliers allow them to cancel on short notice. Termination of one or more of our significant data agreements or exclusion from, or restricted use of, or litigation in connection with, a significant data provider’s information could result in a substantial decrease of the available information for us to use (and offer our clients) and could have a material adverse effect on our business, financial condition or results of operations.
+Our inability to successfully recover should we, our third-party service providers or our clients experience a disaster or other business continuity problem could cause material financial loss, loss of human capital, regulatory actions, reputational harm, damaged client relationships or legal liability.
+•
+Should

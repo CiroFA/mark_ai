@@ -1,0 +1,26 @@
+the consolidated condensed statement of operations.
+The amount recognized due to discontinuance of cash flow hedges that were probable of not occurring by the end of the originally specified time period was not significant for the three months ended January 26, 2025 and January 28, 2024.
+Foreign currency forward contracts are generally used to hedge certain foreign currency denominated assets or liabilities. Accordingly, changes in the fair value of these hedges are recorded in earnings to offset the changes in the fair value of the assets or liabilities being hedged.
+As of January 26, 2025 and October 27, 2024, the total outstanding notional amounts of foreign exchange contracts were $
+1.7
+billion and $
+2.0
+billion, respectively. The fair values of foreign exchange derivative instruments as of January 26, 2025 and October 27, 2024 were not material.
+The gain (loss) on derivatives in cash flow hedging relationships recognized in AOCI for derivatives designated as hedging instruments were not material for the three months ended January 26, 2025 and January 28, 2024.
+The effects of derivative instruments, both those designated as cash flow hedges and those that are not designated, on the Consolidated Condensed Statements of Operations were not material for the three months ended January 26, 2025 and January 28, 2024.
+Credit Risk Contingent Features
+If our credit rating were to fall below investment grade, we would be in violation of credit risk contingent provisions of the derivative instruments discussed above, and certain counterparties to the derivative instruments could request immediate payment on derivative instruments in net liability positions. The aggregate fair value of all derivative instruments with credit-risk related contingent features that were in a net liability position was immaterial as of January 26, 2025.
+Entering into derivative contracts with banks exposes us to credit-related losses in the event of the banks’ nonperformance. However, our exposure is not considered significant.
+13
+APPLIED MATERIALS, INC.
+NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
+Note 6
+Accounts Receivable, Net
+We have agreements with various financial institutions to sell accounts receivable and discount promissory notes from selected customers. We sell our accounts receivable generally without recourse. From time to time, we also discount letters of credit issued by customers through various financial institutions. The discounting of letters of credit depends on many factors, including the willingness of financial institutions to discount the letters of credit and the cost of such arrangements.
+We sold $
+34
+million and $
+169
+million of account receivables during the three months ended January 26, 2025 and January 28, 2024, respectively. We did
+no
+t discount letters of credit issued by customers or discount promissory notes during the three months ended January 26, 2025 and January 28, 2024. Financing charges on the sale of

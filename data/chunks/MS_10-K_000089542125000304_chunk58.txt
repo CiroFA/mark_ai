@@ -1,0 +1,27 @@
+households represent the total number of households that include at least one active account with self-directed assets. Individual households or participants that are engaged in one or more of our Wealth Management channels are included in each of the respective channel counts.
+3.
+DARTs represent the total self-directed trades in a period divided by the number of trading days during that period.
+Workplace Channel
+1
+1.
+The workplace channel includes equity compensation solutions for companies, their executives and employees.
+2.
+Stock plan unvested assets represent the market value of public company securities at the end of the period.
+3.
+Stock plan participants represent total accounts with vested and/or unvested stock plan assets in the workplace channel. Individuals with accounts in multiple plans are counted as participants in each plan.
+Net Revenues
+Asset Management
+Asset management revenues of $16,501 million in 2024 increased 18% compared with the prior year, reflecting higher fee-based assets due to higher market levels and the cumulative impact of positive fee-based flows.
+See “Fee-Based Client Assets Rollforwards” herein.
+Transactional Revenues
+Transactional revenues of $3,864 million in 2024 increased 9% compared with the prior year, reflecting higher client activity particularly in equity-related transactions.
+Net Interest
+Net interest revenues of $7,313 million in 2024 decreased 10% compared with the prior year, primarily due to lower average sweep deposits, partially offset by higher yields on our investment portfolio and lending growth.
+The level and pace of interest rate changes and other macroeconomic factors have impacted client preferences for cash allocation to higher-yielding products and client demand for loans. These factors, along with other developments, such as pricing changes to certain deposit types due to various competitive dynamics, have impacted our net interest income. To the extent they persist, or other factors arise, such as central bank actions and changes in the path of interest rates, net interest income may be impacted in future periods.
+Provision for Credit Losses
+The Provision for credit losses on loans and lending commitments of $62 million in 2024 was primarily related to certain specific commercial real estate and securities-based loans, and portfolio growth, partially offset by improvements in the macroeconomic outlook. The Provision for credit losses on loans and lending commitments of $131 million in 2023 was primarily related to deteriorating conditions in the commercial real estate sector including provisions for certain specific loans, mainly in the office portfolio.
+For further information on the Provision for credit losses, see “Credit Risk” herein.
+Non-Interest Expenses
+Non-interest expenses of $20,618 million in 2024 increased 5% compared with the prior year, as a result of higher Compensation and benefits expenses, partially offset by lower Non-compensation expenses.
+•
+Compensation and

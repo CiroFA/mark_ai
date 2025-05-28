@@ -1,0 +1,44 @@
+Carlo simulation model.
+A summary of our long-term cash activity for the year ended December 28, 2024 is as follows:
+(a)
+In thousands, disclosed at target.
+(b)
+In thousands, based on the most recent valuation as of December 28, 2024.
+(c)
+The outstanding awards for which the vesting period has not ended as of December 28, 2024, at the threshold, target and maximum award levels based on the achievement of its market conditions were
+zero
+, $
+54
+million and $
+108
+million, respectively.
+90
+Table of
+Contents
+Other Share-Based Compensation Data
+The following is a summary of other share-based compensation data:
+(a)
+In thousands.
+As of December 28, 2024 and December 30, 2023, there were approximately
+311,000
+and
+330,000
+outstanding awards, respectively, consisting primarily of phantom stock units that were granted under the PepsiCo Director Deferral Program and will be settled in shares of PepsiCo common stock pursuant to the LTIP at the end of the applicable deferral period, not included in the tables above.
+91
+Table of
+Contents
+Note 7 —
+Pension, Retiree Medical and Savings Plans
+In 2024, we recognized a pre-tax settlement charge of $
+213
+million ($
+165
+million after-tax or $
+0.12
+per share) in a U.S. qualified defined benefit pension plan due to lump sum distributions to retired or terminated employees and the purchase of a group annuity contract whereby a third-party insurance company assumed the obligation to pay and administer future benefit payments for certain retirees. The settlement charge was triggered when the aggregate of the cumulative lump sum distributions and the annuity contract premium exceeded the total annual service and interest cost.
+Effective December 31, 2022, we merged two U.S. qualified defined benefit pension plans, PepsiCo Employees Retirement Plan I (Plan I), mostly inactive participants, and PepsiCo Employees Retirement Plan A, mostly active participants, with Plan I remaining. The accrued benefits offered to the plans’ participants were unchanged. The merger was made to provide additional flexibility in evaluating opportunities to reduce risk and volatility. Actuarial gains and losses of the merged plan will be amortized over the average remaining life expectancy of participants. There was no material impact to pre-tax pension benefits expense from this merger.
+In 2022, we transferred pension and retiree medical obligations of $
+145
+million and related assets to TBG in connection with the Juice Transaction. See Note 13 for further information.
+In 2020, we adopted an amendment to the U.S. qualified defined benefit plans to freeze benefit accruals for salaried participants, effective December 31, 2025.
+Gains and losses resulting from actual experience differing from our assumptions, including the difference between the actual and expected return on plan assets, as well as changes in our assumptions, are determined at each measurement date. These differences are recognized as a component of net gain or loss in accumulated other

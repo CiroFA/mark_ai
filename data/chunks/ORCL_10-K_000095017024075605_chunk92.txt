@@ -1,0 +1,39 @@
+significant influence in, but not control of, the investee, we account for such investments pursuant to the equity method of accounting whereby we record our proportionate share of the investee’s earnings or losses; amortization of differences between our investment basis and underlying equity in net assets of the investee, excluding component representing goodwill; and impairment, if any, as a component of non-operating expenses, net for each reporting period.
+Our investments in non-marketable debt instruments are recorded at cost plus accrued interest, adjusted for any provision for expected credit losses.
+Our investments in marketable debt and equity securities totaled $
+207
+million and $
+422
+million as of May 31, 2024 and 2023, respectively, and are included in current assets in the accompanying consolidated balance sheets.
+Our non-marketable debt investments and equity securities and related instruments totaled $
+2.0
+billion and $
+1.6
+billion as of May 31, 2024 and 2023, respectively, and are included in other non-current assets in the accompanying consolidated balance sheets and are subject to periodic impairment reviews. The majority of the non-marketable investments held as of these dates were with Ampere Computing Holdings LLC (Ampere), a related party entity in which we had an ownership interest of approximately
+29
+%
+as of May 31, 2024 and 2023. We follow the equity method of accounting for our investment in Ampere and our share of loss under the equity method of accounting is recorded in the non-operating expenses, net line item in our consolidated statements of operations. We also have
+75
+Table of Contents
+Index to Financial Statements
+convertible
+debt investments in Ampere which, under the terms of an agreement with Ampere and other co-investors, will mature in
+June 2026
+and are convertible into equity securities at the holder’s option under certain circumstances. During the fiscal year ended May 31, 2024, we invested an aggregate of $
+600
+million in convertible debt instruments issued by Ampere. The total carrying value of our investments in Ampere after accounting for losses under the equity method of accounting was $
+1.5
+billion and $
+1.2
+billion as of May 31, 2024 and 2023, respectively. In accordance with the terms of an agreement with other co-investors, we are also a counterparty to certain put (exercisable by a co-investor) and call (exercisable by Oracle) options at prices of approximately $
+400
+million to $
+1.5
+billion, respectively, to acquire additional equity interests in Ampere from our co-investors through
+January 2027
+. If either of such options is exercised by us or our co-investors, we would obtain control of Ampere and consolidate its results with our results of operations. Ampere has historically generated net losses
+.
+Fair Values of Financial Instruments
+We apply the provisions of ASC 820,
+Fair Value Measurement
+(ASC 820), to our assets and liabilities that we are required to measure at fair value pursuant to

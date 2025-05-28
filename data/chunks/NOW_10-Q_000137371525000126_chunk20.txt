@@ -1,0 +1,27 @@
+Company’s President and Chief Operating Officer and the hired individual violated Company policy regarding a possible conflict relating to such individual’s hiring. On July 24, 2024, the Company and its President and Chief Operating Officer came to a mutual agreement that he would resign from all positions with the Company, effective immediately. The other individual also has departed the Company. The Company has informed the Department of Justice, the Department of Defense Office of Inspector General and the Army Suspension and Debarment Office of the investigation and is continuing to cooperate with the Department of Justice, which has commenced its own investigation into these matters. The Company cannot predict the timing, outcome or possible impact of the investigation.
+Indemnification Provisions
+Our agreements include provisions indemnifying customers against intellectual property and other third-party claims. In addition, we have entered into indemnification agreements with our directors, executive officers and certain other officers that will require us, among other things, to indemnify them against certain liabilities that may arise as a result of their affiliation with us. We have not incurred any costs as a result of such indemnification obligations and have not recorded any liabilities related to such obligations in the condensed consolidated financial statements.
+18
+Table of Contents
+(17)
+Segment and Geographic Information
+Segment Information
+Our chief operating decision maker (“CODM”), the Chief Executive Officer, manages the Company’s business activities as a single operating and reportable segment at the consolidated level. Accordingly, our CODM uses consolidated net income to measure segment profit or loss, allocate resources and assess performance. Further, the CODM reviews and utilizes functional expenses (cost of revenues, sales and marketing, research and development, and general and administrative) at the consolidated level to manage the Company’s operations. Other segment items included in consolidated net income are interest income, other expense, net and the provision for income taxes, which are reflected in the condensed consolidated statements of comprehensive income.
+Geographic Information
+Revenues by geographic area, based on the location of our users, were as follows for the periods presented (in millions):
+Property and equipment, net by geographic area were as follows (in millions):
+(1)
+Revenues attributed to the United States were
+94
+% of North America revenues for each of the three months ended March 31, 2025 and 2024.
+(2)
+Europe, the Middle East and Africa (“EMEA”).
+(3)
+Property and equipment, net attributed to the United States were
+80
+% and
+79
+% of property and equipment, net attributable to North America as of March 31, 2025 and December 31, 2024, respectively.
+(18)
+Subsequent Event
+In April 2025, we signed a definitive agreement to acquire Logik.ai, a provider of an AI‑powered, composable Configure, Price,

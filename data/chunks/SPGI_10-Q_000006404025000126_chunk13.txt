@@ -1,0 +1,26 @@
+million shares for $
+650
+million of cash. During the three months ended March 31, 2024, we received
+1.2
+million shares, including
+0.2
+million shares received in February of 2024 related to our November 13, 2023 ASR agreement. During the three months ended March 31, 2024, we purchased a total of
+1.0
+million shares for $
+500
+million of cash.
+Redeemable Noncontrolling Interests
+Our redeemable noncontrolling interests include an agreement with the minority partners that own
+27
+% of our S&P Dow Jones Indices LLC joint venture that contains redemption features whereby interests held by minority partners are redeemable either (i) at the option of the holder or (ii) upon the occurrence of an event that is not solely within our control. Specifically, under the terms of the operating agreement of S&P Dow Jones Indices LLC, CME Group and CME Group Index Services LLC (“CGIS”) has the right at any time to sell, and we are obligated to buy, at least
+20
+% of their share in S&P Dow Jones Indices LLC. In addition, in the event there is a change of control of the Company, for the
+15
+days following a change in control, CME Group and CGIS will have the right to put their interest to us at the then fair value of CME Group’s and CGIS’ minority interest.
+If interests were to be redeemed under this agreement, we would generally be required to purchase the interest at fair value on
+17
+the date of redemption. This interest is presented on the consolidated balance sheets outside of equity under the caption “Redeemable noncontrolling interests” with an initial value based on fair value for the portion attributable to the net assets we acquired, and based on our historical cost for the portion attributable to our S&P Index business. We adjust the redeemable noncontrolling interest each reporting period to its estimated redemption value, but never less than its initial fair value, using both income and market valuation approaches. Our income and market valuation approaches incorporate Level 3 fair value measures for instances when observable inputs are not available. The more significant judgmental assumptions used to estimate the value of the S&P Dow Jones Indices LLC joint venture include an estimated discount rate, a range of assumptions that form the basis of the expected future net cash flows (e.g., the revenue growth rates and operating margins), and a company specific beta. The significant judgmental assumptions used that incorporate market data, including the relative weighting of market observable information and the comparability of that information in our valuation models, are forward-looking and could be affected by future economic and market conditions. Any adjustments to the redemption value will impact retained income.
+Noncontrolling interests that do not contain such redemption features are presented in equity.
+Changes to redeemable noncontrolling interests during the three months ended March 31, 2025 were as follows:
+1
+Includes foreign currency translation

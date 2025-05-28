@@ -1,0 +1,35 @@
+the median of the inputs and is not a weighted average.
+Projected contingent payment amounts related to our clinical and revenue-based payments and commercialization milestones are discounted back to the current period, primarily using a discounted cash flow model. Significant increases or decreases in projected revenues, probabilities of payment, discount rates or the time until payment is made would have resulted in a significantly lower or higher fair value measurement as of March 31, 2025.
+Strategic Investments
+The aggregate carrying amount of our strategic investments was comprised of the following:
+(1)
+Measurement alternative investments are privately-held equity securities without readily determinable fair values that are measured at cost less impairment, if any, adjusted to fair value for any observable price changes in orderly transactions for the identical or a similar investment of the same issuer, recognized in
+Other, net
+within our accompanying unaudited consolidated statements of operations.
+11
+Table of Contents
+(2)
+Includes publicly-held equity securities measured at fair value with changes in fair value recognized in
+Other, net
+within our accompanying unaudited consolidated statements of operations.
+These investments are classified as
+Other long-term assets
+within our accompanying unaudited consolidated balance sheets, in accordance with GAAP and our accounting policies.
+As of March 31, 2025, the cost of our aggregated equity method investments exceeded our share of the underlying equity in net assets by $
+374
+million, which represents amortizable intangible assets, in-process research and development (IPR&D), goodwill and deferred tax liabilities.
+NOTE C – GOODWILL AND OTHER INTANGIBLE ASSETS
+The gross carrying amount of goodwill and other intangible assets and the related accumulated amortization for intangible assets subject to amortization and accumulated goodwill impairment charges are as follows:
+The increase in our balance of goodwill is related primarily to our acquisition of Cortex in the first quarter of 2025.
+The following represents a roll forward of our goodwill balance by reportable segment:
+Goodwill and Other Intangible Asset Impairments
+We did
+not
+record any goodwill or other intangible asset impairment charges in the first quarter of 2025 or 2024. We test our goodwill balances in the second quarter of each year as of April 1 for impairment, or more frequently if impairment indicators are present or changes in circumstances suggest an impairment may exist. Refer to
+Note A – Significant Accounting Policies
+to our audited financial statements contained in Item 8. Financial Statements and Supplementary Data of our most recent Annual Report on Form 10-K for further discussion of our annual goodwill and intangible asset impairment testing.
+12
+Table of Contents
+NOTE D – HEDGING ACTIVITIES AND FAIR VALUE MEASUREMENTS
+Derivative Instruments and Hedging Activities
+We address market risk from changes in foreign currency

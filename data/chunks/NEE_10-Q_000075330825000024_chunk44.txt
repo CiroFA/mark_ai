@@ -1,0 +1,18 @@
+use funds of NEE and FPL consist of restricted funds set aside to cover the cost of storm damage for FPL and for the decommissioning of NEE's and FPL's nuclear power plants. A portion of these funds is invested in fixed income debt securities primarily carried at estimated fair value. At FPL, changes in fair value, including any credit losses, result in a corresponding adjustment to the related regulatory asset or liability accounts based on current regulatory treatment. The changes in fair value for NEE's non-rate regulated operations result in a corresponding adjustment to OCI, except for credit losses and unrealized losses on available for sale securities intended or required to be sold prior to recovery of the amortized cost basis, which are reported in current period earnings. Because the funds set aside by FPL for storm damage could be needed at any time, the related investments are generally more liquid and, therefore, are less sensitive to changes in interest rates. The nuclear decommissioning funds, in contrast, are generally invested in longer-term securities.
+At March 31, 2025, NEE had interest rate contracts with a net notional amount of approximately $39.5 billion to manage exposure to the variability of cash flows primarily associated with expected future and outstanding debt issuances at NEECH and NEER. See Note 2.
+Based upon a hypothetical 10% decrease in interest rates, the fair value of NEE's net liabilities would increase by approximately $4,065 million ($1,295 million for FPL) at March 31, 2025.
+Equity Price Risk
+NEE
+and
+FPL
+are exposed to risk resulting from changes in prices for equity securities. For example,
+NEE
+’s nuclear decommissioning reserve funds include marketable equity securities carried at their market value of approximately $5,957 million and $6,164 million ($4,067 million and $4,219 million for
+FPL
+) at
+March 31, 2025 and December 31, 2024, respectively. NEE's and FPL’s investment strategy for equity securities in their nuclear decommissioning reserve funds emphasizes marketable securities which are broadly diversified. At March 31, 2025, a hypothetical 10% decrease in the prices quoted on stock exchanges would result in an approximately $550 million ($367 million for FPL) reduction in fair value. For FPL, a corresponding adjustment would be made to the related regulatory asset or liability accounts based on current regulatory treatment, and for NEE’s non-rate regulated operations, a corresponding amount would be recorded in change in unrealized gains (losses) on equity securities held in NEER's nuclear decommissioning funds – net in NEE's condensed consolidated statements of income. See Note 3.
+Credit Risk
+NEE
+and its subsidiaries, including FPL, are also exposed to credit risk through their energy marketing and trading operations. Credit risk is the risk that a financial loss will be incurred if a counterparty to a transaction does not fulfill its financial obligation.
+NEE
+manages counterparty credit risk for

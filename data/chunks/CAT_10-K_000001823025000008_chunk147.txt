@@ -1,0 +1,18 @@
+pretax basis and exclude most interest expense and certain other income (expense) items. We determine Financial Products Segment profit on a pretax basis and include other income (expense) items.
+Our CODM evaluates the operating performance of the segments using segment profit as it provides insight into the financial health of each segment. The CODM reviews this metric regularly to compare the profitability of segments, identify trends, and evaluate which segments require additional resources or strategic adjustments. The CODM uses segment profit to support the allocation of resources predominantly in the annual budget and forecasting process. Additionally, the CODM monitors forecast-to-actual variances, focusing on areas where performance deviates from expectations, when evaluating the performance of each segment and making decisions about allocating capital and other resources to each segment.
+There are several methodology differences between our segment reporting and our external reporting.  The following is a list of the more significant methodology differences:
+•
+For Construction Industries, Resource Industries, Energy & Transportation and our All Other Segment, net assets generally include inventories, receivables, property, plant and equipment, goodwill, intangibles, accounts payable and customer advances.  We generally manage at the corporate level liabilities other than accounts payable and customer advances, and we do not include these in segment operations.  Financial Products Segment assets generally include all categories of assets.
+•
+We value segment inventories and cost of sales using a current cost methodology.
+•
+We amortize goodwill allocated to segments using a fixed amount based on a
+20-year
+useful life.  This methodology difference only impacts segment assets. We do not include goodwill amortization expense in segment profit.  In addition, we have allocated to segments only a portion of goodwill for certain acquisitions made in 2011 or later.
+•
+We generally manage currency exposures for operating segments, other than Financial Products, at the corporate level and do not include in segment profit the effects of changes in exchange rates on results of operations within the year.  We report the net difference created in the translation of revenues and costs between exchange rates used for U.S. GAAP reporting and exchange rates used for segment reporting as a methodology difference.
+•
+We do not include stock-based compensation expense in segment profit.
+•
+Postretirement benefit expenses are split; segments are generally responsible for service costs, with the remaining elements of net periodic benefit cost included as a methodology difference.
+Reconciling items are created based on accounting differences between segment reporting and our consolidated external reporting. Please refer to pages 119 to 120 for financial information regarding significant reconciling items. Most of our reconciling items are self-explanatory given the

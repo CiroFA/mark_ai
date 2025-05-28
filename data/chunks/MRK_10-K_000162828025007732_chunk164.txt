@@ -1,0 +1,22 @@
+functional currency, non-monetary foreign currency
+79
+Table of Content
+s
+assets and liabilities are translated using historical rates, while monetary assets and liabilities are translated at current rates, with the U.S. dollar effects of rate changes included in
+Other (income) expense, net
+.
+Cash Equivalents —
+Cash equivalents are comprised of certain highly liquid investments with original maturities of less than three months.
+Inventories —
+Inventories are valued at the lower of cost or net realizable value. The cost of a substantial majority of U.S. human health inventories is determined using the last-in, first-out (LIFO) method for both financial reporting and tax purposes. The cost of all other inventories is determined using the first-in, first-out (FIFO) method. Inventories consist of currently marketed products, as well as certain inventories produced in preparation for product launches that are considered by the Company to be probable of obtaining regulatory approval. In evaluating the recoverability of inventories produced in preparation for product launches, the Company considers the likelihood that revenue will be obtained from the future sale of the related inventory together with the status of the product during the research and regulatory approval process.
+Investments —
+Investments in marketable debt securities classified as available-for-sale are reported at fair value. Fair values of the Company’s investments in marketable debt securities are determined using quoted market prices in active markets for identical assets or quoted prices for similar assets or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Changes in fair value that are not impairment related are reported net of taxes in
+OCI
+. The Company considers available evidence in evaluating potential impairments of its investments in marketable debt securities, including the extent to which fair value is less than cost, whether an allowance for credit loss is required, as well as adverse factors that could affect the value of the securities. An impairment has occurred if the Company does not expect to recover the entire amortized cost basis of the marketable debt security. If the Company does not intend to sell the impaired debt security, and it is not more likely than not it will be required to sell the debt security before the recovery of its amortized cost basis, the amount of the impairment recognized in earnings, recorded in
+Other (income) expense, net
+, is limited to the portion attributed to credit loss. The remaining portion of the impairment related to other factors is recognized in
+OCI
+. Realized gains and losses for debt securities are included in
+Other (income) expense, net
+.
+Investments in publicly traded equity securities are reported at fair value as determined using quoted market prices in active markets for identical assets or quoted prices for similar assets or

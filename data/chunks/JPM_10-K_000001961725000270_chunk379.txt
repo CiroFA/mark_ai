@@ -1,0 +1,28 @@
+secured note to the FDIC (the "Purchase Money Note").
+(c)
+Includes $
+447
+million of securities financing transactions with First Republic Bank that were effectively settled on the acquisition date.
+(d)
+Other assets include $
+1.2
+billion in tax-oriented investments and $
+683
+million of lease right-of-use assets. Other liabilities include the related tax-oriented investment liabilities of $
+669
+million and lease liabilities of $
+748
+million.
+The following describes the accounting policies and fair value methodologies generally used by the Firm for the following assets acquired and liabilities assumed: core deposit and customer relationship intangibles, shared-loss agreements and the related indemnification assets, Purchase Money Note, and FHLB advances.
+For further discussion of the Firm’s accounting policies and valuation methodologies, refer to Notes 2 and 3 for fair value measurement, Note 10 for investment securities, Note 12 for loans, Note 17 for deposits, and Note 28 for lending-related commitments.
+Core deposit and customer relationship intangibles
+Core deposit and certain wealth management customer relationship intangibles were acquired as part of the First Republic acquisition. The core deposit intangible of $
+1.3
+billion was valued by discounting estimated after-tax cost savings over the remaining useful life of the deposits using the favorable source of funds method. The after-tax cost savings were estimated based on the difference between the cost of maintaining the core deposit base relative to the cost of next best alternative funding sources available to market participants. The customer relationship intangibles of $
+180
+million were valued by discounting estimated after-tax earnings over their remaining useful lives using the multi-period excess earnings
+method. Both intangible asset valuations utilized assumptions that the Firm believes a market participant would use to estimate fair values, such as growth and attrition rates, projected fee income as well as related costs to service the relationships, and discount rates. The core deposit and customer relationship intangibles are amortized over a projected period of future cash flows of approximately
+7
+years. Refer to Note 15 for further discussion on other intangible assets.
+Indemnification assets - Shared-loss agreements
+The indemnification assets represent forecasted recoveries from the FDIC associated with the shared-loss assets over the respective shared-loss recovery periods. The indemnification assets were recorded at fair value in other assets on the Consolidated balance sheets on the acquisition date. The fair values of the indemnification assets were estimated based on the timing of the forecasted losses underlying the related allowance for credit losses. The subsequent quarterly remeasurement of the indemnification assets is based on changes in the amount and timing of forecasted losses in the allowance for credit losses associated with the shared-loss assets and is

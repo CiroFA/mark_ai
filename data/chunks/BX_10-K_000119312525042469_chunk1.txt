@@ -1,142 +1,16 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+10-K
+P3Y
+P3Y
+http://fasb.org/us-gaap/2024#RelatedPartyMember
+http://fasb.org/us-gaap/2024#RelatedPartyMember
+false
+FY
+0001393818
+http://fasb.org/us-gaap/2024#UnrealizedGainLossOnInvestments
+http://fasb.org/us-gaap/2024#UnrealizedGainLossOnInvestments
+http://fasb.org/us-gaap/2024#OtherAssets
+http://fasb.org/us-gaap/2024#OtherAssets
+During the period presented, Blackstone also had one share outstanding of each of series I and Series II preferred stock, with par value of each less than one cent.
+This adjustment adds an amount equal to an administrative fee collected on a quarterly basis from certain holders of Blackstone Holdings Partnership Units. The administrative fee is accounted for as a capital contribution under GAAP, but is reflected as a reduction of Other Operating Expenses in Blackstone’s segment presentation.
+Amounts presented are inclusive of both legally enforceable master netting agreements, and financial instruments received or pledged as collateral. Financial instruments received or pledged as collateral offset derivative counterparty risk exposure, but do not reduce net balance sheet exposure.
+The Issuers have issued long-term borrowings in the form of senior notes (the “Notes”). The Notes are unsecured and unsubordinated obligations of the Issuers. The Notes are fully and unconditionally guaranteed, jointly and severally, by Blackstone, the Guarantors and the Issuers. The guarantees are unsecured and unsubordinated obligations of the Guarantors. Transaction costs related to the issuance of the Notes have been deducted from the Note liability and are being amortized over the life of the Notes. The indentures include covenants, including limitations on the Issuers’ and the Guarantors’ ability to, subject to exceptions, incur indebtedness secured by liens on voting stock or profit participating equity interests of their subsidiaries or merge, consolidate or sell, transfer or lease assets. The indentures also provide for events of default and further provide that the trustee or the holders of not less than 25% in aggregate principal amount of the outstanding Notes may declare the Notes immediately due and payable upon the occurrence and during the continuance of any event of default after expiration of any applicable grace period. In the case of specified events of bankruptcy, insolvency, receivership or reorganization, the principal amount of the Notes and any accrued and unpaid interest on the Notes automatically become due and payable. All or a portion of the Notes may be redeemed at the Issuers’ option in whole or in part, at any time and from time to time, prior to their stated maturity, at the make-whole redemption price set forth in the Notes. If a change of control repurchase event occurs, the holders of the Notes may require the Issuers to repurchase the Notes at a repurchase price in cash equal to 101% of the aggregate principal amount of the Notes repurchased plus any accrued and unpaid interest on the Notes repurchased to,

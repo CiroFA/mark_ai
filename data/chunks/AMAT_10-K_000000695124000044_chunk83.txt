@@ -1,0 +1,44 @@
+the estimated amount of net deferred tax assets that may not be realized.
+Changes in the valuation allowance in each fiscal year were as follows:
+At October 27, 2024, we have state research and development tax credit carryforwards of $
+592
+million, including $
+553
+million of credits that are carried over until exhausted and $
+35
+million that are carried over for
+15
+years and begin to expire in fiscal 2034. It is more likely than not that all tax credit carryforwards, net of valuation allowance, will be utilized.
+We maintain liabilities for uncertain tax positions. These liabilities involve considerable judgment and estimation and are continuously monitored based on the best information available. Gross unrecognized tax benefits are classified as non-current income taxes payable or as a reduction in deferred tax assets.
+A reconciliation of the beginning and ending balances of gross unrecognized tax benefits in each fiscal year is as follows:
+Tax expense for interest and penalties on unrecognized tax benefits for fiscal 2024, 2023 and 2022 was $
+45
+million, $
+34
+million and $
+14
+million, respectively. The income tax liability for interest and penalties for fiscal 2024, 2023 and 2022 was $
+181
+million, $
+136
+million and $
+103
+million, respectively, and was classified as non-current income taxes payable.
+Included in the balance of unrecognized tax benefits for fiscal 2024, 2023 and 2022 are $
+397
+million, $
+386
+million, and $
+388
+million, respectively, of tax benefits that, if recognized, would affect the effective tax rate.
+Our tax returns remain subject to examination by taxing authorities. These include U.S. returns for fiscal 2015 and later years, and foreign tax returns for fiscal 2011 and later years.
+The timing of the resolution of income tax examinations, as well as the amounts and timing of various tax payments that may be part of the settlement process, is highly uncertain. This could cause fluctuations in our financial condition and results of operations. We continue to have ongoing negotiations with various taxing authorities throughout the year, and evaluate all domestic and foreign tax audit issues in the aggregate, along with the expiration of applicable statutes of limitations.
+We believe it is reasonably possible that the amount of gross unrecognized tax benefits related to foreign operations could be reduced by approximately $
+200
+million in the next 12 months as a result of the resolution of tax matters or the lapse of statute of limitations.
+Note 13
+Guarantees, Commitments and Contingencies
+Guarantees
+In the ordinary course of business, we provide standby letters of credit or other guarantee instruments to third parties as required for certain transactions initiated by either us or our subsidiaries. As of October 27, 2024, the maximum potential amount of future payments that we could be required to make under these guarantee agreements was approximately $
+284
+million. We have not recorded any liability in connection with these

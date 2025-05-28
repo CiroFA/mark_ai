@@ -1,0 +1,19 @@
+international data transfers, we could encounter additional costs, complaints, regulatory investigations or fines.
+Beyond impacting the demand for our services, our failure to comply with applicable privacy and data protection laws or regulations could expose us to significant fines and penalties as well as injunctions imposed by regulators, and has in the past and could in the future expose us to legal claims by our merchants, or their buyers, or other relevant stakeholders. Some of these laws, such as the CCPA, permit individual or class action claims for certain alleged violations, increasing the likelihood of such legal claims. Similarly, many of these laws require us to maintain internal and external documentation, such as an online privacy policy, data protection impact assessments, records of processing activities, and other informational pages or documents that disclose or record our practices regarding the collection, processing and disclosure of personal information. If these records or disclosures contain any information that a court or regulator finds to be inaccurate, we could also be exposed to legal or regulatory liability. Any such proceedings or violations could force us to spend money in defense or settlement of these proceedings, result in the imposition of monetary liability or demanding injunctive relief, divert management’s time and attention, increase our costs of doing business and materially adversely affect our reputation.
+We have in the past made, and in the future may make, acquisitions, divestitures and investments, which could divert management’s attention, result in operating difficulties and dilution to our shareholders and otherwise disrupt our operations and adversely affect our business, operating results or financial position.
+From time to time, we evaluate potential acquisitions, divestitures and strategic investment opportunities to support our business initiatives. Any transactions that we enter into could be material to our financial condition and results of operations. Acquisitions, divestitures and investments involve a number of risks, such as:
+•
+diversion of management time and focus from operating our business;
+•
+use of resources that are needed in other areas of our business;
+27
+Table of C
+ontents
+•
+in the case of an acquisition:
+◦
+implementation or remediation of controls, procedures and policies of the acquired company;
+◦
+difficulty integrating the operations of the acquired company;
+◦
+coordination of product, engineering and sales and marketing functions, as applicable, including difficulties and additional expenses associated with supporting legacy services and products and hosting infrastructure of the acquired company, as applicable, difficulties associated with supporting new products or services, difficulty converting the customers of the acquired company onto our platform, as applicable, and difficulties associated with contract terms, including disparities in the revenues, licensing, support

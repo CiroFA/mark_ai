@@ -1,0 +1,56 @@
+following net notional volumes:
+22
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(unaudited)
+At March 31, 2025 and December 31, 2024, NEE had interest rate contracts with a net notional amount of approximately $
+39.5
+billion and $
+35.2
+billion, respectively, and foreign currency contracts with a notional amount of approximately $
+1.2
+billion and $
+1.2
+billion, respectively.
+Credit
+-
+Risk
+-
+Related Contingent
+Features
+– Certain derivative instruments contain credit-risk-related contingent features including, among other things, the requirement to maintain an investment grade credit rating from specified credit rating agencies and certain financial ratios, as well as credit-related cross-default and material adverse change triggers. At March 31, 2025 and December 31, 2024, the aggregate fair value of NEE's derivative instruments with credit-risk-related contingent features that were in a liability position was approximately $
+4.8
+billion ($
+12
+million for FPL) and $
+3.8
+billion ($
+11
+million for FPL), respectively.
+If the credit-risk-related contingent features underlying these derivative agreements were triggered, certain subsidiaries of NEE, including FPL, could be required to post collateral or settle contracts according to contractual terms which generally allow netting of contracts in offsetting positions. Certain derivative contracts contain multiple types of credit-related triggers. To the extent these contracts contain a credit ratings downgrade trigger, the maximum exposure is included in the following credit ratings collateral posting requirements. If FPL's and NEECH's credit ratings were downgraded to BBB/Baa2 (a three-level downgrade for FPL and a one level downgrade for NEECH from the current lowest applicable rating), applicable NEE subsidiaries would be required to post collateral such that the total posted collateral would be approximately $
+340
+million ($
+10
+million at FPL) at March 31, 2025 and $
+500
+million (
+none
+at FPL) at December 31, 2024.
+If FPL's and NEECH's credit ratings were downgraded to below investment grade, applicable NEE subsidiaries would be required to post additional collateral such that the total posted collateral would be approximately $
+2.5
+billion ($
+35
+million at FPL) at March 31, 2025 and $
+2.4
+billion ($
+25
+million at FPL) at December 31, 2024. Some derivative contracts do not contain credit ratings downgrade triggers, but do contain provisions that require certain financial measures be maintained and/or have credit-related cross-default triggers. In the event these provisions were triggered, applicable NEE subsidiaries could be required to post additional collateral of up to approximately $
+2.0
+billion ($
+85
+million at FPL) at March 31, 2025 and $
+1.4
+billion ($
+70
+million at FPL) at December 31, 2024.
+Collateral related to derivatives, including amounts posted for margin, current exposures and future performance with exchanges and

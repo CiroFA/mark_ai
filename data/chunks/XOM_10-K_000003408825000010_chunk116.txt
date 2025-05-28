@@ -1,0 +1,38 @@
+ASC 606 and outside the scope of ASC 606. Revenue outside the scope of ASC 606 primarily relates to physically settled commodity contracts accounted for as derivatives. Contractual terms, credit quality, and type of customer are generally similar between contracts within the scope of ASC 606 and those outside it.
+Geographic
+112
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 19.
+Income and Other Taxes
+The above provisions for deferred income taxes include net benefits of $
+28
+million in 2024, and net expenses of $
+24
+million and $
+30
+million in 2023 and 2022, respectively, related to changes in tax laws and rates.
+Additional European Taxes on the Energy Sector.
+On October 6, 2022, European Union (“EU”) Member States adopted an EU Council Regulation which, along with other measures, introduced a new tax described as an emergency intervention to address high energy prices. This regulation imposed a mandatory tax on certain companies active in the crude petroleum, coal, natural gas, and refinery sectors. The regulation required EU Member States to levy a minimum 33 percent tax on in-scope companies’ 2022 and/or 2023 “surplus profits", defined in the regulation as taxable profits exceeding 120 percent of the annual average profits during the 2018-2021 period. EU Member States were required to implement the tax, or an equivalent national measure, by December 31, 2022. The enactment of these regulations by EU Member States resulted in an after-tax charge of approximately $
+1.8
+billion to the Corporation’s fourth-quarter 2022 results and approximately $
+0.2
+billion in 2023, mainly reflected in the line “Income tax expense (benefit)” on the Consolidated Statement of Income.
+113
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The reconciliation between income tax expense (credit) and a theoretical U.S. tax computed by applying a rate of
+21
+percent for 2024, 2023, and 2022 is as follows:
+114
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Deferred income taxes reflect the impact of temporary differences between the amount of assets and liabilities recognized for financial reporting purposes and such amounts recognized for tax purposes.
+Deferred tax liabilities/(assets) are comprised of the following at December 31:
+In 2024, asset valuation allowances of $
+2,516
+million decreased by $
+125
+million and included net provisions of $
+41
+million and foreign currency and other net benefits of $
+166
+million.
+The Corporation’s undistributed earnings from subsidiary companies outside the United States include amounts that have been retained to fund prior and future capital project expenditures. Deferred income taxes have not been recorded for potential future tax obligations, such as foreign withholding tax and state tax, as these undistributed earnings are expected to be indefinitely reinvested for the foreseeable future. As of December 31, 2024, it is not practicable to estimate the unrecognized deferred tax liability. However, unrecognized deferred taxes on remittance of

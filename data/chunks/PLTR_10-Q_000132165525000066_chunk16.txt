@@ -1,0 +1,41 @@
+market purchases, in privately negotiated transactions, or by other means, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act in accordance with applicable securities laws and other restrictions. The timing and the amount of stock repurchases under the Share Repurchase Program have been, and in the future will be, determined by the Company’s management, based on its evaluation of factors including business and market conditions, corporate and regulatory requirements, and other considerations. The Share Repurchase Program does not obligate the Company to repurchase any specific number of shares and may be discontinued at any time.
+14
+Table of contents
+Palantir Technologies Inc.
+Notes to Unaudited Condensed Consolidated Financial Statements
+During the three months ended March 31, 2025, the Company repurchased and subsequently retired
+0.2
+million shares of its Class A common stock for an aggregate amount, including commissions, of $
+18.0
+million under the Share Repurchase Program. As of March 31, 2025, approximately $
+917.8
+million of the originally authorized amount under the Share Repurchase Program remained available for future repurchases.
+9.
+Stock-Based Compensation
+Stock Options and SARs
+The following table summarizes stock option and stock appreciation right (“SAR”) activity for the three months ended March 31, 2025 (in thousands, except per share amounts and years):
+As of March 31, 2025, the total unrecognized stock-based compensation expense related to options and SARs outstanding was $
+477.1
+million and $
+53.2
+million, respectively, which is expected to be recognized over a weighted-average service period of
+six
+and
+seven years
+, respectively. The weighted-average grant date fair value of SARs granted during the three months ended March 31, 2025 was $
+15.92
+per share.
+Time-Vesting SARs
+The Company grants SARs that vest over explicit service periods of up to
+nine years
+and are exercisable at expiration, during a limited window, if the Company’s stock price reaches a certain threshold (“Time-Vesting SARs”). Time-Vesting SARs have exercise prices of between $
+39
+–$
+70
+and maximum appreciation values of between $
+60
+–$
+180
+.
+The Company determined the grant-date fair value of Time-Vesting SARs granted during the three months ended March 31, 2025 using a Black-Scholes option-pricing model, calculated as the difference in fair value between a SAR with a strike price at the exercise price and a SAR with the strike price at its maximum appreciation, using the following assumptions:
+The expected volatility rate is based on a combination of the Company’s implied and historical volatility, and the historical volatility of comparable publicly-traded companies. The expected term represents the period of time the SARs are expected to be outstanding. The risk-free interest rate is based on the U.S. Treasury zero coupon issues in effect at the time of grant for periods corresponding with the expected

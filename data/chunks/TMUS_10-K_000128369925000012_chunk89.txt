@@ -1,0 +1,21 @@
+communications services), device insurance administrators, wholesale partners, other carriers and third-party retail channels. Accounts receivable are presented on our Consolidated Balance Sheets at their amortized cost basis (i.e., the receivables’ unpaid principal balance (“UPB”) as adjusted for any written-off amounts relating to impairment), net of the allowance for credit losses. We have an arrangement to sell certain of our customer service accounts receivable on a revolving basis, which are treated as sales of financial assets. See
+Note
+5
+– Sales of Certain Receivables
+for further information.
+Equipment Installment Plan Receivables
+We offer certain customers the option to pay for their devices and other purchases in installments, generally over a period of
+24
+months, using an EIP. EIP receivables are presented on our Consolidated Balance Sheets at their amortized cost basis (i.e., the receivables’ UPB as adjusted for any written-off amounts due to impairment and unamortized discounts), net of the allowance for credit losses. At the time of an installment sale, we impute a discount for interest if the term exceeds 12 months as there is no stated rate of interest on the receivables. The receivables are recorded at their present value, which is determined by discounting expected future cash payments at the imputed interest rate. This adjustment results in a discount or reduction in the transaction price of the contract with a customer, which is allocated to the performance obligations of the arrangement such as Service and Equipment revenues on our Consolidated Statements of Comprehensive Income. The imputed discount rate reflects a current market interest rate and includes a component for estimated credit risk underlying the EIP receivable, reflecting the
+60
+Index for Notes to the Consolidated Financial Statements
+estimated credit worthiness of the customer. The imputed discount on receivables is amortized over the financed installment term using the effective interest method and recognized as Other revenues on our Consolidated Statements of Comprehensive Income.
+The current portion of the EIP receivables is included in Equipment installment plan receivables, net and the long-term portion of the EIP receivables is included in Equipment installment plan receivables due after one year, net on our Consolidated Balance Sheets. We have an arrangement to sell certain EIP receivables on a revolving basis, which are treated as sales of financial assets. See
+Note
+5
+– Sales of Certain Receivables
+for further information. Additionally, certain of our EIP receivables included on our Consolidated Balance Sheets secure our asset-backed notes (“ABS Notes”). See
+Note 9 – Debt
+for further information.
+Allowance for Credit Losses
+We maintain an allowance for credit losses by applying an expected credit loss model. Each period, management assesses the appropriateness of the level of allowance for credit losses by considering credit risk inherent within each

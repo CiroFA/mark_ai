@@ -1,0 +1,19 @@
+asset or financial liability (See Note 3).
+Derivatives' Impact on Consolidated Statement of Income
+The following table summarizes the impact of the company’s derivatives on the consolidated statement of income:
+* The gains (losses) on balance sheet items are offset by gains (losses) recorded on the underlying hedged assets and liabilities. Accordingly, the gains (losses) for the derivatives and the underlying hedged assets and liabilities related to debt items are recorded in the consolidated statement of income as interest expense-net. Other balance sheet items and anticipated net income gains (losses) are generally recorded in the consolidated statement of income as other income (expenses)-net.
+12
+The amounts of gain or loss recognized in accumulated other comprehensive income (loss) and reclassified to the consolidated statement of income was not material for the three months ended March 31, 2025 and 2024. Net impacts expected to be reclassified to earnings during the next twelve months are also not material.
+5.
+Fair Value Disclosures
+The fair value hierarchy prioritizes the inputs to valuation techniques used to measure fair value into three broad levels as follows:
+Level 1 – quoted prices in active markets for identical assets or liabilities
+Level 2 – quoted prices for similar assets and liabilities in active markets or inputs that are observable
+Level 3 – inputs that are unobservable (for example cash flow modeling inputs based on assumptions)
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The following table summarizes assets and liabilities measured at fair value on a recurring basis:
+* Investments and securities are recorded in prepaid and other current assets and other long-term assets in the company's condensed consolidated balance sheet.
+Level 1 investments and securities are marketable securities traded on an exchange. Level 2 investments are based on market prices obtained from independent brokers or determined using quantitative models that use as their basis readily observable market parameters that are actively quoted and can be validated through external sources, including third-party pricing services, brokers and market transactions. Level 3 investments and securities consist of a venture fund. For the valuation, Linde uses the net asset value received as part of the fund's quarterly reporting, which for the most part is not based on quoted prices in active markets. In order to reflect current market conditions, Linde proportionally adjusts by observable market data (stock exchange prices) or current transaction prices.
+Changes in level 3 investments and securities were immaterial.
+The fair value of cash and cash equivalents, short-term debt, accounts receivable-net, and accounts payable approximate carrying value because of the short-term maturities of these instruments.
+The fair value of long-term debt is estimated based on the quoted market prices for the same or similar issues. Long-term debt is

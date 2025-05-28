@@ -1,0 +1,34 @@
+inclusion would have had an anti-dilutive effect.
+Note 15.
+Leases
+We lease real estate, fleet, and equipment for use in our operations. Our leases generally have lease terms of
+1
+to
+30
+years, some of which include options to terminate or extend leases for up to
+5
+to
+10
+years or on a month-to-month basis. We include options that are reasonably certain to be exercised as part of the determination of lease terms. We may negotiate termination clauses in anticipation of any changes in market conditions, but generally these termination options have not been exercised. Residual value guarantees are generally not included within our operating leases with the exception of some fleet leases. In addition to base rent payments, the leases may require us to pay directly for taxes and other non-lease components, such as insurance, maintenance and other operating expenses, which may be dependent on usage or vary month-to-month. Variable lease payments amounted to $
+517
+million in 2024, $
+444
+million in 2023 and $
+536
+million in 2022. We elected the practical expedient to not separate non-lease components from lease components in calculating the amounts of ROU assets and lease liabilities for all underlying asset classes.
+We determine if an arrangement is a lease at inception of the contract and we perform the lease classification test as of the lease commencement date. ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we use our estimated incremental borrowing rate based on the information available at commencement date in determining the present value of future payments.
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+(a)
+Reflects lease payments due within 12 months subsequent to the balance sheet date.
+Note 16.
+Contingencies and Certain Commitments
+We and certain of our subsidiaries are subject to numerous contingencies arising in the ordinary course of business, including tax and legal contingencies, guarantees and indemnifications. The following outlines our legal contingencies, guarantees and indemnifications. For a discussion of our tax contingencies, see
+Note 5D
+.
+A. Legal Proceedings
+Our legal contingencies include, but are not limited to, the following:
+•
+Patent litigation, which typically involves challenges to the coverage and/or validity of patents on various products, processes or dosage forms. An adverse outcome could result in loss of patent protection for a product, a significant loss of revenues from a product or impairment of the value of associated assets. We are the plaintiff in the majority of these actions.
+•
+Product liability and other product-related litigation related to current or former

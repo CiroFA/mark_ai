@@ -1,0 +1,18 @@
+in debt securities that are available to meet the Company’s current operational needs are classified as current assets and the securities that are not available for current operational needs are classified as noncurrent assets on the consolidated balance sheets.
+The debt securities are carried at fair value, with unrealized gains and losses, net of tax, recorded as a separate component of accumulated other comprehensive income (loss) on the consolidated statements of changes in equity.  Net realized gains and losses on debt securities are recognized in investment income on the consolidated statements of operations.  The specific identification method is used to determine realized gains and losses.
+The Company evaluates its debt securities for impairment on an ongoing basis.  When there has been a decline in fair value of a debt security below the amortized cost basis, the Company recognizes an impairment if: (1) it has the intent to sell the security; (2) it is more likely than not that it will be required to sell the security before recovery of the amortized cost basis; or (3) it does not expect to recover the entire amortized cost basis of the security.  The credit loss component of the impairment is recognized as an allowance and recorded in other income (expense), net on the consolidated statements of
+MASTERCARD 2024 FORM 10-K
+74
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+operations while the non-credit related loss remains in accumulated other comprehensive income (loss) until realized from a sale or subsequent impairment.
+•
+Held-to-maturity securities:
+◦
+Time deposits - The Company classifies time deposits with original maturities greater than three months as held-to-maturity.  Held-to-maturity securities that mature within one year are classified as current assets within investments on the consolidated balance sheets while held-to-maturity securities with maturities of greater than one year are classified as other assets.  Time deposits are carried at amortized cost on the consolidated balance sheets and are intended to be held until maturity.
+Equity investments -
+The Company holds equity securities of publicly traded and privately held companies.
+•
+Marketable equity securities - Marketable equity securities are strategic investments in publicly traded companies and are measured at fair value using quoted prices in their respective active markets with changes recorded through gains (losses) on equity investments, net on the consolidated statements of operations.  Marketable equity securities that are expected to be held as part of the Company’s long-term investment strategy are classified in other assets on the consolidated balance sheets.
+•
+Nonmarketable equity investments - The Company’s nonmarketable equity investments, which are reported in other assets on the consolidated balance sheets, include strategic investments in privately held companies without readily determinable

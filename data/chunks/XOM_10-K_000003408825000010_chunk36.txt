@@ -1,0 +1,15 @@
+the Corporation and report cybersecurity incidents to appropriate levels of management, including senior management, and the Audit Committee or Board of Directors, based on potential impact. The Corporation conducts annual cybersecurity awareness training and routinely tests cybersecurity awareness and business preparedness for response and recovery, which are developed based on real-world threats.
+In addition, the Corporation exchanges threat information with governmental and industry groups and proactively engages independent, third-party cybersecurity experts to test, evaluate, and recommend improvements on the effectiveness and resiliency of its cybersecurity program through penetration testing, breach assessments, regular cybersecurity incident drill testing, threat information sharing, and industry benchmarking.
+The Corporation takes a risk-based approach with respect to its third-party service providers, tailoring processes according to the nature and sensitivity of the data or systems accessed by such third-party service providers and performing additional risk screenings and procedures, as appropriate.
+As of the date of this report, we have not identified any risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected, or are reasonably likely to materially affect the Corporation, including our business strategy, results of operations, or financial condition.
+While the Corporation believes its cybersecurity program to be appropriate for managing constantly evolving cybersecurity risks, no program can fully protect against all possible adverse events. For additional information on these risks and potential consequences if the measures we are taking prove to be insufficient or if our proprietary data is otherwise not protected, see "
+Item 1A
+. Risk Factors: Operational and Other Factors -- Cybersecurity” in this report.
+7
+Information with regard to oil and gas producing activities follows:
+1. Disclosure of Reserves
+A. Summary of Oil and Gas Reserves at Year-End 2024
+The table below summarizes the oil-equivalent proved reserves in each geographic area and by product type for consolidated subsidiaries and equity companies. Natural gas is converted to an oil-equivalent basis at six billion cubic feet per one million barrels. The Corporation has reported proved reserves on the basis of the average of the first-day-of-the-month price for each month during the last 12-month period. No major discovery or other favorable or adverse event has occurred since December 31, 2024 that would cause a significant change in the estimated proved reserves as of that date.
+8
+In the preceding reserves information, consolidated subsidiary and equity company reserves are reported separately. However, the Corporation operates its business with the same view of equity company reserves as it has for reserves from consolidated subsidiaries.
+The Corporation anticipates several projects will come

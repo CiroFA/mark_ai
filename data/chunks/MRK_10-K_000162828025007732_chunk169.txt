@@ -1,0 +1,15 @@
+milestones and royalty payments on future product sales. If the transaction is accounted for as a business combination, the fair value of contingent consideration liabilities is determined at the acquisition date using unobservable inputs. These inputs include the estimated amount and timing of projected cash flows, the probability of success (achievement of the contingent event) and the risk-adjusted discount rate used to present value the probability-weighted cash flows. Subsequent to the acquisition date, at each reporting period until the contingency is resolved, the contingent consideration liability is remeasured at current fair value with changes (either expense or income) recorded in earnings. Significant events that increase or decrease the probability of achieving development and regulatory milestones or that increase or decrease projected cash flows will result in corresponding increases or decreases in the fair values of the related contingent consideration obligations.
+Research and Development —
+Research and development is expensed as incurred. Nonrefundable advance payments for goods and services that will be used in future research and development activities are expensed when the activity has been performed or when the goods have been received rather than when the payment is made. Research and development expenses include restructuring costs and IPR&D impairment charges. In addition, research and development expenses include expense or income related to changes in the estimated fair value measurement of liabilities for contingent consideration associated with IPR&D assets. Research and development expenses also include upfront and milestone payments related to asset acquisitions and licensing transactions involving clinical development programs that have not yet received regulatory approval.
+Collaborative Arrangements —
+Merck has entered into collaborative arrangements that provide the Company with varying rights to develop, produce and market products together with its collaborative partners. When Merck is the principal on sales transactions with third parties, the Company recognizes sales, cost of sales and selling, general and administrative expenses on a gross basis. Profit sharing amounts it pays to its collaborative partners are recorded within
+Cost of sales
+. When the collaborative partner is the principal on sales transactions with third parties, the Company records profit sharing amounts received from its collaborative partners as alliance revenue
+82
+Table of Content
+s
+(within
+Sales
+). Alliance revenue is recorded net of cost of sales and includes an adjustment to share commercialization costs between the partners in accordance with the collaboration agreement. The adjustment is determined by comparing the commercialization costs Merck has incurred directly and reported within
+Selling, general and administrative
+expenses with the costs the collaborative partner has incurred. Research and development costs Merck incurs

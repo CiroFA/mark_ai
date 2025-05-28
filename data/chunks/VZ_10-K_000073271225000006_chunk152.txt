@@ -1,0 +1,32 @@
+presented above in Net other comprehensive income (loss) are net of taxes. The amounts reclassified to net income related to unrealized gain (loss) on cash flow hedges and unrealized gain (loss) on fair value hedges in the table above are included in Other income (expense), net and Interest expense in our consolidated statements of income. See Note 9 for additional information. The amounts reclassified to net income related to unrealized gain (loss) on marketable securities in the table above are included in Other income (expense), net in our consolidated statements of income. The amounts reclassified to net income related to defined benefit pension and postretirement plans in the table above are included in Other income (expense), net in our consolidated statements of income. See Note 11 for additional information.
+104
+Table of
+Contents
+The following tables provide additional financial information related to our consolidated financial statements:
+Income Statement Information
+Balance Sheet Information
+As of December 31, 2024 and 2023, Property, plant and equipment includes approximately $
+3.3
+billion and $
+3.8
+billion, respectively, of additions that have not yet been paid.
+105
+Table of
+Contents
+Cash Flow Information
+Supplier Finance Program
+We maintain a voluntary supplier finance program (SFP) with a financial institution which provides certain suppliers the option, at their sole discretion, to participate in the program and sell their receivables due from Verizon to the financial institution on a non-recourse basis. The eligible suppliers negotiate the terms directly with the financial institution and we have no involvement in establishing those terms nor are we a party to these agreements.
+Our payments associated with the invoices from the suppliers participating in the SFP are made to the financial institution according to the original invoice terms generally at 90 days from the invoice date and for the original invoice amount. No additional payments are exchanged between Verizon and the financial institution related to the SFP. Verizon does not pledge any assets nor provide any guarantees to the financial institution in connection with the SFP. The SFP can be terminated by Verizon or the financial institution with a
+60-day
+notice period.
+The following table presents the confirmed obligations in the SFP and the related activities:
+Confirmed obligations outstanding related to suppliers participating in the SFP are recorded within Accounts payable and accrued liabilities in our consolidated balance sheets and the associated payments are reflected in the operating activities section of our consolidated statements of cash flows. As of
+December 31, 2024 and 2023
+, $
+772
+million and $
+817
+million, respectively, remained as confirmed
+obligations outstanding related to suppliers
+participating in the SFP.
+In the ordinary course of business, Verizon is involved in various litigation and regulatory proceedings at the state and federal level. Where it

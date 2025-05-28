@@ -1,0 +1,25 @@
+investee;
+•
+a significant adverse change in the general market condition of either the geographical area or the industry in which the investee operates;
+•
+a bona fide offer to purchase, an offer by the investee to sell or a completed auction process for the same or similar investment for an amount less than the carrying amount of that investment; and
+•
+factors that raise significant concerns about the investee’s ability to continue as a going concern, such as negative cash flows from operations, working capital deficiencies or noncompliance with statutory capital requirements or debt covenants.
+When the qualitative assessment indicates that the equity security is impaired, its fair value is determined. If the fair value of the investment is less than its carrying value, the investment is written down to fair value through earnings.
+Below is the carrying value of non-marketable equity securities measured using the measurement alternative at December 31, 2024 and 2023:
+Below are amounts recognized in earnings and life-to-date amounts for non-marketable equity securities measured using the measurement alternative:
+(1)     See Note 26 for additional information on these nonrecurring fair value measurements.
+A similar impairment analysis is performed for non-marketable equity securities carried at cost. For the years ended December 31, 2024 and 2023
+, there was
+no
+i
+mpairment loss recognized in earnings for non-marketable equity securities carried at cost.
+Equity Method Investments
+Management assesses equity method investments that have fair values that are less than their respective carrying values for other-than-temporary impairment (OTTI). Fair value is measured as price multiplied by quantity if the investee has publicly listed securities. If the investee is not publicly listed, other methods are used (see Note 26).
+For impaired equity method investments that Citi plans to sell prior to recovery of value or would more-likely-than-not be required to sell, with no expectation that the fair value will recover prior to the expected sale date, the full impairment is recognized as OTTI in
+Other revenue
+regardless of severity and duration. The measurement of the OTTI does not include partial projected recoveries subsequent to the balance sheet date.
+208
+For impaired equity method investments that management does not plan to sell and is not more-likely-than-not to be required to sell prior to recovery of value, the evaluation of whether an impairment is other-than-temporary is based on (i) whether and when an equity method investment will recover in value and (ii) whether the investor has the intent and ability to hold that investment for a period of time sufficient to recover the value. The determination of whether the impairment is considered other-than-temporary considers the following indicators:
+•
+the cause of the impairment and the financial condition and near-term prospects of the issuer, including any specific events that may influence the

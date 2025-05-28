@@ -1,0 +1,43 @@
+a fixed capital conservation buffer requirement of
+2.5
+% that is applicable to JPMorgan Chase Bank, N.A. JPMorgan Chase Bank, N.A. is not subject to the GSIB surcharge.
+(d)
+Represents requirements for bank holding companies pursuant to regulations issued by the Federal Reserve.
+(e)
+Represents requirements for JPMorgan Chase Bank, N.A. pursuant to regulations issued under the FDIC Improvement Act.
+The following table presents the leverage-based regulatory capital ratio requirements and well-capitalized ratios to which the Firm and JPMorgan Chase Bank, N.A. were subject as of December 31, 2024 and 2023.
+Note: The table above is as defined by the regulations issued by the Federal Reserve, OCC and FDIC and to which the Firm and JPMorgan Chase Bank, N.A. are subject.
+(a)
+Represents minimum SLR requirement of
+3.0
+%, as well as supplementary leverage buffer requirements of
+2.0
+% and
+3.0
+% for BHC and JPMorgan Chase Bank, N.A., respectively.
+(b)
+The Federal Reserve's regulations do not establish well-capitalized thresholds for these measures for BHCs.
+CECL Regulatory Capital Transition
+Beginning January 1, 2022, the $
+2.9
+billion CECL capital benefit, provided by the Federal Reserve in response to the COVID-19 pandemic, is being phased out at 25% per year over a three-year period. As of December 31, 2024 and 2023, the Firm’s CET1 capital reflected the remaining benefit of $
+720
+million and $
+1.4
+billion, respectively, associated with the CECL capital transition provisions.
+Similarly, as of January 1, 2024, the Firm has phased out 75% of the other CECL capital transition provisions which impacted Tier 2 capital, adjusted average assets, total leverage exposure and RWA, as applicable.
+The following tables present risk-based capital metrics under both the Basel III Standardized and Basel III Advanced approaches and leverage-based capital metrics for JPMorgan Chase & Co. and JPMorgan Chase Bank, N.A. As of December 31, 2024 and 2023, JPMorgan Chase & Co. and JPMorgan Chase Bank, N.A. were well-capitalized and met all capital requirements to which each was subject.
+(a)
+The capital metrics reflect the CECL capital transition provisions.
+(b)
+Includes the impacts of certain assets associated with First Republic to which the Standardized approach has been applied as permitted by the transition provisions in the U.S. capital rules.
+(a)
+The capital metrics reflect the CECL capital transition provisions.
+(b)
+Adjusted average assets, for purposes of calculating the leverage ratios, includes quarterly average assets adjusted for on-balance sheet assets that are subject to deduction from Tier 1 capital, predominantly goodwill, inclusive of estimated equity method goodwill, and other intangible assets.
+Notes to consolidated financial statements
+Note 28 –
+Off–balance sheet lending-related
+financial instruments, guarantees, and
+other commitments
+JPMorganChase provides lending-related financial instruments (e.g., commitments and guarantees) to address the financing needs

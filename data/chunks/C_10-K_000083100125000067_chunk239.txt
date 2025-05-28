@@ -1,0 +1,39 @@
+as well as policy statements of the federal bank regulatory agencies that indicate that banking organizations should generally pay dividends out of current operating earnings. Citigroup received $
+5.5
+billion and $
+16.3
+billion in dividends indirectly from Citibank through its holding company during 2024 and 2023, respectively.
+237
+21.
+CHANGES IN ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS) (AOCI)
+Changes in each component of Citigroup’s
+Accumulated other comprehensive income (loss)
+were as follows:
+(1)
+Reflects the after-tax valuation of Citi’s fair value option liabilities. See “Market Valuation Adjustments” in Note 26.
+(2)
+Primarily driven by Citi’s pay floating/receive fixed interest rate swap programs that hedge certain floating rates on assets.
+(3)
+Primarily reflects adjustments based on the quarterly actuarial valuations of the Company’s significant pension and postretirement plans, annual actuarial valuations of all other plans and amortization of amounts previously recognized in other comprehensive income.
+(4)
+Primarily reflects the movements in (by order of impact) the Mexican peso, Brazilian real, euro, Egyptian pound, Chilean peso, Japanese yen and South Korean won against the U.S. dollar and changes in related tax effects and hedges for the year ended December 31, 2024. Primarily reflects the movements in (by order of impact) the Mexican peso, Polish zloty, euro, Brazilian real, Russian ruble and Japanese yen against the U.S. dollar and changes in related tax effects and hedges for the year ended December 31, 2023. Primarily reflects the movements in (by order of impact) the Indian rupee, South Korean won, euro, Chinese yuan, Russian ruble, Japanese yen and British pound sterling against the U.S. dollar and changes in related tax effects and hedges for the year ended December 31, 2022. Amounts recorded in the CTA component of
+AOCI
+remain in
+AOCI
+until the sale or substantial liquidation of the foreign entity, at which point such amounts related to the foreign entity are reclassified into earnings.
+(5)
+December 31, 2022 reflects a reduction from an approximate $
+470
+million (after-tax) ($
+620
+million pretax) CTA loss (net of hedges) recorded in June 2022, associated with the closing of Citi’s sale of its consumer banking business in Australia (see Note 2). The reduction from
+AOCI
+had a neutral impact on Citi’s CET1 Capital.
+(6)
+Reflects the change in the liability for future policyholder benefits for certain long-duration life-contingent annuity contracts that are issued by a regulated Citi insurance subsidiary in Mexico and reported within Legacy Franchises. The amount reflects the change in the liability after discounting using an upper-medium-grade fixed income instrument yield that reflects the duration characteristics of the liability. The balance of the liability for future policyholder benefits, which is recorded within
+Other liabilities
+, for this insurance subsidiary was approximately $
+413
+million and $
+557
+million at

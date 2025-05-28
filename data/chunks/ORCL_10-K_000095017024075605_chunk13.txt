@@ -1,0 +1,16 @@
+which is engineered to enable partners to control the commercial and customer experience to address their specific market needs for cloud services; and
+•
+Oracle Roving Edge Infrastructure, which is designed to enable customers to access cloud computing and storage services at the edge of networks and in generally disconnected locations in order to accelerate deployment of cloud workloads outside of the data center.
+9
+Table of Contents
+Index to Financial Statements
+Oracle Autonomous Database
+Oracle Autonomous Database is designed to deliver performance and scale for enterprise database workloads with automated database operations and policy- and machine learning-driven optimization by combining certain Oracle infrastructure technologies, including the Oracle Database, OCI, Oracle Exadata, and native machine learning capabilities, among others. Oracle Autonomous Database is designed to be self-driving, automating routine database administration tasks, including maintenance, tuning, patching, scaling, security and backup. Oracle Autonomous Database is engineered to lower labor costs and reduce human error while using machine learning-driven diagnostics for fault prediction and error handling and is also engineered to provide automatic threat detection and remediation. Oracle Autonomous Database is designed to enable on-demand, automatic scaling of database resources combined with consumption-based pricing in order to help organizations lower costs by paying only for resources used. The integration of Oracle Autonomous Database with other Oracle Cloud services, such as Java Cloud and the Oracle APEX low-code service, along with open interfaces and integrations, is designed to provide developers with a modern, open platform to develop new and innovative cloud native applications.
+For analytics workloads, Oracle Autonomous Database is designed to provide customers with easy-to-use analytics tools and machine learning capabilities that are accelerated using Oracle Exadata’s scale-out infrastructure and work with Oracle Analytics Cloud and third-party analytics tools. We believe Oracle Autonomous Database’s built-in developer capabilities and automation will enable organizations to:
+•
+quickly deploy new data marts and data warehouses;
+•
+move existing ones to the cloud; and
+•
+create data lake houses.
+All of these capabilities are designed to enable organizations to gain new insights into customer behavior, more accurately anticipate future demand, align workforce deployment with business activity forecasts and accelerate the pace of operations, among other benefits. For transaction processing workloads, Oracle Autonomous Database is designed to enable organizations to safely run a mix of high-performance transactions of ranging complexity. It is also designed to enable organizations to efficiently support dynamic workloads, conduct real-time analysis of transactional data and lower administration costs. Oracle Autonomous Database is available on OCI for

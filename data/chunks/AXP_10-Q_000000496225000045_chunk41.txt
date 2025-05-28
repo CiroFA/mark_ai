@@ -1,0 +1,35 @@
+external conditions, emerging portfolio trends, the nature and size of the portfolio, portfolio concentrations, the volume and severity of past due accounts, or management risk actions.
+Lifetime losses for most of our loans and receivables are evaluated at an appropriate level of granularity, including assessment on a pooled basis where financial assets share similar risk characteristics, such as past spend and remittance behaviors, credit bureau scores where available, delinquency status, tenure of balance outstanding, amongst others. Credit losses on accrued interest are measured and presented as part of Reserves for credit losses on the Consolidated Balance Sheets and within the Provisions for credit losses in the Consolidated Statements of Income, rather than reversing interest income.
+For Other loans, we use vintage-based historical performance to estimate expected credit losses over the life of the loan, net of recovery estimates.
+Loans and receivable balances are written off when we consider amounts to be uncollectible, which is generally determined by the number of days past due and is typically no later than
+180
+days past due for Card Member loans and receivables and
+120
+days past due for Other loans. Balances in bankruptcy or owed by deceased individuals are generally written off upon notification.
+50
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The following table reflects the range of macroeconomic scenario key variables available to us as of March 31, 2025 and December 31, 2024, respectively, which were used, in conjunction with other inputs, to calculate reserves for credit losses:
+Table 3.1: Key Macroeconomic Variables
+(a)
+Real GDP quarter over quarter percentage change seasonally adjusted to annualized rates.
+Changes in Card Member Loans Reserve for Credit Losses
+Card Member loans reserve for credit losses decreased for the three months ended March 31, 2025. Our reserves for the current period reflect the quality of our premium customer base and the assumptions about the macroeconomic outlook available to us as of quarter-end.
+Card Member loans reserve for credit losses increased for the three months ended March 31, 2024, primarily driven by an increase in loans outstanding and slightly higher delinquencies.
+The following table presents changes in the Card Member loans reserve for credit losses for the three months ended March 31:
+Table 3.2: Changes in Card Member Loans Reserve for Credit Losses
+(a)
+Provisions for principal, interest and fee reserve components. Provisions for credit losses includes reserve build (release) and replenishment for net write-offs.
+(b)
+Principal write-offs are presented less recoveries of $
+221
+million and $
+159
+million for the three months ended March 31, 2025 and 2024, respectively. Recoveries of interest and fees were not significant.
+(c)
+Primarily includes foreign currency translation adjustments.
+51
+Table of Contents
+AMERICAN EXPRESS COMPANY

@@ -1,0 +1,25 @@
+INCOME TAXES
+Our effective tax rates for each of the periods presented are the result of the mix of income earned and losses incurred in various tax jurisdictions that apply a broad range of income tax rates. Our provision for income taxes varied from the tax computed at the U.S. federal statutory income tax rate for the periods presented primarily due to earnings in foreign operations, state taxes, the U.S. research and development tax credit, settlements with tax authorities, the tax effects of stock-based compensation, the Foreign Derived Intangible Income deduction and the tax effect of Global Intangible Low-Taxed Income. Our effective tax rates were
+14.9
+% and
+9.9
+% for the three and nine months ended February 28, 2025, respectively, and
+16.2
+% and
+8.0
+% for the three and nine months ended February 29, 2024, respectively.
+Our net deferred tax assets were $
+9.6
+billion and $
+8.6
+billion as of
+February 28, 2025 and May 31, 2024, respectively. We believe that it is more likely than not that the net deferred tax assets will be realized in the foreseeable future. Realization of our net deferred tax assets is dependent upon our generation of sufficient taxable income in future years in appropriate tax jurisdictions to obtain benefit from the reversal of temporary differences, net operating loss carryforwards and tax credit carryforwards. The amount of net deferred tax assets considered realizable is subject to adjustment in future periods if estimates of future taxable income change.
+Domestically, U.S. federal and state taxing authorities are currently examining income tax returns of Oracle and various acquired entities for years through fiscal 2022. Our U.S. federal income tax returns have been examined for all years prior to fiscal 2013 and, with some exceptions, we are no longer subject to audit for those periods. Our U.S. state income tax returns, with some exceptions, have been examined for all years prior to fiscal 2010, and we are no longer subject to audit for those periods.
+Internationally, tax authorities for numerous non-U.S. jurisdictions are also examining or have examined returns of Oracle and various acquired entities for years through fiscal 2024. Many of the relevant tax years are at an advanced stage in examination or subsequent controversy resolution processes. With some exceptions, we are generally no longer subject to tax examinations in non-U.S. jurisdictions for years prior to fiscal 2001.
+16
+Table of Contents
+ORACLE CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+February 28, 2025
+(Unaudited)
+We are under audit by the IRS and various other domestic and foreign tax authorities with regards to income tax and indirect tax matters and are involved in various challenges and litigation in a number of countries, including, in particular, Australia, Brazil, Canada, Egypt, India, Indonesia, Israel, Italy, Pakistan, Saudi Arabia, South Korea and Spain, where the amounts under controversy are significant.

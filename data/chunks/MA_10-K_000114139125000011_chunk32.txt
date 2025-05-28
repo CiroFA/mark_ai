@@ -1,0 +1,15 @@
+recognition and merchant acceptance than we have.  They may also introduce their own innovative programs, services and capabilities that adversely impact our growth.
+Certain of our competitors to our payment network operate three-party payments systems with direct connections to both merchants and consumers, potentially providing competitive advantages.  If we continue to attract more regulatory scrutiny than these competitors because we operate a four-party system, or we are regulated because of the system we operate in a way in which our competitors are not, we could lose business to these competitors.  See “Business - Competition” in Part I, Item 1.
+Certain of our competitors have developed alternative, e-commerce and/or mobile device payments systems, as well as physical store locations.  A number of these competitors rely principally on technology to support their services that provides cost advantages, and as a result may benefit from lower costs than we do.  Many of these competitors are also able to use existing payment networks without being subject to many of the associated costs.  Moreover, these competitors also occupy various roles in the payments ecosystem that enable them to influence payment choice of other participants.  With respect to government-backed solutions, including those involving DPI, government participation in structures could prevent us from entering into, or substantially restrict us from participating in, particular geographies.  Any of these factors could put us at a competitive disadvantage.
+Our ability to compete may also be affected by regulatory and legislative initiatives, as well as the outcomes of litigation, competition-related regulatory proceedings and both central bank and legislative activity.
+If we are not able to differentiate ourselves from our competitors, drive value for our customers and/or effectively align our resources with our goals and objectives, we may not be able to compete effectively against these threats.  Our failure to compete effectively against any of the foregoing threats could materially and adversely affect our overall business and results of operations.
+Disintermediation from stakeholders both within and outside of the payments value chain could harm our business.
+As the payments industry continues to develop and change, we face disintermediation and related risks, including the following:
+•
+Parties that process our transactions in certain countries (such as merchants and third-party payment processors) may try to eliminate our position as an intermediary in the payment process by switching transactions directly with issuers or processing transactions directly between issuers and acquirers.
+MASTERCARD 2024 FORM 10-K
+29
+PART I
+ITEM 1A. RISK FACTORS
+•
+Payments industry participants may develop their own products and services to support our switched transaction and payments offerings, forcing us to change our pricing or practices for our own offerings in order to compete.  In

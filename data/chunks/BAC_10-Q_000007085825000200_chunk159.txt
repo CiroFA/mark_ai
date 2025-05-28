@@ -1,0 +1,55 @@
+fair value - Non-agency residential of $
+149
+million, Other assets, including MSRs, of $
+2.0
+billion, Loans and leases of $
+82
+million and LHFS of $
+132
+million.
+(3)
+Includes models such as Monte Carlo simulation and Black-Scholes.
+(4)
+Includes models such as Monte Carlo simulation, Black-Scholes and other methods that model the joint dynamics of interest, inflation and foreign exchange rates.
+(5)
+The weighted-average life is a product of changes in market rates of interest, prepayment rates and other model and cash flow assumptions.
+CPR = Constant Prepayment Rate
+CDR = Constant Default Rate
+MMBtu = Million British thermal units
+IR = Interest Rate
+FX = Foreign Exchange
+n/a = not applicable
+Uncertainty of Fair Value Measurements from Unobservable Inputs
+For information on the types of instruments, valuation approaches and the impact of changes in unobservable inputs used in Level 3 measurements, see
+Note 20 – Fair Value Measurements
+to the Consolidated Financial Statements of the Corporation’s 2024 Annual Report on Form 10-K.
+Nonrecurring Fair Value
+The Corporation holds certain assets that are measured at fair value only in certain situations (e.g., the impairment of an asset), and these measurements are referred to herein as nonrecurring.
+The amounts below represent assets still held as of the reporting date for which a nonrecurring fair value adjustment was recorded during the three months ended March 31, 2025 and 2024.
+(1)
+Includes $
+2
+million and $
+3
+million of losses on loans that were written down to a collateral value of zero during the three months ended March 31, 2025 and 2024.
+(2)
+Amounts are included in other assets on the Consolidated Balance Sheet and represent the carrying value of foreclosed properties that were written down subsequent to their initial classification as foreclosed properties. Losses on foreclosed properties include losses recorded during the first 90 days after transfer of a loan to foreclosed properties.
+(3)
+Excludes $
+15
+million and $
+28
+million of properties acquired upon foreclosure of certain government-guaranteed loans (principally FHA-insured loans) at March 31, 2025 and 2024.
+(4)
+Represents the fair value of certain impaired renewable energy investments.
+The table below presents information about significant unobservable inputs utilized in the Corporation's nonrecurring Level 3 fair value measurements during the three months ended March 31, 2025 and the year ended December 31, 2024.
+(1)
+The weighted average is calculated based upon the fair value of the loans.
+(2)
+Represents residential mortgages where the loan has been written down to the fair value of the underlying collateral.
+(3)
+Represents the fair value of certain impaired renewable energy investments.
+n/a = not applicable
+NOTE 15
+Fair Value Option
+The Corporation elects to account for certain financial instruments under the fair value option. For more information on the primary financial instruments for which the fair value option elections have been

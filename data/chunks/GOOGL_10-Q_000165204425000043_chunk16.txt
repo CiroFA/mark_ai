@@ -1,0 +1,44 @@
+gains (losses) are calculated as the difference between the sale price and the initial purchase price for the equity security sold during the period.
+Equity Securities Accounted for Under the Equity Method
+As of December 31, 2024 and March 31, 2025, equity securities accounted for under the equity method had a carrying value of approximately $
+2.0
+billion in each period.
+Our share of gains and losses, including impairments, are included as a component of OI&E, in the Consolidated Statements of Income. See Note 7 for further details on OI&E. Certain of our equity method securities include our investments in VIEs where we are not the primary beneficiary.
+See Note 5 for further details on VIEs.
+15
+Convertible Notes
+As of December 31, 2024 and March 31, 2025, we had investments in convertible notes of $
+2.9
+billion and
+$
+423
+million
+, respectively. During the
+three months ended March 31, 2025
+, we converted
+$
+3.0
+billion
+of our convertible notes into equity securities, which included gains from conversion of
+$
+416
+million. These gains
+were recognized in OI&E within the Consolidated Statement of Income. See
+Note 7
+for further details on OI&E
+.
+Derivative Financial Instruments
+We use derivative instruments to manage risks relating to our ongoing business operations. The primary risk managed is foreign exchange risk. We use foreign currency contracts to reduce the risk that our cash flows, earnings, and investment in foreign subsidiaries will be adversely affected by foreign currency exchange rate fluctuations. We also enter into derivative instruments to partially offset our exposure to other risks and enhance investment returns.
+We recognize derivative instruments in the Consolidated Balance Sheets at fair value and classify the derivatives primarily within Level 2 in the fair value hierarchy. We present our collar contracts (an option strategy comprised of a combination of purchased and written options) at net fair values and present all other derivatives at gross fair values. The accounting treatment for derivatives is based on the intended use and hedge designation.
+Cash Flow Hedges
+We designate foreign currency forward and option contracts (including collars) as cash flow hedges to hedge certain forecasted revenue transactions denominated in currencies other than the United States (U.S.) dollar. These contracts have maturities of
+24
+months
+or les
+s.
+Cash flow hedge amounts included in the assessment of hedge effectiveness are deferred in AOCI and subsequently reclassified to revenue when the hedged item is recognized in earnings. We exclude forward points and time value from our assessment of hedge effectiveness and amortize them on a straight-line basis over the life of the hedging instrument in revenues. The difference between fair value changes of the excluded component and the amount amortized to revenues is recorded in AOCI.
+As of March 31, 2025, the net accumulated
+gain
+on our foreign currency cash flow hedges before tax effect was
+$
+151

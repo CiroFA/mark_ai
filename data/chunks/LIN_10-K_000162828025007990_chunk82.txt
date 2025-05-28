@@ -1,0 +1,22 @@
+entitled to receive in exchange for the goods or services.
+86
+Table of Contents
+Contracts with Customers
+Linde serves a diverse group of industries including healthcare, chemicals and energy, manufacturing, metals and mining, food and beverage, and electronics.
+Industrial Gases
+Within each of the company’s geographic segments for industrial gases, there are
+three
+basic distribution methods: (i) on-site or tonnage; (ii) merchant or bulk liquid; and (iii) packaged or cylinder gases. The distribution method used by Linde to supply a customer is determined by many factors, including the customer’s volume requirements and location. The distribution method generally determines the contract terms with the customer and, accordingly, the revenue recognition accounting practices. Linde's primary products in its industrial gases business are atmospheric gases (oxygen, nitrogen, argon, rare gases) and process gases (hydrogen, helium, carbon dioxide, carbon monoxide, electronic gases, specialty gases, acetylene).  These products are generally sold through one of the
+three
+distribution methods.
+Following is a description of each of the
+three
+industrial gases distribution methods and the respective revenue recognition policies
+:
+On-site.
+Customers that require the largest volumes of product and that have a relatively constant demand pattern are supplied by cryogenic and process gas on-site plants. Linde constructs plants on or adjacent to these customers’ sites and supplies the product directly to customers by pipeline. Where there are large concentrations of customers, a single pipeline may be connected to several plants and customers. On-site product supply contracts generally are total requirement contracts with terms typically ranging from
+10
+-
+20
+years and contain minimum purchase requirements and price escalation provisions. Many of the cryogenic on-site plants also produce liquid products for the merchant market. Therefore, plants are typically not dedicated to a single customer. Additionally, Linde is responsible for the design, construction, operations and maintenance of the plants and our customers typically have no involvement in these activities. Advanced air separation processes also allow on-site delivery to customers with smaller volume requirements.
+The company’s performance obligations related to on-site customers are satisfied over time as customers receive and obtain control of the product. Linde has elected to apply the practical expedient for measuring progress towards the completion of a performance obligation and recognizes revenue as the company has the right to invoice each customer, which generally corresponds with product delivery. Accordingly, revenue is recognized when product is delivered to the customer and the company has the right to invoice the customer in accordance with the contract terms. Consideration in these contracts is generally based on pricing which fluctuates with various price indices. Variable components of

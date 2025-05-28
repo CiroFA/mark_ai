@@ -1,0 +1,19 @@
+and Contingencies
+Loan Portfolio:
+CSB provides a co-branded loan origination program for CSB clients (the Program) with Rocket Mortgage, LLC. Pursuant to the Program, Rocket Mortgage, LLC originates and services First Mortgages and HELOCs for CSB clients. Under the Program, CSB purchases certain First Mortgages and HELOCs that are originated by Rocket Mortgage, LLC. CSB purchased First Mortgages of $
+4.2
+billion and $
+2.9
+billion during 2024 and 2023, respectively. CSB purchased HELOCs with commitments of $
+157
+million and $
+181
+million during 2024 and 2023, respectively.
+The Company’s commitments to extend credit on lines of credit and to purchase First Mortgages are as follows:
+Guarantees and indemnifications:
+Schwab has clients that sell (i.e., write) listed option contracts that are cleared by the Options Clearing Corporation – a clearing house that establishes margin requirements on these transactions. We satisfy the margin requirements of these transactions through pledging certain client securities. For additional information on these pledged securities, refer to Note 18. In connection with its securities lending activities, Schwab is required to provide collateral to certain brokerage clients. The Company satisfies the collateral requirements by providing cash as collateral.
+The Company also provides guarantees to securities clearing houses and exchanges under standard membership agreements, which require members to guarantee the performance of other members. Under the agreements, if another member becomes unable to satisfy its obligations to the clearing houses and exchanges, other members would be required to meet shortfalls. The Company’s liability under these arrangements is not quantifiable and may exceed the amounts it has posted as collateral. The Company also engages third-party firms to clear clients’ futures and options on futures transactions and to facilitate clients’ foreign exchange trading, and has agreed to indemnify these firms for any losses that they may incur from the client transactions introduced to them by the Company. The potential requirement for the Company to make payments under these arrangements is remote. Accordingly,
+no
+liability has been recognized for these guarantees and indemnifications.
+IDA agreement:
+On May 4, 2023, the Company executed the 2023 IDA agreement with the TD Depository Institutions that replaced and superseded the previous agreement dated November 24, 2019, as amended. The 2023 IDA agreement specifies responsibilities, including certain contingent obligations, of the Company going forward. Pursuant to the 2023 IDA agreement, uninvested cash within eligible brokerage client accounts is swept off-balance sheet to deposit accounts at the TD Depository Institutions. Schwab provides recordkeeping and support services to the TD Depository Institutions with respect to the deposit accounts for which Schwab receives an aggregate monthly fee. The Company’s ability to migrate these balances to its

@@ -1,0 +1,18 @@
+customer receivables are those with higher credit risk. Customers may be required to make a down payment on their equipment purchases if their assessed credit risk exceeds established underwriting thresholds. In addition, certain customers within the Subprime category may be required to pay a deposit.
+To determine a customer’s credit profile and assist in determining their credit class, we use a proprietary credit scoring model that measures the credit quality of a customer leveraging several factors, such as credit bureau information and consumer credit risk scores, as well as service and device plan characteristics.
+EIP receivables had a combined weighted-average effective interest rate of
+11.2
+% and
+11.1
+% as of March 31, 2025, and December 31, 2024, respectively.
+The following table summarizes the EIP receivables, including imputed discounts and related allowance for credit losses:
+12
+Index for Notes to the Condensed Consolidated Financial Statements
+Many of our loss estimation techniques rely on delinquency-based models categorized by customer credit class; therefore, delinquency is an important indicator of credit quality in the establishment of our allowance for credit losses for EIP receivables. We manage our EIP receivables portfolio segment using delinquency and customer credit class as key credit quality indicators.
+The following table presents the amortized cost of our EIP receivables by delinquency status, customer credit class and year of origination as of March 31, 2025:
+We estimate credit losses on our EIP receivables segment by applying an expected credit loss model, which relies on historical loss data adjusted for current conditions to calculate default probabilities or an estimate for the frequency of customer default. Our assessment of default probabilities or frequency includes receivables delinquency status, historical loss experience, how long the receivables have been outstanding and customer credit ratings, as well as customer tenure. We multiply these estimated default probabilities by our estimated loss given default, which is the estimated amount of default or the severity of loss.
+As we do for our accounts receivable portfolio segment, we consider the need to adjust our estimate of credit losses on EIP receivables for reasonable and supportable forecasts of economic conditions through monitoring external forecasts and periodic internal statistical analyses.
+The following table presents write-offs of our EIP receivables by year of origination for the three months ended March 31, 2025:
+Activity for the three months ended March 31, 2025 and 2024, in the allowance for credit losses and unamortized imputed discount balances for the accounts receivable and EIP receivables segments were as follows:
+Off-Balance-Sheet Credit Exposures
+We do not have material off-balance-sheet credit exposures as of March 31, 2025. In connection with the sales of certain service accounts receivable and EIP receivables pursuant to the sale

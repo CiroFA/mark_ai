@@ -1,0 +1,15 @@
+automation, power generation and alternative energy systems, and electronic displays. Our infrastructure software solutions help enterprises simplify their information technology environments so they can increase business velocity and flexibility, and enable customers to plan, develop, deliver, automate, manage and secure applications across mainframe, distributed, edge, mobile, and private and hybrid cloud platforms. Our portfolio of infrastructure and security software is designed to modernize, optimize, and secure the most complex private and hybrid cloud environments, enabling scalability, agility, automation, insights, resiliency and security making it easy for customers to run their mission-critical workloads. We also offer mission-critical fibre channel storage area networking (“FC SAN”) products and related software in the form of modules, switches and subsystems incorporating multiple semiconductor products.
+We have two reportable segments: semiconductor solutions and infrastructure software. Our semiconductor solutions segment includes all of our product lines and intellectual property (“IP”) licensing. Our infrastructure software segment includes our private and hybrid cloud, application development and delivery, software-defined edge, application networking and security, mainframe, distributed and cybersecurity solutions, and our FC SAN business.
+Our fiscal year 2024 was a 53-week fiscal year compared to our fiscal year 2023, which was a 52-week fiscal year. The additional week in the first quarter of fiscal year 2024 resulted in higher net revenue, gross margin dollars, research and development expense, and selling general and administrative expense for fiscal year 2024, compared to the corresponding prior year fiscal period.
+Our strategy is focused on technology leadership and category-leading semiconductor and infrastructure software solutions delivering a comprehensive suite of innovative infrastructure technology products to the world’s leading business and government customers. We seek to achieve this through strategic acquisitions of businesses and technologies, as well as extensive internal research and development, to ensure our products retain their technology market leadership. This strategy results in a robust business model designed to drive diversified and sustainable operating and financial results.
+The demand for our products has been affected in the past, and is likely to continue to be affected in the future, by various factors, including the following:
+•
+gain or loss of significant customers;
+•
+general economic and market conditions in the industries and markets in which we compete;
+•
+anticipated or actual demand for AI-related products;
+•
+our distributors’ product inventory and end customer demand;
+•
+the rate at which our present and future customers and end-users adopt our products and technologies in our target markets, including our AI related products, and the rate at which our customers' products that include

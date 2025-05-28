@@ -1,0 +1,32 @@
+liabilities denominated in currencies other than the U.S. dollar (“USD”). The terms of the Company’s derivative contracts are generally
+thirteen months
+or shorter. The derivative assets and liabilities are measured using Level 2 fair value inputs.
+Cash Flow Hedges
+The Company enters into currency forward contracts as cash flow hedges to hedge certain forecasted revenue transactions denominated in currencies other than the USD, primarily the Euro (“EUR”), the British Pound (“GBP”), the Japanese Yen (“JPY”), the Korean Won (“KRW”), the New Taiwan Dollar (“TWD”), and the Indian Rupee (“INR”). The Company also enters into currency forward contracts as cash flow hedges to hedge certain forecasted expense transactions denominated in EUR and the Swiss Franc (“CHF”).
+9
+For these derivatives, the Company reports the unrealized after-tax gain or loss from the hedge as a component of accumulated other comprehensive loss in stockholders’ equity and reclassifies the amount into earnings in the same period in which the hedged transaction affects earnings. The amounts reclassified to revenue and expenses related to the hedged transactions and the ineffective portions of cash flow hedges were
+not material f
+or the three months ended March 31, 2025, and 2024
+.
+Other Derivatives Not Designated as Hedging Instruments
+Other derivatives not designated as hedging instruments consist primarily of forward contracts that the Company uses to hedge intercompany balances and other monetary assets or liabilities denominated in currencies other than the USD, primarily the EUR, GBP, JPY, KRW, CHF, TWD, INR, the Mexican Peso (“MXN”), and the Chinese Yuan (“CNY”).
+These derivative instruments are used to hedge against balance sheet foreign currency exposures. The related gains and losses were as follows (in millions):
+The notional amounts for derivative instruments provide one measure of the transaction volume.
+Total gross notional amounts (in USD) for outstanding derivatives and the aggregate gross fair value at the end of each period were as follows (in millions):
+NOTE 4.
+BALANCE SHEET DETAILS AND OTHER FINANCIAL INFORMATION
+Balance Sheet Details
+The following tables provide details of selected Condensed Consolidated Balance Sheet line items (in millions):
+10
+Supplemental Cash Flow Information
+The following table provides supplemental non-cash investing and financing activities (in millions):
+Restricted Cash
+Amounts included in restricted cash primarily relate to the Company’s insurance programs and certain employee-related benefits.
+The following table provides details of total cash, cash equivalents, and restricted cash as of the periods presented (in millions):
+11
+NOTE 5.
+REVENUE
+Revenue from external customers is attributed to individual countries based on customer location.
+The following table presents revenue disaggregated by geography and type (in millions):
+Remaining Performance Obligations
+The transaction price allocated to remaining performance obligations relates to

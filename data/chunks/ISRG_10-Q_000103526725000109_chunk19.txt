@@ -1,0 +1,47 @@
+performance conditions. The number of shares earned at the end of the
+three-year
+period will vary, based on actual performance, from
+0
+% to
+125
+% of the target number of PSUs granted. PSUs are subject to forfeiture if employment terminates prior to the vesting date. PSUs are not considered issued or outstanding shares of the Company.
+The Company calculates the fair value for each component of the PSUs individually. The fair value for the component with the TSR metric was determined using Monte Carlo simulation. The fair value per share for the components with the procedure growth metrics is equal to the closing stock price on the grant date.
+PSU activity for the three months ended March 31, 2025, was as follows (in millions, except per share amounts):
+Employee Stock Purchase Plan
+Under the Employee Stock Purchase Plan (“ESPP”), employees purchased approximately
+0.2
+million shares for $
+75.5
+million and approximately
+0.3
+million shares for $
+68.4
+million during the three months ended March 31, 2025, and 2024, respectively.
+19
+Share-Based Compensation Expense
+The following table summarizes share-based compensation expense (in millions):
+The fair value of each right to acquire stock granted under the ESPP was estimated using the Black-Scholes-Merton option-pricing model with the following weighted-average assumptions
+:
+NOTE 11.
+INCOME TAXES
+Income tax benefit for the three months ended March 31, 2025, was $
+35.2
+million, or
+5.3
+% of income before taxes, compared to $
+8.9
+million, or
+1.7
+% of income before taxes, for the three months ended March 31, 2024.
+The effective tax rates for the three months ended March 31, 2025, and 2024, differed from the U.S. federal statutory rate of 21% primarily due to the excess tax benefits associated with employee equity plans, the federal research and development credit benefit, and t
+he effect of income earned by certain overseas entities being taxed at rates lower than the federal statutory rate, partially offset by state income taxes (net of the federal benefit) and U.S. tax on foreign earnings.
+The Company’s provision for income taxes for the three months ended March 31, 2025, and 2024, included excess tax benefits associated with employee equity plans of $
+145.4
+million and $
+111.1
+million, respectively, which reduced the Company’s effective tax rate by
+21.8
+and
+20.6
+percentage points, respectively.
+The Company files federal, state, and foreign income tax returns in many jurisdictions in the U.S. and OUS. Years before 2017 are considered closed for significant jurisdictions. Certain of the Company’s unrecognized tax benefits could change due to activities of various tax authorities, including evolving interpretations of existing tax laws in the jurisdictions in which the Company operates, potential assessment of additional tax, possible settlement of audits, or through normal expiration of various statutes of limitations, which could affect the Company’s effective tax rate in the period in which they change. It

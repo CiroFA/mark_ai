@@ -1,0 +1,16 @@
+and accept these systems for domestic or other transactions, prohibit international payments networks, like Visa, from participating on those systems, and/or impose restrictions or prohibitions on international payments networks from offering payment services on such transactions, we could face the risk of our business being disintermediated in those countries. For example, in some regions (Latin America, Southeast Asia and the Middle East), including through intergovernmental organizations such as the
+25
+Table
+of Contents
+Association of Southeast Asian Nations and the GCC, some countries are at varying stages of exploring or operationalizing the cross-border connectivity of such domestic systems. Similarly, India has expressed interest in expanding its digital public infrastructure, which includes its RTP system, Unified Payments Interface (UPI), outside the country and for cross-border payments.
+Currently, international payment networks like Visa are unable to participate in UPI.
+•
+Parties that process our transactions may try to minimize or eliminate our position in the payments value chain.
+•
+Parties that access our payment credentials, tokens and technologies, including clients, technology solution providers or others might be able to migrate or steer account holders and other clients to alternative payment methods or use our payment credentials, tokens and technologies to establish or help bolster alternate payment methods and platforms.
+•
+Participants in the payments industry may merge, form joint ventures or enable or enter into other business combinations that strengthen their existing business propositions or create new, competing payment services.
+•
+New or revised industry standards related to online checkout and web payments, cloud-based payments, tokenization or other payments-related technologies set by individual countries, regions or organizations such as the International Organization for Standardization, American National Standards Institute, World Wide Web Consortium, European Card Standards Group, PCI Co, Nexo and EMVCo may result in additional costs and expenses for Visa and its clients, or otherwise negatively impact the functionality and competitiveness of our products and services.
+As the competitive landscape is quickly evolving, we may not be able to foresee or respond sufficiently to emerging risks associated with new businesses, products, services and practices. We may be asked to adjust our local rules and practices, develop or customize certain aspects of our payment services, or agree to business arrangements that may be less protective of Visa’s proprietary technology and interests in order to compete and we may face increasing operational costs and risk of litigation concerning intellectual property. Our failure to compete effectively in light of any such developments could harm our business and prospects for future growth.
+Our net revenue and profits are dependent on our client and merchant base, which may be

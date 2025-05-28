@@ -1,0 +1,36 @@
+revenues (see Note 5).
+Equity and partnership interests held by entities qualifying for accounting purposes as investment companies are carried at fair value.
+The Firm’s significant regulated U.S. and international subsidiaries include:
+•
+Morgan Stanley & Co. LLC (“MS&Co.”),
+•
+Morgan Stanley Smith Barney LLC (“MSSB”),
+•
+Morgan Stanley Europe SE (“MSESE”),
+•
+Morgan Stanley & Co. International plc (“MSIP”),
+•
+Morgan Stanley Capital Services LLC (“MSCS”),
+•
+Morgan Stanley Capital Group Inc. (“MSCG”),
+•
+Morgan Stanley MUFG Securities Co., Ltd. (“MSMS”),
+•
+Morgan Stanley Bank, N.A. (“MSBNA”) and
+•
+Morgan Stanley Private Bank, National Association (“MSPBNA”).
+For further information on the Firm’s significant regulated U.S. and international subsidiaries, see Note 16.
+2.
+Significant Accounting Policies
+Presentation Changes in 2024
+In the first quarter of 2024, the Firm implemented certain presentation changes which resulted in a decrease to both interest income and interest expense of $
+4,432
+million for the year ended December 31, 2023, and no effect on net interest income, with the entire impact to the Firm recorded within the Institutional Securities segment. These changes further aligned the accounting treatment between the balance sheet and the related interest income or expense, primarily by offsetting interest income and expense for certain prime brokerage-related customer receivables and payables that are currently accounted for as a single unit of account on the balance sheet. The current and previous presentation of these interest income and interest expense amounts are acceptable and the change does not represent a change in accounting principle. These changes were applied retrospectively to the consolidated income statement for 2023 and accordingly, 2023 amounts were adjusted to conform with the current presentation.
+Revenue Recognition
+Revenues are recognized when the promised goods or services are delivered to our customers in an amount that is based on the consideration the Firm expects to receive in exchange for those goods or services when such amounts are not probable of significant reversal.
+Investment Banking
+Revenues from investment banking activities consist of revenues earned from underwriting, primarily equity and fixed income securities and loan syndications, and advisory fees, primarily for mergers, acquisitions and restructurings.
+Underwriting revenues are generally recognized on trade date if there is no uncertainty or contingency related to the amount to be paid. Underwriting costs are deferred and recognized in the relevant non-interest expenses line items when the related underwriting revenues are recorded.
+Advisory fees are recognized as advice is provided to the client, based on the estimated progress of work and when revenues are not probable of a significant reversal. Advisory costs are recognized as incurred in the relevant non-interest expenses line items, including those reimbursed.
+Commissions and Fees
+Commission

@@ -1,0 +1,43 @@
+principal executive officer and principal financial officer) conducted an evaluation of the effectiveness of Cisco’s internal control over financial reporting based on the framework in
+Internal Control—Integrated Framework
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management concluded that Cisco’s internal control over financial reporting was effective as of July 27, 2024. In accordance with guidance issued by the Securities and Exchange Commission staff, companies are permitted to exclude acquisitions from their assessment of internal control over financial reporting for a period not to exceed one year from the date of the acquisition. Management’s assessment of the effectiveness of our internal control over financial reporting as of July 27, 2024 did not include the internal controls of Splunk Inc., which we acquired on March 18, 2024. We have included the financial results of Splunk Inc. in our Consolidated Financial Statements since the date of acquisition. Total assets and total revenues of Splunk Inc. represented approximately 3 percent of each of our total consolidated assets and total consolidated revenue as of and for the year ended July 27, 2024. PricewaterhouseCoopers LLP, an independent registered public accounting firm, has audited the effectiveness of Cisco’s internal control over financial reporting and has issued a report on Cisco’s internal control over financial reporting, which is included in their report on the preceding pages.
+57
+Table of Contents
+CISCO SYSTEMS, INC.
+Consolidated Balance Sheets
+(in millions, except par value)
+See Notes to Consolidated Financial Statements.
+58
+Table of Contents
+CISCO SYSTEMS, INC.
+Consolidated Statements of Operations
+(in millions, except per-share amounts)
+See Notes to Consolidated Financial Statements.
+59
+Table of Contents
+CISCO SYSTEMS, INC.
+Consolidated Statements of Comprehensive Income
+(in millions)
+See Notes to Consolidated Financial Statements.
+60
+Table of Contents
+CISCO SYSTEMS, INC.
+Consolidated Statements of Cash Flows
+(in millions)
+See Notes to Consolidated Financial Statements.
+61
+Table of Contents
+CISCO SYSTEMS, INC.
+Consolidated Statements of Equity
+(in millions, except per-share amounts)
+See Notes to Consolidated Financial Statements.
+62
+Table of Contents
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements
+1.
+Basis of Presentation
+The fiscal year for Cisco Systems, Inc. (the “Company,” “Cisco,” “we,” “us,” or “our”) is the 52 or 53 weeks ending on the last Saturday in July. Fiscal 2024, fiscal 2023 and fiscal 2022 were each 52-week fiscal years.
+The Consolidated Financial Statements include our accounts and those of our subsidiaries. All intercompany accounts and transactions have been eliminated. We conduct business globally and are primarily managed on a geographic basis in the following
+three
+geographic segments: the Americas; Europe, Middle East, and Africa (EMEA); and Asia Pacific, Japan, and

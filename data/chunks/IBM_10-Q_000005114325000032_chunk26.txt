@@ -1,0 +1,35 @@
+Investment in sales-type and direct financing leases relate principally to the company’s Infrastructure products and are for terms generally up to
+five years
+. Commercial financing receivables, which consist of both held-for-investment and held-for-sale receivables, relate primarily to working capital financing for business partners and distributors of IBM products and services. Payment terms for working capital financing generally range from
+30
+to
+60
+days.
+A summary of the components of the company’s financing receivables is presented as follows:
+(1)
+The carrying value of the receivables classified as held for sale approximates fair value.
+20
+Table of Contents
+Notes to Consolidated Financial Statements — (continued)
+The company has a long-standing practice of taking mitigation actions, in certain circumstances, to transfer credit risk to third parties. These actions may include credit insurance, financial guarantees, nonrecourse secured borrowings, true sales, or sales of equipment under operating lease. Sale of receivables arrangements are also utilized in the normal course of business as part of the company’s cash and liquidity management.
+Financing receivables pledged as collateral for secured borrowings were $
+197
+million and $
+213
+million at March 31, 2025 and December 31, 2024, respectively. These borrowings are included in note 12, “Borrowings.”
+Transfer of Financial Assets
+Effective January 1, 2025, the company extended its existing agreement for a
+26
+-month term with a third-party investor to sell up to $
+1.3
+billion of IBM short-term commercial financing receivables on a revolving basis. In addition, the company enters into agreements with third-party financial institutions to sell certain of its client financing receivables, including both loan and lease receivables, for cash proceeds. There were no material client financing receivables transferred for the three months ended March 31, 2025 and 2024.
+The following table presents the total amount of commercial financing receivables transferred.
+(1)
+Of the total amount of commercial financing receivables sold and derecognized from the Consolidated Balance Sheet, the amounts presented remained uncollected from business partners as of March 31, 2025 and 2024.
+The transfer of these receivables qualified as true sales and therefore reduced financing receivables. The cash proceeds from the sales are included in cash flows from operating activities. For the three months ended March 31, 2025 and 2024, the net loss, including fees, associated with the transfer of commercial financing receivables was $
+12
+million and $
+15
+million, respectively, and is included in other (income) and expense in the Consolidated Income Statement. For the company’s policy on determining treatment for transfer of financial assets, refer to note A, “Significant Accounting Policies,” in the company’s 2024 Annual Report.
+Financing Receivables by Portfolio Segment
+The following tables present the amortized cost basis for

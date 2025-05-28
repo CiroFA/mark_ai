@@ -1,0 +1,34 @@
+million and $
+296
+million, respectively, of tax benefits on total stock-based compensation expense, which are reflected in the provision for (benefit from) income taxes in the consolidated statements of comprehensive income. Tax benefits on stock-based compensation for the year ended December 31, 2022 was
+immaterial
+.
+79
+Table of Contents
+Valuation Assumption
+s
+The following assumptions were used in the Black-Scholes options pricing model and the Monte Carlo simulation model, to estimate our stock-based compensation on the date of grant for ESPP, stock options and PRSUs, respectively, as applicable.
+* There were
+no
+stock option grants in 2024 and 2023.
+Expected volatility
+. The expected volatility is based on the historical volatility of our common stock for a period similar to our expected term.
+Expected term
+. We determine the expected term based on historical experience of similar awards, giving consideration to the contractual terms of the stock-based awards, vesting schedules and expectations of future employee behavior. We estimate the expected term for ESPP using the purchase period.
+Risk-free interest rate
+. The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of grant for the expected term of the stock-based award.
+Expected dividend yield
+. Our expected dividend yield is
+zero
+, as we have not and do not currently intend to declare dividends in the foreseeable future.
+(15)
+Net Income Per Share
+Basic net income per share attributable to common stockholders is computed by dividing net income attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period. Diluted net income per share is computed by dividing net income attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period, adjusted for the effects of dilutive shares of common stock, which are comprised of outstanding stock options, RSUs, ESPP obligations, the 2022 Notes and the 2022 Warrants. Stock awards with performance or market conditions are included in dilutive shares to the extent all conditions are met. The potentially dilutive shares of common stock are computed using the treasury stock method or the as-if converted method, as applicable. The effects of outstanding stock options, RSUs, ESPP obligations, 2022 Notes and 2022 Warrants are excluded from the computation of diluted net income per share in periods in which the effect would be antidilutive.
+80
+Table of Contents
+The following table presents the calculation of basic and diluted net income per share attributable to common stockholders (in millions, except for number of shares reflected in thousands and per share data):
+(16)
+Provision for (Benefit from) Income Taxes
+The components of income before income taxes by U.S. and foreign jurisdictions were as follows (in millions):
+The provision for (benefit from) income taxes consists of the following (in millions):
+81

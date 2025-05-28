@@ -1,0 +1,18 @@
+allocates interest income and expense to the LOBs and Other Corporate and transfers the primary interest rate risk and liquidity risk to Treasury and CIO.
+The funds transfer pricing process considers the interest rate and liquidity risk characteristics of assets and liabilities and off-balance sheet products. Periodically, the methodology and assumptions utilized in the FTP process are adjusted to reflect economic conditions and other factors, which may
+impact the allocation of net interest income to the segments. Effective in the fourth quarter of 2024, the Firm updated its FTP with respect to consumer deposits, which resulted in an increase in the funding benefit reflected within CCB’s net interest income that is fully offset in Corporate, with no effect on the Firm’s net interest income.
+As a result of lower average interest rates in the current period, the cost of funding for assets and the funding benefit earned for liabilities generally decreased compared with the prior year.
+Foreign exchange risk
+Foreign exchange risk is transferred from the LOBs and Other Corporate to Treasury and CIO for certain revenues and expenses. Treasury and CIO manages these risks centrally and reports the impact of foreign exchange rate movements related to the transferred risk in its results.
+Capital allocation
+The amount of capital assigned to each LOB and Corporate is referred to as equity. At least annually, the assumptions, judgments and methodologies used to allocate capital are reassessed and, as a result, the capital allocated to the LOBs and Corporate may change. Refer to Note 32 of JPMorganChase’s 2024 Form 10-K for additional information on capital allocation.
+168
+Segment & Corporate results
+The following table provides a summary of the Firm’s segment results as of or for the three months ended March 31, 2025 and 2024, on a managed basis. The Firm’s definition of managed basis starts with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm (and each of the reportable business segments) on an FTE basis. Accordingly, revenue from
+investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities. Refer to Note 32 of JPMorganChase’s 2024 Form 10-K for additional information on the Firm’s managed basis.
+(a)
+Segment managed results reflect revenue on an FTE basis with the corresponding income tax impact recorded within income tax expense/(benefit). These adjustments are eliminated in reconciling items to arrive at the Firm’s reported U.S. GAAP results.
+(b)
+Excludes expense related to services provided by Corporate support units, which is allocated from Corporate to each respective reportable business segment, as applicable, through noncompensation expense.
+(c)
+Reflects occupancy; technology, communications and equipment; professional and outside services; marketing; and other expense. Refer to Note 5 for

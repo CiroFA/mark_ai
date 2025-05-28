@@ -1,0 +1,17 @@
+value of fund investments when (i) the fund investment does not have a readily determinable fair value and (ii) the NAV of the investment fund is calculated in a manner consistent with the measurement principles of investment company accounting, including measurement of the investments at fair value.
+Substantially all of the firm’s investments in funds at NAV consist of investments in firm-sponsored private equity, credit, real estate and hedge funds where the firm co-invests with third-party investors.
+Private equity funds primarily invest in a broad range of industries worldwide, including leveraged buyouts, recapitalizations, growth investments and distressed investments. Credit funds generally invest in loans and other fixed income instruments and are focused on providing private high-yield capital for leveraged and management buyout transactions, recapitalizations, financings, refinancings, acquisitions and restructurings for private equity firms, private family companies and corporate issuers. Real estate funds invest globally, primarily in real estate companies, loan portfolios, debt recapitalizations and property. Substantially all private equity, credit and real estate funds are closed-end funds in which the firm’s investments are generally not eligible for redemption. Distributions will be received from these funds as the underlying assets are liquidated or distributed, the timing of which is uncertain.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+The firm also invests in hedge funds, primarily multi-disciplinary hedge funds that employ a fundamental bottom-up investment approach across various asset classes and strategies. The firm’s investments in hedge funds primarily include interests where the underlying assets are illiquid in nature, and proceeds from redemptions will not be received until the underlying assets are liquidated or distributed, the timing of which is uncertain.
+The table below presents the fair value of investments in funds at NAV and the related unfunded commitments.
+Note 9.
+Loans
+Loans includes (i) loans held for investment that are accounted for at amortized cost net of allowance for loan losses or at fair value under the fair value option and (ii) loans held for sale that are accounted for at the lower of cost or fair value. Interest on loans is recognized over the life of the loan and is recorded on an accrual basis.
+The table below presents information about loans.
+Beginning in the first quarter of 2025, as a result of a decrease in the balance of installment loans (due to the sales of GreenSky and the seller financing loan portfolio in 2024), the remaining installment loans originated by the firm are included in other loans. Previously, such loans were disclosed separately in the table above. The carrying value of installment loans was $
+50
+million as of March 2025 and $
+70
+million as of December 2024. Prior period amounts have been conformed to the

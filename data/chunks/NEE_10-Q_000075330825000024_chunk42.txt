@@ -1,0 +1,24 @@
+NEECH debentures pursuant to a guarantee agreement, dated as of June 1, 1999 (1999 guarantee) and NEECH junior subordinated debentures pursuant to an indenture, dated as of September 1, 2006 (2006 guarantee). The 1999 guarantee is an unsecured obligation of NEE and ranks equally and ratably with all other unsecured and unsubordinated indebtedness of NEE. The 2006 guarantee is unsecured and subordinate and junior in right of payment to NEE senior indebtedness (as defined therein). No payment on those junior subordinated debentures may be made under the 2006 guarantee until all NEE senior indebtedness has been paid in full in certain circumstances. NEE’s and NEECH’s ability to meet their financial obligations are primarily dependent on their subsidiaries’ net income, cash flows and their ability to pay upstream dividends or to repay funds to NEE and NEECH. The dividend-paying ability of some of the subsidiaries is limited by contractual restrictions which are contained in outstanding financing agreements.
+Summarized financial information of NEE and NEECH is as follows:
+45
+CRITICAL ACCOUNTING ESTIMATES
+Critical accounting estimates are those that NEE believes are both most important to the portrayal of its financial condition and results of operations, and require complex, subjective judgments, often as a result of the need to make assumptions about the effect of matters that are inherently uncertain. Judgments and uncertainties affecting the critical accounting estimates may result in materially different amounts being reported under different conditions or using different assumptions. NEE’s significant accounting policies, including those requiring critical accounting estimates, were reported in NEE’s
+2024
+Form 10-K. There have been no material changes regarding these significant accounting policies, including critical accounting estimates.
+See Note 3 – Nonrecurring Fair Value Measurements for a discussion of an impairment related to NextEra Energy Resources’ equity method investment in XPLR.
+ENERGY MARKETING AND TRADING AND MARKET RISK SENSITIVITY
+NEE
+and
+FPL
+are exposed to risks associated with adverse changes in commodity prices, interest rates and equity prices.
+Financial instruments and positions affecting the financial statements of NEE and FPL described below are held primarily for purposes other than trading. Market risk is measured as the potential loss in fair value resulting from hypothetical reasonably possible changes in commodity prices, interest rates or equity prices over the next year.
+Management has established risk management policies to monitor and manage such market risks, as well as credit risks.
+Commodity Price Risk
+NEE
+and
+FPL
+use derivative instruments (primarily swaps, options, futures and forwards) to manage the physical and financial risks inherent in the purchase and sale of fuel and electricity. In addition,
+NEE
+, through
+NEER
+, uses derivatives to optimize the value of its power generation and natural gas and oil

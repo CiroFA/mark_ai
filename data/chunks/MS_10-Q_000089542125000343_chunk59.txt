@@ -1,0 +1,28 @@
+conventions. When included as a component of the instrument’s fair value, interest is included within Trading revenues or Investments revenues. Otherwise, it is included within Interest income or Interest expense.
+Accrued Interest
+18.
+Income Taxes
+The Firm is routinely under examination by the IRS and other tax authorities in certain countries, such as Japan and the U.K., and in states and localities in which it has significant business operations, such as New York.
+The Firm believes that the resolution of these tax examinations will not have a material effect on the annual financial statements, although a resolution could have a material impact in the income statement and on the effective tax rate for any period in which such resolutions occur.
+19.
+Segment, Geographic and Revenue Information
+Selected Financial Information by Business Segment
+1.
+Substantially all revenues are from contracts with customers.
+2.
+Includes certain fees that may relate to services performed in prior periods.
+3.
+The significant expense categories and amounts align with the segment-level information that is regularly provided to the Firm’s chief operating decision maker (“CODM”).
+4.
+Pre-tax margin represents income before provision for income taxes as a percentage of net revenues.
+For a discussion about the Firm’s business segments, see Note 22 to the financial statements in the 2024 Form 10-K.
+Detail of Investment Banking Revenues
+Trading Revenues by Product Type
+1.
+Dividend income is included within equity contracts.
+The previous table summarizes realized and unrealized gains and losses primarily related to the Firm’s Trading assets and liabilities, from derivative and non-derivative financial instruments, included in Trading revenues in the income statement. The Firm generally utilizes financial instruments across a variety of product types in connection with its market-making and related risk management strategies. The trading revenues presented in the table are not representative of the manner in which the Firm manages its business activities and are prepared in a manner similar to the presentation of trading revenues for regulatory reporting purposes.
+Investment Management Investments Revenues—Net Cumulative Unrealized Carried Interest
+The Firm’s portion of net cumulative performance-based fees in the form of unrealized carried interest, for which the Firm is not obligated to pay compensation, is at risk of reversing when the returns in certain funds fall below specified performance targets. See Note 13 for information regarding general partner guarantees, which include potential obligations to return performance fee distributions previously received.
+Investment Management Asset Management Revenues—Reduction of Fees Due to Fee Waivers
+The Firm waives a portion of its fees in the Investment Management business segment from certain registered money market funds that comply with the requirements of Rule 2a-7 of the Investment Company Act of 1940.
+Certain Other Fee

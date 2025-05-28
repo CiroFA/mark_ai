@@ -1,0 +1,37 @@
+leases have a weighted-average remaining lease term of approximately
+6.5
+years as of December 31, 2024 and
+6
+years as of December 31, 2023.
+For additional information regarding Citi’s leases, see Note 1.
+The following table presents information on the right-of-use (ROU) asset and lease liabilities included in
+Premises and equipment
+and
+Other liabilities
+, respectively:
+The Company recognizes fixed lease costs on a straight-line basis throughout the lease term in the Consolidated Statement of Income. In addition, variable lease costs are recognized in the period in which the obligation for those payments is incurred.
+At December 31, 2024, the Company had a future lease commitment scheduled to commence in April 2025 with fixed lease payments (undiscounted) totaling approximately $
+255
+million over a
+15-year
+lease term.
+The following table presents the total operating lease expense (principally for offices, branches and equipment) included in the Consolidated Statement of Income:
+(1)     Balances do not include $
+9
+million, $
+3
+million and $
+3
+million of sublease income for the years ended December 31, 2024, 2023 and 2022, respectively.
+The table below provides the supplemental Statement of Cash Flows information:
+(1)     Represents non-cash activity and, accordingly, is not reflected in the Consolidated Statement of Cash Flows.
+Citi’s future lease payments are as follows:
+298
+30.
+CONTINGENCIES
+Accounting and Disclosure Framework
+ASC 450 governs the disclosure and recognition of loss contingencies, including potential losses from litigation, regulatory, tax and other matters. ASC 450 defines a “loss contingency” as “an existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur.” It imposes different requirements for the recognition and disclosure of loss contingencies based on the likelihood of occurrence of the contingent future event or events. It distinguishes among degrees of likelihood using the following three terms: “probable,” meaning that “the future event or events are likely to occur”; “remote,” meaning that “the chance of the future event or events occurring is slight”; and “reasonably possible,” meaning that “the chance of the future event or events occurring is more than remote but less than likely.” These three terms are used below as defined in ASC 450.
+Accruals
+. ASC 450 requires accrual for a loss contingency when it is “probable that one or more future events will occur confirming the fact of loss”
+and
+“the amount of the loss can be reasonably estimated.” In accordance with ASC 450, Citigroup establishes accruals for contingencies, including any litigation, regulatory or tax matters disclosed herein, when Citigroup believes it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. When the reasonable estimate of the loss is within a range of amounts,

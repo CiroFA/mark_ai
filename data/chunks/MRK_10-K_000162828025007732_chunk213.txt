@@ -1,0 +1,45 @@
+changes. The implied volatility is obtained from market data on the Company’s traded options. The expected life represents the amount of time that options granted are expected to be outstanding, based on historical and forecasted exercise behavior.
+The weighted average exercise price of options granted in 2024, 2023 and 2022 was $
+129.22
+, $
+117.89
+and $
+87.10
+per option, respectively.
+The weighted average fair value of options granted in 2024, 2023 and 2022 was $
+25.60
+, $
+21.69
+and $
+15.45
+per option, respectively, and were determined using the following assumptions:
+Summarized information relative to stock option plan activity (options in thousands) is as follows:
+Additional information pertaining to stock option plans is provided in the table below:
+114
+Table of Content
+s
+A summary of nonvested RSU and PSU activity (shares in thousands) is as follows:
+At December 31, 2024, there was $
+1.1
+billion of total pretax unrecognized compensation expense related to nonvested stock options, RSU and PSU awards which will be recognized over a weighted average period of
+1.9
+years. For segment reporting, share-based compensation costs are unallocated expenses.
+13.
+Pension and Other Postretirement Benefit Plans
+The Company has defined benefit pension plans covering eligible employees in the U.S. and in certain of its international subsidiaries. In addition, the Company provides medical benefits, principally to its eligible U.S. retirees and their dependents, through its other postretirement benefit plans. The Company uses December 31 as the year-end measurement date for all of its pension plans and other postretirement benefit plans.
+Net Periodic Benefit Cost
+The net periodic benefit cost (credit) for pension and other postretirement benefit plans consisted of the following components:
+In connection with restructuring actions (see Note 5), termination charges were recorded in 2024, 2023 and 2022 on pension and other postretirement benefit plans related to expanded eligibility for certain employees exiting Merck. Also, in connection with these restructuring activities, curtailments and settlements were recorded on certain pension plans. Lump sum payments to U.S. pension plan participants also contributed to the settlements recorded during 2023 and 2022.
+The components of net periodic benefit cost (credit) other than the service cost component are included in
+Other (income) expense, net
+(see Note 14), with the exception of certain amounts for termination benefits, curtailments and settlements, which are recorded in
+Restructuring costs
+if the event giving rise to the termination benefits, curtailment or settlement is related to restructuring actions.
+115
+Table of Content
+s
+Obligations and Funded Status
+Summarized information about the changes in plan assets and benefit obligations, the funded status and the amounts recorded at December 31 is as follows:
+(1)
+Actuarial (gains) losses primarily reflect changes in discount rates.
+At December 31, 2024 and 2023, the

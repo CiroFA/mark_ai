@@ -1,142 +1,187 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+ibm-20250331
+0000051143
+--12-31
+2025
+Q1
+false
+CHX
+P3Y
+http://fasb.org/us-gaap/2024#CostOfRevenue http://fasb.org/us-gaap/2024#InterestExpense http://fasb.org/us-gaap/2024#SellingGeneralAndAdministrativeExpense http://www.ibm.com/20250331#OtherExpenseAndIncome
+http://fasb.org/us-gaap/2024#CostOfRevenue http://fasb.org/us-gaap/2024#InterestExpense http://fasb.org/us-gaap/2024#SellingGeneralAndAdministrativeExpense http://www.ibm.com/20250331#OtherExpenseAndIncome
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+ibm:acquisition
+ibm:class
+ibm:country
+0000051143
+2025-01-01
+2025-03-31
+0000051143
+exch:XCHI
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A2875NotesDue2025Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A0950NotesDue2025Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A0300NotesDue2026Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A1250NotesDue2027Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A3375NotesDue2027Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A0300NotesDue2028Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A1750NotesDue2028Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A1500NotesDue2029Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A0875NotesDue2030Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A2.900NotesDue2030Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A1750NotesDue2031Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A3625NotesDue2031Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A0650NotesDue2032Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A3.150NotesDue2033Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A1250NotesDue2034Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A3750NotesDue2035Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A3.450NotesDue2037Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A4875NotesDue2038Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A1200NotesDue2040Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A4000NotesDue2043Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A3.800NotesDue2045Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A700DebenturesDue2025Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A622DebenturesDue2027Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A650DebenturesDue2028Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A5875DebenturesDue2032Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A700DebenturesDue2045Member
+2025-01-01
+2025-03-31
+0000051143
+exch:XNYS
+ibm:A7125DebenturesDue2096Member
+2025-01-01
+2025-03-31
+0000051143
+2025-03-31
+0000051143
+us-gaap:TechnologyServiceMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:TechnologyServiceMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:ProductMember
+2025-01-01
+2025-03-31
+0000051143
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000051143
+us-gaap:FinancialServiceMember
+2025-01-01

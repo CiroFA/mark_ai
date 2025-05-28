@@ -1,0 +1,33 @@
+certain countries.
+Under the LTI Plans, stock appreciation rights (“SARs”)  were granted with an exercise price equal to the fair value of JPMorganChase’s common stock on the grant date. SARs expire
+ten years
+after the grant date. There were
+no
+grants of SARs in 2024, 2023 or 2022.
+The Firm separately recognizes compensation expense for each tranche of each award, net of estimated forfeitures, as if it were a separate award with its own vesting date. Generally, for each tranche granted, compensation expense is recognized on a straight-line basis from the grant date until the vesting date of the respective tranche, provided that the employees will not become full-career eligible during the vesting period. For awards with full-career eligibility provisions and awards granted with no future substantive service requirement, the Firm accrues the estimated value of awards expected to be awarded to employees as of the grant date without giving consideration to the impact of post-employment restrictions. For each tranche granted to employees who will become full-career eligible during the vesting period, compensation expense is recognized on a straight-line basis from the grant date until the earlier of the employee’s full-career eligibility date or the vesting date of the respective tranche.
+The Firm’s policy for issuing shares upon settlement of employee share-based incentive awards is to issue either new shares of common stock or treasury shares. During 2024, 2023 and 2022, the Firm settled all of its employee share-based awards by issuing treasury shares.
+Refer to Note 23 for further information on the classification of share-based awards for purposes of calculating earnings per share.
+Notes to consolidated financial statements
+RSUs, PSUs and SARs activity
+Generally, compensation expense for RSUs and PSUs is measured based on the number of units granted multiplied by the stock price at the grant date, and for SARs, is measured at the grant date using the Black-Scholes valuation model. Compensation expense for these awards is recognized in net income as described previously.
+The following table summarizes JPMorganChase’s RSUs, PSUs and SARs activity for 2024.
+The total fair value of RSUs and PSUs that vested during the years ended December 31, 2024, 2023 and 2022, was $
+3.5
+billion, $
+2.5
+billion and $
+3.2
+billion, respectively. There were
+no
+SARs exercised in 2024. The total intrinsic value of SARs exercised during the years ended December 31, 2023 and 2022, was $
+24
+million and $
+75
+million, respectively.
+Compensation expense
+The Firm recognized the following noncash compensation expense related to its various employee share-based incentive plans in its Consolidated statements of income.
+At December 31, 2024, approximately $
+963
+million (pretax) of compensation expense related to unvested awards had not yet been charged to net income. That cost is expected to be amortized into compensation expense over a weighted-average period of
+1.6
+years. The

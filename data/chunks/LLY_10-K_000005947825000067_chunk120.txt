@@ -1,0 +1,19 @@
+December 31, 2024, 2023, and 2022, the amounts excluded from the assessment of hedge effectiveness recognized in other comprehensive income (loss) were not material. As of December 31, 2024, the amount of pre-tax gains or losses on cash flow hedges expected to be reclassified from accumulated other comprehensive income (loss) to other–net, (income) expense over the next 12 months is not material.
+81
+Fair Value of Risk-Management Instruments
+The following table summarizes certain fair value information at December 31, 2024 and 2023 for risk-management assets and liabilities measured at fair value on a recurring basis:
+82
+Risk-management instruments above are disclosed on a gross basis. There are various rights of setoff associated with certain of the risk-management instruments above that are subject to enforceable master netting arrangements or similar agreements. Although various rights of setoff and master netting arrangements or similar agreements may exist with the individual counterparties to the risk-management instruments above, individually, these financial rights are not material.
+Contingent consideration liabilities relate to our liabilities arising in connection with the CVRs issued as a result of acquisitions of businesses. The fair values of the CVR liabilities were estimated using a discounted cash flow analysis and Level 3 inputs, including projections representative of a market participant's view of the expected cash payments associated with the agreed upon regulatory milestones based on probabilities of technical success, timing of the potential milestone events for the compounds, and estimated discount rates.
+83
+Note 8:
+Goodwill and Other Intangibles
+Goodwill
+Goodwill results from excess consideration in a business combination over the fair value of identifiable net assets acquired. Goodwill is not amortized but is reviewed for impairment at least annually, or more frequently if impairment indicators are present, by first assessing qualitative factors to determine whether it is more likely than not that the fair value is less than its carrying amount. If we conclude it is more likely than not that the fair value is less than the carrying amount, a quantitative test that compares the fair value to its carrying value is performed to determine the amount of any impairment.
+The change in goodwill during 2024 was primarily related to our acquisition of a manufacturing site in Wisconsin. See Note 3 for additional information.
+No
+impairments occurred with respect to the carrying value of goodwill for the years ended December 31, 2024, 2023, and 2022.
+Other Intangibles
+The components of intangible assets other than goodwill at December 31 were as follows:
+Marketed products consist primarily of the amortized cost of the rights to assets acquired in business combinations and approved for marketing in a significant global jurisdiction (U.S., Europe, and Japan) and capitalized milestone payments.
+For transactions other than a business

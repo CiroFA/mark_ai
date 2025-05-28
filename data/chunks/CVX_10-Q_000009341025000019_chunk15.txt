@@ -1,0 +1,19 @@
+the United States, but is not currently aware of any such obligations that are reasonably possible to be material. The liability balance at the end of first quarter 2025 is $
+2.4
+billion.
+19
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+Other Contingencies
+The company and its affiliates continue to review and analyze their operations and may close, retire, sell, exchange, acquire or restructure assets to achieve operational or strategic benefits and to improve competitiveness and profitability. These activities, individually or together, may result in significant gains or losses in future periods.
+Chevron receives claims from and submits claims to customers; trading partners; joint venture partners; U.S. federal, state and local regulatory bodies; governments; contractors; insurers; suppliers; and individuals. The amounts of these claims, individually and in the aggregate, may be significant and take lengthy periods to resolve, and may result in gains or losses in future periods.
+Note 13.
+Fair Value Measurements
+The three levels of the fair value hierarchy of inputs the company uses to measure the fair value of an asset or liability are described as follows:
+Level 1: Quoted prices (unadjusted) in active markets for identical assets and liabilities. For the company, Level 1 inputs include exchange-traded futures contracts for which the parties are willing to transact at the exchange-quoted price and marketable securities that are actively traded.
+Level 2: Inputs other than Level 1 that are observable, either directly or indirectly. For the company, Level 2 inputs include quoted prices for similar assets or liabilities, prices obtained through third-party broker quotes and prices that can be corroborated with other observable inputs for substantially the complete term of a contract.
+Level 3: Unobservable inputs. The company does not use Level 3 inputs for any of its recurring fair value measurements. Level 3 inputs may be required for the determination of fair value associated with certain nonrecurring measurements of nonfinancial assets and liabilities.
+The fair value hierarchy for assets and liabilities measured at fair value at March 31, 2025, and December 31, 2024, is as follows:
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Derivatives
+The company records most of its derivative instruments — other than any commodity derivative contracts that are accounted for as normal purchase and normal sale — on the Consolidated Balance Sheet at fair value, with the offsetting amount to the Consolidated Statement of Income. The company designates certain derivative instruments as cash flow hedges that, if applicable, are reflected in the table above. Derivatives classified as Level 1 include futures, swaps and options contracts valued using quoted prices from active markets such as the New York Mercantile Exchange. Derivatives classified as Level 2 include swaps, options and forward contracts, the fair

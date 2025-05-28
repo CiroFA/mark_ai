@@ -1,0 +1,23 @@
+experience and management’s expectations of future salary increases (see Note 14).
+Stock-based Compensation Expense
+Compensation cost is based on the grant-date fair value and is recognized ratably over the requisite vesting period or to the date based on qualifying retirement eligibility, if earlier, and is primarily included in selling, general and administrative expenses.
+The company’s practice is to grant stock options at fair market value. Options vest over
+3
+-
+5
+years with terms of
+7
+-
+10
+years, assuming continued employment with certain exceptions. Vesting of the option awards is contingent upon meeting certain service conditions. The fair value of most option grants is estimated using the Black-Scholes option pricing model. For option grants that require the achievement of both service and market conditions, a lattice model is used to estimate fair value. The fair value is then amortized on a straight-line basis over the requisite service periods of the awards, which is generally the vesting period. Use of a valuation model requires management to make certain assumptions with respect to selected model inputs. Expected volatility is calculated based on the historical volatility of the company’s stock. Historical data on exercise patterns is the basis for estimating the expected life of an option. The risk-free interest rate is based on U.S. Treasury zero-coupon issues with a remaining term which approximates the expected life assumed at the date of grant. The expected annual dividend rate is
+43
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+calculated by dividing the company’s annual dividend, based on the most recent quarterly dividend rate, by the closing stock price on the grant date. The compensation expense recognized for all stock-based awards is net of estimated forfeitures. Forfeitures are estimated based on an analysis of actual option forfeitures.
+Awards of restricted units convert into an equivalent number of shares of common stock. The awards generally vest over
+3
+-
+4
+years, assuming continued employment, with some exceptions. Vesting of the awards is contingent upon meeting certain service conditions and may also be contingent upon meeting certain performance and/or market conditions. The fair market value of the award at the time of the grant is amortized to expense over the requisite service period of the award, which is generally the vesting period. Recipients of restricted units have no voting rights but are entitled to accrue dividend equivalents. The fair value of service- and performance-based restricted unit awards is determined based on the number of units granted and the market value of the company’s shares on the grant date. For awards with market-based vesting conditions, the company uses a lattice model to estimate the grant-date fair value of the award (see Note 15).
+Government Assistance
+From time to time, the company receives assistance from various governmental agencies

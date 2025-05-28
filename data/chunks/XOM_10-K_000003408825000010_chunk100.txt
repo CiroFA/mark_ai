@@ -1,0 +1,22 @@
+depletable extractive properties are amortized using the unit-of-production rates based on the amount of proved developed reserves of oil and gas that are estimated to be recoverable from existing facilities using current operating methods. Under the unit-of-production method, oil and natural gas volumes are considered produced once they have been measured through meters at custody transfer or sales transaction points at the outlet valve on the lease or field storage tank.
+In the event that the unit-of-production method does not result in an equitable allocation of cost over the economic life of an upstream asset, an alternative method is used. The straight-line method is used in limited situations where the expected life of the asset does not reasonably correlate with that of the underlying reserves. For example, certain assets used in the production of oil and natural gas have a shorter life than the reserves, and as such, the Corporation uses straight-line depreciation to ensure the asset is fully depreciated by the end of its useful life.
+To the extent that proved reserves for a property are substantially de-booked and that property continues to produce such that the resulting depreciation charge does not result in an equitable allocation of cost over the expected life, assets will be depreciated using a unit-of-production method based on reserves determined at the most recent SEC price which results in a more meaningful quantity of proved reserves, appropriately adjusted for production and technical changes.
+Investments in refinery, chemical process, and lubes basestock manufacturing equipment are generally depreciated on a straight-line basis over a
+25-year
+life. Service station buildings and fixed improvements are generally depreciated over a
+20-year
+life. Maintenance and repairs, including planned major maintenance, are expensed as incurred. Major renewals and improvements are capitalized, and the assets replaced are retired.
+Impairment Assessment.
+The Corporation tests assets or groups of assets for recoverability on an ongoing basis whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable. Among the events or changes in circumstances which could indicate that the carrying value of an asset or asset group may not be recoverable are the following:
+•
+a significant decrease in the market price of a long-lived asset;
+•
+a significant adverse change in the extent or manner in which an asset is being used or in its physical condition, including a significant decrease in current and projected reserve volumes;
+•
+a significant adverse change in legal factors or in the business climate that could affect the value, including an adverse action or assessment by a regulator;
+•
+an accumulation of project costs significantly in excess of the amount originally expected;
+•
+a current-period operating loss combined with a history and forecast of operating or cash flow losses; and
+•
+a current expectation that, more

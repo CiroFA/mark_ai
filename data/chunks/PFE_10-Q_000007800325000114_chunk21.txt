@@ -1,0 +1,49 @@
+derivative financial instruments and foreign currency debt. These financial instruments serve to mitigate the impact on net income as a result of remeasurement into another currency, or against the impact of translation into U.S. dollars of certain foreign exchange-denominated transactions.
+The derivative financial instruments primarily hedge or offset exposures in the euro, U.K. pound, Japanese yen, Chinese renminbi, Canadian dollar and Swedish krona, and include a portion of our forecasted foreign exchange-denominated intercompany inventory sales hedged up to
+two years
+. We may also seek to protect against possible declines in the net investments of our foreign business entities.
+Interest Rate Risk––
+Our interest-bearing investments and borrowings are subject to interest rate risk. Depending on market conditions, we may change the profile of our outstanding debt or investments by entering into derivative financial instruments like interest rate swaps, either to hedge or offset the exposure to changes in the fair value of hedged items with fixed interest rates, or to convert variable rate debt or investments to fixed rates. The derivative financial instruments primarily hedge U.S. dollar fixed-rate debt.
+(a)
+The notional amount of outstanding foreign exchange contracts hedging our intercompany forecasted inventory sales was $
+4.9
+billion as of March 30, 2025 and $
+5.0
+billion as of December 31, 2024.
+17
+PFIZER INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(a)
+OID = Other (income)/deductions—net, included in
+Other (income)/deductions—net
+in the condensed consolidated statements of operations
+.
+COS = Cost of Sales, included in
+Cost of sales
+in the condensed consolidated statements of operations. OCI = Other comprehensive income/(loss), included in the condensed consolidated statements of comprehensive income/(loss)
+.
+(b)
+The amounts reclassified from OCI into COS were a net gain of $
+62
+million in the first quarter of 2025 and a net gain of $
+31
+million in the first quarter of 2024. The remaining amounts were reclassified from OCI into OID. Based on quarter-end foreign exchange rates that are subject to change, we expect to reclassify a pre-tax gain of $
+94
+million within the next 12 months into income
+.
+The maximum length of time over which we are hedging our exposure to the variability in future foreign exchange cash flows is approximately
+18
+years and relates to foreign currency debt.
+(c)
+The amounts reclassified from OCI were reclassified into OID.
+(d)
+Long-term debt includes foreign currency borrowings, which are used in net investment hedges; the related carrying values as of March 30, 2025 and December 31, 2024 were $
+808
+million and $
+777
+million, respectively.
+(a)
+Carrying amounts exclude the cumulative amount of fair value hedging adjustments.
+F. Credit Risk
+A significant portion of our trade accounts receivable balances are due from wholesalers and governments. For additional information

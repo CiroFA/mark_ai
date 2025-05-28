@@ -1,0 +1,27 @@
+2024, respectively. Other property may also be available to Citi to cover losses under certain guarantees and indemnifications; however, the value of such property has not been determined.
+Performance Risk
+Presented in the tables below are the maximum potential amounts of future payments that are classified based on internal and external credit ratings. The determination of the maximum potential future payments is based on the notional amount of the guarantees without consideration of possible recoveries under recourse provisions or from collateral held or pledged. As such, Citi believes such amounts bear no relationship to the anticipated losses, if any, on these guarantees.
+196
+Credit Commitments and Lines of Credit
+The table below summarizes Citigroup’s credit commitments:
+(1)
+Consumer commitments related to the business HFS countries under sales agreements are reflected in their original categories until the respective sales are completed.
+(2)
+Other commitments and contingencies include commitments to purchase certain debt and equity securities.
+The majority of unused commitments are contingent upon customers maintaining specific credit standards. Commercial commitments generally have floating interest rates and fixed expiration dates and may require payment of fees. Such fees (net of certain direct costs) are deferred and, upon exercise of the commitment, amortized over the life of the loan or, if exercise is deemed remote, amortized over the commitment period.
+Other Commitments
+As a Federal Reserve member bank, Citi is required to subscribe to half of a certain amount of shares issued by its Federal Reserve District Bank. As of March 31, 2025 and December 31, 2024, Citi holds shares with a carrying value of $
+4.5
+billion, with the remaining half subject to call by the Federal Reserve District Bank Board.
+In the normal course of business, Citi enters into reverse repurchase and securities borrowing agreements, as well as repurchase and securities lending agreements, which settle at a future date. At March 31, 2025 and December 31, 2024, Citi had approximately $
+177.1
+billion and $
+117.7
+billion of unsettled reverse repurchase and securities borrowing agreements, and approximately $
+174.5
+billion and $
+126.8
+billion of unsettled repurchase and securities lending agreements, respectively. See Note 11 for a further discussion of securities purchased under agreements to resell and securities borrowed, and securities sold under agreements to repurchase and securities loaned, including the Company’s policy for offsetting repurchase and reverse repurchase agreements.
+These amounts are not included in the table above.
+Restricted Cash
+Citigroup defines restricted cash (as cash subject to withdrawal restrictions) to include cash deposited with central banks that must be maintained to meet minimum regulatory requirements, and cash set aside for the benefit of customers or for other purposes such as compensating balance arrangements or debt retirement.

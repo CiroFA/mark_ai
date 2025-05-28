@@ -1,0 +1,48 @@
+The repurchase program does not obligate Berkshire to repurchase any specific dollar amount or number of Class A or Class B shares and there is no expiration date to the program.
+K-
+104
+Notes to Consolidated Financial Statements
+(23)
+Revenues from contracts with customers
+The following table summarizes customer contract revenues disaggregated by reportable segment and the source of the revenue for each of the three years ended December 31, 2024 (in millions). Other revenues, which are not considered to be revenues from contracts with customers under GAAP, are primarily insurance premiums earned, interest, dividend and other investment income and leasing revenues.
+——————
+*
+Revenues from Pilot are principally fuel sales and revenues in 2023 are for the eleven months ending December 31.
+K-
+105
+Notes to Consolidated Financial Statements
+(23)
+Revenues from contracts with customers
+A summary of the transaction price allocated to the significant unsatisfied remaining performance obligations related to contracts with expected durations exceeding one year as of December 31, 2024 and the timing of when the performance obligations are expected to be satisfied follows (in millions).
+(24)
+Pension plans
+Certain Berkshire subsidiaries sponsor defined benefit pension plans. Plan benefits are generally based on years of service and compensation or fixed benefit rates. Plan sponsors may make contributions to the plans to meet regulatory requirements or may make discretionary contributions. Benefits under qualified U.S. and certain non-U.S. defined benefit pension plans are funded with assets held in trusts. Certain other non-qualified retirement plans are unfunded.
+Our net periodic pension expense for each of the three years ending December 31, 2024 was as follows (in millions).
+The accumulated benefit obligation (“ABO”) is the actuarial present value of benefits earned based on service and compensation prior to the valuation date. The ABO was $
+11.2
+billion at December 31, 2024 and $
+12.3
+billion at December 31, 2023. The projected benefit obligation (“PBO”) is the actuarial present value of benefits earned based upon service and compensation prior to the valuation date and, if applicable, includes assumptions regarding future compensation levels.
+Reconciliations of the changes in plan assets and PBOs for each of the two years ending December 31, 2024 and the asset and liability balances reflected in the Consolidated Balance Sheets at year end 2024 and 2023 follow (in millions).
+Liabilities include benefit obligations of unfunded plans of $
+1.0
+billion at December 31, 2024 and 2023, respectively.
+K-
+106
+Notes to Consolidated Financial Statements
+(24)
+Pension plans
+Weighted average assumptions used in determining PBOs and net periodic pension expense follow.
+Expected benefit payments over the next ten years are (in millions): 2025 – $
+893
+; 2026 – $
+873
+; 2027 – $
+875
+; 2028 – $
+884
+; 2029 – $
+883
+; and 2030 through 2034 – $
+4,379
+. Our subsidiaries expect to make

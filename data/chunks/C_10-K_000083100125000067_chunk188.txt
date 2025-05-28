@@ -1,0 +1,23 @@
+considered part of the unit of account of the equity security and, therefore, should not be considered in measuring fair value. The ASU also includes requirements for entities to disclose the fair value of equity securities subject to contractual sale restrictions, the nature and remaining duration of the restrictions and the circumstances that could cause a lapse in the restrictions.
+Citi adopted the ASU on January 1, 2024, which did not impact the financial statements of the Company.
+Accounting for Investments in Tax Credit Structures
+In March 2023, the FASB issued ASU No. 2023-02,
+Investments—Equity Method and Joint Ventures (Topic 323): Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method
+. The ASU expanded the scope of tax equity investments eligible to apply the proportional amortization method of accounting. Under the proportional amortization method, the cost of an eligible investment is amortized in proportion to the income tax credits and other income tax benefits that are received by the investor, with the amortization of the investment and the income tax credits being presented net in the income statement as components of income tax expense (benefit). The ASU
+permits the Company to elect to use the proportional amortization method to account for an expanded range of eligible tax-incentivized investments if certain conditions are met. Citi adopted the ASU on January 1, 2024, which did not have a material impact to the financial statements of the Company.
+TDRs and Vintage Disclosures
+In March 2022, the Financial Accounting Standards Board (FASB) issued ASU No. 2022-02,
+Financial Instruments—Credit Losses (Topic 326): Troubled Debt Restructurings and Vintage Disclosures
+. Citi adopted the ASU on January 1, 2023, including the guidance on the recognition and measurement of TDRs under the modified retrospective approach.
+Adopting these amendments resulted in a decrease to the ACLL of $
+352
+million and an increase in other assets related to held-for-sale businesses of $
+40
+million, with a corresponding increase to retained earnings of $
+290
+million and a decrease in deferred tax assets of $
+102
+million on January 1, 2023. The ACL for corporate loans was unaffected because the measurement approach used for corporate loans is not in the scope of this ASU.
+ASU 2022-02 eliminates the accounting and disclosure requirements for TDRs, including the requirement to measure the ACLL for TDRs using a discounted cash flow (DCF) approach. With the elimination of TDR accounting requirements, reasonably expected TDRs are no longer considered when determining the term over which to estimate expected credit losses. The ACLL for modified loans that are collateral dependent continues to be based on the fair value of the collateral.
+Consumer Loans
+Upon adoption of the ASU on January 1, 2023, Citi discontinued the use of a DCF approach for consumer loans formerly considered TDRs. Beginning January 1, 2023, Citi measures

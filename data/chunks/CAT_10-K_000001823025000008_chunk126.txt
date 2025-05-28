@@ -1,0 +1,55 @@
+where an entity is located.  Thus, the income tax provision shown below as U.S. or non-U.S. may not correspond to the earnings shown above.
+We paid net income tax and related interest of $
+3,126
+million, $
+2,949
+million and $
+3,076
+million in 2024, 2023 and 2022, respectively.
+Accounting for income taxes under U.S. GAAP requires that individual tax-paying entities of the company offset all deferred tax liabilities and assets within each particular tax jurisdiction and present them as a noncurrent deferred tax liability or asset in the Consolidated Financial Position.  Amounts in different tax jurisdictions cannot be offset against each other.
+The amount of deferred income taxes at December 31, included on the following lines in Statement 3, were as follows:
+77
+Table of Contents
+At December 31, 2024, deferred tax assets for U.S. state losses and credit carryforwards of $
+75
+million expire on or before the end of 2044 while the remaining $
+16
+million may be carried over indefinitely.  Of these U.S. state deferred tax assets, $
+55
+million were reduced by valuation allowances.  The deferred tax assets for U.S. federal losses and credit carryforwards of $
+196
+million primarily expire on or before the end of 2034.
+Of these U.S. federal deferred tax assets, $
+192
+million were reduced by valuation allowances.  Deferred tax assets for l
+osses and credit carryforwards of non-U.S. entities of
+$
+278
+million expire on or before the end of 2044 while the remaining $
+781
+million may be carried over indefinitely.  Non-U.S. entities that have not demonstrated consistent and/or sustainable profitability to support the realization of net deferred tax assets, including certain entities in Luxembourg, have recorded valuation allowances of $
+627
+million against tax carryforwards and other deferred tax assets.
+A reconciliation of the beginning and ending amount of gross unrecognized tax benefits for uncertain tax positions, including positions impacting only the timing of tax benefits, follows.
+78
+Table of Contents
+1
+Foreign currency impacts are included within each line as applicable.
+2
+Includes cash payment or other reduction of assets to settle liability.
+We classify interest and penalties on income taxes as a component of the provision for income taxes.  We recognized a net provision for interest and penalties of
+$
+35
+million
+, $
+36
+million and $
+49
+million during the years ended December 31, 2024, 2023 and 2022, respectively.  The total amount of interest and penalties accrued was
+$
+190
+million
+and $
+135
+million as of December 31, 2024 and 2023, respectively.
+On September 8, 2022, the company reached a settlement with the U.S. Internal Revenue Service (IRS) that resolves all issues for tax years 2007 through 2016, without any penalties.  The company's settlement includes, among other issues, the resolution of disputed tax treatment of profits earned by Caterpillar SARL (CSARL) from certain parts transactions.  We vigorously contested the IRS's application of the

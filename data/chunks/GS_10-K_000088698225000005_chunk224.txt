@@ -1,0 +1,20 @@
+transactions to provide liquidity to clients and to facilitate the transfer and hedging of their risks. In this role, the firm typically acts as principal and is required to commit capital to provide execution, and maintains market-making positions in response to, or in anticipation of, client demand.
+Risk Management.
+The firm also enters into derivatives to actively manage risk exposures that arise from its market-making and investing and financing activities. The firm’s holdings and exposures are hedged, in many cases, on either a portfolio or risk-specific basis, as opposed to an instrument-by-instrument basis. The offsetting impact of this economic hedging is reflected in the same business segment as the related revenues. In addition, the firm may enter into derivatives designated as hedges under U.S. GAAP. These derivatives are used to manage interest rate exposure of certain fixed-rate unsecured borrowings and deposits and certain U.S. and non-U.S. government securities classified as available-for-sale, foreign exchange risk of certain available-for-sale securities, the net investment in certain non-U.S. operations and the exposure to the variability of the forecasted cash flows associated with certain floating-rate assets.
+The firm enters into various types of derivatives, including:
+•
+Futures and Forwards.
+Contracts that commit counterparties to purchase or sell financial instruments, commodities or currencies in the future.
+•
+Swaps.
+Contracts that require counterparties to exchange cash flows, such as currency or interest payment streams. The amounts exchanged are based on the specific terms of the contract with reference to specified rates, financial instruments, commodities, currencies or indices.
+•
+Options.
+Contracts in which the option purchaser has the right, but not the obligation, to purchase from or sell to the option writer financial instruments, commodities or currencies within a defined time period for a specified price.
+Derivatives are reported on a net-by-counterparty basis (i.e., the net payable or receivable for derivative assets and liabilities for a given counterparty) when a legal right of setoff exists under an enforceable netting agreement (counterparty netting). Derivatives are accounted for at fair value, net of cash collateral received or posted under enforceable credit support agreements (cash collateral netting). Derivative assets are included in
+trading assets
+and derivative liabilities are included in
+trading liabilities
+.
+Realized and unrealized gains and losses
+on derivatives not designated as hedges are included in market making (for derivatives included in Fixed Income, Currency and Commodities (FICC) and Equities within Global Banking & Markets), and other principal transactions (for derivatives included in Investment banking fees and Other within Global Banking & Markets, as well as derivatives in Asset & Wealth Management) in the consolidated statements of earnings. For both 2024 and 2023, substantially

@@ -1,0 +1,19 @@
+million and $
+266.5
+billion at December 31, 2023.
+Offsetting of Derivatives
+The Corporation enters into International Swaps and Derivatives Association, Inc. (ISDA) master netting agreements or similar agreements with substantially all of the Corporation’s derivative counterparties. Where legally enforceable, these master netting agreements give the Corporation, in the event of default by the counterparty, the right to liquidate securities held as collateral and to offset receivables and payables with the same counterparty. For purposes of the Consolidated Balance Sheet, the Corporation offsets derivative assets and liabilities and cash collateral held with the same counterparty where it has such a legally enforceable master netting agreement.
+The following table presents derivative instruments included in derivative assets and liabilities on the Consolidated Balance
+Sheet at December 31, 2024 and 2023 by primary risk (e.g., interest rate risk) and the platform, where applicable, on which these derivatives are transacted. Balances are presented on a gross basis, prior to the application of counterparty and cash collateral netting. Total gross derivative assets and liabilities are adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements, which include reducing the balance for counterparty netting and cash collateral received or paid.
+For more information on offsetting of securities financing agreements, see
+Note 10 – Securities Financing Agreements, Short-term Borrowings, Collateral and Restricted Cash
+.
+(1)
+Over-the-counter derivatives include bilateral transactions between the Corporation and a particular counterparty. Over-the-counter cleared derivatives include bilateral transactions between the Corporation and a counterparty where the transaction is cleared through a clearinghouse. Exchange-traded derivatives include listed options transacted on an exchange.
+(2)
+Consists of derivatives entered into under master netting agreements where the enforceability of these agreements is uncertain under bankruptcy laws in some countries or industries.
+(3)
+Amounts are limited to the derivative asset/liability balance and, accordingly, do not include excess collateral received/pledged. Financial instruments collateral includes securities collateral received or pledged and cash securities held and posted at third-party custodians that are not offset on the Consolidated Balance Sheet but shown as a reduction to derive net derivative assets and liabilities.
+ALM and Risk Management Derivatives
+The Corporation’s ALM and risk management activities include the use of derivatives to mitigate risk to the Corporation, including derivatives designated in qualifying hedge accounting relationships and derivatives used in other risk management activities. Interest rate, foreign exchange, equity, commodity and credit contracts are utilized in the Corporation's ALM and risk management activities.
+The

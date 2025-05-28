@@ -1,0 +1,26 @@
+relationships are highly effective at inception and on an ongoing basis.
+151
+For cash flow hedges, the entire change in the fair value of the hedging derivative is recognized in
+AOCI
+and then reclassified to earnings in the same period that the forecasted hedged cash flows impact earnings.
+Net Investment Hedges
+Consistent with ASC 830-20,
+Foreign Currency Matters—Foreign Currency Transactions
+, ASC 815 allows the hedging of the foreign currency risk of a net investment in a foreign operation. Citigroup uses foreign currency forwards, cross-currency swaps, options and foreign currency-denominated debt instruments to manage the foreign exchange risk associated with Citigroup’s equity investments in several non-U.S.-dollar-functional-currency foreign subsidiaries. Citi records the change in the fair value of these hedging instruments and the translation adjustment for the investments in these foreign subsidiaries in
+Foreign currency translation adjustmen
+t (CTA) within
+AOCI
+.
+For derivatives designated as net investment hedges, Citigroup follows the forward-rate method outlined in ASC 815-35-35. According to that method, all changes in fair value, including changes related to the forward-rate component of the foreign currency forward contracts and the time value of foreign currency options, are recorded in CTA within
+AOCI
+.
+For foreign currency-denominated debt instruments that are designated as hedges of net investments, the translation gain or loss that is recorded in CTA is based on the spot exchange rate between the functional currency of the respective subsidiary and the U.S. dollar, which is the functional currency of Citigroup.
+Economic Hedges
+Citigroup often uses economic hedges when hedge accounting would be too complex or operationally burdensome. End-user derivatives that are economic hedges are carried at fair value, with changes in value included in either
+Principal transactions
+or
+Other revenue
+.
+For asset/liability management hedging, fixed-rate long-term debt is recorded at amortized cost under GAAP.
+For other hedges that either do not meet the ASC 815 hedging criteria or for which management decides not to apply ASC 815 hedge accounting, the derivative is recorded at fair value on the balance sheet with the associated changes in fair value recorded in earnings, while the debt continues to be carried at amortized cost. Therefore, current earnings are affected by the interest rate shifts and other factors that cause a change in the swap’s value, but for which no offsetting change in value is recorded on the debt.
+Citigroup may alternatively elect to account for the debt at fair value under the fair value option. Once the irrevocable election is made upon issuance of the debt, the full change in fair value of the debt is reported in earnings. The changes in fair value of the related interest rate swap are also reflected in earnings, which provides a natural offset to the debt’s fair value change. To the extent that the two amounts

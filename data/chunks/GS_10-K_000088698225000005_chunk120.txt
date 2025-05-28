@@ -1,0 +1,20 @@
+Analysis
+Our results are influenced by a combination of interconnected drivers, including (i) client activity levels and transactional bid/offer spreads (collectively, client activity), and (ii) changes in the fair value of our inventory and interest income and interest expense related to the holding, hedging and funding of our inventory (collectively, market-making inventory changes). Due to the integrated nature of our market-making activities, disaggregation of net revenues into client activity and market-making inventory changes is judgmental and has inherent complexities and limitations.
+The amount and composition of our net revenues vary over time as these drivers are impacted by multiple interrelated factors affecting economic and market conditions, including volatility and liquidity in the market, changes in interest rates, currency exchange rates, credit spreads, equity prices and commodity prices, investor confidence, and other macroeconomic concerns and uncertainties.
+In general, assuming all other market-making conditions remain constant, increases in client activity levels or bid/offer spreads tend to result in increases in net revenues, and decreases tend to have the opposite effect. However, changes in market-making conditions can materially impact client activity levels and bid/offer spreads, as well as the fair value of our inventory. For example, a decrease in liquidity in the market could have the impact of (i) increasing our bid/offer spread, (ii) decreasing investor confidence and thereby decreasing client activity levels, and (iii) widening of credit spreads on our inventory positions.
+Other.
+We lend to corporate clients, including through relationship lending and acquisition financing. The hedges related to this lending and financing activity are also reported as part of Other. Other also includes equity and debt investing activities related to our Global Banking & Markets activities.
+The table below presents our Global Banking & Markets assets.
+The table below presents details about our Global Banking & Markets loans.
+Our average Global Banking & Markets gross loans were $126.87 billion for 2024 and $112.07 billion for 2023.
+The table below presents our Global Banking & Markets operating results.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+The table below presents our FICC and Equities net revenues by line item in the consolidated statements of earnings.
+In the table above:
+•
+See “Net Revenues” for information about market making revenues, commissions and fees, other principal transactions revenues and net interest income. See Note 25 to the consolidated financial statements for net interest income by segment.
+•
+The primary driver of net revenues for FICC intermediation for all periods was client activity.
+•
+The increase in net interest income within FICC for 2024 compared with 2023 reflected an increase in interest-earning assets. Due to the nature of activities within FICC and

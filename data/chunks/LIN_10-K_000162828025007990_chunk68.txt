@@ -1,0 +1,26 @@
+interests”) are reported separately in the consolidated balance sheets at the greater of carrying value or redemption value. For redeemable noncontrolling interests that are not yet exercisable, Linde calculates the redemption value by accreting the carrying value to the redemption value over the period until exercisable. If the redemption value is greater than the carrying value, any increase is adjusted directly to retained earnings and does not impact net income. At December 31, 2024 and 2023, the redeemable noncontrolling interest balance includes an industrial gas business in EMEA where the noncontrolling shareholders have put options.
+NOTE 15.
+SHARE-BASED COMPENSATION
+Share-based compensation expense was $
+160
+million in 2024 ($
+141
+million and $
+107
+million in 2023 and 2022, respectively). The related income tax benefit recognized was $
+88
+million in 2024 ($
+88
+million and $
+64
+million in 2023 and 2022, respectively). The expense was primarily recorded in selling, general and administrative expenses and no share-based compensation expense was capitalized.
+Summary of Plans
+The 2021 Linde plc Long Term Incentive Plan (the “2021 Plan") was adopted by the Board of Directors and shareholders of Linde plc on July 26, 2021. The 2021 Plan permits awards of stock options, stock appreciation rights, restricted stock and restricted stock units, performance-based stock units and other equity awards to eligible officer and non-officer employees and non-employee directors of the company and its affiliates. As of December 31, 2024,
+7,149,967
+shares remained available for equity grants under the 2021 Plan, of which
+2,226,852
+shares may be granted as awards other than options or stock appreciation rights.
+Exercise prices for options granted under the 2021 Plan may not be less than the closing market price of the company’s ordinary shares on the date of grant and granted options may not be re-priced or exchanged without shareholder approval. Options granted under the 2021 Plan subject only to time vesting requirements may become partially exercisable after a minimum of one year after the date of grant but may not become fully exercisable until at least three years have elapsed from the date of grant, and all options have a maximum duration of ten years.
+In order to satisfy option exercises and other equity grants, the company may issue authorized but previously unissued shares or it may issue treasury shares.
+Stock Option Fair Value
+The company utilizes the Black-Scholes Options-Pricing Model to determine the fair value of stock options consistent with that used in prior years. Management is required to make certain assumptions with respect to selected model inputs, including anticipated changes in the underlying stock price (i.e., expected volatility) and option exercise activity (i.e., expected life). Expected volatility is based on the historical volatility of the company’s stock over the most recent period commensurate with the estimated expected life

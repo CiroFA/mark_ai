@@ -1,0 +1,16 @@
+network rely in part on global interoperable standards to help facilitate payments.  To the extent geopolitical events or government intervention result in jurisdictions no longer participating in the creation or adoption of these standards, or the creation of competing standards, our products and services could be negatively impacted.
+Any of these developments potentially could have a material adverse impact on our overall business and results of operations.
+MASTERCARD 2024 FORM 10-K
+35
+PART I
+ITEM 1A. RISK FACTORS
+Adverse currency fluctuations and foreign exchange controls could negatively impact our results of operations.
+During 2024, approximately 70% of our revenue was generated from activities outside the U.S., which could be transacted in a non-functional currency.  Impacts from currency fluctuations are included in our net income.  Our risk management activities provide protection with respect to adverse changes in the value of only a limited number of currencies and are based on estimates of exposures to these currencies.
+In addition, the revenue we generate in entities with non-U.S. dollar functional currencies is subject to unpredictable currency fluctuations, including where the values of other currencies change relative to the U.S. dollar.  If the U.S. dollar strengthens compared to currencies in which we generate revenue, this revenue may be translated at a materially lower amount than expected.
+Furthermore, we may become subject to exchange control regulations that might restrict or prohibit the conversion into U.S. dollars of our other revenue currencies and financial assets.
+The occurrence of currency fluctuations or exchange controls could have a material adverse impact on our results of operations.
+Brand, Reputational Impact and Environmental, Social and Governance
+Negative brand perception may materially and adversely affect our overall business.
+Our brands and their attributes are key assets of our business.  The ability to attract consumers to our branded products and retain them depends upon the external perception of us and our industry:
+•
+Our business may be affected by actions taken by our customers, merchants or other organizations that impact the perception of our brands or the payments industry in general.  From time to time, our customers may take actions that we do not believe to be in the best interests of our brands, such as creditor practices that may be viewed as “predatory”.  Moreover, adverse developments with respect to our industry or the industries of our customers or other companies and organizations that use our products and services (including certain legally permissible but high-risk merchant categories, such as adult content, firearms, alcohol and tobacco) may also, by association, impair our reputation, or result in greater public, regulatory or legislative scrutiny, as well as potential litigation.  We may also face similar scrutiny to the extent that we are unable to detect and/or prevent illegal

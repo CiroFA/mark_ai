@@ -1,0 +1,17 @@
+appropriate financial controls;
+•
+difficulty in conducting due diligence with respect to business partners;
+•
+public health or safety concerns, medical epidemics or pandemics, and other natural- or man-made disasters; and
+•
+nationalization of businesses and expropriation of assets.
+A significant legal risk associated with conducting business internationally is compliance with the various and differing laws and regulations of the many countries in which we do business. Although our policies and procedures prohibit us, our employees and our agents from engaging in unethical business practices and are designed to satisfy regulatory requirements,
+31
+Tab
+le of Contents
+there can be no assurance that all of these measures will be effective in preventing violations or claims of violations. Any such violation or perceived violation could have a material adverse effect on our business.
+Failure to realize the benefits expected from the acquisition of VMware could adversely affect our business and the value of our common stock.
+As part of our integration of the VMware business, we are focusing on VMware’s core business of creating private cloud environments on-premises among large enterprises globally and divesting non-core assets. If VMware customers do not accept our business strategy, including our transition from a perpetual to a subscription licensing model and our simplified product portfolio, the investments we have made or may make to implement our strategy may be of no or limited value, we may lose significant customers, our financial results may be adversely affected and our stock price may suffer.
+Although we expect significant benefits to result from the acquisition of VMware, if we do not successfully manage the challenges inherent in integrating an acquired business, we may not realize these benefits, and our revenue, expenses, operating results, financial condition and stock price could be materially adversely affected. Achieving these benefits will depend, in part, on our ability to integrate VMware's business successfully and efficiently and VMware customers accepting our business strategy, including our transition from a perpetual to a subscription licensing model and our simplified product portfolio. The successful integration of the VMware business has required, and will continue to require, significant management attention, and may divert the attention of management from other business and operational issues.
+We have pursued, and may in the future pursue, mergers, acquisitions, investments, joint ventures and dispositions, which could adversely affect our results of operations.
+Our growth strategy includes acquiring or investing in businesses that offer complementary products, services and technologies, or enhancing our market coverage or technological capabilities. Any acquisitions we may undertake, including the acquisition of VMware, and their integration involve risks and uncertainties, which could impede the execution of our

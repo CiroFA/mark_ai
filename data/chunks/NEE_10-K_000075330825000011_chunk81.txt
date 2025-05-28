@@ -1,0 +1,25 @@
+Unrealized Losses – Refer to Note 3 to the financial statements
+Critical Audit Matter Description
+NEE enters into complex energy derivatives and transacts in certain markets that are thinly traded, which may result in subjective estimates of fair value that include unobservable inputs. Changes in the derivatives’ fair value for power purchases and sales, fuel sales and trading activities are primarily recognized on a net basis in operating revenues. For the year ended December 31, 2024, unrealized losses associated with Level 3 transactions of $
+25
+million are included in operating revenues in the consolidated statement of income of NEE.
+Given management uses complex proprietary models and unobservable inputs to estimate the fair value of Level 3 derivative assets and liabilities, performing audit procedures to evaluate the appropriateness of these models and inputs required a high degree of auditor judgment and an increased extent of effort, including the need to involve our firm specialists who possess significant quantitative and modeling expertise.
+59
+Table of Content
+s
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to operating revenue – unrealized losses included the following, among others:
+•
+We tested the effectiveness of controls relating to commodity valuation models, their related Level 3 unobservable inputs, and market data validation.
+•
+We selected a sample of transactions, obtained an understanding of the business rationale of transactions, and read the underlying contractual agreements.
+•
+We used personnel in our firm who specialize in energy transacting to independently value Level 3 transactions. For certain fair value models, we used our firm specialists to directly test the underlying assumptions of the unobservable inputs used by management.
+•
+We evaluated NEE’s disclosures related to the proprietary models and unobservable inputs to estimate the fair value of Level 3 derivative assets and liabilities, including the balances recorded and significant assumptions.
+FPL
+–
+Impact of Rate Regulation on the Financial Statements – Refer to Note 1 to the financial statements
+Critical Audit Matter Description
+FPL is subject to rate regulation by the Florida Public Service Commission (the “FPSC”), which has jurisdiction with respect to the rates of electric utility companies. Management has determined it meets the requirements under accounting principles generally accepted in the United States of America to prepare its financial statements applying the specialized rules to account for the effects of cost-based rate regulation. Accounting for the economics of rate regulation impacts multiple financial statement line items and disclosures, such as property, plant, and equipment; regulatory assets and liabilities; operating revenues; fuel expense; operation and maintenance expense; and depreciation expense.
+Rates are determined and approved in regulatory proceedings based on an analysis of FPL’s costs

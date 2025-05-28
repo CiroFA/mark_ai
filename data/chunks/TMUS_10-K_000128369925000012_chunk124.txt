@@ -1,0 +1,22 @@
+commitment amount of $
+7.5
+billion, including a letter of credit sub-facility of up to $
+1.5
+billion and a swingline loan sub-facility of up to $
+500
+million. As of December 31, 2024 and 2023, we did
+not
+have an outstanding balance under the Revolving Credit Facility.
+87
+Index for Notes to the Consolidated Financial Statements
+Note Redemptions and Repayments
+During the year ended December 31, 2024, we made the following note redemptions and repayments:
+Asset-backed Notes
+In connection with issuing the ABS Notes, we formed a wholly owned subsidiary, which qualifies as a bankruptcy remote entity (the “ABS BRE”), and a trust (the “ABS Trust” and together with the ABS BRE, the “ABS Entities”), in which the ABS BRE holds a residual interest. The ABS BRE’s residual interest in the ABS Trust represents the rights to all funds not needed to make required payments on the ABS Notes and other related payments and expenses.
+Under the terms of the ABS Notes, our wholly owned subsidiary, T-Mobile Financial LLC (“FinCo”), and certain of our other wholly owned subsidiaries (collectively, the “Originators”) transfer EIP receivables to the ABS BRE, which in turn transfers such receivables to the ABS Trust, which issued the ABS Notes. The Class A senior ABS Notes have an expected weighted average life of approximately
+2.5
+years. Under the terms of the transaction, there is a
+two-year
+revolving period during which we may transfer additional receivables to the ABS Entities as collections on the receivables are received. The EIP receivables transferred to the ABS Entities and related assets, consisting primarily of restricted cash, will only be available for payment of the ABS Notes and expenses related thereto, payments to the Originators in respect of additional transfers of device payment plan agreement receivables, and other obligations arising from our ABS Notes transactions, and will not be available to pay our other obligations until the associated ABS Notes and related obligations are satisfied. The third-party investors in the Class A senior ABS Notes have legal recourse only to the assets of the ABS Trust securing the ABS Notes and do not have any recourse to T-Mobile with respect to the payment of principal and interest. The receivables transferred to the ABS Trust will only be available for payment of the ABS Notes and other obligations arising from the transaction and will not be available to pay any obligations or claims of T-Mobile’s creditors.
+Under a parent support agreement, T-Mobile has agreed to guarantee the performance of the obligations of FinCo, which will continue to service the receivables, and the other T-Mobile entities participating in the transaction. However, T-Mobile does not guarantee any principal or interest on the ABS Notes or any payments on the underlying EIP receivables.
+Cash collections on the EIP receivables are required at certain specified times to be placed into segregated accounts. Deposits to the segregated accounts are

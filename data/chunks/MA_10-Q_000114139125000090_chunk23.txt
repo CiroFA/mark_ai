@@ -1,0 +1,20 @@
+Our non-GAAP financial measures for the comparable periods exclude the impact of the following:
+Gains and Losses on Equity Investments
+•
+In the
+three months ended March 31, 2025
+and 2024, we recorded net losses of $29 million ($25 million after tax, or $0.03 per diluted share) and net gains of $6 million ($5 million after tax, or $0.01 per diluted share), respectively, primarily related to unrealized fair market value adjustments on marketable and nonmarketable equity securities.
+MASTERCARD MARCH 31, 2025 FORM 10-Q
+29
+PART I
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Special Items
+Litigation provisions
+•
+In the three months ended March 31, 2025, we recorded charges of $151 million ($102 million after tax, or $0.11 per diluted share), primarily as a result of a change in estimate related to the claims of merchants who opted out of the U.S. merchant class litigation.
+•
+In the three months ended March 31, 2024, we recorded charges of $126 million ($87 million after tax, or $0.09 per diluted share), primarily due to a legal provision associated with the ATM non-discrimination rule surcharge complaints.
+See Note 5 (Investments) and Note 14 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part I, Item 1 of this Report for further discussion related to certain of the items discussed above.
+Currency-neutral Growth Rates
+Currency-neutral growth rates are non-GAAP financial measures and are calculated by remeasuring the prior period’s results using the current period’s exchange rates for both the translational and transactional impacts on operating results.  The impact of currency translation represents the effect of translating operating results where the functional currency is different from our U.S. dollar reporting currency.  The impact of the transactional currency represents the effect of converting revenue and expenses occurring in a currency other than the functional currency of the entity.  The impact of the related realized gains and losses resulting from our foreign exchange derivative contracts designated as cash flow hedging instruments (specifically those that manage the impact of foreign currency variability on anticipated revenues and expenses) is recognized in the respective financial statement line item on the consolidated statements of operations when the underlying forecasted transactions impact earnings.
+The translational and transactional impact of currency and the related impact of our foreign exchange derivative contracts designated as cash flow hedging instruments as specified in the preceding paragraph (collectively, the “Currency Impact”) has been excluded from our currency-neutral growth rates and has been identified in the “Non-GAAP Reconciliations” tables below and our “Drivers of Change” tables.  See “Foreign Currency - Currency Impact” for further information on our currency impacts and “Financial Results - Net Revenue” and “Financial

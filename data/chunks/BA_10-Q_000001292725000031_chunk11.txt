@@ -1,0 +1,26 @@
+party guarantees. The maximum potential payments represent a “worst-case scenario” and do not necessarily reflect amounts that we expect to pay. The carrying amount of liabilities represents the amount included in Accrued liabilities.
+Contingent Repurchase Commitments
+In conjunction with signing a definitive agreement for the sale of commercial aircraft, we have entered into contingent repurchase commitments with certain customers wherein we agree to repurchase the sold aircraft at a specified price, generally
+10
+to
+15
+years after
+17
+Table of Contents
+delivery. Our repurchase of the aircraft is contingent upon entering into a mutually acceptable agreement for the sale of additional new aircraft in the future. The commercial aircraft repurchase price specified in contingent repurchase commitments is generally lower than the expected fair value at the specified repurchase date. Estimated proceeds from collateral/recourse in the table above represent the lower of the contracted repurchase price or the expected fair value of each aircraft at the specified repurchase date.
+If a future sale agreement is reached and a customer elects to exercise its right under a contingent repurchase commitment, the contingent repurchase commitment becomes a trade-in commitment. Our historical experience is that contingent repurchase commitments infrequently become trade-in commitments.
+Credit Guarantees
+We have issued credit guarantees where we are obligated to make payments to a guaranteed party in the event that the original lessee or debtor does not make payments or perform certain specified services. Generally, these guarantees have been extended on behalf of guaranteed parties with less than investment-grade credit. Current outstanding credit guarantees expire through 2036.
+Other Indemnifications
+In conjunction with our sales of Electron Dynamic Devices, Inc. and Rocketdyne Propulsion and Power businesses and our BCA facilities in Wichita, Kansas and Tulsa and McAlester, Oklahoma, we agreed to indemnify, for an indefinite period, the buyers for costs relating to pre-closing environmental conditions and certain other items. We are unable to assess the potential number of future claims that may be asserted under these indemnifications, nor the amounts thereof (if any). As a result, we cannot estimate the maximum potential amount of future payments under these indemnities. To the extent that claims have been made under these indemnities and/or are probable and reasonably estimable, liabilities associated with these indemnities are included in the environmental liability disclosure in Note 10.
+Note 12 –
+Postretirement Plans
+The components of net periodic benefit cost/(income) for the three months ended March 31 were as follows:
+18
+Table of Contents
+Note 13 –
+Share-Based Compensation and Other Compensation Arrangements
+Stock Options
+On February 19, 2025, we granted
+366,869
+premium-priced stock options to our executive officers as part of our long-term incentive

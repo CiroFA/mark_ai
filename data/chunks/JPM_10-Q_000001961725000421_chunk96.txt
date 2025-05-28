@@ -1,0 +1,56 @@
+and the quarterly dividend declarations for the three months ended March 31, 2025 and 2024.
+(a)
+Represented by depositary shares.
+(b)
+Each series of fixed-to-floating rate preferred stock converts to a floating rate at the earliest redemption date.
+(c)
+References in the table to “SOFR” mean a floating annualized rate equal to three-month term SOFR (plus a spread adjustment of 0.26% per annum) plus the spreads noted. References to “CMT” mean a floating annualized rate equal to the five-year Constant Maturity Treasury (“CMT”) rate plus the spreads noted.
+(d)
+The initial dividend declared is prorated based on the number of days outstanding for the period. Dividends were declared quarterly thereafter at the contractual rate.
+(e)
+The dividend rate for Series S preferred stock became floating and payable quarterly starting on February 1, 2024; prior to which the dividend rate was fixed at
+6.75
+% or $
+337.50
+per share payable semiannually. The dividend rate for each quarterly dividend period commencing on February 1, 2024 was three-month term SOFR (plus a spread adjustment of 0.26% per annum) plus the spread of
+3.78
+%.
+(f)
+As of March 31, 2024, no dividends had been declared on the Series NN preferred stock since the original issue date of March 12, 2024.
+Each series of preferred stock has a liquidation value and redemption price per share of $
+10,000
+, plus accrued but unpaid dividends. The aggregate liquidation value was $
+20.1
+billion at March 31, 2025.
+Issuances
+On February 4, 2025, the Firm issued $
+3.0
+billion of fixed-rate reset non-cumulative preferred stock, Series OO.
+On March 12, 2024, the Firm issued $
+2.5
+billion of fixed-rate reset non-cumulative preferred stock, Series NN.
+Redemptions
+On February 1, 2025, the Firm redeemed all $
+3.0
+billion of its fixed-to-floating rate non-cumulative preferred stock, Series HH.
+On October 1, 2024, the Firm redeemed all $
+1.6
+billion of its fixed-to-floating rate non-cumulative preferred stock, Series X.
+On August 1, 2024, the Firm redeemed all $
+2.3
+billion of its fixed-to-floating rate non-cumulative preferred stock, Series FF.
+On May 1, 2024, the Firm redeemed all $
+5.0
+billion of its fixed-to-floating rate non-cumulative preferred stock, Series Q, Series R and Series S.
+On April 30, 2024, the Firm redeemed all $
+1.0
+billion of its fixed-to-floating rate non-cumulative preferred stock, Series U.
+154
+Note 18 –
+Earnings per share
+Refer to Note 23 of JPMorganChase’s 2024 Form 10-K for a discussion of the computation of basic and diluted earnings per share (“EPS”).
+The following table presents the calculation of basic and diluted EPS for the three months ended March 31, 2025 and 2024.
+155
+Note 19 –
+Accumulated other comprehensive income/(loss)
+AOCI includes the after-tax change in unrealized gains and losses on investment securities, foreign currency translation adjustments (including the impact of related derivatives), fair value changes of excluded components on fair value hedges, cash flow hedging

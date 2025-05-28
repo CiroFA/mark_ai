@@ -1,0 +1,51 @@
+securities-based loans included in the other metrics/unrated category had a loan-to-value ratio of less than
+80
+% and were performing in accordance with the contractual terms as of both March 2025 and December 2024.
+•
+For credit card loans included in the other metrics/unrated category, the evaluation of credit quality incorporates the borrower’s FICO credit score. FICO credit scores are periodically refreshed by the firm to assess the updated creditworthiness of the borrower. See “Vintage” below for information about credit card loans by FICO credit scores.
+The firm also assigns a regulatory risk rating to its loans based on the definitions provided by the U.S. federal bank regulatory agencies. Total loans included
+94
+% of loans as of March 2025 and
+93
+% of loans as of December 2024 that were rated pass/non-criticized.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Vintage.
+The tables below present gross loans accounted for at amortized cost (excluding credit card loans) by an internally determined public rating agency equivalent or other credit metrics and origination year for term loans.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+The table below presents gross credit card loans by refreshed FICO credit scores.
+In the table above, credit card loans consist of revolving lines of credit.
+Credit Concentrations.
+The table below presents the concentration of gross loans by region.
+In the table above:
+•
+EMEA represents Europe, Middle East and Africa.
+•
+The top five industry concentrations for corporate loans as of March 2025 were
+23
+% for technology, media & telecommunications,
+19
+% for diversified industrials,
+14
+% for real estate,
+10
+% for consumer & retail and
+9
+% for natural resources & utilities.
+•
+The top five industry concentrations for corporate loans as of December 2024 were
+24
+% for technology, media & telecommunications,
+16
+% for diversified industrials,
+14
+% for real estate,
+9
+% for financial institutions and
+9
+% for healthcare.
+Nonaccrual, Past Due and Modified Loans.
+Loans accounted for at amortized cost (other than credit card loans) are placed on nonaccrual status when it is probable that the firm will not collect all principal and interest due under the contractual terms, regardless of the delinquency status or if a loan is past due for 90 days or more, unless the loan is both well collateralized and in the process of collection. At that time, all accrued but uncollected interest is reversed against interest income and interest subsequently collected is recognized on a cash basis to the extent the loan balance is deemed collectible. Otherwise, all cash received is used to reduce the outstanding loan balance. A loan is considered past due when a principal or interest payment has not been made according to its contractual terms. Credit card loans are not placed on nonaccrual status and accrue interest until the loan is paid

@@ -1,0 +1,31 @@
+related to available-for-sale debt securities are recorded as an allowance for credit losses through interest and other income (expense), net. Any additional changes in fair value that are not related to credit losses are recognized in accumulated other comprehensive income (loss) (AOCI).
+During fiscal 2024, 2023 and 2022, gross realized gains and losses related to our fixed income portfolio were not material.
+During fiscal 2024, 2023 and 2022, we did not recognize material credit losses and the ending allowance for credit losses was not material.
+The components of gain (loss) on equity investments for each fiscal year were as follows:
+66
+Table of Contents
+APPLIED MATERIALS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 4
+Fair Value Measurements
+Assets Measured at Fair Value on a Recurring Basis
+The following table presents our fair value hierarchy for our financial assets (excluding cash balances) measured at fair value on a recurring basis:
+_________________________
+*Amounts as of October 27, 2024 and October 29, 2023 include $
+91
+million and $
+101
+million, respectively, invested in money market funds related to deferred compensation plans. Due to restrictions on the distribution of these funds, they are classified as restricted cash equivalents and are included in
+deferred income taxes and other assets
+in the Consolidated Balance Sheets.
+We did not have any financial assets measured at fair value on a recurring basis within Level 3 fair value measurements as of October 27, 2024 or October 29, 2023.
+Assets and Liabilities without Readily Determinable Values Measured on a Non-recurring Basis
+Our equity investments without readily determinable values consist of equity investments in privately held companies. We elected the measurement alternative, defined as cost, less impairments, adjusted for subsequent observable price changes on a prospective basis for certain equity investments without readily determinable fair values and are required to account for any subsequent observable changes in fair value within the statements of operations. These investments are classified as Level 3 within the fair value hierarchy and periodically assessed for impairment when an event or circumstance indicates that a decline in value may have occurred. Impairment losses on equity investments in privately held companies, included in the above table, were
+no
+t material during fiscal 2024 and 2022 and were $
+121
+million during fiscal 2023. These impairment losses are included in interest and other income (expense), net in the Consolidated Statement of Operations.
+Other
+The carrying amounts of our financial instruments, including cash and cash equivalents, restricted cash equivalents, accounts receivable, commercial paper notes, and accounts payable and accrued expenses, approximate fair value due to their short maturities. At October 27, 2024, the aggregate principal amount of long-term senior unsecured notes was $
+5.5
+billion, and the estimated

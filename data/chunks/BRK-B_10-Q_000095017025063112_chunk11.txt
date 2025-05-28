@@ -1,0 +1,28 @@
+which incorporate yield curves for instruments with similar characteristics, such as credit ratings, estimated durations and yields for other instruments of the issuer or entities in the same industry sector.
+Level 3
+– Inputs include unobservable inputs used in the measurement of assets and liabilities. Management is required to use its own assumptions regarding unobservable inputs because there is little, if any, market activity in the assets or liabilities and it may be unable to corroborate the related observable inputs. Unobservable inputs require management to make certain projections and assumptions about the information that would be used by market participants in valuing assets or liabilities.
+Reconciliations of significant assets and liabilities measured and carried at fair value on a recurring basis with the use of significant unobservable inputs (Level 3) follow (in millions).
+Quantitative information as of
+March 31, 2025 for the significant assets and liabilities measured and carried at fair value on a recurring basis with the use of significant unobservable inputs (Level 3) follows (dollars in millions).
+Investments in equity securities in the preceding table include our investments in certain preferred stock and common stock warrants that do not have readily determinable market values as defined by GAAP. These investments are private placements and are not traded in securities markets. We applied discounted cash flow techniques in valuing the preferred stock and we made assumptions regarding the expected duration of the investment and the effects of illiquidity and subordination in liquidation. In valuing the common stock warrants, we used a warrant valuation model. While most of the inputs to the warrant model are observable, we made assumptions regarding the expected duration and volatility.
+Note 18. Common stock
+Changes in shares of Berkshire’s common stock are shown in the table below. In addition to our common stock,
+one
+million shares of preferred stock are authorized, but
+none
+are issued.
+19
+Notes to Consolidated Financial Statements
+Note 18. Common stock
+Each Class A common share is entitled to
+one
+vote per share. Class B common stock possesses dividend and distribution rights equal to
+one-fifteen-hundredth
+(1/1,500) of such rights of Class A common stock. Each Class B common share possesses voting rights equal to
+one-ten-thousandth
+(1/10,000) of the voting rights of a Class A share. Unless otherwise required under Delaware General Corporation Law, Class A and Class B common shares vote as a single class. Each share of Class A common stock is convertible, at the option of the holder, into
+1,500
+shares of Class B common stock. Class B common stock is not convertible into Class A common stock. On an equivalent Class A common stock basis, there were
+1,438,223
+shares outstanding as of March 31, 2025 and December 31, 2024.
+Since we have two classes of common stock, we provide earnings per share data on the Consolidated Statements

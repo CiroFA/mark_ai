@@ -1,0 +1,18 @@
+integrated performance characteristics of our products. The table below presents our key semiconductor product families and their major end markets and applications.
+Data Center, Service Provider, and Enterprise Networking Solutions.
+We provide semiconductor solutions for managing the movement of data in data center, service provider, and enterprise networking applications. Our products offer an enhanced, open, standards-based Ethernet network interface card (“NIC”) and switching solution to resolve connectivity bottlenecks in data centers, particularly in AI data centers where compute bandwidth and cluster sizes grow rapidly.
+•
+Ethernet Switching & Routing:
+Ethernet is a ubiquitous interconnection technology that enables high-performance and cost-effective networking infrastructure. We offer a broad set of Ethernet switching and routing products that are optimized for AI data center, service provider and enterprise networks. In the data center market, our high capacity, low latency, switching silicon supports advanced protocols around virtualization and multi-pathing. Our Ethernet switching fabric technologies provide the ability to build highly scalable flat networks supporting tens of thousands of servers. Our service provider switch portfolio enables carrier networks to support prioritized delivery of data traffic in the wireless backhaul, access, aggregation and core of their networks. For enterprise networks, we offer product families with secure, encrypted switching capabilities and support lower power modes that comply with industry standards around energy efficient Ethernet.
+•
+Custom Silicon Solutions:
+We provide advanced technology and intellectual property (“IP”) platforms for customers to design and develop application specific integrated circuits (“ASICs”) targeting AI and high-performance computing, networking and storage applications. Our custom silicon provides the platform to integrate embedded logic, memory, serializer/deserializer (“SerDes”) technology, IP cores and processor cores. ASICs are custom products built to individual customers specifications.
+•
+Physical Layer Devices:
+These devices, also referred to as PHYs, are transceivers that enable the reception and transmission of Ethernet data packets over a physical medium such as copper wire or optical fibers. Our high
+4
+Table of Contents
+performance Ethernet transceivers are built upon a proprietary digital signal processing communication architecture optimized for high-speed network connections and support the latest standards and advanced features, such as energy efficient Ethernet, data encryption and time synchronization. We also offer a range of automotive Ethernet products, including PHYs, switches and camera microcontrollers, to meet growing consumer demand for in-vehicle connectivity and smart vision.
+•
+Fiber Optic Components:
+We supply a wide array of optical components to the Ethernet networking, storage, and access, metro- and long-haul telecommunication markets.

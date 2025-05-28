@@ -1,0 +1,46 @@
+8.9
+%)
+•
+Duration:
+2.0
+to
+5.4
+years (weighted average:
+2.9
+years)
+As of December 2023:
+•
+Yield:
+6.7
+% to
+11.3
+% (weighted average:
+8.5
+%)
+•
+Duration:
+0.1
+to
+4.5
+years (weighted average:
+0.9
+years)
+Generally, increases in yield or duration, in isolation, would have resulted in a lower fair value measurement as of period-end. Due to the distinctive nature of each of level 3 other secured financings, the interrelationship of inputs is not necessarily uniform across such financings. See Note 11 for further information about other secured financings.
+Deposits, Unsecured Borrowings and Other Assets and Liabilities.
+Substantially all of the firm’s deposits, unsecured short- and long-term borrowings, and other assets and liabilities that are classified in level 3 are hybrid financial instruments. As the significant unobservable inputs used to value hybrid financial instruments primarily relate to the embedded derivative component of these deposits, unsecured borrowings and other assets and liabilities, these unobservable inputs are incorporated in the firm’s derivative disclosures. See Note 12 for further information about other assets, Note 13 for further information about deposits, Note 14 for further information about unsecured borrowings and Note 15 for further information about other liabilities.
+Level 3 Rollforward.
+The table below presents a summary of the changes in fair value for level 3 other financial assets and liabilities accounted for at fair value.
+In the table above:
+•
+Changes in fair value are presented for all other financial assets and liabilities that are classified in level 3 as of the end of the period.
+•
+Net unrealized gains/(losses) relates to other financial assets and liabilities that were still held at period-end.
+•
+Transfers between levels of the fair value hierarchy are reported at the beginning of the reporting period in which they occur. If a financial instrument was transferred to level 3 during a reporting period, its entire gain or loss for the period is classified in level 3.
+•
+For level 3 other financial assets, increases are shown as positive amounts, while decreases are shown as negative amounts. For level 3 other financial liabilities, increases are shown as negative amounts, while decreases are shown as positive amounts.
+•
+Level 3 other financial assets and liabilities are frequently economically hedged with trading assets and liabilities. Accordingly, gains or losses that are classified in level 3 can be partially offset by gains or losses attributable to level 1, 2 or 3 trading assets and liabilities. As a result, gains or losses included in the level 3 rollforward below do not necessarily represent the overall impact on the firm’s results of operations, liquidity or capital resources.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The table below presents information, by the consolidated balance sheet line items, for other financial liabilities included in the summary

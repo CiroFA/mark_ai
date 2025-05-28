@@ -1,0 +1,23 @@
+a per kWh rate prescribed in applicable federal and state statutes and are recorded as a reduction of current income taxes payable, unless
+77
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+limited by tax law in which instance they are recorded as deferred tax assets. NEER recognizes ITCs as a reduction to income tax expense when the related energy property is placed into service. FPL recognizes ITCs as a reduction to income tax expense over the depreciable life of the related energy property. At December 31, 2024 and 2023, FPL’s accumulated deferred ITCs were approximately $
+966
+million and $
+997
+million, respectively, and are included in noncurrent regulatory liabilities on NEE's and FPL's consolidated balance sheets. For taxable years beginning after 2022, renewable energy tax credits generated during the taxable year can be transferred to an unrelated purchaser for cash and are accounted for under
+Accounting Standards Codification 740
+–
+Income Taxes
+. Proceeds resulting from the sales of renewable energy tax credits for the years ended December 31, 2024 and 2023 of approximately $
+1,304
+million and $
+370
+million, respectively, are reported in the cash paid (received) for income taxes – net within the supplemental disclosures of cash flow information on NEE’s consolidated statements of cash flows.
+A valuation allowance is recorded to reduce the carrying amounts of deferred tax assets when it is more likely than not that such assets will not be realized. NEE recognizes interest income (expense) related to unrecognized tax benefits (liabilities) in interest income and interest expense, respectively, net of the amount deferred at FPL. At FPL, the offset to accrued interest receivable (payable) on income taxes is classified as a regulatory liability (regulatory asset) which will be amortized to income (expense) over a
+five-year
+period upon settlement in accordance with regulatory treatment. All tax positions taken by NEE in its income tax returns that are recognized in the financial statements must satisfy a more-likely-than-not threshold. NEE and its subsidiaries file income tax returns in the U.S. federal jurisdiction and various states, the most significant of which is Florida, and certain foreign jurisdictions. Federal tax liabilities, with the exception of certain refund claims, are effectively settled for all years prior to 2019. State and foreign tax liabilities, which have varied statutes of limitations regarding additional assessments, are generally effectively settled for years prior to 2019. At December 31, 2024, NEE had unrecognized tax benefits of approximately $
+130
+million that, if recognized, could impact the annual effective income tax rate. The amounts of unrecognized tax benefits and related interest accruals may change within the next 12 months; however, NEE and FPL do not expect these changes to have a significant impact on NEE’s or FPL’s financial

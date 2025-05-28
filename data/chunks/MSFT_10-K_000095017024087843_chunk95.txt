@@ -1,0 +1,18 @@
+uncertain tax positions required extensive audit effort and a high degree of auditor judgment, including involvement of our tax specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our principal audit procedures to evaluate management's estimates of uncertain tax positions related to unresolved transfer pricing issues included the following:
+•
+We evaluated the appropriateness and consistency of management's methods and assumptions used in the identification, recognition, measurement, and disclosure of uncertain tax positions, which included testing the effectiveness of the related internal controls.
+•
+We read and evaluated management's documentation, including relevant accounting policies and information obtained by management from outside tax specialists, that detailed the basis of the uncertain tax positions.
+•
+We tested the reasonableness of management's judgments regarding the future resolution of the uncertain tax positions, including an evaluation of the technical merits of the uncertain tax positions.
+•
+For those uncertain tax positions that had not been effectively settled, we evaluated whether management had appropriately considered new information, including the NOPAs received in the current fiscal year, that could significantly change the recognition, measurement, or disclosure of the uncertain tax positions.
+•
+We evaluated the reasonableness of management's estimates by considering how tax law, including statutes, regulations, and case law, impacted management's judgments.
+Business Combinations – Estimate for Valuation of Acquired Intangible Assets – Refer to Note 8 to the financial statements
+Critical Audit Matter Description
+On October 13, 2023, the Company completed the acquisition of Activision Blizzard, Inc. The Company accounted for the Activision Blizzard, Inc., acquisition as a business combination and, accordingly, allocated the purchase price to the assets acquired and liabilities assumed based on their respective estimated fair values as of the date of acquisition. Identifiable intangible assets acquired included marketing-related intangible assets, technology-based intangible assets, and customer-related intangible assets. The excess of the purchase consideration over the fair value of identifiable assets acquired and liabilities assumed was recorded as goodwill.
+We identified the fair value determination of certain marketing-related and technology-based intangible assets for the business combination as a critical audit matter due to the significant judgment required in determining their estimated fair values. Management’s estimates of fair value included assumptions for revenue and expense forecasts and the selection of appropriate discount rates. There was a high degree of auditor judgment and subjectivity in applying audit procedures and evaluating the significant assumptions relating to the estimates, including involvement of our fair value specialists.
+How the Critical Audit Matter Was Addressed in

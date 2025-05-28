@@ -1,0 +1,132 @@
+gaap:TrustForBenefitOfEmployeesMember
+2023-01-01
+2023-12-31
+0000051143
+us-gaap:ForeignPlanMember
+ibm:PensionPlansIncludingMultiEmployerPlansMember
+2024-12-31
+0000051143
+country:US
+us-gaap:QualifiedPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2024-12-31
+0000051143
+country:US
+us-gaap:NonqualifiedPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:QualifiedPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:NonqualifiedPlanMember
+us-gaap:PensionPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:PensionPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:QualifiedPlanMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:ForeignPlanMember
+us-gaap:NonqualifiedPlanMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-12-31
+0000051143
+us-gaap:PensionPlansDefinedBenefitMember
+2023-12-31
+0000051143
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-12-31
+0000051143
+us-gaap:SubsequentEventMember
+2025-01-28
+2025-01-28
+0000051143
+ibm:EuroFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+2025-02-10
+0000051143
+ibm:EuroFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MinimumMember
+2025-02-10
+2025-02-10
+0000051143
+ibm:EuroFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MaximumMember
+2025-02-10
+2025-02-10
+0000051143
+ibm:EuroFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MinimumMember
+2025-02-10
+0000051143
+ibm:EuroFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MaximumMember
+2025-02-10
+0000051143
+ibm:USDollarFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+2025-02-10
+0000051143
+ibm:USDollarFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MinimumMember
+2025-02-10
+2025-02-10
+0000051143
+ibm:USDollarFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MaximumMember
+2025-02-10
+2025-02-10
+0000051143
+ibm:USDollarFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MinimumMember
+2025-02-10
+0000051143
+ibm:USDollarFixedRateNotesIssued2025Member
+us-gaap:SubsequentEventMember
+srt:MaximumMember
+2025-02-10
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-K
+ANNUAL REPORT
+pursuant to
+Section 13
+or 15 (d) of the
+Securities Exchange Act of 1934
+FOR THE YEAR ENDED
+DECEMBER 31
+, 2024
+1-2360
+(Commission file number)
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+(Exact name of registrant as specified in its charter)
+914
+-
+499-1900
+(Registrant’s telephone number)
+Securities registered pursuant to Section 12(b) of the Act:
+Securities registered pursuant to Section 12(g) of the Act: None.
+Indicate by check mark if the registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act.
+Yes
+☒ No ☐
+Indicate by

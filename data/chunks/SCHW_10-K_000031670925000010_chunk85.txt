@@ -1,0 +1,36 @@
+Comprehensive Income (AOCI):
+A component of stockholders’ equity which primarily includes unrealized gains and losses on AFS securities and securities transferred from the AFS category to the held to maturity (HTM) category.
+Asset-backed securities:
+Debt securities backed by financial assets such as loans or receivables.
+Assets receiving ongoing advisory services:
+Market value of all client assets custodied at the Company under the guidance of an independent advisor or enrolled in one of Schwab’s managed investing solutions at the end of the reporting period.
+Bank deposit account balances (BDA balances):
+Clients’ uninvested cash balances held off-balance sheet in deposit accounts at unconsolidated third-party financial institutions, pursuant to the IDA agreement or agreements with other third-party financial institutions. Average BDA balances represent the daily average balance for the reporting period.
+Basel III:
+Global regulatory standards on bank capital adequacy and liquidity issued by the Basel Committee on Banking Supervision.
+Basis point:
+One basis point equals 1/100
+th
+of 1%, or 0.01%.
+Client assets:
+The market value, as of the end of the reporting period, of all client assets in our custody, BDA balances, and proprietary products, which includes both cash and securities. Average client assets are the daily average client asset balance for the reporting period.
+Client cash as a percentage of client assets:
+Calculated as the value, at the end of the reporting period, of all money market fund balances, bank deposits excluding brokered CDs issued by CSB, Schwab One
+®
+balances, BDA balances, and certain cash equivalents divided by client assets.
+Common Equity Tier 1
+(CET1) Capital:
+The sum of common stock and related surplus net of treasury stock, retained earnings, AOCI, and qualifying minority interests, less applicable regulatory adjustments and deductions. As a Category III banking organization, CSC has elected to exclude most components of AOCI from CET1 Capital.
+- 25 -
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+Common Equity Tier 1 Risk-Based Capital Ratio:
+The ratio of CET1 Capital to total risk-weighted assets as of the end of the period.
+Core net new client assets:
+Net new client assets before significant one-time inflows or outflows, such as acquisitions/divestitures or extraordinary flows (generally greater than $10 billion ($25 billion beginning in 2025)) relating to a specific client, and activity from off-platform brokered CDs issued by CSB. These flows may span multiple reporting periods.
+Customer Protection Rule:
+Refers to Rule 15c3-3 of the Securities Exchange Act of 1934.
+Daily Average Trades (DATs):
+Includes daily average revenue trades by clients, trades by clients in asset-based pricing relationships, commission-free trades, and allocated trades by investment advisors.
+Delinquency roll rates:

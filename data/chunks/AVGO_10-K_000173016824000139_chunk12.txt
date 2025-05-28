@@ -1,0 +1,33 @@
+process, tooling and applications, resulting in greater synergy and alignment with their corporate IT environment.
+•
+Identity & Access Management
+:
+These solutions manage mainframe access and elevate it with modern practices such as multi-factor authentication and privileged user management, and support all external security managers.
+•
+Compliance & Data Protection
+:
+These solutions protect crucial mainframe data to ensure compliance, identify risk, proactively respond to potential threats, and reduce those risks to lighten the load on security management with automated identification and authorization cleanup.
+•
+Security Insights Platform
+:
+This solution helps ensure a trusted environment for customers and their employees by quickly interpreting and assessing mainframe security posture, identifying risks and developing remediation steps on an ongoing and ad hoc basis. This data is available for use with in-house tools for security information and event management.
+•
+Beyond Code Programs
+:
+These value-added offerings help ensure our customers get the most out of their mainframe investments. These offerings unlock additional value for organizations in areas such as educating and upskilling the workforce, providing expert guidance and support for change events, and uncovering opportunities to improve efficiency and save costs.
+Distributed Software Portfolio.
+Our distributed software solutions enable global enterprises to optimize the planning, development and delivery of software, powering their business-critical digital services. Our solutions are designed to enable customers to innovate, improve customer experience, and drive profitability by aligning business, development, and operational teams. Our products, organized in the domains of ValueOps, DevOps, and AIOps, deliver end-to-end visibility across all stages of the digital lifecycle and help our customers realize better business outcomes and better experiences for their customers.
+9
+Table of Contents
+•
+ValueOps
+:
+This solution delivers value stream management capabilities that enable customers to schedule, track, and manage work throughout its lifecycle from investment planning to execution. It aligns business and development teams across the enterprise, increasing transparency, reducing inefficiencies, and improving time to value.
+•
+DevOps:
+This solution
+offers capabilities that empower users of our agile processes and tools to track development progress and deploy releases confidently with assurance of feature completeness, high-quality and reduced risk. Key stakeholders have a single view of key insights into release progress, health, quality, defect trends, and metrics that drive focus, gauge readiness, and help to ensure successful, quality releases.
+•
+AIOps:
+This solution
+combines application, infrastructure and network monitoring and correlation with intelligent remediation capabilities to help customers create more resilient production environments and improve customer experience.

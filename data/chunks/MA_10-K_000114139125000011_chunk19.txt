@@ -1,0 +1,18 @@
+initiatives are experimenting with the concept of account-based global schemes, which could lead to a disruption of the clearing and settlement options utilized in various currencies.
+•
+Digital Wallets and other Fintechs.
+As the global payments industry becomes more complex, we face increasing competition from fintechs and other emerging payments providers, both for customers and data.  Many of these providers have developed payments systems focused on online activity in e-commerce and mobile channels (in some cases, expanding to other channels), and may process payments using in-house account transfers, real-time account-based payments networks or global or local networks, in addition to card.  Examples include digital wallet providers, point-of-sale financing/buy-now-pay-later providers, mobile operator services, mobile phone-based money transfer and microfinancing services, device manufacturers, B2B accounts payable and accounts receivable providers.
+•
+Digital Public Infrastructure and Other Government-Backed Solutions.
+Governments have been focused on creating and expanding local digital payments structures.  Increasingly, these structures include digital public infrastructure (DPI), which is owned by governments and often supported by third parties, and aim to provide payments services as a public good.  Government- and central bank-backed structures (such as the Brazilian Instant Payment System-PIX, FedNow in the U.S. and United Payments Interface (UPI) in India), are increasingly being considered as alternatives to traditional domestic payment solutions and schemes such as ours.  In addition to local and regional networks, national governments continue to explore the use of central bank digital currencies (“CBDCs”), which may be launched with their own networks to transfer money between participants.
+•
+Digital Currencies.
+Stablecoins and floating cryptocurrencies may become more popular as they become more regulated and increasingly viewed as providing immediacy, 24/7 accessibility, immutability and efficiency.  Some players, including payment
+20
+MASTERCARD 2024 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+service providers and payment facilitators, have started to enable merchant acceptance of such currencies in P2M, while some banks have started experimenting with blockchain B2B payments.  Digital currencies and emerging players (such as crypto natives) have the ability to disrupt traditional financial markets.  The increased prominence of digital currencies creates an opportunity for us, but could equally compete with our products and services.
+•
+Services and Solutions Providers.
+We face competition from companies that provide alternatives to our services and solutions.  These companies include information services and consulting firms that provide consulting services and insights to financial institutions, merchants and governments, technology companies that provide cyber and fraud solutions (including AI-based solutions), and companies that

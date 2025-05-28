@@ -1,0 +1,20 @@
+described below are held primarily for purposes other than trading. Market risk is measured as the potential loss in fair value resulting from hypothetical reasonably possible changes in commodity prices, interest rates or equity prices over the next year.
+Management has established risk management policies to monitor and manage such market risks, as well as credit risks.
+Commodity Price Risk
+NEE and FPL use derivative instruments (primarily swaps, options, futures and forwards) to manage the physical and financial risks inherent in the purchase and sale of fuel and electricity. In addition, NEE, through NEER, uses derivatives to optimize the value of its power generation and natural gas and oil production assets and engages in power and fuel marketing and trading activities to take advantage of expected future favorable price movements. See Critical Accounting Policies and Estimates
+–
+Accounting for Derivatives and Hedging Activities and Note 3.
+During 2023 and 2024, the changes in the fair value of NEE’s consolidated subsidiaries’ energy contract derivative instruments were as follows:
+NEE’s total mark-to-market energy contract net assets (liabilities) at December 31, 2024 shown above are included on the consolidated balance sheets as follows:
+53
+Table of Content
+s
+The sources of fair value estimates and maturity of energy contract derivative instruments at December 31, 2024 were as follows:
+With respect to commodities, NEE’s Exposure Management Committee (EMC), which is comprised of certain members of senior management, and NEE's chief executive officer are responsible for the overall approval of market risk management policies and the delegation of approval and authorization levels. The EMC and NEE's chief executive officer receive periodic updates on market positions and related exposures, credit exposures and overall risk management activities.
+NEE uses a value-at-risk (VaR) model to measure commodity price market risk in its trading and mark-to-market portfolios. The VaR is the estimated loss of market value based on a one-day holding period at a 95% confidence level using historical simulation methodology. The VaR figures are as follows:
+______________________
+(a)    The VaR figures for the trading portfolio include positions that are marked to market. Taking into consideration offsetting unmarked non-derivative positions, such as physical inventory, the trading VaR figures were approximately $6 million and $1 million at December 31, 2024 and 2023, respectively.
+(b)    Non-qualifying hedges are employed to reduce the market risk exposure to physical assets or contracts which are not marked to market. The VaR figures for the non-qualifying hedges and hedges in FPL cost recovery clauses category do not represent the economic exposure to commodity price movements.
+Interest Rate Risk
+NEE's and FPL's financial results are exposed to risk resulting from changes in interest rates as a result of their respective outstanding a
+nd expected future

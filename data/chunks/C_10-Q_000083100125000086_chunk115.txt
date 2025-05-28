@@ -1,0 +1,49 @@
+billion and $
+5.2
+billion of non-marketable equity securities carried at cost at March 31, 2025 and December 31, 2024, respectively.
+(2)
+The carrying value of loans is net of the allowance for credit losses on loans of $
+18.7
+billion for March 31, 2025 and $
+18.6
+billion for December 31, 2024. In addition, the carrying values exclude $
+0.3
+billion and $
+0.3
+billion of lease finance receivables at March 31, 2025 and December 31, 2024, respectively.
+(3)
+Includes items measured at fair value on a nonrecurring basis.
+(4)
+Includes cash and due from banks, deposits with banks, brokerage receivables, reinsurance recoverables and other financial instruments included in
+Other assets
+on the Consolidated Balance Sheet, for all of which the carrying value is a reasonable estimate of fair value.
+(5)
+The carrying value includes long-term debt balances under qualifying fair value hedges.
+(6)
+Includes brokerage payables, separate and variable accounts, short-term borrowings (carried at cost) and other financial instruments included in
+Other liabilities
+on the Consolidated Balance Sheet, for all of which the carrying value is a reasonable estimate of fair value.
+The estimated fair values of the Company’s corporate unfunded lending commitments at March 31, 2025 and December 31, 2024 were off-balance sheet liabilities of $
+10.9
+billion and $
+13.5
+billion, respectively, substantially all of which are classified as Level 3. The Company does not estimate the fair values of consumer unfunded lending commitments, which are generally cancelable by providing notice to the borrower.
+190
+24.
+FAIR VALUE ELECTIONS
+The Company may elect to report most financial instruments and certain other items at fair value on an instrument-by-instrument basis with changes in fair value reported in earnings, other than DVA (see below). The election is made upon the initial recognition of an eligible financial asset, financial liability or firm commitment or when certain specified reconsideration events occur. The fair value election
+may not otherwise be revoked once an election is made. The changes in fair value are recorded in current earnings. Movements in DVA are reported as a component of
+AOCI
+.
+The Company has elected fair value accounting for its mortgage servicing rights (MSRs). See Note 21 for additional details on Citi’s MSRs.
+Additional discussion regarding other applicable areas in which fair value elections were made is presented in Note 23.
+The following table presents the changes in fair value of those items for which the fair value option has been elected:
+(1)
+Includes gains (losses) associated with interest rate lock commitments for originated loans for which the Company has elected the fair value option.
+(2)
+Includes DVA that is included in
+AOCI
+. See Notes 19 and 23.
+191
+Own Debt Valuation Adjustments (DVA)
+Own debt valuation adjustments are recognized on Citi’s liabilities for which the fair value option has been elected using Citi’s credit spreads observed in the bond

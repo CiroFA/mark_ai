@@ -1,0 +1,29 @@
+a carrying amount of approximately $
+1.7
+billion was written down to its estimated fair value of $
+1.0
+billion, resulting in an impairment charge of $
+0.7
+billion ($
+0.5
+billion after tax), which is reflected in equity in earnings (losses) of equity method investees in NEE’s condensed consolidated statements of income for the three months ended March 31, 2025. Should NEE determine, based on future analysis which includes the current and future trading prices of XPLR's common units, that an additional impairment is other-than-temporary, an impairment loss would be recorded, which would impact NEE's condensed consolidated statements of income.
+27
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(unaudited)
+4.
+Income Taxes
+NEE's effective income tax rate is based on the composition of pretax income or loss, which, for the three months ended March 31, 2025, primarily reflects the impact of unfavorable changes in the fair value of interest rate derivative instruments as well as the impairment charge related to the investment in XPLR (see Note 3 – Nonrecurring Fair Value Measurements).
+A reconciliation between the effective income tax rates and the applicable statutory rate is as follows:
+NEE recognizes PTCs as wind and solar energy is generated and sold based on a per kWh rate prescribed in applicable federal and state statutes, which may differ significantly from amounts computed, on a quarterly basis, using an overall effective income tax rate anticipated for the full year. NEE uses this method of recognizing PTCs for specific reasons, including that PTCs are an integral part of the expected value of most wind and some solar projects and a fundamental component of such wind and solar projects' results of operations. PTCs, as well as ITCs, can significantly affect NEE's effective income tax rate depending on the amount of pretax income or loss. The amount of PTCs recognized can be significantly affected by wind and solar generation and by the roll off of PTCs after
+ten years
+of production absent a repowering of the wind and solar projects.
+5.
+Related Party Transactions
+Through XPLR OpCo, XPLR owns, or has a partial ownership interest in, a portfolio of contracted renewable energy assets consisting of wind, solar and battery storage projects as well as a contracted natural gas pipeline. NEE has an approximately
+52.5
+% noncontrolling interest in XPLR, primarily through its limited partner interest in XPLR OpCo, and accounts for its ownership interest in XPLR as an equity method investment. NextEra Energy Resources operates essentially all of the energy projects owned by XPLR and provides services to XPLR under various related party operations and maintenance, development and construction, administrative and management services agreements (service agreements). Under these service agreements, NextEra Energy Resources incurred approximately $
+363
+million and $
+52
+million of costs

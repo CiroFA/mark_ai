@@ -1,0 +1,16 @@
+designed to generate a return through the realization of tax credits and related tax benefits. The firm also purchases equity and debt securities issued by and makes loans to VIEs that hold real estate, performing and nonperforming debt, distressed loans and equity securities. In addition, the firm makes equity investments in certain investment fund VIEs it manages and is entitled to receive fees from these VIEs. The firm generally does not sell assets to, or enter into derivatives with, these VIEs.
+Corporate Debt and Other Asset-Backed VIEs.
+The firm structures VIEs that issue notes to clients, purchases and sells beneficial interests issued by corporate debt and other asset-backed VIEs in connection with market-making activities, and makes loans to VIEs that warehouse corporate debt. Certain of these VIEs synthetically create the exposure for the beneficial interests they issue by entering into credit derivatives with the firm, rather than purchasing the underlying assets. In addition, the firm may enter into derivatives, such as total return swaps, with certain corporate debt and other asset-backed VIEs, under which the firm pays the VIE a return due to the beneficial interest holders and receives the return on the collateral owned by the VIE. The collateral owned by these VIEs is primarily other asset-backed loans and securities. The firm may be removed as the total return swap counterparty and may enter into derivatives with other counterparties to mitigate its risk related to these swaps. The firm may sell assets to the corporate debt and other asset-backed VIEs it structures.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Principal-Protected Note VIEs.
+The firm structures VIEs that issue principal-protected notes to clients. These VIEs own portfolios of assets, principally with exposure to hedge funds. Substantially all of the principal protection on the notes issued by these VIEs is provided by the asset portfolio rebalancing that is required under the terms of the notes. The firm enters into total return swaps with these VIEs under which the firm pays the VIE the return due to the principal-protected note holders and receives the return on the assets owned by the VIE. The firm may enter into derivatives with other counterparties to mitigate its risk. The firm also obtains funding through these VIEs.
+Nonconsolidated VIEs
+The table below presents a summary of the nonconsolidated VIEs in which the firm holds variable interests.
+In the table above:
+•
+The nature of the firm’s variable interests is described in the rows under maximum exposure to loss.
+•
+The firm’s exposure to the obligations of VIEs is generally limited to its interests in these entities. In certain instances, the firm provides guarantees, including derivative guarantees, to VIEs or holders of variable interests in VIEs.
+•
+The maximum exposure to loss excludes the benefit of offsetting financial instruments that are held to mitigate

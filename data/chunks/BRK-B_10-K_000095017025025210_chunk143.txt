@@ -1,0 +1,47 @@
+others:
+•
+We tested the operating effectiveness of controls over claim liabilities, including those over the key assumptions.
+•
+We tested the underlying data that served as the basis for the actuarial analysis to evaluate that the inputs to the actuarial estimate were accurate and complete.
+•
+With the assistance of our actuarial specialists:
+•
+We developed independent estimates of the claim liabilities, including loss data and industry claim development factors as needed, and compared our estimates to management’s estimates.
+•
+We compared prior year estimates of expected incurred losses to actual experience during the most recent year to identify potential bias in management’s determination of the claim liabilities.
+Unpaid Losses and Loss Adjustment Expenses — Retroactive Reinsurance Contracts — Refer to Notes 1 and 17 to the financial statements
+Critical Audit Matter Description
+The Company’s unpaid losses and loss adjustment expenses under retroactive reinsurance contracts (“retroactive claim liabilities”) include property and casualty retroactive reinsurance contracts. Key assumptions affecting certain of these retroactive claim liabilities include anticipated claims and their severity, expected loss ratios, and expected patterns of paid and incurred losses.
+Given the subjectivity of estimating these key assumptions, performing audit procedures to evaluate whether certain of these claim liabilities were appropriately recorded as of December 31, 2024, required a high degree of auditor judgment and an increased extent of effort, including the need to involve our actuarial specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the key assumptions affecting claim liabilities included the following, among others:
+•
+We tested the operating effectiveness of controls over claim liabilities, including those over the key assumptions.
+•
+We tested the underlying data that served as the basis for the actuarial analysis, including historical claims, to test that the inputs to the actuarial estimate were accurate and complete.
+•
+With the assistance of our actuarial specialists:
+•
+We developed independent claim liability estimates for certain retroactive reinsurance contracts and compared our estimates to management’s estimates. For other retroactive reinsurance contracts, we evaluated the process used by management to develop the estimated claim liabilities.
+•
+We compared prior year estimates of expected incurred losses to actual experience during the most recent year to identify potential bias in management’s determination of the claim liabilities.
+/s/
+Deloitte & Touche LLP
+Omaha, Nebraska
+February 22, 2025
+We have served as the Company’s auditor since 1985.
+K-
+65
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED B
+ALANCE SHEETS
+(dollars in millions)
+*
+Includes
+U.S. Treasury Bills
+with maturities of three months or less when purchased of $
+14.4
+billion at December 31, 2024 and $
+4.8
+billion at December 31,

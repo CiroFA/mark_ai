@@ -1,0 +1,20 @@
+period that the hedged item impacts earnings. Gains or losses on derivatives designated as cash flow and net investment hedges are recorded in accumulated other comprehensive loss within common shareholders’ equity and reclassified to our income statement when the hedged transaction affects earnings for cash flow hedges and when the hedged foreign operation is either sold or substantially liquidated for net investment hedges. If it becomes probable that the hedged transaction will not occur, we immediately recognize the related hedging gains or losses in earnings; there were
+no
+such gains or losses reclassified during the year ended December 28, 2024.
+Cash flows from derivatives used to manage commodity price, foreign exchange or interest rate risks are classified as operating activities in the cash flow statement. We classify both the earnings and cash flow impact from these derivatives consistent with the underlying hedged item. Cash flows associated with the settlement of derivative instruments designated as net investment hedges of foreign operations are classified within investing activities.
+Credit Risk
+We perform assessments of our counterparty credit risk regularly, including reviewing netting agreements, if any, and a review of credit ratings, credit default swap rates and potential nonperformance of the counterparty. Based on our most recent assessment of our counterparty credit risk, we consider this risk to be low. In addition, we enter into derivative contracts with a variety of financial institutions that we believe are creditworthy in order to reduce our concentration of credit risk.
+Certain of our agreements with our counterparties require us to post full collateral on derivative instruments in a net liability position if our credit rating is at A2 (Moody’s Investors Service, Inc.) or A (S&P Global Ratings) and we have been placed on credit watch for possible downgrade or if our credit rating falls below either of these levels. The fair value of all derivative instruments with credit-risk-related contingent features that were in a net liability position as of December 28, 2024 was $
+208
+million. We have posted
+no
+collateral under these contracts and
+no
+credit-risk-related contingent features were triggered as of December 28, 2024.
+100
+Table of
+Contents
+Commodity Prices
+We are subject to commodity price risk because our ability to recover increased costs through higher pricing may be limited in the competitive environment in which we operate. This risk is managed through the use of fixed-price contracts and purchase orders, pricing agreements and derivative instruments, which primarily include swaps and futures. In addition, risk to our supply of certain raw materials is mitigated through purchases from multiple geographies and suppliers. We use derivatives, with terms of no more than
+two years
+, to hedge price fluctuations related to a portion of our anticipated commodity purchases, primarily for agricultural products, metals, and

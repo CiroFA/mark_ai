@@ -1,0 +1,50 @@
+amount is presented for the purpose of providing information about the size of the securitization entities and is not representative of the firm’s risk of loss.
+•
+The firm’s risk of loss from retained or purchased interests is limited to the carrying value of these interests.
+•
+Purchased interests represent senior and subordinated interests, purchased in connection with secondary market-making activities, in securitization entities in which the firm also holds retained interests.
+•
+Substantially all of the total outstanding principal amount and total retained interests relate to securitizations during 2019 and thereafter.
+•
+The fair value of retained interests was $
+5.99
+billion as of March 2025 and $
+5.78
+billion as of December 2024.
+In addition to the interests in the table above, the firm had other continuing involvement in the form of derivative transactions and commitments with certain nonconsolidated VIEs. The carrying value of these derivatives and commitments was a net asset of $
+1.03
+billion as of March 2025 and $
+847
+million as of December 2024, and the notional amount of these derivatives and commitments was $
+3.26
+billion as of March 2025 and $
+2.78
+billion as of December 2024. The notional amounts of these derivatives and commitments are included in maximum exposure to loss in the nonconsolidated VIE table in Note 17. Additionally, the firm provided seller financing of $
+340
+million (in connection with the sale of $
+425
+million of loans) during the three months ended March 2025 and approximately $
+1.50
+billion (in connection with the sale of $
+3.69
+billion of loans) during the three months ended March 2024. The principal and interest repayments received from the seller financings were $
+198
+million for the three months ended March 2025 and $
+381
+million for the three months ended March 2024. The total outstanding principal amount of seller financings were $
+1.48
+billion as of March 2025 and $
+1.32
+billion as of December 2024.
+The table below presents information about the weighted average key economic assumptions used in measuring the fair value of mortgage-backed retained interests.
+In the table above:
+•
+Amounts do not reflect the benefit of other financial instruments that are held to mitigate risks inherent in these retained interests.
+•
+Changes in fair value based on an adverse variation in assumptions generally cannot be extrapolated because the relationship of the change in assumptions to the change in fair value is not usually linear.
+•
+The impact of a change in a particular assumption is calculated independently of changes in any other assumption. In practice, simultaneous changes in assumptions might magnify or counteract the sensitivities disclosed above.
+•
+The constant prepayment rate is included only for positions for which it is a key assumption in the determination of fair value.
+•
+The discount rate for retained interests that relate to U.S. government agency-issued CMOs does not include any credit loss. Expected credit

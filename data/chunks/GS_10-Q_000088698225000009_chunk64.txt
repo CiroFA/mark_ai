@@ -1,0 +1,54 @@
+at the option of the holder are reflected at the earliest dates such options become exercisable.
+•
+Unsecured long-term borrowings included $(
+8.84
+) billion of adjustments to the carrying value of certain unsecured long-term borrowings resulting from the application of hedge accounting by year of maturity as follows: $(
+146
+) million in 2026, $(
+708
+) million in 2027, $(
+740
+) million in 2028, $(
+749
+) million in 2029, $(
+784
+) million in 2030 and $(
+5.71
+) billion in 2031 and thereafter.
+The firm designates certain derivatives as fair value hedges to convert a portion of fixed-rate unsecured long-term borrowings not accounted for at fair value into floating-rate obligations. See Note 7 for further information about hedging activities.
+The table below presents unsecured long-term borrowings, after giving effect to such hedging activities.
+In the table above, the aggregate amounts of unsecured long-term borrowings had weighted average interest rates of
+5.50
+% (
+4.37
+% related to fixed-rate obligations and
+5.65
+% related to floating-rate obligations) as of March 2025 and
+5.72
+% (
+4.39
+% related to fixed-rate obligations and
+5.82
+% related to floating-rate obligations) as of December 2024. These rates exclude unsecured long-term borrowings accounted for at fair value under the fair value option.
+Subordinated Borrowings
+Unsecured long-term borrowings includes subordinated debt and junior subordinated debt. Subordinated debt that matures within one year is included in unsecured short-term borrowings. Junior subordinated debt is junior in right of payment to other subordinated borrowings, which are junior to senior borrowings.
+Subordinated debt had maturities ranging from 2025 to 2045 as of both March 2025 and December 2024.
+The table below presents information about subordinated borrowings.
+In the table above, the rate is the weighted average interest rate for these borrowings (excluding borrowings accounted for at fair value under the fair value option), including the effect of fair value hedges used to convert fixed-rate obligations into floating-rate obligations. See Note 7 for further information about hedging activities.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Junior Subordinated Debt
+In 2004, Group Inc. issued $
+2.84
+billion of junior subordinated debt to Goldman Sachs Capital I, a Delaware statutory trust. Goldman Sachs Capital I issued $
+2.75
+billion of guaranteed preferred beneficial interests (Trust Preferred securities) to third parties and $
+85
+million of common beneficial interests to Group Inc. As of both March 2025 and December 2024, the outstanding par amount of junior subordinated debt held by Goldman Sachs Capital I was $
+968
+million and the outstanding par amount of Trust Preferred securities and common beneficial interests issued by Goldman Sachs Capital I was $
+939
+million and $
+29
+million, respectively. Goldman Sachs Capital I is a wholly-owned finance subsidiary of

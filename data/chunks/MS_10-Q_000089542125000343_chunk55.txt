@@ -1,0 +1,26 @@
+in the previous tables does not include the offsetting benefit of hedges or any reductions associated with the amount of collateral held as part of a transaction with the VIE or any party to the VIE directly against a specific exposure to loss.
+Liabilities issued by VIEs generally are non-recourse to the Firm.
+Detail of Mortgage- and Asset-Backed Securitization Assets
+Transferred Assets with Continuing Involvement
+RML—Residential mortgage loans
+CML—Commercial mortgage loans
+1.
+Amounts include CLO transactions managed by unrelated third parties.
+2.
+Amounts include assets transferred by unrelated transferors.
+3.
+Amounts include transactions where the Firm also holds retained interests as part of the transfer.
+The previous tables include transactions with SPEs in which the Firm, acting as principal, transferred financial assets with continuing involvement and received sales treatment. The transferred assets are carried at fair value prior to securitization, and any changes in fair value are recognized in the income statement. The Firm may act as underwriter of the beneficial interests issued by these securitization vehicles, for which Investment banking revenues are recognized. The Firm may retain interests in the securitized financial assets as one or more tranches of the securitization. Certain retained interests are carried at fair value in the balance sheet with changes in fair value recognized in the income statement. Fair value for these interests is measured using techniques that are consistent with the valuation techniques applied to the Firm’s major categories of assets and liabilities as described in Note 2 in the 2024 Form 10-K and Note 4 herein. Further, as permitted by applicable guidance, certain transfers of assets where the Firm’s only continuing involvement is a derivative are only reported in the following Assets Sold with Retained Exposure table.
+Proceeds from New Securitization Transactions and Sales of Loans
+1.
+Net gains on new transactions and sales of corporate loans to CLO entities at the time of the sale were not material for all periods presented.
+The Firm has provided, or otherwise agreed to be responsible for, representations and warranties regarding certain assets transferred in securitization transactions sponsored by the Firm (see Note 13).
+Assets Sold with Retained Exposure
+1.
+The carrying value of assets derecognized at the time of sale approximates gross cash proceeds.
+The Firm enters into transactions in which it sells securities, primarily equities, and contemporaneously enters into bilateral OTC derivatives with the purchasers of the securities, through which it retains exposure to the sold securities.
+For a discussion of the Firm’s VIEs, the determination and structure of VIEs and securitization activities, see Note 15 to the financial statements in the 2024 Form 10-K.
+15.
+Regulatory Requirements
+Regulatory Capital Framework and Requirements
+For a discussion of the Firm’s regulatory capital framework, see Note

@@ -1,0 +1,22 @@
+Investments without readily determinable fair values, non-marketable equity securities, are measured and recorded using a measurement alternative that values the security at cost minus any impairment.  All intercompany transactions and balances have been eliminated.
+Following the combination and the progress in 2023 toward the integration of the Swedish Match business into PMI's existing regional structure, PMI updated in January 2024 its segment reporting by including the former Swedish Match segment results into the
+four
+existing geographical segments. The
+four
+existing geographical segments are as follows: Europe Region; South and Southeast Asia, Commonwealth of Independent States, Middle East and Africa Region ("SSEA, CIS & MEA"); East Asia, Australia, and PMI Duty Free Region ("EA, AU & PMI DF"); and Americas Region. The Wellness and Healthcare ("W&H") segment remained unchanged.
+Certain prior years' amounts have been reclassified to conform with the current year's presentation as a result of the new segment structure discussed above. For further details, see Note 5.
+Goodwill and Other Intangible Assets, net
+, Note 13.
+Segment Reporting
+and Note 20.
+Restructuring Activities.
+These reclassifications did not impact PMI's consolidated financial position, results of operations or cash flows in any of the periods presented.
+83
+Summary of Significant Accounting Policies:
+Acquisitions
+PMI uses the acquisition method of accounting for acquired businesses.  Under the acquisition method, PMI’s consolidated financial statements reflect the operations of an acquired business starting from the closing date of the acquisition.  PMI allocates the purchase price to the tangible and identifiable intangible assets acquired and liabilities assumed based on the estimated fair values as of the acquisition date.  Any residual purchase price is recorded as goodwill.  The fair value of assets acquired and liabilities assumed in certain cases may be subject to revision based on the final determination of fair value during a period of time not to exceed 12 months from the acquisition date. Contingent consideration liabilities are recognized at the estimated fair value on the acquisition date.  Subsequent changes to the fair value of contingent consideration are recognized in marketing, administration and research costs in the consolidated statement of earnings.  Transaction costs are expensed as incurred.
+If PMI determines that assets acquired do not meet the definition of a business, the transaction will be accounted for as an acquisition of assets rather than a business combination and, therefore, no goodwill will be recorded.  In an asset acquisition, acquired in-process research and development ("IPR&D") with no alternative future use is charged to expense.
+Cash and cash equivalents
+Cash equivalents include demand deposits with banks and all highly liquid investments with original maturities of three months or less.
+Depreciation and Amortization
+Property, plant

@@ -1,0 +1,20 @@
+Citi’s eligible external TLAC and long-term debt (LTD) amounts and ratios, and each TLAC and LTD regulatory requirement, as well as the surplus amount in dollars in excess of each requirement:
+(1)    External TLAC includes method 1 GSIB surcharge of 2.0%.
+(2)    LTD includes method 2 GSIB surcharge of 3.5%.
+As of March 31, 2025, Citi exceeded each of the TLAC and LTD regulatory requirements, resulting in a $13 billion surplus above its binding TLAC requirement of LTD as a percentage of Total Leverage Exposure.
+For additional information on Citi’s TLAC-related requirements, see “Capital Resources—Total Loss-Absorbing Capacity (TLAC)” in Citi’s 2024 Form 10-K.
+Regulatory Capital Standards and Developments
+Stress Capital Buffer (SCB) Requirements
+On April 17, 2025, the FRB issued a notice of proposed rulemaking intended to reduce the volatility of the SCB requirement by averaging the results of the annual supervisory stress test over two years. The proposal would also change the annual effective date of the SCB requirement from October 1 to January 1 in each year. If adopted as proposed, the changes to the calculation of the SCB requirement would be effective beginning with the 2025 supervisory stress test, such that the maximum CET1 Capital declines projected in the 2024 and 2025 supervisory stress tests for Citi would be averaged in producing Citi’s new SCB requirement, which would be effective January 1, 2026.
+For information on proposed changes to U.S. regulatory capital requirements, known as the Basel III Endgame, as well as to the GSIB surcharge and the TLAC rule, see “Capital Resources—Regulatory Capital Standards and Developments” in Citi’s 2024 Form 10-K.
+41
+Tangible Common Equity, Book Value Per Share, Tangible Book Value Per Share and Return on Equity
+As defined by Citi, tangible common equity (TCE) represents common stockholders’ equity less goodwill and identifiable intangible assets (other than mortgage servicing rights (MSRs)). Return on tangible common equity (RoTCE) represents annualized net income available to common shareholders as a percentage of average TCE. Tangible book value per share (TBVPS) represents average TCE divided by average common shares outstanding. Other companies may calculate these measures differently.
+42
+Managing Global Risk—Table of Contents
+(1)    For additional information regarding certain credit risk, market risk and other quantitative and qualitative information, refer to
+Citi’s Pillar 3 Basel III Advanced Approaches Disclosures, as required by the rules of the FRB, on Citi’s Investor Relations website.
+These Pillar 3 disclosures are not incorporated by reference into, and do not form any part of, this Form 10-Q.
+43
+MANAGING GLOBAL RISK
+For Citi, effective risk management is of primary importance to its overall operations. Accordingly, Citi’s risk management process has been designed to monitor, evaluate and manage the principal risks it assumes in conducting its activities. Specifically, the activities

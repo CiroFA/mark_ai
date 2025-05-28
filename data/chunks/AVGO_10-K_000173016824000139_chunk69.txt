@@ -1,0 +1,19 @@
+floating interest rates. A hypothetical 100 basis point change in the interest rate would increase or decrease the interest expense on the 2023 Term Loans for the next 12 months by approximately $137 million. The carrying value of the 2023 Term Loans approximates their fair value as the underlying interest rates are tied to the Secured Overnight Financing Rate. We had no floating rate debt outstanding as of October 29, 2023.
+48
+Table of Contents
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+BROADCOM INC.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+49
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of Broadcom Inc.
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of Broadcom Inc. and its subsidiaries (the “Company”) as of November 3, 2024 and October 29, 2023, and the related consolidated statements of operations, of comprehensive income, of stockholders’ equity and of cash flows for each of the three years in the period ended November 3, 2024, including the related notes and financial statement schedule listed in the index appearing under Item 15(a)(2) (collectively referred to as the “consolidated financial statements”). We also have audited the Company's internal control over financial reporting as of November 3, 2024, based on criteria established in
+Internal Control - Integrated Framework
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of November 3, 2024 and October 29, 2023, and the results of its operations and its cash flows for each of the three years in the period ended November 3, 2024 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of November 3, 2024, based on criteria established in
+Internal Control - Integrated Framework
+(2013) issued by the COSO.
+Basis for Opinions
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in Management’s Report on Internal Control over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal

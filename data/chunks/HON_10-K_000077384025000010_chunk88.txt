@@ -1,0 +1,24 @@
+except per share amounts)
+Amounts recognized in Accumulated other comprehensive loss associated with the Company's significant pension and other postretirement benefit plans at December 31, 2024, and 2023, are as follows:
+102
+Honeywell International Inc.
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+Net periodic benefit (income) cost and other amounts recognized in Other comprehensive (income) loss for the Company's significant pension and other postretirement benefit plans include the following components:
+103
+Honeywell International Inc.
+HONEYWELL INTERNATIONAL INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in tables in millions, except per share amounts)
+Major actuarial assumptions used in determining the benefit obligations and net periodic benefit (income) cost for the Company's significant benefit plans are presented in the following table as weighted averages:
+The discount rate for the Company's U.S. pension and other postretirement benefit plans reflects the current rate at which the associated liabilities could be settled at the measurement date of December 31. To determine discount rates for the Company's U.S. pension and other postretirement benefit plans, the Company uses a modeling process that involves matching the expected cash outflows of the Company's benefit plans to a yield curve constructed from a portfolio of high-quality, fixed income debt instruments. The Company uses the single weighted average yield of this hypothetical portfolio as a discount rate benchmark. The Company utilizes a full yield curve approach in the estimation of the service and interest cost components of net periodic pension benefit (income) for the Company's significant pension plans. This approach applies the specific spot rates along the yield curve used in the determination of the pension benefit obligation to their underlying projected cash flows and provides a more precise measurement of service and interest costs by improving the correlation between projected cash flows and their corresponding spot rates. For the Company's U.S. pension plans, the single weighted average spot rates used to determine service and interest costs for 2025 are
+5.55
+% and
+5.28
+%, respectively. The discount rate used to determine the other postretirement benefit obligation is higher principally due to a shorter expected duration of other postretirement plan obligations as compared to pension plan obligations.
+The Company plans to use an expected rate of return on U.S. plan assets of
+7.25
+% for 2025, which represents an increase from the
+7.00
+% assumption used for 2024. The Company's asset return assumption is based on historical plan asset returns over varying long-term periods combined with current market conditions and broad asset mix considerations with a focus on long-term trends rather than short-term market conditions. The Company reviews the expected

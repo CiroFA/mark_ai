@@ -1,0 +1,99 @@
+gaap:OperatingSegmentsMember
+abt:EstablishedPharmaceuticalProductsMember
+2025-03-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:EstablishedPharmaceuticalProductsMember
+2024-12-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:NutritionalProductsMember
+2025-03-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:NutritionalProductsMember
+2024-12-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:DiagnosticProductsMember
+2025-03-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:DiagnosticProductsMember
+2024-12-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:MedicalDevicesMember
+2025-03-31
+0000001800
+us-gaap:OperatingSegmentsMember
+abt:MedicalDevicesMember
+2024-12-31
+0000001800
+us-gaap:OperatingSegmentsMember
+2025-03-31
+0000001800
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0000001800
+us-gaap:MaterialReconcilingItemsMember
+2025-03-31
+0000001800
+us-gaap:MaterialReconcilingItemsMember
+2024-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+For the quarterly period ended
+March 31, 2025
+OR
+For the transition period from              to
+Commission File No.
+1-2189
+ABBOTT LABORATORIES
+100 Abbott Park Road
+Abbott Park
+,
+Illinois
+60064-6400
+Telephone:
+(
+224
+)
+667-6100
+Securities Registered Pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant: (l) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of l934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+x
+No
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+x
+No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+o
+No
+x
+As of
+March 31, 2025
+, Abbott Laboratories had
+1,739,836,465
+common shares without par value outstanding.
+Table of Contents
+Abbott Laboratories
+Table of Contents
+2
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Condensed Consolidated Statement of Earnings
+(Unaudited)
+(dollars in millions

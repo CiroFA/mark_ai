@@ -1,0 +1,32 @@
+inputs to use when calculating the fair value of any one derivative. For example, the highest correlation for interest rate derivatives is appropriate for valuing a specific interest rate derivative but may not be appropriate for valuing any other interest rate derivative. Accordingly, the ranges of inputs do not represent uncertainty in, or possible ranges of, fair value measurements of level 3 derivatives.
+•
+Interest rates, currencies and equities derivatives are valued using option pricing models, credit derivatives are valued using option pricing, correlation and discounted cash flow models, and commodities derivatives are valued using option pricing and discounted cash flow models.
+•
+The fair value of any one instrument may be determined using multiple valuation techniques. For example, option pricing models and discounted cash flow models are typically used together to determine fair value. Therefore, the level 3 balance encompasses both of these techniques.
+•
+Correlation within currencies and equities includes cross-product type correlation.
+•
+Natural gas spread represents the spread per million British thermal units of natural gas.
+•
+Oil spread represents the spread per barrel of oil and refined products.
+•
+Electricity price represents the price per megawatt hour of electricity.
+Range of Significant Unobservable Inputs.
+The following provides information about the ranges of significant unobservable inputs used to value the firm’s level 3 derivative instruments:
+•
+Correlation.
+Ranges for correlation cover a variety of underliers both within one product type (e.g., equity index and equity single stock names) and across product types (e.g., correlation of an interest rate and a currency), as well as across regions. Generally, cross-product type correlation inputs are used to value more complex instruments and are lower than correlation inputs on assets within the same derivative product type.
+•
+Volatility.
+Ranges for volatility cover numerous underliers across a variety of markets, maturities and strike prices. For example, volatility of equity indices is generally lower than volatility of single stocks.
+•
+Credit spreads, upfront credit points and recovery rates.
+The ranges for credit spreads, upfront credit points and recovery rates cover a variety of underliers (index and single names), regions, sectors, maturities and credit qualities (high-yield and investment-grade). The broad range of this population gives rise to the width of the ranges of significant unobservable inputs.
+•
+Commodity prices and spreads.
+The ranges for commodity prices and spreads cover variability in products, maturities and delivery locations.
+Sensitivity of Fair Value Measurement to Changes in Significant Unobservable Inputs.
+The following is a description of the directional sensitivity of the firm’s level 3 fair value measurements to changes in significant unobservable inputs, in isolation, as of each period-end:
+•
+Correlation.
+In general, for contracts where the

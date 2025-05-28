@@ -1,0 +1,18 @@
+that support industrial revenue bond underwriting, (ii) settlement of payment obligations to clearing houses, including futures and over-the-counter derivatives clearing (see further discussion below), (iii) support options and purchases of securities in lieu of escrow deposit accounts and (iv) letters of credit that backstop loans, credit facilities, promissory notes and trade acceptances.
+Performance Guarantees
+Performance guarantees and letters of credit are issued to guarantee a customer’s tender bid on a construction or systems-installation project or to guarantee completion of such projects in accordance with contract terms. They are also issued to support a customer’s obligation to supply specified products, commodities or maintenance or warranty services to a third party.
+Derivative Instruments Considered to Be Guarantees
+Derivatives are financial instruments whose cash flows are based on a notional amount and an underlying instrument, reference credit or index, where there is little or no initial investment and whose terms require or permit net settlement. See Note 24 for a discussion of Citi’s derivatives activities.
+Derivative instruments considered to be guarantees include only those instruments that require Citi to make payments to the counterparty based on changes in an underlying instrument that is related to an asset, a liability or an equity security held by the guaranteed party. More specifically, derivative instruments considered to be guarantees include certain over-the-counter written put options where the counterparty is not a bank, hedge fund or broker-dealer (such counterparties are considered to be dealers in these markets and may, therefore, not hold the underlying instruments). Credit derivatives sold by Citi are excluded from the tables above as they are disclosed separately in Note 24. In instances where Citi’s maximum potential future payment is unlimited, the notional amount of the contract is disclosed.
+Loans Sold with Recourse
+Loans sold with recourse represent Citi’s obligations to reimburse the buyers for loan losses under certain circumstances. Recourse refers to the clause in a sales agreement under which a seller/lender will fully reimburse the buyer/investor for any losses resulting from the purchased loans. This may be accomplished by the sellers taking back any loans that become delinquent.
+In addition to the amounts presented in the tables above, Citi has recorded a repurchase reserve for its potential repurchases or make-whole liability regarding residential mortgage representation and warranty claims related to its whole loan sales to U.S. government-sponsored agencies and, to a lesser extent, private investors. The repurchase reserve was approximately $
+12
+million and $
+11
+million at
+December 31, 2024 and 2023, respectively, and these amounts are included in
+Other liabilities
+on the Consolidated Balance Sheet.
+Securities Lending Indemnifications
+Owners of securities frequently lend those securities for

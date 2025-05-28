@@ -1,0 +1,18 @@
+$240.51. The following table presents common stock repurchases during each month for the fourth quarter of 2024:
+[a]
+Total number of shares purchased during the quarter includes approximately 2,932 shares delivered or attested to UPC by employees to pay stock option exercise prices, satisfy excess tax withholding obligations for stock option exercises or vesting of retention units, and pay withholding obligations for vesting of retention shares.
+[b]
+Effective April 1, 2022, our Board of Directors authorized the repurchase of up to 100 million shares of our common stock by March 31, 2025. These repurchases may be made on the open market or through other transactions. Our management has sole discretion with respect to determining the timing and amount of these transactions.
+Item 6.
+[Reserved]
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with the Consolidated Financial Statements and applicable notes to the Financial Statements and Supplementary Data, Item 8, and other information in this report, including Risk Factors set forth in Item 1A and Critical Accounting Estimates and Cautionary Information at the end of this Item 7. The following section generally discusses 2024 and 2023 items and year-to-year comparisons between 2024 and 2023. Discussions of 2022 items and year-to-year comparisons between 2023 and 2022 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7, of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+The Railroad, along with its subsidiaries and rail affiliates, is our one reportable operating segment. Although we provide and analyze revenues by commodity group, we treat the financial results of the Railroad as one segment due to the integrated nature of our rail network.
+EXECUTIVE SUMMARY
+2024 Results
+•
+Safety
+– 2024 was a transformational year on our journey to becoming the safest railroad. Our strategy is broken into four pillars – Injury Prevention, Leverage Technology, Situational Awareness Testing, and Peer-to-Peer Engagement.
+Injury Prevention efforts focus on specific, critical tasks to reduce the risk of injury or derailment. These critical tasks are those where any form of non-compliance can result in a serious injury. Training is key to helping our employees understand how to execute those tasks safely.
+We are Leveraging Technology to eliminate or automate activities with the most risk. We have more than 7,000 wayside detectors that monitor freight cars and locomotives in real time, generating 16 million data points daily to proactively identify and mitigate risks. We are building safer trains with our proprietary Physics Train Builder technology, which allows us to evaluate train and route characteristics to enable proactive intervention by our Operating Practices Command

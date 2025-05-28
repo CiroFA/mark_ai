@@ -1,0 +1,29 @@
+Company has historically not experienced significant credit losses, it is possible that there could be a material adverse impact from potential adjustments of the carrying amount of lease and trade receivables as hospital cash flows are impacted by macroeconomic factors, including inflation, tariffs, high interest rates, and staffing shortages.
+NOTE 6.
+LEASES
+Lessor Information related to Intuitive System Leasing
+Sales-type Leases.
+Lease receivables relating to sales-type lease arrangements are presented on the Condensed Consolidated Balance Sheets as follows (in millions):
+Contractual maturities of gross lease receivables as of March 31, 2025, are as follows (in millions):
+The Company enters into sales-type leases with certain qualified customers to purchase its systems. Sales-type leases have terms that generally range from
+24
+to
+84
+months and are usually collateralized by a security interest in the underlying assets.
+13
+The allowance for loan loss is based on the Company’s assessment of the current expected lifetime loss on lease receivables. The Company regularly reviews the allowance by considering factors such as historical experience, credit quality, age of the lease receivable balances, and current economic conditions that may affect a customer’s ability to pay. Lease receivables are considered past due 90 days after invoice.
+The Company manages the credit risk of the net investment in sales-type leases using a number of factors relating to its customers, including, but not limited to, the following: size of operations; profitability, liquidity, and debt ratios; payment history; and past due amounts. The Company also uses credit scores obtained from external providers as a key indicator for the purposes of determining credit quality.
+The following table summarizes the amortized cost basis by year of origination and by credit quality for the net investment in sales-type leases as of March 31, 2025 (in millions):
+For the three months ended March 31, 2025, and 2024, credit losses related to the net investment in sales-type leases were not material.
+NOTE 7.
+GOODWILL AND INTANGIBLE ASSETS
+Acquisitions
+There were no material acquisitions in the three months ended March 31, 2025, and 2024.
+Pending Acquisitions
+On January 21, 2025, Intuitive announced that it has entered into a definitive agreement with the current Intuitive technology distributors ab medica, Abex, Excelencia Robotica, and their affiliates to acquire the da Vinci and Ion distribution businesses in Italy, Spain, Portugal, Malta, and San Marino, and associated territories. The transaction consists of an upfront cash payment of approximately EUR
+290
+million and up to an additional EUR
+31
+million in commercial milestone cash payments, subject to certain closing adjustments. The Company expects to complete the transaction in the first half of 2026, subject to applicable regulatory approvals and customary closing conditions.
+Goodwill
+The following table summarizes the changes in the

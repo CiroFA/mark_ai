@@ -1,0 +1,36 @@
+average grant date fair value per share of the granted restricted stock units, restricted stock, performance share units and performance units and total fair value vested awards for indicated periods is presented below:
+76
+Table of Contents
+APPLIED MATERIALS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Employee Stock Purchase Plans
+Under the ESPP, substantially all employees may purchase our common stock through payroll deductions at a price equal to
+85
+percent of the lower of the fair market value of our common stock at the beginning or end of each
+6
+-month purchase period, subject to certain limits. Our purchasing cycles began in March and September of each of fiscal 2024, 2023 and 2022. We issued
+2
+million shares in fiscal 2024 at a weighted average price of $
+147.38
+per share,
+2
+million shares in fiscal 2023 at a weighted average price of $
+87.75
+per share and
+2
+million shares in fiscal 2022 at a weighted average price of $
+93.30
+per share, under the ESPP. Compensation expense is calculated using the fair value of the employees’ purchase rights under the Black-Scholes model.
+Underlying assumptions used in the model are outlined in the following table:
+Note 11
+Employee Benefit Plans
+Employee Bonus Plans
+We have various employee bonus plans. A discretionary bonus plan provides for the distribution of a percentage of pre-tax income to our employees who are not participants in other performance-based incentive plans, up to a maximum percentage of eligible compensation. Other plans provide for bonuses to our executives and other key contributors based on the achievement of profitability and/or other specified performance criteria. Charges under these plans for fiscal 2024, 2023 and 2022 were $
+837
+million, $
+702
+million and $
+623
+million, respectively.
+Defined Benefit Pension Plans of Foreign Subsidiaries and Other Postretirement Benefits
+Several of our foreign subsidiaries have defined benefit pension plans covering substantially all of their eligible employees. Benefits under these plans are typically based on years of service and final average compensation levels. The plans are managed in accordance with applicable local statutes and practices. We deposit funds for certain of these plans with insurance companies, pension trustees, government-managed accounts, and/or accrue the expense for the unfunded portion of the benefit obligation on our Consolidated Financial Statements. Our practice is to fund the various pension plans in amounts sufficient to meet the minimum requirements as established by applicable local governmental oversight and taxing authorities. Depending on the design of the plan, local custom and market circumstances, the liabilities of a plan may exceed the qualified plan assets. The differences between the aggregate projected benefit obligations and aggregate plan assets of these plans have been recorded as liabilities by us and are included in other liabilities and accrued expenses in the Consolidated

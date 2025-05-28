@@ -1,0 +1,25 @@
+broker nonbinding quotes or quotes from pricing services which use significant unobservable inputs. BlackRock's corporate minority private debt investments were primarily valued using the income approach by discounting the expected cash flows to a single present value. For investments utilizing a discounted cashflow valuation technique, an increase (decrease) in the discount rate or risk premium in isolation could have resulted in a significantly lower (higher) fair value measurement as of March 31, 2025 and December 31, 2024.
+Level 3 Liabilities.
+Level 3 liabilities primarily include borrowings of a consolidated CLO, which were valued based on the fair value of the assets of the consolidated CLO less the fair value of the Company’s economic interest in the CLO, as well as contingent consideration liabilities related to certain acquisitions, which were valued based upon discounted cash flow analyses using unobservable market data inputs or other valuation techniques.
+17
+At March 31, 2025 and December 31, 2024
+, the contingent consideration liability related to the GIP Transaction was estimated using the income approach, with certain significant inputs including risk-free discount rates of approximately
+3.9
+% and
+4.3
+%, respectively, as well as current estimates of the timing and amounts of fundraising forecasts, stock and AUM volatility, and correlation between stock price and AUM (Level 3 inputs). Accordingly, changes in key inputs and assumptions described will impact the amount of contingent consideration expense recorded in a reporting period until the contingency is resolved. Changes in fair value are recorded within general and administration expense of the condensed consolidated statements of income.
+Changes in Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis for the Three Months Ended
+March 31, 2025
+(1)
+Issuances and other settlements amounts include a contingent liability payment related to a previous acquisition and repayments of borrowings of a consolidated CLO.
+(2)
+Earnings attributable to the change in unrealized gains (losses) relating to assets and liabilities still held at the reporting date.
+Changes in Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis for the Three Months Ended March 31, 2024
+(1)
+Amounts include repayments of borrowings of a consolidated CLO.
+(2)
+Earnings attributable to the change in unrealized gains (losses) relating to assets and liabilities still held at the reporting date.
+Realized and Unrealized Gains (Losses) for Level 3 Assets and Liabilities.
+Realized and unrealized gains (losses) recorded for Level 3 assets and liabilities are reported in nonoperating income (expense) or AOCI for corporate minority private debt investments. A portion of net income (loss) related to securities held by CIPs is allocated to NCI to reflect net income (loss) not attributable to the Company.
+Transfers in and/or out of Levels.
+Transfers in and/or out of levels are reflected

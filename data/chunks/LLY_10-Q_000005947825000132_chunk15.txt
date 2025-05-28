@@ -1,0 +1,90 @@
+2024-03-31
+0000059478
+lly:EarlyStageMember
+lly:ReportableSegmentMember
+2025-01-01
+2025-03-31
+0000059478
+lly:EarlyStageMember
+lly:ReportableSegmentMember
+2024-01-01
+2024-03-31
+0000059478
+lly:LateStageMember
+lly:ReportableSegmentMember
+2025-01-01
+2025-03-31
+0000059478
+lly:LateStageMember
+lly:ReportableSegmentMember
+2024-01-01
+2024-03-31
+0000059478
+lly:ReportableSegmentMember
+2025-03-31
+0000059478
+lly:ReportableSegmentMember
+2024-12-31
+0000059478
+lly:ReportableSegmentMember
+2024-01-01
+2024-12-31
+0000059478
+lly:IlyaYuffaMember
+2025-01-01
+2025-03-31
+0000059478
+lly:IlyaYuffaMember
+2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-Q
+Quarterly Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the quarterly period ended
+March 31, 2025
+COMMISSION FILE NUMBER
+001-6351
+ELI LILLY AND COMPANY
+(Exact name of Registrant as specified in its charter)
+Lilly Corporate Center
+,
+Indianapolis
+,
+Indiana
+46285
+(Address and zip code of principal executive offices)
+Registrant's telephone number, including area code (
+317
+)
+276-2000
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No
+☒
+The number of shares of common stock outstanding as of April 28, 2025:
+Eli Lilly and Company
+Form 10-Q
+For the Quarter Ended March 31, 2025
+Table of Contents
+2
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q
+and our other publicly available documents include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 (Exchange Act),

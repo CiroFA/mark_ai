@@ -1,0 +1,19 @@
+QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We manage exposure to market interest rates by diversifying investments across different fixed-income market sectors and debt across maturities, as well as by matching a portion of our floating-rate assets and liabilities, either directly or through the use of interest rate swap contracts. Unrealized gains and losses on investments in available-for-sale debt securities are reported in comprehensive income.
+The following table summarizes the impact of hypothetical changes in market interest rates across the entire yield curve by 1% point or 2% points as of March 31, 2025 on our investment income and interest expense per annum, and the fair value of our investments and debt (in millions, except percentages):
+Note: The impact of hypothetical changes in interest rates may not reflect the full 100 or 200 basis point change on interest income and interest expense or on the fair value of financial assets and liabilities as the rates are assumed to not fall below zero.
+21
+Table of Contents
+ITEM 4.    CONTROLS AND PROCEDURES
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+We maintain disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (Exchange Act) that are designed to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms; and (ii) accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+In connection with the filing of this quarterly report on Form 10-Q, management evaluated, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of March 31, 2025. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of March 31, 2025.
+CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+There have been no changes in our internal control over financial reporting during the quarter ended March 31, 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II. OTHER INFORMATION
+ITEM 1.    LEGAL PROCEEDINGS
+A description of our legal proceedings is included in and incorporated by reference to
+Note 6 of Notes to the Condensed Consolidated Financial Statements
+included in Part I, Item 1 of this report.
+ITEM 1A.    RISK FACTORS
+In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” of our 2024 10-K,

@@ -1,0 +1,38 @@
+offset in Corporate, with no effect on the Firm’s net interest income.
+As a result of lower average interest rates in the current period, the cost of funding for assets and the funding benefit earned for liabilities generally decreased compared with the prior year.
+Foreign exchange risk
+Foreign exchange risk is transferred from the LOBs and Other Corporate to Treasury and CIO for certain revenues and expenses. Treasury and CIO manages these risks centrally and reports the impact of foreign exchange rate movements related to the transferred risk in its results. Refer to Market Risk Management on pages 65-70 for additional information.
+Capital allocation
+The amount of capital assigned to each LOB and Corporate is referred to as equity. At least annually, the assumptions, judgments and methodologies used to allocate capital are reassessed and, as a result, the capital allocated to the LOBs and Corporate may change. Refer to Line of business and Corporate equity on page 36, and page 104 of JPMorganChase’s 2024 Form 10-K for additional information on capital allocation.
+Refer to Business Segment & Corporate Results – Description of business segment reporting methodology on pages 70–90 and Note 32 of JPMorganChase’s 2024 Form 10-K for a further discussion of those methodologies.
+17
+Segment & Corporate Results – Managed basis
+The following tables summarize the Firm’s results by business segments and Corporate for the periods indicated.
+Refer to Note 25 for further details on total net revenue and total noninterest expense.
+The following sections provide a comparative discussion of the Firm’s results by business segments and Corporate as of or for the three months ended March 31, 2025 and 2024, unless otherwise specified.
+18
+Refer to pages 73–76 of JPMorganChase's 2024 Form 10-K and Line of Business Metrics on page 179 for a discussion of the business profile of CCB.
+(a)
+Primarily includes operating lease income and commissions and other fees. Operating lease income was $824 million and $665 million for the three months ended March 31, 2025 and 2024, respectively.
+(b)
+Included depreciation expense on leased assets of $499 million and $427 million for the three months ended March 31, 2025 and 2024, respectively.
+(c)
+Included MSR risk management results of $9 million and $(1) million for the three months ended March 31, 2025 and 2024, respectively.
+Quarterly results
+Net income was $4.4 billion, down 8%.
+Net revenue was $18.3 billion, up 4%.
+Net interest income was $14.1 billion, up
+3%, driven by:
+•
+higher Card Services NII, predominantly driven by higher revolving balances,
+partially offset by
+•
+lower NII in Banking & Wealth Management ("BWM"), driven by lower average deposit balances.
+Noninterest revenue was $4.2 billion, up 6%, driven by:
+•
+higher auto operating lease income as a result of higher lease origination volume, and
+•
+higher asset management fees reflecting higher average market levels,
+partially offset by
+•
+in BWM, the absence of other service

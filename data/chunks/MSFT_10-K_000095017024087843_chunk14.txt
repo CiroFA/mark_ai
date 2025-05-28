@@ -1,0 +1,32 @@
+volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows Internet of Things.
+•
+Devices, including Surface, HoloLens, and PC accessories.
+•
+Gaming, including Xbox hardware and Xbox content and services, comprising first-party content (such as Activision Blizzard) and third-party content, including games and in-game content; Xbox Game Pass and other subscriptions; Xbox Cloud Gaming; advertising; third-party disc royalties; and other cloud services.
+•
+Search and news advertising, comprising Bing (including Copilot), Microsoft News, Microsoft Edge, and third-party affiliates.
+Windows
+The Windows operating system is designed to deliver a more personal computing experience for users by enabling consistency of experience, applications, and information across their devices. Windows OEM revenue is impacted significantly by the number of Windows operating system licenses purchased by OEMs, which they pre-install on the devices they sell. In addition to computing device market volume, Windows OEM revenue is impacted by:
+•
+The mix of computing devices based on form factor and screen size.
+•
+Differences in device market demand between developed markets and growth markets.
+•
+Growth of the AI PC category
+•
+Attachment of Windows to devices shipped.
+•
+Customer mix between consumer, small and medium businesses, and large enterprises.
+•
+Changes in inventory levels in the OEM channel.
+•
+Pricing changes and promotions, pricing variation that occurs when the mix of devices manufactured shifts from local and regional system builders to large multinational OEMs, and different pricing of Windows versions licensed.
+•
+Constraints in the supply chain of device components.
+•
+Piracy.
+Windows Commercial revenue, which includes volume licensing of the Windows operating system and Windows cloud services such as Microsoft Defender for Endpoint, is affected mainly by the demand from commercial customers for Microsoft 365 and our advanced security offerings. Windows Commercial revenue often reflects the number of information workers in a licensed enterprise and is relatively independent of the number of PCs sold in a given year.
+Patent licensing includes our programs to license patents we own for use across a broad array of technology areas, including mobile devices and cloud offerings.
+Windows IoT extends the power of Windows and the cloud to intelligent systems by delivering specialized operating systems, tools, and services for use in embedded devices.
+Devices
+We design and sell devices, such as Surface (including Copilot+ PCs), HoloLens, and PC accessories. Our devices are designed to enable people and organizations to connect to the people and content that matter most using Windows and integrated Microsoft products and services. Surface is designed to help organizations, students, and consumers be more productive. Growth in Devices is dependent on total PC shipments, the ability to attract

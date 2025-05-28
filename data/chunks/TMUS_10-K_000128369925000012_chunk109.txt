@@ -1,0 +1,30 @@
+transferred over the fair values of assets acquired and liabilities assumed. The provisionally assigned goodwill recognized includes expected growth in customers and service revenues to be achieved from the operations of the combined company, the assembled workforce of Ka’ena and intangible assets that do not qualify for separate recognition. Of the total provisionally assigned amount of goodwill resulting from the Ka’ena Acquisition of $
+771
+million, the preliminary amount deductible for tax purposes is $
+90
+million. All of the goodwill acquired is allocated to the Wireless reporting unit.
+Other intangible assets acquired primarily include $
+545
+million of customer relationships with an estimated weighted-average useful life of
+six years
+, $
+70
+million of tradenames with an estimated weighted-average useful life of
+eight years
+and $
+125
+million of other intangible assets with an estimated weighted-average useful life of
+four years
+. The customer relationships are being amortized using the sum-of-the-years digits method over their estimated useful lives, and the tradenames are being amortized on a straight-line basis over their estimated useful lives.
+The preliminary fair value of customer relationships was estimated using the income approach. This fair value measurement is based on significant inputs not observable in the market, and, therefore, represents a Level 3 measurement as defined in ASC 820. The key assumptions in applying the income approach include forecasted subscriber churn rates, revenue over an estimated period of time, the discount rate and estimated income taxes.
+Acquisition of UScellular Wireless Operations
+On May 24, 2024, we entered into a securities purchase agreement with United States Cellular Corporation (“UScellular”), Telephone and Data Systems, Inc., and USCC Wireless Holdings, LLC, pursuant to which, among other things, we will acquire substantially all of UScellular’s wireless operations and select AWS, PCS, 600 MHz, 700 MHz and other spectrum assets for an aggregate purchase price of approximately $
+4.4
+billion, payable in cash and the assumption of up to $
+2.0
+billion of debt through an exchange offer to be made to certain UScellular debtholders prior to closing. To the extent any debtholders do not participate in the exchange, their bonds will continue as obligations of UScellular, and the cash portion of the purchase price will be correspondingly increased. The transaction is expected to close in mid-2025, subject to customary closing conditions and receipt of certain regulatory approvals. Upon closing of the transaction, we expect to account for the UScellular transaction as a business combination and to consolidate the acquired operations.
+73
+Index for Notes to the Consolidated Financial Statements
+Following the closing of the transaction, UScellular will retain ownership of its other spectrum, as well as its towers. Subject to the closing of the transaction, we will enter into a
+15-year
+master license

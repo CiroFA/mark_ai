@@ -1,0 +1,20 @@
+instruments are carried at fair value in certain balance sheet categories (see
+Note 7A
+), with changes in fair value reported in net income or, for certain qualifying hedging relationships, in
+Other comprehensive income/(loss)
+(see
+Note 7E
+).
+Q.
+Tax Assets and Liabilities and Income Tax Contingencies
+Tax Assets and Liabilities
+––
+Current tax assets
+primarily include (i) tax effects for intercompany transfers of inventory within our combined group, which are recognized in the consolidated statements of operations when the inventory is sold to a third party and (ii) income tax receivables that are expected to be recovered either via refunds from taxing authorities or reductions to future tax obligations.
+Deferred tax assets and liabilities are recognized for the expected future tax consequences of differences between the financial reporting and tax bases of assets and liabilities using enacted tax rates and laws. We provide a valuation allowance when we believe that our deferred tax assets are not recoverable based on an assessment of estimated future taxable income that incorporates ongoing, prudent and feasible tax-planning strategies, that would be implemented, if necessary, to realize the deferred tax assets. Amounts recorded for valuation allowances requires judgments about future income which can depend heavily on estimates and assumptions. All deferred tax assets and liabilities within the same tax jurisdiction are presented as a net amount in the noncurrent section of our consolidated balance sheet.
+The TCJA subjects a U.S. shareholder to current tax on global intangible low-taxed income earned by certain foreign subsidiaries. The FASB Staff Q&A, Topic 740, No. 5,
+Accounting for Global Intangible Low-Taxed Income
+, states that we are permitted to make an accounting policy election to either recognize deferred taxes for temporary basis differences expected to reverse as global intangible low-taxed income in future years or provide for the tax expense related to such income in the year the tax is incurred. We elected to recognize deferred taxes for temporary differences expected to reverse as global intangible low-taxed income in future years.
+Other non-current tax assets primarily represent our estimate of the potential tax benefits in one tax jurisdiction that could result from the payment of income taxes in another tax jurisdiction. These potential benefits generally result from cooperative efforts among taxing authorities, as required by tax treaties to minimize double taxation, commonly referred to as the competent authority process. The recoverability of these assets, which we believe to be more likely than not, is dependent upon the actual payment of taxes in one tax jurisdiction and, in some cases, the successful petition for recovery in another tax jurisdiction.
+Other taxes payable
+as of December 31, 2024 and 2023 include liabilities for uncertain tax positions and the noncurrent portion of the repatriation tax liability for which we

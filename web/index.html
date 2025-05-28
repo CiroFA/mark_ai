@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Mark – AI Investment Assistant</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+
+        textarea {
+            width: 60%;
+            height: 100px;
+            padding: 12px;
+            font-size: 16px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            resize: none;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            margin-top: 20px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #response {
+            margin-top: 30px;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            width: 60%;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+            white-space: pre-wrap;
+            text-align: left;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+        }
+    </style>
+</head>
+<body>
+    <h1>Mark – AI Investment Assistant</h1>
+    <textarea id="query" placeholder="Scrivi la tua domanda..."></textarea><br>
+    <button onclick="askMark()">Invia</button>
+
+    <div id="response">Nessuna risposta ancora.</div>
+
+    <script>
+        async function askMark() {
+            const query = document.getElementById("query").value;
+            const responseArea = document.getElementById("response");
+
+            if (!query.trim()) {
+                responseArea.textContent = "❗ Inserisci una domanda valida.";
+                return;
+            }
+
+            responseArea.textContent = "⏳ Sto pensando...";
+
+            try {
+                const response = await fetch("http://127.0.0.1:5000/ask", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ question: query })
+                });
+
+                const data = await response.json();
+                responseArea.textContent = data.answer || "❌ Nessuna risposta disponibile.";
+            } catch (error) {
+                responseArea.textContent = "⚠️ Errore nella comunicazione con il server.";
+                console.error(error);
+            }
+        }
+    </script>
+</body>
+</html>

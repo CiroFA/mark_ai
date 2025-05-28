@@ -1,0 +1,20 @@
+contractual maturity for substantially all OTC derivative assets and liabilities.
+•
+Counterparty netting within the same product type and tenor category is included within such product type and tenor category.
+•
+Counterparty netting across product types within the same tenor category is included in counterparty netting in tenors. Where the counterparty netting is across tenor categories, the netting is included in cross-tenor counterparty netting.
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of derivatives, and Note 5 for further information about derivatives within the fair value hierarchy.
+Credit Derivatives
+The firm enters into a broad array of credit derivatives to facilitate client transactions and to manage the credit risk associated with market-making and investing and financing activities. Credit derivatives are actively managed based on the firm’s net risk position. Credit derivatives are generally individually negotiated contracts and can have various settlement and payment conventions. Credit events include failure to pay, bankruptcy, acceleration of indebtedness, restructuring, repudiation and dissolution of the reference entity.
+The firm enters into the following types of credit derivatives:
+•
+Credit Default Swaps.
+Single-name credit default swaps protect the buyer against the loss of principal on one or more bonds, loans or mortgages (reference obligations) in the event the issuer of the reference obligations suffers a credit event. The buyer of protection pays an initial or periodic premium to the seller and receives protection for the period of the contract. If there is no credit event, as defined in the contract, the seller of protection makes no payments to the buyer. If a credit event occurs, the seller of protection is required to make a payment to the buyer, calculated according to the terms of the contract.
+•
+Credit Options.
+In a credit option, the option writer assumes the obligation to purchase or sell a reference obligation at a specified price or credit spread. The option purchaser buys the right, but does not assume the obligation, to sell the reference obligation to, or purchase it from, the option writer. The payments on credit options depend either on a particular credit spread or the price of the reference obligation.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+•
+Credit Indices, Baskets and Tranches.
+Credit derivatives may reference a basket of single-name credit default swaps or a broad-based index. If a credit event occurs in one of the underlying reference obligations, the protection seller pays the protection buyer. The payment is typically a pro-rata portion of the transaction’s total notional amount based on the underlying defaulted reference obligation. In certain transactions, the credit risk of a basket or index is separated into various portions (tranches),

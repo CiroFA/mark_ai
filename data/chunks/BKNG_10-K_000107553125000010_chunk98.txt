@@ -1,0 +1,16 @@
+model.
+The Company records stock-based compensation expense for performance-based awards using its estimate of the probable outcome at the end of the performance period (i.e., the estimated performance against the performance targets or performance goals, as applicable). The Company periodically adjusts the cumulative stock-based compensation expense recorded when the probable outcome for these performance-based awards is updated based upon changes in actual and forecasted operating results or expected achievement of performance goals, as applicable.
+66
+The benefits of tax deductions in excess of recognized compensation costs are recognized in the Consolidated Statements of Operations as a discrete item when an option exercise or a vesting and release of shares occurs. Excess tax benefits are presented as operating cash flows and cash payments for employee statutory tax withholding related to vested stock awards are presented as financing cash flows in the Consolidated Statements of Cash Flows.
+General and Administrative Expenses
+General and administrative expenses consist primarily of fees for certain outside professionals, occupancy and office expenses, personnel-related expenses such as travel, relocation, recruiting, and training expenses, and certain travel transaction taxes.
+Information Technology Expenses
+Information technology expenses consist primarily of: (1) software license and system maintenance fees; (2) cloud computing costs and outsourced data center costs; (3) payments to contractors; and (4) data communications and other expenses associated with operating the Company's services.
+Restructuring and Other Exit Costs
+The Company records employee severance and other termination costs that meet the requirements for recognition in accordance with the relevant guidance of Accounting Standards Codification ("ASC") 420,
+Exit or Disposal Cost Obligations,
+or ASC 712,
+Compensation - Nonretirement Postemployment Benefits
+, as applicable. For involuntary termination benefits that are not provided under the terms of an ongoing benefit arrangement, the liability for the current fair value of expected future costs associated with a management-approved restructuring plan is recognized in the period in which the plan is communicated to the employees and the plan is not expected to change significantly. For ongoing benefit arrangements, inclusive of statutory requirements, employee termination costs are accrued when the existing situation or set of circumstances indicates that an obligation has been incurred, it is probable the benefits will be paid, and the amount can be reasonably estimated. Termination benefits associated with voluntary leaver schemes are recorded when the employee irrevocably accepts the offer and the amount can be reasonably estimated.
+Income Taxes
+The Company accounts for income taxes under the asset and liability method. The Company records the estimated future tax effects of temporary differences between the tax bases of

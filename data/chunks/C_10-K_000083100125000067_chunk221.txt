@@ -1,0 +1,51 @@
+on accrued interest receivable for AFS and HTM debt securities, consistent with its non-accrual policy, which results in timely write-off of accrued interest. The Company did not reverse through interest income any accrued interest receivables for the years ended December 31, 2024 and 2023.
+The following table presents interest and dividend income on investments:
+The following table presents realized gains and losses on the sales of investments, which exclude impairment losses:
+201
+Debt Securities Available-for-Sale
+The amortized cost and fair value of AFS debt securities were as follows:
+(1)
+The Company invests in mortgage- and asset-backed securities, which are typically issued by VIEs through securitization transactions. The Company’s maximum exposure to loss from these VIEs is equal to the carrying amount of the securities, which is reflected in the table above. See Note 23 for mortgage- and asset-backed securitizations in which the Company has other involvement.
+(2)
+In January 2023, Citi adopted ASU 2022-01. Upon adoption, Citi transferred $
+3.3
+billion of mortgage-backed securities from HTM classification to AFS classification as allowed under the ASU. At the time of transfer, the securities were in an unrealized gain position of $
+0.1
+billion, which was recorded in
+AOCI
+upon transfer
+.
+See Note 1.
+(3)
+Amortized cost includes unallocated portfolio-layer cumulative basis adjustments of $(
+0.2
+) billion as of December 31, 2024. Gross unrealized gains and gross unrealized (losses) on mortgage-backed securities excluding the effect of unallocated portfolio-layer hedges cumulative basis adjustments were $
+35
+million and $(
+1,129
+) million, respectively, as of December 31, 2024.
+At December 31, 2024, the amortized cost of AFS debt securities for those in a loss position exceeded their fair value by $
+2,532
+million. Of the $
+2,532
+million, $
+1,037
+million represented unrealized losses on AFS debt securities that have been in a gross unrealized loss position for less than a year and, of these,
+67
+% were rated investment grade; and $
+1,495
+million represented unrealized losses on AFS debt securities that have been in a gross unrealized loss position for a year or more and, of these,
+91
+% were rated investment grade. Of the $
+1,495
+million, $
+688
+million represents mortgage-backed securities.
+202
+The following table presents the fair value of AFS debt securities that have been in an unrealized loss position:
+203
+The following table presents the amortized cost and fair value of AFS debt securities by contractual maturity dates:
+(1)
+Weighted-average yields are weighted based on the amortized cost of each security. The effective yield considers the contractual coupon, amortization of premiums and accretion of discounts and excludes the effects of any related hedging derivatives.
+(2)
+Includes mortgage-backed securities of U.S. government-sponsored agencies. The Company invests in mortgage- and asset-backed securities, which are typically issued by VIEs

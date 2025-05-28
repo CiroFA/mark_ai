@@ -1,0 +1,25 @@
+in Income on Unconsolidated Subsidiaries
+The Company holds an investment in a
+50
+/
+50
+joint venture arrangement with shared control with CME Group that combines each company’s post-trade services into a joint venture, OSTTRA. The joint venture provides trade processing and risk mitigation operations and incorporates CME Group’s optimization businesses (Traiana, TriOptima, and Reset) and the Company’s MarkitSERV business. The combination is intended to increase operating efficiencies of both the company's business to more effectively service clients with enhanced platforms and services for OTC markets across interest rate, FX, equity, and credit asset classes. Our share of earnings or losses are recognized in Equity in income on unconsolidated subsidiaries in our consolidated statements of income.
+On April 14, 2025, the Company and CME Group entered into an agreement to sell OSTTRA to investment funds managed by Kohlberg Kravis Roberts & Co. (“KKR”), a leading global investment firm. The terms of the deal for OSTTRA equaled total enterprise value at $
+3.1
+billion, subject to customary purchase price adjustments, which will be divided evenly between the Company and CME Group pursuant to the
+50
+/
+50
+joint venture. We currently anticipate the sale to result in a pre-tax gain of $
+220
+million ($
+140
+million after-tax) for the Company, including the impact of accumulated other comprehensive income related to our investment. The transaction is expected to close in the second half of 2025, subject to customary closing conditions and receipt of required regulatory approvals.
+Other Expense (Income), net
+The components of other expense (income), net for the three months ended March 31 are as follows:
+10
+2.
+Acquisitions and Divestitures
+On April 24, 2025, we entered into an agreement to acquire the Automatic Identification System (AIS) data services business of ORBCOMM Inc. The AIS business is a leading provider of satellite data services used to track and monitor vessels, enhancing maritime visibility and delivering critical insights that support business intelligence and decision-making for government and commercial clients worldwide. The AIS business is expected to be integrated within our Market Intelligence segment. We also expect to enter into a strategic alliance with ORBCOMM. Under this strategic alliance, the two organizations expect to develop a range of differentiated supply chain data and insight offerings and we will make an equity investment in ORBCOMM, underscoring our commitment to further investing in this sector while helping customers navigate the complex supply chain environment. The proposed acquisition is subject to customary closing conditions, including receipt of certain regulatory approvals and is expected to close during 2025. The proposed acquisition is not expected to be material to our consolidated financial statements.
+Acquisitions
+During the three months ended March 31, 2025 and 2024, we did not complete any material

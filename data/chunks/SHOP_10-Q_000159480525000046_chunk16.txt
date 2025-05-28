@@ -1,0 +1,40 @@
+sheets. The Company recognized an unrealized loss of $
+86
+million for the three months ended March 31, 2025 (March 31, 2024 - unrealized loss of $
+16
+million) and is presented as a component of "Net unrealized loss on equity and other investments".
+5.
+Trade and Other Receivables
+Trade receivables and unbilled revenues, net of allowance for credit losses, were as follows:
+Unbilled revenues represent amounts not yet billed related to partner referral fees, subscription fees for Plus merchants, shipping charges and transaction fees as of the condensed consolidated balance sheet date.
+The allowance for credit losses reflects the Company's best estimate of probable losses inherent in the unbilled revenues and trade receivables accounts. The Company determined the provision based on known troubled accounts, historical experience, supportable forecasts of collectibility and other currently available evidence.
+Activity in the allowance for credit losses was as follows for the three months ended:
+16
+Table of Contents
+6.
+Loans and Merchant Cash Advances
+(1)
+Included in the loans receivable gross balance as of March 31, 2025 is $
+20
+million of interest receivable (December 31, 2024 - $
+15
+million).
+Certain loans and merchant cash advances are facilitated by the Company and originated by a bank partner, from whom the Company then purchases the loans and merchant cash advances obtaining all rights, title and interest or discount. In the three months ended March 31, 2025, the Company purchased $
+821
+million of loans and merchant cash advances to Shopify merchants (March 31, 2024 - $
+587
+million). For some loans, the Company sells its full rights, title and interest to third-party investors. We account for the asset transfer as a sale and derecognize the full amount the Company paid to its bank partner to originate the loan and record a gain on sale of the loans sold to the third-party investor as revenue upon transfer of title. In the three months ended March 31, 2025, the Company did
+not
+sell loans to third-party investors (March 31, 2024 - $
+54
+million).
+In the three months ended March 31, 2025, the Company recognized revenue of $
+57
+million related to interest and fees earned on the Company's lending services, which do not represent revenues recognized in the scope of ASC 606, Revenue from Contracts with Customers (March 31, 2024 - $
+39
+million).
+Loans
+The following table summarizes the activities of the Company’s allowance for credit losses related to uncollectible loans receivable for the three months ended March 31, 2025 and 2024:
+17
+Table of Contents
+The following table presents the delinquency status of the gross amount of merchant loans by year of origination. The delinquency status is determined based on the number of days past the contractual or expected repayment date for which the Company anticipates to receive the amounts outstanding. The "current" category represents balances that are within 29 days of the contractual repayment dates, or within

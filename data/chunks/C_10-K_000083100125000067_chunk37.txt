@@ -1,0 +1,22 @@
+based capital ratios under the Standardized Approach included the 4.3% SCB and 3.5% GSIB surcharge. See “Regulatory Capital Buffers” above.
+The following tables present Citi’s capital components and ratios as of December 31, 2024, September 30, 2024 and December 31, 2023:
+(1)
+Citi’s regulatory capital ratios and components reflect certain deferrals based on the modified regulatory capital transition provision related to the CECL standard. See “Capital Resources—Regulatory Capital Treatment—Modified Transition of the Current Expected Credit Losses Methodology” above.
+(2)
+Citi’s binding CET1 Capital and Tier 1 Capital ratios were derived under the Basel III Standardized Approach, whereas Citi’s binding Total Capital ratio was derived under the Basel III Advanced Approaches framework for all periods presented. As of September 30, 2024, the Total Capital ratio under the Basel III Advanced Approaches framework was the most binding ratio. For all other periods presented, the CET1 Capital ratio under the Basel III Standardized Approach was the most binding ratio.
+(3)
+Leverage ratio denominator. Represents quarterly average total assets less amounts deducted from Tier 1 Capital.
+(4)
+Supplementary Leverage ratio denominator.
+As indicated in the table above, Citigroup’s capital ratios at December 31, 2024 were in excess of the regulatory capital requirements under the U.S. Basel III rules. In addition, Citi was “well capitalized” under current federal bank regulatory agencies definitions as of December 31, 2024.
+37
+Common Equity Tier 1 Capital Ratio
+Citi’s Common Equity Tier 1 (CET1) Capital ratio under the Basel III Standardized Approach was 13.6% as of December 31, 2024, relative to a required regulatory CET1 Capital ratio of 12.1% as of such date under the Standardized Approach. This compares to a CET1 Capital ratio of 13.7% as of September 30, 2024 and 13.4% as of December 31, 2023, relative to a required regulatory CET1 Capital ratio of 12.3% as of such dates under the Standardized Approach.
+Citi’s CET1 Capital ratio under the Basel III Advanced Approaches was 12.1% as of December 31, 2024, 12.2% as of September 30, 2024, and 12.1% as of December 31, 2023, relative to a required regulatory CET1 Capital ratio of 10.5% as of such dates under the Advanced Approaches framework.
+Citi’s CET1 Capital ratio decreased under both the Standardized Approach and Advanced Approaches from September 30, 2024, driven primarily by net adverse movements in
+AOCI
+and the payment of common and preferred dividends as well as common share repurchases, partially offset by net income and decreases in Standardized Approach RWA and Advanced Approaches RWA.
+Citi’s CET1 Capital ratio increased under the Standardized Approach from year-end 2023, driven primarily by net income and a decrease in RWA, partially offset by the payment of common and preferred dividends, common share repurchases and net adverse movements in
+AOCI
+.
+Citi’s CET1 Capital ratio under the Advanced Approaches

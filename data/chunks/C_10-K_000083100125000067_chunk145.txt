@@ -1,0 +1,20 @@
+outside the U.S., driven by safety and soundness considerations under U.S. banking law.
+Citi’s reserves for expected credit losses on funded loans and for unfunded lending commitments, standby letters of credit and financial guarantees are reflected on the Consolidated Balance Sheet in the
+Allowance for credit losses on loans
+(ACLL) and
+Other liabilities
+(for Allowance for credit losses on unfunded lending commitments (ACLUC)), respectively. In addition, Citi’s reserves for expected credit losses on other financial assets carried at amortized cost, including held-to-maturity securities, reverse repurchase agreements, securities borrowed, deposits with banks and other financial receivables are reflected in
+Other assets
+. These reserves, together with the ACLL and ACLUC, are referred to as the ACL.
+Changes in the ACL are reflected as
+Provision for credit losses
+in the Consolidated Statement of Income for each
+reporting period. Citi’s ability to estimate expected credit losses over the reasonable and supportable (R&S) period is based on the ability to forecast economic activity over a R&S timeframe. The R&S forecast period for all loans is eight quarters.
+The ACL is composed of quantitative and qualitative management adjustment components. The quantitative component uses three forward-looking macroeconomic forecast scenarios—base, upside and downside. The qualitative management adjustment component reflects risks and certain economic conditions not fully captured in the quantitative component. Both the quantitative and qualitative components are further discussed below.
+129
+Quantitative Component
+Citi estimates expected credit losses for its quantitative component using (i) its comprehensive internal data on loss and default history, (ii) internal credit risk ratings, (iii) external credit bureau and rating agencies information and (iv) R&S forecasts of macroeconomic conditions.
+For its consumer and corporate portfolios, Citi’s expected credit losses are determined primarily by utilizing models that consider the borrowers’ probability of default (PD), loss given default (LGD) and exposure at default (EAD). The loss likelihood and severity models used for estimating expected credit losses are sensitive to changes in macroeconomic variables, including housing prices, unemployment rate and real GDP, and cover a wide range of geographic, industry, product and business segments.
+In addition, Citi’s models determine expected credit losses based on leading credit indicators, including loan delinquencies, changes in portfolio size, default frequency, risk ratings and loss recovery rates, as well as other credit trends.
+Qualitative Component
+The qualitative management adjustment component includes risks that are not fully captured in the quantitative component. These may include but are not limited to portfolio characteristics, idiosyncratic events, factors not within historical loss data or the economic forecast, uncertainty in the credit environment and

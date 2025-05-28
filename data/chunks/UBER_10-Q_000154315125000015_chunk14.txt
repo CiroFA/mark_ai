@@ -1,0 +1,24 @@
+condensed consolidated statements of operations. Certain non-marketable equity securities are classified within Level 3 in the fair value hierarchy because we estimate the fair value of these securities based on valuation methods, including the common stock equivalent (“CSE”) method and option-pricing model (“OPM”), using the transaction price of similar securities issued by the investee adjusted for contractual rights and obligations of the securities we hold.
+The following table summarizes the total carrying value of our non-marketable equity securities measured at fair value on a non-recurring basis held, including cumulative unrealized upward and downward adjustments made to the initial cost basis of the securities (in millions):
+Didi Investment
+We measure the fair value of our Didi investment based on the closing share price of the Didi American Depositary Shares on the over-the-counter market as an observable transaction for similar securities.
+Note 3 – Long-Term Debt and Credit Arrangements
+Components of debt, including the associated effective interest rates and maturities were as follows (in millions, except for percentages):
+(1)
+The 2025 Convertible Notes will mature on December 15, 2025, and was classified within accrued and other current liabilities on our condensed consolidated balance sheets.
+(2)
+The total fair value of our outstanding debt was $
+9.5
+billion and $
+9.9
+billion as of December 31, 2024 and March 31, 2025, respectively, and was determined based on quoted prices in markets that are not active, which is considered a Level 2 valuation input.
+Senior Notes
+The 2030, 2034 and 2054 senior notes are our unsecured debt obligations. The 2027, 2028 and 2029 senior notes are guaranteed by certain of our material domestic restricted subsidiaries. The 2027, 2028, 2029, 2030, 2034 and 2054 senior notes are collectively referred to as “Senior Notes”. Interest on the Senior Notes is payable semi-annually in arrears. The entire principal amounts of the Senior Notes are due at the respective maturity dates, and we may redeem the Senior Notes at any time, in whole or in part, at specified redemption prices. The indentures governing the Senior Notes contain customary covenants restricting our and certain of our subsidiaries’ ability to incur debt and incur liens, as well as certain financial covenants specified in the indentures. We were in compliance with all covenants as of March 31, 2025.
+15
+Convertible Notes
+2028 Convertible Notes and Capped Call Transactions
+In November 2023, we issued $
+1.73
+billion aggregate principal amount of
+0.875
+% convertible senior notes due in 2028 (the “2028 Convertible Notes”). The interest is payable semi-annually in arrears. The indenture governing the 2028 Convertible Notes does not contain any financial or operating covenants or restrictions on the payments of dividends, the incurrence of indebtedness or the issuance or repurchase of securities by us or any of our subsidiaries. We used a portion of the

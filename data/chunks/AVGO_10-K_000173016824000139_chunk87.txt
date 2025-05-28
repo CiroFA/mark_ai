@@ -1,0 +1,25 @@
+region based primarily on the geographic shipment location or delivery location specified by our distributors, original equipment manufacturer (“OEM”) customers, contract manufacturers, channel partners, or software customers.
+Contract Balances
+Contract assets and contract liabilities balances were as follows:
+Changes in our contract assets and contract liabilities primarily result from the timing difference between our performance and the customer’s payment. Contract assets and contract liabilities as of November 3, 2024 included the impact of VMware balances acquired on November 22, 2023. We fulfill our obligations under a contract with a customer by transferring products and services in exchange for consideration from the customer. We recognize a contract asset when we transfer products or services to a customer and the right to consideration is conditional on something other than the passage of time. Accounts receivable are recorded when the customer has been billed or the right to consideration is unconditional. We recognize contract liabilities when we have received consideration or an amount of consideration is due from the customer and we have a future obligation to transfer products or services.
+As of
+November 3, 2024
+, approximately
+55
+% of contract liabilities related to contracts subject to termination for convenience provisions
+. The amount of revenue recognized during fiscal year 2024 that was included in the contract liabilities balance as of October 29, 2023 was $
+2,440
+million. The amount of revenue recognized during fiscal year 2023 that was included in the contract liabilities balance as of October 30, 2022 was $
+2,915
+million.
+63
+Table of Contents
+Remaining Performance Obligations
+Revenue allocated to remaining performance obligations represents the transaction price allocated to unsatisfied or partially unsatisfied performance obligations. Remaining performance obligations include unearned revenue and amounts that will be invoiced and recognized as revenue in future periods, but do not include contracts for software, subscriptions or services where the customer is not committed. The customer is not considered committed when termination for convenience without payment of a substantive penalty exists, either contractually or through customary business practice. Additionally, as a practical expedient, we have not included contracts that have an original duration of one year or less, nor have we included contracts with sales-based or usage-based royalties promised in exchange for a license of IP.
+Certain multi-year customer contracts in our semiconductor solutions and infrastructure software segments contain firmly committed amounts and the remaining performance obligations under these contracts as of November 3, 2024 were approximately $
+20.5
+billion. We expect approximately
+43
+% of this amount to be recognized as revenue over the next
+12
+months. For contracts with termination for convenience rights, our customers generally do

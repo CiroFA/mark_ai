@@ -1,0 +1,29 @@
+held various other positions with us since joining Oracle in 1999.
+18
+Table of Contents
+Index to Financial Statements
+Item 1A.        R
+isk Factors
+We operate in rapidly changing economic and technological environments that present numerous risks, many of which are driven by factors that we cannot control or predict. The following discussion, as well as our discussion in Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations, highlights some of these risks. The risks described below are not exhaustive and you should carefully consider these risks and uncertainties before investing in our securities.
+Business and Operational Risks
+We may be unsuccessful in developing and selling new products and services, integrating acquired products and services and enhancing our existing products and services.
+Our industry is characterized by rapid technological advances, intense competition, changing delivery models, evolving standards in communications infrastructure, increasingly sophisticated customer needs and frequent new product introductions and enhancements. We have continued to refresh and release new offerings of our cloud products and services, but if we are unable to develop new or sufficiently differentiated products and services, enhance and improve our product offerings and support services in a timely manner or position and price our products and services to meet demand, customers may not purchase or subscribe to our license, hardware or cloud offerings or renew license support, hardware support or cloud subscriptions contracts. Renewals of these contracts are important to our future success. In addition, we cannot provide any assurance that the standards on which we choose to develop new products will allow us to compete effectively for business opportunities in emerging areas.
+In addition, our business may be adversely affected if:
+•
+we do not continue to develop and release new or enhanced products and services within the anticipated time frames;
+•
+infrastructure costs to deliver new or enhanced products and services take longer or result in greater costs than anticipated;
+•
+we are unable to increase our existing data center capacity or establish data centers in new geographic locations in a timely manner to meet current or expected customer demand;
+•
+we fail to meet our contractual service level commitments;
+•
+there is a delay in market acceptance of and difficulty in transitioning new and existing customers to new, enhanced or acquired product lines or services;
+•
+sanctions, export controls or other regulatory, legislative or other barriers prevent us from serving certain customers or restrict our customers from operating in specific jurisdictions;
+•
+there are changes in IT trends that we do not adequately anticipate or timely address with our product development efforts;
+•
+we do not optimize complementary product lines and services in a timely manner; or
+•
+we fail to adequately integrate, support or

@@ -1,0 +1,27 @@
+instruments listed in the table above were derived from the following: non-binding market consensus prices that were corroborated by observable market data, quoted market prices for similar instruments, or pricing models, such as discounted cash flow techniques, with all significant inputs derived from or corroborated by observable market data including reference rate yield curves, among others.
+Based on the trading prices of the $
+96.3
+billion and $
+86.5
+billion of senior notes and other long-term borrowings and the related fair value hedges that we had outstanding as of
+February 28, 2025 and May 31, 2024, respectively, the estimated fair values of the senior notes and other long-term borrowings and the related fair value hedges using Level 2 inputs at February 28, 2025 and May 31, 2024
+were $
+88.8
+billion and $
+77.2
+billion, respectively.
+12
+Table of Contents
+ORACLE CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+February 28, 2025
+(Unaudited)
+3.
+NOTES PAYABLE AND OTHER BORROWINGS
+Senior Notes
+In the first nine months of fiscal 2025, we issued $
+14.0
+billion, par value, of senior notes comprised of the following:
+We issued the senior notes to repay all or a portion of senior notes due between November 2024 and July 2026, and to pay accrued interest and any related premiums, fees and expenses in connection therewith; to make scheduled payments of principal and interest on borrowings under a term loan credit agreement executed in June 2024; to repay all or a portion of commercial paper notes outstanding; and to use any remaining net proceeds from the borrowing for general corporate purposes, which may include stock repurchases, payment of cash dividends on our common stock, repayment of other indebtedness and future acquisitions. The interest is payable semi-annually for the fixed-rate senior notes and quarterly for the floating-rate senior notes. We may redeem some or all of the fixed-rate senior notes of each series prior to their maturity, subject to certain restrictions, and the payment of an applicable make-whole premium in certain instances.
+The senior notes rank pari passu with any other existing and future unsecured and unsubordinated indebtedness of Oracle. All existing and future indebtedness and liabilities of the subsidiaries of Oracle are or will be effectively senior to the senior notes. We were in compliance with all senior notes-related covenants as of February 28, 2025. The material terms and conditions of the senior notes are set forth in, and the foregoing description of the senior notes is qualified in its entirety by reference to, the Officers’ Certificates filed as Exhibit 4.1 to Oracle’s Current Report on Form 8-K filed on September 27, 2024 and filed herewith as Exhibit 4.01 and incorporated by reference herein.
+There have been no other significant changes in our notes payable or other borrowing arrangements that were disclosed in our Annual Report on Form 10-K for the fiscal year ended May 31,

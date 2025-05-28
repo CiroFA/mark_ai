@@ -1,0 +1,30 @@
+effectiveness assessment and are amortized to general and administrative expenses on the consolidated statements of operations over the hedge period.  The amounts recognized in earnings related to forward points for the years ended December 31, 2024, 2023 and 2022 were not material.
+As of December 31, 2024 and 2023, the Company had €
+1.3
+billion and €
+1.6
+billion euro-denominated debt outstanding designated as hedges of a portion of its net investment in its European operations.  In December 2024 and 2023, the Company de-designated €
+400
+million and €
+109
+million of the euro-denominated debt as net investment hedges to effectively manage changes in its net investment exposures in foreign subsidiaries.  The €
+109
+million of euro-denominated debt de-designated in December 2023 was subsequently re-designated as a net investment hedge effective April 2024.  For the years ended December 31, 2024, 2023 and 2022 the Company recorded pre-tax net foreign currency gains (losses) of $
+104
+million, $(
+67
+) million and $
+176
+million, respectively, in other comprehensive income (loss).
+As of December 31, 2024 and 2023, the Company had net foreign currency gains of $
+295
+million and $
+181
+million, after tax, respectively, in accumulated other comprehensive income (loss) associated with this hedging activity.
+Non-designated Derivatives
+The Company may also enter into foreign exchange derivative contracts to serve as economic hedges, such as to offset possible changes in the value of monetary assets and liabilities due to foreign exchange fluctuations, without designating these derivative contracts as hedging instruments.  In addition, the Company is subject to foreign exchange risk as part of its daily settlement activities.  This risk is typically limited to a few days between when a payment transaction takes place and the subsequent settlement with customers.  To manage this risk, the Company may enter into short duration foreign exchange derivative contracts based upon anticipated receipts and disbursements for the respective currency position.  The objective of these activities is to reduce the Company’s exposure to volatility arising from gains and losses resulting from fluctuations of foreign currencies against its functional currencies.  Gains and losses resulting from changes in fair value of these contracts are recorded in general and administrative expenses on the consolidated statements of operations, net, along with the foreign currency gains and losses on monetary assets and liabilities.
+The following table summarizes the fair value of the Company’s derivative financial instruments and the related notional amounts:
+1
+Foreign exchange derivative assets and liabilities are included within prepaid expenses and other current assets, other assets and other current liabilities on the consolidated balance sheets.
+2
+Interest rate derivative liabilities are included within other current liabilities and other liabilities on the consolidated balance sheets.

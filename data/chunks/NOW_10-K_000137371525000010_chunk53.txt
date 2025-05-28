@@ -1,0 +1,18 @@
+of those plans. Our incident response and recovery plans address — and guide our employees, management and the Board on — our response to a cybersecurity incident.
+30
+Table of Contents
+Third-Party Risk Management
+We have implemented controls designed to identify and mitigate cybersecurity threats associated with our use of third-party service providers. Such providers are subject to security risk assessments at the time of onboarding, contract renewal, and upon detection of an increase in risk profile. We use a variety of inputs in such risk assessments, including information supplied by providers and third parties. In addition, we require our providers to meet appropriate security requirements, controls and responsibilities and investigate security incidents that have impacted our third-party providers, as appropriate.
+Education and Awareness
+Our policies require each of our employees to contribute to our data security efforts. We regularly remind employees of the importance of handling and protecting customer and employee data, including through annual privacy and security training to enhance employee awareness of how to detect and respond to cybersecurity threats.
+External Assessments
+Our cybersecurity policies, standards, processes and practices are regularly assessed by consultants and external auditors. These assessments include a variety of activities including information security maturity assessments, audits and independent reviews of our information security control environment and operating effectiveness. For example, in 2022, 2023 and 2024 we conducted independent cyber maturity assessments to review our controls against the NIST Cybersecurity Framework. The results of significant assessments are reported to management, the Board and Audit Committee. Cybersecurity processes are adjusted, as appropriate, based on the information provided from these assessments. We have also obtained industry certifications and attestations that demonstrate our dedication to protecting the data our customers entrust to us.
+Governance
+Board Oversight
+Our Board, in coordination with the Audit Committee, oversees our management of cybersecurity risk. They receive regular reports from management about the prevention, detection, mitigation, and remediation of material information security risks, including cybersecurity incidents and vulnerabilities. Our Audit Committee is responsible for overseeing our cybersecurity program. The Audit Committee receives regular updates from management on cybersecurity risk resulting from risk assessments, progress of risk reduction initiatives, third-party compliance certifications, control maturity assessments, and relevant ServiceNow, customer and industry cybersecurity incidents.
+Management’s Role
+The following individuals have primary responsibility for assessing and managing cybersecurity risks:
+•
+Chief customer officer (“CCO”), who oversees the digital transformation, digital technology and security functions
+•
+Chief

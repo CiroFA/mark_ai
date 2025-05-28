@@ -1,0 +1,30 @@
+mitigants include netting and collateral arrangements and economic hedges, such as credit derivatives, futures and forward contracts. Netting and collateral agreements permit the firm to offset receivables and payables with such counterparties and/or enable the firm to obtain collateral on an upfront or contingent basis.
+The table below presents the credit concentrations included in trading cash instruments and investments.
+In addition, the firm had $
+138.32
+billion as of March 2025 and $
+151.84
+billion as of December 2024 of cash deposits held at central banks (included in cash and cash equivalents),
+of which $
+82.69
+billion as of March 2025 and $
+105.78
+billion as of December 2024 was held at the Federal Reserve.
+As of both March 2025 and December 2024, the firm did not have credit exposure to any other counterparty that exceeded
+2
+% of total assets.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Collateral obtained by the firm related to derivative assets is principally cash and is held by the firm or a third-party custodian. Collateral obtained by the firm related to resale agreements and securities borrowed transactions is primarily U.S. government and agency obligations, and non-U.S. government and agency obligations. See Note 11 for further information about collateralized agreements and financings.
+The table below presents U.S. government and agency obligations, and non-U.S. government and agency obligations that collateralize resale agreements and securities borrowed transactions.
+In the table above:
+•
+Non-U.S. government and agency obligations primarily consists of securities issued by the governments of the U.K., Japan, Germany and France.
+•
+Given that the firm’s primary credit exposure on such transactions is to the counterparty to the transaction, the firm would be exposed to the collateral issuer only in the event of counterparty default.
+Note 27.
+Legal Proceedings
+The firm is involved in a number of judicial, regulatory and arbitration proceedings (including those described below) concerning matters arising in connection with the conduct of the firm’s businesses. Many of these proceedings are in early stages, and many of these cases seek an indeterminate amount of damages.
+Under ASC 450, an event is “reasonably possible” if “the chance of the future event or events occurring is more than remote but less than likely” and an event is “remote” if “the chance of the future event or events occurring is slight.” Thus, references to the upper end of the range of reasonably possible loss for cases in which the firm is able to estimate a range of reasonably possible loss mean the upper end of the range of loss for cases for which the firm believes the risk of loss is more than slight.
+With respect to matters described below for which management has been able to estimate a range of reasonably possible loss where (i) actual or potential plaintiffs have claimed an amount of money damages,

@@ -1,0 +1,65 @@
+security yields at the time of grant. Expected volatilities are based on implied volatilities from traded call options on our stock. We use historical data to estimate option exercise behavior representing the weighted-average period that options granted are expected to be outstanding.
+The activity for outstanding stock options at October 27, 2024, and changes during 2024 follow:
+​
+*    Weighted-averages
+​
+​
+The amounts related to stock options were as follows in millions of dollars unless otherwise noted:
+​
+​
+​
+72
+Table of Contents
+​
+Restricted Stock Units
+The weighted-average grant date fair values were as follows:
+​
+​
+Our RSUs at October 27, 2024 and changes during 2024 in thousands of shares and dollars per share follow:
+​
+*
+Weighted-averages
+​
+23. OTHER COMPREHENSIVE INCOME ITEMS
+The after-tax components of accumulated other comprehensive income (loss) follow:
+​
+​
+​
+The following tables reflect amounts recorded in other comprehensive income (loss), as well as reclassifications out of other comprehensive income (loss).
+​
+​
+​
+​
+​
+​
+​
+73
+Table of Contents
+​
+​
+​
+​
+​
+​
+24. LEASES
+We are both a lessee and a lessor. We lease for our own use warehouse facilities, office space, production equipment, information technology equipment, and vehicles. The financial services operations lease equipment produced or sold by us and a limited amount of other equipment to retail customers. We determine if an arrangement is or contains a lease at the contract inception.
+Lessee
+The amounts of the lease liability and right of use asset are determined at lease commencement and are based on the present value of the lease payments over the lease term. The lease payments are discounted using our incremental borrowing rate since the rate implicit in the lease is not readily determinable. We determine the incremental borrowing rate for each lease based on the lease term and the economic environment of the country where the asset will be used, adjusted as if the borrowings were collateralized. Leases with contractual periods greater than one year and that do not meet the finance lease criteria are classified as operating leases.
+We have elected to combine lease and nonlease components, such as maintenance and utilities costs included in a lease contract, for all asset classes.
+Leases with an initial term of one year or less are expensed on a straight-line basis over the lease term and recorded in short-term lease expense.
+Variable lease expense includes warehouse facilities leases with payments based on utilization exceeding contractual minimum amounts and leases with
+payments indexed to inflation when the index changes after lease commencement.
+The lease expense by type consisted of the following:
+​
+​
+Operating and finance lease right of use assets and lease liabilities follow:
+​
+​
+​
+The weighted-average remaining lease terms in years and discount rates follows:
+​
+​
+Lease payment amounts in each of the next five years at October 27, 2024 follow:
+​
+​
+Cash paid for amounts

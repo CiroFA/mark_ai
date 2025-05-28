@@ -1,0 +1,20 @@
+the ultimate obligor, counterparty, collateral (only including qualifying liquid collateral), issuer or guarantor, as applicable (e.g., a security recorded by a Citi U.S. entity but issued by the U.K. government is considered U.K. exposure; a loan recorded by a Citi Mexico entity to a customer domiciled in Mexico where the underlying collateral is held in Germany is considered German exposure).
+•
+Amounts do not consider the benefit of collateral received for secured financing transactions (i.e., repurchase agreements, reverse repurchase agreements and securities loaned and borrowed) and are reported based on notional amounts.
+•
+Netting of derivative receivables and payables, reported at fair value, is permitted, but only under a legally binding netting agreement with the same specific counterparty, and does not include the benefit of margin received or hedges.
+•
+Credit default swaps (CDS) are included based on the gross notional amount sold and purchased and do not include any offsetting CDS on the same underlying entity.
+•
+Loans are reported without the benefit of hedges.
+Given the requirements noted above, Citi’s FFIEC cross-border exposures and total outstandings tend to fluctuate, in some cases significantly, from period to period. As an example, because total outstandings under FFIEC guidelines do not include the benefit of margin or hedges, market volatility in interest rates, foreign exchange rates and credit spreads may cause significant fluctuations in the level of total outstandings, all else being equal.
+126
+The tables below present each country whose total outstandings exceeded 0.75% of total Citigroup assets:
+(1)    Non-bank financial institutions.
+(2)    Included in total outstanding.
+(3)    Total outstanding includes cross-border claims on third parties, as well as local country assets. Cross-border claims on third parties include cross-border loans, securities, deposits with banks and other monetary assets, as well as net revaluation gains on foreign exchange and derivative products.
+(4)    Commitments (not included in total outstanding) include legally binding cross-border letters of credit and other commitments and contingencies as defined by the FFIEC guidelines. The FFIEC definition of commitments includes commitments to local residents to be funded with local currency liabilities originated within the country.
+(5)    Credit default swaps (CDS) are not included in total outstanding.
+127
+SIGNIFICANT ACCOUNTING POLICIES AND SIGNIFICANT ESTIMATES
+This section contains a summary of Citi’s most significant accounting policies. Note 1 contains a summary of all of Citigroup’s significant accounting policies. These policies, as well as estimates made by management, are integral to the presentation of Citi’s results of operations and financial condition. While all of these policies require a certain level of management judgment and estimates, this section highlights and discusses the significant accounting policies that require

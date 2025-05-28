@@ -1,0 +1,28 @@
+tables.  See “Foreign Currency - Currency Impact” for further information on our currency impacts and “Financial Results - Net Revenue” and “Financial Results - Operating Expenses” for our “Drivers of Change” tables.
+Non-GAAP Reconciliations
+The following tables reconcile our reported financial measures calculated in accordance with GAAP to the respective adjusted non-GAAP financial measures:
+Note: Tables may not sum due to rounding.
+** Not applicable.
+49
+MASTERCARD 2024 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following tables represent the reconciliation of our growth rates reported under GAAP to our non-GAAP growth rates:
+Note: Tables may not sum due to rounding.
+**  Not applicable.
+Key Metrics and Drivers
+In addition to the financial measures described above in “Financial Results Overview”, we review the following metrics to evaluate and identify trends in our business, measure our performance, prepare financial projections and make strategic decisions.  We believe that the key metrics presented facilitate an understanding of our operating and financial performance and provide a meaningful comparison of our results between periods.
+Operating Margin
+measures how much profit we make on each dollar of sales after our operating costs but before other income (expense) and income tax expense.  Operating margin is calculated by dividing our operating income by net revenue.
+Key Drivers
+Gross Dollar Volume (“GDV”)
+1
+measures dollar volume of activity, including both domestic and cross-border volume, on cards carrying our brands during the period, on a local currency basis and U.S. dollar-converted basis.  GDV represents purchase volume plus cash volume; “purchase volume” means the aggregate dollar amount of purchases made with Mastercard-branded cards for the relevant period; and “cash volume” means the aggregate dollar amount of cash disbursements and includes the impact of balance transfers and convenience checks obtained with Mastercard-branded cards for the relevant period.  Information denominated in U.S. dollars relating to GDV is calculated by applying an established U.S. dollar/local currency exchange rate for each local currency in which our volumes are reported.  These exchange rates are calculated on a quarterly basis using the average exchange rate for each quarter.  We report period-over-period rates of change in purchase volume and cash volume on the basis of local currency information, in order to eliminate the impact of changes in the value of currencies against the U.S. dollar in calculating such rates of change.
+Cross-border Volume Growth
+measures the growth of cross-border dollar volume during the period, on a local currency basis and U.S. dollar-converted basis, for all Mastercard-branded programs.
+MASTERCARD 2024 FORM 10-K
+50
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Switched Transactions
+measures

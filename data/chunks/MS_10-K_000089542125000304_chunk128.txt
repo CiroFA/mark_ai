@@ -1,0 +1,18 @@
+any unamortized premiums or discounts for purchased loans.
+Interest Income.
+Interest income on performing loans held for investment is accrued and recognized as interest income at the contractual rate of interest. Purchase price discounts or premiums, as well as net deferred loan fees or costs, are amortized into interest income over the life of the loan to produce a level rate of return.
+Lending Commitments.
+The Firm records the liability and related expense for the credit exposure related to commitments to fund loans. The liability is recorded in Other liabilities and accrued expenses in the balance sheet and the expense is recorded in the Provision for credit losses in the income statement. For more information regarding loan commitments, standby letters of credit and financial guarantees, see Note 14.
+For more information regarding allowance for credit losses, refer to “Allowance for Credit Losses” herein.
+Loans Held for Sale
+Loans held for sale are measured at the lower of amortized cost or fair value, with valuation changes recorded in Other revenues. The Firm determines the valuation allowance on an individual loan basis, except for residential mortgage loans for which the valuation allowance is determined at the loan product level. Any decreases in fair value below the initial carrying amount and any recoveries in fair value up to the initial carrying amount are recorded in Other revenues. Increases in fair value above initial carrying value are not recognized.
+Interest Income.
+Interest income on loans held for sale is accrued and recognized based on the contractual rate of interest. Loan origination fees or costs and purchase price discounts or premiums are deferred as an adjustment to the loan’s cost basis until the related loan is sold and, as such, are included in the periodic determination of the lower of cost or fair value adjustments and the gain or loss recognized at the time of sale.
+Lending Commitments.
+Commitments to fund mortgage loans held for sale are derivatives and are reported in Trading assets or Trading liabilities in the balance sheet and in Trading revenues in the income statement.
+For commitments to fund non-mortgage loans, the Firm records the liability and related expense for the fair value exposure below cost of such commitments in Other liabilities and accrued expenses in the balance sheet with an offset to Other revenues in the income statement.
+Because loans and lending commitments held for sale are recognized at the lower of cost or fair value, the allowance for credit losses and charge-off policies do not apply to these loans.
+Loans at Fair Value
+Loans for which the fair value option is elected are carried at fair value and included in Trading assets in the balance sheet, with changes in fair value recognized in earnings. For further information on loans carried at fair value and classified as Trading assets, see Note 4.
+Lending Commitments.
+The Firm records the liability and related expense for the fair

@@ -1,142 +1,208 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+vz-20250331
+false
+2025
+Q1
+0000732712
+12/31
+P2Y
+0
+0
+0
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+vz:segment
+xbrli:pure
+iso4217:AUD
+iso4217:EUR
+vz:agreement
+vz:retiree
+vz:employee
+vz:state
+vz:court_action
+vz:facility
+0000732712
+2025-01-01
+2025-03-31
+0000732712
+exch:XNYM
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000732712
+exch:XNGS
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000732712
+vz:A325NotesDue2026Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1.375NotesDue2026Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A0.875NotesDue2027Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1.375NotesDue2028Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1125NotesDue2028Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A2350NotesDue2028Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1.875NotesDue2029Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A0375NotesDue2029Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1.250NotesDue2030Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1.875NotesDue2030Member
+2025-01-01
+2025-03-31
+0000732712
+vz:NotesDue20304250Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A2.625NotesDue2031Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A2.500NotesDue2031Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A3000NotesDue2031Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A0.875NotesDue2032Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A0750NotesDue2032Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A3.500NotesDue2032Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1300NotesDue2033Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A475NotesDue2034Member
+2025-01-01
+2025-03-31
+0000732712
+vz:NotesDue20344750Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A3.125NotesDue2035Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1125NotesDue2035Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A3.375NotesDue2036Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A3.750NotesDue2036Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A2.875NotesDue2038Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1875NotesDue2038Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1.500NotesDue2039Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A350FixedRateNotesDue2039Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A1850NotesDue2040Member
+2025-01-01
+2025-03-31
+0000732712
+vz:A3850NotesDue2041Member
+2025-01-01
+2025-03-31
+0000732712
+2025-03-31
+0000732712
+vz:ServiceAndOtherMember
+2025-01-01
+2025-03-31
+0000732712
+vz:ServiceAndOtherMember
+2024-01-01
+2024-03-31
+0000732712
+us-gaap:ProductMember
+2025-01-01
+2025-03-31
+0000732712
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732712
+2024-01-01
+2024-03-31
+0000732712
+us-gaap:ServiceMember
+2025-01-01
+2025-03-31
+0000732712
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732712
+2024-12-31
+0000732712
+2023-12-31
+0000732712
+2024-03-31
+0000732712
+us-gaap:CashAndCashEquivalentsMember
+2025-01-01
+2025-03-31
+0000732712
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2025-01-01
+2025-03-31
+0000732712
+us-gaap:OtherNoncurrentAssetsMember
+2025-01-01
+2025-03-31
+0000732712
+vz:WirelessPostpaidContractsMember
+2025-03-31
+0000732712

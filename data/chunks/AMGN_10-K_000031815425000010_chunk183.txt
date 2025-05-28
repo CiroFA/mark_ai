@@ -1,0 +1,16 @@
+designated certain of our derivatives as cash flow and fair value hedges; we also have derivatives not designated as hedges. We do not use derivatives for speculative trading purposes.
+Cash flow hedges
+We are exposed to possible changes in the values of certain anticipated foreign currency cash flows resulting from changes in foreign currency exchange rates primarily associated with our euro-denominated international product sales. The foreign currency exchange rate fluctuation exposure associated with cash inflows from our international product sales is partially offset by corresponding cash outflows from our international operating expenses. To further reduce this exposure, we enter into foreign currency forward contracts to hedge a portion of our projected international product sales up to a maximum of
+three years
+into the future; and at any given point in time, a higher percentage of nearer-term projected product sales is being hedged than in successive periods.
+As of December 31, 2024, 2023 and 2022, we had outstanding foreign currency forward contracts with aggregate notional amounts of $
+7.2
+billion, $
+6.6
+billion and $
+6.0
+billion, respectively. We have designated these foreign currency forward contracts, which are primarily euro based, as cash flow hedges. Accordingly, we record unrealized gains and losses on these contracts in AOCI in the Consolidated Balance Sheets, and we reclassify them to Product sales in the Consolidated Statements of Income in the same periods during which the hedged transactions affect earnings.
+F-44
+To hedge our exposure to foreign currency exchange rate risk associated with certain of our long-term debt denominated in foreign currencies, we enter into cross-currency swap contracts. Under the terms of such contracts, we paid euros and pounds sterling and received U.S. dollars for the notional amounts at the inception of the contracts; and based on these notional amounts, we exchange interest payments at fixed rates over the terms of the contracts by paying U.S. dollars and receiving euros and pounds sterling. In addition, we will pay U.S. dollars to and receive euros and pounds sterling from the counterparties at the maturities of the contracts for these same notional amounts. The terms of these contracts correspond to the related hedged debt, thereby effectively converting the interest payments and principal repayment on the debt from euros and pounds sterling to U.S. dollars. We have designated these cross-currency swap contracts as cash flow hedges. Accordingly, the unrealized gains and losses on these contracts are recorded in AOCI in the Consolidated Balance Sheets and reclassified to Other income (expense), net, in the Consolidated Statements of Income in the same periods during which the hedged debt affects earnings.
+The notional amounts and interest rates of our cross-currency swaps as of December 31, 2024, were as follows (notional amounts in millions):
+In connection with the anticipated issuance of

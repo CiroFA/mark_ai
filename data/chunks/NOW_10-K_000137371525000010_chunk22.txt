@@ -1,0 +1,36 @@
+and subject to disruptive technologies with low barriers to entry, to shifting customer needs and to frequent introductions of new products and services. As our business expands and the industries in which we operate evolve, we increasingly find ourselves in competition with solutions and alternative approaches to solving customer needs, including, among others:
+•
+enterprise application software vendors (including cloud-based and traditional on-premises vendors) such as Oracle, SAP, Salesforce and Workday;
+•
+new technologies and entrants (including both point-solutions and platform solutions covering a wide range of functionalities);
+•
+custom development and in-house solutions;
+•
+technology consultants;
+•
+systems integrators; and
+•
+software resellers.
+For additional information about competition, see “Risk Factors—A failure to innovate in response to rapidly evolving technological changes and in the midst of an intensely competitive market may harm our competitive position and business prospects.”
+10
+Table of Contents
+Intellectual Property
+We rely upon a combination of U.S. and international copyright, trade secret, patent and trademark laws and confidentiality procedures and contractual rights and restrictions to establish, protect and grow our intellectual property (“IP”) rights. We enter into confidentiality and proprietary rights agreements with our employees, partners, vendors, consultants and other third parties and limit access to our IP and other proprietary information. We also purchase or license IP and technology that we incorporate into our products or services.
+We continue to grow our global patent portfolio and IP rights that relate to our business. Our success depends in part upon our ability to protect our core technology and IP. As of December 31, 2024, we had over 2,000 U.S. and foreign patents, including patents acquired from third parties, and over 600 pending patent applications. We do not believe that our proprietary technology is dependent on any single patent or group of related patents. See “Risk Factors—We may not be able to protect or enforce our intellectual property rights.”
+Our Ambition, Values and Corporate Purpose
+Our ambition to become the defining enterprise software company of the 21
+st
+century is the driving force behind our overall business strategy and is guided by our values:
+•
+Wow our customers:
+Customers are the center of our world. We strive to deliver the best customer experiences and innovations.
+•
+Win as a team:
+We share the same goals and have clear roles in achieving them. We deliver results as a team and enjoy the journey.
+•
+Create belonging:
+We lead with empathy, which means listening and acting to make everyone feel they belong with ServiceNow.
+•
+Stay hungry and humble
+: We do not take success for granted. We are always ready to learn and evolve. We grow together, bringing fresh ideas and new perspectives.
+These values have endured even as our headcount has rapidly increased over the years and we

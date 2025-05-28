@@ -1,0 +1,24 @@
+are the same for the non-lease components and associated lease component and, the lease component, if accounted for separately, would be classified as an operating lease.
+We have elected not to present short-term leases on the consolidated balance sheet as these leases have a lease term of 12 months or less at lease inception and do not contain purchase options or renewal terms that we are reasonably certain to exercise. All other lease assets and lease liabilities are recognized based on the present value of lease payments over the lease term at commencement date. Because most of our leases do not provide an implicit rate of return, we used our incremental borrowing rate based on the information available at lease commencement date in determining the present value of lease payments.
+Our leases, where we are the lessee, often include options to extend the lease term for up to
+10
+years. Some of our leases also include options to terminate the lease prior to the end of the agreed upon lease term. For purposes of calculating lease liabilities, lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise such options.
+75
+Lease expense for operating leases is recognized on a straight-line basis over the lease term as cost of revenues or operating expenses depending on the nature of the leased asset. Certain operating leases provide for annual increases to lease payments based on an index or rate. We calculate the present value of future lease payments based on the index or rate at the lease commencement date for new leases. Differences between the calculated lease payment and actual payment are expensed as incurred. Amortization of finance lease assets is recognized over the lease term as cost of revenues or operating expenses depending on the nature of the leased asset. Interest expense on finance lease liabilities is recognized over the lease term within Interest expense in the consolidated statements of operations.
+The balances for the operating and finance leases where we are the lessee are presented as follows (in millions) within our consolidated balance sheets:
+The components of lease expense are as follows (in millions) within our consolidated statements of operations:
+(1)
+Includes short-term leases and variable lease costs, which are immaterial.
+76
+Other information related to leases where we are the lessee is as follows:
+Supplemental cash flow information related to leases where we are the lessee is as follows (in millions):
+As of December 31, 2024, the maturities of our operating and finance lease liabilities (excluding short-term leases) are as follows (in millions):
+As of December 31, 2024, we have excluded from the table above additional operating leases that have not yet commenced with aggregate rent payments of $
+1.10
+billion. These operating leases will commence between fiscal year 2025 and 2026 with lease terms of
+2
+years to
+20
+years.
+77
+Operating Lease and Sales-type Lease

@@ -1,0 +1,38 @@
+Consolidated Financial Statements
+(Unaudited)
+•
+Stressed VaR is the potential loss in value of trading assets and liabilities, as well as certain investments, loans, and other financial assets and liabilities accounted for at fair value, during a period of significant market stress;
+•
+Incremental risk is the potential loss in value of non-securitized positions due to the default or credit migration of issuers of financial instruments over a one-year time horizon;
+•
+Comprehensive risk is the potential loss in value, due to price risk and defaults, within the firm’s credit correlation positions; and
+•
+Specific risk is the risk of loss on a position that could result from factors other than broad market movements, including event risk, default risk and idiosyncratic risk. The standardized measurement method is used to determine specific risk RWAs, by applying supervisory defined risk-weighting factors after applicable netting is performed.
+Operational Risk
+Operational RWAs are only required to be included under the Advanced Capital Rules. The firm utilizes an internal risk-based model to quantify Operational RWAs.
+The table below presents information about RWAs.
+In the table above:
+•
+Securities financing transactions represents resale and repurchase agreements and securities borrowed and loaned transactions.
+•
+Other includes receivables, certain debt securities, cash and cash equivalents, and other assets.
+The table below presents changes in RWAs.
+RWAs Rollforward Commentary
+Three Months Ended March 2025.
+Standardized Credit RWAs as of March 2025 increased by $
+17.56
+billion compared with December 2024, primarily reflecting an increase in securities financing transactions (principally due to increased funding exposures) and an increase in commitments, guarantees and loans (principally due to increased lending exposures). Standardized Market RWAs as of March 2025 decreased by $
+13.36
+billion compared with December 2024, primarily reflecting a decrease in stressed VaR and regulatory VaR (in each case, principally due to reduced exposures to equities and interest rates).
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Advanced Credit RWAs as of March 2025 increased by $
+7.82
+billion compared with December 2024, primarily reflecting an increase in commitments, guarantees and loans (principally due to increased lending exposures). Advanced Market RWAs as of March 2025 decreased by $
+13.36
+billion compared with December 2024, primarily reflecting a decrease in stressed VaR and regulatory VaR (in each case, principally due to reduced exposures to equities and interest rates). Advanced Operational RWAs as of March 2025 decreased by $
+7.18
+billion compared with December 2024, reflecting decreased frequency of loss events estimated by the firm's risk-based model.
+GS Bank USA
+GS Bank USA is the firm’s primary U.S. bank subsidiary. GS Bank USA is a New York State-chartered bank and a member of the Federal

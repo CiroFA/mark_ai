@@ -1,0 +1,33 @@
+following exceptions: (i) if the decision is made not to foreclose, loans are charged off no later than 180 DPD; or (ii) if in bankruptcy, other than FHA-insured loans, loans are charged off within 60 days of notification of filing by the bankruptcy court, if earlier.
+153
+Corporate Loans
+Corporate loans represent loans and leases managed by
+Services
+,
+Markets
+and
+Banking
+and the Mexico SBMM component of
+All Other
+—Legacy Franchises. Corporate loans are placed on a cash (non-accrual) basis when it is determined, based on actual experience and a forward-looking assessment of the collectibility of the loan in full, that the payment of interest or principal is doubtful or when interest or principal is
+90
+days past due, except when the loan is well collateralized and in the process of collection. When a corporate loan is placed on non-accrual, any interest accrued is reversed and charged against current earnings, and interest is thereafter included in earnings only to the extent actually received in cash. When there is doubt regarding the ultimate collectibility of principal, all cash receipts are thereafter applied to reduce the recorded investment in the loan. Cash-basis loans are returned to accrual status when all contractual principal and interest amounts are reasonably assured of repayment and there is a sustained period of repayment performance in accordance with the contractual terms.
+Corporate loans are written down to the extent that principal is deemed to be uncollectible.
+A financial asset is considered collateral-dependent when the debtor is experiencing financial difficulty and repayment is expected to be provided substantially through the operation or sale of the collateral. For corporate loans that are collateral dependent, the fair value of collateral (less costs to sell, as applicable) is used to estimate expected credit losses.
+Loans Held-for-Sale
+Loans that have been identified for sale are classified as loans HFS and included in
+Other assets
+. With the exception of those loans for which the fair value option has been elected, HFS loans are accounted for at the lower of cost or market value, with any write-downs or subsequent recoveries charged to
+Other revenue
+. The related cash flows are classified in the Consolidated Statement of Cash Flows in the cash flows from operating activities category on the line
+Change in loans HFS
+. Gains and losses on loans HFS are generally presented in
+Other revenue
+. Gains on sales of fully or partially charged-off loans are presented as gross credit recoveries in the
+Provision for credit losses
+up to the amount of prior charge-offs.
+Loans at Fair Value
+As described in Note 27, Citi has elected fair value accounting for certain loans. Such loans are not subject to an allowance for credit losses. Instead, they are carried at fair value with changes in fair value reported in earnings. Interest income on such loans is recorded in
+Interest revenue
+at the contractually specified rate.
+The practice of

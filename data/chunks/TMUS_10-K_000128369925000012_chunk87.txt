@@ -1,0 +1,50 @@
+required and the need for professionals with expertise in information technology (IT) to identify, evaluate, and test the Company’s systems, databases, automated controls, and system interface controls.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the Company’s service and equipment revenue transactions included the following, among others:
+•
+With the assistance of our IT specialists, we:
+◦
+Identified the relevant systems and databases used to process service and equipment revenue transactions and tested the relevant IT controls over each of those systems and databases.
+◦
+Performed testing of automated business controls and system interface controls within service and equipment revenues.
+•
+We tested internal controls in the revenue accounting processes, including those in place to (a) establish revenue recognition accounting policies for promotional offers, (b) record revenue and the related promotional offers in accordance with the established accounting policies and (c) reconcile the various systems to the Company’s general ledger.
+•
+We created data visualizations to evaluate recorded service and equipment revenue and trends in the related subscriber data.
+•
+For a selection of wholesale service revenue and equipment revenue transactions, we compared the amounts recognized to contractual agreements or other source documents and tested the mathematical accuracy of the recorded revenue.
+•
+We developed an expectation of postpaid and prepaid service revenue amounts using historical service revenue and subscriber information and compared it to the recorded amount.
+•
+We tested the accuracy and completeness of the subscriber information used in our audit procedures by selecting a sample of the subscriber information and for those selections agreeing the selected subscriber information to supporting documentation.
+/s/
+Deloitte & Touche LLP
+Seattle, Washington
+January 31, 2025
+We have served as the Company’s auditor since 2022.
+54
+Index for Notes to the Consolidated Financial Statements
+T-Mobile US, Inc.
+Consolidated Balance Sheets
+The accompanying notes are an integral part of these consolidated financial statements.
+55
+Index for Notes to the Consolidated Financial Statements
+T-Mobile US, Inc.
+Consolidated Statements of Comprehensive Income
+The accompanying notes are an integral part of these consolidated financial statements.
+56
+Index for Notes to the Consolidated Financial Statements
+T-Mobile US, Inc.
+Consolidated Statements of Cash Flows
+The accompanying notes are an integral part of these consolidated financial statements.
+57
+Index for Notes to the Consolidated Financial Statements
+T-Mobile US, Inc.
+Consolidated Statement of Stockholders’ Equity
+(1)
+Represents the issuance of the SoftBank Specified Shares pursuant to the Letter Agreement. See
+Note 1
+6
+– Earnings Per Share
+of the Notes to the Consolidated Financial Statements for more information.
+The accompanying notes are an integral part of these

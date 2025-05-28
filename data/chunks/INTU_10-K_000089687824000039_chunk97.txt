@@ -1,0 +1,21 @@
+summarizes financial assets and financial liabilities that we measured at fair value on a recurring basis at the dates indicated, classified in accordance with the fair value hierarchy described above.
+(1)
+Carrying values on our consolidated balance sheets were $
+5.45
+billion and $
+1.49
+billion at July 31, 2024 and July 31, 2023, respectively. See Note 8, “
+Debt”
+for more information.
+Tables of Contents
+The following table summarizes our cash equivalents and available-for-sale debt securities by balance sheet classification and level in the fair value hierarchy at the dates indicated:
+We value our Level 1 assets, consisting primarily of money market funds, using quoted prices in active markets for identical instruments.
+Financial assets whose fair values we measure on a recurring basis using Level 2 inputs consist of corporate notes and U.S. agency securities. We measure the fair values of these assets with the help of a pricing service that either provides quoted market prices in active markets for identical or similar securities or uses observable inputs for their pricing without applying significant adjustments. Our fair value processes include controls designed to ensure that we record appropriate fair values for our Level 2 investments. These controls include comparison to pricing provided by a secondary pricing service or investment manager, validation of pricing sources and models, review of key model inputs, analysis of period-over-period price fluctuations, and independent recalculation of prices where appropriate.
+Financial assets whose fair values we measure using Level 3 inputs consist of notes receivable held for sale. These loans are recorded at the lower of cost or fair value. As of July 31, 2024, total notes receivable held for sale were not material and the difference between amortized cost and fair value was not material.
+Financial liabilities whose fair values we measure using Level 2 inputs consist of senior unsecured notes. See Note 8, “
+Debt”
+for more information. We measure the fair value of our senior unsecured notes based on their trading prices and the interest rates we could obtain for other borrowings with similar terms.
+There were no transfers between Level 1, Level 2, and Level 3 of the fair value hierarchy during the twelve months ended July 31, 2024, 2023, or 2022.
+Assets measured at fair value on a non-recurring basis include reporting units measured at fair value in a goodwill impairment test and our long-term investments.
+Estimates of fair value for reporting units fall under Level 3 of the fair value hierarchy. During the fourth quarters of fiscal 2024, fiscal 2023, and fiscal 2022, we performed our annual goodwill impairment tests. Using the methodology described in Note 1, we determined that the estimated fair values of all of our reporting units exceeded their carrying values and that they were not impaired.
+Long-term investments primarily include non-marketable equity securities in privately held companies

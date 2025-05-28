@@ -1,0 +1,30 @@
+ACV is an effective metric for reviewing BlackRock’s technology services’ ongoing contribution to its operating results and provides comparability of this information among reporting periods while also providing a useful supplemental metric for both management and investors of BlackRock’s growth in technology services revenue over time, as it is linked to the net new business in technology services. ACV represents forward-looking, annualized estimated value of the recurring subscription fees under client contracts, assuming all client contracts that come up for renewal are renewed, unless we have received a notice of termination, even though such notice may not be effective until a later date. ACV also includes the annualized estimated value of new sales, for existing and new clients, when we execute client contracts, even though the recurring fees may not be effective until a later date and excludes nonrecurring fees such as implementation and consulting fees.
+42
+Assets Under Management
+AUM for reporting purposes generally is based upon how investment advisory and administration fees are calculated for each portfolio. Net asset values, total assets, committed assets or other measures may be used to determine portfolio AUM.
+(1)
+Amounts include cryptocurrency and commodity ETFs and ETPs.
+43
+The following table presents the component changes in BlackRock’s AUM for 2024 and 2023.
+(1)
+Amount for 2024 includes AUM attributable to the GIP Transaction and the SpiderRock Transaction. Amount for 2023 includes AUM attributable to the acquisition of Kreos Capital in August 2023 (the "Kreos Transaction").
+(2)
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+BlackRock has historically grown AUM through organic growth and acquisitions. Management believes that the Company will be able to continue to grow AUM organically by focusing on strong investment performance, efficient delivery of beta for index products, client service, developing new products and optimizing distribution capabilities.
+Component Changes in AUM for 2024
+The following table presents the component changes in AUM by client type and product type for 2024.
+(1)
+Amounts include AUM attributable to the GIP Transaction and the SpiderRock Transaction.
+(2)
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+(3)
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+44
+The following table presents the component changes in AUM by investment style and product type for 2024.
+The following table presents the component changes in AUM by product type for 2024.
+(1)
+Amounts include AUM attributable to the GIP Transaction and the SpiderRock Transaction.
+(2)
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+(3)
+Average AUM is calculated as the

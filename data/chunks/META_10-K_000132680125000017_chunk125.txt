@@ -1,0 +1,21 @@
+equity price risks that could have a material impact on the fair value or carrying value of our holdings. Our marketable equity securities are publicly traded stocks and our non-marketable equity securities are investments in privately-held companies without readily determinable fair values.
+79
+Table of
+Contents
+We record marketable equity securities not accounted for under the equity method at fair value based on readily determinable market values, of which publicly traded stocks are subject to market price volatility and represent $1.23 billion of our investments as of December 31, 2024. A hypothetical adverse price change of 10% on our December 31, 2024 balance would decrease the fair value of marketable equity securities by $123 million. We did not hold any marketable equity securities as of December 31, 2023.
+We elected to account for substantially all of our non-marketable equity securities using the measurement alternative, which is cost, less any impairment, adjusted for changes in fair value resulting from observable transactions for identical or similar securities of the same issuer. We perform a qualitative assessment at each reporting date to determine whether there are triggering events for impairment. The qualitative assessment considers factors such as, but not limited to, the investee's financial condition and business outlook; industry and sector performance; economic or technological environment; and other relevant events and factors affecting the investee. Valuations of our non-marketable equity securities are complex due to the lack of readily available market data and observable transactions. Uncertainties in the global economic climate and financial markets could adversely impact the valuation of the companies we invest in and, therefore, result in a material impairment or downward adjustment in our investments. Our total non-marketable equity securities, which mostly consists of our investment in Jio Platforms Limited, had a carrying value of $6.07 billion and $6.14 billion as of December 31, 2024 and 2023, respectively.
+For additional information, see Note 1 — Summary of Significant Accounting Policies, Note 5 — Financial Instruments, Note 6 — Non-marketable Equity Securities, and Note 10 — Long-term Debt in the notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" and Part II, Item 7, "Management’s Discussion and Analysis of Financial Conditions and Results of Operations — Critical Accounting Estimates" contained in this Annual Report on Form 10-K.
+80
+Table of
+Contents
+Item 8.
+Financial Statements and Supplementary Data
+META PLATFORMS, INC.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+81
+Table of
+Contents
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of Meta Platforms, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Meta Platforms, Inc. (the

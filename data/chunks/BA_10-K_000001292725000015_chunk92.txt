@@ -1,0 +1,18 @@
+value of long-term contract costs is based upon quarterly reviews that estimate costs to be incurred to complete all contract requirements. When actual contract costs and the estimate to complete exceed total estimated contract revenues, a loss provision is recorded. The determination of net realizable value of commercial aircraft program costs is based upon quarterly program reviews that estimate revenue and cost to be incurred to complete the program accounting quantity. When estimated costs to complete exceed estimated program revenues to go, a program loss provision is recorded in the current period for the estimated loss on all undelivered units in the accounting quantity.
+65
+Table of
+Contents
+Used aircraft purchased by our BCA segment and general stock materials are stated at cost not in excess of net realizable value. Spare parts inventory is stated at lower of average unit cost or net realizable value. We review our commercial spare parts and general stock materials quarterly to identify impaired inventory, including excess or obsolete inventory, based on historical sales trends, expected production usage, and the size and age of the aircraft fleet using the part. Impaired inventories are charged to Cost of products in the period the impairment occurs.
+Included in inventory for commercial aircraft programs are amounts paid or credited in cash, or other consideration to certain airline customers, that are referred to as early issue sales consideration. Early issue sales consideration is recognized as a reduction to revenue when the delivery of the aircraft under contract occurs. If an airline customer does not perform and take delivery of the contracted aircraft, we believe that we would have the ability to recover amounts paid. However, to the extent early issue sales consideration exceeds advances and is not considered to be otherwise recoverable, it would be written off against revenue of the current period.
+Precontract Costs
+We may, from time to time, incur costs in excess of the amounts required for existing contracts. If we determine the costs are probable of recovery from future orders, then we capitalize the precontract costs we incur, excluding start-up costs which are expensed as incurred. Capitalized precontract costs are included in Inventories in the accompanying Consolidated Statements of Financial Position. Should future orders not materialize or we determine the costs are no longer probable of recovery, the capitalized costs would be written off.
+Property, Plant and Equipment
+Property, plant and equipment are recorded at cost, including applicable construction-period interest, less accumulated depreciation and are depreciated principally over the following estimated useful lives: new buildings and land improvements, from
+10
+to
+40
+years; and new machinery and equipment, from
+4
+to
+20
+years. The principal method of depreciation for buildings and land improvements is 150% declining balance and for machinery and equipment is

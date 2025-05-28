@@ -1,0 +1,27 @@
+•
+our intuitive user experience;
+9
+Table of Contents
+•
+tools for building multi-screen;
+•
+tools for managing data across Apps and geographies;
+•
+cross-channel Apps;
+•
+standards-based architecture;
+•
+scalability;
+•
+connecting content creation with digital experience delivery, personalization and optimization; and
+•
+performance.
+Publishing and Advertising
+Our Publishing and Advertising segment faces competition from large-scale publishing systems and Extensible Markup Language-based publishing companies and smaller desktop-publishing products. Our eLearning solutions and web conferencing products face competition from a number of established products from other large software companies. Competition involves a number of factors, including product features, ease-of-use, the level of customization and integration supported, the number of hardware platforms supported, service and price. We believe we can successfully compete based upon the quality and features of our products, their complementarity with our Adobe Creative Cloud, Adobe Document Cloud and Digital Experience products and our strong brand among users.
+PRINCIPAL PRODUCTS, SERVICES AND SOLUTIONS
+Digital Media Offerings
+Adobe Creative Cloud
+Adobe Creative Cloud is a cloud-based subscription to a collection of Apps that enables creative professionals and enthusiasts alike to express themselves and collaborate with Apps and services for photography, design, video, social media, and more that connect across surfaces, platforms and geographies. Subscribers have access to cloud storage to easily sync, access, collaborate and share their work, files and assets.
+Creative Cloud paid plans include the Adobe Firefly web App, the premium version of Adobe Express, and AI-powered features natively integrated throughout Adobe Photoshop, Adobe Illustrator and Adobe Premiere Pro. Creative Cloud, Adobe Firefly, and Adobe Express plans include a monthly allocation of Generative Credits, which are tokens that enable subscribers to use our generative AI features to generate content using text-based prompts. All Apps listed below and many more are available through subscriptions to Creative Cloud (except Substance 3D Apps, which are sold separately through the Adobe Substance 3D Collection plan), and many of our Apps are also available as standalone subscriptions on Adobe.com. Adobe Acrobat Pro is available as part of our Creative Cloud All Apps subscription and on a standalone basis and allows users to create, convert and edit PDFs, including text and images. Additionally, certain Creative Cloud Apps, such as Adobe Express, are available in Adobe GenStudio for Performance Marketing, allowing users to quickly use assets and Creative Cloud tools to create on-brand content.
+Adobe Photoshop and Adobe Lightroom
+Adobe Photoshop is the world’s most advanced digital imaging and design App, with powerful editing and effects tools to transform photos. It is available on desktop, iPad and through a web version. Features

@@ -1,0 +1,27 @@
+based capital ratios under both the Standardized and Advanced Approaches. The Standardized Approach applies assigned risk weights to broad risk categories, while the calculation of risk-weighted assets (RWAs) under the Advanced Approach differs by requiring applicable banks to utilize a risk-sensitive methodology, which relies upon the use of internal credit models, and includes an operational risk component.
+Table 22.1:
+Regulatory Capital Information
+*
+Denotes the binding ratio under the Standardized and Advanced Approaches at March 31, 2025.
+(1)
+Adjusted average assets consists of total quarterly average assets less goodwill and other permitted Tier 1 capital deductions. The Tier 1 leverage ratio consists of Tier 1 capital divided by total quarterly average assets, excluding goodwill and certain other items as determined under capital rule requirements.
+(2)
+The supplementary leverage ratio consists of Tier 1 capital divided by total leverage exposure. Total leverage exposure consists of total consolidated assets adjusted for certain off-balance sheet exposures, goodwill, and other permitted Tier 1 capital deductions.
+At March 31, 2025, the Common Equity Tier 1 (CET1), Tier 1 and Total capital ratio requirements for the Company included a global systemically important bank (G-SIB) surcharge of
+1.50
+% and a countercyclical buffer of
+0.00
+%. In addition, these ratios included a stress capital buffer of
+3.80
+% under the Standardized Approach and a capital conservation buffer of
+2.50
+% under the Advanced Approach. The Company is required to maintain these risk-based capital ratios and to maintain a supplementary leverage ratio (SLR) that included a supplementary leverage buffer of
+2.00
+% to avoid restrictions on capital distributions and discretionary bonus payments. The CET1, Tier 1 and Total capital ratio requirements for the Bank included a capital conservation buffer of
+2.50
+% under both the Standardized and Advanced
+Approaches. The G-SIB surcharge and countercyclical buffer are not applicable to the Bank. At March 31, 2025, the Bank and our other insured depository institutions were considered well-capitalized under the requirements of the Federal Deposit Insurance Act.
+Capital Planning Requirements
+The FRB’s capital plan rule establishes capital planning and other requirements that govern capital distributions, including dividends and share repurchases, by certain large bank holding companies (BHCs), including Wells Fargo. The FRB conducts an annual Comprehensive Capital Analysis and Review exercise and has also published guidance regarding its supervisory
+expectations for capital planning, including capital policies regarding the process relating to common stock dividend and repurchase decisions in the FRB’s SR Letter 15-18. The Parent’s ability to make certain capital distributions is subject to the requirements of the capital plan rule and is also subject to the Parent meeting or exceeding certain regulatory capital minimums.
+Loan and

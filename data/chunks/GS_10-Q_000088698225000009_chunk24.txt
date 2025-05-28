@@ -1,0 +1,31 @@
+increases as credit spreads or upfront credit points increase or recovery rates decrease. Credit spreads, upfront credit points and recovery rates are strongly related to distinctive risk factors of the underlying reference obligations, which include reference entity-specific factors, such as leverage, volatility and industry, market-based risk factors, such as borrowing costs or liquidity of the underlying reference obligation, and macroeconomic conditions.
+•
+Commodity prices and spreads.
+In general, for contracts where the holder is receiving a commodity, an increase in the spread (price difference from a benchmark index due to differences in quality or delivery location) or price results in a higher fair value measurement.
+Due to the distinctive nature of each of the firm’s level 3 derivatives, the interrelationship of inputs is not necessarily uniform within each product type.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Level 3 Rollforward.
+The table below presents a summary of the changes in fair value for level 3 derivatives.
+In the table above:
+•
+Changes in fair value are presented for all derivative assets and liabilities that are classified in level 3 as of the end of the period.
+•
+Net unrealized gains/(losses) relates to instruments that were still held at period-end.
+•
+Transfers between levels of the fair value hierarchy are reported at the beginning of the reporting period in which they occur. If a derivative was transferred into level 3 during a reporting period, its entire gain or loss for the period is classified in level 3.
+•
+Positive amounts for transfers into level 3 and negative amounts for transfers out of level 3 represent net transfers of derivative assets. Negative amounts for transfers into level 3 and positive amounts for transfers out of level 3 represent net transfers of derivative liabilities.
+•
+A derivative with level 1 and/or level 2 inputs is classified in level 3 in its entirety if it has at least one significant level 3 input.
+•
+If there is one significant level 3 input, the entire gain or loss from adjusting only observable inputs (i.e., level 1 and level 2 inputs) is classified in level 3.
+•
+Gains or losses that have been classified in level 3 resulting from changes in level 1 or level 2 inputs are frequently offset by gains or losses attributable to level 1 or level 2 derivatives and/or level 1, level 2 and level 3 trading cash instruments. As a result, gains/(losses) included in the level 3 rollforward below do not necessarily represent the overall impact on the firm’s results of operations, liquidity or capital resources.
+The table below presents information, by product type, for derivatives included in the summary table above.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Level 3 Rollforward Commentary for the Three Months Ended March 2025.
+The net realized and unrealized gains on level 3

@@ -1,0 +1,23 @@
+consist of corporate dividends that Citi cannot remit to its clients due to restrictions imposed by the Russian government and are held with the DIA at clients’ risk.
+Citi hedges its Russian ruble/U.S. dollar spot FX exposure in
+AOCI
+through the purchase of FX derivatives. The ongoing mark-to-market of the hedging derivatives is also reported in
+AOCI
+. When the Russian ruble depreciates against the U.S. dollar, the U.S. dollar equivalent value of Citigroup’s investment in AO Citibank also declines. This change in value is offset by the change in value of the hedging instrument (FX derivative). Going forward, Citi may record devaluations on its net ruble-denominated assets in earnings, without the benefit from a change in the fair value of derivative positions used to economically hedge the exposures.
+Earnings and Other Impacts on Citi’s Businesses
+Services
+,
+Markets
+,
+Banking
+and
+All Other
+—Legacy Franchises results have been impacted by various macroeconomic factors and volatilities, including the war in Ukraine and its direct and indirect impacts on the European and global economies. For a broader discussion of the impacts of these factors and volatilities on Citi’s businesses, see “Executive Summary” and each business’s results of operations above.
+As of December 31, 2024, Citigroup’s ACL included less than $0.1 billion of remaining credit reserves for Citi’s direct Russian counterparties (largely unchanged from September 30, 2024). This balance does not include the additional reserves for transfer risk associated with exposures in Russia.
+Citi’s Wind-Down of Its Russia Operations
+In August 2022, Citi disclosed its decision to wind down its Russia consumer, local commercial and institutional banking businesses, including actively pursuing portfolio sales. In connection with this wind-down, Citi has incurred approximately $73 million to date in charges, largely from restructuring, vendor termination fees and other related charges. Citi expects to incur an additional approximate $30 million in estimated charges (in
+All Other
+, excluding the impact from any portfolio sales). For additional information about Citi’s continued efforts to reduce its operations and exposure in Russia, see “Risk Factors” above and Note 2.
+Deconsolidation Risk
+Citi’s remaining operations in Russia subject it to various risks, including, among others, foreign currency volatility, including appreciation or devaluation; restrictions arising from retaliatory Russian laws and regulations on the conduct of its business; sanctions or asset freezes; or other deconsolidation events (see “Risk Factors—Other Risks” above).
+As of December 31, 2024, Citi continued to consolidate AO Citibank because none of the deconsolidation factors were triggered. Examples of factors that may result in deconsolidation of AO Citibank include voluntary or forced sale of ownership or loss of control due to actions of relevant governmental authorities, including expropriation (i.e., the entity becomes

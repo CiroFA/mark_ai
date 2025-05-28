@@ -1,0 +1,25 @@
+2024 and December 31, 2023, we have entered into foreign exchange forward contracts to mitigate or hedge the effect of adverse fluctuations in foreign exchange rates. As of December 31, 2024 and December 31, 2023, we held cross currency swap contracts to hedge a portion of our net investment in foreign subsidiaries against volatility in foreign exchange rates. As of December 31, 2023, we held a series of interest rate swaps to mitigate or hedge the adverse fluctuations in interest rates on our future debt refinancing. These contracts are recorded at fair value that is based on foreign currency exchange rates and interest rates in active markets; therefore, we classify these derivative contracts within Level 2 of the fair value hierarchy. We do not enter into any derivative financial instruments for speculative purposes.
+Undesignated Derivative Instruments
+During the twelve months ended December 31, 2024, 2023 and 2022, we entered into foreign exchange forward contracts in order to mitigate the change in fair value of specific assets and liabilities in the consolidated balance sheets. These forward contracts do not qualify for hedge accounting. As of December 31, 2024 and 2023, the aggregate notional value of these outstanding forward contracts was $
+2.3
+billion and $
+2.6
+billion, respectively. The changes in fair value of these forward contracts are recorded in prepaid and other assets or other current liabilities in the consolidated balance sheets with their corresponding change in fair value recognized in selling and general expenses in the consolidated statements of income. The amount recorded in prepaid and other current assets was $
+69
+million as of December 31, 2023. The amount recorded in other current liabilities was $
+42
+million and $
+1
+million as of December 31, 2024 and 2023, respectively. The amount recorded in selling and general expense for the twelve months ended December 31, 2024, 2023 and 2022 related to these contracts was a net gain $
+60
+million, a net gain of $
+81
+million and a net loss of $
+45
+million, respectively.
+Net Investment Hedges
+During the twelve months ended December 31, 2024 we entered into cross currency swaps to hedge a portion of our net investment in certain European subsidiaries against volatility in the Euro/U.S. dollar exchange rate. As of December 31, 2023 and 2022, we held cross currency swaps to hedge a portion of our net investment in one of our European subsidiaries against volatility in the Euro/U.S. dollar exchange rate. These swaps are designated and qualify as a hedge of a net investment in a foreign subsidiary and are scheduled to mature in 2029, 2030, 2032 and 2033. The notional value of our outstanding cross currency swaps designated as a net investment hedge was $
+3.5
+billion and $
+1.5
+billion as December 31, 2024 and 2023. The changes in the fair value of these swaps are recognized in foreign currency translation adjustments, a component of other comprehensive income (loss), and reported in

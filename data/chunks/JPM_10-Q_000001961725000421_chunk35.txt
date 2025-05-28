@@ -1,0 +1,17 @@
+amounts were excluded when calculating net charge-off/(recovery) rates.
+49
+Consumer, excluding credit card
+Portfolio analysis
+Loans decreased from December 31, 2024 driven by lower residential real estate loans, including retained and at fair value, largely offset by higher loans at fair value in auto and other.
+Residential real estate:
+The residential real estate portfolio, including loans held-for-sale and loans at fair value, predominantly consists of prime mortgage loans and home equity lines of credit.
+Retained loans decreased compared to December 31, 2024, driven by paydowns, net of originations. Net recoveries were higher for the three months ended March 31, 2025 compared to the same period in the prior year, driven by loan sales.
+Loans held-for-sale and nonaccrual loans held-for-sale decreased from December 31, 2024, predominantly driven by loan sales.
+Loans at fair value decreased compared to December 31, 2024, driven by lower Home Lending loans, as warehouse loan sales outpaced originations, largely offset by an increase in CIB as purchases outpaced sales. Nonaccrual loans at fair value decreased compared to December 31, 2024, predominantly driven by loan sales in CIB.
+At March 31, 2025 and December 31, 2024, the carrying value of retained interest-only residential mortgage loans was $88.7 billion and $88.9 billion, respectively. These loans have an interest-only payment period generally followed by an adjustable-rate or fixed-rate fully amortizing payment period to maturity and are typically originated as higher-balance loans to higher-income borrowers. The credit performance of this portfolio is comparable to the performance of the broader prime mortgage portfolio.
+The carrying value of retained home equity lines of credit outstanding was $13.9 billion at March 31, 2025, including $3.7 billion of HELOCs that have recast from interest-only to fully amortizing payments or have been modified, and $3.5 billion of interest-only balloon HELOCs, which primarily mature after 2030. The Firm manages the risk of HELOCs during their revolving period by reducing or canceling the undrawn line in accordance with the contract or to the extent otherwise permitted by law, including when there has been a demonstrable decline in the creditworthiness of the borrower or significant decrease in the value of the underlying property.
+The following table provides a summary of the Firm’s residential mortgage portfolio insured and/or guaranteed by U.S. government agencies, predominantly loans held-for-sale and loans at fair value. The Firm monitors its exposure to certain potential unrecoverable claim payments related to government-insured loans and considers this exposure in estimating the allowance for loan losses.
+Geographic composition and current estimated loan-to-value ratio of residential real estate loans
+Refer to Note 11 for information on the geographic composition and current estimated LTVs of the Firm’s residential real estate loans.
+50
+Auto and

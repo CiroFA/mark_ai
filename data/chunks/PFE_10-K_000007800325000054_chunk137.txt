@@ -1,0 +1,18 @@
+also impact the consolidated statements of operations. Certain estimates of fair value and amounts recorded in connection with acquisitions, revenue deductions, impairment reviews, restructuring-associated charges, investments and financial instruments, valuation allowances, pension and postretirement benefit plans, contingencies, share-based compensation, and other calculations can result from a complex series of judgments about future events and uncertainties and can rely heavily on estimates and assumptions.
+Our estimates are often based on complex judgments and assumptions that we believe to be reasonable, but that can be inherently uncertain and unpredictable. If our estimates and assumptions are not representative of actual outcomes, our results could be materially impacted. As future events and their effects cannot be determined with precision, our estimates and assumptions may prove to be incomplete or inaccurate, or unanticipated events and circumstances may occur that might cause us to change those estimates and assumptions. We are subject to risks and uncertainties that may cause actual results to differ from estimated amounts, such as changes in the healthcare environment, competition, litigation, legislation, development of competing assets by us or others, regulatory actions, or product recalls or withdrawals. We regularly evaluate our estimates and assumptions using historical experience and expectations about the future. We adjust our estimates and assumptions when facts and circumstances indicate the need for change.
+D.
+Acquisitions
+Our consolidated financial statements include the operations of acquired businesses after the completion of the acquisitions. We account for acquired businesses using the acquisition method of accounting, which requires, among other things, that most assets acquired and liabilities assumed be recognized at their estimated fair values as of the acquisition date and that the fair value of acquired IPR&D be recorded on the balance sheet. Transaction costs are expensed as incurred. Any excess of the consideration transferred over the assigned values of the net assets acquired is recorded as goodwill. When we acquire net assets that do not constitute a business, as defined in U.S. GAAP, no goodwill is recognized and acquired IPR&D is expensed in
+Acquired in-process research and development expenses
+.
+Contingent consideration in a business combination is included as part of the acquisition cost and is recognized at fair value as of the acquisition date. Fair value is generally estimated by using a probability-weighted discounted cash flow approach. See
+Note 16D
+. Any liability
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+resulting from contingent consideration is remeasured to fair value at each reporting date until the contingency is resolved. These changes in fair value are recognized in earnings in
+Other (income)/deductions––net
+.
+E.
+Fair Value
+We measure certain assets

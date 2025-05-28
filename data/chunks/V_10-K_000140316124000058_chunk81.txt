@@ -1,0 +1,15 @@
+which the Company benefits from the sponsorship rights. Promotional costs are expensed as incurred, when the related services are received, or when the related event occurs.
+Income taxes
+. The Company accounts for income taxes using the asset and liability method. Deferred tax assets and liabilities are recognized to reflect the future tax consequences attributable to temporary differences between the financial statement carrying amounts and the respective tax basis of existing assets and liabilities, and operating loss and credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax laws and rates expected to be applied to taxable income in the years in which those temporary differences are expected to be recovered or settled. In assessing whether deferred tax assets are realizable, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. A valuation allowance is recorded for the portions that are not expected to be realized based on the level of historical taxable income, projections of future taxable income over the periods in which the temporary differences are deductible, and qualifying tax planning strategies.
+Where interpretation of the tax law may be uncertain, the Company recognizes, measures and discloses income tax uncertainties. The Company accounts for interest expenses and penalties, if any, related to uncertain tax positions in interest expense and investment income (expense) and other, respectively, on the consolidated statements of operations.
+See
+Note 19—Income Taxes
+.
+Foreign currency remeasurement and translation
+. The Company’s functional currency is the U.S. dollar for the majority of its foreign operations except for Visa Europe Limited (Visa Europe) whose functional currency is the Euro. Transactions denominated in currencies other than the applicable functional currency are converted to the functional currency at the exchange rate on the transaction date. At period end, monetary assets and liabilities are remeasured to the functional currency using exchange rates in effect at the balance sheet dates. Nonmonetary
+68
+Table of Contents
+assets and liabilities are remeasured at historical exchange rates. Resulting foreign currency transaction gains and losses related to conversion and remeasurement are recorded in general and administrative expense on the consolidated statements of operations and were not material for fiscal 2024, 2023 and 2022.
+Where a non-U.S. currency is the functional currency, translation from that functional currency to the U.S. dollar is performed for balance sheet accounts using exchange rates in effect at the balance sheet dates and for revenue and expense accounts using an average exchange rate for the period. Resulting translation adjustments are reported as a component of accumulated other comprehensive income (loss) on the consolidated balance sheets.
+Derivative and hedging instruments
+.

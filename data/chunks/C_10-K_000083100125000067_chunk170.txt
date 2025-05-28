@@ -1,0 +1,25 @@
+differ because the full change in the fair value of the debt includes risks not offset by the interest rate swap, the difference is automatically captured in current earnings.
+Additional economic hedges include hedges of the credit risk component of commercial loans and loan commitments.
+Citigroup periodically evaluates its hedging strategies in other areas and may designate either an accounting hedge or an economic hedge after considering the relative costs and benefits. Economic hedges are also employed when the hedged item itself is marked-to-market through current earnings, such as hedges of commitments to originate one- to four-family mortgage loans to be HFS and MSRs.
+Securities Borrowed and Securities Loaned
+Securities borrowing and lending transactions do not constitute a sale of the underlying securities for accounting purposes and are treated as collateralized financing transactions. Such transactions are recorded at the amount of proceeds advanced or received plus accrued interest. As described in Note 27, the Company has elected to apply fair value accounting to a number of securities borrowing and lending transactions. Fees received or paid for all securities borrowing and lending transactions are recorded in
+Interest revenue
+or
+Interest expense
+at the contractually specified rate.
+Where the conditions of ASC 210-20-45-1,
+Balance
+Sheet—Offsetting: Right of Setoff Conditions
+, are met, securities borrowing and lending transactions are presented net on the Consolidated Balance Sheet.
+The Company monitors the fair value of securities borrowed or loaned on a daily basis and obtains or posts additional collateral in order to maintain contractual margin protection.
+As described in Note 26, the Company uses a discounted cash flow technique to determine the fair value of securities lending and borrowing transactions.
+Repurchase and Resale Agreements
+Securities sold under agreements to repurchase (repos) and securities purchased under agreements to resell (reverse repos) do not constitute a sale (or purchase) of the underlying securities for accounting purposes and are treated as collateralized financing transactions. As described in Note 27, the Company has elected to apply fair value accounting to certain portions of such transactions, with changes in fair value reported in earnings. Any transactions for which fair value accounting has not been elected are recorded at the amount of cash advanced or received plus accrued interest. Irrespective of whether the Company has elected fair value accounting, interest paid or received on all repo and reverse repo transactions is recorded in
+Interest expense
+or
+Interest revenue
+at the contractually specified rate.
+Where the conditions of ASC 210-20-45-11,
+Balance Sheet—Offsetting: Repurchase and Reverse Repurchase Agreements
+, are met, repos and reverse repos are presented net on the Consolidated Balance Sheet.
+The Company’s policy is to take possession of securities purchased under reverse repurchase

@@ -1,0 +1,29 @@
+retrospective basis, with early adoption permitted. We are currently evaluating the impact of the adoption of this standard.
+68
+Table of Contents
+(3)
+Investments
+Marketable Debt Securities
+The following is a summary of our available-for-sale debt securities recorded within short-term and long-term investments on the consolidated balance sheets (in millions):
+As of December 31, 2024, the contractual maturities of our available-for-sale debt securities, excluding those securities classified within cash and cash equivalents on the consolidated balance sheet and mortgage-backed and asset-backed securities that do not have a single maturity, did not exceed
+37
+months.
+The fair values of available-for-sale debt securities, by remaining contractual maturity, are as follows (in millions):
+As of December 31, 2024, unrealized losses of $
+18
+million from available-for-sale debt securities are from securities in a continuous unrealized loss position greater than 12 months. As of December 31, 2024, the fair value of available-for-sale debt securities in a continuous unrealized loss position totaled $
+2,419
+million, the majority of which has been in a continuous unrealized loss position for less than 12 months. As of December 31, 2023, the fair value of available-for-sale debt securities in a continuous unrealized loss position totaled $
+3,731
+million and unrealized losses of $
+26
+million from available-for-sale debt securities are from securities in a continuous unrealized loss position greater than 12 months.
+69
+Table of Contents
+For all available-for-sale debt securities that were in unrealized loss positions, we have determined that it is more likely than not we will hold the securities until maturity or a recovery of the cost basis. Unrealized losses on available-for-sale debt securities were due primarily to changes in market interest rates, and credit-related impairment losses were immaterial as of December 31, 2024.
+Non-Marketable Equity Investments
+As of December 31, 2024 and 2023, the total amount of non-marketable equity investments in privately held companies included in other assets on our consolidated balance sheets was $
+469
+million and $
+268
+million, respectively. Our non-marketable equity investments are primarily accounted for using the measurement alternative, which measures the investments at cost minus impairment, if any, plus or minus changes resulting from qualifying observable price changes resulting from the issuance of similar or identical securities in an orderly transaction by the same issuer. Determining whether an observed transaction is similar to a security within our portfolio requires judgment based on the rights and preferences of the securities. Recording upward and downward adjustments to the carrying value of our non-marketable equity investments as a result of observable price changes requires quantitative assessments of the fair value of our non-marketable equity investments using various valuation methodologies and

@@ -1,0 +1,20 @@
+9.2
+billion minimum equity value will be due following final determination of Hulu’s fair value pursuant to a third-party appraisal process. In connection with the transaction, Disney also agreed to share with us
+50
+% of the future tax benefits resulting from the purchase of our interest in Hulu. Because we continue to hold our interest in Hulu, the $
+9.2
+billion payment from Disney is treated as an advance on the sale of our interest, which will be recognized following the finalization of the appraisal process. The receipt of the minimum proceeds resulted in a tax gain in 2023. The recorded value of our investment in Hulu of $
+883
+million and $
+863
+million as of December 31, 2024 and 2023, respectively, continues to reflect our historical cost in applying the equity method, and therefore, is less than its fair value.
+In 2019, we entered into a financing arrangement with a syndicate of banks whereby we received proceeds of $
+5.2
+billion under a term loan facility, which was fully collateralized by the minimum guaranteed proceeds of the put/call option related to our investment in Hulu. The term loan was due at the earlier of March 2024 or upon receipt of the proceeds under the put/call provisions and was repaid in the fourth quarter of 2023.
+We present the advance on the sale of our investment and the term loan separately in our consolidated balance sheets in the captions “advance on sale of investment” and “collateralized obligation,” respectively.
+Marketable Equity Securities
+We classify investments with readily determinable fair values that are not accounted for under the equity method as marketable equity securities and the carrying values are primarily presented in other current assets. The changes in fair value of our marketable equity securities between measurement dates are recorded in realized and unrealized gains (losses) on equity securities, net. The fair values of our marketable equity securities are based on Level 1 inputs that use quoted market prices.
+Table of Contents
+Comcast Corporation
+Nonmarketable Equity Securities
+We classify investments without readily determinable fair values that are not accounted for under the equity method as nonmarketable equity securities. The accounting guidance requires nonmarketable equity securities to be recorded at cost and adjusted to fair value at each reporting period. However, the guidance allows for a measurement alternative, which is to record the investments at cost, less impairment, if any, and subsequently adjust for observable price changes of identical or similar investments of the same issuer. We generally apply the measurement alternative, adjusting the investments for observable price changes of identical or similar investments of the same issuer, to our nonmarketable equity securities. When an observable event occurs, we estimate the fair values of our nonmarketable equity securities primarily based on Level 2 inputs that are derived from observable price changes of similar

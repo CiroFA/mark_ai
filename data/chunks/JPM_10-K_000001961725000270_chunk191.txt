@@ -1,0 +1,17 @@
+be a minimum of 100%.
+The following table summarizes the Firm and JPMorgan Chase Bank, N.A.’s average LCR for the three months ended December 31, 2024, September 30, 2024 and December 31, 2023 based on the Firm’s interpretation of the LCR framework.
+(a)
+Represents cash on deposit at central banks, primarily the Federal Reserve Banks.
+(b)
+Eligible HQLA securities may be reported in securities borrowed or purchased under resale agreements, trading assets, or investment securities on the Firm’s Consolidated balance sheets. For purposes of calculating the LCR, HQLA securities are included at fair value, which may differ from the accounting treatment under U.S. GAAP.
+(c)
+Predominantly U.S. Treasuries, U.S. GSE and government agency MBS, and sovereign bonds net of regulatory haircuts under the LCR rule.
+(d)
+Excludes average excess eligible HQLA at JPMorgan Chase Bank, N.A. that are not transferable to non-bank affiliates.
+JPMorgan Chase Bank, N.A.'s average LCR increased during the three months ended December 31, 2024, compared with the three months ended September 30, 2024, driven by activities in CIB Markets, partially offset by lower market values of HQLA-eligible investment securities and funding maturities.
+JPMorgan Chase Bank, N.A.’s average LCR for the three months ended December 31, 2024 decreased compared with the three months ended December 31, 2023, driven by dividend payments to the Parent Company and lending activity, largely offset by higher market values of HQLA-eligible investment securities, a reduction in unencumbered non-HQLA AFS securities, activities in CIB Markets, and long-term debt issuances.
+Management’s discussion and analysis
+Each of the Firm and JPMorgan Chase Bank, N.A.'s average LCR may fluctuate from period to period due to changes in their respective eligible HQLA and estimated net cash outflows as a result of ongoing business activity and from the impacts of Federal Reserve actions as well as other factors. Refer to the Firm’s U.S. LCR Disclosure reports, which are available on the Firm’s website, for a further discussion of the Firm’s LCR.
+Liquidity sources
+In addition to the assets reported in the Firm’s eligible HQLA discussed above, the Firm had unencumbered marketable securities, such as equity and debt securities, that the Firm believes would be available to raise liquidity. This includes excess eligible HQLA securities at JPMorgan Chase Bank, N.A. that are not transferable to non-bank affiliates. The fair value of these securities was approximately $594 billion and $649 billion as of December 31, 2024 and 2023, respectively, although the amount of liquidity that could be raised at any particular time would be dependent on prevailing market conditions. The decrease compared to December 31, 2023, was driven by reductions in unencumbered AFS securities in Treasury and CIO, excess eligible HQLA securities at JPMorgan Chase Bank, N.A., and unencumbered CIB trading assets.
+The Firm had approximately $1.4 trillion of

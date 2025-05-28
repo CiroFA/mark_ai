@@ -1,0 +1,15 @@
+antitrust laws as well as state deceptive trade laws relating to its advertising technology, and a trial is scheduled for August 2025. Additionally, in January 2023, the DOJ, along with a number of state Attorneys General, filed a lawsuit in the U.S. District Court for the Eastern District of Virginia alleging that Google violated U.S. antitrust laws relating to its advertising technology, and a number of additional state Attorneys General subsequently joined the lawsuit. In April 2025, the U.S. District Court for the Eastern District of Virginia issued a mixed decision in the DOJ case against Google, ruling that the DOJ failed to show that Google’s advertiser tools or acquisitions of DoubleClick and AdMeld were anticompetitive, but that Google’s publisher tools violated antitrust laws by excluding rivals. We plan to appeal the adverse portion of this decision.
+Further, in June 2023, the EC issued a Statement of Objections informing Google of its preliminary view that Google violated European antitrust laws relating to its advertising technology, to which we responded. In September 2024, the UK also issued a Statement of Objections on similar grounds, to which we responded.
+Given the nature of these matters, we cannot estimate a possible loss.
+•
+Google Play:
+In July 2021, a number of state Attorneys General filed a lawsuit in the U.S. District Court for the Northern District of California alleging that Google’s operation of Android and Google Play violated U.S. antitrust laws and state antitrust and consumer protection laws. In September 2023, we reached a settlement in principle with 50 state Attorneys General and three territories and recognized a charge. Final approval of the settlement remains pending before the court. In May 2024, we funded the settlement amount to an escrow agent.
+In December 2023, a California jury delivered a verdict in
+Epic Games v. Google
+finding that Google violated U.S. antitrust laws related to Google Play's business. Epic did not seek monetary damages. The presiding judge issued a remedies decision in October 2024, ordering a variety of alterations to our business models and operations and contractual agreements for Android and Google Play. We are appealing the verdict and the trial court judge temporarily paused the implementation of the remedies while the Court of Appeals considers our request to pause implementation of the remedies pending the duration of the appeal. Given the nature of this matter, we cannot estimate a possible loss.
+•
+European Digital Markets Act:
+In March 2024, the EC opened
+two
+investigations regarding Google's compliance with certain provisions of EU's Digital Markets Act relating to Google Play and Search. In March 2025, the EC issued preliminary findings of non-compliance in both investigations, to which we plan to respond in the coming weeks. Given the preliminary stages of this matter, we cannot estimate a possible loss.
+In addition to these antitrust proceedings, private individual and

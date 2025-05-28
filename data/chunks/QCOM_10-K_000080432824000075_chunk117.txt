@@ -1,0 +1,19 @@
+fiscal 2022, we and SSW Partners, a New York-based investment partnership, entered into and closed a definitive agreement to acquire Veoneer, Inc. (Veoneer). Total cash consideration paid in the transaction was $
+4.7
+billion. We acquired Veoneer’s Arriver business and SSW Partners retained Veoneer’s Tier-1 automotive supplier businesses, primarily consisting of the Active Safety and the Restraint Control Systems businesses (the Non-Arriver businesses), with the intent to sell such businesses in multiple transactions. In exchange for us funding substantially all of the cash consideration payable in the transaction, we obtained the right to receive a majority of the proceeds upon the sale of the Non-Arriver businesses by SSW Partners. On June 1, 2023, SSW Partners completed the sale of Veoneer’s Active Safety business to Magna International Inc. for net cash proceeds of $
+1.5
+billion. On March 1, 2024, SSW Partners completed the sale of Veoneer’s Restraint Control Systems (RCS) business to American Industrial Partners Capital Fund VII.
+Although we did not own or operate the Non-Arriver businesses, we were the primary beneficiary, within the meaning of the FASB accounting guidance related to consolidation (ASC 810), of these businesses under the variable interest model, until sold by SSW. Factors considered in reaching this conclusion included, among others: (i) our involvement in the design of and our funding of substantially all of the total cash consideration payable in the transaction and (ii) our obligation to absorb losses and rights to receive returns from the Non-Arriver businesses. Accordingly, through the date of disposition by SSW Partners, the assets and liabilities of the Non-Arriver businesses have been consolidated and presented as held for sale on our consolidated balance sheets, and the operating results (including the gain or loss on sale, the amounts of which were not material) have been presented as discontinued operations. Also, the cash flows provided (used) by the Non-Arriver businesses are reflected separately as discontinued operations, with the cash proceeds from the sale of the Active Safety and RCS businesses presented as investing activities.
+F-17
+QUALCOMM Incorporated
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 3.
+Income Taxes
+The components of the income tax provision from continuing operations were as follows (in millions):
+(1)
+The foreign component of the income tax provision included foreign withholding taxes on royalty revenues included in U.S. earnings.
+The components of income from continuing operations before income taxes by U.S. and foreign jurisdictions were as follows (in millions):
+The following is a reconciliation of the expected statutory federal income tax provision to our actual income tax provision from continuing operations (in millions, except percentages). A significant portion of our U.S. income qualifies for preferential treatment as FDII at a
+13
+% effective tax rate.
+Beginning in fiscal 2023,

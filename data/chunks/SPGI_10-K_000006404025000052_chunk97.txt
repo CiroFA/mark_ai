@@ -1,0 +1,17 @@
+respectively, mainly consisting of the royalty charged to Market Intelligence for the rights to use and distribute content and data developed by Ratings.
+For non-transaction revenue related to Rating’s surveillance services, we continuously monitor factors that impact the creditworthiness of an issuer over the contractual term with revenue recognized to the extent that our performance obligation is progressively fulfilled over the term contract. Because surveillance services are continuously provided throughout the term of the contract, our measure of progress towards fulfillment of our obligation to monitor a rating is a time-based output measure with revenue recognized ratably over the term of the contract.
+Non-subscription / Transaction revenue
+Transaction revenue at our Ratings segment primarily includes fees associated with:
+•
+ratings related to new issuance of corporate and government debt instruments; as well as structured finance instruments; and
+•
+bank loan ratings.
+Transaction revenue is recognized at the point in time when our performance obligation is satisfied by issuing a rating on our customer’s instruments and when we have a right to payment and the customer can benefit from the significant risks and rewards of ownership.
+Non-subscription revenue at Market Intelligence is primarily related to certain advisory, pricing conferences and events, and analytical services. Non-subscription revenue at Mobility include one-time transactional sales of data that are non-cyclical in nature — and that are usually tied to underlying business metrics such as vehicle manufacturers marketing spend or safety recall activity — as well as consulting and advisory services. Non-subscription revenue at Commodity Insights is primarily related to conference sponsorship, consulting engagements, events, and perpetual software licenses. Non-subscription revenue at Engineering Solutions was primarily from retail transaction and consulting services.
+Asset-linked fees
+Asset-linked fees at Indices are primarily related to royalties payments based on the value of assets under management in our customers exchange-traded funds and mutual funds.
+For asset-linked products and services, we provide licenses conveying continuous access to our index and benchmark-related intellectual property during a specified contract term. Revenue is recognized when the extent that our customers have used our licensed intellectual property can be quantified. Recognition of revenue for our asset-linked fee arrangements is subject to the
+“
+recognition constraint
+”
+for usage-based royalty payments because we cannot reasonably predict the value of the assets that will be invested in index funds structured using our intellectual property until it is either publicly available or when we are notified by our customers. Revenue derived from an asset-linked fee arrangement is measured and recognized when the certainty of the extent of its utilization of our index products by our customers is

@@ -1,0 +1,20 @@
+policy with respect to the funded plan is to fund, at a minimum, the amount required to maintain a funded status of
+80
+% of the applicable pension liability (the Funding Target pursuant to the Internal Revenue Code section 430) or such other amount as is sufficient to avoid restrictions with respect to the funding of nonqualified plans under the Internal Revenue Code. The Company does not anticipate any required funding in fiscal 2026 for the funded plan. The Company anticipates making contributions of $
+8
+million to provide current benefits coming due under the unfunded plan in fiscal 2026.
+The following are the components of net periodic benefit cost and other amounts recognized in other comprehensive income (loss) related to the Company’s pension plans:
+TJX develops its long-term rate of return assumption by evaluating input from professional advisors taking into account the asset allocation of the portfolio and long-term asset class return expectations, as well as long-term inflation assumptions.
+The unrecognized gains and losses in excess of
+10
+% of the projected benefit obligation are amortized over the average remaining service life of participants.
+F-27
+The following is a schedule of the benefits expected to be paid in each of the next five fiscal years and in the aggregate for the five fiscal years thereafter:
+The following tables present the fair value hierarchy for pension assets measured at fair value on a recurring basis:
+(a)
+In accordance with Subtopic 820-10, certain investments that were measured using net asset value per share (or its equivalent) as a practical expedient have not been classified in the fair value hierarchy. The fair value amounts presented in this table are intended to permit reconciliation of the fair value hierarchy to the fair value of assets presented above.
+Pension plan assets are reported at fair value. Refer to Note F—Fair Value Measurements for further information on the fair value hierarchy. Investments in equity securities traded on a national securities exchange are valued at the composite close price, as reported in the Wall Street Journal, as of the financial statement date. This information is provided by independent pricing sources.
+Short-term investments are primarily cash related to funding of the plan which had yet to be invested as of balance sheet dates.
+Certain corporate and government bonds are valued at the closing price reported in the active market in which the bond is traded. Other bonds are valued based on yields currently available on comparable securities of issuers with similar credit ratings. When quoted prices are not available for identical or similar bonds, the bond is valued under a discounted cash flow approach that maximizes observable inputs, such as current yields of similar instruments, but includes adjustments for certain risks that may not be observable, such as credit and liquidity risks. All bonds are priced by independent pricing sources.
+F-28
+Assets measured at net

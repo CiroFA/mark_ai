@@ -1,0 +1,37 @@
+•
+Cash flows for each of the three years in the period ended December 31, 2024.
+•
+Stockholders’ equity for each of the three years in the period ended December 31, 2024.
+•
+Reports of independent registered public accounting firm (PCAOB ID:
+42
+).
+Schedules have been omitted because the required information is not present or not present in amounts sufficient to require submission of the schedule or because the information required is included in the consolidated financial statements or the notes thereto.
+24
+See accompanying notes.
+25
+See accompanying notes.
+26
+See accompanying notes.
+27
+See accompanying notes.
+28
+See accompanying notes.
+29
+Notes to financial statements
+1.
+Description of business, including segment and geographic area information
+We design and manufacture semiconductors that we sell to electronics designers and manufacturers all over the world. We have
+two
+reportable segments, Analog and Embedded Processing, each of which represents groups of products that have similar design and development requirements, product characteristics and manufacturing processes. Our segments reflect how our chief operating decision maker (CODM), which is our chief executive officer, allocates resources and measures results.
+•
+Analog semiconductors change real-world signals, such as sound, temperature, pressure or images, by conditioning them, amplifying them and often converting them to a stream of digital data that can be processed by other semiconductors, such as embedded processors. Analog semiconductors are also used to manage power in all electronic equipment by converting, distributing, storing, discharging, isolating and measuring electrical energy, whether the equipment is plugged into a wall or using a battery. Our Analog segment consists of
+two
+major product lines: Power and Signal Chain.
+•
+Embedded Processing products are the digital “brains” of many types of electronic equipment. They are designed to handle specific tasks and can be optimized for various combinations of performance, power and cost, depending on the application.
+We report the results of our remaining business activities in Other. Other includes operating segments that do not meet the quantitative thresholds for individually reportable segments and cannot be aggregated with other operating segments. Other includes DLP
+®
+products, calculators and custom ASIC products.
+In Other, we also include items that are not used in evaluating the results of or in allocating resources to our segments. Examples of these items include acquisition, integration and restructuring charges (see Note 11); and certain corporate-level items, such as litigation expenses, environmental costs, insurance settlements, and gains and losses from other activities, including asset dispositions. We allocate the remainder of our expenses associated with corporate activities to our operating segments based on specific methodologies, such as percentage of operating expenses or headcount.
+Our centralized

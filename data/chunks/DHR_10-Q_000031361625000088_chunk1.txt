@@ -1,142 +1,45 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
+FORM 10-Q
+Table of Contents
+DANAHER CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED BALANCE SHEETS
+($ in millions, except per share amount)
+(unaudited)
+See the accompanying Notes to the Consolidated Condensed Financial Statements.
 1
-Twitter
+Table of Contents
+DANAHER CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED STATEMENTS OF EARNINGS
+($ and shares in millions, except per share amounts)
+(unaudited)
+See the accompanying Notes to the Consolidated Condensed Financial Statements.
 2
-Facebook
+Table of Contents
+DANAHER CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED STATEMENTS OF COMPREHENSIVE INCOME
+($ in millions)
+(unaudited)
+See the accompanying Notes to the Consolidated Condensed Financial Statements.
 3
-RSS
+Table of Contents
+DANAHER CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED STATEMENTS OF STOCKHOLDERS’ EQUITY
+($ in millions)
+(unaudited)
+See the accompanying Notes to the Consolidated Condensed Financial Statements.
 4
-YouTube
+Table of Contents
+DANAHER CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+($ in millions)
+(unaudited)
+See the accompanying Notes to the Consolidated Condensed Financial Statements.
 5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of Contents
+DANAHER CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+(unaudited)
+NOTE 1.
+GENERAL
+The Consolidated Condensed Financial Statements included herein have been prepared by Danaher Corporation (“Danaher” or the “Company”) without audit, pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”).  In this quarterly report, the terms “Danaher” or the “Company” refer to Danaher Corporation, Danaher Corporation and its consolidated subsidiaries, or the consolidated subsidiaries of Danaher Corporation, as the context requires.  Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”) have been condensed or omitted pursuant to SEC rules and regulations; however, the Company believes that the disclosures are adequate to make the information presented not misleading.  The Consolidated Condensed Financial Statements included herein should be read in conjunction with the financial statements as of and for the year ended December 31, 2024 and the Notes thereto included in the Company’s 2024 Annual Report on Form 10-K filed on February 20, 2025 (the “2024 Annual Report”).
+In the opinion of the Company, the accompanying financial statements contain all adjustments (consisting of only normal recurring accruals) necessary to present fairly the financial position of the Company as of March 28, 2025 and December 31, 2024, its results of operations for the three-month periods ended March 28, 2025 and March 29, 2024 and its cash flows for each of the three-month periods then ended.
+There have been no changes to the Company’s significant accounting policies described in the Company’s 2024 Annual Report that have a material impact on the

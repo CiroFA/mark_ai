@@ -1,0 +1,21 @@
+net of cash collateral received under enforceable credit support agreements (cash collateral netting).
+•
+Collateral represents cash collateral and the fair value of securities collateral, primarily U.S. and non-U.S. government and agency obligations, received under credit support agreements, that we consider when determining credit risk, but such collateral is not eligible for netting under U.S. GAAP.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+The table below presents the distribution of our net credit exposure from OTC derivatives by tenor.
+In the table above:
+•
+Tenor is based on remaining contractual maturity for substantially all OTC derivative assets.
+•
+Netting includes counterparty netting across tenor categories and collateral that we consider when determining credit risk (including collateral that is not eligible for netting under U.S. GAAP). Counterparty netting within the same tenor category is included within such tenor category.
+The tables below present the distribution of our net credit exposure from OTC derivatives by tenor and internally determined public rating agency equivalents.
+Lending Activities.
+We manage our lending activities using the credit risk process, measures, limits and risk mitigants described above. Other lending positions, including secondary trading positions, are risk-managed as a component of market risk. Beginning in the first quarter of 2025, as a result of a decrease in the balance of installment loans (due to the sales of GreenSky and the seller financing loan portfolio in 2024), the remaining installment loans originated by us are included in other loans. Previously, such loans were disclosed separately in the table below. The carrying value of installment loans was $50 million as of March 2025 and $70 million as of December 2024. Prior period amounts have been conformed to the current presentation.
+The table below presents our loans and lending commitments.
+In the table above, lending commitments excluded $5.25 billion as of March 2025 and $5.69 billion as of December 2024 related to issued letters of credit which are classified as guarantees in our consolidated financial statements. See Note 18 to the consolidated financial statements for further information about guarantees.
+See Note 9 to the consolidated financial statements for information about net charge-offs on wholesale and consumer loans, as well as past due and nonaccrual loans accounted for at amortized cost.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Corporate.
+Corporate loans and lending commitments include term loans, revolving lines of credit, letter of credit facilities and bridge loans, and are principally used for operating and general corporate purposes, or in connection with acquisitions. Corporate loans are secured (typically by a senior lien on the assets of the borrower) or unsecured, depending on the loan purpose, the risk profile of the borrower and

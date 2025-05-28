@@ -1,0 +1,19 @@
+tables also present the Corporation’s maximum loss exposure at December 31, 2024 and 2023 resulting from its
+involvement with consolidated VIEs and unconsolidated VIEs. The Corporation’s maximum loss exposure is based on the unlikely event that all of the assets in the VIEs become worthless and incorporates not only potential losses associated with assets recorded on the Consolidated Balance Sheet but also potential losses associated with off-balance sheet commitments, such as unfunded liquidity commitments and other contractual arrangements. The Corporation’s maximum loss exposure does not include losses previously recognized through write-downs of assets.
+The Corporation invests in ABS, CLOs and other similar investments issued by third-party VIEs with which it has no other form of involvement other than a loan or debt security issued by the VIE. In addition, the Corporation also enters into certain commercial lending arrangements that may utilize VIEs for activities secondary to the lending arrangement, for example to hold collateral. The Corporation’s maximum loss exposure to these VIEs is the investment balances. These securities and loans are included in
+Note 4 – Securities
+or
+Note 5 – Outstanding Loans and Leases and Allowance for Credit Losses
+and are not included in the following tables.
+The Corporation did not provide financial support to consolidated or unconsolidated VIEs during 2024, 2023 and
+2022 that it was not previously contractually required to provide, nor does it intend to do so.
+The Corporation had liquidity commitments, including written put options and collateral value guarantees, with certain unconsolidated VIEs of $
+1.0
+billion and $
+989
+million at December 31, 2024 and 2023.
+First-lien Mortgage Securitizations
+As part of its mortgage banking activities, the Corporation securitizes a portion of the first-lien residential mortgage loans it originates or purchases from third parties, generally in the form of residential mortgage-backed securities guaranteed by government-sponsored enterprises, FNMA and FHLMC (collectively the GSEs), or the Government National Mortgage Association (GNMA) primarily in the case of FHA-insured and U.S. Department of Veterans Affairs (VA)-guaranteed mortgage
+loans. Securitization usually occurs in conjunction with or shortly after origination or purchase, and the Corporation may also securitize loans held in its residential mortgage portfolio. In addition, the Corporation may, from time to time, securitize commercial mortgages it originates or purchases from other entities. The Corporation typically services the loans it securitizes. Further, the Corporation may retain beneficial interests in the securitization trusts including senior and subordinate securities and equity tranches issued by the trusts. Except as described in
+Note 12 – Commitments and Contingencies
+, the Corporation does not provide guarantees or recourse to the securitization trusts other than standard representations and

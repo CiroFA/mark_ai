@@ -1,0 +1,16 @@
+aircraft orders where a customer-controlled contingency may exist, as well as an assessment of whether the customer is committed to perform, impacts of geopolitical events or related sanctions, or whether it is probable that the customer will pay the full amount of consideration when it is due. We may experience reductions to backlog and/or significant order cancellations due to various factors including delivery delays, production disruptions and delays to entry into service of the 777X, 737-7 and/or 737-10.
+Accounting Quantity
+The accounting quantity is our estimate of the quantity of airplanes that will be produced for delivery under existing and anticipated contracts. The determination of the accounting quantity is limited by the ability to make reasonably dependable estimates of the revenue and cost of existing and anticipated contracts. It is a key determinant of the gross margins we recognize on sales of individual airplanes throughout a program’s life. Estimation of each program’s accounting quantity takes into account several factors that are indicative of the demand for that program, including firm orders, letters of intent from prospective customers and market studies. We review our program accounting quantities quarterly.
+The accounting quantity for each program may include units that have been delivered, undelivered units under contract and units anticipated to be under contract in the reasonable future (anticipated orders). In developing total program estimates, all of these items within the accounting quantity must be considered.
+34
+Table of Contents
+The following table provides details of the accounting quantities and firm orders by program as of December 31. Cumulative firm orders represent the cumulative number of commercial jet aircraft deliveries plus undelivered firm orders. Firm orders include certain military derivative aircraft that are not included in program accounting quantities. All revenues and costs associated with military derivative aircraft production are reported in the BDS segment.
+†
+Customer financing aircraft orders are identified in parentheses.
+*
+Approximate undelivered orders by minor model in 2024, 2023, and 2022, respectively: 737-7 (7%, 7%, 6%), 737-8 (63%, 65%, 70%), 737-9 (5%, 3%, 4%) and 737-10 (25%, 25%, 20%).
+** We completed production of the 747 in the fourth quarter of 2022 and delivery of the last aircraft occurred in February 2023.
+Program Highlights
+737 Program
+In January 2024, an Alaska Airlines 737-9 flight made an emergency landing after a mid-exit door plug detached in flight. Following the accident, the FAA grounded and required inspections of all 737-9 aircraft with a mid-exit door plug. All 737-9 aircraft returned to service in the first quarter of 2024.
+As a result of the accident, the FAA investigated the 737 quality control system, including Spirit AeroSystems Holdings, Inc. (Spirit), and increased its oversight of Boeing’s production and quality and safety management systems. In

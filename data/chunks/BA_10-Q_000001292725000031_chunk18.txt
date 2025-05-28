@@ -1,0 +1,34 @@
+following:
+BDS revenues on contracts with customers, based on the customer's location, consisted of the following:
+(1)
+Includes revenues earned from foreign military sales through the U.S. government.
+26
+Table of Contents
+BGS revenues consisted of the following:
+(1)
+Includes revenues earned from foreign military sales through the U.S. government.
+Earnings in Equity Method Investments
+During the three months ended March 31, 2025 and 2024, our share of (loss)/income from equity method investments was ($
+4
+) and $
+72
+. The loss in 2025 was primarily driven by investments held in Unallocated items, eliminations, and other. The income in 2024 was primarily driven by investments held at our BDS segment.
+Backlog
+Our total backlog includes contracts that we and our customers are committed to perform. The value in backlog represents the estimated transaction prices on performance obligations to our customers for which work remains to be performed. Backlog is converted into revenue, primarily based on the cost incurred or at delivery and acceptance of products, depending on the applicable revenue recognition model.
+Our backlog at March 31, 2025 was $
+544,736
+. We expect approximately
+24
+% to be converted to revenue through 2026 and approximately
+71
+% through 2029, with the remainder thereafter. There is significant uncertainty regarding the timing of when backlog will convert into revenue. We may experience reductions to backlog and/or significant order cancellations due to various factors including delivery delays, production disruptions and delays to entry into service of the 777X, 737-7 and/or 737-10.
+Unallocated Items, Eliminations and Other
+Unallocated items, eliminations and other include common internal services that support Boeing’s global business operations and eliminations of certain sales between segments. We generally allocate costs to business segments based on the U.S. Government Cost Accounting Standards (CAS).
+Components of Unallocated items, eliminations and other income/(expense) are shown in the following table.
+27
+Table of Contents
+Pension and Other Postretirement Benefit Expense
+Pension costs are allocated to BDS and BGS businesses supporting government customers using CAS, which employ different actuarial assumptions and accounting conventions than GAAP. These costs are allocable to government contracts. Other postretirement benefit costs are allocated to business segments based on CAS, which is generally based on benefits paid. FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. Non-operating pension and postretirement expenses represent the components of net periodic benefit costs other than service cost. These expenses are included in Other income, net.
+Components of FAS/CAS service cost adjustment are shown in the following table:
+Assets
+Segment assets are summarized

@@ -1,0 +1,37 @@
+debt security, or if it is more likely than not that the firm will be required to sell the debt security before recovery of its amortized cost, the difference between the amortized cost (net of allowance, if any) and the fair value of the securities is recognized as an impairment loss in earnings. The firm did not record any such impairment losses during either the three months ended March 2025 or March 2024. Impaired available-for-sale debt securities that the firm has the intent and ability to hold are reviewed to determine if an allowance for credit losses should be recorded. The firm considers various factors in such determination, including market conditions, changes in issuer credit ratings and severity of the unrealized losses. The firm did not record any provision for credit losses on such securities during either the three months ended March 2025 or March 2024.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+The table below presents information about available-for-sale securities in an unrealized loss position by aging category.
+The gross unrealized gains included in accumulated other comprehensive income/(loss) for available-for-sale securities were $
+229
+million as of March 2025 and were
+no
+t material as of December 2024. Net unrealized gains included in other comprehensive income/(loss) for available-for-sale securities were $
+558
+million ($
+420
+million, net of tax) for the three months ended March 2025 and $
+153
+million ($
+115
+million, net of tax) for the three months ended March 2024.
+The gross realized gains and gross realized losses relating to the sales of available-for-sale securities were not material for both the three months ended March 2025 and March 2024. The specific identification method is used to determine realized gains on available-for-sale securities.
+Held-to-Maturity Securities
+Held-to-maturity securities are accounted for at amortized cost.
+The table below presents information about held-to-maturity securities by type and tenor.
+In the table above:
+•
+Substantially all of the government obligations consist of U.S. government obligations.
+•
+U.S. agency obligations consist of U.S. agency issued mortgage-backed securities.
+•
+Substantially all of the securities backed by real estate consist of securities backed by residential real estate.
+•
+As these securities are not accounted for at fair value, they are not included in the firm’s fair value hierarchy in Notes 4 and 5. Had these securities been included in the firm’s fair value hierarchy, government obligations would have been classified in level 1, U.S. agency obligations would have been classified in level 2 and securities backed by real estate would have been primarily classified in level 2 of the fair value hierarchy.
+•
+The weighted average yield for held-to-maturity securities was
+4.18
+% as of March 2025 and
+4.09
+% as of December 2024. The weighted average yield is presented on a pre-tax basis and computed

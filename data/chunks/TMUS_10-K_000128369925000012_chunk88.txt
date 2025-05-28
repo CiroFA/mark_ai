@@ -1,0 +1,23 @@
+consolidated financial statements.
+58
+Index for Notes to the Consolidated Financial Statements
+T-Mobile US, Inc.
+Index for Notes to the Consolidated Financial Statements
+59
+Index for Notes to the Consolidated Financial Statements
+T-Mobile US, Inc.
+Notes to the Consolidated Financial Statements
+Note 1 – Summary of Significant Accounting Policies
+Description of Business
+T-Mobile US, Inc. (“T-Mobile,” “we,” “our,” “us” or the “Company”), together with its consolidated subsidiaries, is a leading provider of wireless communications services, including voice, messaging and data, under its flagship brands, T-Mobile, Metro™ by T-Mobile (“Metro by T-Mobile”) and Mint Mobile, in the United States, Puerto Rico and the U.S. Virgin Islands. Substantially all of our revenues were earned in, and substantially all of our long-lived assets are located in, the U.S., Puerto Rico and the U.S. Virgin Islands. We provide wireless communications services primarily using our 5G technology network and our 4G Long Term Evolution (“LTE”) network. We also offer a wide selection of wireless devices, including handsets, tablets and other mobile communication devices, and accessories for sale, as well as financing through equipment installment plans (“EIP”). We provide reinsurance for device insurance policies and extended warranty contracts offered to our wireless communications customers. In addition to our wireless communications services, we offer High Speed Internet utilizing our nationwide 5G network.
+Basis of Presentation
+The accompanying consolidated financial statements include the balances and results of operations of T-Mobile and our consolidated subsidiaries. We consolidate majority-owned subsidiaries over which we exercise control, as well as variable interest entities (“VIEs”) for which we are deemed to be the primary beneficiary and VIEs, which cannot be deconsolidated, such as those related to our Tower obligations as discussed in
+Note 10 – Tower Obligations
+. Intercompany transactions and balances have been eliminated in consolidation. We operate as a single operating segment.
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (“GAAP”) requires our management to make estimates and assumptions which affect our consolidated financial statements and accompanying notes.
+Estimates are based on historical experience, where applicable, and other assumptions which our management believes are reasonable under the circumstances. These estimates are inherently subject to judgment and actual results could differ from those estimates.
+Cash and Cash Equivalents
+Cash equivalents consist of highly liquid money market funds and U.S. Treasury securities with remaining maturities of three months or less at the date of purchase.
+Receivables and Related Allowance for Credit Losses
+Accounts Receivable
+Accounts receivable balances are predominantly comprised of amounts currently due from customers (e.g., for wireless

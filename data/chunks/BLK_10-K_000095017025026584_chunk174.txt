@@ -1,0 +1,48 @@
+Assets
+, for more information. The fair value of these contracts was determined using a discounted cash flow analysis. The most sensitive assumptions used to determine present value were growth expectations, revenue / operating margin forecast, and the discount rate applied to the cash flow forecast, which are considered Level 3 inputs in the valuation hierarchy.
+F-
+21
+Changes in Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis for
+2024
+(1)
+Issuances and other settlements amounts include contingent consideration liabilities related to the SpiderRock and GIP Transactions and repayments of borrowings of a consolidated CLO.
+(2)
+Earnings attributable to the change in unrealized gains (losses) relating to assets and liabilities still held at the reporting date.
+Changes in Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis for 2023
+(1)
+Issuances and other settlements amounts include a deconsolidation related to a previously consolidated VRE. In addition, issuances and other settlements include a contingent liability in connection with the Kreos Transaction, offset by repayments of borrowings of a consolidated CLO.
+(2)
+Earnings attributable to the change in unrealized gains (losses) relating to assets and liabilities still held at the reporting date.
+Realized and Unrealized Gains (Losses) for Level 3 Assets and Liabilities.
+Realized and unrealized gains (losses) recorded for Level 3 assets and liabilities are primarily reported in nonoperating income (expense) on the consolidated statements of income. A portion of net income (loss) related to securities held by CIPs is allocated to NCI to reflect net income (loss) not attributable to the Company.
+Transfers in and/or out of Levels.
+Transfers in and/or out of levels are reflected when significant inputs, including market inputs or performance attributes, used for the fair value measurement become observable/unobservable.
+Disclosures of Fair Value for Financial Instruments Not Held at Fair Value
+. At December 31, 2024 and 2023, the fair value of the Company’s financial instruments not held at fair value are categorized in the table below.
+(1)
+See Note 5
+, Investments
+, for further information on investments not held at fair value.
+(2)
+Cash and cash equivalents, other than money market funds, are carried at either cost or amortized cost, which approximates fair value due to their short-term maturities.
+(3)
+At December 31, 2024 and 2023
+, approximately $
+6.2
+billion and $
+3.4
+billion, respectively, of money market funds were recorded within cash and cash equivalents on the consolidated statements of financial condition. Money market funds are valued based on quoted market prices, or $
+1.00
+per share, which generally is the NAV of the fund.
+(4)
+At December 31, 2024 and 2023, other assets included cash collateral of approximately
+$
+69
+million
+and
+$
+63
+million
+, respectively. See Note 9,
+Derivatives and Hedging
+for further information on derivatives held by the

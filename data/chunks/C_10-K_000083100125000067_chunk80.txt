@@ -1,0 +1,18 @@
+working remotely up to two days a week.
+This page intentionally left blank.
+66
+Managing Global Risk
+—
+Table of Contents
+(1)    For additional information regarding certain credit risk, market risk and other quantitative and qualitative information, refer to
+Citi’s Pillar 3 Basel III Advanced Approaches Disclosures, as required by the rules of the FRB, on Citi’s Investor Relations website.
+These Pillar 3 disclosures are not incorporated by reference into, and do not form any part of, this Form 10-K.
+67
+MANAGING GLOBAL RISK
+Overview
+For Citi, effective risk management is of primary importance to its overall operations. Accordingly, Citi has established an Enterprise Risk Management (ERM) Framework to ensure that all of Citi’s risks are managed appropriately and consistently across the Company and at an aggregate, enterprise-wide level. Citi’s culture drives a strong risk and control environment, and is at the heart of the ERM Framework, underpinning the way Citi conducts business. The activities that Citi engages in, and the risks those activities generate, must be consistent with Citi’s Mission and Value Proposition (see below) and the key Leadership Principles that support it, as well as Citi’s risk appetite. As discussed above, Citi also continues its efforts to comply with the 2020 FRB and OCC Consent Orders and the OCC’s 2024 Consent Order Amendment, relating principally to various aspects of risk management, compliance, data quality management related to governance, and internal controls (see “Citi’s Multiyear
+Transformation—FRB and OCC Consent Orders
+Compliance” and “Risk Factors—Compliance Risks” above).
+Under Citi’s Mission and Value Proposition, which was developed by its senior leadership and distributed throughout the Company, Citi strives to serve its clients as a trusted partner by responsibly providing financial services that enable growth and economic progress while earning and maintaining the public’s trust by constantly adhering to the highest ethical standards. As such, Citi asks all employees to ensure that their decisions pass three tests: they are in Citi’s clients’ best interests, create economic value and are always systemically responsible.
+As discussed in “Human Capital Resources and Management” above, Citi has designed Leadership Principles that represent the qualities, behaviors and expectations all employees must exhibit to deliver on Citi’s mission of enabling growth and economic progress. The Leadership Principles inform Citi’s ERM Framework and contribute to creating a culture that drives client, control and operational excellence. Citi employees share a common responsibility to uphold these Leadership Principles and hold themselves to the highest standards of ethics and professional behavior in dealing with Citi’s clients, business colleagues, shareholders, communities and each other.
+Citi’s ERM Framework details the principles used to support effective enterprise-wide risk management across the end-to-end risk

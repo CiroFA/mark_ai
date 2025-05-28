@@ -1,0 +1,25 @@
+this Form 10-K) for further discussion.
+The following table outlines the expected future recognition of unearned revenue as of June 30, 2024:
+If our customers choose to license cloud-based versions of our products and services rather than licensing transaction-based products and services, the associated revenue will shift from being recognized at the time of the transaction to being recognized over the subscription period or upon consumption, as applicable. Refer to Note 13 – Unearned Revenue of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+49
+PART II
+Item 7
+Material Cash Requirements and Other Obligations
+Contractual Obligations
+The following table summarizes the payments due by fiscal year for our outstanding contractual obligations as of June 30, 2024:
+(a)
+Refer to Note 11 – Debt of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+(b)
+Refer to Note 7 – Property and Equipment of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+(c)
+Refer to Note 14 – Leases of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+(d)
+Purchase commitments primarily relate to datacenters and include open purchase orders and take-or-pay contracts that are not presented as construction commitments above.
+Income Taxes
+As a result of the TCJA, we are required to pay a one-time transition tax on deferred foreign income not previously subject to U.S. income tax. Under the TCJA, the transition tax is payable in interest-free installments over eight years, with 8% due in each of the first five years, 15% in year six, 20% in year seven, and 25% in year eight. As of June 30, 2024, we had a remaining transition tax liability of $7.6 billion, of which $3.8 billion is short-term and payable in the first quarter of fiscal year 2025.
+Share Repurchases
+During fiscal years 2024 and 2023, we repurchased 32 million shares and 69 million shares of our common stock for $12.0 billion and $18.4 billion, respectively, through our share repurchase program. All repurchases were made using cash resources. As of June 30, 2024, $10.3 billion remained of our $60 billion share repurchase program. Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+Dividends
+During fiscal years 2024 and 2023, our Board of Directors declared dividends totaling $22.3 billion and $20.2 billion, respectively. We intend to continue returning capital to shareholders in the form of dividends, subject to declaration by our Board of Directors. Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+Other Planned Uses of Capital
+We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology, as well as acquisitions that align with our business strategy. Additions to property and equipment

@@ -1,0 +1,50 @@
+counterbalance the effect of any currency movement.
+Interest Rate Risk––
+Our interest-bearing investments and borrowings are subject to interest rate risk. Depending on market conditions, we may change the profile of our outstanding debt or investments by entering into derivative financial instruments like interest rate swaps, either to hedge or offset the exposure to changes in the fair value of hedged items with fixed interest rates, or to convert variable rate debt or investments to fixed rates. The derivative financial instruments primarily hedge U.S. dollar fixed-rate debt.
+We recognize the change in fair value on interest rate contracts that are designated as fair value hedges in earnings, as well as the offsetting earnings impact of the hedged risk attributable to the hedged item.
+(a)
+The notional amount of outstanding foreign exchange contracts hedging our intercompany forecasted inventory sales was $
+5.0
+billion as of December 31, 2024 and $
+4.9
+billion as of December 31, 2023.
+Notes to Consolidated Financial Statements
+Pfizer Inc. and Subsidiary Companies
+(a)
+OID = Other (income)/deductions—net,
+included in
+Other (income)/deductions—net
+in the consolidated statements of operations
+.
+COS = Cost of Sales, included in
+Cost of sales
+in the consolidated statements of operations. OCI = Other comprehensive income/(loss), included in the consolidated statements of comprehensive income/(loss)
+.
+(b)
+The amounts reclassified from OCI into COS were a net gain of $
+119
+million in 2024 and a net gain of $
+253
+million in 2023. The remaining amounts were reclassified from OCI into OID. Based on year-end foreign exchange rates that are subject to change, we expect to reclassify a pre-tax gain of $
+330
+million within the next 12 months into income
+.
+The maximum length of time over which we are hedging our exposure to the variability in future foreign exchange cash flows is approximately
+18
+years and relates to foreign currency debt.
+(c)
+The amounts reclassified from OCI were reclassified into OID.
+(d)
+Long-term debt includes foreign currency borrowings which are used in net investment hedges; the related carrying values as of December 31, 2024 and December 31, 2023 were $
+777
+million and $
+824
+million, respectively.
+(a)
+Carrying amounts exclude the cumulative amount of fair value hedging adjustments.
+F. Credit Risk
+On an ongoing basis, we monitor and review the credit risk of our customers, financial institutions and exposures in our investment portfolio.
+With respect to our trade accounts receivable, we monitor the creditworthiness of our customers to which we grant credit in the normal course of business. In general, there is no requirement for collateral from customers. For additional information on our trade accounts receivable and allowance for credit losses, see
+Note 1
+G
+. A significant portion of our trade accounts receivable balances are due from wholesalers and governments. For additional information on our trade accounts receivables with

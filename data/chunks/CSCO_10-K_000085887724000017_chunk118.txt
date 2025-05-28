@@ -1,0 +1,15 @@
+the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms and is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Internal Control over Financial Reporting
+Management’s report on our internal control over financial reporting and the report of our independent registered public accounting firm on our internal control over financial reporting are set forth, respectively, on page 57 under the caption “Management’s Report on Internal Control Over Financial Reporting” and on page 54 of this report.
+There was no change in our internal control over financial reporting during our fourth quarter of fiscal 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+In accordance with guidance issued by the Securities and Exchange Commission staff, companies are permitted to exclude acquisitions from their assessment of internal control over financial reporting for a period not to exceed one year from the date of the acquisition. Management’s assessment of the effectiveness of our internal control over financial reporting as of July 27, 2024 did not include the internal controls of Splunk, which we acquired on March 18, 2024. We have included the financial results of Splunk in our Consolidated Financial Statements since the date of acquisition. Total assets and total revenues of Splunk represented approximately 3 percent of each of our total consolidated assets and total consolidated revenue as of and for the year ended July 27, 2024.
+Rule 10b5-1
+Trading Arrangements
+During the fourth quarter of fiscal 2024, none of our directors or officers (as defined in Rule 16a-1(f) of the Exchange Act) informed us of the adoption or termination of a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” each as defined in Item 408 of Regulation S-K.
+Not applicable.
+104
+Table of Contents
+PART III
+We have adopted a code of ethics that applies to our principal executive officer and all members of our finance department, including the principal financial officer and principal accounting officer. This code of ethics can be found at the “Financial Officer Code of Ethics” link in the Corporate Governance section of Cisco’s Investor Relations website at investor.cisco.com. We intend to satisfy any disclosure requirement regarding an amendment to, or waiver from, a provision of this code of ethics by posting such information on that website or in a report on Form 8-K.
+Insider Trading Arrangements and Policies
+We are committed to promoting high standards of ethical business conduct and compliance with applicable laws, rules and regulations. As part of this commitment, we have adopted an Insider Trading Policy governing transactions in our securities by our

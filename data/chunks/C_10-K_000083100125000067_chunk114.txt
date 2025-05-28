@@ -1,0 +1,19 @@
+debt and interest rate derivatives.
+In addition, Citi uses multiple metrics to measure its Banking Book interest rate risk. Interest Rate Exposure (IRE) is a key metric that analyzes the impact of a range of scenarios on Citi’s Banking Book net interest income versus a base case. IRE does not represent a forecast of Citi’s net interest income.
+The scenarios, methodologies and assumptions used in Citi’s IRE analysis are periodically evaluated and enhanced in response to changes in the market environment, changes in Citi’s balance sheet composition, enhancements in Citi’s modeling and other factors.
+Citi utilizes the most recent quarter-end balance sheet, assuming no changes to its composition and size over the forecasted horizon (holding the balance sheet static). The forecasts incorporate expectations and assumptions of deposit pricing, loan spreads and mortgage prepayment behavior implied by the interest rate curves in each scenario. The base case scenario reflects the market-implied forward interest rates, and sensitivity scenarios assume instantaneous shocks to the base case. The forecasts do not assume Citi takes any risk-mitigating actions in response to changes in the interest rate environment. Certain interest rates are subject to flooring assumptions in downward rate scenarios. Deposit pricing sensitivities (i.e., deposit betas) are informed by historical and expected behavior. Actual deposit pricing could differ from the assumptions used in these forecasts.
+102
+Citi’s IRE analysis primarily reflects the impacts from the following Banking Book assets and liabilities: loans, client deposits, Citi’s deposits with other banks, investment securities, long-term debt, any related interest rate hedges and the funds transfer pricing of positions in total trading and credit portfolio value at risk (VaR). It excludes impacts from any positions that are included in total trading and credit portfolio VaR.
+In addition to IRE, Citi analyzes economic value sensitivity (EVS) as a longer-term interest rate risk metric. EVS is a net present value (NPV)–based measure of the lifetime cash flows of Citi’s Banking Book. It estimates the interest rate sensitivity of the Banking Book’s economic value from longer-term assets being potentially funded with shorter-term liabilities, or vice versa. Citi manages EVS within risk limits approved by Citigroup’s Board of Directors that are aligned with Citi’s risk appetite.
+Interest Rate Risk of Investment Portfolios—Impact
+on
+AOCI
+Citi measures the potential impacts of changes in interest rates on the value of its
+AOCI
+, which can in turn impact Citi’s common equity and tangible common equity. This will impact Citi’s CET1 and other regulatory capital ratios. Citi seeks to manage its exposure to changes in the market level of interest rates, while limiting the potential impact on its
+AOCI
+and regulatory capital position.
+AOCI
+at risk is managed as part of the Company-wide interest rate risk position.
+AOCI
+at risk

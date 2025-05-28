@@ -1,0 +1,24 @@
+operating expenses, and operating income from changes in our foreign exchange rates versus the U.S. Dollar is as follows (in millions):
+___________________
+(1)
+Represents the change in reported amounts resulting from changes in foreign exchange rates from those in effect in the comparable prior year period for operating results.
+(2)
+Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the comparable prior year period for operating results.
+29
+Table of
+Contents
+Guidance
+We provided guidance on May 1, 2025, in our earnings release furnished on Form 8-K as set forth below. These forward-looking statements reflect Amazon.com’s expectations as of May 1, 2025, and are subject to substantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions, tariff and trade policies, and customer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and emerging technologies, as well as those outlined in Item 1A of Part II, “Risk Factors.”
+Second Quarter 2025 Guidance
+•
+Net sales are expected to be between $159.0 billion and $164.0 billion, or to grow between 7% and 11% compared with second quarter 2024. This guidance anticipates an unfavorable impact of approximately 10 basis points from foreign exchange rates.
+•
+Operating income is expected to be between $13.0 billion and $17.5 billion, compared with $14.7 billion in second quarter 2024.
+•
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are concluded.
+30
+Table of
+Contents
+We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our investments. Information relating to quantitative and qualitative disclosures about market risk is set forth below and in Item 2 of Part I, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources.”
+Interest Rate Risk
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our debt. Our long-term debt is carried at amortized cost and fluctuations in interest rates do not impact our consolidated financial statements. However, the fair value of our long-term debt, which pays interest at a fixed rate, will generally fluctuate with movements of interest rates, increasing in periods of declining rates of interest and declining in periods of increasing rates of interest. We generally invest our excess cash in investment grade short- to intermediate-term marketable debt securities and AAA-rated money market funds. Marketable debt

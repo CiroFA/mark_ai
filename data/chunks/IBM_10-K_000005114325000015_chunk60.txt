@@ -1,0 +1,15 @@
+Contents
+The CSIRT team, together with the Office of the Chief Information Officer (“CIO”), Cyber Legal, Corporate Security, and BISOs, engages in on-going reviews of incidents, threat intelligence, detections, and vulnerabilities, including to assess client and regulatory impact. Events of interest are promptly reported to the Senior Vice President (“SVP”) and Chief Legal Officer ("CLO"), and the SVP overseeing cybersecurity (“SVP Sponsor”).
+Incidents are delegated to an appropriate incident response team for assessment, investigation, and remediation. Depending on the nature of the matter, the incident response team may include individuals from E&TS, the Office of the CISO, the Office of the CIO, Cyber Legal, Business Units, the Office of Privacy and Responsible Technology, Human Resources, Procurement, Finance and Operations, and Corporate Security. The incident response teams advise and consult with the CLO and the SVP Sponsor, as appropriate.
+The
+Cybersecurity Advisory Committee (“CAC”)
+meets regularly and is responsible for overseeing management of the Company’s cybersecurity risk. The CAC is composed of, among others, SVPs from the major business units, the SVP Sponsor, and the CLO. The CAC is responsible for, among other things, setting the Company’s governance structure for managing cybersecurity risk and reviewing noteworthy cybersecurity incidents and strategies to prevent recurrence.
+IBM management responsible for managing cybersecurity risk reflects a cross-section of functions from across the organization with significant experience in managing such risk as well as the technologies underlying these risks. They also hold leadership positions outside of IBM in the field of cybersecurity, serving on governing and advisory boards of public and private institutions at the forefront of issues related to cybersecurity, including technology development, cybersecurity policy, and national security.
+The Board of Directors and the Audit Committee oversee the cyber governance process.
+Leadership from E&TS, including the CISO, make regular presentations to the Audit Committee and the full Board on identification, management, and remediation of cybersecurity risks, both internal and external, as well as threat intelligence, emerging global policies and regulations, cybersecurity technologies, and best practices.
+In addition, senior management provides briefings as needed to the Audit Committee Chair, the Audit Committee, and, as appropriate, the full Board, on cybersecurity issues and incidents of potential interest.
+Item 2. Properties:
+IBM
+’s corporate headquarters are located at an owned site in Armonk, New York. As of December 31, 2024, in aggregate, we owned or leased facilities for current use consisting of approximat
+ely 41 million square feet worldwide.
+At December 31, 2024, IBM’s facilities in the U.S. had aggregate floor space of approximately 17 million square feet, of which approximately 9 million was owned and 8 million was leased.

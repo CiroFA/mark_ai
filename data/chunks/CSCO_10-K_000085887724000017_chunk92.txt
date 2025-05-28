@@ -1,0 +1,15 @@
+estimated fair values. Share-based compensation expense is reduced for forfeitures as they occur.
+67
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+(t) Software Development Costs
+Software development costs, including costs to develop software sold, leased, or otherwise marketed, that are incurred subsequent to the establishment of technological feasibility are capitalized. Costs incurred during the application development stage for internal-use software and cloud-based applications are capitalized. Such software development costs capitalized during the periods presented were not material.
+(u) Income Taxes
+Income tax expense is based on pretax financial accounting income. Deferred tax assets and liabilities are recognized for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their reported amounts. Valuation allowances are recorded to reduce deferred tax assets to the amount that will more likely than not be realized.
+We account for uncertainty in income taxes using a two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. We classify the liability for unrecognized tax benefits as current to the extent that we anticipate payment (or receipt) of cash within one year. Interest and penalties related to uncertain tax positions are recognized in the provision for income taxes.
+(v) Computation of Net Income per Share
+Basic net income per share is computed using the weighted-average number of common shares outstanding during the period. Diluted net income per share is computed using the weighted-average number of common shares and dilutive potential common shares outstanding during the period. Diluted shares outstanding includes the dilutive effect of in-the-money options, unvested restricted stock, and restricted stock units. The dilutive effect of such equity awards is calculated based on the average share price for each fiscal period using the treasury stock method. Under the treasury stock method, the amount the employee must pay for exercising stock options and the amount of compensation cost for future service that we have not yet recognized are collectively assumed to be used to repurchase shares.
+(w) Consolidation of Variable Interest Entities
+Our approach in assessing the consolidation requirement for variable interest entities focuses on identifying which enterprise has the power to direct the activities that most significantly impact the variable interest entity’s economic performance and which enterprise has the obligation to

@@ -1,0 +1,44 @@
+Benefits) in our 2024 Form 10-K.
+Table 19.1 presents the components of net periodic benefit cost. Service cost is reported in personnel expense and all other components of net periodic benefit cost are reported in other noninterest expense on our consolidated statement of income.
+Table 19.1:
+Net Periodic Benefit Cost
+Table 20.1 shows earnings per common share and diluted earnings per common share and reconciles the numerator and denominator of both earnings per common share calculations.
+Table 20.1:
+Earnings Per Common Share Calculations
+(1)
+Includes costs associated with any preferred stock redemption.
+(2)
+Calculated using the treasury stock method.
+Table 20.2 presents the outstanding securities that were anti-dilutive and therefore not included in the calculation of diluted earnings per common share.
+Table 20.2:
+Outstanding Anti-Dilutive Securities
+(1)    Calculated using the if-converted method.
+(2)    Calculated using the treasury stock method.
+Table 20.3 presents dividends declared per common share.
+Table 20.3:
+Dividends Declared Per Common Share
+Table 21.1 provides the components of other comprehensive income (OCI), reclassifications to net income by income statement line item, and the related tax effects. Income tax
+effects are reclassified from accumulated OCI to net income in the same period as the related pre-tax amount.
+Table 21.1:
+Summary of Other Comprehensive Income
+(1)
+Represents changes in fair value of cross-currency swaps attributable to changes in cross-currency basis spreads, which are excluded from the assessment of hedge effectiveness and recorded in other comprehensive income.
+(2)
+These items are included in the computation of net periodic benefit cost. See Note 19 (Employee Benefits) for additional information.
+Table 21.2 provides the accumulated OCI balance activity on an after-tax basis.
+Table 21.2:
+Accumulated OCI Balances
+(1)
+At March 31, 2025 and 2024, accumulated other comprehensive loss includes unamortized after-tax unrealized losses of $
+3.0
+billion and $
+3.4
+billion, respectively, associated with the transfer of securities from AFS to HTM. These amounts are subsequently amortized into earnings over the same period as the related unamortized premiums and discounts.
+(2)
+Substantially all of the amounts for fair value hedges are foreign exchange contracts.
+(3)
+Substantially all of the amounts for cash flow hedges are interest rate contracts.
+Regulatory Capital Requirements
+The Company and each of its subsidiary banks are subject to regulatory capital adequacy requirements promulgated by federal banking regulators. The FRB establishes capital requirements for the consolidated financial holding company, and the Office of the Comptroller of the Currency (OCC) has similar requirements for the Company’s national banks, including Wells Fargo Bank, N.A. (the Bank).
+Table 22.1 presents regulatory capital information for the Company and the Bank in accordance with Basel III capital
+requirements. We must calculate our risk-

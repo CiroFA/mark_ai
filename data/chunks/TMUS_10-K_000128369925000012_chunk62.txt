@@ -1,0 +1,52 @@
+Revolving Credit Facility (as defined below), as interest is paid on our Senior Notes at a fixed rate. We continue to monitor the impact of these trends on the payment performance of our customers.
+32
+Table of Contents
+Results of Operations
+Set forth below is a summary of our consolidated financial results:
+NM - Not meaningful
+33
+Table of Contents
+The following discussion and analysis is for the year ended December 31, 2024, compared to the same period in 2023, unless otherwise stated.
+For a discussion and analysis of the year ended December 31, 2023, compared to the same period in 2022, please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations included in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 2, 2024.
+Total revenues
+increased $2.8 billion, or 4%. The components of these changes are discussed below.
+Postpaid revenues
+increased $3.6 billion, or 7%, primarily from:
+•
+Higher average postpaid accounts; and
+•
+Higher postpaid ARPA. See “Postpaid ARPA” in the “
+Performance Measures
+” section of this MD&A.
+Prepaid revenues
+increased $632 million, or 6%, primarily from:
+•
+Higher average prepaid customers, primarily from the prepaid customers acquired through the Ka’ena Acquisition; partially offset by
+•
+Lower prepaid ARPU. See “Prepaid ARPU” in the “
+Performance Measures
+” section of this MD&A.
+Wholesale and other service revenues
+decreased $1.3 billion, or 28%, primarily from:
+•
+Lower MVNO revenues, including the impact from the Ka’ena Acquisition, and lower DISH and TracFone MVNO revenue;
+•
+Lower Affordable Connectivity Program and Lifeline revenues; and
+•
+Lower Wireline revenues due to the sale of the Wireline Business on May 1, 2023.
+Equipment revenues
+increased slightly, primarily from:
+•
+An increase of $627 million in liquidation revenue, primarily due to a higher number of liquidated devices, including the impact from the transition of certain device recovery programs from external sources to in-house processing; mostly offset by
+•
+A decrease of $231 million in device sales revenue, excluding purchased leased devices, primarily from:
+•
+A net decrease in the total number of devices sold, driven by lower Assurance Wireless and prepaid devices, partially offset by higher postpaid devices; partially offset by
+•
+Higher average revenue per device sold, net of promotions, primarily driven by an increase in the high-end phone mix; and
+•
+A decrease of $219 million in lease revenues, primarily due to a lower number of customer devices under lease as a result of the continued strategic shift in device financing from leasing to EIP.
+Other revenues
+decreased $220 million, or 19%, primarily from the transition of certain device recovery programs from external sources to in-house processing, resulting in a change in presentation from Other revenues to Equipment revenues.
+Total operating expenses
+decreased $902 million, or 1%. The components

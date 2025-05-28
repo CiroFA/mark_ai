@@ -1,0 +1,17 @@
+development tax credit generation to exceed our ability to use the credits in future years.
+Comparison of the years ended December 31, 2024 and 2023
+Revenues
+44
+Table of Contents
+Subscription revenues increased by $2.0 billion for the year ended December 31, 2024, compared to the prior year, primarily driven by increased purchases by new and existing customers. Included in subscription revenues is $409 million and $322 million of revenues recognized upfront from the delivery of software associated with self-hosted offerings during the years ended December 31, 2024 and 2023, respectively.
+We expect subscription revenues for the year ending December 31, 2025 to increase in absolute dollars and remain relatively flat as a percentage of revenue as we continue to add new customers and existing customers increase their usage of our products compared to the year ended December 31, 2024.
+Our expectations for revenues, cost of revenues and operating expenses for the year ending December 31, 2025 are based on the 31-day average of foreign exchange rates for December 31, 2024.
+Subscription revenues consist of the following:
+Our digital workflow products include most of our product offerings and are generally priced on a per user basis. Our remaining product offerings, primarily comprised of our IT Operations Management (“ITOM”) products, are predominantly priced on a subscription unit basis.
+Professional services and other revenues increased by $47 million for the year ended December 31, 2024, compared to the prior year, due to an increase in services and trainings provided to new and existing customers.
+We expect professional services and other revenues for the year ending December 31, 2025 to remain relatively flat both in absolute dollars and as a percentage of revenue compared to the year ended December 31, 2024.
+Cost of Revenues and Gross Profit Percentage
+45
+Table of Contents
+Cost of subscription revenues increased by $336 million for the year ended December 31, 2024, compared to the prior year, primarily due to increased headcount and increased costs to support the growth of our subscription offerings including costs to support customers in regulated markets. Personnel-related costs, including stock-based compensation and overhead expenses, increased by $230 million as compared to prior year. Expenses associated with software, maintenance, and other costs to support the expansion of our data center capacity increased by $85 million for the year ended December 31, 2024, as compared to prior year.
+We expect our cost of subscription revenues for the year ending December 31, 2025 to increase in absolute dollars as we provide subscription services to more customers and increase usage within our customer instances and increase slightly as a percentage of revenue compared to the year ended December 31, 2024. We will continue to incur incremental costs to attract customers in regulated markets by adopting public cloud offerings as well as increased support

@@ -1,0 +1,25 @@
+assumption impacting the cash flow projections used in the measurement of such liabilities that is sensitive and more subjective, requiring significant judgment by management, is the rate of change in morbidity.
+Given the significant judgments required by management, auditing the liability for future policy benefits required a high degree of auditor judgment and an increased extent of effort, including the involvement of actuarial specialists.
+How the Critical Audit Matter was Addressed in the Audit
+Our audit procedures, including those performed by our actuarial specialists, included the following, among others:
+•
+We tested the effectiveness of controls related to the determination of the liability for future policy benefits.
+•
+We evaluated judgments applied by management in setting key assumptions by considering actual experience, sensitivity analysis and relevant industry data, when available. We performed retrospective reviews of certain assumptions to evaluate for management bias.
+•
+We tested the underlying data for completeness and accuracy, including historical cash flows that served as a basis for the actuarial estimates.
+•
+We performed policy level testing to assess that management’s intended assumptions were used and the model accurately calculated the cash flow projections.
+•
+We validated the levels of aggregation of the liability calculations determined by the Company were in accordance with their policy and performed recalculations on a sample basis to validate the appropriateness of the discount rate assumptions used and tested the application of the net premium ratio used to measure the liability for future policy benefits.
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the shareholders and the Board of Directors of General Electric Company (operating as GE Aerospace)
+Opinion on Internal Control over Financial Reporting
+We have audited the internal control over financial reporting of General Electric Company (operating as GE Aerospace) and subsidiaries (the “Company”) as of December 31, 2024, based on criteria established in
+Internal Control — Integrated Framework (2013)
+issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on criteria established in
+Internal Control — Integrated Framework (2013)
+issued by COSO.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2024, of the Company and our report dated February 3, 2025, expressed an unqualified opinion on those financial statements.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial

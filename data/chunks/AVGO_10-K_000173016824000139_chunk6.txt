@@ -1,0 +1,20 @@
+Our optical components enable the high speed reception and transmission of data through optical fibers.
+Mobile Device Connectivity Solutions.
+We provide a broad variety of RF semiconductor devices, wireless connectivity solutions, custom touch controllers and inductive charging solutions for the wireless market.
+•
+RF Semiconductor Devices:
+Our RF semiconductor devices selectively filter, as well as amplify and route, RF signals. Filters enable modern wireless communication systems to support a large number of subscribers simultaneously by ensuring that the multiple transmissions and receptions of voice and data streams do not interfere with each other. We were among the first to deliver commercial film bulk acoustic resonator (“FBAR”) filters that offer technological advantages over competing filter technologies, to allow mobile handsets to function more efficiently in today's congested RF spectrum. FBAR technology has a significant market share within the cellular handset market. Our RF products include multi-chip module front-end modules that integrate transmit/receive switching and filtering functions for multiple frequency bands, filter modules and discrete filters, all using our proprietary FBAR technology.
+Our expertise in FBAR technology, amplifier design, and module integration enables us to offer industry-leading performance in cellular RF transceiver applications.
+•
+Connectivity Solutions:
+Our connectivity solutions include discrete and integrated Wi-Fi and Bluetooth solutions, and global positioning system/global navigation satellite system (“GPS/GNSS”) receivers, designed for use in mobile devices including smartphones, tablets and wearable products.
+Wi-Fi allows devices on a local area network to communicate wirelessly, adding the convenience of mobility to the utility of high-speed data networks. We offer a family of high performance, low power Wi-Fi chipsets. Bluetooth is a low power technology that enables direct connectivity between devices. We offer Bluetooth silicon and software solutions that enable manufacturers to easily and cost-effectively add Bluetooth functionality. These solutions include combination chips that offer integrated Wi-Fi and Bluetooth functionality, which provides significant performance advantages over discrete solutions.
+We also offer a family of GPS, assisted-GPS and GNSS semiconductor products, software and data services. These products are part of a broader location platform that leverages a broad range of communications technologies, including Wi-Fi, Bluetooth and GPS, to provide more accurate location and navigation capabilities.
+•
+Custom Touch Controllers:
+Our touch controllers process signals from touch screens in mobile handsets and tablets.
+•
+Inductive Charging ASICs:
+Our custom inductive charging ASIC devices offer high efficiency and are highly integrated solutions for mobile and wearable devices.
+Servers and Storage System Solutions.
+We provide semiconductor solutions for enabling secure

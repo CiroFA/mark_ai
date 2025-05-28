@@ -1,0 +1,18 @@
+consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X. The January 28, 2024 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2024, as filed with the SEC, but does not include all disclosures required by U.S. GAAP. In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair presentation of results of operations and financial position, have been included. The results for the interim periods presented are not necessarily indicative of the results expected for any future period. The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2024.
+In May 2024, we announced a
+ten
+-for-one stock split, or the Stock Split, of our issued common stock, which was effected through the filing of an amendment to the Company's Restated Certificate of Incorporation, or the Amendment, with the Secretary of the State of Delaware. In June 2024, the Company filed the Amendment to effect the Stock Split and proportionately increased the number of shares of the Company’s authorized common stock from
+8.0
+billion to
+80.0
+billion. Shareholders of record at the close of market on June 6, 2024 received
+nine
+additional shares of common stock, distributed after the close of market on June 7, 2024. All share, equity award and per share amounts presented herein have been retrospectively adjusted to reflect the Stock Split.
+Significant Accounting Policies
+There have been no material changes to our significant accounting policies disclosed in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2024.
+Fiscal Year
+We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2025 and 2024 are both 52-week years. The third quarters of fiscal years 2025 and 2024 were both 13-week quarters.
+Principles of Consolidation
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of

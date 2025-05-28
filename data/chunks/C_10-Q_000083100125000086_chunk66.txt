@@ -1,0 +1,23 @@
+additional triggering events were identified and no goodwill was impaired during 2024. For each of the Company’s reporting units, fair value exceeded carrying value by at least 10%.
+Reporting units used for goodwill assessment at the Citigroup consolidated level may differ from the reporting units of its subsidiaries.
+Unanticipated declines in business performance, increases
+in credit losses, increases in capital requirements and adverse regulatory or legislative changes, as well as deterioration in economic or market conditions, are factors that could result in a material impairment loss to earnings in a future period related to some portion of the associated goodwill. See Note 16 for additional information on goodwill, including the changes in the goodwill balance in the quarter and the
+segments’ goodwill balances as of March 31, 2025.
+88
+Litigation Accruals
+See the discussion in Note 27 for Citi’s policies on establishing accruals for litigation and regulatory contingencies.
+INCOME TAXES
+Effective Tax Rate
+Citi’s effective tax rate was 25% in the first quarter of 2025 and in the first quarter of 2024, with the rates for all periods including the impact of divestitures.
+Deferred Tax Assets
+For additional information on Citi’s deferred tax assets (DTAs), see “Capital Resources,” “Risk Factors—Strategic Risks,” “Significant Accounting Policies and Significant Estimates—Income Taxes” and Notes 1 and 10 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+The table below summarizes Citi’s net DTAs balance:
+At March 31, 2025, Citigroup had recorded net DTAs of approximately $29.6 billion, a decrease of $0.2 billion from December 31, 2024. The quarter-over-quarter decrease was primarily from a carry-forward reduction. Of Citi’s $29.6 billion of net DTAs, $13.8 billion (compared to $12.8 billion at December 31, 2024) was deducted in calculating Citi’s regulatory capital, and the remaining $15.8 billion was appropriately risk weighted under the Basel III rules.
+The $13.8 billion of DTAs deducted from regulatory capital was composed of $11.5 billion related to tax carry-forwards, with $4.3 billion of temporary differences in excess of the 10%/15% regulatory limitations, reduced by $2.0 billion of deferred tax liabilities, primarily associated with goodwill and certain other intangible assets that were separately deducted from capital.
+DTA Realizability
+Citi believes that the net DTAs of $29.6 billion at March 31, 2025 are more-likely-than-not to be realized, based on management’s expectations of future taxable income generation in the jurisdictions in which the DTAs arise, as well as consideration of available tax planning strategies (as defined in ASC Topic 740,
+Income Taxes
+).
+89
+DISCLOSURE CONTROLS AND PROCEDURES
+Citi’s disclosure controls and procedures are designed to ensure that information required to be disclosed under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time

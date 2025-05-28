@@ -1,0 +1,31 @@
+our user data practices. Some of these changes reduce our ability to effectively target ads, which has to some extent adversely affected, and will continue to adversely affect, our advertising business. If we are unable to provide marketers with a suitable return on investment, the demand for our ads may not increase, or may decline, in which case our revenue and financial results may be harmed.
+Our advertising revenue can also be adversely affected by a number of other factors, including:
+•
+decreases in user engagement, including time spent on our products;
+•
+our inability to continue to increase user access to and engagement with our products;
+•
+product changes or inventory management decisions we may make that change the size, format, frequency, or relative prominence of ads displayed on our products or of other unpaid content shared by marketers on our products;
+•
+our inability to maintain or increase marketer demand, the pricing of our ads, or both;
+•
+our inability to maintain or increase the quantity or quality of ads shown to users;
+•
+changes to the content or application of third-party policies that limit our ability to deliver, target, or measure the effectiveness of advertising, including changes by mobile operating system and browser providers such as Apple and Google;
+•
+adverse litigation, government actions, or legislative, regulatory, or other legal developments relating to advertising, including developments that may impact certain advertisers' ability to advertise on our platform or our ability to deliver, target, or measure the effectiveness of advertising;
+•
+user behavior or product changes that may reduce traffic to features or products that we monetize at a higher rate, such as our Feed and Stories products, including as a result of increased usage of our Reels or other video or messaging products;
+•
+reductions of advertising due to our efforts to implement or enforce advertising policies that protect the security and integrity of our platform or that we believe are needed to comply with global content, security, or integrity obligations;
+17
+Table of
+Contents
+•
+the availability, accuracy, utility, and security of analytics and measurement solutions offered by us or third parties that demonstrate the value of our ads to marketers, or our ability to further improve such tools;
+•
+loss of advertising market share to our competitors, including if prices to purchase our ads increase or if competitors offer lower priced, more integrated, or otherwise more effective products;
+•
+limitations on our ability to offer a number of our most significant products and services, including Facebook and Instagram, in Europe as a result of European courts invalidating the EU-U.S. DPF or regulators, courts, or legislative bodies determining that the legal bases we rely upon to transfer user data from the European Union to the United States are invalid;
+•
+limitations on our ability to deliver ads to users under the age of 18 and, in some cases, to

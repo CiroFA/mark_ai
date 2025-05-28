@@ -1,0 +1,38 @@
+31, 2025 and December 31, 2024, we had interest rate swap contracts with an aggregate notional amount of $
+6.7
+billion that hedge certain portions of our long-term debt issuances.
+For interest rate swap contracts that qualify for and are designated as fair value hedges, we recognize in Interest expense, net, in the Condensed Consolidated Statements of Income (Loss) the unrealized gain or loss on the derivative resulting from the change in fair value during the period, as well as the offsetting unrealized loss or gain of the hedged item resulting from the change in fair value during the period attributable to the hedged risk. If a hedging relationship involving an interest rate swap contract is terminated, the gain or loss realized on contract termination is recorded as an adjustment to the carrying value of the debt and amortized into Interest expense, net, over the remaining term of the previously hedged debt.
+20
+The hedged liabilities and related cumulative-basis adjustments for fair value hedges of those liabilities were recorded in the Condensed Consolidated Balance Sheets as follows (in millions):
+____________
+(1)
+Current portion of long-term debt includes $
+54
+million and $
+56
+million of carrying value with discontinued hedging relationships as of March 31, 2025 and December 31, 2024, respectively. Long-term debt includes $
+219
+million and $
+232
+million of carrying value with discontinued hedging relationships as of March 31, 2025 and December 31, 2024, respectively.
+(2)
+Current portion of long-term debt includes $
+54
+million and $
+56
+million of hedging adjustments on discontinued hedging relationships as of March 31, 2025 and December 31, 2024, respectively. Long-term debt includes $
+119
+million and $
+132
+million of hedging adjustments on discontinued hedging relationships as of March 31, 2025 and December 31, 2024, respectively.
+Impact of hedging transactions
+The following tables summarize the amounts recorded in income and expense line items and the effects thereon from fair value and cash flow hedging, including discontinued hedging relationships (in millions):
+__________
+(1)
+Gains (losses) on hedged items do not exactly offset losses (gains) on the related designated hedging instruments due to amortization of the cumulative amounts of fair value hedging adjustments included in the carrying amount of the hedged debt for discontinued hedging relationships and the recognition of gains on terminated hedges when the corresponding hedged item was paid down in the period.
+21
+No portions of our cash flow hedge contracts were excluded from the assessment of hedge effectiveness. As of March 31, 2025, the amount of net gains on our foreign currency forward and cross-currency swap contracts
+expected to be reclassified out of AOCI and recognized into earnings during the next 12
+months was not material.
+Derivatives not designated as hedges
+To reduce our exposure to foreign currency fluctuations in certain assets and liabilities denominated in

@@ -1,0 +1,18 @@
+appropriate circumstances, reporting of potentially significant cybersecurity incidents is made directly to the leaders of our CRCC and Audit Committee or directly to the
+Board of Directors
+outside of their regular meeting schedule. Further, in support of our internal controls, our CISO also reviews cybersecurity matters and trends with our Accounting and Law functions at least on a quarterly basis.
+55
+Information Systems Acquired from Horizon Therapeutics plc
+On October 6, 2023, we completed our acquisition of Horizon. Certain Horizon legacy information systems are maintained separately from Amgen’s preexisting information system infrastructure. We are continuing to operationally integrate and transition the legacy Horizon systems into our own, with the integrated systems becoming subject to Amgen’s cybersecurity risk management structure and strategy. While we are integrating these systems, our CISO and CDT function are engaging in cybersecurity risk management activities, and any cybersecurity incidents detected on the legacy Horizon information systems are assessed, mitigated and remediated by our CDT function’s Operations, Incident Response and Cyber Threat Intelligence teams and reported in accordance with the governance processes detailed above. See Item 1A. Risk Factors—
+Our efforts to collaborate with or acquire other companies, products, or technology, and to integrate the operations of companies or to support the products or technology we have acquired, may not be successful, and may result in unanticipated costs, delays or failures to realize the benefits of the transactions
+and Item 1A. Risk Factors—
+A breakdown of our information technology systems, cyberattack or information security breach could significantly compromise the confidentiality, integrity and availability of our information technology systems, network-connected control systems and/or our data, interrupt the operation of our business and/or affect our reputation.
+56
+As of December 31, 2024, we owned or leased approximately 160 properties. The locations and primary functions of significant properties are summarized in the following tables:
+____________
+(1)
+Corporate headquarters
+(2)
+Includes smaller properties in other U.S. and ROW locations, primarily for administrative and sales & marketing
+Excluded from the information above are (i) undeveloped land and leased properties that have been abandoned and (ii) certain buildings we still own but that are no longer used in our business. Additionally, in 2024 we received FDA licensure of our manufacturing facility in New Albany, Ohio; opened a new technology and innovation site in India; and continued to progress on the construction of our first drug substance manufacturing facility in Holly Springs, North Carolina. Furthermore, in January 2025, we broke ground on our second drug substance manufacturing facility in Holly Springs, North Carolina. There are no material encumbrances on our owned properties.
+We believe our

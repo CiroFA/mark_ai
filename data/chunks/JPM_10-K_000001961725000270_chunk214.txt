@@ -1,0 +1,15 @@
+Firm's balance sheet and asset-liability management objectives. Principal investments are predominantly privately-held financial instruments and are managed in the LOBs and Corporate. Investments are typically intended to be held over extended periods and, accordingly, the Firm has no expectation for short-term realized gains with respect to these investments.
+Investment securities risk
+Investment securities risk includes the exposure associated with a default in the payment of principal and interest. This risk is mitigated given that the investment securities portfolio held by Treasury and CIO predominantly consists of high-quality securities. At December 31, 2024, the Treasury and CIO investment securities portfolio, net of the allowance for credit losses, was $678.3 billion, and the average credit rating of the securities comprising the portfolio was AA+ (based upon external ratings where available, and where not available, based primarily upon internal risk ratings). Refer to Corporate results on pages 88–90 and Note 10 for further information on the investment securities portfolio and internal risk ratings. Refer to Liquidity Risk Management on pages 108–115 for further information on related liquidity risk. Refer to Market Risk Management on pages 141–149 for further information on the market risk inherent in the portfolio.
+Governance and oversight
+Investment securities risks are governed by the Firm’s Risk Appetite framework, and reviewed at the CTC Risk Committee with regular updates provided to the Board Risk Committee.
+The Firm’s independent control functions are responsible for reviewing the appropriateness of the carrying value of investment securities in accordance with relevant policies. Approved levels for investment securities are established for each risk category, including capital and credit risks.
+Principal investment risk
+Principal investments are typically privately-held financial instruments representing ownership interests or other forms of junior capital. In general,
+principal investments include tax-oriented investments and investments made to enhance or accelerate the Firm’s business strategies and exclude those that are consolidated on the Firm's balance sheets.
+These investments are made by dedicated investing businesses or as part of a broader business strategy. The Firm’s principal investments are managed by the LOBs and Corporate and are reflected within their respective financial results. The Firm’s investments will continue to evolve based on market circumstances and in line with its strategic initiatives.
+The table below presents the aggregate carrying values of the principal investment portfolios as of December 31, 2024 and 2023.
+(a)
+Effective January 1, 2024, the Firm adopted updates to the Accounting for Investments in Tax Credit Structures guidance. Refer to Notes 1, 6, 14 and 25 for additional information.
+Governance and oversight
+The Firm’s approach to managing principal investment risk is consistent with

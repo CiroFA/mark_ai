@@ -1,0 +1,21 @@
+Note 15: Guarantees
+We extend a variety of financial, market value, and product performance guarantees to third parties. These instruments expire on various dates through 2026. Additional guarantees of project performance for which there is no stated value also remain outstanding. A portion of our third party guarantees are subject to indemnification for our benefit for any liabilities that could arise.
+As of March 31, 2025 and December 31, 2024, the following financial guarantees were outstanding:
+We have made residual value and other guarantees related to various commercial aerospace customer financing arrangements. The estimated fair market values of the guaranteed assets equal or exceed the value of the related guarantees, net of existing reserves. Collaboration partners’ share of these financing guarantees were $
+129
+million and $
+131
+million at March 31, 2025 and December 31, 2024, respectively.
+We also have obligations arising from sales of certain businesses and assets, including those from representations and warranties and related indemnities for environmental, health and safety, tax, and employment matters. The maximum potential payment related to these obligations is not a specified amount, as a number of the obligations do not contain financial caps. The carrying amount of liabilities related to these obligations was $
+100
+million and $
+101
+million at March 31, 2025 and December 31, 2024, respectively. These primarily relate to environmental liabilities, which are included in our total environmental liabilities as further discussed in “Note 16: Commitments and Contingencies.”
+We accrue for costs associated with guarantees when it is probable that a liability has been incurred and the amount can be reasonably estimated. The most likely cost to be incurred is accrued based on an evaluation of currently available facts, and where no amount within a range of estimates is more likely, the minimum is accrued.
+We also provide service and warranty policies on our products and extend performance and operating cost guarantees beyond our normal service and warranty policies on some of our products, particularly commercial aircraft engines. In addition, we incur discretionary costs to service our products in connection with specific product performance issues. Liabilities for performance and operating cost guarantees are based upon future product performance and durability and are largely estimated based upon historical experience. Adjustments are made to accruals as claims data and historical experience warrant.
+The changes in the carrying amount of service and product warranties and product performance guarantees for the quarters ended March 31, 2025 and 2024 were as follows:
+Product and service guarantees incurred in connection with long term production contracts and certain aftermarket arrangements are generally accounted for within the contract estimates at completion.
+17
+Table of Contents
+Note 16: Commitments and Contingencies
+Except as

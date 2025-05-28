@@ -1,0 +1,31 @@
+limits and credit policies. Citi’s credit risk management framework also includes policies and procedures to manage problem exposures.
+To manage concentration risk, Citi has in place a framework consisting of industry limits, single-name concentrations for each business and across Citigroup and a specialized product limit framework.
+Credit exposures are generally reported in notional terms for accrual loans, reflecting the value at which the loans as well as other off-balance sheet commitments are carried on the Consolidated Balance Sheet. Credit exposure arising from capital markets activities is generally expressed as the current mark-to-market, net of margin, reflecting the net value owed to Citi by a given counterparty.
+Citi’s loans are reported in two categories: corporate and consumer. These categories are classified primarily according to the operating segment, reporting unit and component that manage the loans in addition to the nature of the obligor, with corporate loans generally made for corporate institutional and public sector clients around the world and consumer loans to retail and small business customers.
+The credit risk associated with Citi’s credit exposures is a function of the idiosyncratic creditworthiness of the obligor, as well as the terms and conditions of the specific obligation. Citi assesses the credit risk associated with its credit exposures on a regular basis through its allowance for credit losses (ACL) process (see “Significant Accounting Policies and Significant Estimates—Allowance for Credit Losses” below and Notes 1
+and 16), as well as through regular stress testing at the company, business, geography and product levels. These stress-testing processes typically estimate potential incremental credit costs that would occur as a result of either downgrades in the credit quality or defaults of the obligors or counterparties. See Notes 15 and 16 for additional information on Citi’s credit risk management.
+Loans
+The table below details the average loans, by segment and/or business, and the total Citigroup end-of-period loans for each of the periods indicated:
+On an average basis, loans increased 2% year-over-year and were relatively unchanged sequentially. The year-over-year increase was largely due to growth in
+USPB
+,
+Markets
+and
+Services
+.
+As of the fourth quarter of 2024, average loans for:
+•
+Services
+increased 5% year-over-year, primarily driven by strong demand in TTS for export and agency finance, as well as working capital loans.
+•
+Markets
+increased 6% year-over-year, largely driven by asset-backed securitization lending and North America residential financing in spread products.
+•
+Banking
+decreased 6% year-over-year, primarily driven by regulatory capital optimization efforts.
+•
+Wealth
+decreased 1%, primarily driven by regulatory capital optimization efforts.
+•
+USPB
+increased 7% year-over-year, driven by growth in Retail Banking due to an increase in mortgage loans as a result of lower refinancings due to a

@@ -1,0 +1,38 @@
+December 31, 2024 and 2023, the amortized cost basis of the closed portfolios used in these hedging relationships was $
+2.5
+billion and $
+2.1
+billion, respectively, of which $
+2.0
+billion and $
+1.6
+billion, respectively, was designated in a portfolio layer hedging relationship. The cumulative basis adjustments associated with these hedging relationships were a reduction of the amortized cost basis of the closed portfolios of $
+47
+million and $
+19
+million at December 31, 2024 and 2023, respectively.
+(2)
+Excludes the amortized cost and fair value hedging adjustment of AFS securities for which hedge accounting has been discontinued. The cumulative amount of fair value hedging adjustments remaining for these securities was a reduction of the amortized cost basis of $
+2
+million at December 31, 2024, which is recorded in
+AFS securities
+on the consolidated balance sheets and amortized to interest revenue as a yield adjustment over the lives of the securities. At December 31, 2023, the cumulative amount of fair value hedging adjustments remaining for these securities was a reduction of less than $
+500
+thousand.
+- 103 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+The table below presents the effect of the Company’s interest rate swaps on the consolidated statements of income:
+(1)
+Interest revenue excludes net income (expense) from periodic interest accruals and receipts (payments) of $
+55
+million and $
+2
+million for the years ended December 31, 2024 and 2023, respectively.
+18.
+Financial Instruments Subject to Off-Balance Sheet Credit Risk
+Resale agreements:
+Schwab enters into collateralized resale agreements principally with other broker-dealers, which could result in losses in the event the counterparty fails to purchase the securities held as collateral for the cash advanced and the fair value of the securities declines. To mitigate this risk, Schwab requires that the counterparty deliver securities to a custodian, to be held as collateral, with a fair value at or in excess of the resale price. Schwab also sets standards for the credit quality of the counterparty, monitors the fair value of the underlying securities as compared to the related receivable, including accrued interest, and requires additional collateral where deemed appropriate. The collateral provided under these resale agreements is utilized to meet obligations under broker-dealer client protection rules, which place limitations on our ability to access such segregated securities. For Schwab to repledge or sell this collateral, we would be required to deposit cash and/or securities of an equal amount into our segregated reserve bank accounts in order to meet our segregated cash and investments requirement. Schwab’s resale agreements as of December 31, 2024 and 2023 were not subject to master netting arrangements.
+Securities lending:
+Schwab loans brokerage client

@@ -1,0 +1,16 @@
+costs are presented below:
+30
+Table of Contents
+2023 Workforce Reduction
+In August 2023, we implemented an initiative to reduce the size of our workforce by approximately 5,000 positions, just under 7% of our total employee base, primarily in corporate and back-office functions, and some technology roles.
+See
+Note
+19
+– Restructuring Costs
+of the Notes to the Consolidated Financial Statements for more information.
+Joint Ventures
+On April 24, 2024, we entered into a definitive agreement with a fund operated by EQT, Infrastructure VI fund (“Fund VI”), to establish a joint venture between us and Fund VI to acquire Lumos (“Lumos”), a fiber-to-the-home platform, from EQT’s predecessor fund, EQT Infrastructure III. The arrangement is expected to close in the first half of 2025, subject to customary closing conditions and regulatory approvals. At closing, we expect to invest approximately $950 million in the joint venture to acquire a 50% equity interest and all existing Lumos fiber customers. The funds invested by us will be used to fund future fiber builds. In addition, pursuant to the definitive agreement, we expect to make an additional capital contribution of approximately $500 million in 2027 or 2028 under the existing business plan.
+On July 18, 2024, we entered into a definitive agreement with KKR & Co. Inc. (“KKR”) to establish a joint venture to acquire Metronet Holdings, LLC and certain of its affiliates (collectively, “Metronet”), a fiber-to-the-home platform. This arrangement is expected to close in 2025, subject to customary closing conditions and regulatory approvals. At closing, we expect to invest approximately $4.9 billion in the joint venture to acquire a 50% equity interest and all existing residential fiber customers, as well as funding the joint venture. We do not anticipate making further capital contributions following the closing under the existing business plan.
+The joint ventures will focus on market identification and selection, build plans, network engineering and design, network deployment, and customer installation, with us owning customer relationships and selling fiber service under the T-Mobile brand. Upon closing of the transactions, we expect to account for the Lumos and Metronet joint ventures under the equity method of accounting and recognize service revenues for the acquired Lumos and Metronet fiber customers and wholesale costs paid to the joint ventures for network access within Cost of services on our Consolidated Statements of Comprehensive Income.
+Acquisition of Ka’ena Corporation
+On May 1, 2024 (the “Acquisition Date”), we completed the merger with Ka’ena Corporation and its subsidiaries, including, among others, Mint Mobile LLC (collectively, “Ka’ena”), and as a result, Ka’ena became a wholly owned subsidiary of T-Mobile (the “Ka’ena Acquisition”). The total purchase price is variable, dependent upon specified performance indicators of Ka’ena, and consists of an upfront payment on the Acquisition Date and an

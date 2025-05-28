@@ -1,0 +1,16 @@
+the discount rate based on the term of the lease unless the implicit rate is available.
+Decommissioning Obligations from Previously Divested Assets
+Some assets are divested with their related liabilities, including decommissioning obligations, to a buyer that results in de-recognition of the liability from the balance sheet. In certain instances, such transferred obligations may return to the company and result in losses. To the extent the current owners of the company’s previously divested assets default on their decommissioning obligations, regulators may require that Chevron assume such obligations. The company would accrue losses associated with these obligations when management determines the loss to be both probable and reasonably estimable. This typically requires judgment to assess the likelihood of decommissioning obligations reverting to the company, the timing of decommissioning activity, regulatory requirements and the scope of decommissioning activities.
+For more information on decommissioning obligations related to previously divested assets, refer to
+Note 24 Other Contingencies and Commitments
+.
+Goodwill
+Goodwill resulting from a business combination is not subject to amortization. The company tests such goodwill at the reporting unit level for impairment annually at December 31, or more frequently if an event occurs or circumstances change that would more likely than not reduce the fair value of the reporting unit below its carrying amount.
+Environmental Expenditures
+Environmental expenditures that relate to ongoing operations or to conditions caused by past operations are expensed. Expenditures that create future benefits or contribute to future revenue generation are capitalized.
+Liabilities related to future remediation costs are recorded when environmental assessments or cleanups or both are probable and the costs can be reasonably estimated. For crude oil, natural gas and mineral-producing properties, a liability for an ARO is made in accordance with accounting standards for asset retirement and environmental obligations. Refer to
+Note 25 Asset Retirement Obligations
+for a discussion of the company’s AROs.
+For U.S. federal Superfund sites and analogous sites under state laws, the company records a liability for its designated share of the probable and estimable costs, and probable amounts for other potentially responsible parties when mandated by the regulatory agencies because the other parties are not able to pay their respective shares. The gross amount of environmental liabilities is based on the company’s best estimate of future costs using currently available technology and applying current regulations and the company’s own internal environmental policies. Future amounts are not discounted. Recoveries or reimbursements are recorded as assets when receipt is reasonably assured.
+Currency Translation
+The U.S. dollar is the functional currency for substantially all of the company’s consolidated operations and those of its

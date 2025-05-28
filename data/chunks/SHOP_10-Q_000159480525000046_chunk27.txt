@@ -1,0 +1,27 @@
+consolidated statements of operations for the three months ended March 31, 2025 and 2024:
+31
+Table of Contents
+(1)
+Includes stock-based compensation expense and related payroll taxes as follows:
+(2)
+Includes amortization of acquired intangibles as follows:
+Revenues
+Subscription Solutions
+Subscription solutions revenues increased for the three months ended March 31, 2025 compared to the same period in 2024. The period-over-period increase was primarily a result of growth in MRR, which was driven largely by a higher number of merchants using our platform.
+Merchant Solutions
+Merchant solutions revenues increased for the three months ended March 31, 2025 compared to the same period in 2024. The increase in merchant solutions revenues was primarily a result of Shopify Payments revenue, relating to payment processing and currency conversion fees, growing in the three months ended March 31, 2025 compared to the same period in 2024. This increase was a result of an increase in our Shopify Payments penetration rate and the number of merchants using our platform. These factors drove $11.3 billion of additional GMV facilitated using Shopify Payments in the three months ended March 31, 2025 compared to the same period in 2024, representing growth of 31%. For the three months ended March 31, 2025, the Shopify Payments penetration rate was 64%, resulting in GMV of $47.5 billion that was facilitated using Shopify Payments. This compares to a penetration rate of 60% resulting in GMV of $36.2 billion that was facilitated using Shopify Payments in the same period in 2024.
+32
+Table of Contents
+Cost of Revenues
+Cost of Subscription Solutions
+Cost of subscription solutions increased for the three months ended March 31, 2025 compared to the same period in 2024. The increase was due mainly to an increase in cloud and infrastructure costs offset by a decrease in support costs. As a percentage of revenues, cost of subscription solutions remained flat for the three months ended March 31, 2025 compared to the same period in 2024.
+Cost of Merchant Solutions
+Cost of merchant solutions increased for the three months ended March 31, 2025 compared to the same period in 2024. The increase was primarily due to higher volume of payment processing fees resulting from an increase in GMV facilitated through Shopify Payments. As a percentage of revenues, cost of merchant solutions increased for the three months ended March 31, 2025 compared to the same period in 2024, primarily due to Shopify Payments representing a larger percentage of total revenue.
+Gross Profit
+Operating Expenses
+Sales and Marketing
+Sales and marketing expenses increased for the three months ended March 31, 2025 compared to the same period in 2024, due to increases of $35 million in overall marketing program spend and $14 million in employee-related costs, offset by $7 million decrease in payouts related to our affiliate partner programs.
+33
+Table of Contents
+Research and Development
+Research and development

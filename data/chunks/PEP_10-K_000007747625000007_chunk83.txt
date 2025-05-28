@@ -1,0 +1,41 @@
+qualitative assessment indicates that it is more likely than not that an impairment exists, then a quantitative assessment is performed.
+In the quantitative assessment for indefinite-lived intangible assets and goodwill, an assessment is performed to determine the fair value of the indefinite-lived intangible asset and the reporting unit, respectively. Estimated fair value is determined using discounted cash flows and requires an analysis of several estimates including future cash flows or income consistent with management’s strategic business plans, annual sales growth rates, perpetuity growth assumptions and the selection of assumptions underlying a discount rate (weighted-average cost of capital) based on market data available at the time. Significant management judgment is necessary to estimate the impact of competitive operating, macroeconomic and other factors (including those related to volatile geopolitical conditions and a high interest rate and inflationary cost environment) to estimate future levels of sales, operating profit or cash flows. All assumptions used in our impairment evaluations for indefinite-lived intangible assets and goodwill, such as forecasted growth rates (including perpetuity growth assumptions) and weighted-average cost of capital, are based on the best available market information and are consistent with our internal forecasts and operating plans. A deterioration in these assumptions could adversely impact our results.
+Amortizable intangible assets are only evaluated for impairment upon a significant change in the operating or macroeconomic environment. If an evaluation of the undiscounted future cash flows indicates impairment, the asset is written down to its estimated fair value, which is based on its discounted future cash flows.
+See Note 4 for further information.
+Other Significant Accounting Policies
+Our other significant accounting policies are disclosed as follows:
+•
+Basis of Presentation
+– Note 1 includes a description of our policies regarding use of estimates, basis of presentation and consolidation.
+•
+Income Taxes
+– Note 5.
+•
+Share-Based Compensation –
+Note 6.
+•
+Pension, Retiree Medical and Savings Plans
+– Note 7.
+•
+Financial Instruments
+– Note 9.
+•
+Leases
+– Note 12.
+•
+Supply Chain Financing Arrangements
+–
+Note 14
+.
+•
+Cash Equivalents
+– Cash equivalents are highly liquid investments with original maturities of three months or less.
+77
+Table of
+Contents
+•
+Inventories
+– Inventories are valued at the lower of cost or net realizable value. Cost is determined using the average; first-in, first-out (FIFO); or, in limited instances, last-in, first-out (LIFO) methods. For inventories valued under the LIFO method, the differences between the LIFO and FIFO methods of valuing inventories are not material.
+•
+Property, Plant and Equipment
+– Note 15. Property, plant and equipment is recorded at historical cost. Depreciation is recognized on a straight-line basis over an asset’s estimated useful life. Construction in

@@ -1,0 +1,29 @@
+additional details.
+Gain/(Loss) On Derivatives & Hedges - reclassifications to earnings are recorded in the same account as the hedged transaction. See Note 6 for additional details.
+*    Includes impact of curtailments and settlements in connection with separation from Kenvue.
+14.
+International currency translation
+For translation of its subsidiaries operating in non-U.S. Dollar currencies, the Company has determined that the local currencies of its international subsidiaries are the functional currencies except those in highly inflationary economies, which are defined as those which have had compound cumulative rates of inflation of 100% or more during the past three years, or where a substantial portion of its cash flows are not in the local currency. For the majority of the Company's subsidiaries the local currency is the functional currency.
+In consolidating international subsidiaries, balance sheet currency effects are recorded as a component of accumulated other comprehensive income. The other current and non-current assets line within the Statement of Cash flows includes the impact of foreign currency translation. This equity account includes the results of translating certain balance sheet assets and liabilities at current exchange rates and some accounts at historical rates, except for those located in highly inflationary economies (Argentina, Turkey and Venezuela). Beginning in the fiscal fourth quarter of 2024, the Company also accounted for operations in Egypt as highly inflationary. The translation of balance sheet accounts for highly inflationary economies are reflected in the operating results.
+A rollforward of the changes during fiscal years 2024, 2023 and 2022 for foreign currency translation adjustments is included in Note 13.
+Net currency transaction gains and losses included in Other (income) expense were losses of $
+214
+million, $
+366
+million and $
+286
+million in fiscal years 2024, 2023 and 2022, respectively.
+15.
+Earnings per share
+The following is a reconciliation of basic net earnings per share to diluted net earnings per share for the fiscal years ended December 29, 2024, December 31, 2023 and January 1, 2023:
+16.
+Common stock, stock option plans and stock compensation agreements
+At December 29, 2024, the Company had
+one
+active stock-based compensation plan, the 2022 Long-Term Incentive Plan. The shares outstanding are for contracts under the Company's 2012 Long-Term Incentive Plan and 2022 Long-Term Incentive Plan. The 2012 Long-Term Incentive Plan expired on April 26, 2022. All awards (stock options, restricted shares units and performance share units) granted subsequent to that date were under the 2022 Long-Term Incentive Plan. Under the 2022 Long-Term Incentive Plan, the Company may issue up to
+150
+million shares of common stock, of which up to
+110
+million shares of common stock may be issued subject to stock options or stock appreciation rights and up to
+40
+million shares of common stock may be issued subject to

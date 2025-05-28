@@ -1,0 +1,21 @@
+January 26, 2025 and January 28, 2024.
+Compensation expense is calculated using the fair value of the employees’ purchase rights under the Black-Scholes model.
+Note 11
+Income Taxes
+Our provision for income taxes and effective tax rate are affected by the geographical composition of pre-tax income which includes jurisdictions with differing tax rates, conditional reduced tax rates and other income tax incentives. It is also affected by events that vary from period to period, such as changes in income tax laws and the resolution of prior years’ income tax filings.
+Our effective tax rates for the first quarter of fiscal 2025 and 2024 were
+44.1
+percent and
+12.3
+percent, respectively. The effective tax rate for the first quarter of fiscal 2025 was higher than the same period in the prior fiscal year, primarily due to a remeasurement of deferred tax assets resulting from new tax incentive agreements in Singapore in fiscal 2025.
+Note 12
+Guarantees, Commitments and Contingencies
+Guarantees
+In the ordinary course of business, we provide standby letters of credit or other guarantee instruments to third parties as required for certain transactions initiated by either us or our subsidiaries. As of January 26, 2025, the maximum potential amount of future payments that we could be required to make under these guarantee agreements was approximately $
+307
+million. We have not recorded any liability in connection with these guarantee agreements beyond that required to appropriately account for the underlying transaction being guaranteed. We do not believe, based on historical experience and information currently available, that it is probable that any amounts will be required to be paid under these guarantee agreements.
+We also have agreements with various banks to facilitate subsidiary banking operations worldwide, including overdraft arrangements, issuance of bank guarantees, and letters of credit. As of January 26, 2025, we have provided parent guarantees to banks for approximately $
+292
+million to cover these arrangements.
+Legal Matters
+From time to time, we receive notification from third parties, including customers and suppliers, seeking indemnification, litigation support, payment of money or other actions by us in connection with claims made against them. In addition, from time to time, we receive notification from third parties claiming that we may be or are infringing or misusing their intellectual property or other rights. We also are subject to various legal proceedings, government investigations or inquiries, and claims, both asserted and unasserted, that arise in the ordinary course of business. These matters are subject to uncertainties, and we cannot predict the outcome of these matters, or governmental inquiries or proceedings that may occur. Although the outcome of the above-described matters, claims and proceedings cannot be predicted with certainty, we do not believe at this time that any of the above-described matters will have a material

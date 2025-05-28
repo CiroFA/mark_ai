@@ -1,0 +1,30 @@
+Tier 2 Capital to the extent that the excess reserves do not exceed 0.6% of credit risk-weighted assets. The total amount of eligible credit reserves in excess of expected credit losses that were eligible for inclusion in Tier 2 Capital, subject to limitation, under the Advanced Approaches framework were $5.2 billion and $5.1 billion at March 31, 2025 and December 31, 2024, respectively.
+34
+Citigroup Capital Rollforward
+(1)    Includes the changes in Citigroup (own credit) credit valuation adjustments (CVA) attributable to own creditworthiness, net of tax.
+35
+Citigroup Risk-Weighted Assets Rollforward (Basel III Standardized Approach)
+(1)
+General credit risk exposures include cash and balances due from depository institutions, securities, and loans and leases. General credit risk exposures decreased during the three months ended March 31, 2025, primarily due to the recategorization of certain exposures to other assets, partially offset by increased lending activities.
+(2)
+Securities financing transactions include repurchase and reverse repurchase agreements, securities loaned and borrowed, and eligible margin loans. Securities financing transactions increased during the three months ended March 31, 2025, primarily driven by business activities.
+(3)
+Other exposures increased during the three months ended March 31, 2025, mainly due to the recategorization of certain exposures previously classified as part of general credit risk exposures to other assets.
+(4)
+Market risk increased during the three months ended March 31, 2025, primarily driven by specific risk due to broad-based exposure increases.
+36
+Citigroup Risk-Weighted Assets Rollforward (Basel III Advanced Approaches)
+(1)
+General credit risk exposures include cash and balances due from depository institutions, securities, and loans and leases. General credit risk exposures increased during the three months ended March 31, 2025, primarily due to increased exposures in lending and investment securities, partially offset by the recategorization of certain exposures to other assets.
+(2)
+Derivatives increased during the three months ended March 31, 2025, mainly driven by changes in exposures and credit spread widening.
+(3)
+Securities financing transactions include repurchase and reverse repurchase agreements, securities loaned and borrowed, and eligible margin loans. Securities financing transactions increased during the three months ended March 31, 2025, primarily driven by business activities.
+(4)
+Securitization exposures increased during the three months ended March 31, 2025, primarily driven by exposure and parameter changes.
+(5)
+Other exposures increased during the three months ended March 31, 2025, mainly due to the recategorization of certain exposures previously classified as part of general credit risk exposures to other assets.
+(6)
+Market risk increased during the three months ended March 31, 2025, primarily driven by specific risk due to broad-based exposure increases.
+37
+Supplementary

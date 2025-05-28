@@ -1,0 +1,15 @@
+prescribed in the accounting guidance for uncertainty in income taxes. The Organisation for Economic Co-operation and Development (OECD), an international association comprised of 38 countries, including the United States, has made changes, including a Pillar Two framework that imposes a minimum tax rate of 15% in each taxing jurisdiction, and is contemplating additional changes to numerous long-standing tax principles. There can be no assurance that these changes and any contemplated changes if finalized, once adopted by countries, will not have an adverse impact on our provision for income taxes. As a result of certain of our ongoing employment and capital investment actions and commitments, our income in certain countries was subject to reduced tax rates. Our failure to meet these commitments could adversely impact our provision for income taxes. In addition, we are subject to the continuous examination of our income tax returns by the Internal Revenue Service (IRS) and other tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes. There can be no assurance that the outcomes from these continuous examinations will not have an adverse impact on our operating results and financial condition.
+44
+Table of Contents
+CISCO SYSTEMS, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+RESULTS OF OPERATIONS
+Revenue
+The following table presents the breakdown of revenue between product and services (in millions, except percentages):
+Amounts may not sum and percentages may not recalculate due to rounding.
+Excluding Splunk, total revenue for the second quarter and first six months of fiscal 2025 decreased by 1% and 8%, respectively, as compared with the corresponding periods of fiscal 2024.
+We manage our business primarily on a geographic basis, organized into three geographic segments. Our revenue, which includes product and services for each segment, is summarized in the following table (in millions, except percentages):
+Amounts may not sum and percentages may not recalculate due to rounding.
+Three Months Ended January 25, 2025 Compared with Three Months Ended January 27, 2024
+Total revenue increased by 9%. Product revenue increased by 11% and services revenue increased by 6%. Our total revenue reflected growth across each of our geographic segments.
+In addition to the impact of macroeconomic factors, including the IT spending environment and the level of spending by government entities, revenue by segment in a particular period may be significantly impacted by the timing of revenue recognition for complex transactions with multiple performance obligations. In addition, certain customers tend to make large and sporadic purchases, and the revenue related to these transactions may also be affected by the timing of revenue recognition, which in turn would impact the revenue of the relevant segment.

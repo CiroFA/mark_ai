@@ -1,0 +1,33 @@
+three QCT revenue streams can be found in this Annual Report in “Notes to Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items.”
+(2) Earnings (loss) before income taxes.
+Substantially all of QCT’s revenues consist of equipment and services revenues, which were $32.6 billion and $29.9 billion in fiscal 2024 and 2023, respectively. QCT handsets, automotive and IoT revenues mostly relate to sales of our Snapdragon platforms (which include processors and modems), stand-alone Mobile Data Modems, radio frequency transceiver, power management and wireless connectivity integrated chipsets as well as sales of 4G, 5G sub 6 and 5G millimeter wave RFFE products.
+2024 vs. 2023
+The increase in QCT revenues in fiscal 2024 was primarily due to:
++
+higher handsets revenues, due to $2.8 billion in higher chipset shipments driven by certain major OEMs (primarily driven by the normalization of customer inventory levels, which were elevated in the prior year), partially offset by $533 million in lower revenues per chipset primarily driven by unfavorable mix
++
+higher automotive revenues, primarily driven by an increase in demand from new vehicle launches with our Snapdragon digital cockpit and connectivity products
+-
+lower IoT revenues, due to $834 million in lower revenues per unit primarily driven by unfavorable mix, partially offset by a $317 million increase in demand (primarily in consumer products, partially offset by edge networking products as customers continued drawing down on their elevated inventory levels)
+QCT EBT as a percentage of revenues increased in fiscal 2024 primarily due to higher revenues.
+Gross margin percentage remained flat in fiscal 2024.
+QTL Segment (in millions, except percentages)
+2024 vs. 2023
+The increase in QTL licensing revenues in fiscal 2024 was primarily due to:
++
+$402 million increase in estimated sales of 3G/4G/5G-based multimode products
+-
+$90 million decrease in estimated revenues per unit
+-
+$68 million decrease in revenues from the ending of the recognition of certain upfront license fee consideration in the first quarter of fiscal 2023 from our long-term license agreement with Nokia
+QTL EBT as a percentage of revenues increased in fiscal 2024 primarily due to:
++
+lower cost of sales driven by a decrease in amortization expense related to acquired patents
++
+higher revenues
+44
+QSI Segment (in millions)
+2024 vs. 2023
+QSI EBT increased in fiscal 2024 primarily due to net gains on certain of our non-marketable equity investments.
+Looking Forward
+We believe that 5G combined with high-performance, low-power computing and on-device artificial intelligence will continue to drive adoption of certain technologies that are already commonly used in smartphones by industries and applications beyond mobile handsets, such as automotive and IoT. We believe it is important that we remain a leader in 5G technology development, standardization, intellectual property creation and licensing, and a leading

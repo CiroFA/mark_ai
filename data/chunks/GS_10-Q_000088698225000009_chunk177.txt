@@ -1,0 +1,22 @@
+interest expense in the consolidated statements of earnings, and debt valuation adjustment and unrealized gains/(losses) on available-for-sale securities in the consolidated statements of comprehensive income.
+The table below presents certain assets and liabilities accounted for at fair value or accounted for at the lower of cost or fair value in our consolidated balance sheets and the market risk measures used to assess those assets and liabilities.
+In addition to the above, we measure the interest rate risk for all positions within our consolidated balance sheets using the EaR metric.
+Credit Risk Management
+Overview
+Credit risk represents the potential for loss due to the default or deterioration in credit quality of a counterparty (e.g., an OTC derivatives counterparty or a borrower) or an issuer of securities or other instruments we hold. Our exposure to credit risk comes mostly from client transactions in OTC derivatives and loans and lending commitments. Credit risk also comes from cash placed with banks, securities financing transactions (i.e., resale and repurchase agreements and securities borrowing and lending activities) and customer and other receivables.
+Credit Risk, which is part of our second line of defense and reports to our chief risk officer, has primary responsibility for assessing, monitoring and managing our credit risk by providing independent firmwide oversight and challenge across our global businesses. In addition, we hold other positions that give rise to credit risk (e.g., bonds and secondary bank loans). These credit risks are captured as a component of market risk measures, which are monitored and managed by Market Risk. We also enter into derivatives to manage market risk exposures. Such derivatives also give rise to credit risk, which is monitored and managed by Credit Risk.
+Credit Risk Management Process
+Our process for managing credit risk includes the critical components of our risk management framework described in the “Overview and Structure of Risk Management,” as well as the following:
+•
+Monitoring compliance with established credit risk limits and reporting our credit exposures and credit concentrations;
+•
+Establishing or approving underwriting standards;
+•
+Assessing the likelihood that a counterparty will default on its payment obligations;
+•
+Measuring our current and potential credit exposure and losses resulting from a counterparty default;
+•
+Using credit risk mitigants, including collateral and hedging; and
+•
+Maximizing recovery through active workout and restructuring of claims.
+We also perform credit analyses, which incorporate initial and ongoing evaluations of the capacity and willingness of a counterparty to meet its financial obligations. For substantially all of our credit exposures, the core of our process is an annual counterparty credit evaluation or more frequently if deemed necessary as a result of events or changes in circumstances. We determine an internal credit rating for the

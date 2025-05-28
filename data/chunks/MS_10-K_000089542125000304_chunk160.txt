@@ -1,0 +1,26 @@
+information on other secured financings related to VIEs and securitization activities.
+Maturities of Transfers of Assets Accounted for as Secured Financings
+1
+1.
+Excludes Securities sold under agreements to repurchase and Securities loaned.
+For transfers of assets that fail to meet accounting criteria for a sale, the Firm continues to record the assets and recognizes the associated liabilities in the balance sheet.
+14.
+Commitments, Guarantees and Contingencies
+Commitments
+1.
+These amounts primarily include secured financing receivables yet to settle as of December 31, 2024, with settlement generally occurring within three business days. These amounts also include commitments to enter into certain collateralized financing transactions.
+Since commitments associated with these instruments may expire unused, the amounts shown do not necessarily reflect the actual future cash funding requirements.
+Types of Commitments
+Lending Commitments.
+Lending commitments primarily represent the notional amount of legally binding obligations to provide funding to clients for different types of loan transactions. For syndications that are led by the Firm, the lending commitments accepted by the borrower but not yet closed are net of the amounts agreed to by counterparties that will participate in the syndication. For syndications that the Firm participates in and does not lead, lending commitments accepted by the borrower but not yet closed include only the amount that the Firm expects it will be allocated from the lead syndicate bank. Due to the nature of the Firm’s obligations under the commitments, these amounts include certain commitments participated to third parties.
+Forward-Starting Secured Financing Receivables.
+These amounts include securities purchased under agreements to resell and securities borrowed that the Firm has entered into prior to the balance sheet date that will settle after the balance sheet date. These transactions are primarily secured by collateral from U.S. government agency securities and other sovereign government obligations when they are funded.
+Central Counterparty.
+These commitments relate to the Firm’s membership in certain clearinghouses and are
+contingent upon the default of a clearinghouse member or other stress events.
+Underwriting Commitments.
+The Firm provides underwriting commitments in connection with its capital raising sources to a diverse group of corporate and other institutional clients.
+Investment Activities.
+The Firm sponsors several non-consolidated investment management funds for third-party investors where it typically acts as general partner of, and investment adviser to, these funds and typically commits to invest a minority of the capital of such funds, with subscribing third-party investors contributing the majority. The Firm has contractual capital commitments, guarantees and counterparty arrangements with respect to these investment management funds.
+Letters of Credit and Other Financial Guarantees.
+The Firm

@@ -1,0 +1,16 @@
+injunctive relief, unspecified money damages and costs and fees. On September 26, 2024, the Company filed a motion to dismiss Fubo’s claims brought under Section 1 of the Sherman Act and New York antitrust law, unrelated to the joint venture. The district court denied Defendants’ motions to dismiss on December 13, 2024. The Defendants reached a settlement with Fubo to resolve this litigation, and on January 6, 2025, filed with the district court a joint stipulation voluntarily dismissing the action with prejudice and extinguishing the preliminary injunction issued on August 16, 2024. The parties also filed on January 6, 2025 a joint stipulation dismissing the appeal, which the United States Court of Appeals for the Second Circuit so ordered on January 8, 2025.
+In May 2024, the Company and NBCU entered into a confidential arbitration to resolve a dispute regarding the contractual appraisal process related to the determination of Hulu’s equity fair value, in which the parties sought declaratory relief, equitable relief and unspecified damages. In March 2025, the arbitrator issued a decision, concluding the arbitration. See Note 1 for a more detailed discussion of the valuation process and the determination of any potential incremental amount payable to NBCU to acquire their interest in Hulu.
+The Company, together with, in some instances, certain of its directors and officers, is a defendant in various other legal actions involving copyright, patent, breach of contract and various other claims incident to the conduct of its businesses. Management does not believe that the Company has incurred a probable material loss by reason of any of those actions.
+14.
+Fair Value Measurements
+Fair value is defined as the amount that would be received for selling an asset or paid to transfer a liability in an orderly transaction between market participants and is generally classified in one of the following categories:
+Level 1 - Quoted prices for identical instruments in active markets
+Level 2 - Quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations, in which all significant inputs and significant value drivers are observable in active markets
+Level 3 - Valuations derived from valuation techniques, in which one or more significant inputs or significant value drivers are unobservable
+28
+THE WALT DISNEY COMPANY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited; tabular dollars in millions, except for per share data)
+The Company’s assets and liabilities measured at fair value are summarized in the following tables by fair value measurement level:
+The fair values of Level 2 investments are primarily determined based on an internal valuation model that uses observable inputs such as stock trading price, volatility and risk free rate.
+The fair values of Level 2 derivatives are primarily determined by internal discounted cash flow models that

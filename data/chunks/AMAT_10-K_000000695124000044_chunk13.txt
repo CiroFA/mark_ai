@@ -1,0 +1,15 @@
+Chief Technology Officer and General Manager for the Advanced Technologies Group. From 2002 to 2006, Dr. Nalamasu was a NYSTAR distinguished professor of Materials Science and Engineering at Rensselaer Polytechnic Institute, where he also served as Vice President of Research from 2005 to 2006. Prior to Rensselaer, Dr. Nalamasu served in several leadership roles at Bell Laboratories.
+(6)
+Mr. Deane, age 59, has been Group Vice President, Applied Global Services since September 2022. He joined Applied in 1995 and previously served in various senior management and field operations roles, including head of Field Operations and Business Management for the Semiconductor Products Group, Account General Manager and Region General Manager.
+11
+Table of Contents
+Available Information
+Our website is http://www.appliedmaterials.com. We make available free of charge, on or through our website, our annual, quarterly and current reports, and any amendments to those reports, as soon as reasonably practicable after electronically filing such reports with, or furnishing them to, the SEC. The SEC’s website, www.sec.gov, contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. These website addresses are intended to be an inactive textual references only. None of the information on, or accessible through, these websites is part of this Form 10-K or is incorporated by reference herein.
+12
+Table of Contents
+Item 1A:
+Risk Factors
+The following risk factors could materially and adversely affect our business, financial condition or results of operations and cause reputational harm, and should be carefully considered in evaluating our business, in addition to other information presented elsewhere in this report.
+Business and Industry Risks
+The industries we serve can be volatile and difficult to predict.
+We are a supplier to the global semiconductor and display and related industries, which historically have been cyclical and are subject to volatility in customer demand. Factors that impact demand for our products and services include technology inflections and advances in fabrication processes, new and emerging technologies and market drivers, such as demand for high-bandwidth memory and other forms of advanced packaging and technologies related to artificial intelligence and data center computing, production capacity relative to demand for semiconductor chips and electronic devices, end-user demand, customers’ capacity utilization, production volumes, access to affordable capital, business and consumer buying patterns and general economic and political conditions. Artificial intelligence is evolving rapidly and is a relatively new demand driver for semiconductors and semiconductor equipment, and it is difficult to accurately forecast such demand. Changes in demand can affect the timing and amounts of customer investments in technology and manufacturing equipment and can significantly impact our

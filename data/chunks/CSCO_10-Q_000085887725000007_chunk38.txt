@@ -1,0 +1,23 @@
+Expenses
+Three Months Ended January 25, 2025 Compared with Three Months Ended January 27, 2024
+Sales and marketing expenses increased primarily due to incremental expenses from Splunk, higher headcount-related expenses, higher cash compensation from acquisitions and higher discretionary spending, partially offset by lower contracted services spending.
+Six Months Ended January 25, 2025 Compared with Six Months Ended January 27, 2024
+Sales and marketing expenses increased primarily due to incremental expenses from Splunk, higher headcount-related expenses, higher cash compensation from acquisitions, higher discretionary spending and higher share-based compensation expense, partially offset by lower contracted services spending.
+G&A Expenses
+Three Months Ended January 25, 2025 Compared with Three Months Ended January 27, 2024
+G&A expenses increased primarily due to incremental expenses from Splunk, higher headcount-related expenses and higher share-based compensation expense.
+Six Months Ended January 25, 2025 Compared with Six Months Ended January 27, 2024
+G&A expenses increased due to incremental expenses from Splunk, higher headcount-related expenses, higher share-based compensation expense and higher acquisition and divestitures related costs, partially offset by lower contracted services spending.
+Effect of Foreign Currency
+In the second quarter of fiscal 2025, foreign currency fluctuations, net of hedging, decreased the combined R&D, sales and marketing, and G&A expenses by approximately $20 million, or 0.4%, compared with the second quarter of fiscal 2024.
+In the first six months of fiscal 2025, foreign currency fluctuations, net of hedging, decreased the combined R&D, sales and marketing, and G&A expenses by approximately $11 million, or 0.1%, compared with the first six months of fiscal 2024.
+Amortization of Purchased Intangible Assets
+The following table presents the amortization of purchased intangible assets including impairment charges (in millions):
+For each of the second quarter and first six months of fiscal 2025, the increase in amortization of purchased intangible assets was primarily due to amortization of purchased intangibles from our recent acquisitions, including the acquisition of Splunk, and impairment charges of $19 million. The increase was partially offset by certain purchased intangible assets that became
+51
+Table of Contents
+CISCO SYSTEMS, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+fully amortized. The impairment charges were as a result of declines in estimated fair value resulting from the reductions in or the elimination of expected future cash flows associated with certain technology intangible assets.
+Restructuring and Other Charges
+In the first quarter of fiscal 2025, we announced a restructuring plan in order to allow us to invest in key growth opportunities and drive more efficiencies in our business. This restructuring plan is expected to impact

@@ -1,0 +1,99 @@
+srt:LatinAmericaMember
+2024-01-01
+2024-12-31
+0000070858
+srt:LatinAmericaMember
+2023-12-31
+0000070858
+srt:LatinAmericaMember
+2023-01-01
+2023-12-31
+0000070858
+srt:LatinAmericaMember
+2022-12-31
+0000070858
+srt:LatinAmericaMember
+2022-01-01
+2022-12-31
+0000070858
+us-gaap:NonUsMember
+2024-12-31
+0000070858
+us-gaap:NonUsMember
+2024-01-01
+2024-12-31
+0000070858
+us-gaap:NonUsMember
+2023-12-31
+0000070858
+us-gaap:NonUsMember
+2023-01-01
+2023-12-31
+0000070858
+us-gaap:NonUsMember
+2022-12-31
+0000070858
+us-gaap:NonUsMember
+2022-01-01
+2022-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-K
+(Mark One)
+☑
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the Fiscal Year Ended
+December 31
+, 2024
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from      to
+Commission file number:
+1-6523
+Exact name of registrant as specified in its charter:
+Bank of America Corporation
+State or other jurisdiction of incorporation or organization:
+Delaware
+IRS Employer Identification No.:
+56-0906609
+Address of principal executive offices:
+Bank of America Corporate Center
+100 N. Tryon Street
+Charlotte
+,
+North Carolina
+28255
+Registrant’s telephone number, including area code:
+(
+704
+)
+386-5681
+Securities registered pursuant to section 12(b) of the Act:
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes
+☐
+No
+☑
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+☐
+No
+☑
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange

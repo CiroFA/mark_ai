@@ -1,0 +1,45 @@
+rate swaps are subject to enforceable master netting arrangements allowing a right of setoff within each FCM-CCP relationship; however, we do not net these positions. Therefore, interest rate swaps are presented gross in the consolidated balance sheets. See Note 17 for additional information on the Company’s interest rate swaps.
+- 104 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+The following table presents information about our interest rate swaps, resale agreements, securities lending, repurchase agreements, and other activity depicting the potential effect of rights of setoff between these recognized assets and liabilities:
+(1)
+Included in cash and investments segregated and on deposit for regulatory purposes in the consolidated balance sheets.
+(2)
+Actual collateral was greater than or equal to the value of the related assets. At December 31, 2024 and 2023, the fair value of collateral received in connection with resale agreements that are available to be repledged or sold was $
+10.3
+billion and $
+9.0
+billion, respectively.
+(3)
+Included in receivables from brokers, dealers, and clearing organizations in the consolidated balance sheets.
+(4)
+Derivative assets are included in other assets and derivative liabilities are included in accrued expenses and other liabilities in the consolidated balance sheets. Amounts were less than $
+500
+thousand as of December 31, 2024 and 2023.
+(5)
+At December 31, 2024 and 2023, the fair value of initial margin pledged as collateral related to interest rate swaps was $
+378
+million and $
+195
+million, respectively. See Notes 6 and 17 for additional information.
+(6)
+Included in other short-term borrowings in the consolidated balance sheets. Actual collateral value was greater than or equal to the value of the related liabilities. At December 31, 2024 and 2023, the fair value of collateral pledged in connection with repurchase agreements was $
+5.9
+billion and $
+5.3
+billion, respectively. See Note 13 for additional information.
+(7)
+Included in payables to brokers, dealers, and clearing organizations in the consolidated balance sheets. Securities loaned are predominantly comprised of equity securities held in client brokerage accounts. At December 31, 2024, $
+8.8
+billion of securities loaned had overnight and continuous remaining contractual maturities and $
+4.3
+billion of securities loaned had contractual maturities of
+35
+-
+95
+days. At December 31, 2023, remaining contractual maturities of securities loaned were predominantly overnight and continuous. The cash collateral received from counterparties under securities lending transactions was equal to or greater than the market value of the securities loaned at December 31, 2024 and 2023.
+(8)
+Included in other short-term borrowings in the consolidated balance sheets. See below for collateral pledged and Note 13 for additional information.
+Client

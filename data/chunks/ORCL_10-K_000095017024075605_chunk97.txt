@@ -1,0 +1,20 @@
+ROU assets as operating lease expense generally on a straight-line basis over the lease term and classify both the lease amortization and imputed interest as operating expenses. We have lease agreements with lease and non-lease components, and in such cases, we generally account for the components as a single lease component. We do not recognize lease assets and lease liabilities for any lease with an original lease term of less than one year. Abandoned operating leases are accounted for as ROU asset impairment charges pursuant to ASC 842.
+ROU
+assets related to our operating leases are included in other non-current assets, short-term operating lease liabilities are included in other current liabilities, and long-term operating lease liabilities are included in other non-current liabilities in our consolidated balance sheets. Cash flow movements related to our lease activities are included in prepaid expenses and other assets and accounts payable and other liabilities as presented in net cash
+78
+Table of Contents
+Index to Financial Statements
+provided
+by operating activities in our consolidated statements of cash flows for the years ended May 31, 2024 and 2023. Note 10 below provides additional information regarding our leases.
+Legal and Other Contingencies
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each significant matter and assess our potential financial exposure. Descriptions of our accounting policies associated with contingencies assumed as a part of a business combination are provided under “Business Combinations” above. For legal and other contingencies that are not a part of a business combination or related to income taxes, we accrue a liability for an estimated loss if the potential loss from any claim or legal proceeding is considered probable, and the amount can be reasonably estimated. Note 16 below provides additional information regarding certain of our legal contingencies.
+Foreign Currency
+We transact business in various foreign currencies. In general, the functional currency of a foreign operation is the local country’s currency. Consequently, revenues and expenses of operations outside the U.S. are translated into U.S. Dollars using weighted-average exchange rates while assets and liabilities of operations outside the U.S. are translated into U.S. Dollars using exchange rates at the balance sheet dates. The effects of foreign currency translation adjustments are included in stockholders’ equity as a component of AOCL in the accompanying consolidated balance sheets and related periodic movements are summarized as a line item in our consolidated statements of comprehensive income. Net foreign exchange transaction losses included in non-operating expenses, net in the accompanying consolidated statements of operations were $
+228
+million, $
+249
+million and $
+199
+million in fiscal 2024, 2023 and 2022, respectively.
+Stock-Based Compensation
+We account for share-based payments

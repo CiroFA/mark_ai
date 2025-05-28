@@ -1,0 +1,17 @@
+our major subsidiaries in a stressed environment. The liquidity needs are measured using our Modeled Liquidity Outflow assumptions and include certain additional inter-affiliate exposures. We have also established our Resolution Liquidity Execution Need framework, which measures the liquidity needs of our major subsidiaries to stabilize and wind down following a Group Inc. bankruptcy filing in accordance with our preferred resolution strategy.
+In addition, we have established a triggers and alerts framework, which is designed to provide the Board with information needed to make an informed decision on whether and when to commence bankruptcy proceedings for Group Inc.
+Limits
+We use liquidity risk limits at various levels and across liquidity risk types to manage the size of our liquidity exposures. Limits are measured relative to acceptable levels of risk given our liquidity risk tolerance. See “Overview and Structure of Risk Management” for information about the limit approval process.
+Limits are monitored by Corporate Treasury and Liquidity Risk. Liquidity Risk is responsible for identifying and escalating to senior management and/or the appropriate risk committee, on a timely basis, instances where limits have been exceeded.
+GCLA and Unencumbered Metrics
+GCLA.
+Based on the results of our internal liquidity risk models, described above, as well as our consideration of other factors, including, but not limited to, a qualitative assessment of our condition, as well as the financial markets, we believe our liquidity position as of both December 2024 and December 2023 was appropriate. We strictly limit our GCLA to a narrowly defined list of securities and cash because they are highly liquid, even in a difficult funding environment. We do not include other potential sources of excess liquidity in our GCLA, such as less liquid unencumbered securities or committed credit facilities.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+The table below presents information about our GCLA.
+In the table above:
+•
+The U.S. dollar-denominated GCLA consists of (i) unencumbered U.S. government and agency obligations (including highly liquid U.S. agency mortgage-backed obligations), all of which are eligible as collateral in Federal Reserve open market operations and (ii) certain overnight U.S. dollar cash deposits.
+•
+The non-U.S. dollar-denominated GCLA consists of non-U.S. government obligations (only unencumbered German, French, Japanese and U.K. government obligations) and certain overnight cash deposits in highly liquid currencies.
+We maintain our GCLA to enable us to meet current and potential liquidity requirements of our parent company, Group Inc., and its subsidiaries. Our Modeled Liquidity Outflow and Intraday Liquidity Model incorporate a requirement for Group Inc., as well as a standalone requirement for each of our major broker-dealer and bank subsidiaries. Funding IHC is required to provide the necessary liquidity to

@@ -1,0 +1,41 @@
+another, or considering other inputs or assumptions, could affect the estimate of the allowance for credit losses on HTM securities.
+Credit quality indicator
+The primary credit quality indicator for HTM securities is the risk rating assigned to each security.
+At both December 31, 2024 and 2023, all HTM securities were rated investment grade and were current and accruing, with approximately
+99
+% rated at least AA+ (based upon external ratings where available, and where not available, based primarily upon internal risk ratings).
+Allowance for credit losses on investment securities
+The allowance for credit losses on investment securities was $
+152
+million, $
+128
+million and $
+96
+million as of December 31, 2024, 2023 and 2022, respectively, which included a cumulative-effect adjustment to retained earnings related to the transfer of HTM securities to AFS for the year ended December 31, 2023.
+Selected impacts of investment securities on the Consolidated statements of income
+Contractual maturities and yields
+The following table presents the amortized cost and estimated fair value at December 31, 2024, of JPMorganChase’s investment securities portfolio by contractual maturity.
+(a)
+Average yield is computed using the effective yield of each security owned at the end of the period, weighted based on the amortized cost of each security. The effective yield considers the contractual coupon, amortization of premiums and accretion of discounts, and the effect of related hedging derivatives, including closed portfolio hedges. Taxable-equivalent amounts are used where applicable. The effective yield excludes unscheduled principal prepayments; and accordingly, actual maturities of securities may differ from their contractual or expected maturities as certain securities may be prepaid. However, for certain callable debt securities, the average yield is calculated to the earliest call date.
+(b)
+For purposes of this table, the amortized cost of available-for-sale securities excludes the allowance for credit losses of $
+49
+million and the portfolio layer fair value hedge basis adjustments of $(
+1.2
+) billion at December 31, 2024. The amortized cost of held-to-maturity securities also excludes the allowance for credit losses of $
+103
+million at December 31, 2024.
+(c)
+Substantially all of the Firm’s U.S. residential MBS and collateralized mortgage obligations are due in
+10
+years or more, based on contractual maturity. The estimated weighted-average life, which reflects anticipated future prepayments, is approximately
+eight years
+for agency residential MBS,
+six years
+for agency residential collateralized mortgage obligations, and
+five years
+for nonagency residential collateralized mortgage obligations.
+Notes to consolidated financial statements
+Note 11 –
+Securities financing activities
+JPMorganChase enters into resale, repurchase, securities borrowed and securities loaned agreements (collectively, “securities financing agreements”) primarily to finance the Firm’s

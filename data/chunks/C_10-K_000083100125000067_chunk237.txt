@@ -1,0 +1,54 @@
+rather than the domicile of the depositor.
+(2)    Represents time deposits in U.S. offices in denominations that met or exceeded $250,000.
+(3)    Time deposits in offices outside the U.S. are assumed to be a depositor’s account as single account ownership.
+(4)    The insurance coverage is applied in sequence of checking, savings and short- and long-term time deposits accounts.
+At December 31, 2024, the maturities of time deposits were as follows:
+FDIC Special Assessment
+Citi recorded $
+203
+million and $
+1,706
+million in
+Other operating
+expenses for the years ended 2024 and 2023, respectively, related to the FDIC’s final rule implementing a special assessment to recover the uninsured deposit losses from the failures of Silicon Valley Bank and Signature Bank. The special assessment expenses are reflected in Corporate/Other in
+All Other
+.
+234
+19.
+DEBT
+Short-Term Borrowings
+(1)
+The weighted-average coupon excludes structured notes accounted for at fair value and the effect of hedges.
+(2)
+Represents Citibank entities as well as other bank entities.
+(3)
+Represents broker-dealer and other non-bank subsidiaries that are consolidated into Citigroup Inc., the parent holding company.
+(4)
+Includes borrowings from Federal Home Loan Banks and other market participants. At December 31, 2024 and 2023, collateralized short-term advances from Federal Home Loan Banks were $
+5.0
+billion and $
+8.0
+billion, respectively.
+Some of Citigroup’s non-bank subsidiaries have credit facilities with Citigroup’s subsidiary depository institutions, including Citibank. Borrowings under these facilities are secured in accordance with Section 23A of the Federal Reserve Act.
+Long-Term Debt
+(1)
+The weighted-average coupon excludes structured notes accounted for at fair value and the effect of hedges.
+(2)
+Represents the parent holding company.
+(3)
+Includes notes that are subordinated within certain countries, regions or subsidiaries.
+(4)
+Represents Citibank entities as well as other bank entities. At December 31, 2024 and 2023, collateralized long-term advances from the Federal Home Loan Banks were $
+8.5
+billion and $
+11.5
+billion, respectively.
+(5)
+Represents broker-dealer and other non-bank subsidiaries that are consolidated into Citigroup Inc., the parent holding company. Certain Citigroup consolidated hedging activities are also included in this line. Balances primarily relate to senior debt.
+The Company issues both fixed- and variable-rate debt in a range of currencies. It uses derivative contracts, primarily interest rate swaps, to effectively convert a portion of its fixed-rate debt to variable-rate debt. In addition, the Company uses other derivative contracts to manage the foreign exchange impact of certain debt issuances. At December 31, 2024, the Company’s overall weighted-average interest rate for long-term debt, excluding structured notes accounted for at fair value, was
+4.26
+% on a contractual basis and
+4.40
+% including the effects of derivative contracts.
+235
+Aggregate

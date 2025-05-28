@@ -1,0 +1,24 @@
+suppliers, foundries, contract manufacturers, assembly and test providers and memory manufacturers;
+•
+loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss, addition or change of a supplier;
+•
+lack of direct control over product quantity, quality, and delivery schedules;
+•
+integration of new suppliers and contract manufacturers creating more complexity in managing multiple suppliers with variations in production planning, execution, and logistics;
+•
+suppliers or their suppliers failing to provide high quality products and/or making changes to their products without our qualification;
+•
+delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours;
+•
+requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance;
+•
+low manufacturing yields resulting from issues in our product design or a foundry’s proprietary process technology;
+•
+suppliers extending lead times and/or increasing costs during shortages; and
+•
+disruptions in manufacturing, assembly and other processes due to closures related to heat waves, earthquakes, fires, or other natural disasters, electricity conservation efforts, pandemics, and cybersecurity incidents.
+18
+Table of Contents
+Defects in our products have caused and could cause us to incur significant expenses to remediate, which can damage our reputation and cause us to lose market share.
+Our hardware and software product and service offerings are complex. They have in the past and may in the future contain defects, security vulnerabilities, experience failures, or unsatisfactory performance due to issues in design, fabrication, packaging, materials, bugs and/or use within a system. These risks may also increase when our products are introduced into new devices, markets, technologies and applications, or new versions are released, and when we rely on partners to supply and manufacture components that are used in our products, as these arrangements reduce our direct control over production. AI software products that we or our partners offer rely on training data that may originate from third parties and new training methods, and the resulting products may contain unknown or undetected defects and errors, or reflect unintended bias. Although arrangements with component providers may contain provisions for product defect expense reimbursement, we generally remain responsible to the customer for warranty product defects that may occur from time to time. Some failures in our products or services have been in the past and may in the future be only discovered after a product or service has been shipped or used.
+Undiscovered vulnerabilities in our products or services could result in loss of data or

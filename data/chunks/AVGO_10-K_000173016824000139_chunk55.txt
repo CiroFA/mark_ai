@@ -1,0 +1,33 @@
+our technology are accepted in their markets;
+•
+the shift to cloud-based information technology solutions and services, such as hyperscale computing, which may adversely affect the timing and volume of sales of our products for use in traditional enterprise data centers; and
+•
+the timing, rescheduling or cancellation of expected customer orders.
+36
+Table of Contents
+Fiscal Year Highlights
+Highlights during fiscal year 2024 include the following:
+•
+On November 22, 2023, we completed the acquisition of VMware, Inc. (“VMware”), for approximately $30.8 billion in cash and 544 million shares of Broadcom common stock (on a split adjusted basis) with a fair value of $53.4 billion.
+•
+We generated $19,962 million of cash from operations.
+•
+We paid $9,814 million in cash dividends.
+•
+We repurchased $7,176 million of common stock.
+•
+We completed a ten-for-one forward stock split of our common stock. All share, equity award and per share amounts have been retroactively adjusted to reflect the stock split.
+Acquisitions and Divestitures
+Acquisition of VMware and Divestiture of EUC
+On November 22, 2023, we acquired VMware in a cash-and-stock transaction (the “VMware Merger”). The VMware stockholders received approximately $30,788 million in cash and 544 million shares of Broadcom common stock with a fair value of $53,398 million. In addition, we assumed all outstanding VMware restricted stock unit (“RSU”) awards and performance stock unit awards held by continuing employees. The assumed awards were converted into RSU awards for shares of Broadcom common stock. All outstanding RSU awards held by non-employee directors and in-the-money VMware stock options were accelerated and converted into the right to receive cash and shares of Broadcom common stock, in equal parts.
+We funded the cash portion of the VMware Merger with the net proceeds from the issuance of the 2023 Term Loans, as defined and discussed in Note 10. “Borrowings” included in Part II, Item 8 of this Annual Report on Form 10-K, as well as cash on hand. We assumed $8,250 million of VMware’s outstanding senior unsecured notes.
+On July 1, 2024, we sold VMware’s end-user computing (“EUC”) business to KKR & Co. Inc. for cash consideration of
+$3.5 billion
+, after working capital adjustments.
+Acquisition of Seagate’s SoC Operations
+On April 23, 2024, we acquired certain assets related to the design, development, and manufacture of System-on-Chip (“SoC”) operations of Seagate Technology Holdings plc for
+$600 million
+.
+Net Revenue
+A majority of our net revenue is derived from sales of a broad range of semiconductor devices that are incorporated into electronic products, as well as from modules, switches and subsystems. Net revenue is also generated from the sale of software solutions that enable our customers to plan, develop, deliver, automate, manage, and secure applications across mainframe, distributed, edge, mobile, and private and hybrid cloud platforms.
+Our overall net revenue, as well as the

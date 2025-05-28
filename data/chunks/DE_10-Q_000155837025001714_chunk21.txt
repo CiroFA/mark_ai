@@ -1,0 +1,24 @@
+segments: production and precision agriculture (PPA), small agriculture and turf (SAT), construction and forestry (CF), and financial services (John Deere Financial or FS). References to “agriculture and turf” include both PPA and SAT.
+We use a 52/53 week fiscal year with quarters ending on the last Sunday in the reporting period. The first quarter ends for fiscal year 2025 and 2024 were January 26, 2025 and January 28, 2024, respectively. Both periods contained
+13
+weeks. Fiscal year 2025 will contain
+53
+weeks, with the additional week occurring in the fourth quarter. Unless otherwise stated, references to particular years, quarters, or months refer to our fiscal years generally ending in October and the associated periods in those fiscal years.
+All amounts are presented in millions of dollars, unless otherwise specified. Certain prior period amounts have been reclassified to conform to current period presentation.
+​
+​
+(2)
+Summary of Significant Accounting Policies and New Accounting Pronouncements
+Quarterly Financial Statements
+T
+he interim consolidated financial statements of Deere & Company have been prepared by us, without audit, pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC). Certain information and footnote disclosures normally included in annual financial statements prepared in accordance with accounting principles generally accepted in the U.S. have been condensed or omitted as permitted by such rules and regulations. All normal recurring adjustments have been included. Management believes the disclosures are adequate to present fairly the financial position, results of operations, and cash flows at the dates and for the periods presented. It is suggested these interim consolidated financial statements be read in conjunction with the consolidated financial statements and the notes thereto appearing in our latest Annual Report on Form 10-K. Results for interim periods are not necessarily indicative of those to be expected for the fiscal year.
+Use of Estimates in Financial Statements
+Certain accounting policies require management to make estimates and assumptions in determining the amounts reflected in the financial statements and related disclosures. Actual results could differ from those estimates.
+New Accounting Pronouncements Adopted
+We closely monitor all Accounting Standard Updates (ASUs) issued by the Financial Accounting Standards Board (FASB) and other authoritative guidance. We adopted the following standards in 2025, none of which had a material effect on our consolidated financial statements.
+Accounting Pronouncements to be Adopted
+In November 2024, the FASB issued ASU
+2024-03
+, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which expands disclosures about specific expense categories presented on the face of the income statement. In January 2025, the FASB issued ASU
+2025-01
+, Income

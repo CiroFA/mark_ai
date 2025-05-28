@@ -1,142 +1,3231 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+DEERE & CO_January 26, 2025
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#OtherAssets
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#SecuredDebt
+0000315189
+--11-02
+Q1
+false
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent
+http://fasb.org/us-gaap/2024#CostMethodFifoMember http://fasb.org/us-gaap/2024#CostMethodLifoMember
+http://fasb.org/us-gaap/2024#CostMethodFifoMember http://fasb.org/us-gaap/2024#CostMethodLifoMember
+http://fasb.org/us-gaap/2024#CostMethodFifoMember http://fasb.org/us-gaap/2024#CostMethodLifoMember
+DEERE & CO
+http://fasb.org/us-gaap/2024#SecuredDebt
+http://fasb.org/us-gaap/2024#OtherAssets
+P9M
+P12M
+P12M
+P12M
+P12M
+P12M
+P24M
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#OtherCostAndExpenseOperating
+http://fasb.org/us-gaap/2024#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent
+P5Y
+http://www.deere.com/20250126#LongTermDebtAndFinanceLeasesNoncurrent
+http://fasb.org/us-gaap/2024#BinomialModelMember
+http://fasb.org/us-gaap/2024#MonteCarloModelMember
+32000000
+0000315189
+de:DiscreteTaxItemRealizationOfForeignNetOperatingLossesMember
+2024-10-28
+2025-01-26
+0000315189
+de:DiscreteTaxItemAdjustmentsToUncertainTaxPositionsMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:TreasuryStockCommonMember
+2025-01-26
+0000315189
+us-gaap:RetainedEarningsMember
+2025-01-26
+0000315189
+us-gaap:NoncontrollingInterestMember
+2025-01-26
+0000315189
+us-gaap:CommonStockMember
+2025-01-26
+0000315189
+us-gaap:TreasuryStockCommonMember
+2024-10-27
+0000315189
+us-gaap:RetainedEarningsMember
+2024-10-27
+0000315189
+us-gaap:NoncontrollingInterestMember
+2024-10-27
+0000315189
+us-gaap:CommonStockMember
+2024-10-27
+0000315189
+us-gaap:TreasuryStockCommonMember
+2024-01-28
+0000315189
+us-gaap:RetainedEarningsMember
+2024-01-28
+0000315189
+us-gaap:NoncontrollingInterestMember
+2024-01-28
+0000315189
+us-gaap:CommonStockMember
+2024-01-28
+0000315189
+us-gaap:TreasuryStockCommonMember
+2023-10-29
+0000315189
+us-gaap:RetainedEarningsMember
+2023-10-29
+0000315189
+us-gaap:NoncontrollingInterestMember
+2023-10-29
+0000315189
+us-gaap:CommonStockMember
+2023-10-29
+0000315189
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-10-29
+0000315189
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-26
+0000315189
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-26
+0000315189
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-01-26
+0000315189
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-26
+0000315189
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-01-26
+0000315189
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-10-27
+0000315189
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-10-27
+0000315189
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-10-27
+0000315189
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-10-27
+0000315189
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-10-27
+0000315189
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-28
+0000315189
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-28
+0000315189
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-01-28
+0000315189
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-01-28
+0000315189
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-01-28
+0000315189
+us-gaap:EmployeeStockOptionMember
+2025-01-26
+0000315189
+us-gaap:EmployeeStockOptionMember
+2024-11-25
+2024-12-22
+0000315189
+de:RestrictedStockUnitsServiceBasedMember
+2024-10-28
+2025-01-26
+0000315189
+de:RestrictedStockUnitsPerformanceServiceBasedMember
+2024-10-28
+2025-01-26
+0000315189
+de:RestrictedStockUnitsMarketServiceBasedMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialServicesSegmentMember
+us-gaap:SubsequentEventMember
+2025-01-27
+2025-02-23
+0000315189
+srt:LatinAmericaMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+srt:LatinAmericaMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+srt:LatinAmericaMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:WesternEuropeMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:WesternEuropeMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:WesternEuropeMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+us-gaap:TransferredOverTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+us-gaap:TransferredOverTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:ConstructionAndForestrySegmentMember
+us-gaap:TransferredOverTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:ConstructionAndForestrySegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:US
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:US
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:US
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:CA
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:CA
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:CA
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:TransferredOverTimeMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:TransferredAtPointInTimeMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:FinancialServiceMember
+2024-10-28
+2025-01-26
+0000315189
+srt:LatinAmericaMember
+2024-10-28
+2025-01-26
+0000315189
+de:WesternEuropeMember
+2024-10-28
+2025-01-26
+0000315189
+de:OtherMember
+2024-10-28
+2025-01-26
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+2024-10-28
+2025-01-26
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+2024-10-28
+2025-01-26
+0000315189
+country:US
+2024-10-28
+2025-01-26
+0000315189
+country:CA
+2024-10-28
+2025-01-26
+0000315189
+srt:LatinAmericaMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+srt:LatinAmericaMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+srt:LatinAmericaMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:WesternEuropeMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:WesternEuropeMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:WesternEuropeMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+us-gaap:TransferredOverTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+us-gaap:TransferredOverTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:ConstructionAndForestrySegmentMember
+us-gaap:TransferredOverTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:ConstructionAndForestrySegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:US
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:US
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:US
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:CA
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:CA
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:CA
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:TransferredOverTimeMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:TransferredAtPointInTimeMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:FinancialServiceMember
+2023-10-30
+2024-01-28
+0000315189
+srt:LatinAmericaMember
+2023-10-30
+2024-01-28
+0000315189
+de:WesternEuropeMember
+2023-10-30
+2024-01-28
+0000315189
+de:OtherMember
+2023-10-30
+2024-01-28
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+2023-10-30
+2024-01-28
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+2023-10-30
+2024-01-28
+0000315189
+country:US
+2023-10-30
+2024-01-28
+0000315189
+country:CA
+2023-10-30
+2024-01-28
+0000315189
+2030-10-28
+2025-01-26
+0000315189
+2029-10-29
+2025-01-26
+0000315189
+2028-10-30
+2025-01-26
+0000315189
+2027-11-01
+2025-01-26
+0000315189
+2026-11-02
+2025-01-26
+0000315189
+2025-11-03
+2025-01-26
+0000315189
+2025-01-27
+2025-01-26
+0000315189
+srt:LatinAmericaMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:WesternEuropeMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialServicesSegmentMember
+us-gaap:TransferredOverTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialServicesSegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialProductsMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialProductsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialProductsMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialProductsMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:US
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+country:CA
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:FinancialProductsMember
+2024-10-28
+2025-01-26
+0000315189
+srt:LatinAmericaMember
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:WesternEuropeMember
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialServicesSegmentMember
+us-gaap:TransferredOverTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialServicesSegmentMember
+us-gaap:TransferredAtPointInTimeMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialProductsMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialProductsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialProductsMember
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialProductsMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:CentralEuropeAndCommonwealthOfIndependentStatesMember
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:AsiaAfricaOceaniaAndMiddleEastMember
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:US
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+country:CA
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:FinancialProductsMember
+2023-10-30
+2024-01-28
+0000315189
+de:TurfMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:SmallAgricultureMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:RoadbuildingMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:ProductionAgricultureMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:ForestryMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:ConstructionEquipmentMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:CompactConstructionEquipmentMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:TurfMember
+2024-10-28
+2025-01-26
+0000315189
+de:SmallAgricultureMember
+2024-10-28
+2025-01-26
+0000315189
+de:RoadbuildingMember
+2024-10-28
+2025-01-26
+0000315189
+de:ProductionAgricultureMember
+2024-10-28
+2025-01-26
+0000315189
+de:ForestryMember
+2024-10-28
+2025-01-26
+0000315189
+de:ConstructionEquipmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:CompactConstructionEquipmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:TurfMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:SmallAgricultureMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:RoadbuildingMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:ProductionAgricultureMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:ForestryMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:ConstructionEquipmentMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:CompactConstructionEquipmentMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:TurfMember
+2023-10-30
+2024-01-28
+0000315189
+de:SmallAgricultureMember
+2023-10-30
+2024-01-28
+0000315189
+de:RoadbuildingMember
+2023-10-30
+2024-01-28
+0000315189
+de:ProductionAgricultureMember
+2023-10-30
+2024-01-28
+0000315189
+de:ForestryMember
+2023-10-30
+2024-01-28
+0000315189
+de:ConstructionEquipmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:CompactConstructionEquipmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:InterestRateSwapMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignGovernmentDebtSecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentDebtSecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+de:ForeignMutualFundsSecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+de:ForeignEquitySecuritiesMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+de:FixedIncomeFundsUSMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+de:EquityFundsUSMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-28
+0000315189
+srt:MinimumMember
+de:AcquisitionOfExcavatorFactoriesMember
+us-gaap:InventoriesMember
+2022-02-28
+2022-03-27
+0000315189
+srt:MaximumMember
+de:AcquisitionOfExcavatorFactoriesMember
+us-gaap:InventoriesMember
+2022-02-28
+2022-03-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+2025-01-26
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel2Member
+2024-10-27
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel2Member
+2024-01-28
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-01-28
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2025-01-26
+0000315189
+us-gaap:FinancialGuaranteeMember
+2025-01-26
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+2025-01-26
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+2025-01-26
+0000315189
+de:ConstructionAndForestrySegmentMember
+2025-01-26
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-27
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-27
+0000315189
+de:ConstructionAndForestrySegmentMember
+2024-10-27
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+2024-01-28
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-01-28
+0000315189
+de:ConstructionAndForestrySegmentMember
+2024-01-28
+0000315189
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-29
+0000315189
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-29
+0000315189
+de:ConstructionAndForestrySegmentMember
+2023-10-29
+0000315189
+us-gaap:SubsequentEventMember
+2024-10-28
+2025-11-02
+0000315189
+us-gaap:OtherIntangibleAssetsMember
+2025-01-26
+0000315189
+us-gaap:CustomerRelationshipsMember
+2025-01-26
+0000315189
+us-gaap:OtherIntangibleAssetsMember
+2024-10-27
+0000315189
+us-gaap:CustomerRelationshipsMember
+2024-10-27
+0000315189
+us-gaap:OtherIntangibleAssetsMember
+2024-01-28
+0000315189
+us-gaap:CustomerRelationshipsMember
+2024-01-28
+0000315189
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+de:SaleOfBancoJohnDeereSaMember
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsNonrecurringMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-28
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-28
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:InterestExpenseMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:SalesMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherExpenseMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:CostOfSalesMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:InterestRateSwapMember
+us-gaap:InterestExpenseMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:SalesMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherExpenseMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ForeignExchangeContractMember
+us-gaap:CostOfSalesMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-10-27
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-28
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-28
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-28
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-01-26
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-01-26
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-01-26
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-10-27
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-28
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-01-28
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:InterestRateSwapMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:ForeignExchangeContractMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-01-28
+0000315189
+us-gaap:OtherAssetsMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-28
+0000315189
+us-gaap:PensionPlansDefinedBenefitMember
+2025-01-26
+0000315189
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2025-01-26
+0000315189
+us-gaap:PensionPlansDefinedBenefitMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-10-30
+2024-01-28
+0000315189
+de:Notes5.70PercentDue2055Member
+2024-10-27
+0000315189
+de:Notes5.45PercentDue2035Member
+2024-10-27
+0000315189
+de:Notes5.70PercentDue2055Member
+2024-01-28
+0000315189
+de:Notes5.45PercentDue2035Member
+2024-01-28
+0000315189
+us-gaap:NotesPayableOtherPayablesMember
+2025-01-26
+0000315189
+de:Notes7.125PercentDue2031Member
+2025-01-26
+0000315189
+de:Notes5.70PercentDue2055Member
+2025-01-26
+0000315189
+de:Notes5.45PercentDue2035Member
+2025-01-26
+0000315189
+de:Notes5.375PercentDue2029Member
+2025-01-26
+0000315189
+de:Notes3.90PercentDue2042Member
+2025-01-26
+0000315189
+de:Notes3.75PercentDue2050Member
+2025-01-26
+0000315189
+de:Notes3.10PercentDue2030Member
+2025-01-26
+0000315189
+de:Notes2.875PercentDue2049Member
+2025-01-26
+0000315189
+de:MediumTermNotesDueInNextTenYearsMember
+2025-01-26
+0000315189
+de:EuroNotes2.20PercentDue2032Member
+2025-01-26
+0000315189
+de:EuroNotes1.85PercentDue2028Member
+2025-01-26
+0000315189
+de:EuroNotes1.65PercentDue2039Member
+2025-01-26
+0000315189
+de:Debentures8.10PercentDue2030Member
+2025-01-26
+0000315189
+de:Debentures6.55PercentDue2028Member
+2025-01-26
+0000315189
+us-gaap:NotesPayableOtherPayablesMember
+2024-10-27
+0000315189
+de:Notes7.125PercentDue2031Member
+2024-10-27
+0000315189
+de:Notes5.375PercentDue2029Member
+2024-10-27
+0000315189
+de:Notes3.90PercentDue2042Member
+2024-10-27
+0000315189
+de:Notes3.75PercentDue2050Member
+2024-10-27
+0000315189
+de:Notes3.10PercentDue2030Member
+2024-10-27
+0000315189
+de:Notes2.875PercentDue2049Member
+2024-10-27
+0000315189
+de:MediumTermNotesDueInNextTenYearsMember
+2024-10-27
+0000315189
+de:EuroNotes2.20PercentDue2032Member
+2024-10-27
+0000315189
+de:EuroNotes1.85PercentDue2028Member
+2024-10-27
+0000315189
+de:EuroNotes1.65PercentDue2039Member
+2024-10-27
+0000315189
+de:Debentures8.10PercentDue2030Member
+2024-10-27
+0000315189
+de:Debentures6.55PercentDue2028Member
+2024-10-27
+0000315189
+us-gaap:NotesPayableOtherPayablesMember
+2024-01-28
+0000315189
+de:Notes7.125PercentDue2031Member
+2024-01-28
+0000315189
+de:Notes5.375PercentDue2029Member
+2024-01-28
+0000315189
+de:Notes3.90PercentDue2042Member
+2024-01-28
+0000315189
+de:Notes3.75PercentDue2050Member
+2024-01-28
+0000315189
+de:Notes3.10PercentDue2030Member
+2024-01-28
+0000315189
+de:Notes2.875PercentDue2049Member
+2024-01-28
+0000315189
+de:Notes2.75PercentDue2025Member
+2024-01-28
+0000315189
+de:MediumTermNotesDueInNextTenYearsMember
+2024-01-28
+0000315189
+de:EuroNotes2.20PercentDue2032Member
+2024-01-28
+0000315189
+de:EuroNotes1.85PercentDue2028Member
+2024-01-28
+0000315189
+de:EuroNotes1.65PercentDue2039Member
+2024-01-28
+0000315189
+de:Debentures8.10PercentDue2030Member
+2024-01-28
+0000315189
+de:Debentures6.55PercentDue2028Member
+2024-01-28
+0000315189
+us-gaap:ProductFinancingArrangementMember
+2025-01-26
+0000315189
+us-gaap:NotesPayableToBanksMember
+2025-01-26
+0000315189
+us-gaap:CommercialPaperMember
+2025-01-26
+0000315189
+de:LongTermDebtCurrentMember
+2025-01-26
+0000315189
+us-gaap:ProductFinancingArrangementMember
+2024-10-27
+0000315189
+us-gaap:NotesPayableToBanksMember
+2024-10-27
+0000315189
+us-gaap:CommercialPaperMember
+2024-10-27
+0000315189
+de:LongTermDebtCurrentMember
+2024-10-27
+0000315189
+us-gaap:ProductFinancingArrangementMember
+2024-01-28
+0000315189
+us-gaap:NotesPayableToBanksMember
+2024-01-28
+0000315189
+us-gaap:CommercialPaperMember
+2024-01-28
+0000315189
+de:LongTermDebtCurrentMember
+2024-01-28
+0000315189
+us-gaap:ProductMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ProductMember
+2023-10-30
+2024-01-28
+0000315189
+de:O2025Q1DividendsMember
+us-gaap:SubsequentEventMember
+2025-01-27
+2025-02-26
+0000315189
+us-gaap:AccountingStandardsUpdate202309Member
+2025-01-26
+0000315189
+us-gaap:AccountingStandardsUpdate202307Member
+2025-01-26
+0000315189
+us-gaap:AccountingStandardsUpdate202306Member
+2025-01-26
+0000315189
+us-gaap:AccountingStandardsUpdate202305Member
+2025-01-26
+0000315189
+us-gaap:AccountingStandardsUpdate202203Member
+2025-01-26
+0000315189
+de:AccountingStandardsUpdate202501Member
+2025-01-26
+0000315189
+de:AccountingStandardsUpdate202404Member
+2025-01-26
+0000315189
+de:AccountingStandardsUpdate202403Member
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsNonrecurringMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsNonrecurringMember
+2024-10-27
+0000315189
+us-gaap:OperatingSegmentsMember
+de:SmallAgricultureAndTurfSegmentMember
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:FinancialServicesSegmentMember
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ConstructionAndForestrySegmentMember
+2025-01-26
+0000315189
+us-gaap:CorporateNonSegmentMember
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-27
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-27
+0000315189
+us-gaap:OperatingSegmentsMember
+de:FinancialServicesSegmentMember
+2024-10-27
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ConstructionAndForestrySegmentMember
+2024-10-27
+0000315189
+us-gaap:CorporateNonSegmentMember
+2024-10-27
+0000315189
+us-gaap:OperatingSegmentsMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:FinancialServicesSegmentMember
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ConstructionAndForestrySegmentMember
+2024-01-28
+0000315189
+us-gaap:CorporateNonSegmentMember
+2024-01-28
+0000315189
+us-gaap:RelatedPartyMember
+2025-01-26
+0000315189
+us-gaap:NonrelatedPartyMember
+2025-01-26
+0000315189
+us-gaap:RelatedPartyMember
+2024-10-27
+0000315189
+us-gaap:NonrelatedPartyMember
+2024-10-27
+0000315189
+us-gaap:RelatedPartyMember
+2024-01-28
+0000315189
+us-gaap:NonrelatedPartyMember
+2024-01-28
+0000315189
+us-gaap:CommonStockMember
+2024-10-28
+2025-01-26
+0000315189
+de:Debentures6.55PercentDue2028Member
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:TreasuryStockCommonMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:TreasuryStockCommonMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:RetainedEarningsMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:CommonStockMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:RetainedEarningsMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:NoncontrollingInterestMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:CommonStockMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+de:SaleOfBancoJohnDeereSaMember
+de:FinancialServicesSegmentMember
+2024-07-29
+2024-08-25
+0000315189
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+de:SaleOfBancoJohnDeereSaMember
+de:FinancialServicesSegmentMember
+us-gaap:SubsequentEventMember
+2025-01-27
+2025-02-23
+0000315189
+de:OtherProductsAndServicesMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:OtherProductsAndServicesMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:OtherProductsAndServicesMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:OtherProductsAndServicesMember
+2024-10-28
+2025-01-26
+0000315189
+de:OtherProductsAndServicesMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:OtherProductsAndServicesMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:OtherProductsAndServicesMember
+de:ConstructionAndForestrySegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:MaterialReconcilingItemsMember
+2023-10-30
+2024-01-28
+0000315189
+de:OtherProductsAndServicesMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:MaterialReconcilingItemsMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:SmallAgricultureAndTurfSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ConstructionAndForestrySegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetNotPledgedAsCollateralMember
+2025-01-26
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2025-01-26
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetNotPledgedAsCollateralMember
+2025-01-26
+0000315189
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2025-01-26
+0000315189
+us-gaap:AssetNotPledgedAsCollateralMember
+2025-01-26
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetNotPledgedAsCollateralMember
+2024-10-27
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2024-10-27
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetNotPledgedAsCollateralMember
+2024-10-27
+0000315189
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2024-10-27
+0000315189
+us-gaap:AssetNotPledgedAsCollateralMember
+2024-10-27
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2024-01-28
+0000315189
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetNotPledgedAsCollateralMember
+2024-01-28
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2024-01-28
+0000315189
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:AssetNotPledgedAsCollateralMember
+2024-01-28
+0000315189
+us-gaap:AssetPledgedAsCollateralWithRightMember
+2024-01-28
+0000315189
+us-gaap:AssetNotPledgedAsCollateralMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:CommercialPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:CommercialPortfolioSegmentMember
+us-gaap:FinancialAssetPastDueMember
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OperatingSegmentsMember
+de:SmallAgricultureAndTurfSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:ProductionAndPrecisionAgricultureSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OperatingSegmentsMember
+de:FinancialServicesSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:LongTermDebtNoncurrentMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2025-01-26
+0000315189
+de:DebtCurrentMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2025-01-26
+0000315189
+de:LongTermDebtNoncurrentMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2024-10-27
+0000315189
+de:DebtCurrentMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2024-10-27
+0000315189
+de:LongTermDebtNoncurrentMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2024-01-28
+0000315189
+de:DebtCurrentMember
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2025-01-26
+0000315189
+us-gaap:ConsumerPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2024-10-27
+0000315189
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2024-01-28
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2024-01-28
+0000315189
+us-gaap:ConsumerPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:ExtendedMaturityMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:PaymentDeferralMember
+2024-10-28
+2025-01-26
+0000315189
+de:ExtendedMaturityAndPaymentDeferralMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:PerformingFinancingReceivableMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:NonperformingFinancingReceivableMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:FinancingReceivables60To89DaysPastDueMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:FinancingReceivables30To59DaysPastDueMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:PerformingFinancingReceivableMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:NonperformingFinancingReceivableMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:CommercialPortfolioSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ConsumerPortfolioSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+2023-10-30
+2024-10-27
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+2023-10-30
+2024-10-27
+0000315189
+us-gaap:ConsumerPortfolioSegmentMember
+2023-10-30
+2024-10-27
+0000315189
+us-gaap:ConstructionSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:AgriculturalSectorMember
+us-gaap:ConsumerPortfolioSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:ConsumerPortfolioSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:RevolvingChargeAccountsPortfolioSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:RevolvingChargeAccountsPortfolioSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:RetailNotesAndFinanceLeasesPortfolioSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+de:RetailNotesAndFinanceLeasesPortfolioSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:CommercialPortfolioSegmentMember
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:CommercialPortfolioSegmentMember
+2025-01-26
+0000315189
+de:RevolvingChargeAccountsPortfolioSegmentMember
+2025-01-26
+0000315189
+de:RetailNotesAndFinanceLeasesPortfolioSegmentMember
+2025-01-26
+0000315189
+us-gaap:CommercialPortfolioSegmentMember
+2024-10-27
+0000315189
+de:RevolvingChargeAccountsPortfolioSegmentMember
+2024-10-27
+0000315189
+de:RetailNotesAndFinanceLeasesPortfolioSegmentMember
+2024-10-27
+0000315189
+us-gaap:CommercialPortfolioSegmentMember
+2024-01-28
+0000315189
+de:RevolvingChargeAccountsPortfolioSegmentMember
+2024-01-28
+0000315189
+de:RetailNotesAndFinanceLeasesPortfolioSegmentMember
+2024-01-28
+0000315189
+us-gaap:CommercialPortfolioSegmentMember
+2023-10-29
+0000315189
+de:RevolvingChargeAccountsPortfolioSegmentMember
+2023-10-29
+0000315189
+de:RetailNotesAndFinanceLeasesPortfolioSegmentMember
+2023-10-29
+0000315189
+2023-10-29
+0000315189
+us-gaap:ForeignExchangeFutureMember
+2025-01-26
+0000315189
+us-gaap:ForeignExchangeFutureMember
+2024-10-27
+0000315189
+us-gaap:ForeignExchangeFutureMember
+2024-01-28
+0000315189
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+de:SaleOfBancoJohnDeereSaMember
+de:FinancialServicesSegmentMember
+2024-10-28
+2025-01-26
+0000315189
+de:SaleOfBancoJohnDeereSaMember
+us-gaap:RelatedPartyMember
+de:FinancialServicesSegmentMember
+2025-01-26
+0000315189
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+de:SaleOfBancoJohnDeereSaMember
+de:FinancialServicesSegmentMember
+2025-01-26
+0000315189
+country:US
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:PensionPlansDefinedBenefitMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-10-28
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-01-26
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-10-27
+0000315189
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-28
+0000315189
+srt:ConsolidationEliminationsMember
+de:TradeAccountsAndNotesReceivableMember
+2025-01-26
+0000315189
+srt:ConsolidationEliminationsMember
+de:TradeAccountsAndNotesReceivableMember
+2024-10-27
+0000315189
+srt:ConsolidationEliminationsMember
+de:TradeAccountsAndNotesReceivableMember
+2024-01-28
+0000315189
+2023-10-30
+2024-01-28
+0000315189
+us-gaap:OtherAssetsMember
+2025-01-26
+0000315189
+2024-10-28
+2025-01-26
+0000315189
+2025-01-26
+0000315189
+2024-10-27
+0000315189
+2024-01-28
+iso4217:USD
+xbrli:pure
+xbrli:shares
+iso4217:USD
+xbrli:shares
+iso4217:EUR
+​
+​
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+January 26,
+2025
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____ to ____
+​
+Commission File Number:
+1-4121
+​
+DEERE  &  COMPANY
+(Exact name of registrant as specified in its charter)
+​
+One John Deere Place
+Moline
+,
+Illinois
+61265
+(Address of principal executive offices, zip code)
+Registrant’s Telephone Number, including area code:
+(
+309
+)
+765-8000
+​
+Securities registered pursuant to Section 12(b) of the Act:
+​
+Indicate by check mark whether the registrant:  (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+​
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+​
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+​
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No
+☒
+​
+At January
+26, 2025,
+271,413,927
+shares of common stock, $1 par value, of the registrant were outstanding.
+​
+​
+​
+​
+​
+​
+PART I.  FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+​
+See Condensed Notes to Interim Consolidated Financial Statements.
+​
+​
 2
-Facebook
+​
+​
+​
+See Condensed Notes to Interim Consolidated Financial Statements.
+​
+​
 3
-RSS
+​
+​
+​
+See Condensed Notes to Interim Consolidated Financial Statements.
+​
 4
-YouTube
+​
+​
+​
+See Condensed Notes to Interim Consolidated Financial Statements.
+​
+​
 5
-Flickr
+​
+​
+​
+See Condensed Notes to Interim Consolidated Financial Statements.
+​
+​
+​
+​
+​
+​
 6
-LinkedIn
+​
+Condensed Notes to Interim Consolidated Financial Statements (Unaudited)
+(1)
+Organization and Consolidation
+Deere & Company has been developing innovative solutions to help its customers become more profitable for more than 185 years. References to “Deere & Company,” “John Deere,” “we,” “us,” or “our” include our consolidated subsidiaries. We manage our business through the following operating segments: production and precision agriculture (PPA), small agriculture and turf (SAT), construction and forestry (CF), and financial services (John Deere Financial or FS). References to “agriculture and turf” include both PPA and SAT.
+We use a 52/53 week fiscal year with quarters ending on the last Sunday in the reporting period. The first quarter ends for fiscal year 2025 and 2024 were January 26, 2025 and January 28, 2024, respectively. Both periods contained
+13
+weeks. Fiscal year 2025 will contain
+53
+weeks, with the additional week occurring in the fourth quarter. Unless otherwise stated, references to particular years, quarters, or months refer to our fiscal years generally ending in October and the associated periods in those fiscal years.
+All amounts are presented in millions of dollars, unless otherwise specified. Certain prior period amounts have been reclassified to conform to current period presentation.
+​
+​
+(2)
+Summary of Significant Accounting Policies and New Accounting Pronouncements
+Quarterly Financial Statements
+T
+he interim consolidated financial statements of Deere & Company have been prepared by us, without audit, pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC). Certain information and footnote disclosures normally included in annual financial statements prepared in accordance with accounting principles generally accepted in the U.S. have been condensed or omitted as permitted by such rules and regulations. All normal recurring adjustments have been included. Management believes the disclosures are adequate to present fairly the financial position, results of operations, and cash flows at the dates and for the periods presented. It is suggested these interim consolidated financial statements be read in conjunction with the consolidated financial statements and the notes thereto appearing in our latest Annual Report on Form 10-K. Results for interim periods are not necessarily indicative of those to be expected for the fiscal year.
+Use of Estimates in Financial Statements
+Certain accounting policies require management to make estimates and assumptions in determining the amounts reflected in the financial statements and related disclosures. Actual results could differ from those estimates.
+New Accounting Pronouncements Adopted
+We closely monitor all Accounting Standard Updates (ASUs) issued by the Financial Accounting Standards Board (FASB) and other authoritative guidance. We adopted the following standards in 2025, none of which had a material effect on our consolidated financial statements.
+Accounting Pronouncements to be Adopted
+In November 2024, the FASB issued ASU
+2024-03
+, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which expands disclosures about specific expense categories presented on the face of the income statement. In January 2025, the FASB issued ASU
+2025-01
+, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40), which clarifies the effective date of ASU 2024-03. The ASU will be effective for us beginning with our annual reporting for fiscal year 2028 and interim periods thereafter. We are assessing the effect of ASU 2024-03 on our related disclosures.
+In December 2023, the FASB issued ASU
+2023-09
+, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which expands disclosures in an entity’s income tax rate reconciliation table and cash taxes paid both in the U.S. and foreign jurisdictions. The ASU will be effective for us beginning with our annual reporting for fiscal year 2026. We are assessing the effect of this update on our related disclosures.
+We will also adopt the following standards in future periods, none of which are expected to have a material effect on our consolidated financial statements.
+​
 7
-Pinterest
+​
+(3)
+Revenue Recognition
+Our net sales and revenues by primary geographic market, major product line, and timing of revenue recognition follow:
+​
+​
+​
 8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+​
+We invoice in advance of recognizing the revenue of certain products and services. These relate to extended warranty premiums, advance payments for future equipment sales, and subscription and service revenue related to precision guidance, telematic services, and other information-enabled solutions. These advanced customer payments are presented as deferred revenue, a contract liability, in “Accounts payable and accrued expenses.” The deferred revenue received, but not recognized in revenue, was $
+2,027
+, $
+1,923
+, and $
+1,747
+at January 26, 2025, October 27, 2024, and January 28, 2024, respectively. The contract liability is reduced as the revenue is recognized. Revenue recognized from deferred revenue that was recorded as a contract liability at the beginning of the fiscal year was $
+197
+and $
+230
+during the three months ended January 26, 2025 and January 28, 2024, respectively.
+The amount of unsatisfied performance obligations for contracts with an original duration greater than one year was $
+1,734
+at January 26, 2025. The estimated revenue to be recognized by fiscal year follows: remainder of
+2025
+– $
+395
+,
+2026
+– $
+444
+,
+2027
+– $
+352
+,
+2028
+– $
+235
+,
+2029
+– $
+144
+,
+2030
+– $
+102
+, and
+later years
+– $
+62
+. As permitted, we elected only to disclose remaining performance obligations with an original contract duration greater than one year. The contracts with an expected duration of one year or less are for sales to dealers and retail customers for equipment, service parts, repair services, and certain telematics services.
+​
+(4)
+Other Comprehensive Income Items
+The after-tax components of accumulated other comprehensive income (loss) follow:
+​
+The following tables reflect amounts recorded in other comprehensive income (loss), as well as reclassifications out of other comprehensive income (loss).
+​
+​
+9
+​
+​
+​
+​
+​
+(5)
+Earnings Per Share
+A reconciliation of basic and diluted net income per share attributable to Deere & Company follows in millions, except per share amounts:
+​
+​
+10
+​
+(6)
+Pension and Other Postretirement Benefits
+We have several funded and unfunded defined benefit pension plans and other postretirement benefit (OPEB) plans. These plans cover U.S. employees and certain foreign employees.
+The components of net periodic pension and OPEB (benefit) cost consisted of the following:
+​
+​
+The components of net periodic pension and OPEB (benefit) cost excluding the service cost component are included in the line item “Other operating expenses.”
+During the first three months of 2025, we contributed and expect to contribute the following amounts to our pension and OPEB plans:
+​
+In the first quarter of 2025, a committee of our Board of Directors approved and a $
+520
+voluntary contribution was made to a U.S. OPEB plan. This contribution increased plan assets.
+​
+​
+11
+​
+(7)
+Segment Data
+Information relating to operations by operating segment follows:
+Operating profit for PPA, SAT, and CF is income from continuing operations before corporate expenses, certain external interest expenses, certain foreign exchange gains and losses, and income taxes. Operating profit of financial services includes the effect of interest expense and foreign exchange gains and losses. Reconciling items to net income are primarily corporate expenses, certain interest income and expenses, certain foreign exchange gains and losses, pension and OPEB benefit (cost) amounts excluding the service cost component, and net income attributable to noncontrolling interests.
+​
+(8)
+Financing Receivables
+We monitor the credit quality of financing receivables based on delinquency status, defined as follows:
+12
+​
+The credit quality and aging analysis of retail notes, financing leases, and revolving charge accounts (collectively, retail customer receivables) by year of origination was as follows:
+​
+​
+​
+13
+​
+​
+​
+The credit quality and aging analysis of wholesale receivables was as follows:
+​
+​
+​
+An analysis of the allowance for credit losses and investment in financing receivables follows:
+​
+14
+​
+​
+The allowance for credit losses on retail notes and financing lease receivables increased in the first quarter of 2025, primarily due to higher expected losses as a result of elevated delinquencies and market conditions.
+During the third quarter of 2024, we determined that the financial services business in Brazil met the held for sale criteria. The receivables in Brazil were reclassified to “Assets held for sale.” The associated allowance for credit losses was reversed and a valuation allowance for the “Assets held for sale” was recorded (see Note 20).
+Modifications
+We occasionally grant contractual modifications to customers experiencing financial difficulties. Before offering a modification, we evaluate the ability of the customer to meet the modified payment terms. Modifications offered include payment deferrals, term extensions, or a combination thereof. Finance charges continue to accrue during the deferral or extension period with the exception of modifications related to bankruptcy proceedings. Our allowance for credit losses incorporates historical loss information, including the effects of loan modifications with customers. Therefore, additional adjustments to the allowance are generally not recorded upon modification of a loan.
+The ending amortized cost of financing receivables modified with borrowers experiencing financial difficulty during the first quarter ended January 26, 2025 and January 28, 2024 were $
+28
+and $
+17
+, respectively. These modifications represented
+0.06
+% and
+0.03
+% of our financing receivable portfolio for the same periods, respectively.
+The financial effects of payment deferrals with borrowers experiencing financial difficulty resulted in a weighted average payment deferral of
+8 months
+to the modified contracts. Term extensions provided to borrowers experiencing financial difficulty added a weighted average of
+12 months
+to the modified contracts. Additionally, modifications with a combination of both payment deferrals and term extensions resulted in a weighted average payment deferral of
+4 months
+and a weighted average term extension of
+6 months
+.
+We continue to monitor the performance of financing receivables that are modified with borrowers experiencing financial difficulty.
+The ending amortized cost and performance of financing receivables modified during the prior twelve months ended January 26, 2025 and January 28, 2024 were as follows:
+​
+*
+In accordance with the adoption date of the accounting modification guidance, this period includes receivables modified during the prior three months.
+Defaults and subsequent write-offs of financing receivables modified in the prior twelve months were not significant during the three months ended January 26, 2025 and January 28, 2024. In addition, at January 26, 2025, commitments to provide additional financing to these customers were not significant.
+15
+​
+(9)
+Securitization of Financing Receivables
+Our funding strategy includes receivable securitizations, which allows us to receive cash for financing receivables immediately. While these securitization programs are administered in various forms, they are accomplished in the following basic steps:
+As part of step 1, these receivables are legally isolated from the claims of our general creditors. This ensures cash receipts from the financing receivables are accessible to pay back securitization program investors. The structure of these transactions does not meet the accounting criteria for a sale of receivables. As a result, they are accounted for as a secured borrowing. The receivables and borrowings remain on our balance sheet and are separately reported as “Financing receivables securitized – net” and “Short-term securitization borrowings,” respectively.
+The components of securitization programs were as follows:
+​
+​
+(10)
+Inventories
+A majority of inventories owned by us are valued at cost on the “last-in, first-out” (LIFO) basis.
+If all inventories valued on a LIFO basis had been valued on a “first-in, first-out” (FIFO) basis, the estimated inventories by major classification would have been as follows:
+​
+​
+(11)
+Goodwill and Other Intangible Assets – Net
+The changes in amounts of goodwill by operating segments were as follows. There were no accumulated goodwill impairment losses.
+​
+16
+​
+The components of other intangible assets were as follows:
+​
+The amortization of other intangible assets in the first quarter of 2025 and 2024 was $
+41
+and $
+42
+, respectively. The estimated amortization expense for the next five years is as follows: remainder of 2025 –
+$
+102
+, 2026 –
+$
+125
+, 2027 –
+$
+118
+, 2028 –
+$
+85
+, 2029 –
+$
+73
+, and 2030 –
+$
+70
+.
+​
+(12)
+Short-Term Borrowings
+Short-term borrowings were as follows:
+​
+​
+(13)
+Accounts Payable and Accrued Expenses
+Accounts payable and accrued expenses consisted of the following:
+​
+Amounts are presented net of eliminations, which primarily consist of dealer sales incentives with a right of set-off against trade receivables of $
+1,901
+at January 26, 2025, $
+2,121
+at October 27, 2024, and $
+2,410
+at January 28, 2024. Other eliminations were made for accrued taxes and other accrued expenses.
+​
+17
+​
+(14)
+Long-Term Borrowings
+Long-term borrowings consisted of:
+​
+Medium-term notes due through 2034 are primarily offered by prospectus and issued at fixed and variable rates. The principal balances of the medium-term notes were $
+35,770
+, $
+37,141
+, and $
+31,808
+at January 26, 2025, October 27, 2024, and January 28, 2024, respectively. All outstanding notes and debentures are senior unsecured borrowings and rank equally with each other.
+​
+(15)
+Leases – Lessor
+We lease equipment manufactured or sold by us through John Deere Financial. Sales-type and direct financing leases are reported in “Financing receivables – net.” Operating leases are reported in “Equipment on operating leases – net.”
+Lease revenues earned by us follow:
+​
+18
+​
+(16)
+Commitments and Contingencies
+A standard warranty is provided as assurance that the equipment will function as intended. The standard warranty period varies by product and region. At the time a sale is recognized, we record an estimate of future warranty costs based on historical claims rate experience and estimated population under warranty.
+The reconciliation of the changes in the warranty liability follows:
+​
+The costs for extended warranty programs are recognized as incurred.
+In certain international markets, we provide guarantees to banks for the retail financing of John Deere equipment. As of January 26, 2025, the notional value of these guarantees was $
+128
+. We may repossess the equipment collateralizing the receivables. At January 26, 2025, the accrued losses under these guarantees were not material.
+We also had other miscellaneous contingent liabilities totaling approximately $
+115
+at January 26, 2025. The accrued liability for these contingencies was $
+25
+at January 26, 2025.
+At January 26, 2025, we had commitments of approximately $
+490
+for the construction and acquisition of property and equipment. Also at January 26, 2025, we had restricted assets of $
+259
+, classified as “Other assets.”
+We are subject to various unresolved legal actions. The accrued losses on these matters were not material at January 26, 2025. We believe the reasonably possible range of losses for these unresolved legal actions would not have a material effect on our consolidated financial statements. The most prevalent legal claims relate to product liability (including asbestos-related liability), employment, patent, trademark, and antitrust matters (including class action litigation).
+(17)
+Fair Value Measurements
+The fair values of financial instruments that do not approximate the carrying values were as follows. Long-term borrowings exclude finance lease liabilities.
+Fair value measurements above were Level 3 for all financing receivables and Level 2 for all borrowings.
+Fair values of the financing receivables that were issued long-term were based on the discounted values of their related cash flows at interest rates currently being offered by us for similar financing receivables. The fair values of the remaining financing receivables approximated the carrying amounts.
+Fair values of long-term borrowings and short-term securitization borrowings were based on current market quotes for identical or similar borrowings and credit risk, or on the discounted values of their related cash flows at current market interest rates.
+19
+​
+Assets and liabilities measured at fair value on a recurring basis follow, excluding our cash equivalents, which were carried at a cost that approximates fair value and consisted of money market funds and time deposits.
+​
+​
+The mortgage-backed securities are primarily issued by U.S. government sponsored enterprises.
+The contractual maturities of available-for-sale debt securities at January 26, 2025 follow:
+​
+Actual maturities may differ from contractual maturities because some securities may be called or prepaid. Mortgage-backed securities contain prepayment provisions and are not categorized by contractual maturity.
+Fair value, nonrecurring Level 3 measurements from impairments and other adjustments were as follows:
+​
+*    The gain on “Assets held for sale” in the first quarter of 2025 represents a reversal of prior period valuation allowance loss, not in excess of cumulative valuation allowance recorded on “Assets held for sale.”
+The following is a description of the valuation methodologies we use to measure certain financial instruments on the balance sheets at fair value:
+Marketable securities
+–
+The portfolio of investments is valued on a market approach (matrix pricing model) in which all significant inputs are observable or can be derived from or corroborated by observable market data such as interest rates, yield curves, volatilities, credit risk, and prepayment speeds. Funds are valued using the fund’s net asset value, based on the fair value of the underlying securities. International debt securities are valued using quoted prices for identical assets in inactive markets.
+20
+​
+Derivatives
+–
+Our derivative financial instruments consist of interest rate contracts (swaps), foreign currency exchange contracts (futures, forwards, and swaps), and cross-currency interest rate contracts (swaps). The portfolio is valued based on an income approach (discounted cash flow) using market observable inputs, including swap curves and both forward and spot exchange rates for currencies.
+Deferred consideration – The total purchase price consideration for three former Deere-Hitachi joint venture factories acquired in 2022 included supply agreement price increases beyond inflation adjustments. This deferred consideration will be paid as we purchase Deere-branded excavators, components, and service parts from Hitachi under the agreement with a duration that ranges from
+5
+to
+30 years
+. The deferred consideration balance is reduced as purchases are made and valued on a discounted cash flow approach using market rates.
+Other assets (Investment in unconsolidated affiliates) – Other than temporary impairments of investments are measured as the difference between the implied fair value and the carrying value of the investments. The estimated fair value for privately held entities is determined by an income approach (discounted cash flows), which includes inputs such as interest rates and margins.
+Assets held for sale – The disposal group was measured at the lower of the carrying amount or fair value less cost to sell. Fair value was based on the probable sale price. The inputs included estimates of the final sale price (see Note 20).
+(18)
+Derivative Instruments
+Fair values of our derivative instruments and the associated notional amounts were as follows. Assets are recorded in “Other assets,” while liabilities are recorded in “Accounts payable and accrued expenses.”
+​
+The amounts recorded in the consolidated balance sheets related to borrowings designated in fair value hedging relationships were as follows. Fair value hedging adjustments are included in the carrying amount of the hedged item.
+​
+21
+​
+The classification and gains (losses) including accrued interest expense related to derivative instruments on the statements of consolidated income consisted of the following:
+​
+Certain of our derivative agreements contain credit support provisions that may require us to post collateral based on the size of the net liability positions and credit ratings. The aggregate fair value of all derivatives with credit-risk-related contingent features that were in a net liability position at January 26, 2025, October 27, 2024, and January 28, 2024 was $
+707
+, $
+562
+, and $
+691
+, respectively. In accordance with the limits established in these agreements, we posted $
+436
+, $
+245
+, and $
+368
+of cash collateral at January 26, 2025, October 27, 2024, and January 28, 2024, respectively. In addition, we paid $
+8
+of collateral that was outstanding at January 26, 2025, October 27, 2024, and January 28, 2024 to participate in an international futures market to hedge currency exposure, not included in the following table.
+Derivatives are recorded without offsetting for netting arrangements or collateral. The impact on the derivative assets and liabilities related to netting arrangements and collateral follows:
+​
+​
+​
+​
+​
+(19)
+Share-Based Awards
+We are authorized to grant shares for equity incentive awards. The outstanding shares authorized were
+13.7
+million at January 26, 2025. In December 2024, we granted stock options to employees for the purchase of
+168
+thousand shares of common stock at an exercise price of $
+448.03
+per share and a binomial
+lattice model
+fair value of $
+116.27
+per share at the grant date. At January 26, 2025, options for
+1.4
+million shares were outstanding with a weighted-average exercise price of $
+291.97
+per share.
+22
+​
+During the three months ended January 26, 2025, the restricted stock units (RSUs) granted in thousands of shares and the weighted-average grant date fair values, using the closing price of our common stock on the grant date, in dollars follow:
+​
+​
+​
+(20)
+Special Items
+Discrete Tax Items
+In the first quarter of 2025, we recorded favorable net discrete tax items primarily due to tax benefits of $
+110
+related to the realization of foreign net operating losses from the consolidation of certain subsidiaries and $
+53
+from an adjustment to an uncertain tax position of a foreign subsidiary.
+Banco John Deere S.A.
+In 2024, we entered into a joint venture agreement with a Brazilian bank, Banco Bradesco S.A. (Bradesco), for Bradesco to invest and become
+50
+% owner of our wholly-owned subsidiary in Brazil, Banco John Deere S.A. (BJD). BJD is included in our financial services segment and finances retail and wholesale loans for agricultural, construction, and forestry equipment. The transaction is intended to reduce our incremental risk as we continue to grow in the Brazilian market. In February 2025, Bradesco contributed capital equal to our equity investment in BJD. We retained a
+50
+% equity interest in BJD and will report the results of the joint venture as an equity investment in unconsolidated affiliates.
+The BJD business was reclassified as held for sale in 2024. At January 26, 2025, the valuation allowance on “Assets held for sale” decreased to $
+65
+, resulting in a pretax and
+after-tax gain
+(reversal of previous losses) of $
+32
+recorded in “Selling, administrative and general expenses” in the three months ended January 26, 2025 and presented in “Impairments and other adjustments” in the statements of consolidated cash flows.
+The major classes of the total consolidated assets and liabilities of BJD that were classified as held for sale and liabilities of BJD to other intercompany parties were as follows:
+*    Includes $
+1
+restricted cash balance.
+(
+21)
+Subsequent Events
+In February 2025, we completed the transaction with Bradesco (see Note 20) for the sale of
+50
+% ownership in BJD. Bradesco contributed capital equal to our equity investment in BJD. We retained a
+50
+% equity interest in BJD and will report the results of the joint venture as an equity investment in unconsolidated affiliates.
+On
+February 26, 2025
+, a quarterly dividend of $
+1.62
+per share was declared at the Board of Directors meeting, payable on
+May 8, 2025
+, to stockholders of record on
+March 31, 2025
+.
+​
+​
+​
+23
+​
+Item 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+RESULTS OF OPERATIONS
+All amounts are presented in millions of dollars unless otherwise specified.
+OVERVIEW
+Organization
+Deere & Company is a global leader in the production of agricultural, turf, construction, and forestry equipment and solutions. John Deere Financial provides financing for John Deere equipment, parts, services, and other input costs customers need to run their operations. Our operations are managed through the production and precision agriculture (PPA), small agriculture and turf (SAT), construction and forestry (CF), and financial services operating segments. References to “equipment operations” include PPA, SAT, and CF, while references to “agriculture and turf” include both PPA and SAT.
+Trends and Economic Conditions
+Industry Sales Outlook for Fiscal Year 2025
+Agriculture and Turf
+Construction and Forestry
+Company Trends
+Customers seek to improve profitability, productivity, and sustainability through integrating technology into their operations. Deeper integration of technology into equipment is a persistent market trend. These technologies are incorporated into products within each of our operating segments. We expect this trend to persist for the foreseeable future. Our Smart Industrial Operating Model and Leap Ambitions are intended to capitalize on this market trend. Engaged acres are an indicator we use to understand customer utilization of our technology. We are investing in a Solutions as a Service business model to increase technology adoption and utilization by our customers. Solutions as a Service products did not represent a significant percentage of our revenues.
+Company Outlook for 2025
+Sales volumes are expected to decline in 2025 compared to 2024 due to reduced demand. We are uncertain of the impact potential import tariffs by the U.S. and retaliatory actions taken by other countries could have on our outlook due to the rapidly evolving environment.
+Agriculture and Turf Outlook for 2025
+24
+​
+Construction and Forestry Outlook for 2025
+Financial Services Outlook for 2025
+Additional Trends
+Agricultural Market Business Cycle.
+The agricultural market is affected by various factors including commodity prices, acreage planted, crop yields, government policies, and uncertainty in macroeconomic trends. These factors affect farmers’ income and sentiment which may result in lower demand for equipment. In 2025, we expect to continue experiencing the following effects due to unfavorable market conditions: lower sales volumes, higher sales incentives, and elevated receivable write-offs and expected credit losses.
+Interest Rates.
+While interest rates in the U.S. began to decrease in the fourth quarter of 2024, they remain elevated. Higher rates impact us in several ways, primarily affecting the demand for our products and financing spreads for the financial services operations. The markets for our agriculture, turf, and construction products are negatively impacted by elevated interest rates and their effect on borrowing costs for our customers
+.
+Foreign Exchange Rates.
+During the first quarter of 2025, the U.S. dollar strengthened against the primary currencies in which we conduct business overseas. A stronger U.S. dollar is expected to have an unfavorable impact on our fiscal year 2025 financial results. We utilize foreign currency derivatives that are not designated to mitigate the impact of currency fluctuations on our cash flow, which resulted in favorable foreign exchange gains for the quarter. These derivatives are limited in duration, leaving us exposed to the long-term impact of currency fluctuations on income.
+Changes in the agricultural market business cycle, interest rates, and foreign exchange rates are driven by factors outside of our control, and as a result we cannot reasonably foresee when these conditions will fully subside.
+Legal Proceeding
+–
+On January 15, 2025, the Federal Trade Commission (FTC), along with the Attorneys General of the States of Illinois and Minnesota filed a lawsuit against us in the United States District Court for the Northern District of Illinois Western Division. The Attorneys General of the States of Arizona, Michigan, and Wisconsin have since joined the lawsuit. The lawsuit alleges monopolization and unfair competition in violation of federal and state antitrust laws. Plaintiffs seek a permanent injunction and other equitable relief to allow owners of our equipment, as well as independent repair providers, access to our repair tools and any other repair resources available to authorized John Deere dealers. At this stage, we are unable to estimate the potential impact on our business.
+Other Items of Concern and Uncertainties –
+Other items that could impact our results are:
+25
+​
+consolidated results – 2025 Compared with 2024
+​
+Net sales and revenues decreased for the quarter primarily due to lower sales volumes. Net income and diluted EPS decreased driven by lower sales. The discussion of net sales and operating profit is included in the Business Segment Results below. Net income was impacted by special items. See Note 20 for additional details.
+An explanation of the cost of sales to net sales ratio and other significant statement of consolidated income changes follows:
+​
+26
+​
+Business Segment Results – 2025 compared with 2024
+Production and precision agriculture sales decreased for the quarter as a result of lower shipment volumes (primarily in the U.S., Canada, and Europe) driven by overall market uncertainty. Operating profit decreased primarily due to lower shipment volumes, partially offset by lower selling, administrative and general expenses and research and development expenses driven by a decrease in employee profit-sharing incentives, decreased production costs from lower material costs, and price realization.
+Production & Precision Agriculture Operating Profit
+First Quarter 2025 Compared to First Quarter 2024
+​
+27
+​
+​
+Small agriculture and turf sales decreased for the quarter due to lower shipment volumes (primarily in the U.S., Canada, and Europe) driven mainly by market uncertainty and high interest rates. Operating profit decreased primarily as a result of lower shipment volumes partially offset by lower production costs, driven by a decrease in material costs and employee profit-sharing incentives.
+Small Agriculture & Turf Operating Profit
+First Quarter 2025 Compared to First Quarter 2024
+​
+28
+​
+​
+Construction and forestry sales were lower for the quarter due to decreased U.S. shipment volumes, driven by planned underproduction efforts to reduce field inventory and competitive pressures. Operating profit decreased primarily due to lower shipment volumes, unfavorable price realization, and higher selling, administrative and general expenses in part due to marketing events.
+Construction & Forestry Operating Profit
+First Quarter 2025 Compared to First Quarter 2024
+​
+​
+​
+​
+The average balance of receivables and leases financed was 3% lower in the first three months of 2025, compared with the same period last year, primarily due to the reclassification of the assets of Banco John Deere S.A. (BJD) to “Assets held for sale” (see Note 20). Excluding the impact of this reclassification, revenue increased due to higher average portfolio balances and financing rates. Net income for the quarter was affected by the decreased valuation allowance on BJD “Assets held for sale” (see Note 20). Excluding the impact of this special item, net income decreased due to a higher provision for credit losses, partially offset by lower selling, administrative and general expenses.
+​
+29
+​
+Critical Accounting Estimates
+See our critical accounting estimates discussed in the Management’s Discussion and Analysis of the most recently filed Annual Report on Form 10-K. There have been no material changes to these policies.
+CAPITAL RESOURCES AND LIQUIDITY – 2025 compared with 2024
+We have access to global markets at a reasonable cost. Sources of liquidity include:
+We closely monitor our cash requirements. Based on the available sources of liquidity, we expect to meet our funding needs in the short term (next 12 months) and long term (beyond 12 months). We are forecasting lower operating cash flows from equipment operations in 2025 compared with 2024 driven by a decrease in net income adjusted for non-cash provisions and a lower reduction in inventories in 2025 compared with prior period.
+We operate in multiple industries, which have unique funding requirements. The equipment operations are capital intensive. Historically, these operations have been subject to seasonal variations in financing requirements for inventories and receivables from dealers.
+The financial services operations rely on their ability to raise substantial amounts of funds to finance their receivable and lease portfolios. BJD assets and liabilities were reclassified to held for sale in the third quarter of 2024 and maintain that classification in the first quarter of 2025 (see Note 20); they are not included within balances at year-end 2024 or at the end of the first quarter of 2025.
+Key metrics are provided in the following table:
+The increase in unused credit lines at January 26, 2025 compared to October 27, 2024 relates to a decrease in commercial paper outstanding.
+There have been no material changes to the contractual obligations and other cash requirements identified in our most recently filed Annual Report on Form 10-K.
+Cash Flows
+Cash outflows from consolidated operating activities in the first three months of 2025 were $1,132. This resulted mainly from the payout of employee profit-sharing incentives, an increase in inventories, and a reduction in dealer sales incentive accruals, partially offset by net income adjusted for non-cash provisions. Cash inflows from investing activities were $1,416 in the first three months of this year. The primary drivers were collections of receivables
+30
+​
+(excluding receivables related to sales) exceeding the cost of receivables acquired, partially offset by purchases of property and equipment and a change in collateral on derivatives – net. Cash outflows from financing activities were $923 in the first three months of 2025 due to repurchases of common stock, dividends paid, and lower borrowings. Cash returned to shareholders was $844 in the first three months of 2025. Cash, cash equivalents, and restricted cash decreased $726 during the first three months of this year.
+Key Metrics and Balance Sheet Changes
+Trade Accounts and Notes Receivable.
+Trade accounts and notes receivable arise from sales of goods to customers. Trade receivables decreased $395 during the first three months of 2025, and decreased $2,864 compared to a year ago, both due to lower sales. The percentage of total worldwide trade receivables outstanding for periods exceeding 12 months was 6% at January 26, 2025, 6% at October 27, 2024, and 1% at January 28, 2024.
+Financing Receivables and Equipment on Operating Leases.
+Financing receivables and equipment on operating leases consist of retail notes originated in connection with financing of new and used equipment, operating leases, revolving charge accounts, sales-type and direct financing leases, and wholesale notes. Financing receivables and equipment on operating leases decreased $3,673 during the first quarter of 2025, primarily due to seasonal payments and lower retail customer receivables and dealer inventories, and decreased $49 in the past 12 months due to reclassification of BJD financing receivables as “Assets held for sale.” Excluding this, financing receivables increased $2,622 due to increased dealer inventories and retail customer receivables. Total acquisition volumes of financing receivables and equipment on operating leases were 22% lower in the first three months of 2025, compared with the same period last year, as volumes of wholesale notes, retail notes, and operating leases were lower, while revolving charge accounts were higher compared to the same period last year.
+Inventories.
+Inventories increased by $651 during the first three months, primarily due to a seasonal increase. Inventories decreased $1,193 compared to a year ago due to lower forecasted demand and inventory management efforts. A majority of these inventories are valued on the last-in, first-out (LIFO) method.
+Property and Equipment
+. Property and equipment cash expenditures in the first three months of 2025 were $352, compared with $362 in the same period last year. Capital expenditures in 2025 are estimated to be approximately $1,600.
+Accounts Payable and Accrued Expenses.
+Accounts payable and accrued expenses decreased by $2,381 in the first three months of 2025, primarily due to a decrease in accrued expenses associated with employee benefits, dealer sales discounts, and taxes. Accounts payable and accrued expenses decreased $1,199 compared to a year ago, due to a decrease in accounts payable associated with trade payables and a decrease in accrued expenses associated with employee benefits.
+Borrowings.
+Total external borrowings decreased by $812 in the first three months of 2025 and increased $1,215 compared to a year ago, generally corresponding with the level of the receivable and lease portfolio, as well as other working capital requirements.
+John Deere Capital Corporation (Capital Corporation), a U.S. financial services subsidiary, has a revolving warehouse facility to utilize bank conduit facilities to securitize retail notes (see Note 9). The facility was renewed in November 2024 with an expiration in November 2025 and with an increase in the total capacity or “financing limit” from $2,000 to $2,500. At January 26, 2025, $1,917 of securitization borrowings were outstanding under the facility. At the end of the contractual revolving period, unless the banks and Capital Corporation agree to renew, Capital Corporation would liquidate the secured borrowings over time as payments on the retail notes are collected.
+In the first three months of 2025, the financial services operations issued $725 and retired $1,145 of retail note securitization borrowings, which are presented in “Net proceeds (payments) in total short-term borrowings (original maturities three months or less).”
+Lines of Credit.
+We also have access to bank lines of credit with various banks throughout the world.
+Worldwide lines of credit totaled $11,061 at January 26, 2025, consisting primarily of:
+At January 26, 2025, $7,793 of these worldwide lines of credit were unused. For the purpose of computing unused credit lines, commercial paper and short-term bank borrowings were considered to constitute utilization. These credit agreements require Capital Corporation and other parts of our business to maintain certain performance metrics and liquidity targets. All requirements in the credit agreements have been met during the periods included in the financial statements.
+31
+​
+Debt Ratings
+. To access public debt capital markets, we rely on credit rating agencies to assign short-term and long-term credit ratings to our debt securities as an indicator of credit quality for fixed income investors. A security rating is not a recommendation by the rating agency to buy, sell, or hold our securities. A credit rating agency may change or withdraw ratings based on its assessment of our current and future ability to meet interest and principal repayment obligations. Each agency’s rating should be evaluated independently of any other rating. Lower credit ratings generally result in higher borrowing costs, including costs of derivative transactions, reduced access to debt capital markets, and may adversely impact our liquidity. The senior long-term and short-term debt ratings and outlook currently assigned to unsecured company securities by the rating agencies engaged by us are as follows:
+​
+FORWARD-LOOKING STATEMENTS
+Certain statements contained herein, including in the sections entitled “Overview” and “Condensed Notes to Interim Consolidated Financial Statements” relating to future events, expectations, and trends constitute “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995 and involve factors that are subject to change, assumptions, risks, and uncertainties that could cause actual results to differ materially. Some of these risks and uncertainties could affect all lines of our operations generally while others could more heavily affect a particular line of business.
+Forward-looking statements are based on currently available information and current assumptions, expectations, and projections about future events and should not be relied upon. Except as required by law, we expressly disclaim any obligation to update or revise our forward-looking statements. Many factors, risks, and uncertainties could cause actual results to differ materially from these forward-looking statements. Among these factors are risks related to:
+​
+32
+​
+Further information concerning us and our businesses, including factors that could materially affect our financial results, is included in our other filings with the SEC (including, but not limited to, the factors discussed in Item 1A. “Risk Factors” of our most recent Annual Report on Form 10-K and this Quarterly Report on Form 10-Q). There also may be other factors that we cannot anticipate or that are not described herein because we do not currently perceive them to be material.
+​
+SUPPLEMENTAL CONSOLIDATING DATA
+The supplemental consolidating data presented on the subsequent pages is presented for informational purposes. Equipment operations represent the enterprise without financial services. Equipment operations include production and precision agriculture operations, small agriculture and turf operations, construction and forestry operations, and other corporate assets, liabilities, revenues, and expenses not reflected within financial services. Transactions between the equipment operations and financial services have been eliminated to arrive at the consolidated financial statements.
+Equipment operations and financial services participate in different industries. Equipment operations primarily generate earnings and cash flows by manufacturing and selling equipment, service parts, and technology solutions to dealers and retail customers. Financial services finance sales and leases by dealers of new and used equipment that is largely manufactured by equipment operations. Those earnings and cash flows generally are the difference between the finance income received from customer payments less interest expense, and depreciation on equipment subject to an operating lease. The two businesses are capitalized differently and have separate performance metrics. The supplemental consolidating data is also used by management due to these differences.
+​
+33
+​
+​
+​
+​
+1
+Elimination of intercompany interest income and expense.
+2
+Elimination of equipment operations’ margin from inventory transferred to equipment on operating leases.
+3
+Elimination of income and expenses between equipment operations and financial services related to intercompany guarantees of investments in certain international markets.
+4
+Elimination of intercompany service revenues and fees.
+5
+Elimination of financial services’ lease depreciation expense related to inventory transferred to equipment on operating leases.
+​
+​
+34
+​
+​
+​
+6
+Elimination of receivables / payables between equipment operations and financial services.
+7
+Primarily reclassification of sales incentive accruals on receivables sold to financial services.
+8
+Reclassification of net pension assets / liabilities.
+9
+Reclassification of deferred tax assets / liabilities in the same taxing jurisdictions.
+10
+Elimination of financial services’ equity.
+35
+​
+​
+​
+11
+Elimination of depreciation on leases related to inventory transferred to equipment on operating leases.
+12
+Reclassification of share-based compensation expense.
+13
+Elimination of dividends from financial services to the equipment operations, which are included in the equipment operations operating activities.
+14
+Primarily reclassification of receivables related to the sale of equipment.
+15
+Reclassification of direct lease agreements with retail customers.
+16
+Reclassification of sales incentive accruals on receivables sold to financial services.
+17
+Elimination of change in investment from equipment operations to financial services.
+​
+36
+​
+Item 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+See our most recently filed Annual Report on Form 10-K (Part II, Item 7A). There have been no material changes in this information.
+​
+Item 4.
+CONTROLS AND PROCEDURES
+Our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act)) were effective as of January 26, 2025, based on the evaluation of these controls and procedures required by Rule 13a-15(b) or 15d-15(b) of the Exchange Act. During the first quarter of 2025, there were no changes that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+​
+PART II.  OTHER INFORMATION
+​
+Item 1.
+Legal Proceedings
+On January 15, 2025, the Federal Trade Commission (FTC), along with the Attorneys General of the States of Illinois and Minnesota, filed a lawsuit against us in the United States District Court for the Northern District of Illinois Western Division. The Attorneys General of the States of Arizona, Michigan, and Wisconsin have since joined the lawsuit. The lawsuit alleges monopolization and unfair competition in violation of federal and state antitrust laws. Plaintiffs seek a permanent injunction and other equitable relief to allow owners of our equipment, as well as independent repair providers, access to our repair tools and any other repair resources available to authorized John Deere dealers. At this stage, we are unable to predict the outcome or impact of this matter on our business and financial results.
+In addition to the above, the most prevalent legal claims relate to product liability (including asbestos-related liability), employment, patent, trademark, and antitrust matters (including class action litigation).
+​
+Item 1A.
+Risk Factors
+There are no material changes to the risk factors set forth in Part I, Item 1A, Risk Factors in our Annual Report on Form 10-K for the year ended October 27, 2024, except as set forth below.
+Legal proceedings, disputes and government inquiries and investigations could harm our business, financial condition, reputation, and brand.
+We routinely are a party to claims and legal actions and the subject of government inquiries and investigations, the most prevalent of which relate to product liability (including asbestos-related liability), employment, patent, trademark, and antitrust matters. For example, we were recently the subject of a previously disclosed Federal Trade Commission (FTC) investigation into our information security practices and statements, which was closed by the FTC without action. The defense of lawsuits and government inquiries and investigations has resulted and may result in expenditures of significant financial resources and the diversion of management’s time and attention away from business operations. Adverse decisions in one or more of these claims, actions, inquiries, or investigations could require us to pay substantial damages or fines, undertake service actions, initiate recall campaigns, or take other costly actions. It is therefore possible that legal judgments or investigations could give rise to expenses that are not covered, or not fully covered, by our insurance programs and could affect our financial position and results.
+We are currently subject to a consolidated multidistrict class action lawsuit in the Northern District of Illinois alleging that we have engaged in attempted monopolization, exclusionary conduct, and restraint of the market for repair services for John Deere brand agricultural equipment by limiting repair resources only to our authorized technicians or independent authorized John Deere dealers. In addition, the FTC, along with the Attorneys General of the States of Arizona, Illinois, Michigan, Minnesota, and Wisconsin, filed a lawsuit against us in the United States District Court for the Northern District of Illinois Western Division alleging similar claims. We are currently unable to predict the outcome of these matters.
+​
+37
+​
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Purchases of our common stock during the first quarter of 2025 were as follows:
+Sales of Unregistered Equity Securities
+During the first quarter of 2025, we issued 145 deferred stock units under the Deere & Company Nonemployee Director Stock Ownership Plan (“NEDSOP”) to a nonemployee director for their service on our Board of Directors. The deferred stock units convert to shares of common stock on a one-for-one basis following a termination of service as described in the plan. Deferred stock units and shares of common stock issued under the NEDSOP are exempt from registration pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended, and Rule 506 of the SEC’s Regulation D thereunder.
+On January 2, 2025, we distributed 1,386 shares of common stock to a participant account under the 2012 NEDSOP.
+​
+Item 3.
+Defaults Upon Senior Securities
+None.
+​
+Item 4.
+Mine Safety Disclosures
+Not applicable.
+​
+Item 5.
+Other Information
+Director and Executive Officer Trading Arrangements
+N
+o
+n
+e
+.
+​
+38
+​
+Item 6.
+Exhibits
+Certain instruments relating to long-term borrowings constituting less than 10% of the registrant’s total assets are not filed as exhibits herewith pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K. The registrant will furnish copies of such instruments to the Commission upon request of the Commission.
+*
+Incorporated by reference.
+​
+​
+39
+​
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+40

@@ -1,0 +1,15 @@
+This committee oversees cybersecurity matters, as well as technology risk management frameworks and methodologies, and monitors their effectiveness. This committee is co-chaired by our CISO and our chief technology officer, and reports to the Firmwide Enterprise Risk Committee. To assist the Firmwide Technology Risk Committee in carrying out its mandate, the Firmwide Artificial Intelligence Risk and Controls Committee, which oversees risks associated with the use of AI, reports to the Firmwide Technology Risk Committee
+.
+The Digital Risk Office Steering Group oversees Engineering risk decisions, monitors control performance and reviews approaches to comply with current and emerging regulation applicable to Engineering. This steering group is chaired by our chief digital risk officer and reports to the Firmwide Technology Risk Committee.
+Our CISO, senior management within Technology Risk and Operational Risk, as well as management personnel overseeing the Cybersecurity Program, all have substantial relevant expertise in the areas of information security and cybersecurity risk management.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Model Risk Management
+Overview
+Model risk is the potential for adverse consequences from decisions made based on model outputs that may be incorrect or used inappropriately. We rely on quantitative models across our business activities primarily to value certain financial assets and liabilities, to monitor and manage our risk, and to measure and monitor our regulatory capital.
+Model Risk, which is part of our second line of defense, is independent of our model developers, model owners and model users, and reports to our chief risk officer, has primary responsibility for assessing, monitoring and managing our model risk by providing firmwide oversight and challenge across our global businesses.
+Our model risk management framework is managed through a governance structure and risk management controls, which encompass standards designed to ensure we maintain a comprehensive model inventory, including risk assessment and classification, sound model development practices, independent review and model-specific usage controls. The Firmwide Model Risk Control Committee oversees our model risk management framework.
+Model Review and Validation Process
+Model Risk consists of quantitative professionals who perform an independent review, validation and approval of our models. This review includes an analysis of the model documentation, independent testing, an assessment of the appropriateness of the methodology used, and verification of compliance with model development and implementation standards.
+We regularly refine and enhance our models to reflect changes in market or economic conditions and our business mix. All models are reviewed on an annual basis, and new models or significant changes to existing models and their assumptions are approved prior to implementation.
+The model validation

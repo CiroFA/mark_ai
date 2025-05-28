@@ -1,0 +1,49 @@
+statement schedule required to be filed by Item 8 of this Form:
+All other schedules are omitted as the required matter is not present, the amounts are not significant or the information is shown in the Consolidated Financial Statements or the notes thereto.
+3.
+Exhibits:
+17
+Table of Contents
+18
+Table of Contents
+19
+Table of Contents
+20
+Table of Contents
+21
+Table of Contents
+22
+Table of Contents
+(1)    Management contract or compensatory plan or arrangement.
+(2)    The Performance Graphs, set forth on page 122 of IBM’s 2024 Annual Report to Stockholders, are deemed to be furnished but not filed.
+Item 16. Form 10-K Summary:
+None.
+23
+Table of Contents
+1
+of 2
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Table of Contents
+2 of 2
+Board of Directors
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+ON FINANCIAL STATEMENT SCHEDULE
+To the Board of Directors and Stockholders of
+International Business Machines Corporation:
+Our audits of the consolidated financial statements referred to in our report dated February 25, 2025 appearing in the 2024 Annual Report to Stockholders of International Business Machines Corporation (which report and consolidated financial statements are incorporated by reference in this Annual Report on Form 10-K) also included an audit of the financial statement schedule listed in Item 15(a)(2) of this Form 10-K. In our opinion, this financial statement schedule presents fairly, in all material respects, the information set forth therein when read in conjunction with the related consolidated financial statements.
+/s/ PricewaterhouseCoopers LLP
+PricewaterhouseCoopers LLP
+New York, New York
+February 25, 2025
+Table of Contents
+SCHEDULE II
+INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+For the Years Ended December 31:
+(Dollars in Millions)
+(1) The majority of the write-offs during the period related to receivables which had been previously reserved.
+(2) Other includes reserves related to discontinued operations.
+Additions/(Deductions) to the allowances represent changes in estimates of unrecoverable amounts in receivables and inventory and are recorded to expense and cost accounts, respectively. Amounts are written-off when they are deemed unrecoverable by the company. Additions/(Deductions) to Revenue Based Provisions represent changes in estimated reductions to revenue, primarily as a result of revenue-related programs, including customer and business partner rebates. Write-offs for Revenue Based Provisions represent reductions in the provision due to amounts remitted to

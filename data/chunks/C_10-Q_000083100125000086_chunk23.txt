@@ -1,0 +1,31 @@
+corporate expenses and unallocated global operations and technology expenses and income taxes, as well as results of Corporate Treasury investment activities and discontinued operations.
+28
+(1)    See footnote 1 in “Results of Operations—Summary of Selected Financial Data” above for the description of a change in presentation.
+(2)    The key indicators for Asia Consumer also reflect the reclassification of loans and deposits to
+Other assets
+and
+Other liabilities
+under held-for-sale (HFS) accounting on Citi’s Consolidated Balance Sheet.
+NM  Not meaningful
+29
+1Q25 vs. 1Q24
+Net loss
+was $870 million, compared to a net loss of $477 million in the prior-year period, driven by lower revenues and higher cost of credit, partially offset by lower expenses and higher income tax benefits.
+All Other
+(managed basis) revenues decreased 39%, driven by lower revenues in Corporate/Other and Legacy Franchises (managed basis).
+Legacy Franchises (managed basis) revenues decreased 11%, due to lower revenues in Mexico Consumer/SBMM (Banamex) (managed basis) and Asia Consumer (managed basis).
+Mexico Consumer/SBMM (Banamex) (managed basis) revenues decreased 6%, driven by depreciation of the Mexican peso, partially offset by revenues from higher loan volumes in the retail banking and cards businesses, as well as higher fee revenues.
+Asia Consumer (managed basis) revenues decreased 46%, driven by the closed exits and wind-downs.
+Corporate/Other revenues decreased to $(176) million, compared to $557 million in the prior-year period, driven by lower net interest income and the impact of valuation adjustments on certain investments and positions.
+Expenses
+decreased 17%, primarily driven by a smaller FDIC special assessment and the absence of a restructuring charge versus the prior-year period (see Notes 17 and 9, respectively), as well as the reduction from the closed exits and wind-downs and the impact of Mexican peso depreciation.
+Provisions
+were $359 million, compared to $186 million in the prior-year period, driven by a net ACL build related to uncertainty and deterioration in the macroeconomic outlook in the current quarter, and higher net credit losses in the consumer loan portfolio in Mexico.
+For additional information on Citi’s ACL, see “Significant Accounting Policies and Significant Estimates” below.
+For additional information about trends, uncertainties and risks related to
+All Other
+’s (managed basis) future results, see “Executive Summary” above, “Managing Global Risk—Other Risks—Country Risk—Russia” and “Forward-Looking Statements” below and “Risk Factors” in Citi’s 2024 Form 10-K.
+30
+CAPITAL RESOURCES
+For additional information about capital resources, including Citi’s capital management, regulatory capital buffers, the stress testing component of capital planning and current regulatory capital standards and developments, see “Capital Resources” and “Risk Factors” in Citi’s 2024 Form 10-K.
+During the first quarter of 2025, Citi returned a total of $2.8

@@ -1,142 +1,1449 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
+hd-20241027
+0000354950
+2/2
+2024
+Q3
+false
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+hd:segment
+hd:reportableSegment
+xbrli:pure
+hd:reporting_unit
+hd:creditFacility
+hd:tranche
+0000354950
+2024-01-29
+2024-10-27
+0000354950
+2024-11-12
+0000354950
+2024-10-27
+0000354950
+2024-01-28
+0000354950
+2024-07-29
+2024-10-27
+0000354950
+2023-07-31
+2023-10-29
+0000354950
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:CommonStockMember
+2024-07-28
+0000354950
+us-gaap:CommonStockMember
+2023-07-30
+0000354950
+us-gaap:CommonStockMember
+2024-01-28
+0000354950
+us-gaap:CommonStockMember
+2023-01-29
+0000354950
+us-gaap:CommonStockMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:CommonStockMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:CommonStockMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:CommonStockMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:CommonStockMember
+2024-10-27
+0000354950
+us-gaap:CommonStockMember
+2023-10-29
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-28
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2023-07-30
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-28
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-29
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2024-10-27
+0000354950
+us-gaap:AdditionalPaidInCapitalMember
+2023-10-29
+0000354950
+us-gaap:RetainedEarningsMember
+2024-07-28
+0000354950
+us-gaap:RetainedEarningsMember
+2023-07-30
+0000354950
+us-gaap:RetainedEarningsMember
+2024-01-28
+0000354950
+us-gaap:RetainedEarningsMember
+2023-01-29
+0000354950
+us-gaap:RetainedEarningsMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:RetainedEarningsMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:RetainedEarningsMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:RetainedEarningsMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:RetainedEarningsMember
+2024-10-27
+0000354950
+us-gaap:RetainedEarningsMember
+2023-10-29
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-28
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-07-30
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-28
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-29
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-10-27
+0000354950
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-10-29
+0000354950
+us-gaap:TreasuryStockCommonMember
+2024-07-28
+0000354950
+us-gaap:TreasuryStockCommonMember
+2023-07-30
+0000354950
+us-gaap:TreasuryStockCommonMember
+2024-01-28
+0000354950
+us-gaap:TreasuryStockCommonMember
+2023-01-29
+0000354950
+us-gaap:TreasuryStockCommonMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:TreasuryStockCommonMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:TreasuryStockCommonMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:TreasuryStockCommonMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:TreasuryStockCommonMember
+2024-10-27
+0000354950
+us-gaap:TreasuryStockCommonMember
+2023-10-29
+0000354950
+2023-10-29
+0000354950
+2023-01-29
+0000354950
+us-gaap:CreditCardReceivablesMember
+2024-10-27
+0000354950
+us-gaap:CreditCardReceivablesMember
+2024-01-28
+0000354950
+hd:RebateReceivablesMember
+2024-10-27
+0000354950
+hd:RebateReceivablesMember
+2024-01-28
+0000354950
+us-gaap:TradeAccountsReceivableMember
+2024-10-27
+0000354950
+us-gaap:TradeAccountsReceivableMember
+2024-01-28
+0000354950
+hd:OtherReceivableMember
+2024-10-27
+0000354950
+hd:OtherReceivableMember
+2024-01-28
+0000354950
+hd:PrimarySegmentMember
+2024-07-29
+2024-10-27
+0000354950
+hd:OtherSegmentMember
+2024-07-29
+2024-10-27
+0000354950
+hd:PrimarySegmentMember
+2024-01-29
+2024-10-27
+0000354950
+hd:OtherSegmentMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:ProductConcentrationRiskMember
+hd:RoofingProductsMember
+us-gaap:SalesRevenueNetMember
+hd:OtherSegmentMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:ProductConcentrationRiskMember
+hd:RoofingProductsMember
+us-gaap:SalesRevenueNetMember
+hd:OtherSegmentMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineBuildingMaterialsMember
+hd:PrimarySegmentMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineBuildingMaterialsMember
+hd:PrimarySegmentMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineBuildingMaterialsMember
+hd:PrimarySegmentMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineBuildingMaterialsMember
+hd:PrimarySegmentMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineDcorMember
+hd:PrimarySegmentMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineDcorMember
+hd:PrimarySegmentMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineDcorMember
+hd:PrimarySegmentMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineDcorMember
+hd:PrimarySegmentMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineHardlinesMember
+hd:PrimarySegmentMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineHardlinesMember
+hd:PrimarySegmentMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineHardlinesMember
+hd:PrimarySegmentMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:MajorProductLineHardlinesMember
+hd:PrimarySegmentMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:PrimarySegmentMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:PrimarySegmentMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:PrimarySegmentMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:OperatingSegmentsMember
+hd:PrimarySegmentMember
+2023-01-30
+2023-10-29
+0000354950
+hd:OtherSegmentMember
+2023-07-31
+2023-10-29
+0000354950
+hd:OtherSegmentMember
+2023-01-30
+2023-10-29
+0000354950
+country:US
+2024-07-29
+2024-10-27
+0000354950
+country:US
+2023-07-31
+2023-10-29
+0000354950
+country:US
+2024-01-29
+2024-10-27
+0000354950
+country:US
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:NonUsMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:NonUsMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:NonUsMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:NonUsMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:ProductMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:ProductMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:ProductMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:ProductMember
+2023-01-30
+2023-10-29
+0000354950
+us-gaap:ServiceMember
+2024-07-29
+2024-10-27
+0000354950
+us-gaap:ServiceMember
+2023-07-31
+2023-10-29
+0000354950
+us-gaap:ServiceMember
+2024-01-29
+2024-10-27
+0000354950
+us-gaap:ServiceMember
+2023-01-30
+2023-10-29
+0000354950
+hd:PrimarySegmentMember
+2024-01-28
+0000354950
+hd:OtherSegmentMember
+2024-01-28
+0000354950
+hd:PrimarySegmentMember
+2024-10-27
+0000354950
+hd:OtherSegmentMember
+2024-10-27
+0000354950
+hd:SRSDistributionIncMember
+2024-06-18
+2024-06-18
+0000354950
+us-gaap:CustomerRelationshipsMember
+2024-10-27
+0000354950
+us-gaap:CustomerRelationshipsMember
+2024-01-28
+0000354950
+us-gaap:TradeNamesMember
+2024-10-27
+0000354950
+us-gaap:TradeNamesMember
+2024-01-28
+0000354950
+hd:OtherFiniteLivedIntangibleAssetsMember
+2024-10-27
+0000354950
+hd:OtherFiniteLivedIntangibleAssetsMember
+2024-01-28
+0000354950
+us-gaap:TradeNamesMember
+2024-10-27
+0000354950
+us-gaap:TradeNamesMember
+2024-01-28
+0000354950
+us-gaap:CommercialPaperMember
+2024-01-29
+0000354950
+us-gaap:RevolvingCreditFacilityMember
+2024-01-29
+0000354950
+hd:FiveYearBackUpCreditFacilityExpiringJuly2027Member
+us-gaap:RevolvingCreditFacilityMember
+2024-01-29
+2024-01-29
+0000354950
+hd:FiveYearBackUpCreditFacilityExpiringJuly2027Member
+us-gaap:RevolvingCreditFacilityMember
+2024-01-29
+0000354950
+hd:BackupCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-01-29
+2024-01-29
+0000354950
+hd:BackupCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-01-29
+0000354950
+us-gaap:CommercialPaperMember
+2024-05-31
+0000354950
+2024-05-31
+0000354950
+hd:BackupCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-05-01
+2024-05-31
+0000354950
+hd:BackupCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-05-31
+0000354950
+hd:ThreeYearBackUpCreditFacilityExpiringMay2027Member
+us-gaap:RevolvingCreditFacilityMember
+2024-05-01
+2024-05-31
+0000354950
+hd:ThreeYearBackUpCreditFacilityExpiringMay2027Member
+us-gaap:RevolvingCreditFacilityMember
+2024-05-31
+0000354950
+hd:BackupCreditFacility1Member
+us-gaap:RevolvingCreditFacilityMember
+2024-05-01
+2024-05-31
+0000354950
+hd:BackupCreditFacility1Member
+us-gaap:RevolvingCreditFacilityMember
+2024-05-31
+0000354950
+2024-06-18
+2024-06-18
+0000354950
+2024-06-25
+2024-06-25
+0000354950
+hd:BackupCreditFacility1Member
+us-gaap:RevolvingCreditFacilityMember
+2024-06-27
+2024-06-27
+0000354950
+us-gaap:CommercialPaperMember
+2024-07-28
+0000354950
+hd:BackupCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-07-01
+2024-07-28
+0000354950
+hd:BackupCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-07-28
+0000354950
+us-gaap:CommercialPaperMember
+2024-10-27
+0000354950
+us-gaap:RevolvingCreditFacilityMember
+2024-10-27
+0000354950
+us-gaap:CommercialPaperMember
+2024-01-29
+2024-10-27
+0000354950
+2024-06-30
+0000354950
+hd:SeniorNotesDueDecember242025FloatingRateFirstTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueDecember242025FloatingRateFirstTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-01
+2024-06-30
+0000354950
+hd:SeniorNotesDueDecember2420255.100SecondTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520265.150ThirdTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520274.875FourthTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520294.750FifthTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520314.850SixthTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520344.950SeventhTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520545.300EighthTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueJune2520645.400NinthTrancheMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:June2024IssuanceMember
+us-gaap:SeniorNotesMember
+2024-06-30
+0000354950
+hd:SeniorNotesDueDecember2025AndDueJune2026Member
+us-gaap:SeniorNotesMember
+2024-06-01
+2024-06-30
+0000354950
+hd:FixedRateNotesOtherThan2025And2026NotesMember
+us-gaap:SeniorNotesMember
+us-gaap:DebtInstrumentRedemptionPeriodOneMember
+2024-06-01
+2024-06-30
+0000354950
+hd:FixedRateNotesOtherThan2025And2026NotesMember
+us-gaap:SeniorNotesMember
+us-gaap:DebtInstrumentRedemptionPeriodTwoMember
+2024-06-01
+2024-06-30
+0000354950
+hd:FixedRateNotesMember
+us-gaap:SeniorNotesMember
+2024-06-01
+2024-06-30
+0000354950
+hd:SeniorNotesDueFebruary20243.75Member
+us-gaap:SeniorNotesMember
+2024-02-01
+2024-02-29
+0000354950
+hd:SeniorNotesDueFebruary20243.75Member
+us-gaap:SeniorNotesMember
+2024-02-29
+0000354950
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2024-10-27
+0000354950
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueHedgingMember
+2024-01-28
+0000354950
+2024-07-28
+0000354950
+2023-07-30
+0000354950
+hd:TwoThousandTwentyThreeShareRepurchaseProgramMember
+2023-08-31
+0000354950
+hd:TwoThousandTwentyTwoShareRepurchaseProgramMember
+2022-08-31
+0000354950
+hd:TwoThousandTwentyThreeShareRepurchaseProgramMember
+2024-10-27
+0000354950
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-10-27
+0000354950
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-01-28
+0000354950
+us-gaap:FairValueInputsLevel1Member
+us-gaap:SeniorLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+2024-10-27
+0000354950
+us-gaap:FairValueInputsLevel1Member
+us-gaap:SeniorLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+2024-01-28
+0000354950
+hd:SRSAcquisitionMember
+2024-06-18
+2024-06-18
+0000354950
+hd:SRSAcquisitionMember
+2024-06-18
+0000354950
+hd:SRSAcquisitionMember
+us-gaap:CustomerRelationshipsMember
+2024-06-18
+2024-06-18
+0000354950
+hd:SRSAcquisitionMember
+us-gaap:TradeNamesMember
+2024-06-18
+2024-06-18
+0000354950
+hd:SRSDistributionIncMember
+2024-06-18
+0000354950
+hd:SRSDistributionIncMember
+2024-07-29
+2024-10-27
+0000354950
+hd:SRSDistributionIncMember
+2024-01-29
+2024-10-27
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+October 27, 2024
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from              to
+Commission File Number:
+1-8207
+THE
+HOME DEPOT, INC.
+(Exact name of registrant as specified in its charter)
+(
+770
+)
+433-8211
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+993,362,612
+shares of common stock, $0.05 par value, outstanding as of November 12, 2024
+TABLE OF CONTENTS
+Table of Contents
+COMMONLY USED OR DEFINED TERMS
+Table of
+Contents
+FORWARD-LOOKING STATEMENTS
+Certain statements contained herein, as well as in other filings we make with the SEC and other written and oral information we release, regarding our performance or other events or developments in the future constitute “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements may relate to, among other things, the demand for our products and services, including as a result of macroeconomic conditions; net sales growth; comparable sales; the effects of competition; our brand and reputation; implementation of interconnected retail, store, supply chain and technology initiatives; inventory and in-stock positions; the state of the economy; the state of the housing and home improvement markets; the state of the credit markets, including mortgages, home equity loans, and consumer credit; the impact of tariffs; issues related to the payment methods we accept; demand for credit offerings; management of relationships with our associates, potential associates, suppliers and service providers; cost and availability of labor; costs of fuel and other energy sources; events that could disrupt our business, supply chain, technology infrastructure, or demand for our products and services, such as international trade disputes, natural disasters, climate change, public health issues, cybersecurity events, labor disputes, geopolitical conflicts, military conflicts or acts of war; our ability to maintain a safe and secure store environment; our ability to address expectations regarding environmental, social and governance matters and meet related goals; continuation or suspension of share repurchases; net earnings performance; earnings per share; future dividends; capital allocation and expenditures; liquidity; return on invested capital; expense leverage; changes in interest rates; changes in foreign currency exchange rates; commodity or other price inflation and deflation; our ability to issue debt on terms and at rates acceptable to us; the impact and expected outcome of investigations, inquiries, claims, and litigation, including compliance with related settlements; the challenges of operating in international markets; the adequacy of insurance coverage; the effect of accounting charges; the effect of adopting certain accounting standards; the impact of legal and regulatory changes, including changes to tax laws and regulations; store openings and closures; financial outlook; and the impact of acquired companies, including SRS, on our organization and the ability to recognize the anticipated benefits of any acquisitions.
+Forward-looking statements are based on currently available information and our current assumptions, expectations and projections about future events. You should not rely on our forward-looking statements. These statements are not guarantees of future performance and are subject to future events, risks and uncertainties — many of which are beyond our control, dependent on the actions of third parties, or currently unknown to us — as well as potentially inaccurate assumptions that could cause actual results to differ materially from our historical experience and our expectations and projections. These risks and uncertainties include, but are not limited to, those described in
+Part
+I
+I, Item 1A. Risk Factors
+and elsewhere in this report, Part I, Item 1A. Risk Factors of the 2023 Form 10-K and elsewhere in the 2023 Form 10-K, and also as described from time to time in reports subsequently filed with the SEC. You should read such information in conjunction with our consolidated financial statements and related notes and
+Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+in this report. There also may be other factors that we cannot anticipate or that are not described herein, generally because we do not currently perceive them to be material. Such factors could cause results to differ materially from our expectations. Forward-looking statements speak only as of the date they are made, and we do not undertake to update these statements other than as required by law. You are advised, however, to review any further disclosures we make on related subjects in our filings with the SEC and in our other public statements.
+Table of Contents
+PART I – FINANCIAL INFORMATION
+Item 1. Financial Statements.
+THE HOME DEPOT, INC.
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+—————
+See accompanying notes to consolidated financial statements.
+Table of
+Contents
+THE HOME DEPOT, INC.
+CONSOLIDATED STATEMENTS OF EARNINGS
+(Unaudited)
+—————
+See accompanying notes to consolidated financial statements.
+Table of
+Contents
+THE HOME DEPOT, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+—————
+See accompanying notes to consolidated financial statements.
+Table of
+Contents
+THE HOME DEPOT, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(Unaudited)
+—————
+See accompanying notes to consolidated financial statements.
+Table of
+Contents
+THE HOME DEPOT, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+—————
+See accompanying notes to consolidated financial statements.
+Table of
+Contents
+THE HOME DEPOT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+1.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying consolidated financial statements of The Home Depot, Inc., together with its subsidiaries (the “Company,” “Home Depot,” “we,” “our” or “us”), have been prepared in accordance with the instructions to Form 10-Q and do not include all of the information and footnotes required by GAAP for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Results of operations for interim periods are not necessarily indicative of results for the entire year. As a result, these consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in our 2023 Form 10-K.
+During the nine months ended October 27, 2024, there were no significant changes to our significant accounting policies as disclosed in the 2023 Form 10-K.
+During the second quarter of fiscal 2024, we completed the acquisition of SRS. Refer to
+Note 2
+and
+Note 10
+for further discussion on the acquisition, including certain impacts of the acquisition on our consolidated financial statements.
+Reclassifications
+Effective July 28, 2024, we began separately presenting intangible assets, net, on the consolidated balance sheets, which were previously included in the other assets line item. In addition, we began separately presenting intangible asset amortization on the statements of cash flows, which was previously included in the depreciation and amortization line item. Prior period amounts have been reclassified to conform to the current year’s financial statement presentation.
+Receivables, net
+The following table presents components of receivables, net:
+Card receivables consist of payments due from financial institutions for the settlement of credit card and debit card transactions. Rebate receivables represent amounts due from vendors for volume and co-op advertising rebates. Customer receivables relate to credit extended directly to certain customers in the ordinary course of business, which increased compared to the beginning of the year primarily as a result of the SRS acquisition.
+The valuation allowance related to our receivables was not material to our consolidated financial statements at October 27, 2024 or January 28, 2024.
+Supplier Finance Program
+We have a supplier finance program whereby participating suppliers may, at their sole discretion, elect to receive payment for one or more of our payment obligations, prior to their scheduled due dates, at a discounted price from participating financial institutions. The payment terms we negotiate with our suppliers are consistent, irrespective of whether a supplier participates in the program, and we are not a party to the agreements between the participating financial institutions and the suppliers in connection with the program. We do not reimburse suppliers for any costs they incur for participation in the program, and we have not pledged any assets as security or provided any guarantees as part of the program. Our outstanding payment obligations under our supplier finance program were $
+533
+million at October 27, 2024 and $
+514
+million at January 28, 2024 and are recorded within accounts payable on our consolidated balance sheets.
+Table of
+Contents
+Recently Adopted Accounting Pronouncements
+We did not adopt any new accounting pronouncements during the nine months ended October 27, 2024 that had a material impact on our consolidated financial condition, results of operations or cash flows.
+Recently Issued Accounting Pronouncements
+ASU No. 2024-03.
+In November 2024, the FASB issued ASU No. 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,” which is intended to improve disclosures about a public business entity’s expenses by requiring disaggregated disclosure, in the notes to the financial statements, of prescribed categories of expenses within relevant income statement captions. ASU No. 2024-03 is effective for fiscal years beginning after December 15, 2026 and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The new standard may be applied either on a prospective or retrospective basis. We are currently evaluating the impact of the standard on our consolidated financial statement disclosures.
+Recent accounting pronouncements pending adoption not discussed above or in the 2023 Form 10-K are either not applicable or are not expected to have a material impact on our consolidated financial condition, results of operations or cash flows.
+2.
+SEGMENT REPORTING AND NET SALES
+The Company defines its segments on the basis of the way in which internally reported financial information is regularly reviewed by the chief operating decision maker (“CODM”), our President and Chief Executive Officer, to analyze financial performance, make decisions, and allocate resources.
+The Company is engaged in the operation of retail stores and sells a wide assortment of building materials, home improvement products, lawn and garden products, décor products, and facilities maintenance, repair and operations products both in stores and online. We also provide a number of services, including home improvement installation services and tool and equipment rental. We currently conduct these operations in the U.S. (including the Commonwealth of Puerto Rico and the territories of the U.S. Virgin Islands and Guam), Canada, and Mexico, each of which represents an operating segment. For disclosure purposes, we aggregate these
+three
+operating segments into
+one
+reportable segment (the “Primary segment”) due to the similar nature of their operations and economic characteristics.
+As discussed in
+Note 10
+, in June 2024, we acquired SRS, a leading residential specialty trade distribution company across several verticals serving the professional roofer, landscaper and pool contractor through its branches located throughout the U.S. SRS is organized as three different lines of business: roofing and complementary building products, landscape, and pool. We have determined that each of these three lines of business represents an operating segment, none of which meets the thresholds prescribed under Topic 280 to be deemed a reportable segment.
+The following table presents a reconciliation of the results of our Primary segment to our consolidated totals:
+—————
+(1)
+Includes intangible asset amortization expense of $
+52
+million and $
+155
+million for the three and nine months ended October 27, 2024, respectively, in our Primary segment, and intangible asset amortization expense of $
+86
+million
+and $
+125
+million for the three and nine months ended October 27, 2024, respectively, in Other.
+“Other” in the table above represents our SRS operations and is reflective of results beginning from the acquisition date of June 18, 2024. Net sales in the Other category relate to the sale of products by SRS, with roofing and related products accounting for approximately
+68
+% and
+67
+% of sales in Other during the three and nine months ended October 27, 2024, respectively.
+Table of
+Contents
+Prior to the SRS acquisition, our total Company consolidated results represented our Primary segment. Therefore, a reconciliation to our consolidated totals is not applicable for the three and nine months ended October 29, 2023.
+The following table presents our Primary segment major product lines and the related merchandising departments (and related services):
+The following table presents net sales by major product line (and related services), as well as Other net sales:
+—————
+(1)   Represents SRS net sales since the acquisition date of June 18, 2024. See discussion above for information on the components of Other net sales.
+Note: During the first quarter of fiscal 2024, we made certain changes to our merchandising department structure that realign certain merchandising departments across our major product lines. As a result, prior-year amounts have been reclassified to conform with the current-year presentation. These changes had no impact on consolidated net sales.
+The following table presents net sales, classified by geography:
+The following table presents net sales by products and services:
+Deferred Revenue
+For products and services sold in stores or online, payment is typically due at the point of sale. When we receive payment before the customer has taken possession of the merchandise or the service has been performed, the amount received is recorded as deferred revenue until the sale or service is complete. Such performance obligations are part of contracts with expected original durations of typically three months or less. As of October 27, 2024 and January 28, 2024, deferred revenue for products and services was $
+1.6
+billion and $
+1.7
+billion, respectively.
+Table of
+Contents
+We further record deferred revenue for the sale of gift cards and recognize the associated revenue upon the redemption of those gift cards, which generally occurs within
+six months
+of gift card issuance. As of October 27, 2024 and January 28, 2024, our performance obligations for unredeemed gift cards were $
+1.0
+billion and $
+1.1
+billion, respectively. Gift card breakage income, which is our estimate of the portion of our outstanding gift card balance not expected to be redeemed, is recognized in net sales and was immaterial during the three and nine months ended October 27, 2024 and October 29, 2023.
+3.
+PROPERTY AND LEASES
+Net Property and Equipment
+Net property and equipment included accumulated depreciation and finance lease amortization of $
+28.6
+billion as of
+October 27, 2024 and $
+27.1
+billion as of January 28, 2024.
+Leases
+The following table presents the consolidated balance sheet classification related to operating and finance leases:
+—————
+(1)   Finance lease assets are recorded net of accumulated amortization of $
+1.4
+billion as of October 27, 2024 and $
+1.2
+billion as of January 28, 2024.
+The following table presents supplemental non-cash information related to leases:
+Table of
+Contents
+4.
+GOODWILL AND INTANGIBLE ASSETS
+Goodwill
+The following table presents the changes in the carrying amount of our goodwill:
+—————
+(1)    Fiscal 2024 activity represents the preliminary determination of goodwill related to the SRS acquisition, as well as other immaterial acquisitions completed by SRS during the third quarter of fiscal 2024. See
+Note 10
+for details regarding the SRS acquisition.
+(2)     Primarily reflects the net impact of foreign currency translation as well as immaterial measurement period adjustments related to fiscal 2023 acquisitions.
+During the third quarter of fiscal 2024, we completed our annual assessment of the recoverability of goodwill for our U.S., Canada, and Mexico reporting units that reside within our Primary segment. As the results of our most recent quantitative analysis in fiscal 2023 indicated that the fair value of each reporting unit substantially exceeded its respective carrying value, we performed a qualitative assessment to determine if there were any indicators of impairment. Based on this assessment, we concluded that while there have been events and circumstances that have both positively and negatively impacted our reporting units, no single factor or combination of factors is an indicator that it is more likely than not that the fair value of any of these reporting units was less than its carrying amount.
+Additionally, following the completion of the SRS acquisition, we now have
+three
+new reporting units which align with our SRS operating segments: roofing and complementary building products, landscape, and pool. As a result of the recency of the acquisition to our annual assessment date, these reporting units were also analyzed for impairment during the third quarter of fiscal 2024 using a qualitative approach. Based on this analysis, we concluded that there were no events or circumstances that would indicate that it is more likely than not that the fair value of any of these reporting units was less than its carrying amount.
+Intangible Assets
+The following table presents information regarding our intangible assets:
+—————
+(1)    Fiscal 2024 includes the preliminary allocation of fair value to intangible assets related to the SRS acquisition. See
+Note 10
+for details regarding the SRS acquisition.
+Our intangible asset amortization expense was $
+138
+million and $
+48
+million during the third quarter of fiscal 2024 and fiscal 2023, respectively, and $
+280
+million and $
+136
+million during the first nine months of fiscal 2024 and fiscal 2023, respectively.
+During the third quarter of fiscal 2024, we completed our annual assessment of the recoverability of our indefinite-lived intangible assets based on quantitative factors and concluded no impairment losses should be recognized.
+Table of
+Contents
+The following table presents the estimated future amortization expense related to definite-lived intangible assets as of October 27, 2024:
+5.
+DEBT AND DERIVATIVE INSTRUMENTS
+Short-Term Debt
+At the beginning of fiscal 2024, we had a commercial paper program that allowed for borrowings up to $
+5.0
+billion. In connection with this program, we had back-up credit facilities with a consortium of banks for borrowings up to $
+5.0
+billion, which consisted of a
+five-year
+$
+3.5
+billion credit facility scheduled to expire in July 2027 and a
+364
+-day $
+1.5
+billion credit facility scheduled to expire in July 2024. At January 28, 2024, there were
+no
+outstanding borrowings under our commercial paper program or back-up credit facilities.
+In May 2024, we increased our commercial paper program from $
+5.0
+billion to $
+19.5
+billion in connection with the anticipated financing of the acquisition of SRS (see
+Note 10
+for details regarding the SRS acquisition). In May 2024, in connection with the increase in the commercial paper program, we also entered into
+three
+additional back-up credit facilities that consisted of a
+364
+-day $
+3.5
+billion credit facility scheduled to expire in May 2025, a
+three-year
+$
+1.0
+billion credit facility scheduled to expire in May 2027, and a
+364
+-day $
+10.0
+billion credit facility scheduled to expire in May 2025. The $
+10.0
+billion credit facility also provided that the commitments and any borrowings under that facility would be reduced by the amount of net cash proceeds we received from any future debt issuance.
+In June 2024, leading up to the acquisition of SRS on June 18, 2024, we raised commercial paper borrowings of over $
+15.0
+billion to fund the transaction. On June 25, 2024, we received the proceeds from the issuance of $
+10.0
+billion of long-term debt, as further discussed below, and immediately used the proceeds to repay approximately $
+10.0
+billion of these commercial paper borrowings. On June 27, 2024, we terminated the $
+10.0
+billion back-up credit facility and subsequently reduced our commercial paper program from $
+19.5
+billion to $
+9.5
+billion.
+In July 2024, we completed the renewal of our
+364
+-day $
+1.5
+billion credit facility, extending the maturity from July 2024 to July 2025. As of October 27, 2024, our commercial paper program allowed for borrowings up to $
+9.5
+billion and is supported by $
+9.5
+billion of back-up credit facilities.
+All of our short-term borrowings in the first nine months of fiscal 2024 were under our commercial paper program, and the maximum amount outstanding at any time was $
+15.3
+billion. At October 27, 2024, we had $
+1.3
+billion of outstanding borrowings under our commercial paper program with a weighted average interest rate of
+4.8
+% and
+no
+outstanding borrowings under our back-up credit facilities.
+Long-Term Debt
+June 2024 Issuance.
+In June 2024, we issued
+nine
+tranches of senior notes.
+•
+The first tranche consisted of $
+600
+million of floating rate senior notes due December 24, 2025 (the “floating rate notes”). The floating rate notes bear interest at a variable rate determined quarterly equal to the compounded Secured Overnight Financing Rate (“SOFR”) plus
+33
+basis points. Interest on the floating rate notes is due quarterly on March 24, June 24, September 24, and December 24 of each year, beginning on September 24, 2024.
+•
+The second tranche consisted of $
+900
+million of
+5.100
+% senior notes due December 24, 2025 (the “2025 notes”) at a discount of $
+0.8
+million. Interest on the 2025 notes is due semi-annually on June 24 and December 24 of each year, beginning on December 24, 2024.
+Table of
+Contents
+•
+The third tranche consisted of $
+1.5
+billion of
+5.150
+% senior notes due June 25, 2026 (the “2026 notes”) at a discount of $
+1.7
+million. Interest on the 2026 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+The fourth tranche consisted of $
+1.0
+billion of
+4.875
+% senior notes due June 25, 2027 (the “2027 notes”) at a discount of $
+3.3
+million. Interest on the 2027 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+The fifth tranche consisted of $
+1.25
+billion of
+4.750
+% senior notes due June 25, 2029 (the “2029 notes”) at a discount of $
+8.1
+million. Interest on the 2029 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+The sixth tranche consisted of $
+1.0
+billion of
+4.850
+% senior notes due June 25, 2031 (the “2031 notes”) at a discount of $
+7.1
+million. Interest on the 2031 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+The seventh tranche consisted of $
+1.75
+billion of
+4.950
+% senior notes due June 25, 2034 (the “2034 notes”) at a discount of $
+16.7
+million. Interest on the 2034 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+The eighth tranche consisted of $
+1.5
+billion of
+5.300
+% senior notes due June 25, 2054 (the “2054 notes”) at a discount of $
+23.5
+million. Interest on the 2054 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+The ninth tranche consisted of $
+500
+million of
+5.400
+% senior notes due June 25, 2064 (the “2064 notes”) at a discount of $
+8.5
+million. Interest on the 2064 notes is due semi-annually on June 25 and December 25 of each year, beginning on December 25, 2024.
+•
+Issuance costs for the June 2024 issuance totaled $
+41
+million.
+Redemption.
+The floating rate notes are not redeemable prior to maturity. Each of these fixed rate senior notes may be redeemed by us at any time, in whole or in part, at the redemption price plus accrued and unpaid interest up to the redemption date. With respect to the 2025 notes and 2026 notes, the redemption price is equal to the greater of (1)
+100
+% of the principal amount of the notes to be redeemed or (2) the sum of the present values of the remaining scheduled payments of principal and interest on the notes that would be due after the related redemption date. With respect to all other fixed rate notes, prior to the relevant Par Call Date, as defined in the respective notes, the redemption price is equal to the greater of (1)
+100
+% of the principal amount of the notes to be redeemed or (2) the sum of the present values of the remaining scheduled payments of principal and interest to the Par Call Date. With respect to all fixed rate notes other than the 2025 and 2026 notes, on or after the relevant Par Call Date, the redemption price is equal to
+100
+% of the principal amount of such notes. Additionally, if a Change in Control Triggering Event occurs, as defined in the notes, holders of all such notes have the right to require us to offer payment, in cash, for those notes equal to
+101
+% of the aggregate principal amount of such notes plus accrued and unpaid interest up to the date of purchase.
+The indenture governing these notes does not generally limit our ability to incur additional indebtedness or require us to maintain financial ratios or specified levels of net worth or liquidity. The indenture governing the notes contains various customary covenants; however, none of the covenants are expected to impact our liquidity or capital resources.
+Repayments
 .
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+In February 2024, we repaid our $
+1.1
+billion
+3.75
+% senior notes at maturity.
+Derivative Instruments and Hedging Activities
+We had outstanding interest rate swap agreements with combined notional amounts of $
+5.4
+billion at both October 27, 2024 and January 28, 2024. These agreements are accounted for as fair value hedges that swap fixed for variable rate interest to hedge changes in the fair values of certain senior notes. At October 27, 2024 and January 28, 2024, the fair values of these agreements totaled $
+754
+million and $
+858
+million, respectively, all of which are recognized within other long-term liabilities on our consolidated balance sheets.
+All of our interest rate swap agreements are designated as fair value hedges and meet the shortcut method requirements under GAAP. Accordingly, the changes in the fair values of these agreements offset the changes in the fair value of the hedged long-term debt.
+Table of
+Contents
+During the nine months ended October 27, 2024, there was no new material hedging activity or material change to any other hedging arrangement disclosed in our
+2023
+Form 10-K, and all related activity was immaterial for the periods presented within this report.
+Collateral
+. We generally enter into master netting arrangements, which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty. To further limit our credit risk, we enter into collateral security arrangements that provide for collateral to be received or posted when the net fair value of certain derivative instruments exceeds or falls below contractually established thresholds. The cash collateral posted by the Company related to derivative instruments under our collateral security arrangements was $
+624
+million and $
+714
+million as of October 27, 2024 and January 28, 2024, respectively, which was recorded in other current assets on our consolidated balance sheets. We did not hold any cash collateral as of October 27, 2024 or January 28, 2024.
+6.
+STOCKHOLDERS' EQUITY
+Stock Rollforward
+The following table presents a reconciliation of the number of shares of our common stock outstanding and cash dividends per share:
+Share Repurchases
+In August 2023, our Board of Directors approved a $
+15.0
+billion share repurchase authorization that replaced the previous authorization of $
+15.0
+billion, which was approved in August 2022. The August 2023 authorization does not have a prescribed expiration date. As of October 27, 2024, approximately $
+11.7
+billion of the $
+15.0
+billion share repurchase authorization remained available. In March 2024, we paused share repurchases in anticipation of the SRS acquisition (see
+Note 10
+for details regarding the SRS acquisition).
+The following table presents information about our repurchases of common stock, all of which were completed through open market purchases:
+The cost of shares repurchased may differ from the repurchases of common stock amounts in the consolidated statements of cash flows due to unsettled share repurchases at the end of a period and net excise taxes incurred on share repurchases.
+Table of
+Contents
+7.
+FAIR VALUE MEASUREMENTS
+The fair value of an asset is considered to be the price at which the asset could be sold in an orderly transaction between unrelated knowledgeable and willing parties. A liability’s fair value is defined as the amount that would be paid to transfer the liability to a new obligor, rather than the amount that would be paid to settle the liability with the creditor. Assets and liabilities recorded at fair value are measured using a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value. The levels of the fair value hierarchy are:
+•
+Level 1: observable inputs such as quoted prices in active markets for identical assets or liabilities;
+•
+Level 2: inputs other than quoted prices in active markets in Level 1 that are either directly or indirectly observable; and
+•
+Level 3: unobservable inputs for which little or no market data exists, therefore requiring management judgment to develop the Company’s own models with estimates and assumptions.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The following table presents the assets and liabilities that are measured at fair value on a recurring basis:
+The fair values of our derivative instruments are determined using an income approach and Level 2 inputs, which primarily include the respective interest rate forward curves and discount rates. Our derivative instruments are discussed further in
+Note 5
+.
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+Long-lived assets, goodwill, and other intangible assets are subject to nonrecurring fair value measurement for the assessment of impairment.
+We did not have any material assets or liabilities that were measured and recognized at fair value on a nonrecurring basis during the three and nine months ended October 27, 2024 or October 29, 2023. See
+Note 4
+for discussion of the results of our annual goodwill and indefinite-lived intangibles impairment assessments. See
+Note 10
+for discussion on the fair values of assets acquired and liabilities assumed in the SRS acquisition.
+Other Fair Value Disclosures
+The carrying amounts of cash and cash equivalents, receivables, accounts payable, and short-term debt approximate fair value due to their short-term nature.
+The following table presents the aggregate fair values and carrying values of our senior notes:
+Table of
+Contents
+8.
+WEIGHTED AVERAGE COMMON SHARES
+The following table presents the reconciliation of our basic to diluted weighted average common shares as well as the number of anti-dilutive securities excluded from diluted weighted average common shares:
+—————
+(1)    Represents the dilutive impact of stock-based awards.
+9.
+CONTINGENCIES
+We are involved in litigation arising in the normal course of business. In management’s opinion, any such litigation is not expected to have a material adverse effect on our consolidated financial condition, results of operations, or cash flows.
+10.
+ACQUISITIONS
+SRS Acquisition
+On March 27, 2024, we entered into a definitive agreement to acquire SRS, a leading residential specialty trade distribution company across several verticals serving the professional roofer, landscaper and pool contractor. On June 18, 2024, following the satisfaction or waiver of the applicable closing conditions, including receipt of the requisite regulatory approvals, the acquisition was completed and all merger consideration was transferred. Under the terms of the merger agreement, a subsidiary of The Home Depot, Inc. merged with and into Shingle Acquisition Holdings, Inc., the parent company of SRS, with Shingle Acquisition Holdings, Inc. as the surviving entity and a wholly owned subsidiary of the Company. We believe the acquisition of SRS will accelerate the Company’s growth with the residential professional customer. The acquisition is expected to complement our existing capabilities and enable us to better serve complex project purchase occasions with the renovator/remodeler, while also establishing the Company as a leading specialty trade distributor across multiple verticals. We primarily used a combination of proceeds from commercial paper borrowings, the issuance of long-term debt, as well as cash on hand to fund the acquisition. See
+Note 5
+for further information on the financing for the transaction, and below for a summary of preliminary purchase consideration.
+The acquisition was accounted for in accordance with Accounting Standards Codification Topic 805 “Business Combinations,” and SRS’s results of operations have been consolidated in the Company’s financial statements effective June 18, 2024. Acquisition-related costs were expensed as incurred and were not material.
+Fair Value of Consideration Transferred.
+The following table summarizes total preliminary purchase consideration:
+—————
+(1)    In connection with the acquisition, certain members of SRS’s management team concurrently reinvested a portion of their respective after-tax merger consideration proceeds into shares of the Company’s common stock. A portion of such shares of Company common stock are fully vested, and accordingly, the fair value of such shares was recorded as non-cash purchase consideration. A portion of such shares of Company common stock, which replaced legacy SRS stock-based awards, are subject to service-based vesting conditions over a
+three-year
+period and become forfeitable if such vesting conditions are not satisfied. Accordingly, a portion of the fair value of these shares was recorded as non-cash purchase consideration, and the remainder will be recorded as post-combination expense over the vesting period. The fair value of these shares, including the amount which will be recorded as post-combination compensation expense, is not material.
+Table of
+Contents
+Allocation of Consideration Transferred.
+We recorded a preliminary allocation of the purchase price to assets acquired and liabilities assumed based on their estimated fair
+values
+as of June 18, 2024.
+The following table summarizes the recorded fair values of the assets acquired and liabilities assumed:
+—————
+(1)    Primarily resulting from the difference in book and tax basis related to identifiable intangible assets.
+The preliminary fair values of identifiable intangible assets were determined by using certain estimates and assumptions that are not observable in the market. The Company used the multi-period excess earnings method to value the customer relationships intangible assets. The significant assumptions used to estimate the fair values of customer relationships included forecasted revenues, expected customer attrition rates, and discount rates. Determining the useful life of an intangible asset also requires judgment, as different types of intangible assets will have different useful lives.
+The preliminary fair values and estimated useful lives of identifiable intangible assets are as follows:
+The goodwill arising from the acquisition is calculated as the excess of the purchase price over the net assets acquired and is attributable to anticipated (i) growth acceleration in the residential professional customer market; (ii) expansion in high growth verticals including roofing; (iii) additional addressable market opportunities; (iv) enhanced delivery network capabilities; and (v) growth in sales force. We expect approximately $
+1.0
+billion of goodwill related to the acquisition to be deductible for U.S. federal and state income tax purposes. At this time, all preliminary goodwill recognized has been allocated to our
+three
+SRS reporting units and no goodwill currently resides in our Primary segment.
+Table of
+Contents
+We have completed preliminary valuation analyses necessary to assess the fair values of the assets acquired and liabilities assumed and the amount of goodwill to be recognized as of the acquisition date. These fair values were based on management’s estimates and assumptions; however, the amounts indicated above are preliminary in nature and are subject to adjustment as additional information is obtained about the facts and circumstances that existed as of the acquisition date. Accordingly, there may be adjustments to the assigned values of acquired assets and liabilities. The primary areas that remain preliminary include, but are not limited to, intangible assets, including the preliminary assumptions used in their estimates of fair values and their respective estimated useful lives, the valuation of certain tangible assets, income taxes, and residual goodwill. The final determination of the fair values, purchase consideration, related income tax impacts and residual goodwill will be completed as soon as practicable, and within the measurement period of up to one year from the acquisition date as permitted under GAAP. Any adjustments to provisional amounts that are identified during the measurement period will be recorded in the reporting period in which the adjustment is determined. Measurement period adjustments recognized during the third quarter of fiscal 2024 were immaterial.
+Results of Operations.
+Net sales attributable to SRS since the completion of the acquisition and included within our results of operations for the three and nine months ended October 27, 2024 totaled $
+2.9
+billion and $
+4.2
+billion, respectively. Net earnings attributable to SRS since the completion of the acquisition and included within our results of operations for both the three and nine months ended October 27, 2024 were immaterial.
+Pro forma results of operations would not be materially different as a result of the acquisition and therefore are not presented.
+Table of
+Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and Board of Directors
+The Home Depot, Inc.:
+Results of Review of Interim Financial Information
+We have reviewed the consolidated balance sheet of The Home Depot, Inc. and its subsidiaries (the “Company”) as of October 27, 2024, the related consolidated statements of earnings, comprehensive income and stockholders’ equity for the three-month and nine-month periods ended October 27, 2024 and October 29, 2023, the related consolidated statements of cash flows for the nine-month periods ended October 27, 2024 and October 29, 2023, and the related notes (collectively, the “consolidated interim financial information”). Based on our reviews, we are not aware of any material modifications that should be made to the consolidated interim financial information for it to be in conformity with U.S. generally accepted accounting principles.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the consolidated balance sheet of the Company as of January 28, 2024, and the related consolidated statements of earnings, comprehensive income, stockholders’ equity, and cash flows for the fiscal year then ended (not presented herein); and in our report dated March 13, 2024, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying consolidated balance sheet as of January 28, 2024 is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it has been derived.
+Basis for Review Results
+This consolidated interim financial information is the responsibility of the Company’s management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our reviews in accordance with the standards of the PCAOB. A review of consolidated interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+/s/ KPMG LLP
+Atlanta, Georgia
+November 18, 2024
+Table of
+Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion provides an analysis of the Company’s financial condition and results of operations from management’s perspective and should be read in conjunction with the consolidated financial statements and related notes included in this report and in the 2023 Form 10-K and with our MD&A included in the 2023 Form 10-K.
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY
+We reported net sales of $40.2 billion in the third quarter of fiscal 2024. Net earnings were $3.6 billion, or $3.67 per diluted share. For the first nine months of fiscal 2024, net sales were $119.8 billion and net earnings were $11.8 billion, or $11.90 per diluted share.
+D
+uring the third quarter of fiscal 2024
+, we opened five new stores in the U.S., resulting in a total store count of 2,345 at October 27, 2024. A total of 321 stores, or 13.7%, were located in Canada and Mexico. For the third quarter of fiscal 2024, sales per retail square foot were $582.97, and for the first nine months of fiscal 2024, sales per retail square foot were $604.11. Our inventory turnover ratio was 4.8 times at the end of the third quarter of fiscal 2024, compared to 4.3 times at the end of the third quarter of fiscal 2023. The increase in our inventory turnover ratio was primarily driven by lower average inventory levels within our Primary segment during the first nine months of fiscal 2024.
+During the first nine months of fiscal 2024, we generated $15.1 billion of cash flow from operations, received approximately $10.0 billion of proceeds from the issuance of long-term debt, net of discounts, and received $1.3 billion of proceeds from commercial paper borrowings, net of repayments. We utilized a combination of commercial paper borrowings and the issuance of long-term debt, together with cash on hand, to fund the acquisition of SRS, with cash purchase consideration totaling $17.7 billion. Specifically, in June 2024, leading up to the acquisition on June 18, 2024, we raised commercial paper borrowings of over $15.0 billion to fund the transaction, of which approximately $10.0 billion was then immediately repaid with the proceeds from our issuance of long-term debt. We have continued to repay a portion of these outstanding commercial paper borrowings and ended the third quarter of fiscal 2024 with $1.3 billion of commercial paper borrowings outstanding.
+During the first nine months of fiscal 2024, we also paid $6.7 billion in cash dividends, funded $2.4 billion in capital expenditures, repaid $1.4 billion of long-term debt, and funded $649 million of share repurchases, prior to pausing share repurchases in March 2024.
+In February 2024, we announced a 7.7% increase in our quarterly cash dividend to $2.25 per share.
+Our ROIC for the trailing twelve-month period was 31.5% at the end of the third quarter of fiscal 2024 and 38.7% at the end of the third quarter of fiscal 2023. The decrease in ROIC was primarily driven by higher average long-term debt and higher average equity due to the financing of the SRS acquisition, along with lower operating income. See the
+Non-GAAP Financial Measures
+section below for our definition and calculation of ROIC.
+SRS Acquisition
+On March 27, 2024, we entered into a definitive agreement to acquire SRS, a leading residential specialty trade distribution company across several verticals serving the professional roofer, landscaper and pool contractor. On June 18, 2024, following the satisfaction or waiver of the applicable closing conditions, including receipt of the requisite regulatory approvals, the acquisition was completed and all merger consideration was transferred. We believe the acquisition of SRS will accelerate the Company’s growth with the residential professional customer. The acquisition is expected to complement our existing capabilities and enable us to better serve complex project purchase occasions with the renovator/remodeler, while also establishing the Company as a leading specialty trade distributor across multiple verticals. Refer to
+Note 2
+and
+Note 10
+to our consolidated financial statements for further discussion of the impact of the acquisition on our consolidated financial statements.
+Table of
+Contents
+RESULTS OF OPERATIONS
+The following table presents the percentage relationship between net sales and major categories in our consolidated statements of earnings.
+FISCAL 2024 AND FISCAL 2023 THREE MONTH COMPARISONS
+—————
+Note: Certain percentages may not sum to totals due to rounding.
+—————
+(1)
+Does not include results for HD Supply or SRS. At this time, we are still evaluating whether SRS results will be incorporated into our selected sales metrics.
+(2)
+Average ticket represents the average price paid per transaction and is used by management to monitor the performance of the Company, as it represents a primary driver in measuring sales performance.
+(3)
+Sales per retail square foot represents annualized sales divided by retail store square footage. Sales per retail square foot is a measure of the efficiency of sales based on the total square footage of our stores and is used by management to monitor the performance of the Company’s retail operations as an indicator of the productivity of owned and leased square footage for these retail operations.
+Sales
+We assess our sales performance by evaluating both net sales and comparable sales.
+Net Sales.
+Net sales for the third quarter of fiscal 2024 were $40.2 billion, an increase of 6.6% from $37.7 billion for the third quarter of fiscal 2023. The increase in net sales for the third quarter of fiscal 2024 was primarily driven by SRS, which contributed $2.9 billion of net sales during the third quarter of fiscal 2024. This increase in net sales was partially offset by the impact of a negative comparable sales environment, primarily driven by decreases in comparable average ticket and comparable customer transactions.
+Table of
+Contents
+Online sales, which consist of sales generated through our websites and mobile applications for products picked up at our stores or delivered to customer locations, represented 14.0% of net sales during the third quarter of fiscal 2024 and increased by 4.0% compared to the third quarter of fiscal 2023.
+A stronger U.S. dollar negatively impacted net sales by $131 million duri
+ng the third quarter of fiscal 2024.
+Comparable Sales.
+Comparable sales is a measure that highlights the performance of our existing locations and websites by measuring the change in net sales for a period over the comparable prior period of equivalent length. Comparable sales includes sales at all locations, physical and online, open greater than 52 weeks (including remodels and relocations) and excludes closed stores. Retail stores become comparable on the Monday following their 52
+nd
+week of operation. Acquisitions are typically included in comparable sales after they have been owned for more than 52 weeks. Comparable sales is intended only as supplemental information and is not a substitute for net sales presented in accordance with GAAP.
+Total comparable sales for the third quarter of fiscal 2024 decreased 1.3%, reflecting a 0.8% decrease in comparable average ticket and a 0.6% decrease in comparable customer transactions compared to the third quarter of fiscal 2023. The decrease in comparable customer transactions primarily reflects the impact of heightened macroeconomic uncertainties and other macroeconomic factors, including the impacts of a persisting high interest rate environment pressuring home improvement demand. The decrease in comparable average ticket primarily reflects price stabilization relative to last year, slightly offset by demand for new and innovative products. Comparable sales during the third quarter of fiscal 2024 also reflects incremental sales related to hurricane demand.
+During the third quarter of fiscal 2024, our Power, Outdoor Garden, Building Materials, Indoor Garden, and Paint merchandising departments posted positive comparable sales compared to the third quarter of fiscal 2023. All of our other merchandising departments posted negative comparable sales during the third quarter of fiscal 2024 compared to the third quarter of fiscal 2023.
+Gross Profit
+Gross profit for the third quarter of fiscal 2024 increased 5.4% to $13.4 billion from $12.7 billion for the third quarter of fiscal 2023. Gross profit as a percentage of net sales, or gross profit margin, was 33.4% for the third quarter of fiscal 2024 compared to 33.8% for the third quarter of fiscal 2023. The decrease in gross profit margin primarily reflects the inclusion of SRS in our consolidated results, partially offset by lower shrink within our Primary segment.
+Operating Expenses
+Our operating expenses are composed of SG&A and depreciation and amortization.
+Selling, General & Administrative.
+SG&A for the third quarter of fiscal 2024 increased $563 million, or 8.5%, to $7.2 billion from $6.6 billion for the third quarter of fiscal 2023. As a percentage of net sales, SG&A was 17.9% for the third quarter of fiscal 2024 compared to 17.6% for the third quarter of fiscal 2023, primarily reflecting higher payroll and other operational costs, along with deleverage from a negative comparable sales environment, all within our Primary segment, partially offset by the inclusion of SRS in our consolidated results.
+Depreciation and Amortization.
+Depreciation and amortization for the third quarter of fiscal 2024 increased $112 million, or 16.4%, to $795 million from $683 million for the third quarter of fiscal 2023. As a percentage of net sales, depreciation and amortization was 2.0% for the third quarter of fiscal 2024 compared to 1.8% for the third quarter of fiscal 2023, primarily reflecting increased intangible asset amortization expense of $90 million, of which $86 million was related to SRS.
+Interest and Other, net
+Interest and other, net for the third quarter of fiscal 2024 increased $157 million, or 35.8%, to $595 million from $438 million for the third quarter of fiscal 2023. As a percentage of net sales, interest and other, net was 1.5% for the third quarter of fiscal 2024 compared to 1.2% for the third quarter of fiscal 2023, primarily reflecting higher interest expense driven by higher long-term debt.
+Provision for Income Taxes
+Our combined effective income tax rate was 24.4% for the third quarter of fiscal 2024 compared to 23.3% for the third quarter of fiscal 2023. The increase in our effective rate reflects certain one-time tax benefits recognized during the third quarter of fiscal 2023.
+Table of
+Contents
+Diluted Earnings per Share
+Diluted earnings per share were $3.67 for the third quarter of fiscal 2024 compared to $3.81 for the third quarter of fiscal 2023. The decrease in diluted earnings per share was primarily driven by lower net earnings during the third quarter of fiscal 2024, slightly offset by lower diluted shares.
+FISCAL 2024 AND FISCAL 2023 NINE MONTH COMPARISONS
+—————
+Note: Certain percentages may not sum to totals due to rounding.
+—————
+(1)
+Does not include results for HD Supply or SRS. At this time, we are still evaluating whether SRS results will be incorporated into our selected sales metrics.
+(2)
+Average ticket represents the average price paid per transaction and is used by management to monitor the performance of the Company, as it represents a primary driver in measuring sales performance.
+(3)
+Sales per retail square foot represents annualized sales divided by retail store square footage. Sales per retail square foot is a measure of the efficiency of sales based on the total square footage of our stores and is used by management to monitor the performance of the Company’s retail operations as an indicator of the productivity of owned and leased square footage for these retail operations.
+Table of
+Contents
+Sales
+We assess our sales performance by evaluating both net sales and comparable sales.
+Net Sales.
+Net sales for the first nine months of fiscal 2024 were $119.8 billion, an increase of 1.6% from $117.9 billion for the first nine months of fiscal 2023. The increase in net sales for the first nine months of fiscal 2024 was primarily driven by SRS, which contributed $4.2 billion of net sales during the first nine months of fiscal 2024, along with net sales from new store openings and the acquisitions we completed in fiscal 2023. This increase in net sales was partially offset by the impact of a negative comparable sales environment, primarily driven by decreases in comparable customer transactions and comparable average ticket.
+Online sales represented 14.7% of net sales during the first nine months of fiscal 2024 and increased by 3.7% compared to the first nine months of fiscal 2023.
+A stronger U.S. dollar negatively impacted net sales by $47 million for the first nine months of fiscal 2024.
+Comparable Sales.
+Total comparable sales for the first nine months of fiscal 2024 decreased 2.5%, reflecting a 1.5% decrease in comparable customer transactions and a 1.2% decrease in comparable average ticket compared to the first nine months of fiscal 2023. The decrease in comparable customer transactions primarily reflects the impact of heightened macroeconomic uncertainties and other macroeconomic factors, including the impacts of a persisting high interest rate environment pressuring home improvement demand. The decrease in comparable average ticket primarily reflects price stabilization relative to last year, slightly offset by demand for new and innovative products.
+During the first nine months of fiscal 2024, our Power and Building Materials merchandising departments posted positive comparable sales compared to the first nine months of fiscal 2023. All of our other merchandising departments posted negative comparable sales during the first nine months of fiscal 2024 compared to the first nine months of fiscal 2023.
+Gross Profit
+Gross profit for the first nine months of fiscal 2024 increased 2.1% to $40.3 billion from $39.5 billion for the first nine months of fiscal 2023. Gross profit as a percentage of net sales, or gross profit margin, was 33.6% for the first nine months of fiscal 2024 compared to 33.5% for the first nine months of fiscal 2023. The increase in gross profit margin reflects lower transportation costs and lower shrink within our Primary segment, partially offset by the inclusion of SRS in our consolidated results.
+Operating Expenses
+Our operating expenses are composed of SG&A and depreciation and amortization.
+Selling, General & Administrative.
+SG&A for the first nine months of fiscal 2024 increased $1.1 billion, or 5.5%, to $21.0 billion from $19.9 billion for the first nine months of fiscal 2023. As a percentage of net sales, SG&A was 17.5% for the first nine months of fiscal 2024 compared to 16.9% for the first nine months of fiscal 2023, which primarily reflects deleverage from a negative comparable sales environment, higher payroll costs and lower legal-related benefits.
+Depreciation and Amortization.
+Depreciation and amortization for the first nine months of fiscal 2024 increased $233 million, or 11.7%, to $2.2 billion from $2.0 billion for the first nine months of fiscal 2023. As a percentage of net sales, depreciation and amortization was 1.9% for the first nine months of fiscal 2024 and 1.7% for the first nine months of fiscal 2023, primarily reflecting increased intangible asset amortization expense of $144 million, of which $125 million was related to SRS, as well as increased depreciation expense from ongoing investments in the business.
+Interest and Other, net
+Interest and other, net for the first nine months of fiscal 2024 increased $205 million, or 15.7%, to $1.5 billion from $1.3 billion for the first nine months of fiscal 2023. As a percentage of net sales, interest and other, net was 1.3% for the first nine months of fiscal 2024 compared to 1.1% for the first nine months of fiscal 2023, primarily due to higher interest expense driven by higher long-term debt and commercial paper borrowings, partially offset by higher interest income resulting from elevated cash balances in the first half of fiscal 2024 leading up to the acquisition of SRS.
+Table of
+Contents
+Provision for Income Taxes
+Our combined effective income tax rate was 23.9% for the first nine months of fiscal 2024 compared to 24.0% for the first nine months of fiscal 2023.
+Diluted Earnings per Share
+Diluted earnings per share were $11.90 for the first nine months of fiscal 2024, compared to $12.28 for the first nine months of fiscal 2023. The decrease in diluted earnings per share was primarily driven by lower net earnings during the first nine months of fiscal 2024, partially offset by lower diluted shares.
+NON-GAAP FINANCIAL MEASURES
+To provide clarity on our operating performance, we supplement our reporting with certain non-GAAP financial measures. However, this supplemental information should not be considered in isolation or as a substitute for the related GAAP measures. Non-GAAP financial measures presented herein may differ from similar measures used by other companies.
+Return on Invested Capital
+We believe ROIC is meaningful for management, investors and ratings agencies because it measures how effectively we deploy our capital base. ROIC is a non-GAAP profitability measure, not a measure of financial performance under GAAP. We define ROIC as NOPAT, a non-GAAP financial measure, for the most recent twelve-month period, divided by average debt and equity. We define average debt and equity as the average of beginning and ending long-term debt (including current installments) and equity for the most recent twelve-month period.
+The following table presents the calculation of ROIC, together with a reconciliation of NOPAT to net earnings (the most comparable GAAP measure):
+—————
+(1)
+Income tax adjustment is defined as operating income multiplied by our effective tax rate for the trailing twelve months.
+(2)
+The twelve months ended October 27, 2024 only include operating results for SRS since the acquisition date of June 18, 2024, consistent with our consolidated financial statements.
+LIQUIDITY AND CAPITAL RESOURCES
+At October 27, 2024, we had $1.5 billion in cash and cash equivalents, of which $1.1 billion was held by our foreign subsidiaries. We believe that our current cash position, cash flow generated from operations, funds available from our commercial paper program, and access to the long-term debt capital markets should be sufficient not only for our operating requirements, any required debt payments, and satisfaction of other contractual obligations, but also to enable us to invest in the business, fund dividend payments, and fund any share repurchases through the next several fiscal years. In addition, we believe that we have the ability to obtain alternative sources of financing, if necessary.
+Table of
+Contents
+Our material cash requirements include contractual and other obligations arising in the normal course of business. These obligations primarily include long-term debt and related interest payments, operating and finance lease obligations, and purchase obligations. In addition to our cash requirements, we follow a disciplined approach to capital allocation. This approach first prioritizes investing in the business, followed by paying dividends, with the intent of then returning excess cash to shareholders in the form of share repurchases. In March 2024, we paused share repurchases in anticipation of the acquisition of SRS. We do not currently plan to resume share repurchases until we have used our excess cash to reduce our outstanding debt.
+During the first nine months of fiscal 2024, we invested approximately $2.4 billion back into our business in the form of capital expenditures. For fiscal 2024, in line with our expectation of approximately two percent of net sales on an annual basis, we plan to invest approximately $3.0 billion to $3.5 billion back into our business in the form of capital expenditures, with investments focused on new stores and improving the customer experience, including through technology and development of other differentiated capabilities. However, we may adjust our capital expenditures to support the operations of the business, to enhance long-term strategic positioning, or in response to the economic environment, as necessary or appropriate.
+In February 2024, we announced a 7.7% increase in our quarterly cash dividend from $2.09 to $2.25 per share. During the first nine months of fiscal 2024, we paid cash dividends of $6.7 billion to shareholders. We intend to pay a dividend in the future; however, any future dividend is subject to declaration by our Board of Directors based on our earnings, capital requirements, financial condition, and other factors considered relevant by our Board of Directors.
+In August 2023, our Board of Directors approved a $15.0 billion share repurchase authorization that replaced the previous authorization of $15.0 billion, which was approved in August 2022. The August 2023 authorization does not have a prescribed expiration date. As of October 27, 2024, approximately $11.7 billion of the $15.0 billion share repurchase authorization remained available. During the first nine months of fiscal 2024, we had cash payments of $649 million for repurchases of our common stock through open market purchases, prior to pausing share repurchases in March 2024 as discussed above.
+DEBT
+At the beginning of fiscal 2024, we had a commercial paper program that allowed for borrowings up to $5.0 billion. In connection with our program, we had back-up credit facilities with a consortium of banks for borrowings up to $5.0 billion, which consisted of a five-year $3.5 billion credit facility scheduled to expire in July 2027 and a 364-day $1.5 billion credit facility scheduled to expire in July 2024. At January 28, 2024, there were no outstanding borrowings under our commercial paper program or back-up credit facilities.
+In May 2024, we increased our commercial paper program from $5.0 billion to $19.5 billion in connection with the anticipated financing of the acquisition of SRS (see
+Note 10
+for details regarding the SRS acquisition). In May 2024, in connection with the increase in the commercial paper program, we also entered into three additional back-up credit facilities that consisted of a 364-day $3.5 billion credit facility scheduled to expire in May 2025, a three-year $1.0 billion credit facility scheduled to expire in May 2027, and a 364-day $10.0 billion credit facility scheduled to expire in May 2025. The $10.0 billion credit facility also provided that the commitments and any borrowings under that facility would be reduced by the amount of net cash proceeds we received from any future debt issuance.
+In June 2024, leading up to the acquisition of SRS on June 18, 2024, we raised commercial paper borrowings of over $15.0 billion to fund the transaction. On June 25, 2024, we received the proceeds from the issuance of $10.0 billion of long-term debt, and immediately used the proceeds to repay approximately $10.0 billion of these commercial paper borrowings. On June 27, 2024, we terminated the $10.0 billion back-up credit facility, and subsequently reduced our commercial paper program from $19.5 billion to $9.5 billion.
+In July 2024, we completed the renewal of our 364-day $1.5 billion credit facility, extending the maturity from July 2024 to July 2025. As of October 27, 2024, our commercial paper program allowed for borrowings up to $9.5 billion and is supported by $9.5 billion of back-up credit facilities.
+All of our short-term borrowings in the first nine months of fiscal 2024 were under our commercial paper program, and the maximum amount outstanding at any time was $15.3 billion. At October 27, 2024, we had outstanding borrowings under our commercial paper program of $1.3 billion with a weighted average interest rate of 4.8%, we had no outstanding borrowings under our back-up credit facilities, and we were in compliance with all of the covenants contained in our credit facilities, none of which are expected to impact our liquidity or capital resources.
+Table of
+Contents
+We also issue senior notes from time to time as part of our capital management strategy. As discussed above, in June 2024, we issued $10.0 billion of senior notes in connection with the funding of the acquisition of SRS. Separately, in February 2024, we repaid $1.1 billion of senior notes at maturity.
+The indentures governing our senior notes do not generally limit our ability to incur additional indebtedness or require us to maintain financial ratios or specified levels of net worth or liquidity. The indentures governing our notes contain various customary covenants; however, none of the covenants are expected to impact our liquidity or capital resources. See
+Note 5
+to our consolidated financial statements for further discussion of our debt arrangements.
+CASH FLOWS SUMMARY
+Operating Activities
+Cash flow generated from operations provides us with a significant source of liquidity. Our operating cash flows result primarily from cash received from our customers, offset by cash payments we make for products and services, associate compensation, operations, occupancy costs, and income taxes. Cash provided by or used in operating activities is also subject to changes in working capital. Working capital at any point in time is subject to many variables, including seasonality, inventory management and category expansion, the timing of cash receipts and payments, vendor payment terms, and fluctuations in foreign exchange rates.
+Net cash provided by operating activities decreased by $1.3 billion in the first nine months of fiscal 2024 compared to the first nine months of fiscal 2023, primarily due to changes in working capital. Changes in working capital were primarily driven by more normalized inventory levels during the first nine months of fiscal 2024 compared to strategic reductions in inventory during fiscal 2023, as well as timing of vendor payments, each within our Primary segment.
+Investing Activities
+Net cash used in investing activities increased by $16.8 billion in the first nine months of fiscal 2024 compared to the first nine months of fiscal 2023, primarily due to higher cash payments for business acquisitions in fiscal 2024, including $17.6 billion of cash consideration paid to acquire SRS, net of cash acquired.
+Financing Activities
+Net cash provided by financing activities in the first nine months of fiscal 2024 primarily reflected approximately $10.0 billion of net proceeds from long-term debt and $1.3 billion of proceeds from commercial paper borrowings, net of repayments, partially offset by $6.7 billion of cash dividends paid, $1.4 billion of repayments of long-term debt, and $649 million of share repurchases prior to pausing share repurchases in March 2024. Net cash used in financing activities in the first nine months of fiscal 2023 primarily reflected $6.5 billion of share repurchases, $6.3 billion of cash dividends paid, and $1.2 billion of long-term debt repayments.
+The overall increase in cash flows from financing activities during the first nine months of fiscal 2024 compared to the first nine months of fiscal 2023 totaled $16.6 billion and was predominantly attributable to the financing of the SRS acquisition. Specifically, as discussed above, a combination of commercial paper borrowings and the $10.0 billion long-term debt issuance, along with increased cash on hand resulting from the pause of share repurchases, were utilized in connection with the SRS acquisition.
+Table of
+Contents
+CRITICAL ACCOUNTING ESTIMATES
+During the first nine months of fiscal 2024, there were no changes to our critical accounting estimates or our significant accounting policies as disclosed in the 2023 Form 10-K, except as set forth below. Our significant accounting policies are disclosed in
+Note 1
+to our consolidated financial statements.
+Business Combinations
+We account for business combinations using the acquisition method of accounting, which requires that once control is obtained, all the assets acquired and liabilities assumed are recorded at their respective fair values at the date of acquisition. The determination of fair values of identifiable assets and liabilities requires estimates and the use of valuation techniques when fair value is not readily available and requires a significant amount of management judgment. For the valuation of intangible assets acquired in a business combination, we typically use an income approach. Specifically, for the SRS acquisition, we used the multi-period excess earnings method to value the customer relationships intangible assets. The significant assumptions used to estimate the fair values of customer relationships included forecasted revenues, expected customer attrition rates, and discount rates. Although the Company believes its estimates of fair value are reasonable, actual financial results could differ from those estimates due to the inherent uncertainty involved in making such estimates. Changes in assumptions concerning future financial results or other underlying assumptions could have a significant impact on the determination of the fair values of the customer relationships intangible assets acquired.
+The excess of the purchase price over fair values of identifiable assets acquired and liabilities assumed is recorded as goodwill. During the measurement period, which is up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill due to the use of preliminary information in our initial estimates. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+ADDITIONAL INFORMATION
+For information on accounting pronouncements that have impacted or are expected to materially impact our consolidated financial condition, results of operations, or cash flows, see
+Note 1
+to our consolidated financial statements.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+Our exposure to market risk results primarily from fluctuations in interest rates in connection with our long-term debt portfolio. We are also exposed to risks from foreign currency exchange rate fluctuations on the translation of our foreign operations into U.S. dollars and on the purchase of goods by these foreign operations that are not denominated in their local currencies. Additionally, we may experience inflation and deflation related to our purchase and sale of certain commodity products. During the first nine months of fiscal 2024, there have been no material changes to our exposure to market risks from those disclosed in the 2023 Form 10-K, including the types of instruments we use to manage our exposure to such risks.
+Item 4. Controls and Procedures.
+Under the direction and with the participation of our Chief Executive Officer and Chief Financial Officer, we evaluated our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) and concluded that our disclosure controls and procedures were effective as of October 27, 2024.
+We are in the process of an ongoing business transformation initiative, which includes upgrading and migrating certain accounting and finance systems. We plan to continue to migrate additional business processes over the course of the next few years and have modified and will continue to modify the design and implementation of certain internal control processes as the transformation continues.
+Except as described above, there were no other changes in our internal control over financial reporting during the fiscal quarter ended October 27, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings.
+Except as set forth in our Quarterly Report on Form 10-Q for the fiscal quarter ended July 28, 2024 as filed with the SEC on August 20, 2024, there were no material changes during the first nine months of fiscal 2024 to our disclosure in Part I, Item 3. “Legal Proceedings” of our 2023 Form 10-K.
+Table of
+Contents
+SEC regulations require us to disclose certain information about proceedings arising under federal, state or local environmental regulations if we reasonably believe that such proceedings may result in monetary sanctions above a stated threshold. Pursuant to SEC regulations, the Company uses a threshold of $1 million for purposes of determining whether disclosure of any such proceedings is required.
+Item 1A. Risk Factors.
+In addition to the other information set forth in this report, you should carefully consider the factors discussed under Part I, Item 1A. Risk Factors and elsewhere in the 2023 Form 10-K. These risks and uncertainties could materially and adversely affect our business, consolidated financial condition, results of operations, or cash flows. Our operations could also be affected by additional factors that are not presently known to us or by factors that we currently do not consider material to our business. There have been no material changes in the risk factors discussed in the 2023 Form 10-K.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+ISSUER PURCHASES OF EQUITY SECURITIES
+The following table presents the number and average price of shares purchased in each fiscal month of the third quarter of fiscal 2024:
+—————
+(1)
+These amounts include repurchases pursuant to our Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022, and our 1997 Omnibus Stock Incentive Plan (collectively, the “Plans”). Under the Plans, participants surrender shares as payment of applicable tax withholding on the vesting of restricted stock. Participants in the Plans may also exercise stock options by surrendering shares of common stock that the participants already own as payment of the exercise price. Shares so surrendered by participants in the Plans are repurchased pursuant to the terms of the Plans and applicable award agreement and not pursuant to publicly announced share repurchase programs.
+(2)
+On August 14, 2023, our Board of Directors approved a $15.0 billion share repurchase authorization that replaced the previous authorization of $15.0 billion, which was approved on August 18, 2022. The August 2023 authorization does not have a prescribed expiration date. As previously disclosed, we paused share repurchases in March 2024.
+(3)
+Excludes excise taxes incurred on share repurchases.
+SALES OF UNREGISTERED SECURITIES
+During the third quarter of fiscal 2024, we issued 480 deferred stock units under The Home Depot, Inc. Nonemployee Directors’ Deferred Stock Compensation Plan pursuant to the exemption from registration provided by Section 4(a)(2) of the Securities Act and Rule 506 of the SEC’s Regulation D thereunder. The deferred stock units were credited during the third quarter of fiscal 2024 to the accounts of those non-employee directors who elected to receive all or a portion of board retainers in the form of deferred stock units instead of cash. The deferred stock units convert to shares of common stock on a one-for-one basis following a termination of service as described in this plan.
+During the third quarter of fiscal 2024, we credited 876 deferred stock units to participant accounts under the Restoration Plans pursuant to an exemption from the registration requirements of the Securities Act for involuntary, non-contributory plans. The deferred stock units convert to shares of common stock on a one-for-one basis following a termination of service as described in these plans.
+Item 5. Other Information.
+Trading Arrangements
+During the fiscal quarter ended October 27, 2024, no director or officer of the Company
+adopted
+or
+terminated
+a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of the SEC’s Regulation S-K.
+Table of
+Contents
+Item 6. Exhibits.
+Exhibits marked with an asterisk (*) are incorporated by reference to exhibits or appendices previously filed with the SEC, as indicated by the references in brackets. All other exhibits are filed or furnished herewith.
+—————
+‡
+Certain schedules and other similar attachments to this exhibit have been omitted from this filing pursuant to Item 601(a)(5) of Regulation S-K. The registrant will provide a copy of such omitted documents to the SEC upon request.
+Table of
+Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

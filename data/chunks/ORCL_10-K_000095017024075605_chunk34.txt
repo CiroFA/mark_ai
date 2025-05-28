@@ -1,0 +1,22 @@
+practices;
+•
+we may fail to identify or assess the magnitude of certain liabilities, shortcomings or other circumstances prior to acquiring a company or technology;
+•
+we may not realize any anticipated increase in our revenues from an acquisition for a number of reasons, including (1) if a larger than predicted number of customers decline to renew or terminate their contracts with the acquired company; (2) if we are unable to sell the acquired products or service offerings to our customer base; (3) if acquired customers do not elect to purchase our technologies due to differing business practices; or (4) if contract models utilized by an acquired company do not allow us to recognize revenues in a manner that is consistent with our current accounting practices;
+•
+we may have difficulty integrating acquired technologies, products, services and their related supply chain operations with our existing lines of business and related infrastructures;
+•
+we may have multiple product lines or services offerings as a result of our acquisitions that are offered, priced, delivered and supported differently, which could cause customer confusion and delays;
+•
+we may incur higher than anticipated costs (1) to support, develop and deliver acquired products or services; (2) for general and administrative functions that support new business models; or (3) to comply with regulations applicable to an acquired business that are more complicated than we had anticipated;
+•
+we may be unable to obtain timely approvals from, or may otherwise have certain limitations, restrictions, penalties or other sanctions imposed on us by worker councils or similar bodies under applicable employment laws as a result of an acquisition;
+•
+we may be unable to obtain required approvals from governmental authorities under foreign direct investment, foreign subsidy, competition and antitrust laws on a timely basis, if at all, and we may need to divest or dispose of assets or businesses or take other actions to obtain such approvals;
+•
+our use of cash to pay for acquisitions may limit other potential uses of our cash; and
+•
+we may have to incur additional debt to pay for acquisitions or have to delay or not proceed with an acquisition if we cannot obtain the necessary funding to complete the acquisition in a timely manner or on favorable terms.
+The occurrence of any of these risks could have a material adverse effect on our business, results of operations, financial condition or cash flows, particularly in the case of a larger acquisition or several concurrent acquisitions.
+Data Privacy, Cybersecurity and Intellectual Property Risks
+If our security measures for our products and services are compromised and as a result, our data, our customers’ data or our IT systems are accessed improperly, made unavailable, or improperly modified, our products and services may be perceived as vulnerable, our brand and reputation could be damaged, the IT services we provide to our customers could be disrupted,

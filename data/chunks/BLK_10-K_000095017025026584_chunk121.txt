@@ -1,0 +1,20 @@
+Account Assets and Liabilities and Separate Account Collateral Held under Securities Lending Agreements
+Separate account assets are maintained by BlackRock Life Limited, a wholly owned subsidiary of the Company that is a registered life insurance company in the UK, and represent segregated assets held for purposes of funding individual and group pension contracts. The Company records equal and offsetting separate account liabilities. The separate account assets are not available to creditors of the Company and the holders of the pension contracts have no recourse to the Company’s assets. The net investment income attributable to separate account assets accrues directly to the contract owners and is not reported on the consolidated statements of income. While BlackRock has no economic interest in these assets or liabilities, BlackRock earns an investment advisory fee for the service of managing these assets on behalf of its clients.
+In addition, the Company records on its consolidated statements of financial condition the separate account collateral obtained under BlackRock Life Limited securities lending arrangements for which it has legal title as its own asset in addition to an equal and offsetting separate account collateral liability for the obligation to return the collateral. The collateral is not available to creditors of the Company, and the borrowers under the securities lending arrangements have no recourse to the Company’s assets.
+Consolidated Sponsored Investment Products
+The Company consolidates certain sponsored investment products accounted for as variable interest entities (“VIEs”) and voting rights entities (“VREs”). See Note 2,
+Significant Accounting Policies
+, in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information on the Company’s consolidation policy.
+The Company cannot readily access cash and cash equivalents or other assets held by CIPs to use in its operating activities. In addition, the Company cannot readily sell investments held by CIPs in order to obtain cash for use in the Company’s operations.
+53
+(1)
+Amounts represent segregated client assets and related liabilities, in which BlackRock has no economic interest. BlackRock earns an investment advisory fee for the service of managing these assets on behalf of its clients.
+(2)
+Amounts represent the impact of consolidating CIPs.
+(3)
+Amount includes property and equipment and other assets.
+(4)
+Amount includes approximately $4.2 billion of deferred income tax liabilities related to goodwill and intangibles. See Note 25,
+Income Taxes
+, in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information.
+The following discussion summarizes the significant changes in assets and liabilities on a GAAP basis. Please see the consolidated statements of financial condition as of December 31, 2024 and 2023 contained in Part II, Item 8 of this filing. The discussion does

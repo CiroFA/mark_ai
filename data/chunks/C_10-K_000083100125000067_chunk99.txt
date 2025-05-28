@@ -1,0 +1,30 @@
+includes the U.S., Canada and Puerto Rico. Mexico is included in offices outside North America. The classification of corporate loans between offices in North America and outside North America is based on the domicile of the booking unit. The difference between the domicile of the booking unit and the domicile of the managing unit is not material.
+(2)    Loans secured primarily by real estate.
+(3)    Consumer loans are net of unearned income of $889 million, $802 million, $712 million, $629 million and $692 million at December 31, 2024, 2023, 2022, 2021 and 2020, respectively. Unearned income on consumer loans primarily represents loan origination fees, net of certain direct origination costs, that are deferred and recognized as
+Interest income
+over the lives of the related loans.
+(4)    Installment and other includes loans to SPEs and TTS commercial cards.
+(5)    Corporate loans include Mexico SBMM loans and are net of unearned income of $(969) million, $(917) million, $(797) million, $(770) million and $(787) million at December 31, 2024, 2023, 2022, 2021 and 2020, respectively. Unearned income on corporate loans primarily represents loan origination fees, net of certain direct origination costs, that are deferred and recognized as
+Interest income
+over the lives of the related loans.
+(6)    Because loans carried at fair value do not have an ACLL, they are excluded from the ACLL ratio calculation.
+Details of Credit Loss Experience
+87
+(1)
+On January 1, 2023, Citi adopted Accounting Standards Update (ASU) 2022-02,
+Financial Instruments—Credit Losses (Topic 326): TDRs and Vintage Disclosures
+. The ASU eliminated the accounting and disclosure requirements for TDRs, including the requirement to measure the ACLL for TDRs using a discounted cash flow (DCF) approach. On January 1, 2023, Citi recorded a $352 million decrease in the
+Allowance for loan losses
+, along with a $290 million after-tax increase to
+Retained earnings
+. See Note 1.
+(2)
+On January 1, 2020, Citi adopted Accounting Standards Codification (ASC) 326,
+Financial Instruments—Credit Losses (CECL)
+. The ASC introduces a new credit loss methodology requiring earlier recognition of credit losses while also providing additional disclosure about credit risk. On January 1, 2020, Citi recorded a $4.1 billion, or an approximate 29%, pretax increase in the
+Allowance for credit losses
+, along with a $3.1 billion after-tax decrease in
+Retained earnings
+and a deferred tax asset increase of $1.0 billion. This transition impact reflects (i) a $4.9 billion build to the consumer ACL due to longer estimated tenors than under the incurred loss methodology under prior U.S. GAAP, net of recoveries, and (ii) a $0.8 billion decrease to the corporate ACL due to shorter remaining tenors, incorporation of recoveries and use of more specific historical loss data based on an increase in portfolio segmentation across industries and geographies.
+(3)
+Includes all adjustments to the allowance for credit losses, such as

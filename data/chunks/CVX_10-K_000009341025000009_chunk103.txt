@@ -1,0 +1,19 @@
+a tangible long-lived asset and the liability can be reasonably estimated. The legal obligation to perform the asset retirement activity is unconditional, even though uncertainty may exist about the timing and/or method of settlement that may be beyond the company’s control. This uncertainty about the timing and/or method of settlement is factored into the measurement of the liability when sufficient information exists to reasonably estimate fair value. The ARO liability is initially recognized at its fair value with an increase to the related asset. Subsequent accretion of the liability and depreciation of the asset is recorded over time. The company evaluates its ARO estimates regularly or when there is significant new information about costs, timing, and duration of asset retirement activity.
+100
+AROs are primarily recorded for the company’s crude oil and natural gas producing assets. No significant AROs associated with any legal obligations to retire downstream long-lived assets have been recognized, as indeterminate settlement dates for the asset retirements prevent estimation of the fair value of the associated ARO. The company performs periodic reviews of its downstream long-lived assets for any changes in facts and circumstances that might require recognition of a retirement obligation.
+The following table indicates the changes to the company’s before-tax asset retirement obligations in 2024, 2023 and 2022:
+In the table above, the amount associated with “Revisions in estimated cash flows” primarily reflects increased cost estimates and scope changes to decommission wells, equipment and facilities. The long-term portion of the $
+12,667
+balance at the end of 2024 was $
+11,429
+.
+Note 26
+Revenue
+Revenue from contracts with customers is presented in “Sales and other operating revenues” along with some activity that is accounted for outside the scope of Accounting Standard Codification (ASC) 606, which is not material to this line, on the Consolidated Statement of Income. Purchases and sales of inventory with the same counterparty that are entered into in contemplation of one another (including buy/sell arrangements) are combined and recorded on a net basis and reported in “Purchased crude oil and products” on the Consolidated Statement of Income. Refer to
+Note 14 Operating Segments and Geographic Data
+for additional information on the company’s segmentation of revenue.
+Receivables related to revenue from contracts with customers are included in “Accounts and notes receivable” on the Consolidated Balance Sheet, net of the allowance for doubtful accounts. The net balance of these receivables was $
+14,227
+and $
+13,641
+at December 31, 2024 and 2023, respectively. Other items included in “Accounts and notes receivable” represent amounts due from partners for their share of joint venture operating and project costs and amounts due from others, primarily related to derivatives, leases, buy/sell arrangements and product exchanges, which are accounted

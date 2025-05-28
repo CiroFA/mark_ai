@@ -1,0 +1,20 @@
+fair value. For FPL, a corresponding adjustment would be made to the related regulatory asset or liability accounts based on current regulatory treatment, and for NEE’s non-rate regulated operations, a corresponding amount would be recorded in change in unrealized gains (losses) on equity securities held in NEER's nuclear decommissioning funds – net in NEE's consolidated statements of income.
+Credit Risk
+NEE and its subsidiaries, including FPL, are also exposed to credit risk through their energy marketing and trading operations. Credit risk is the risk that a financial loss will be incurred if a counterparty to a transaction does not fulfill its financial obligation. NEE manages counterparty credit risk for its subsidiaries with energy marketing and trading operations through established policies, including counterparty credit limits, and in some cases credit enhancements, such as cash prepayments, letters of credit, cash and other collateral and guarantees.
+55
+Table of Content
+s
+Credit risk is also managed through the use of master netting agreements. NEE’s credit department monitors current and forward credit exposure to counterparties and their affiliates, both on an individual and an aggregate basis. For all derivative and contractual transactions, NEE’s energy marketing and trading operations, which include FPL's energy marketing and trading division, are exposed to losses in the event of nonperformance by counterparties to these transactions. Some relevant considerations when assessing NEE’s energy marketing and trading operations’ credit risk exposure include the following:
+•
+Operations are primarily concentrated in the energy industry.
+•
+Trade receivables and other financial instruments are predominately with energy, utility and financial services related companies, as well as municipalities, cooperatives and other trading companies in the U.S.
+•
+Overall credit risk is managed through established credit policies and is overseen by the EMC.
+•
+Prospective and existing customers are reviewed for creditworthiness based upon established standards, with customers not meeting minimum standards providing various credit enhancements or secured payment terms, such as letters of credit or the posting of margin cash collateral.
+•
+Master netting agreements are used to offset cash and noncash gains and losses arising from derivative instruments with the same counterparty. NEE’s policy is to have master netting agreements in place with significant counterparties.
+Based on NEE’s policies and risk exposures related to credit, NEE and FPL do not anticipate a material adverse effect on their financial statements as a result of counterparty nonperformance. At December 31, 2024, NEE's credit risk exposure associated with its energy marketing and trading operations, taking into account collateral and contractual netting rights, totaled approximately
+$2.6 billion
+($64 million for FPL), of which approximately 88% (99% for FPL) was with companies that have

@@ -1,0 +1,18 @@
+not settle until subsequent business days.  In addition, the Company may receive or post funds in advance of transactions related to certain payments capabilities.  The Company classifies the balances arising from these various activities as settlement assets and settlement obligations.
+Income taxes
+- The Company follows an asset and liability based approach in accounting for income taxes as required under GAAP.  Deferred income tax assets and liabilities are recorded to reflect the tax consequences on future years of temporary differences between the financial statement carrying amounts and income tax bases of assets and liabilities.  Deferred income taxes are displayed separately as noncurrent assets and liabilities on the consolidated balance sheets.  Valuation allowances are provided against assets which are not more likely than not to be realized.  The Company recognizes all material tax positions, including uncertain tax positions in which it is more likely than not that the position will be sustained based on its technical merits and if challenged by the relevant taxing authorities.  At each balance sheet date, unresolved uncertain tax positions are reassessed to determine whether subsequent developments require a change in the amount of recognized tax benefit.  The allowance for uncertain tax positions is recorded in other current and noncurrent liabilities on the consolidated balance sheets.  The Company
+73
+MASTERCARD 2024 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+records interest expense related to income tax matters as interest expense on the consolidated statements of operations.  The Company includes penalties related to income tax matters in the income tax provision.
+Cash and cash equivalents
+- Cash and cash equivalents include certain investments with daily liquidity and with an original maturity of three months or less from the date of purchase.  Cash equivalents are recorded at cost, which approximates fair value.
+Restricted cash and restricted cash equivalents
+- The Company classifies cash and cash equivalents as restricted when it is unavailable for withdrawal or use in its general operations.  The Company has the following types of restricted cash and restricted cash equivalents (“restricted cash”) that are included in the reconciliation of beginning-of-period and end-of-period amounts shown on the consolidated statements of cash flows:
+•
+Restricted cash
+- Restricted cash includes cash segregated to meet regulatory commitments, cash within qualified legal settlement funds and cash restricted for other general business purposes, including contractually restricted deposits as well as cash balances that are restricted based on the Company’s intention with regard to usage.
+•
+Restricted security deposits held for customers
+- The Company requires certain customers to enter into risk mitigation arrangements, including cash collateral and/or forms of credit

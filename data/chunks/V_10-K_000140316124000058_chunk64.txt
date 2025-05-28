@@ -1,0 +1,26 @@
+standards are not met. See
+Note 1—Summary of Significant Accounting Policies
+and
+Note 12—Settlement Guarantee Management
+to our consolidated financial statements included in
+Item 8
+of this report.
+Accounting Pronouncements Not Yet Adopted
+In November 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2023-07, which is intended to improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. This standard also enhances interim disclosure requirements and provides new segment disclosure requirements for entities with a single reportable segment. This ASU is effective for our annual periods beginning October 1, 2024, and interim periods beginning October 1, 2025, and requires retrospective application to all prior periods presented. We are currently evaluating the impact of the ASU on our disclosures.
+In December 2023, the FASB issued ASU 2023-09, which provides improvements to income tax disclosures. This standard requires disaggregated information related to the effective tax rate reconciliation as well as information on income taxes paid. This ASU is effective for our annual periods beginning October 1, 2025, and requires prospective application with the option to apply the standard retrospectively. We are currently evaluating the impact of the ASU on our disclosures.
+In November 2024, the FASB issued ASU 2024-03, which requires disclosure of additional information about specific expense categories underlying certain income statement expense line items. This ASU is effective for our annual periods beginning October 1, 2027, and requires either prospective or retrospective application. We are currently evaluating the impact of the ASU on our disclosures.
+Critical Accounting Estimates
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America which require us to make judgments, assumptions and estimates that affect the amounts reported. See
+Note 1—Summary of Significant Accounting Policies
+to our consolidated financial statements included in
+Item 8
+of this report. We have established policies and control procedures which seek to ensure that estimates and assumptions are appropriately governed and applied consistently from period to period. However, actual results could differ from our assumptions and estimates, and such differences could be material.
+We believe that the following accounting estimates are the most critical to fully understand and evaluate our reported financial results, as they require our most subjective or complex management judgments, resulting from the need to make estimates about the effect of matters that are inherently uncertain and unpredictable.
+49
+Table
+of Contents
+Revenue Recognition
+—
+Client Incentives
+Critical estimates.
+We enter into long-term incentive agreements with financial institution clients, merchants and other business

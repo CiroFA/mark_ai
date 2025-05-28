@@ -1,0 +1,25 @@
+and assembly, and most of the testing, of our integrated circuits. Our suppliers are also responsible for the procurement of most of the raw materials used in the production of our integrated circuits. There are a limited number of such third-party suppliers, and even fewer who are capable of manufacturing at the leading process technology nodes, or who are willing to operate at older process technology nodes necessary for certain of our integrated circuit products. The semiconductor manufacturing foundries that supply our products are primarily located in Asia, as are the primary warehouses where we store finished goods for fulfillment of customer orders.
+The following issues related to our third-party suppliers could have an adverse effect on our ability to meet customer demand and negatively impact our revenues, business operations, profitability and cash flows:
+•
+our suppliers’ failure or inability to react to shifts in product demand, including situations where demand for integrated circuits exceeds suppliers’ capacity to meet that demand;
+•
+a failure or inability by our suppliers to procure raw materials or allocate adequate raw materials for our products, or an increase in prices for raw materials or components;
+32
+•
+an inability to procure or utilize raw materials, components or products from our suppliers due to government prohibitions or restrictions on transactions with certain countries and/or companies, and alternative suppliers, raw material sources or raw materials are not available or not available in acceptable time frames or upon acceptable terms;
+•
+a failure by our suppliers to allocate adequate manufacturing, assembly or test capacity for our products;
+•
+our suppliers’ failure or inability to develop or maintain, or a delay in developing or building out, manufacturing capacity for leading process technologies, including transitions to smaller geometry process technologies;
+•
+the loss of a supplier or the failure or inability of a supplier to meet performance, quality or yield specifications or delivery schedules;
+•
+additional expense or production delays as a result of qualifying a new supplier and commencing volume production or testing in the event of a loss of, or a decision to add or change, a supplier;
+•
+natural disasters, the effects of climate change, acts of war or other geopolitical conflicts impacting the regions in which our suppliers and their manufacturing foundries or assembly, test or other facilities are located;
+•
+health crises, including epidemics or pandemics, and government and business responses thereto, which impact our suppliers, including as a result of quarantines or closures;
+•
+cyber-attacks on our suppliers’ information technology (IT) systems, including those related to their manufacturing foundries or assembly, test or other facilities;
+•
+trade or national security protection policies, particularly U.S. or Chinese government policies, that limit or prevent us from transacting business with

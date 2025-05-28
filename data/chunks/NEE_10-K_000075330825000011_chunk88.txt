@@ -1,0 +1,16 @@
+property (renewable property). Convertible ITCs are recorded as a reduction in property, plant and equipment on NEE's and FPL's consolidated balance sheets and are amortized as a reduction to depreciation and amortization expense over the estimated life of the related property. At December 31, 2024 and 2023, convertible ITCs, net of amortization, were approximately $
+607
+million ($
+100
+million at FPL) and $
+633
+million ($
+106
+million at FPL).
+Depreciation of FPL's electric property is provided on a straight-line basis, primarily over its average remaining useful life. FPL includes in depreciation expense a provision for electric generation plant dismantlement, interim asset removal costs, accretion related to asset retirement obligations (see Decommissioning of Nuclear Plants, Dismantlement of Plants and Other Accrued Asset Removal Costs below) and storm recovery amortization. For substantially all of FPL's property, depreciation studies are performed periodically and filed with the FPSC which result in updated depreciation rates. Reserve amortization is recorded as either an increase or decrease to accrued asset removal costs which is reflected in noncurrent regulatory assets on NEE's and FPL's consolidated balance sheets. FPL files a twelve-month forecast with the FPSC each year which contains a regulatory ROE intended to be earned based on the best information FPL has at that time assuming normal weather. This forecast establishes a targeted regulatory ROE. In order to earn the targeted regulatory ROE in each reporting period subject to the conditions of the
+72
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+effective rate agreement, reserve amortization is calculated using a trailing thirteen-month average of retail rate base and capital structure in conjunction with the trailing twelve months regulatory retail base net operating income, which primarily includes the retail base portion of base and other revenues, net of O&M, depreciation and amortization, interest and tax expenses. In general, the net impact of these income statement line items is adjusted, in part, by reserve amortization or its reversal to earn the targeted regulatory ROE. See Rate Regulation – Base Rates Effective January 2022 through December 2025 above.
+NEER's electric plant in service and other property less salvage value, if any, are depreciated primarily using the straight-line method over their estimated useful lives. NEER reviews the estimated useful lives of its fixed assets on an ongoing basis. NEER's natural gas and oil production assets are accounted for under the successful efforts method. Depletion expenses for the acquisition of reserve rights and development costs are recognized using the unit of production method. Depreciation of NEER’s rate-regulated transmission assets are provided on a straight-line basis, primarily over their average remaining useful life. NEER includes in

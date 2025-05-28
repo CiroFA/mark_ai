@@ -1,0 +1,34 @@
+and performance reporting. In some instances, we have guaranteed payments to the fund investors as specified in the agreements. A fund’s creditors have no recourse to our general credit or to that of other funds. Certain assets of the funds have been pledged as collateral for their obligations.
+88
+The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions):
+Note 16 –
+Related Party Transactions
+Tesla periodically does business with certain entities with which its CEO and directors are affiliated, such as x.AI, SpaceX, The Boring Company, X Corp. and Redwood Materials, in accordance with our Related Person Transactions Policy. Such transactions have not had to date, and are not currently expected to have, a material impact on our consolidated financial statements.
+89
+Note 17 –
+Segment Reporting and Information about Geographic Areas
+Our Chief Executive Officer, as the CODM, organizes our company, manages resource allocations and measures performance among
+two
+operating and reportable segments: (i) automotive and (ii) energy generation and storage. The automotive segment includes the design, development, manufacturing, sales and leasing of electric vehicles as well as sales of automotive regulatory credits. Additionally, the automotive segment is also comprised of services and other, which includes sales of used vehicles, non-warranty maintenance services and collision, part sales, paid Supercharging, insurance services revenue and retail merchandise sales. The energy generation and storage segment includes the design, manufacture, installation, sales and leasing of solar energy generation and energy storage products and related services and sales of solar energy systems incentives.
+Our CODM does not evaluate operating segments using asset or liability information. The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information. The following table presents revenues, cost of revenues and gross profit by reportable segment (in millions):
+(1)
+Depreciation and amortization included in Cost of revenues for the automotive segment for the years ended December 31, 2024, 2023 and 2022 was $
+3.68
+billion, $
+3.45
+billion and $
+2.81
+billion, respectively.
+(2)
+Depreciation and amortization included in Cost of revenues for the energy generation and storage segment for the years ended December 31, 2024, 2023 and 2022 was $
+377
+million, $
+343
+million and $
+331
+million, respectively.
+The following table presents revenues by geographic area based on the sales location of our products (in millions):
+The following table presents long-lived assets by geographic area (in millions):
+90
+The following table presents inventory by reportable segment (in millions):
+Note 18 –

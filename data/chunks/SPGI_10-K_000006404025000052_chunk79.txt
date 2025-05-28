@@ -1,0 +1,23 @@
+the Dutch Authority for the Financial Markets (AFM)) for its benchmark activities in the European Union and in the United Kingdom (authorized by the Financial Conduct Authority) for its
+benchmark activities in the United Kingdom. The Australian Benchmark Regulation requires a license from the Australian Securities and Investment Commission (“ASIC”), which Indices has obtained. These benchmark regulations have and may continue to cause increased operating obligations, exposure, compliance risk, and costs of doing business for Indices.
+In July of 2013, IOSCO issued its Principles for Financial Benchmarks (the “Financial Benchmark Principles”), intended to promote the reliability of financial benchmarks. The Financial Benchmark Principles address governance, benchmark quality and accountability mechanisms, including with regard to the indices published by Indices. Indices has taken steps to align its governance regime, control framework and operations with the Financial Benchmark Principles and engages an independent auditor to perform an annual reasonable assurance review of its adherence to the Financial Benchmark Principles.
+From time to time, government and self-regulatory agencies in jurisdictions where we operate conduct market studies on our markets, which may result in the imposition of remedies that impact our business.
+For a further discussion of competitive and other risks inherent in our Indices business, see Item 1A,
+Risk Factors
+, in this Annual Report on Form 10-K. For a further discussion of the legal and regulatory environment in our Indices business, see Note 13 –
+Commitments and Contingencies
+to the consolidated financial statements under Item 8,
+Consolidated Financial Statements and Supplementary Data,
+in this Annual Report on Form 10-K.
+59
+Table of Contents
+Engineering Solutions
+As of May 2, 2023, we completed the sale of Engineering Solutions, a provider of engineering standards and related technical knowledge, and the results are included through that date. See Note 2 -
+Acquisitions and Divestitures
+to the consolidated financial statements under Item 8, Consolidated Financial Statements and Supplementary Data, in this Annual Report on Form 10-K for information on the sale of Engineering Solutions and the merger with IHS Markit.
+Engineering Solutions included our Product Design offerings that provided technical professionals with the information and insight required to more effectively design products, optimize engineering projects and outcomes, solve technical problems and address complex supply chain issues. Our offerings utilized advanced knowledge discovery technologies, research tools, and software-based engineering decision engines to advance innovation, maximize productivity, improve quality and reduce risk.
+Engineering Solutions’ revenue was generated primarily through the following sources:
+•
+Subscription revenue
+—
+primarily from subscriptions to our Product Design offerings providing standards, codes and

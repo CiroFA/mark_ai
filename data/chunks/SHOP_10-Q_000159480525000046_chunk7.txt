@@ -1,0 +1,24 @@
+company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No
+x
+The registrant had
+1,218,135,388
+Class A Subordinate Voting Shares,
+79,245,482
+Class B Restricted Voting Shares and
+1
+Founder Share issued and outstanding as of May 2, 2025.
+Shopify Inc.
+TABLE OF CONTENTS
+Table of Contents
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements under the provisions of the U.S. Private Securities Litigation Reform Act of 1995, Section 27A of the U.S. Securities Act of 1933 (as amended, the "Securities Act"), Section 21E of the U.S. Securities Exchange Act of 1934 (as amended, the "Exchange Act") and forward-looking information within the meaning of applicable Canadian securities legislation.
+In some cases, you can identify forward-looking statements by terminology such as "enable", "may", "might", "will", "should", "assume", "could", "possible", "expects", "intends", "plans", "anticipates", "believes", "predicts", "potential", "continue", "become", "seek", "strive" or the negative of these terms or other similar words. Any forward-looking statements are based on our management’s perception of historic trends, current conditions and expected future developments, as well as other assumptions that management believes are appropriate in the circumstances. In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking. In particular, forward-looking statements include, but are not limited to, statements about:
+•
+our ability to: expand, grow and retain our merchant base; localize features; offer more sales channels that can connect to our platform; increase and extend the functionality of our platform; catalyze merchants' sales growth; leverage emerging technologies, including artificial intelligence ("AI"); enhance our ecosystem and partner programs; provide a high level of merchant service and support; hire key talent and retain and motivate qualified personnel; and maximize long-term value;
+•
+our products and solutions enabling and increasing the probability of merchant success;
+•
+our beliefs regarding future macroeconomic conditions and the impact on Shopify Inc. ("Shopify" or the "Company") and our merchants, including pressure from inflation and international trade risks and trade protection measures, such as the evolving impacts from tariffs or the

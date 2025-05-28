@@ -1,0 +1,20 @@
+high-LTV loans tends to be greater than that for loans where the borrower has equity in the collateral. The geographic distribution of the loan collateral also provides insight as to the credit quality of the portfolio, as factors such as the regional economy, home price changes and specific events such as natural disasters, will affect credit quality. The borrower’s current or “refreshed” FICO score is a secondary credit quality indicator for certain loans, as FICO scores are an indication of the borrower’s credit payment history. Thus, a loan to a borrower with a low FICO score (less than 660) is considered to be of higher risk than a loan to a borrower with a higher FICO score. Further, a loan to a borrower with a high LTV ratio and a low FICO score is at greater risk of default than a loan to a borrower that has both a high LTV ratio and a high FICO score.
+•
+For scored auto and business banking loans, geographic distribution is an indicator of the credit performance of the portfolio. Similar to residential real estate loans, geographic distribution provides insights into the portfolio performance based on regional economic activity and events.
+Residential real estate
+Delinquency is the primary credit quality indicator for retained residential real estate loans.
+The following tables provide information on delinquency and gross charge-offs.
+(a)
+Individual delinquency classifications include mortgage loans insured by U.S. government agencies which were not material at December 31, 2024 and 2023.
+(b)
+Excludes mortgage loans that are 30 or more days past due insured by U.S. government agencies which were not material at December 31, 2024 and 2023. These amounts have been excluded based upon the government guarantee.
+(c)
+Purchased loans are included in the year in which they were originated.
+Approximately
+38
+% of the total revolving loans are senior lien loans; the remaining balance are junior lien loans. The lien position the Firm holds is considered in the Firm’s allowance for credit losses. Revolving loans that have been converted to term loans have higher delinquency rates than those that are still within the revolving period. That is primarily because the fully-amortizing payment that is generally required for those products is higher than the minimum payment options available for revolving loans within the revolving period.
+Notes to consolidated financial statements
+Nonaccrual loans and other credit quality indicators
+The following table provides information on nonaccrual and other credit quality indicators for retained residential real estate loans.
+(a)
+Includes collateral-dependent residential real estate loans that are charged down to the fair value of the underlying collateral less costs to sell. The Firm reports, in accordance with regulatory guidance, residential real estate loans that have been discharged under Chapter 7 bankruptcy and not reaffirmed by the borrower (“Chapter 7 loans”) as collateral-dependent nonaccrual loans,

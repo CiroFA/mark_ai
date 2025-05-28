@@ -1,0 +1,29 @@
+December 31, 2021.
+•
+The Standardized and Advanced risk-based capital ratios increased from December 2023 to December 2024, primarily reflecting an increase in capital, principally due to net earnings, and a decrease in Market RWAs, partially offset by an increase in Credit RWAs.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The table below presents information about GS Bank USA’s leverage ratios.
+In the table above:
+•
+Average adjusted total assets represents the average daily assets for the quarter adjusted for deductions from Tier 1 capital and the impact of CECL transition.
+•
+Tier 1 leverage ratio is calculated as Tier 1 capital divided by average adjusted total assets.
+•
+SLR is calculated as Tier 1 capital divided by total leverage exposure.
+The FRB requires that GS Bank USA maintain cash reserves with the Federal Reserve. As of both December 2024 and December 2023, the reserve requirement ratio was zero percent. See Note 26 for further information about cash deposits held by the firm at the Federal Reserve.
+GS Bank USA is a registered swap dealer with the CFTC and a registered security-based swap dealer with the SEC. As of both December 2024 and December 2023, GS Bank USA was subject to and in compliance with applicable capital requirements for swap dealers and security-based swap dealers.
+Restrictions on Payments
+Group Inc. may be limited in its ability to access capital held at certain subsidiaries as a result of regulatory, tax or other constraints. These limitations include provisions of applicable law and regulations and other regulatory restrictions that limit the ability of those subsidiaries to declare and pay dividends without prior regulatory approval. For example, the amount of dividends that may be paid by GS Bank USA are limited to the lesser of the amounts calculated under a recent earnings test and an undivided profits test.
+In addition, subsidiaries not subject to separate regulatory capital requirements may hold capital to satisfy local tax and legal guidelines, rating agency requirements (for entities with assigned credit ratings) or internal policies, including policies concerning the minimum amount of capital a subsidiary should hold based on its underlying level of risk.
+Group Inc.’s equity investment in subsidiaries was $
+140.79
+billion as of December 2024 and $
+133.75
+billion as of December 2023, of which Group Inc. was required to maintain $
+98.48
+billion as of December 2024 and $
+95.80
+billion as of December 2023, of minimum equity capital in its regulated subsidiaries in order to satisfy the regulatory requirements of such subsidiaries.
+Group Inc.’s capital invested in certain non-U.S. dollar functional currency subsidiaries is exposed to foreign exchange risk, substantially all of which is managed through a combination of non-U.S. dollar-denominated debt and derivatives. See Note 7 for information about the firm’s net investment hedges used to hedge this risk.
+THE GOLDMAN

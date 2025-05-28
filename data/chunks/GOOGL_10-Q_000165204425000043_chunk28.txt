@@ -1,0 +1,23 @@
+expenses primarily include direct costs, such as advertising and promotional activities and third party services fees as well as allocated costs, such as technical infrastructure and office facilities usage costs. Additionally, Google Services other costs and expenses include content and traffic acquisition costs and device costs.
+See Note 2 for information relating to revenues by geography.
+The following table presents long-lived assets by geographic area, which includes property and equipment, net and operating lease assets (in millions):
+31
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Please read the following discussion and analysis of our financial condition and results of operations together with "Note About Forward-Looking Statements" and our consolidated financial statements and related notes included under Item 1 of this Quarterly Report on Form 10-Q as well as our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, including Part I, Item 1A "Risk Factors."
+Understanding Alphabet’s Financial Results
+Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google Cloud; we also report all non-Google businesses collectively as Other Bets. For further details on our segments, see Note 15 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Revenues and Monetization Metrics
+We generate revenues by delivering relevant, cost-effective online advertising; cloud-based solutions that provide enterprise customers of all sizes with infrastructure, platform services, and applications; sales of other products and services, such as fees received for subscription-based products, apps and in-app purchases, and devices. For additional information on how we recognize revenue, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024.
+In addition to the long-term trends and their financial effect on our business discussed in "Trends in Our Business and Financial Effect" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, fluctuations in our revenues have been and may continue to be affected by a combination of factors, including:
+•
+changes in foreign currency exchange rates;
+•
+changes in pricing, such as those resulting from changes in fee structures, discounts, and customer incentives;
+•
+general economic conditions and various external dynamics, including geopolitical events, regulations, and other measures and their effect on advertiser, consumer, and enterprise spending;
+•
+new product, service, and market launches; and
+•
+seasonality.
+Additionally, fluctuations in our revenues generated from advertising ("Google advertising"), other sources ("Google subscriptions, platforms, and devices"), Google Cloud, and

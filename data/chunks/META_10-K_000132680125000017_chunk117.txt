@@ -1,0 +1,21 @@
+unrounded results.
+71
+Table of
+Contents
+Revenue
+The following table sets forth our revenue by source and by segment:
+Family of Apps
+FoA revenue in 2024 increased $29.35 billion, or 22%, compared to 2023. The increase was almost entirely driven by advertising revenue.
+Advertising
+Advertising revenue in 2024 increased $28.68 billion, or 22%, compared to 2023 due to increases in ad impressions delivered and average price per ad. In 2024, ad impressions delivered increased by 11%, as compared with a 28% increase in 2023, year-over-year. Ad impressions delivered during 2024 grew in all regions, especially in Asia-Pacific and Rest of World, which was mostly driven by increases in users and their engagement on our products. In 2024, the average price per ad increased by 10%, as compared with a decrease of 9% in 2023, year-over-year. The increase in average price per ad in 2024 was driven by an increase in advertising demand, which we believe is mainly due to ongoing improvements to our ad performance from our ad targeting and measurement tools. This increase was partially offset by a higher number of ad impressions delivered, especially in geographies and in products, such as Reels, that monetize at lower rates. Other factors are discussed in the section entitled "—Executive Overview of Full Year 2024 Results." In addition, the online commerce vertical was the largest contributor to the increase in advertising revenue in 2024 compared to 2023. We anticipate that future advertising revenue will be driven by a combination of price and ad impressions delivered.
+Other revenue
+FoA other revenue in 2024 increased $664 million, or 63%, compared to 2023. The increase was primarily driven by WhatsApp Business Platform revenue.
+Reality Labs
+RL revenue in 2024 increased $250 million, or 13%, compared to 2023. The increase was mostly due to an increase in RL consumer hardware products sold.
+Revenue Seasonality
+Revenue is traditionally seasonally strong in the fourth quarter of each year due in part to seasonal holiday demand. We believe that this seasonality in both advertising revenue and RL consumer hardware sales affects our quarterly results, which generally reflect significant growth in revenue between the third and fourth quarters and a decline between the fourth and subsequent first quarters. For instance, our total revenue increased 19%, 17%, and 16% between the third and fourth quarters of 2024, 2023, and 2022, respectively, while total revenue for the first quarters of 2024, 2023, and 2022 declined 9%, 11%, and 17% compared to the fourth quarters of 2023, 2022, and 2021, respectively.
+72
+Table of
+Contents
+Foreign Exchange Impact on Revenue
+Changes in foreign exchange rates had an unfavorable impact on our revenue in the full year 2024 compared to the same period in 2023. To calculate revenue on a constant currency basis, we translated revenue using the prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar.

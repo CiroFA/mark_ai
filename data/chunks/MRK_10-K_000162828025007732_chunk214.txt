@@ -1,0 +1,43 @@
+accumulated benefit obligation was $
+18.1
+billion and $
+19.1
+billion, respectively, for all pension plans, of which $
+10.0
+billion and $
+10.3
+billion, respectively, related to U.S. pension plans.
+116
+Table of Content
+s
+Information related to the funded status of selected pension plans at December 31 is as follows:
+Plan Assets
+Entities are required to use a fair value hierarchy which maximizes the use of observable inputs and minimizes the use of unobservable inputs when measuring fair value. There are three levels of inputs used to measure fair value with Level 1 having the highest priority and Level 3 having the lowest:
+Level 1
+— Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2
+— Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+Level 3
+— Unobservable inputs that are supported by little or no market activity. The Level 3 assets are those whose values are determined using pricing models, discounted cash flow methodologies, or similar techniques with significant unobservable inputs, as well as instruments for which the determination of fair value requires significant judgment or estimation. At December 31, 2024 and 2023, $
+700
+million and $
+788
+million, respectively, or approximately
+4
+% of the Company’s pension investments were categorized as Level 3 assets.
+If the inputs used to measure the financial assets fall within more than one level described above, the categorization is based on the lowest level input that is significant to the fair value measurement of the instrument.
+117
+Table of Content
+s
+The fair values of the Company’s pension plan assets at December 31 by asset category are as follows:
+(1)
+Certain investments that were measured at net asset value (NAV) per share or its equivalent have not been classified in the fair value hierarchy. The NAV amounts presented in this table are intended to permit reconciliation of the fair value hierarchy to the fair value of plan assets at December 31, 2024 and 2023.
+(2)
+The plans’ Level 3 investments in insurance contracts are generally valued using a crediting rate that approximates market returns and invest in underlying securities whose market values are unobservable and determined using pricing models, discounted cash flow methodologies, or similar techniques.
+118
+Table of Content
+s
+The table below provides a summary of the changes in fair value, including transfers in and/or out, of all financial assets measured at fair value using significant unobservable inputs (Level 3) for the Company’s pension plan assets:
+The fair values of the Company’s other postretirement benefit plan assets at December 31 by asset category are as follows:
+(1)
+Certain investments that were measured at net asset value (NAV) per share or its equivalent have not been classified in the

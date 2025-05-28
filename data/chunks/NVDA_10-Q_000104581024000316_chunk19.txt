@@ -1,0 +1,28 @@
+attributable to each segment, and costs or expenses that are leveraged across our unified architecture and therefore allocated between our
+two
+segments.
+The “All Other” category includes the expenses that our CODM does not assign to either Compute & Networking or Graphics for purposes of making operating decisions or assessing financial performance. The expenses include stock-based compensation expense, corporate infrastructure and support costs, acquisition-related and other costs, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature.
+Our CODM does not review any information regarding total assets on a reportable segment basis. Depreciation and amortization expenses directly attributable to each reportable segment are included in operating results for each segment. However, our CODM does not review depreciation and amortization expense by operating segment and, therefore, it is not separately presented. The accounting policies for segment reporting are the same as for our consolidated financial statements.
+The table below presents details of our reportable segments and the “All Other” category.
+21
+NVIDIA Corporation and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Continued)
+(Unaudited)
+Revenue by geographic area is based upon the billing location of the customer. The end customer and shipping location may be different from our customer’s billing location. For example, most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant.
+Revenue by geographic area was as follows:
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, distributors, ODMs, OEMs, and system integrators. We have certain customers that may purchase products directly from NVIDIA and may use either internal resources or third-party system integrators to complete their build. We also have indirect customers, who purchase products through our direct customers; indirect customers include cloud service providers, consumer internet companies, enterprises, and public sector entities.
+Sales to direct customers which represented 10% or more of total revenue, all of which were primarily attributable to the Compute & Networking segment, are presented in the following table:
+* Less than 10% of total revenue
+The customer references of A-D above may represent different customers than those reported in a previous period.
+Sales to one direct customer represented
+12
+% of total revenue for the third quarter of fiscal year 2024, and sales to a second direct customer represented
+11
+% of total revenue for the first nine months of fiscal year 2024, both of which were attributable to the Compute & Networking segment.
+22
+NVIDIA Corporation and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Continued)
+(Unaudited)
+The following table summarizes revenue by specialized markets:
+23
+Item

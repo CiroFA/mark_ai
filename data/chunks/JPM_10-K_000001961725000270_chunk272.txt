@@ -1,0 +1,15 @@
+framework, applied to uncollateralized (including partially collateralized) over-the-counter (“OTC”) derivatives incorporates key inputs such as: (i) the expected funding requirements arising from the Firm’s positions with each counterparty and collateral arrangements; and (ii) the estimated market funding cost in the principal market which, for derivative liabilities, considers the Firm’s credit risk (DVA). For collateralized derivatives, the fair value is estimated by discounting expected future cash flows at the relevant overnight indexed swap rate given the underlying collateral agreement with the counterparty, and therefore a separate FVA is not necessary.
+The following table provides the impact of credit and funding adjustments on principal transactions revenue in the respective periods, excluding the effect of any associated hedging activities. The FVA presented below includes the impact of the Firm’s own credit quality on the inception value of liabilities as well as the impact of changes in the Firm’s own credit quality over time.
+Valuation adjustments on fair value option elected liabilities
+The valuation of the Firm’s liabilities for which the fair value option has been elected requires consideration of the Firm’s own credit risk. DVA on fair value option elected liabilities reflects changes (subsequent to the issuance of the liability) in the Firm’s probability of default and LGD, which are estimated based on changes in the Firm’s credit spread observed in the bond market. Realized (gains)/losses due to DVA for fair value option elected liabilities are reported in principal transactions revenue. Unrealized (gains)/losses are reported in OCI. Refer to page 196 in this Note and Note 24 for further information.
+Assets and liabilities measured at fair value on a nonrecurring basis
+The following tables present the assets held as of December 31, 2024 and 2023, for which nonrecurring fair value adjustments were recorded during the years ended December 31, 2024 and 2023, by major product category and fair value hierarchy. There were
+no
+liabilities measured at fair value on a nonrecurring basis at both December 31, 2024 and 2023.
+(a)  Included equity securities without readily determinable fair values that were adjusted based on observable price changes in orderly transactions from an identical or similar investment of the same issuer (measurement alternative). Of the $
+1.0
+billion in level 3 assets measured at fair value on a nonrecurring basis as of December 31, 2024, $
+668
+million related to equity securities adjusted based on the measurement alternative. These equity securities are classified as level 3 due to the infrequency of the observable prices and/or the restrictions on the shares. Also, included impairments on certain equity method investments.
+Nonrecurring fair value changes
+The following table presents the total change in value of assets and liabilities for which fair value adjustments have been recognized for the years ended

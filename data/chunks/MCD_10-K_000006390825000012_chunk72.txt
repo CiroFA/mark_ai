@@ -1,0 +1,40 @@
+changes to the extent they are attributable to the risk designated as being hedged. The related hedging instruments are also recorded at fair value on the Consolidated Balance Sheet.
+McDonald's Corporation
+2024 Annual Report
+62
+The Company maintains a share-based compensation plan, which authorizes the granting of various equity-based incentives including stock options and RSUs to employees and nonemployee directors. The number of shares of common stock reserved for issuance under the plan was
+29.7
+million at December 31, 2024, including
+19.1
+million available for future grants.
+Share-based compensation expense and the effect on diluted earnings per common share were as follows:
+As of December 31, 2024, there was $
+187
+million of total unrecognized compensation cost related to nonvested share-based compensation that is expected to be recognized over a weighted-average period of
+1.4
+years.
+STOCK OPTIONS
+Stock options to purchase common stock are granted with an exercise price equal to the closing market price of the Company’s stock on the date of grant. Substantially all of the options become exercisable in four equal installments, beginning a year from the date of the grant, and generally expire
+10
+years from the grant date.
+The following table presents the weighted-average assumptions used in the option pricing model for the 2024, 2023 and 2022 stock option grants. The expected life of the options represents the period of time the options are expected to be outstanding and is based on historical trends. Expected stock price volatility is generally based on the historical volatility of the Company’s stock for a period approximating the expected life. The expected dividend yield is based on the Company’s most recent annual dividend rate. The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of grant with a term equal to the expected life.
+Weighted-average assumptions
+Intrinsic value for stock options is defined as the difference between the current market value of the Company’s stock and the exercise price. During 2024, 2023 and 2022, the total intrinsic value of stock options exercised was $
+269
+million, $
+304
+million and $
+242
+million, respectively. Cash received from stock options exercised during 2024 was $
+328
+million and the tax benefit realized from stock options exercised totaled $
+50
+million. The Company uses treasury shares purchased under the Company’s share repurchase program to satisfy share-based exercises.
+A summary of the status of the Company’s stock option grants as of December 31, 2024, 2023 and 2022, and changes during the years then ended, is presented in the following table:
+McDonald's Corporation
+2024 Annual Report
+63
+RSUs
+RSUs generally vest
+100
+% on the third anniversary of the grant and are payable in either shares of the Company’s common stock or cash, at the Company’s discretion. The fair value of each RSU granted is equal to the market price of the Company’s stock at date of grant.

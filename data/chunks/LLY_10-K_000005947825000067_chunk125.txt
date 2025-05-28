@@ -1,0 +1,53 @@
+service period of the individual grantees, which generally equals the vesting period. We provide newly issued shares of our common stock and treasury stock to satisfy the issuance of RSU, SVA, PA, and RVA shares.
+Stock-based compensation expense and the related tax benefits were as follows:
+At December 31, 2024, stock-based compensation awards may be granted under the 2002 Lilly Stock Plan for not more than
+48.8
+million additional shares.
+Restricted Stock Units
+RSUs are granted to certain employees and are payable in shares of our common stock. RSU shares are accounted for at fair value based upon the closing stock price on the date of grant. The corresponding expense is amortized over the vesting period, typically
+three years
+. The weighted-average fair values of RSU awards granted during the years ended December 31, 2024, 2023, and 2022 were $
+749.74
+, $
+339.30
+, and $
+239.88
+, respectively. The number of shares ultimately issued for the RSU program remains constant with the number of shares originally granted less forfeitures. Pursuant to this program,
+0.9
+million,
+1.0
+million, and
+1.0
+million shares were granted and approximately
+0.3
+million,
+0.5
+million, and
+0.8
+million shares were issued during the years ended December 31, 2024, 2023, and 2022, respectively. We expect to issue approximately
+0.5
+million shares in 2025. As of December 31, 2024, the total estimated remaining unrecognized compensation cost related to nonvested RSUs was $
+485.1
+million, which will be amortized over the weighted-average remaining requisite service period of
+23
+months.
+Shareholder Value Award Program
+SVAs are granted to officers and management and are payable in shares of our common stock. The number of shares actually issued, if any, varies depending on our stock price at the end of the
+three-year
+vesting period compared to pre-established target stock prices. We measure the fair value of the SVA unit on the grant date using a Monte Carlo simulation model. The model utilizes multiple input variables that determine the probability of satisfying the market condition stipulated in the award grant and calculates the fair value of the award. Expected volatilities utilized in the model are based on implied volatilities from traded options on our stock, historical volatility of our stock price, and other factors. Similarly, the dividend yield is based on historical experience and our estimate of future dividend yields. The risk-free interest rate is derived from the U.S. Treasury yield curve in effect at the time of grant.
+The weighted-average fair values of the SVA units granted during the years ended December 31, 2024, 2023, and 2022 were $
+1,030.87
+, $
+349.63
+, and $
+203.88
+, respectively, determined using the following assumptions:
+Pursuant to this program, approximately
+0.2
+million,
+0.3
+million, and
+0.5
+million shares were issued during the years ended December 31, 2024, 2023, and 2022, respectively. We expect to issue approximately
+0.3
+million shares in 2025. As

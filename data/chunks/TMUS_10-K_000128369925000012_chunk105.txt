@@ -1,0 +1,25 @@
+which party is the primary beneficiary, all the facts and circumstances are considered, including each party’s role in establishing the VIE and its ongoing rights and responsibilities. This assessment includes, first, identifying the activities that most significantly impact the VIE’s economic performance; and second, identifying which party, if any, has power over those activities. In general, the parties that make the most significant decisions affecting the VIE (such as asset managers and servicers) or have the right to unilaterally remove those decision-makers are deemed to have the power to direct the activities of a VIE.
+We consolidate VIEs when we are deemed to be the primary beneficiary or when the VIE cannot be deconsolidated. See
+Note 5 – Sales of Certain Receivables
+,
+Note
+9
+– Debt
+and
+Note
+10
+– Tower Obligations
+for further information.
+Accounting Pronouncements Adopted During the Current Year
+Segment Reporting Disclosures
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2023-07, “Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures.” The standard expands reportable segment disclosure requirements for public business entities primarily through enhanced disclosures about significant segment expenses that are regularly provided to the chief operating decision maker (“CODM”) and included within each reported measure of segment profit (referred to as the “significant expense principle”). We have adopted this standard for our fiscal year 2024 annual financial statements and interim financial statements thereafter and have applied this standard retrospectively for all prior periods presented in the financial statements. See
+Note 12 – Segment Reporting
+for further information.
+Accounting Pronouncements Not Yet Adopted
+Income Tax Disclosures
+In December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures.” The standard enhances income tax disclosure requirements for all entities by requiring specified categories and greater disaggregation within the rate reconciliation table, disclosure of income taxes paid by jurisdiction, and providing clarification
+70
+Index for Notes to the Consolidated Financial Statements
+on uncertain tax positions and related financial statement impacts. The standard will be effective for us for our fiscal year 2025 annual financial statements with early adoption permitted. We plan to adopt the standard when it becomes effective for us beginning in our fiscal year 2025 annual financial statements, and we expect the adoption of the standard will impact certain of our income tax disclosures.
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued ASU 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses.” The standard requires that public business entities disclose

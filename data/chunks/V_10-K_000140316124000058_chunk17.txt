@@ -1,0 +1,17 @@
+in certain countries, including significant markets such as China and India
+. Based on available data, Visa is one of the largest retail electronic funds transfer networks used throughout the world.
+The following chart compares our network with certain network competitors for calendar year 2023
+(1)
+:
+(1)
+American Express, Diners Club / Discover, JCB and Mastercard data sourced from The Nilson Report issue 1264 (May 2024). Includes all consumer, small business and commercial credit, debit and prepaid cards. American Express, Diners Club / Discover, and JCB include business from third-party issuers. JCB figures include other payment-related products and some figures are estimates. Mastercard excludes Maestro and Cirrus figures.
+(2)
+Total volume is the sum of payments volume and cash volume. Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks.
+Local and Regional Networks:
+Operated in many countries, these networks often have the support of government influence or mandate. In some cases, they are owned by financial institutions or payment processors. These networks typically focus on debit payment products, and may have strong local acceptance, and recognizable brands. Examples include NYCE, Pulse and STAR in the U.S.; Interac in Canada; and eftpos in Australia.
+Alternative Payments Providers:
+These providers, such as closed commerce ecosystems, BNPL solutions and cryptocurrency platforms, often have a primary focus of enabling payments through ecommerce and mobile channels; however, they are expanding or may expand their offerings to the physical point of sale. These companies may process payments using in-house account transfers between parties, electronic funds transfer networks like the ACH, global or local networks like Visa, or some combination of the foregoing. In some cases, these entities can be both a partner and a competitor to Visa.
+RTP Networks:
+RTP networks have launched in at least 80 countries and continue to be driven by strong government sponsorship and regulatory initiatives to enable and drive adoption (e.g., FedNow in the U.S., PIX in Brazil and United Payments Interface (UPI) in India), increasing their position as an alternative to payment card schemes. These networks primarily focus on domestic transactions, with adoption varying by use cases and geographies. However, with linkages such as PayNow in Singapore and UPI in India, cross-border RTP networks are advancing and will compete with our cross-border business. RTP networks can compete with Visa on consumer payments and other payment flows (e.g., B2B and P2P) but can also be customers for value-added services, such as risk management.
+Digital Wallet Providers:
+They continue to expand payment capabilities in person and online for consumers and merchants and provide consumers with additional ways to pay. While digital wallets can help drive Visa volumes, they can also be funded by non-card payment

@@ -1,0 +1,66 @@
+swap.
+EPS:
+Earnings per share
+ERISA:
+Employee Retirement Income Security Act of 1974
+ETD: “Exchange-traded derivatives”:
+Derivative contracts that are executed on an exchange and settled via a central clearing house.
+EU:
+European Union
+Expense categories:
+•
+Volume- and/or revenue-related expenses generally correlate with changes in the related business/transaction volume or revenue. Examples include commissions and incentive compensation within the LOBs, depreciation expense related to operating lease assets, and brokerage expense related to trading transaction volume.
+•
+Investments in the business include expenses associated with supporting medium- to longer-term strategic plans of the Firm. Examples include front office growth, market expansion, initiatives in technology (including related compensation), marketing, and acquisitions.
+•
+Structural expenses are those associated with the day-to-day cost of running the Firm and are expenses not included in the above two categories. Examples include employee salaries and benefits, certain other incentive compensation, and costs related to real estate.
+Fannie Mae:
+Federal National Mortgage Association
+FASB:
+Financial Accounting Standards Board
+FCA:
+Financial Conduct Authority
+FCC:
+Firmwide Control Committee
+FDIC:
+Federal Deposit Insurance Corporation
+FDM: "Financial difficulty modification"
+applies to loan modifications effective January 1, 2023, and
+is deemed
+Glossary of Terms and Acronyms
+to occur when the Firm modifies specific terms of the original loan agreement. The following types of modifications are considered FDMs: principal forgiveness, interest rate reduction, other-than-insignificant payment delay, term extension or a combination of these modifications.
+Federal Reserve:
+The Board of the Governors of the Federal Reserve System
+FFIEC:
+Federal Financial Institutions Examination Council
+FHA:
+Federal Housing Administration
+FHLB:
+Federal Home Loan Bank
+FICC:
+The
+Fixed Income Clearing Corporation
+FICO score:
+A measure of consumer credit risk provided by credit bureaus, typically produced from statistical models by Fair Isaac Corporation utilizing data collected by the credit bureaus.
+FINRA:
+Financial Industry Regulatory Authority
+Firm:
+JPMorgan Chase & Co.
+Forward points:
+Represents the interest rate differential between two currencies, which is either added to or subtracted from the current exchange rate (i.e., “spot rate”) to determine the forward exchange rate.
+FRC:
+Firmwide Risk Committee
+Freddie Mac:
+Federal Home Loan Mortgage Corporation
+Free standing derivatives:
+a derivative contract entered into either separate and apart from any of the Firm’s other financial instruments or equity transactions. Or, in conjunction with some other transaction and is legally detachable and separately exercisable.
+FSB:
+Financial Stability Board
+FTE:
+Fully taxable equivalent
+FVA:
+Funding valuation adjustment
+FX:
+Foreign exchange
+G7: Group of Seven nations:
+Countries in the G7 are Canada, France, Germany,

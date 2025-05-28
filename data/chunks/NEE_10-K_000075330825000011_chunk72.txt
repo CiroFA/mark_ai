@@ -1,0 +1,25 @@
+increase of 0.25% in the assumed escalation rates for nuclear decommissioning costs would increase NEE’s AROs at December 31, 2024 by approximately
+$208 million.
+Assumptions and Accounting Approach
+FPL
+–
+For ratemaking purpos
+es, FPL accrues and funds for nuclear plant decommissioning costs over the expected service life of each unit based on studies that are approved by the FPSC. The most recent studies, filed in 2020, reflect, among other things, the expiration dates of the operating licenses for FPL’s nuclear units at the time of the studies. FPL’s portion of the future cost of decommissioning its four nuclear units, including spent fuel storage above what is expected to be refunded by the DOE under a spent fuel settlement agreement, is estimated to be approximately $9.6 billion, or $2.5 billion expressed in 2024 dollars. The ultimate costs of decommissioning reflect the applications submitted to the NRC for the extension of St. Lucie Units Nos. 1 and 2 licenses for an additional 20 years, as well as the license renewals for Turkey Point Units No. 3 and 4 approved in 2024.
+51
+Table of Content
+s
+FPL accrues the cost of dismantling its other generation plants over the expected service life of each unit based on studies filed with the FPSC. Unlike nuclear decommissioning, dismantlement costs are not funded. The most recent studies became effective January 1, 2022. At December 31, 2024, FPL’s portion of the ultimate cost to dismantle its other generation units is approximately $2.5 billion, or $1.2 billion expressed in 2024 dollars. The majority of the dismantlement costs are not reported as AROs. FPL accrues for interim removal costs over the life of the related assets based on depreciation studies approved by the FPSC. Any differences between the amount of the ARO
+and the amount recorded for ratemaking purposes are reported as a regulatory asset or liability in accordance with regulatory accounting.
+The components of FPL’s decommissioning of nuclear plants, dismantlement of plants and other accrued asset removal costs are as follows:
+______________________
+(a)    See Note 11.
+(b)    Included in noncurrent regulatory liabilities on NEE’s and FPL’s consolidated balance sheets, except for $1,373 million and
+$1,021 million which are related to interim removal costs and are included in noncurrent regulatory assets as of
+December 31, 2024 and 2023, respectively. See Note 1 – Rate Regulation.
+(c)    Included in noncurrent regulatory liabilities on NEE's and FPL's consolidated balance sheets, except for $3 million and
+$14 million
+which are related to other generation plant dismantlement and are included in noncurrent regulatory assets as of December 31, 2024 and 2023, respectively. See Note 1 – Rate Regulation.
+(d)    Represents total amount accrued for ratemaking purposes.
+NEER
+–
+NEER records liabilities for the present value of its expected nuclear plant decommissioning and its expected wind and solar facilities dismantlement costs which are

@@ -1,0 +1,40 @@
+recognized ratably over the contract term. SaaS arrangements in this category have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term.
+69
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+In addition to our product offerings, we provide a broad range of service and support options for our customers, including technical support services and advanced services. Technical support services represent the majority of these offerings which are distinct performance obligations that are satisfied over time with revenue recognized ratably over the contract term. Advanced services are distinct performance obligations that are satisfied over time with revenue recognized as services are delivered.
+The sales arrangements as discussed above are typically made pursuant to customer purchase orders based on master purchase or partner agreements. Cash is received based on our standard payment terms which is typically
+30
+days. We provide financing arrangements to customers for our hardware, software and service offerings. Refer to Note 9 for additional information. For these arrangements, cash is typically received over time.
+Subscription revenue includes revenue recognized from our term software licenses, security software licenses, SaaS, and associated service arrangements.
+Our subscription revenue is recorded in product and services revenue in our Consolidated Statements of Operations as follows (in millions):
+The majority of our product subscription revenue is recognized over time and the remainder is recognized upfront. Substantially all of our services subscription revenue is recognized over time based on the contract term.
+(b)
+Contract Balances
+Accounts Receivable
+Accounts receivable, net was $
+6.7
+billion as of July 27, 2024 compared to $
+5.9
+billion as of July 29, 2023, as reported on the Consolidated Balance Sheets.
+The allowances for credit loss for our accounts receivable are summarized as follows (in millions):
+Contract Assets and Liabilities
+Gross contract assets by our internal risk ratings are summarized as follows (in millions):
+Contract assets consist of unbilled receivables and are recorded when revenue is recognized in advance of scheduled billings to our customers. These amounts are primarily related to software and service arrangements where transfer of control has occurred but we have not yet invoiced. As of July 27, 2024 and July 29, 2023, our contract assets for these unbilled receivables, net of allowances, were $
+2.7
+billion and $
+1.6
+billion, respectively, and were included in other current assets and other assets.
+Contract liabilities consist of deferred revenue. Deferred revenue was
+$
+28.5
+billion as of July 27, 2024 compared to $
+25.6
+billion as of July 29, 2023. We recognized approximately $
+13.8
+billion of revenue during fiscal 2024 that was included in the deferred revenue balance at July 29, 2023.
+70
+Table of Conten
+ts

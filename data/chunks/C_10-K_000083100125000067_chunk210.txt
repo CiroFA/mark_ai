@@ -1,0 +1,25 @@
+remeasurements.
+(2)    Reflects rates utilized to determine the quarterly expense for Significant non-U.S. pension and postretirement benefit plans.
+(3)    Not material for U.S. plans.
+(4)    The expected return on assets for the U.S. pension and postretirement benefit plans was adjusted from
+5.70
+% to
+6.00
+% effective January 1, 2025 to reflect a change in economic market conditions. The expected return on assets for the U.S. pension and postretirement benefit plans was adjusted from
+5.00
+% to
+5.70
+% effective January 1, 2023 to reflect a significant change in economic market conditions. For the years 2024 and 2023, the expected return on assets for the VEBA Trust was
+3.00
+% and for 2022 it was
+1.50
+%.
+(5)    The Company has cash balance plans and other plans with promised interest crediting rates. For these plans, the interest crediting rates are set in line with plan rules or country legislation
+.
+183
+Discount Rate
+The discount rates for the U.S. pension and postretirement benefit plans were selected by reference to a Citigroup-specific analysis using each plan’s specific cash flows and a hypothetical bond portfolio of U.S. high-quality corporate bonds that match each plan’s projected cash flows. The discount rates for the non-U.S. pension and postretirement benefit plans are selected by reference to each plan’s specific cash flows and a market-based yield curve developed from the available local high-quality corporate bonds. However, where developed corporate bond markets do not exist, the discount rates are selected by reference to local government bonds with an estimated premium added to reflect the additional risk for corporate bonds in certain countries. Where available, the resulting plan yields by jurisdiction are compared with published, high-quality corporate bond indices for reasonableness.
+Expected Return on Assets
+The Company determines its assumptions for the expected return on assets for its U.S. pension and postretirement benefit plans using a “building block” approach, which focuses on ranges of anticipated rates of return for each asset class. A weighted-average range of nominal rates is then determined based on target allocations to each asset class. Market performance over a number of earlier years is evaluated covering a wide range of economic conditions to determine whether there are sound reasons for projecting any past trends.
+The Company considers the expected return on assets to be a long-term assessment of return expectations and does not anticipate changing this assumption unless there are significant changes in investment strategy or economic conditions. This contrasts with the selection of the discount rate and certain other assumptions, which are reconsidered annually (or quarterly for the Significant Plans) in accordance with GAAP.
+The expected return on assets reflects the expected annual appreciation of the plan assets and reduces the Company’s annual pension expense. The expected return on assets is deducted

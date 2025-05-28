@@ -1,0 +1,25 @@
+affect the existence and magnitude of future taxable income. Our valuation allowance assessment is based on our best estimate of future results considering all available information.
+Our provision for income taxes for interim periods is determined using an estimate of our annual effective tax rate, adjusted for discrete items, if any, that are taken into account in the relevant period. Each quarter, we update our estimate of the annual effective tax rate, and if our estimated tax rate changes, we make a cumulative adjustment.
+Net Income per Share of Common Stock Attributable to Common Stockholders
+The following table presents the reconciliation of net income attributable to common stockholders to net income used in computing basic and diluted net income per share of common stock (in millions):
+(1)
+As a result of the adoption of ASU No. 2023-08,
+Accounting for and Disclosure of Crypto Assets
+, the previously reported quarterly period in 2024 has been recast. See
+Recent Accounting Pronouncements
+below for further details.
+11
+Table of Contents
+The following table presents the reconciliation of basic to diluted weighted average shares used in computing net income per share of common stock attributable to common stockholders (in millions):
+The following table presents the potentially dilutive shares that were excluded from the computation of diluted net income per share of common stock attributable to common stockholders, because their effect was anti-dilutive (in millions):
+Restricted Cash
+Our total cash and cash equivalents and restricted cash, as presented in the consolidated statements of cash flows, was as follows (in millions):
+Accounts Receivable and Allowance for Doubtful Accounts
+Depending on the day of the week on which the end of a fiscal quarter falls, our accounts receivable balance may fluctuate as we are waiting for certain customer payments to clear through our banking institutions and receipts of payments from our financing partners, which can take up to approximately two weeks based on the contractual payment terms with such partners. Our accounts receivable balances associated with sales of energy storage products are dependent on billing milestones and payment terms negotiated for each contract, and our accounts receivable balances associated with our sales of regulatory credits are dependent on contractual payment terms. Additionally, government rebates can take up to a year or more to be collected depending on the customary processing timelines of the specific jurisdictions issuing them. These various factors may have a significant impact on our accounts receivable balance from period to period.
+As of March 31, 2025 and December 31, 2024, government rebates receivable was $
+232
+million and $
+315
+million, respectively, in Accounts receivable, net for the current portion and immaterial amounts in Other non-current assets for the long-term portion in our consolidated balance sheets.
+Financing Receivables
+As of March 31, 2025 and

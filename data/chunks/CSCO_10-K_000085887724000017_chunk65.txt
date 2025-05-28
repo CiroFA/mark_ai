@@ -1,0 +1,16 @@
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+Sales and Marketing Expenses
+Sales and marketing expenses increased primarily due to incremental expenses from Splunk, higher share-based compensation expense, higher discretionary spending, higher headcount-related expenses and higher cash compensation from acquisitions, partially offset by lower contracted services spending and lower variable compensation expense.
+G&A Expenses
+G&A expenses increased due to higher acquisition-related costs, incremental expenses from Splunk, higher share-based compensation expense, higher discretionary spending and higher headcount-related expenses, partially offset by lower contracted services spending and lower variable compensation expense.
+Effect of Foreign Currency
+In fiscal 2024, foreign currency fluctuations, net of hedging, increased the combined R&D, sales and marketing, and G&A expenses by approximately $30 million, or 0.2%, compared with fiscal 2023.
+Amortization of Purchased Intangible Assets
+The following table presents the amortization of purchased intangible assets including impairment charges (in millions):
+The increase in amortization of purchased intangible assets was primarily due to amortization of purchased intangibles from our recent acquisitions, including $569 million due to the acquisition of Splunk, and impairment charges of $145 million in fiscal 2024. These increases were partially offset by certain purchased intangible assets that became fully amortized. The impairment charges were primarily due to declines in estimated fair value resulting from reductions in or the elimination of expected future cash flows associated with certain of our IPR&D intangible assets.
+Restructuring and Other Charges
+We recognized total restructuring and other charges, included in operating expenses, of $789 million and $531 million in fiscal 2024 and 2023, respectively.
+In the first quarter of fiscal 2025, we announced a restructuring plan in order to allow us to invest in key growth opportunities and drive more efficiencies in our business. This restructuring plan is expected to impact approximately 7% of our global workforce. The total pre-tax charges are estimated to be up to $1 billion. We expect this plan to be substantially completed by the end of fiscal 2025.
+In the third quarter of fiscal 2024, we initiated a restructuring plan in order to realign the organization and enable further investment in key priority areas, of which approximately 5% of our global workforce would be impacted. In connection with this plan, we incurred charges of $654 million for fiscal 2024 and the plan is substantially complete.
+In fiscal 2023, we announced a restructuring plan in order to rebalance the organization and enable further investment in key priority areas. We incurred cumulative charges of $670 million and completed this plan in fiscal 2024.
+We expect to reinvest substantially all of the cost savings from these restructuring plans in our key priority

@@ -1,0 +1,41 @@
+volatilities, credit risk, and prepayment speeds. Funds are valued using the fund’s net asset value, based on the fair value of the underlying securities.
+​
+76
+Table of Contents
+​
+Derivatives
+–
+Our derivative financial instruments consist of interest rate contracts (swaps), foreign currency exchange contracts (futures, forwards, and swaps), and cross-currency interest rate contracts (swaps). The portfolio is valued based on an income approach (discounted cash flow) using market observable inputs, including swap curves and both forward and spot exchange rates for currencies.
+Deferred consideration
+– The total purchase price consideration for three former Deere-Hitachi joint venture factories acquired in 2022 included supply agreement price increases beyond inflation adjustments. This deferred consideration will be paid as we purchase Deere-branded excavators, components, and service parts from Hitachi under the agreement with a duration that ranges from
+5
+to
+30 years
+(see Note 3). The deferred consideration balance is reduced as purchases are made and valued on a discounted cash flow approach using market rates.
+Inventories
+– The impairment was based on net realizable value, less reasonably predictable selling and disposal costs.
+Property and equipment
+– net
+– The valuations were based on cost and market approaches. The inputs include replacement cost estimates adjusted for physical deterioration and economic obsolescence, or quoted prices when available.
+Other intangible assets – net
+– In 2022, we considered external valuations based on our probability weighted cash flow analysis.
+Other assets (Investment in unconsolidated affiliates)
+– Other than temporary impairments of investments are measured as the difference between the implied fair value and the carrying value of the investments. The estimated fair value for privately held entities is determined by an income approach (discounted cash flows), which includes inputs such as interest rates and margins (see Note 4).
+Assets held for sale
+–
+The impairment was measured at the lower of the carrying amount or fair value less costs to sell. Fair value was based on the probable sale price. The inputs included estimates of the final sale price (see Note 4).
+26. DERIVATIVE INSTRUMENTS
+Fair values of our derivative instruments and the associated notional amounts at the end of 2024 and 2023 were as follows. Assets are recorded in “Other assets,” while liabilities are recorded in “Accounts payable and accrued expenses.”
+​
+​
+The amounts recorded, at October 27, 2024 and October 29, 2023, in the consolidated balance sheets related to borrowings designated in fair value hedging relationships were as follows. Fair value hedging adjustments are included in the carrying amount of the hedged item.
+​
+​
+​
+77
+Table of Contents
+​
+The classification and gains (losses), including accrued interest expense, related to derivative instruments on the statements of consolidated income consisted of the following:
+​
+​
+The

@@ -1,0 +1,45 @@
+disclosure of the amount of income taxes paid (net of refunds received) disaggregated by jurisdictional categories (federal (national), state and foreign). We are currently assessing the updated guidance; however, it is not expected to have a material impact to our Consolidated Financial Statements.
+In November 2024 and as amended in January 2025, the Financial Accounting Standards Board issued updated accounting guidance on the Disaggregation of Income Statement Expenses for annual reporting periods beginning after December 15, 2026 and for interim reporting periods beginning December 15, 2027, with early adoption permitted. The updated guidance includes the requirement for a new tabular disclosure within a Note to the Consolidated Financial Statements, to disaggregate defined expense categories from the expense report lines presented on the Consolidated Statements of Income. We are currently assessing the updated guidance and its impact to our Consolidated Financial Statements.
+42
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+2.
+Loans and Card Member Receivables
+Our lending and charge payment card products that we offer to consumer, small business and corporate customers result in the generation of Card Member loans and Card Member receivables. We also extend credit to customers through financing products that are not associated with a Card Member agreement, and instead are governed by a separate borrowing relationship, resulting in Other loans.
+Card Member and Other loans as of March 31, 2025 and December 31, 2024 consisted of:
+Table 2.1: Card Member and Other Loans
+(a)
+Includes approximately $
+26.7
+billion and $
+28.3
+billion of gross Card Member loans available to settle obligations of a consolidated variable interest entity (VIE) as of March 31, 2025 and December 31, 2024, respectively.
+(b)
+Other loans are presented net of reserves for credit losses of $
+244
+million and $
+194
+million as of March 31, 2025 and December 31, 2024, respectively.
+Card Member receivables as of March 31, 2025 and December 31, 2024 consisted of:
+Table 2.2: Card Member Receivables
+(a)
+Includes $
+4.2
+billion and $
+3.9
+billion of gross Card Member receivables available to settle obligations of a consolidated VIE as of March 31, 2025 and December 31, 2024, respectively.
+43
+Table of Contents
+AMERICAN EXPRESS COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Card Member Loans and Receivables Aging
+Generally, a Card Member account is considered past due if payment due is not received within
+30
+days after the billing statement date.
+The following tables present the aging of Card Member loans and receivables as of March 31, 2025 and December 31, 2024:
+Table 2.3: Card Member Loans and Receivables Aging
+(a)
+For corporate accounts, delinquency data is tracked based on days past billing status rather than days past due. A Card Member account is considered 90 days past billing if payment has not been received within

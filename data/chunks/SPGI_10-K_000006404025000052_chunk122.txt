@@ -1,0 +1,52 @@
+requires us to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The three levels of inputs used to measure fair value are as follows:
+•
+Level 1 - Unadjusted quoted prices in active markets for identical assets or liabilities.
+•
+Level 2 - Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+•
+Level 3 - Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+The fair value of our defined benefit plans assets as of December 31, 2024 and 2023, by asset class is as follows:
+104
+Table of Contents
+1
+Includes securities that are mainly investment grade obligations of issuers in the U.S.
+2
+Includes the Standard & Poor’s MidCap 600 Composite Stock Index, Standard & Poor’s 500 Composite Stock Index, the Standard & Poor’s MidCap 400 Composite Stock Index, a short-term investment fund which is a common collective trust vehicle, and other various asset classes
+3
+Includes a fund which holds real estate properties in the U.K.
+For securities that are quoted in active markets, the trustee/custodian determines fair value by applying securities’ prices obtained from its pricing vendors. For commingled funds that are not actively traded, the trustee applies pricing information provided by investment management firms to the unit quantities of such funds. Investment management firms employ their own pricing vendors to value the securities underlying each commingled fund. Underlying securities that are not actively traded derive their prices from investment managers, which in turn, employ vendors that use pricing models (e.g., discounted cash flow, comparables). The domestic defined benefit plans have no investment in our stock, except through the S&P 500 commingled trust index fund.
+The trustee obtains estimated prices from vendors for securities that are not easily quotable and they are categorized accordingly as Level 3.
+The following table details further information on our plan assets where we have used significant unobservable inputs:
+Pension Trusts’ Asset Allocations
+There are
+two
+pension trusts,
+one
+in the U.S. and
+one
+in the U.K.
+•
+The U.S. pension trust had assets of $
+1,130
+million and $
+1,176
+million as of December 31, 2024 and 2023 respectively, and the target allocations in 2024 include
+90
+% fixed income,
+5
+% domestic equities,
+3
+% international equities and
+2
+% cash and cash equivalents.
+•
+The U.K. pension trust had assets of $
+265
+million and $
+297
+million as of December 31, 2024 and 2023, respectively, and the target allocations in 2024 include
+95
+% fixed income and
+5
+% diversified growth funds.
+The pension assets are invested with the goal of producing a combination of

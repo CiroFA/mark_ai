@@ -1,0 +1,16 @@
+Officers (at February 25, 2025):
+(1)    Member of the Board of Directors.
+All executive officers are elected by the Board of Directors annually as provided in the Company’s By-laws. Each executive officer named above, with the exception of Anne Robinson and Gary D. Cohn, has been an executive of IBM or its subsidiaries during the past five years. Ms. Robinson previously served as Managing Director, General Counsel and Corporate Secretary of The Vanguard Group, Inc. and Secretary of the Vanguard funds from August 2016 until June 2024. Mr. Cohn previously served as Assistant to the President for Economic Policy and Director of the National Economic Council from January 2017 until April 2018. Before serving in the White House, Mr. Cohn was President and Chief Operating Officer of The Goldman Sachs Group, Inc. from 2006-2016.
+Item 1A. Risk Factors:
+Risks Related to Our Business
+Downturn in Economic Environment and Client Spending Budgets Could Impact the Company’s Business:
+If overall demand for IBM’s products and solutions decreases, whether due to general economic conditions, or a shift in client buying patterns, the company’s revenue and profit could be impacted.
+Failure of Innovation Initiatives Could Impact the Long-Term Success of the Company:
+IBM has moved into areas, including those that incorporate or utilize hybrid cloud, AI and generative AI, quantum and other disruptive technologies, in which it can differentiate itself through responsible innovation, by leveraging its investments in R&D and attracting a successful developer ecosystem. If IBM is unable to continue its cutting-edge innovation in a highly competitive and rapidly evolving environment or is unable to commercialize such innovations, expand and scale them with sufficient speed and versatility or is unable to attract a successful developer ecosystem, the company could fail in its ongoing efforts to maintain and increase its market share and its profit margins.
+Damage to IBM’s Reputation Could Impact the Company’s Business:
+IBM has one of the strongest brand names in the world, and its brand and overall reputation could be negatively impacted by many factors, including if the company does not continue to be recognized for its industry leading technology and solutions and as a hybrid cloud and AI leader. IBM’s reputation is potentially susceptible to damage by events such as significant disputes with clients, product defects, internal control deficiencies, delivery failures, cybersecurity incidents, government investigations or legal proceedings or actions of current or former clients, directors, employees, competitors, vendors, alliance partners or joint venture partners. If the
+3
+Table of Contents
+company’s brand image is tarnished by negative perceptions, its ability to attract and retain customers, talent and ecosystem partners could be impacted.
+Risks from Investing in Growth Opportunities Could Impact the Company’s Business:
+The company continues to invest significantly in

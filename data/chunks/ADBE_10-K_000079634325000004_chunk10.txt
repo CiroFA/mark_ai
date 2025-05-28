@@ -1,0 +1,53 @@
+from large multinational enterprises to smaller entities with specialized and focused product offerings. Across our business, we recognize hundreds of competitors worldwide. The markets for our products and services are characterized by new industry standards, evolving distribution models, rapid technological innovation, frequent product introductions and short
+7
+Table of Contents
+product life cycles. Our future success will depend on our ability to enhance our existing products, services and solutions and introduce new ones on a timely and cost-effective basis, accurately predict and meet changing customer needs, provide best-in-class information security to build customer confidence and combat cyber-attacks, extend our core technologies into new Apps and anticipate emerging standards, business models, software delivery methods and other technological changes.
+A summary of the competitive environment for each of our business segments is included below. See the section titled
+“Risk Factors” contained in Part
+I
+, Item 1A
+of this report for additional information regarding risks related to competition.
+Digital Media
+Our Digital Media segment faces competition from large, established companies and smaller, more recent entrants. These companies offer a variety of products, including multi-product packages, point offerings, free products, websites, downloadable Apps and other products and offerings. We compete in a rapidly evolving and growing market and face significant direct or indirect competition from:
+•
+software companies and AI companies;
+•
+device, hardware, mobile device and camera manufacturers, including those that integrate software and AI capabilities for digital media, such as photo and video, collaboration tools and content creation;
+•
+mobile-first Apps;
+•
+web-native tools and platforms;
+•
+social media platforms that provide digital media offerings, including editing capabilities;
+•
+providers of stock content;
+•
+digital document creation, storage, collaboration and signing providers;
+•
+productivity and presentation tools;
+•
+operating system developers that integrate digital media document viewers and markup features with their operating systems; and
+•
+proprietary and open-source web-authoring tools.
+We believe competitive factors in our markets include:
+•
+brand, product features and functionalities;
+•
+integration with related tools, third-party Apps and workflows;
+•
+the intuitiveness and visual appeal of user interfaces;
+•
+demonstrable cost-effective benefits to our customers;
+•
+pricing;
+•
+the flexibility of services to match our customers’ evolving demands;
+•
+the availability, usability and accessibility of our products, services and solutions;
+•
+success in educating our customers in how to utilize services effectively;
+•
+the ability to create and use AI models and integrate AI capabilities for digital media creation, generation, collaboration and editing; and
+•
+responsible and secure data handling and storage protocols.
+We attract our

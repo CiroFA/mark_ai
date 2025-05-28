@@ -1,0 +1,28 @@
+record supplemental IBNR liabilities in certain situations when actuarial techniques are difficult to apply.
+K-
+90
+Notes to Consolidated Financial Statements
+(16)
+Unpaid losses and loss adjustment expenses
+GEICO’s net auto physical damage and liability losses and ALAE incurred and paid are summarized by accident year below. IBNR and case development liabilities are as of December 31, 2024 and are net of estimated salvage and subrogation recoveries. Claim counts are established when accidents that could result in a liability are reported and are based on policy coverage. Each claim event may generate claims under multiple coverages and may result in multiple counts. The “Cumulative Number of Reported Claims” includes the combined number of reported claims for all auto policy coverages. Dollars are in millions.
+Physical Damage
+Auto Liability
+*
+Unaudited required supplemental information
+K-
+91
+Notes to Consolidated Financial Statements
+(16)
+Unpaid losses and loss adjustment expenses
+BH Primary
+BH Primary’s liabilities for unpaid losses and loss adjustment expenses primarily derive from medical professional liability and workers’ compensation and other casualty insurance, which includes commercial auto and general liability insurance. Net losses and ALAE incurred and paid are summarized by accident year in the following tables, disaggregated by medical professional liability and workers’ compensation and other casualty coverages. IBNR and case development liabilities are as of December 31, 2024. The cumulative number of reported claims reflects the number of individual claimants and includes claims that ultimately resulted in no liability or payment. Dollars are in millions.
+Medical Professional Liability
+Estimates of the ultimate expected losses and loss adjustment expenses incurred for medical professional claim liabilities are based on a variety of commonly accepted actuarial methodologies, such as the paid and incurred development method and Bornhuetter-Ferguson based methods, as well as other techniques that consider insured loss exposures and historical and expected loss trends, among other factors. These methodologies produce loss estimates from which we determine our best estimate. In addition, we study developments in older accident years and adjust initial loss estimates to reflect recent developments based upon claim age, coverage and litigation experience.
+* Unaudited required supplemental information
+K-
+92
+Notes to Consolidated Financial Statements
+(16)
+Unpaid losses and loss adjustment expenses
+Workers’ Compensation and Other Casualty
+We evaluate ultimate loss and loss adjustment expense estimates for workers’ compensation and other casualty claims using a combination of commonly accepted actuarial methodologies such as the Bornhuetter-Ferguson and chain-ladder approaches using paid and incurred loss data. Paid and incurred loss data is segregated and analyzed by state due to the different state regulatory frameworks that may impact the

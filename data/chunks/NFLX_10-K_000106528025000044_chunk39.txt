@@ -1,0 +1,16 @@
+various factors including historical and estimated viewing patterns.  If actual viewing patterns differ from these estimates, the
+14
+Table of Contents
+pattern and/or period of amortization would be changed and could affect the timing or recognition of content amortization.  If we revise such estimates it could result in greater in-period expenses, which could cause us to miss our earnings guidance or negatively impact the results we report which could negatively impact our stock price.  Further, events outside of our control may cause actual results to differ from our forecast.
+Item 1B.
+Unresolved Staff Comments
+None.
+Item 1C.
+Cybersecurity
+We have an enterprise-wide information security program designed to identify, protect, detect and respond to and manage reasonably foreseeable cybersecurity risks and threats.  To protect our information systems from cybersecurity threats, we use various security tools that help prevent, identify, escalate, investigate, resolve and recover from identified vulnerabilities and security incidents in a timely manner. These include, but are not limited to, internal reporting, monitoring and detection tools, and a bug bounty program to allow security researchers to assist us in identifying vulnerabilities in our products before they are exploited by malicious threat actors.
+We also maintain a third party security program to identify, prioritize, assess, mitigate and remediate third party risks
+; however,
+we rely on the third parties we use to implement security programs commensurate with their risk, and we cannot ensure in all circumstances that their efforts will be successful
+.
+We regularly assess risks from cybersecurity and technology threats and monitor our information systems for potential vulnerabilities. We use a widely-adopted risk quantification model to identify, measure and prioritize cybersecurity and technology risks and develop related security controls and safeguards. We conduct regular reviews and tests of our information security program and also leverage audits by our internal audit team, tabletop exercises, penetration and vulnerability testing, red team exercises, simulations, and other exercises to evaluate the effectiveness of our information security program and improve our security measures and planning. We also engage an external auditor to conduct an annual payment card industry data security standard review of our security controls protecting payment information, as well as third-party penetration testing of our cardholder environment and related systems. The results of these assessments are reported to the Audit Committee.
+Our systems and those of third parties with which we do business have experienced and may continue to experience directed attacks intended to lead to interruptions and delays in our service and operations as well as loss, misuse or theft of personal information (of third parties, employees, and our members) and other data, confidential information or intellectual

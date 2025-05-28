@@ -1,0 +1,25 @@
+accumulated and paid when the underlying RSUs vest. Since the dividend rights are subject to the same vesting requirements as the underlying equity awards, they are considered a contingent transfer of value. Consequently, the RSUs are not considered participating securities, and we do not present them separately in earnings per share.
+In loss periods, basic net loss per share and diluted net loss per share are the same since the effect of potential common shares is anti-dilutive and therefore excluded.
+Table of Contents
+The following table presents the composition of shares used in the computation of basic and diluted net income per share for the periods indicated.
+We record deferred revenue when we have entered into a contract with a customer, and cash payments are received or due prior to transfer of control or satisfaction of the related performance obligation. During the three and six months ended January 31, 2025, we recognized revenue of $
+194
+million and $
+718
+million, respectively, that was included in deferred revenue at July 31, 2024. During the three and six months ended January 31, 2024, we recognized revenue of $
+167
+million and $
+805
+million, respectively, that was included in deferred revenue at July 31, 2023.
+Our performance obligations are generally satisfied within
+12 months
+of the initial contract date. As of January 31, 2025 and July 31, 2024, the deferred revenue balance related to performance obligations that will be satisfied after 12 months was $
+3
+million and $
+4
+million, respectively, and is included in other long-term obligations on our condensed consolidated balance sheets.
+No customer accounted for 10% or more of total net revenue in the three or six months ended January 31, 2025 or January 31, 2024. No customer accounted for 10% or more of gross accounts receivable at January 31, 2025 or July 31, 2024.
+Segment Information
+- In November 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standard Update (ASU) 2023-07,
+"Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures."
+This standard requires incremental segment information disclosures, including disclosures of significant segment expenses that are regularly provided to the chief operating decision maker (CODM), a description of other segment items by reportable segment, and any additional measures of a segment's profit or loss used by the CODM when deciding how to allocate resources. The standard is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, which means that it will be effective for our annual reporting for the fiscal year ending July 31, 2025 and for interim period reporting beginning in fiscal 2026. Early adoption is permitted, and retrospective adoption is required for all prior periods presented. We are currently evaluating the impact of our pending adoption of ASU 2023-07 on our consolidated financial statements and

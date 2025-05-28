@@ -1,0 +1,46 @@
+— EARNINGS PER SHARE
+Basic earnings per share (“EPS”) is computed based on the weighted average number of shares of common stock outstanding during the period. Diluted EPS is computed based on the weighted average number of shares of common stock plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and stock awards.
+The components of basic and diluted EPS were as follows:
+Anti-dilutive stock-based awards excluded from the calculations of diluted EPS were immaterial during the periods presented.
+11
+PART I
+Item 1
+NOTE 3 — OTHER INCOME (EXPENSE), NET
+The components of other income (expense), net were as follows:
+Other, net primarily reflects net recognized losses on equity method investments, including OpenAI.
+Net Recognized Gains (Losses) on Investments
+Net recognized gains (losses) on debt investments were as follows:
+Net recognized gains (losses) on equity investments were as follows:
+12
+PART I
+Item 1
+NOTE 4
+—
+INVESTMENTS
+Investment Components
+The components of investments were as follows:
+13
+PART I
+Item 1
+(a)
+Refer to Note 5 – Derivatives for further information on the fair value of our derivative instruments.
+Equity investments presented as “Other” in the tables above include investments without readily determinable fair values measured at cost with adjustments for observable changes in price or impairments, measured using the equity method, or measured at fair value using net asset value as a practical expedient which are not categorized in the fair value hierarchy. As of March 31
+, 2025 and June 30, 2024, equity investments without readily determinable fair values measured at cost with adjustments for observable changes in price or impairments were $
+2.9
+billion and $
+3.9
+billion, respectively, and equity investments measured using the equity method were $
+6.8
+billion and $
+6.0
+billion, respectively.
+14
+PART I
+Item 1
+Unrealized Losses on Debt Investments
+Debt investments with continuous unrealized losses for less than 12 months and 12 months or greater and their related fair values were as follows:
+Unrealized losses from fixed-income securities are primarily attributable to changes in interest rates. Management does not believe any remaining unrealized losses represent impairments based on our evaluation of available evidence.
+Debt Investment Maturities
+The following table outlines maturities of our debt investments as of March 31, 2025:
+NOTE 5 — DERIVATIVES
+We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Our objectives for holding derivatives include reducing, eliminating, and efficiently managing the economic impact of these exposures as effectively as possible. Our derivative programs include strategies that both qualify and do not qualify for hedge accounting

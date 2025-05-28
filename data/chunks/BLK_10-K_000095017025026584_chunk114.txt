@@ -1,0 +1,39 @@
+average of the month-end spot AUM amounts for the trailing thirteen months.
+(4)
+Amounts include cryptocurrency and commodity ETFs and ETPs.
+AUM increased $1.5 trillion to $11.6 trillion at December 31, 2024 from $10.0 trillion at December 31, 2023, driven primarily by net market appreciation, net inflows, led by flows into equity, bond and cryptocurrency products, cash management, and significant outsourcing mandates, and AUM added from the GIP Transaction, partially offset by the negative impact of foreign exchange movements.
+Net market appreciation of $993 billion was primarily driven by global equity market appreciation.
+AUM decreased $166 billion due to the impact of foreign exchange movements, primarily due to the strengthening of the US dollar, largely against the euro, the Japanese yen, the Canadian dollar and the British pound.
+For further discussion on AUM, see Part I, Item 1
+–
+Business
+–
+Assets Under Management
+.
+45
+Component Changes in AUM for 2023
+The following table presents the component changes in AUM by client type and product type for 2023.
+(1)
+Amounts include AUM attributable to the Kreos Transaction.
+(2)
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+(3)
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+46
+The following table presents the component changes in AUM by investment style and product type for 2023.
+The following table presents the component changes in AUM by product type for 2023.
+(1)
+Amounts include AUM attributable to the Kreos Transaction.
+(2)
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+(3)
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+(4)
+Amounts include commodity ETFs and ETPs.
+AUM increased $1.4 trillion to $10.0 trillion at December 31, 2023 from $8.6 trillion at December 31, 2022, driven primarily by net market appreciation, net inflows, led by flows into bond and equity ETFs, cash management, significant outsourcing mandates and growth in private markets.
+Net market appreciation of $1.1 trillion was primarily driven by global equity market appreciation.
+AUM increased $50 billion due to the impact of foreign exchange movements, primarily due to the weakening of the US dollar largely against the British pound and the euro, partially offset by the strengthening of the US dollar against the Japanese yen.
+47
+Discussion of Financial Results
+Introduction
+The Company derives a substantial portion of its revenue from investment advisory and administration fees, which are recognized as the services are performed over time because the customer is receiving and consuming the benefits as they are provided by the Company. Fees are primarily based on agreed-upon percentages of AUM and recognized for services provided during the period, which are

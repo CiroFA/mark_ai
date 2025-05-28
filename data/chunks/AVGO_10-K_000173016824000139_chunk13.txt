@@ -1,0 +1,19 @@
+Enterprise Security Portfolio.
+Our Enterprise Security solutions help organizations and governments secure against threats and compliance risks by protecting their users and data on any app, device, or network. Our integrated cyber defense approach simplifies cybersecurity with comprehensive solutions designed to secure critical business assets across on-premises and cloud infrastructures. Enterprise Security solutions utilize rich threat intelligence from a global network of security engineers, threat analyst and researchers, as well as advanced AI and machine learning engines, enabling customers to protect data, connect authorized users with trusted applications, and detect and respond to the most advanced targeted attacks.
+•
+Endpoint Security:
+Endpoints are the critical last line of defense against cyber attackers. Our Symantec and Carbon Black endpoint security solutions prevent, detect and respond to emerging threats across all devices and operating systems including laptops, desktops, tablets, mobile phones, servers and cloud workloads through an AI driven security console and single agent.
+•
+Network Security:
+Email and web access are the lifeblood and essential communication means for every modern organization. We have a full array of network security solutions, as well as a shared set of advanced threat protection technologies to stop inbound and outbound threats targeting end users, information and key infrastructure.
+•
+Information Security:
+Information protection and compliance is critical to managing risk. We offer integrated information security solutions, based on an efficient, single-policy that can be applied across the entire environment, to help organizations identify and protect risky users, applications and their most sensitive data everywhere across endpoints, on-premises networks, cloud services and private applications.
+•
+Application Security:
+Applications are increasingly targeted by cyber attackers. Our solutions secure critical systems, prevent unwanted changes, and ensure continuous compliance with regulatory mandates. Carbon Black solutions employ a positive security model that secures often overlooked use cases such as end-of-life operating systems, critical systems, fixed function devices, and air-gapped systems.
+•
+Identity Security:
+User identities are under attack by cyber criminals hoping to exploit their access and privileges and do harm. Our solution mitigates these attacks by positively identifying legitimate users, enforcing granular access control policies, and streamlining access governance to prevent unauthorized access to sensitive resources and data.
+FC SAN Management.
+We also offer mission-critical FC SAN products designed to help customers reduce the cost and complexity of managing business information within a shared data storage environment, enabling high levels of availability of mission-critical applications in the form of modules, switches and subsystems incorporating multiple semiconductor

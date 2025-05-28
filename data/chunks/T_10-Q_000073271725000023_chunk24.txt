@@ -1,0 +1,33 @@
+AT&T Inc. under the AT&T brand and not by AT&T Inc., and the names of the particular subsidiaries and affiliates providing the services generally have been omitted. AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications and technology industries. You should read this discussion in conjunction with the consolidated financial statements and accompanying notes (Notes).
+We have two reportable segments: Communications and Latin America. Our segment results presented in Note 4 and discussed below follow our internal management reporting. Percentage increases and decreases that are not considered meaningful are denoted with a dash.
+The
+Communications segment
+provides services to businesses and consumers located in the U.S. and businesses globally. Our business strategies reflect integrated product offerings that cut across product lines and utilize shared assets. This segment contains the following business units:
+•
+Mobility
+provides nationwide wireless service and equipment.
+•
+Business Wireline
+provides advanced ethernet-based fiber services, fixed wireless services, IP Voice and managed professional services, as well as legacy voice and data services and related equipment, to business customers.
+•
+Consumer Wireline
+provides broadband services, including fiber connections that provide multi-gig services, and AT&T Internet Air (AIA) services, to residential customers in select locations. Consumer Wireline also provides legacy telephony voice communication services.
+The
+Latin America segment
+provides wireless services and equipment in Mexico.
+25
+AT&T INC.
+MARCH 31, 2025
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+RESULTS OF OPERATIONS
+Consolidated Results
+Our financial results are summarized in the discussions that follow. Additional analysis is discussed in our “Segment Results” section.
+Operating revenues
+increased in the first quarter of 2025,
+reflecting higher Mobility and Consumer Wireline revenues, partially offset by declines in Business Wireline and Mexico, which included unfavorable foreign exchange impacts
+.
+Operations and support expenses
+increased in the first quarter of 2025, primarily due to higher Mobility equipment costs resulting from increased wireless equipment sales volumes and higher restructuring charges. These increases were partially offset by expense declines from our continued transformation efforts and lower network-related costs, which included lower negotiated rates and higher vendor settlements in 2025, and the absence of expenses from our cybersecurity business that was contributed to a new cybersecurity joint venture, LevelBlue, in the second quarter of 2024.
+Depreciation and amortization
+expense increased in the first quarter of 2025, primarily due to ongoing capital spending for strategic initiatives such as fiber and network upgrades, partially offset by lower

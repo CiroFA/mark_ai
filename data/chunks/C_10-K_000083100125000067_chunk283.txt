@@ -1,0 +1,23 @@
+of the collateral received by Citi had been sold or repledged in connection with repurchase agreements, securities sold, not yet purchased, securities lendings, pledges to clearing organizations, segregation requirements under securities laws and regulations, derivative transactions and bank loans.
+291
+Guarantees
+Citi provides a variety of guarantees and indemnifications to its customers to enhance their credit standing and enable them to complete a wide range of business transactions. For
+certain contracts meeting the definition of a guarantee, the guarantor must recognize, at inception, a liability for the fair value of the obligation undertaken in issuing the guarantee.
+In addition, the guarantor must disclose the maximum potential amount of future payments that the guarantor could be required to make under the guarantee, if there were a total
+default by the guaranteed parties. The determination of the maximum potential future payments is based on the notional amount of the guarantees without consideration of possible recoveries under recourse provisions or from collateral held or pledged. As such, Citi believes such amounts bear no relationship to the anticipated losses, if any, on these guarantees.
+The following tables present information about Citi’s guarantees:
+(1)
+The carrying values of securities lending indemnifications were not material for either period presented, as the probability of potential liabilities arising from these guarantees is minimal.
+(2)
+At December 31, 2024 and 2023, this maximum potential exposure was estimated to be approximately $
+124.3
+billion and $
+138
+billion, respectively. However, Citi believes that the maximum exposure is not representative of the actual potential loss exposure based on its historical experience. This contingent liability is unlikely to arise, as most products and services are delivered when purchased and amounts are refunded when items are returned to merchants. As such, any losses incurred and the carrying amounts of Citi’s contingent obligations related to merchant processing activities were immaterial. See “Card Merchant Processing” below.
+(3)
+Includes additional guarantees entered into as part of the extension and amendment of the American Airlines co-branded credit card partnership agreement, executed in December 2024. See “Credit Card Arrangements with Partners” below. Citi believes that the maximum exposure is not representative of actual potential loss exposure based on historical and expected future performance of the portfolio.
+(4)
+Includes guarantees of subsidiaries.
+292
+Financial Standby Letters of Credit
+Citi issues standby letters of credit, which substitute its own credit for that of the borrower. If a letter of credit is drawn down, the borrower is obligated to repay Citi. Standby letters of credit protect a third party from defaults on contractual obligations. Financial standby letters of credit include (i) guarantees of payment of insurance premiums and reinsurance risks

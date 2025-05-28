@@ -1,0 +1,39 @@
+(Loss) in the Condensed Consolidated Statements of Operations. The fair value of freestanding derivative assets of the consolidated Blackstone funds are recorded within Investments, the fair value of freestanding derivative assets that are not part of the consolidated Blackstone funds are recorded within Other Assets and the fair value of freestanding derivative liabilities are recorded within Accounts Payable, Accrued Expenses and Other Liabilities in the Condensed Consolidated Statements of Financial Condition.
+Blackstone has elected to not offset derivative assets and liabilities or financial assets in its Condensed Consolidated Statements of Financial Condition, including cash, that may be received or paid as part of collateral arrangements, even when an enforceable master netting agreement is in place that provides Blackstone, in the event of counterparty default, the right to liquidate collateral and the right to offset a counterparty’s rights and obligations.
+Blackstone’s other disclosures regarding derivative financial instruments are discussed in Note 5. “Derivative Financial Instruments.”
+Blackstone’s disclosures regarding offsetting are discussed in Note 10. “Offsetting of Assets and Liabilities.”
+Affiliates
+Blackstone considers its Founder, senior managing directors, employees, the Blackstone Funds and the Portfolio Companies to be affiliates.
+Dividends
+Dividends are reflected in the condensed consolidated financial statements when declared.
+24
+Table of Contents
+Blackstone Inc.
+Notes to Condensed Consolidated Financial Statements (Unaudited) - Continued
+(All Dollars are in Thousands, Except Share and Per Share Data, Except Where Noted)
+Recent Accounting Developments
+In December 2023, the Financial Accounting Standards Board issued amended guidance addressing income tax disclosures. The guidance requires greater disaggregation of information in the effective income tax rate reconciliation and income taxes paid disclosure. The guidance is effective for Blackstone’s annual period ending December 31, 2025.
+Intangible Assets, Net consists of the following:
+Amortization expense associated with Blackstone’s intangible assets was $
+9.0
+million for the three months ended March 31, 2025 and 2024.
+Amortization of Intangible Assets held at March 31, 2025 is expected to be $
+35.9
+million, $
+35.7
+million, $
+34.6
+million, $
+17.8
+million and $
+16.6
+million for each of the years ending December 31, 2025, 2026, 2027, 2028 and 2029, respectively. Blackstone’s Intangible Assets as of March 31, 2025 are expected to amortize over a weighted-average period of
+5.1
+years.
+Investments consist of the following:
+Blackstone’s share of Investments of Consolidated Blackstone Funds totaled $
+559.8
+million and $
+439.7
+million at March 31, 2025 and December 31, 2024, respectively.
+Where appropriate, the accounting for Blackstone’s investments incorporates the changes in fair value of those investments as determined under GAAP. The significant inputs and assumptions

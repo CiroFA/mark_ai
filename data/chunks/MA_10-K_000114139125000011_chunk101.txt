@@ -1,0 +1,26 @@
+driven by the appreciation of the euro against the U.S. dollar. See Note 23 (Derivative and Hedging Instruments) for additional information.
+3
+Certain foreign exchange derivative contracts are designated as cash flow hedging instruments.  Gains and losses resulting from changes in the fair value of these contracts are deferred in accumulated other comprehensive income (loss) and subsequently reclassified to the consolidated statements of operations when the underlying hedged transactions impact earnings.  See Note 23 (Derivative and Hedging Instruments) for additional information.
+Note 18.
+Share-Based Payments
+In May 2006, the Company granted the following awards under the Mastercard Incorporated 2006 Long Term Incentive Plan, which was amended and restated as of June 22, 2021 (the “LTIP”).  The LTIP is a stockholder-approved plan that permits the grant of various types of equity awards to employees.  The Company has granted Options, RSUs and PSUs under the LTIP.  The Company uses the straight-line method of attribution for expensing all equity awards.  Compensation expense is recorded net of estimated forfeitures, with estimates adjusted as appropriate.
+93
+MASTERCARD 2024 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+There are approximately
+116
+million shares of Class A common stock authorized for equity awards under the LTIP.  Although the LTIP permits the issuance of shares of Class B common stock, no such shares have been authorized for issuance.  Shares issued as a result of Option exercises and the conversions of RSUs and PSUs were funded primarily with the issuance of new shares of Class A common stock.
+Stock Options
+Options expire
+ten years
+from the date of grant and vest ratably over
+three years
+for awards granted on or after March 1, 2022.  For awards granted before March 1, 2022, they vest ratably over
+four years
+.  For Options granted, a participant’s unvested awards are forfeited upon termination; however, in the event a participant terminates employment due to disability or retirement more than
+seven months
+after receiving the award, the participant retains all of their awards without providing additional service to the Company.  Retirement eligibility is dependent upon age and years of service.  Compensation expense is recognized over the vesting period as stated in the LTIP.
+The fair value of each Option is estimated on the date of grant using a Black-Scholes option pricing model.
+The following table presents the weighted-average assumptions used in the valuation and the resulting weighted-average fair value per Option granted for the years ended December 31:
+The risk-free rate of return was based on the U.S. Treasury yield curve in effect on the date of grant.  The expected term and the expected volatility were based on historical Mastercard information.  The expected dividend yields were based on the Company’s expected annual dividend rate on the date of grant.

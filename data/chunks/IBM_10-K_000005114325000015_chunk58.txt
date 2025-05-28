@@ -1,0 +1,15 @@
+is dependent upon its ability to manage its business operations, as well as the other risks described under this Item 1A. entitled “Risk Factors.” There can be no assurance that the company will be able to manage any of these risks successfully.
+The company also issues its common stock from time to time in connection with various compensation plans, contributions to its pension plan and certain acquisitions. The market price of IBM common stock is subject to significant volatility, due to other factors described under this Item 1A. entitled “Risk Factors,” as well as economic and geopolitical conditions generally, trading volumes, speculation by the press or investment community about the company’s financial condition, and other factors, many of which are beyond the company’s control. Since the market price of IBM’s common stock fluctuates significantly, stockholders may not be able to sell the company’s stock at attractive prices.
+In addition, changes by any rating agency to the company’s outlook or credit ratings can negatively impact the value and liquidity of both the company’s debt and equity securities. The company does not make a market in either its debt or equity securities and cannot provide any assurances with respect to the liquidity or value of such
+securities.
+9
+Table of Contents
+Item 1B. Unresolved Staff Comments:
+Not applicable.
+Item 1C. Cybersecurity:
+Risk Management and Strategy
+Cybersecurity is a critical part of risk management at IBM and is integrated with the company’s overall enterprise risk management framework.
+The Board of Directors and the Audit Committee of the Board are responsible for overseeing management’s execution of cybersecurity risk management and for assessing IBM’s approach to risk management. Senior management is responsible for assessing and managing IBM’s exposure to cybersecurity risks on an ongoing basis.
+From an enterprise perspective, we implement a multi-faceted risk management approach based on the National Institute of Standards and Technology Cybersecurity Framework. We have established policies and procedures that provide the foundation upon which IBM’s infrastructure and data are managed. We regularly assess and adjust our technical controls and methods to identify and mitigate emerging cybersecurity risks. We use a layered approach with overlapping controls to defend against cybersecurity attacks and threats on IBM networks, end-user devices, servers, applications, data, and cloud solutions.
+We draw heavily on our own commercial security solutions and services to manage and mitigate cybersecurity risks. IBM maintains a Security Operations Center (“SOC”) that monitors for threats to IBM’s networks and systems, utilizing threat intelligence provided by a range of sources, including the IBM Security X-Force Exchange platform, which maintains one of the largest compilations of threat intelligence in the world.
+We also rely on tools licensed from third party security vendors to monitor and manage

@@ -1,0 +1,23 @@
+Oil Price Reporting Agencies ("PRA Principles"), which are intended to enhance the reliability of oil price assessments referenced in derivative contracts subject to regulation by IOSCO members. Commodity Insights has aligned its operations with the PRA Principles and, as recommended by IOSCO in its final report on the PRA Principles, has aligned to the PRA Principles for other commodities for which it publishes benchmarks.
+From time to time, government and self-regulatory agencies in jurisdictions where we operate conduct market studies on our markets, which may result in the imposition of remedies that impact our business.
+Other laws, regulations and rules are being adopted or considered or are likely to be considered in the future that may impact Commodity Insights, for example regulatory oversight regimes for ESG ratings providers such as the EU regulation on the transparency and integrity of ESG rating activities that was adopted by the European Parliament and Council in November 2024 (the "EU ESG Ratings Regulation").  The EU ESG Ratings Regulation will start applying mid-2026 and could impose new regulatory requirements regarding some of Commodity Insights’ ancillary and other services. The impact on us of the adoption
+54
+Table of Contents
+of any such laws, regulations or rules remains uncertain, but could increase the costs and legal risks relating to Commodity Insights’ activities, or adversely affect our ability to compete and/or our remuneration, or result in changes in the demand for our products and services.
+For a further discussion of competitive and other risks inherent in our Commodity Insights business, see Item 1A,
+Risk Factors
+, in this Annual Report on Form 10-K. For a further discussion of the legal and regulatory environment in our Commodity Insights business, see Note 13 –
+Commitments and Contingencies
+to the consolidated financial statements under Item 8,
+Consolidated Financial Statements and Supplementary Data
+, in this Annual Report on Form 10-K.
+Mobility
+Mobility is a leading provider of solutions serving the full automotive value chain including vehicle manufacturers (Original Equipment Manufacturers or OEMs), automotive suppliers, mobility service providers, retailers, consumers, and finance and insurance companies.
+In February of 2023, we completed the acquisition of Market Scan Information Systems Inc. (“Market Scan”), a leading provider of automotive pricing and incentive intelligence, including Automotive Payments as a Service
+TM
+and its powerful payment calculation engine. The addition of Market Scan to Mobility enabled the integration of detailed transaction intelligence in areas that are complementary to existing services for dealers, OEMs, lenders, and other market participants. The acquisition of Market Scan is not material to our consolidated financial statements.
+Mobility includes the following business lines:
+•
+Dealer
+—
+includes analytics to predict future buyers, targeted marketing, and vehicle history

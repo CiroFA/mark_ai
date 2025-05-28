@@ -1,0 +1,91 @@
+gaap:SellingGeneralAndAdministrativeExpensesMember
+2023-12-31
+2024-03-23
+0000077476
+pep:SieteAcquisitionMember
+2024-12-29
+2025-03-22
+0000077476
+pep:SieteAcquisitionMember
+2025-03-22
+0000077476
+pep:PoppiAcquisitionMember
+2024-12-29
+2025-03-22
+0000077476
+pep:PepsiCoFoodsNorthAmericaMember
+2023-12-31
+2024-03-23
+0000077476
+pep:PepsiCoBeveragesNorthAmericaMember
+2023-12-31
+2024-03-23
+0000077476
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2024-12-29
+2025-03-22
+0000077476
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2023-12-31
+2024-03-23
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+For the quarterly period ended
+March 22, 2025
+(12 weeks)
+OR
+For the transition period from
+to
+Commission file number
+1-1183
+(Exact Name of Registrant as Specified in its Charter)
+700 Anderson Hill Road
+,
+Purchase
+,
+New York
+10577
+(
+914
+)
+253-2000
+N/A
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒    No
+¨
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒    No
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes
+☐
+No  ☒
+Number of shares of Common Stock outstanding as of April 17, 2025 was
+1,371,079,540
+.
+Table of Contents
+PepsiCo, Inc. and Subsidiaries
+Table of Contents
+1
+Table of Contents
+PART I FINANCIAL INFORMATION
+ITEM 1. Condensed Consolidated Financial Statements.
+Condensed Consolidated Statement of Income
+PepsiCo, Inc. and Subsidiaries
+(in millions, except per share amounts, unaudited)
+See accompanying notes to the condensed consolidated financial statements.
+2
+Table of Contents
+Condensed Consolidated Statement of Comprehensive Income
+PepsiCo, Inc. and Subsidiaries
+(in millions, unaudited)
+See

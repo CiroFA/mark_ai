@@ -1,0 +1,15 @@
+purposes.
+The following tables present trading revenue, client trading activity, and related information:
+- 37 -
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+(1)
+Revenue per trade is calculated as trading revenue divided by the product of DATs multiplied by the number of trading days.
+Trading revenue increased $34 million, or 1%, in 2024 compared to 2023, driven by an increase in order flow revenue reflecting higher volume and changes in the mix of client trading activity. This increase was offset by a decrease in principal transactions revenue due to lower volume in fixed income trading and lower market interest rates. Commission revenue was relatively flat due to higher volume offset by changes in the mix of client trading activity.
+Trading revenue decreased $443 million, or 12%, in 2023 compared to 2022, primarily due to lower options order flow revenue from changes in the mix of client trading activity and narrower quoted spreads in the options market, and lower equity order flow revenue reflecting a shift toward more low-price securities and lower equity trading activity overall. Additionally, commissions decreased as a result of lower client trading activity and fewer trading days. Partially offsetting the decrease in 2023 compared to 2022, principal transactions revenue increased as a result of higher volume in clients’ fixed income trading and higher market interest rates.
+Bank Deposit Account Fees
+The Company earns bank deposit account fee revenue from the TD Depository Institutions. These fees are affected by changes in interest rates and the composition of balances designated as fixed- and floating-rate obligation amounts.
+The following table presents bank deposit account fee revenue and related information:
+Bank deposit account fees increased $24 million, or 3%, in 2024 compared to 2023. This increase reflected the impact of breakage fees of $97 million incurred in 2023 as a result of ending other third-party bank arrangements and a decrease in the amount paid to clients due to interest rates declining in the third and fourth quarters of 2024, partially offset by lower average BDA balances. The decrease in average BDA balances in 2024 compared to 2023 was primarily due to client cash allocation decisions in response to higher short-term market interest rates. Average net yield increased in 2024 compared to 2023 due to the breakage fees incurred in 2023 and an increase in the average amount of and average net yield on floating-rate BDA balances, which was partially offset by a decrease in average net yield on fixed-rate BDA balances. The percentages of BDA balances designated as fixed-rate and floating-rate obligation amounts as of December 31, 2024 were 76% and 24%, respectively.
+Bank deposit account fees decreased by $704 million, or 50%, in 2023 compared to 2022. The decrease was primarily due to lower

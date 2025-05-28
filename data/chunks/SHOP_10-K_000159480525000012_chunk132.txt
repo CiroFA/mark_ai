@@ -1,0 +1,27 @@
+to
+100
+% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest (including additional interest, if any) to, but excluding, the applicable redemption date but without reduction for applicable Canadian taxes (except in respect of certain excluded holders).
+Upon the occurrence of a fundamental change (as set out or defined in the supplemental indenture governing the Notes) prior to the maturity date of the Notes, the Company, subject to limited exceptions, will be required to offer to purchase all of the Notes for cash at a price equal to
+100
+% of the principal amount thereof, plus any accrued and unpaid interest thereon to, but excluding, the fundamental change purchase date.
+The Notes are governed by customary terms and covenants, including that upon certain events of default occurring and continuing, either the Trustee or the holders of at least
+25
+% in aggregate principal amount of the Notes then outstanding may declare
+100
+% of the principal of, and accrued and unpaid interest on, all the Notes to be due and payable immediately.
+The Notes are senior unsecured obligations and will rank senior in right of payment to any of the Company’s indebtedness that is expressly subordinated in right of payment to the Notes; equal in right of payment with the Company’s existing and future unsecured liabilities that are not so subordinated; effectively subordinated to any of the Company’s secured indebtedness to the extent of the value of the assets securing such indebtedness; and structurally junior to all indebtedness and other liabilities (including trade payables) of current or future subsidiaries of the Company.
+The Company accounts for the Notes as a single unit of account on the balance sheet. The carrying value of the liability is represented by the face amount of the Notes, less total offering costs, plus any amortization of offering costs. Total offering costs upon issuance of the Notes were $
+12
+million and are amortized to interest expense using the effective interest rate method over the contractual term of the Notes. Interest expense is recognized at an annual effective interest rate of
+0.38
+% over the contractual term of the Notes.
+The net carrying amount of the outstanding Notes was as follows:
+As of December 31, 2024, the net carrying amount of the outstanding Notes with contractual maturity less than one year are classified as current "Convertible senior notes" in the consolidated balance sheets (December 31, 2023 - classified as long-term "Convertible senior notes").
+The following table sets forth the interest expense recognized related to the outstanding Notes:
+As of December 31, 2024, the estimated fair value of the Notes was approximately $
+939
+million (December 31, 2023 - $
+865
+million). The estimated fair value was determined based on the last executed trade for the Notes of the reporting period in an over-the-counter market, which is considered as Level 2 in the fair value hierarchy.
+105
+Table of

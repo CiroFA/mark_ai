@@ -1,142 +1,50 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
+CONTENTS OF QUARTERLY REPORT ON FORM 10-Q
+Quarter Ended March 31, 2025
+RTX Corporation and its subsidiaries’ names, abbreviations thereof, logos, and products and services designators are all either the registered or unregistered trademarks or tradenames of RTX Corporation and its subsidiaries. Names, abbreviations of names, logos, and products and services designators of other companies are either the registered or unregistered trademarks or tradenames of their respective owners. References to internet web sites in this Form 10-Q are provided for convenience only. Information available through these web sites is not incorporated by reference into this Form 10-Q.
 3
-RSS
+Table of Contents
+PART I – FINANCIAL INFORMATION
+Item 1.    Financial Statements
+RTX CORPORATION
+AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS
+(Unaudited)
+See accompanying Notes to Condensed Consolidated Financial Statements
 4
-YouTube
+Table of Contents
+RTX CORPORATION
+AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+(Unaudited)
+See accompanying Notes to Condensed Consolidated Financial Statements
 5
-Flickr
+Table of Contents
+RTX CORPORATION
+AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEET
+(Unaudited)
+See accompanying Notes to Condensed Consolidated Financial Statements
 6
-LinkedIn
+Table of Contents
+RTX CORPORATION
+AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+(Unaudited)
+See accompanying Notes to Condensed Consolidated Financial Statements
 7
-Pinterest
+Table of Contents
+RTX CORPORATION
+AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+(Unaudited)
+See accompanying Notes to Condensed Consolidated Financial Statements
 8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+Table of Contents
+RTX CORPORATION
+AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1: Basis of Presentation
+The Condensed Consolidated Financial Statements at March 31, 2025 and for the quarters ended March 31, 2025 and 2024 are unaudited, and in the opinion of management include adjustments of a normal recurring nature necessary for a fair statement of the results for the interim periods. The results reported in these Condensed Consolidated Financial Statements should not necessarily be taken as indicative of results that may be expected for the entire year. The financial information included herein should be read in conjunction with the financial statements and notes in our 2024 Annual Report on Form 10-K.
+Unless the context otherwise requires, the terms “we,” “our,” “us,” “the Company,” and “RTX” mean RTX Corporation and its subsidiaries. References to “Raytheon Company” mean Raytheon Company, which became a wholly owned subsidiary of RTX on April 3, 2020 during an all-stock merger transaction between United Technologies Corporation and Raytheon Company (the surviving company of which is RTX Corporation).
+We reclassified certain immaterial prior period amounts within our Condensed Consolidated Statement of Cash Flows and Condensed Consolidated Statement of Changes in Equity related to

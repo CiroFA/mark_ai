@@ -1,0 +1,48 @@
+Significant Unobservable Inputs.
+The table below presents the amount of level 3 loans, and ranges and weighted averages of significant unobservable inputs used to value such loans.
+Level 3 other loans were not material as of both March 2025 and December 2024, and therefore, are not included in the table above.
+In the table above:
+•
+Ranges represent the significant unobservable inputs that were used in the valuation of each type of loan.
+•
+Weighted averages are calculated by weighting each input by the relative fair value of the loan.
+•
+The ranges and weighted averages of these inputs are not representative of the appropriate inputs to use when calculating the fair value of any one loan. For example, the highest yield for corporate loans is appropriate for valuing a specific corporate loan but may not be appropriate for valuing any other corporate loan. Accordingly, the ranges of inputs do not represent uncertainty in, or possible ranges of, fair value measurements of level 3 loans.
+•
+Increases in yield or duration used in the valuation of level 3 loans would have resulted in a lower fair value measurement, while increases in recovery rate would have resulted in a higher fair value measurement as of both March 2025 and December 2024. Due to the distinctive nature of each level 3 loan, the interrelationship of inputs is not necessarily uniform within each product type.
+•
+Loans are valued using discounted cash flows.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Level 3 Rollforward.
+The table below presents a summary of the changes in fair value for level 3 loans.
+In the table above:
+•
+Changes in fair value are presented for loans that are classified in level 3 as of the end of the period.
+•
+Net unrealized gains/(losses) relates to loans that were still held at period-end.
+•
+Purchases includes originations and secondary purchases.
+•
+Transfers between levels of the fair value hierarchy are reported at the beginning of the reporting period in which they occur. If a loan was transferred to level 3 during a reporting period, its entire gain or loss for the period is classified in level 3.
+The table below presents information, by loan type, for loans included in the summary table above.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Level 3 Rollforward Commentary for the Three Months Ended March 2025.
+The
+net realized and unrealized gains
+on level 3 loans of $
+14
+million (reflecting $
+14
+million of net realized gains) for the three months ended March 2025 included gains of $
+7
+million reported in other principal transactions and $
+7
+million reported in interest income.
+There were no net unrealized gains/(losses) on level 3 loans for the three months ended March 2025.
+There were no transfers into level 3 loans during the three months ended March 2025.
+Transfers out of level 3 loans during the three months March 2025 were not material.
+Level 3

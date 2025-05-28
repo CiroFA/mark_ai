@@ -1,0 +1,16 @@
+For a discussion of recently adopted accounting standards, see
+Note 1B
+.
+Acquisitions
+We account for acquired businesses using the acquisition method of accounting, which requires, among other things, that most assets acquired and liabilities assumed be recognized at their estimated fair value as of the acquisition date. To estimate fair value, we utilize an exit price approach from the perspective of a market participant. For further detail on acquisition accounting, see
+Note 1D
+. For further detail on the techniques and methodologies that we use to estimate fair value, see
+Note 1E
+.
+Historically, intangible assets have been the most significant fair values within our business combinations. We utilize an income approach to estimate the acquisition date fair value of each identifiable intangible asset. Some of the more significant estimates and assumptions inherent in this approach include the amount and timing of projected net cash flows, the discount rate, the tax rate, and, for IPR&D assets, the probability of technical and regulatory success (PTRS). All of these judgments and estimates can materially impact our results of operations. For further information on our process to estimate the fair value of intangible assets, see
+Asset Impairments
+below.
+We estimate the fair value of acquired inventory, including finished goods and work in process, by determining the estimated selling price when completed, less an estimate of costs to be incurred to complete and sell the inventory, and an estimate of a reasonable profit allowance for those manufacturing and selling efforts. The fair value of inventory is recognized in our results of operations as the inventory is sold. Some of the more significant estimates and assumptions inherent in the estimate of the fair value of inventory include stage of completion, costs to complete, costs to dispose and selling price.
+We estimate the fair value of acquired PP&E using a combination of the cost and market approaches. Some of the more significant estimates and assumptions inherent in these approaches are the values of asset replacement costs, comparable assets and estimated remaining economic lives of the assets.
+Revenues
+Our gross product revenues are subject to a variety of deductions, which generally are estimated and recorded in the same period that the revenues are recognized. Such variable consideration represents chargebacks, rebates, sales allowances and sales returns. These deductions represent estimates of the related obligations and, as such, knowledge and judgment are required when estimating the impact of these revenue deductions on gross sales for a reporting period. Historically, adjustments to these estimates to reflect actual results or updated expectations, have not been material to our overall business and generally have been less than 1% of revenues. Product-specific rebates, however, can have a significant impact on year-over-year individual product revenue growth trends. If any of our

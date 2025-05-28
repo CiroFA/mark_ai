@@ -1,0 +1,22 @@
+“Adjusted Income Taxes and Effective Tax Rate”.
+(c)
+The company believes that its non-GAAP measures excluding Purchase accounting impacts - Linde AG are useful to investors because: (i) the 2018 business combination was a merger of equals in an all-stock merger transaction, with no cash consideration, (ii)  the company is managed on a geographic basis and the results of certain geographies are more heavily impacted by purchase accounting than others, causing results that are not comparable at the reportable segment level, therefore, the impacts of purchasing accounting adjustments to each segment vary and are not comparable within the company and when compared to other companies in similar regions, (iii) business management is evaluated and variable compensation is determined based on results excluding purchase accounting impacts, and; (iv) it is important to investors and analysts to understand the purchase accounting impacts to the financial statements.
+A summary of each of the adjustments made for Purchase accounting impacts - Linde AG are as follows:
+Adjusted Operating Profit and Margin:
+The purchase accounting adjustments for the periods presented relate primarily to depreciation and amortization related to the fair value step up of fixed assets and intangible assets (primarily customer related) acquired in the merger and the allocation of fair value step-up for ongoing Linde AG asset disposals (reflected in Other Income/(Expense)).
+Adjusted Interest Expense - Net
+: Relates to the amortization of the fair value of debt acquired in the merger.
+Adjusted Income Taxes and Effective Tax Rate:
+Relates to the current and deferred income tax impact on the adjustments discussed above.  The income tax expense (benefit) on the non-GAAP pre-tax adjustments was
+37
+Table of Contents
+determined using the applicable tax rates for the jurisdictions that were utilized in calculating the GAAP income tax expense (benefit) and included both current and deferred income tax amounts.
+Adjusted Income from Equity Investments:
+Represents the amortization of increased fair value on equity investments related to depreciable and amortizable assets.
+Adjusted Noncontrolling Interests:
+Represents the noncontrolling interests’ ownership portion of the adjustments described above determined on an entity by entity basis.
+Net Debt and Adjusted Net Debt
+Net debt is a financial liquidity measure used by investors, financial analysts and management to evaluate the ability of a company to repay its debt.  Purchase accounting impacts have been excluded as they are non-cash and do not have an impact on liquidity.
+SUPPLEMENTAL GUARANTEE INFORMATION
+On May 3, 2023, the company filed a Form S-3 Registration Statement with the SEC ("the Registration Statement").
+Linde plc may offer debt securities, preferred shares, depositary shares and ordinary shares under the Registration Statement, and debt securities exchangeable for or convertible into preferred shares, ordinary shares or other

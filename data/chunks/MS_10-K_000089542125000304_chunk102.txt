@@ -1,0 +1,20 @@
+At both December 31, 2024 and December 31, 2023, greater than 95% of the CRE loans balance in the Wealth Management business segment
+received gua
+rantees. During 2024, there were charge-offs of Wealth Management commercial real estate loans of $25 million, mainly in the office sector. All of our lending against CRE properties within Wealth Management are in the Americas region.
+Wealth Management Allowance for Credit Losses—Loans and Lending Commitments
+As of December 31, 2024 and December 31, 2023, more than 75% of Wealth Management residential real estate loans were to borrowers with “Exceptional” or “Very Good” FICO scores (i.e., exceeding 740). Additionally, Wealth Management’s securities-based lending portfolio remains well-collateralized and subject to daily client margining,
+which includes requiring customers to deposit additional collateral or reduce debt positions, when necessary.
+Customer and Other Receivables
+Margin and Other Lending
+The Institutional Securities and Wealth Management business segments provide margin lending arrangements that allow customers to borrow against the value of qualifying securities, primarily for the purpose of purchasing additional securities, as well as to collateralize short positions. Institutional Securities primarily includes margin loans in the Equity Financing business. Wealth Management includes margin loans as well as non-purpose securities-based lending on non-bank entities. Amounts may fluctuate from period to period as overall client balances change as a result of market levels, client positioning and leverage.
+Credit exposures arising from margin lending activities are generally mitigated by their short-term nature, the value of collateral held and our right to call for additional margin when collateral values decline. However, we could incur losses in the event that the customer fails to meet margin calls and collateral values decline below the loan amount. This risk is elevated in loans backed by collateral pools with significant concentrations in individual issuers or securities with similar risk characteristics. For a further discussion, see “Risk Factors—Credit Risk” herein.
+Employee Loans
+For information on employee loans and related ACL, see Note 9 to the financial statements.
+Derivatives
+Fair Value of OTC Derivative Assets
+1.
+Counterparty credit ratings are determined internally by the CRM.
+We are exposed to credit risk as a dealer in OTC derivatives. Credit risk with respect to derivative instruments arises from the possibility that a counterparty may fail to perform according to the terms of the contract. For a description of our risk mitigation strategies, see “Credit Risk—Risk Mitigation” herein.
+Credit Derivatives
+A credit derivative is a contract between a seller and buyer of protection against the risk of a credit event occurring on one
+or more debt obligations issued by a specified reference entity. The buyer typically pays a periodic premium over the life of the contract and is

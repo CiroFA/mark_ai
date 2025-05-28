@@ -1,0 +1,20 @@
+The Digital Markets Act ("DMA") and Digital Services Act ("DSA") give EU regulators more instruments to investigate and regulate digital businesses and impose rules and requirements on online platforms, including those designated as "gatekeepers" under the DMA, with separate rules for "Very Large Online Platforms" ("VLOPs") under the DSA. The European Commission has designated the Company as a gatekeeper under the DMA for the service provided through Booking.com and Booking.com as a VLOP under the DSA.
+•
+Regulation of the Travel Industr
+y: Our business is impacted by travel-related regulations such as local regulation of alternative accommodations or measures to address the issues of "overtourism" and the impact of tourism on the climate. Further, some parts of our business are already subject to certain requirements of the EU Package Travel Directive (the "Package Directive"), and as our offerings continue to diversify and expand, we may become subject to additional requirements of the Package Directive or other regulations.
+•
+Payment
+s: As we expand our payments services to consumers and business partners in different geographies, we are subject to additional regulations, such as local financial services or export control regulations and license requirements, which has resulted in increased compliance costs and complexities, including those associated with the implementation of new or advanced internal controls. We are also subject to payment card association rules and obligations under our contracts with payment card processors, including the Payment Card Industry Data Security Standard, compliance with which is complex and costly.
+For further discussion of these regulations and how other global regulations may impact our business, see Part I, Item 1A, Risk Factors - "
+Information Security, Cybersecurity, and Data Privacy Risks
+" and
+"
+Legal, Regulatory, Compliance, and Reputational Risks
+."
+Technology
+Our business is supported by multiple systems and platforms designed with an emphasis on scalability, performance, redundancy, and security. Our systems connect us with vendors and partners. We are modernizing our technology by building new applications with modern development tools and application programming interfaces, and we increasingly rely upon public cloud infrastructure. Our applications utilize digital certificates and other security technologies to help us conduct secure communications and transactions, as appropriate. The systems infrastructure and web and database servers of our worldwide operations are hosted in data centers in Europe, Asia, and North America, and each provides services and support typical of hosted data centers. See Part I, Item 1A, Risk Factors - "
+Information Security, Cybersecurity, and Data Privacy Risks
+."
+4
+Intellectual Property
+The protection of our intellectual property is important to our success. We rely on intellectual property such as trademarks, copyrights, patents, and trade secrets to support our

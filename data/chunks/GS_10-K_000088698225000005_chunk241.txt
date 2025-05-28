@@ -1,0 +1,26 @@
+the loan, or, in the case of collateral dependent loans, the fair value of the collateral less estimated costs to sell, if applicable. Wholesale loans are charged off against the allowance for loan losses when deemed to be uncollectible.
+Consumer.
+The allowance for credit losses for consumer loans that exhibit similar risk characteristics is calculated using a modeled approach which classifies consumer loans into pools based on borrower-related and exposure-related characteristics that differentiate a pool’s risk characteristics from other pools. The factors considered in determining a pool are generally consistent with the risk characteristics used for internal credit risk measurement and management and include key metrics, such as FICO credit scores, delinquency status, loan vintage and macroeconomic indicators. The most significant inputs to the forecast model for consumer loans include unemployment rates and delinquency rates. The expected life of revolving credit card loans is determined by modeling expected future draws and the timing and amount of repayments allocated to the funded balance. The firm does not recognize an allowance for credit losses on credit card lending commitments as they are cancellable by the firm.
+Credit card loans are charged off when they are 180 days past due. Installment loans were charged off when they were 120 days past due.
+Allowance for Credit Losses Rollforward
+The table below presents information about the allowance for credit losses.
+In the table above:
+•
+Other primarily represented the reduction to the allowance related to loans transferred to held for sale.
+•
+The allowance ratio is calculated by dividing the allowance for loan losses by gross loans accounted for at amortized cost.
+•
+The net charge-off ratio is calculated by dividing net (charge-offs)/recoveries by average gross loans accounted for at amortized cost.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+Forecast Model Inputs as of December 2024
+When modeling expected credit losses, the firm employs a weighted, multi-scenario forecast, which includes baseline, adverse and favorable economic scenarios. As of December 2024, this multi-scenario forecast was weighted towards the baseline and adverse economic scenarios.
+The table below presents the forecasted U.S. unemployment and U.S. GDP growth rates used in the baseline economic scenario of the forecast model.
+The adverse economic scenario of the forecast model reflects a global recession in the first quarter of 2025 through the first quarter of 2026, resulting in an economic contraction and rising unemployment rates. In this scenario, the U.S. unemployment rate peaks at approximately
+7.4
+% during the first quarter of 2026 and the maximum decline in the quarterly U.S. GDP relative to the fourth quarter of 2024 is approximately
+2.7
+%, which occurs during the fourth quarter of 2025.
+In the table above:
+•
+U.S. unemployment rate represents the rate forecasted

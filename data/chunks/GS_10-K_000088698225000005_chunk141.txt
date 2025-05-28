@@ -1,0 +1,30 @@
+leverage exposure buffer.
+•
+The external long-term debt to RWAs requirement includes (i) the 6% minimum and (ii) the 3.0% G-SIB surcharge (Method 2).
+•
+The external long-term debt to total leverage exposure is the 4.5% minimum.
+The table below presents information about our TLAC and external long-term debt ratios.
+In the table above:
+•
+TLAC includes common and preferred stock, and eligible long-term debt issued by Group Inc. Eligible long-term debt represents unsecured debt, which has a remaining maturity of at least one year and satisfies additional requirements.
+•
+External long-term debt consists of eligible long-term debt subject to a haircut if it is due to be paid between one and two years.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+•
+In accordance with the TLAC rules, the higher of Standardized or Advanced RWAs are used in the calculation of TLAC and external long-term debt ratios and applicable requirements. RWAs represent Standardized RWAs as of both December 2024 and December 2023.
+•
+Leverage exposure consists of average adjusted total assets and certain off-balance sheet exposures.
+See “Business — Regulation” in Part I, Item 1 of this Form 10-K for further information about TLAC.
+Subsidiary Capital Requirements
+Many of our subsidiaries, including our bank and broker-dealer subsidiaries, are subject to separate regulation and capital requirements of the jurisdictions in which they operate.
+Bank Subsidiaries.
+GS Bank USA is our primary U.S. banking subsidiary and GSIB and GSBE are our primary non-U.S. banking subsidiaries. These entities are subject to regulatory capital requirements. See Note 20 to the consolidated financial statements for further information about the regulatory capital requirements for GS Bank USA.
+•
+GSIB.
+GSIB is our U.K. bank subsidiary regulated by the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA). GSIB is subject to the U.K. capital framework, which is largely based on the Basel Committee on Banking Supervision’s (Basel Committee) capital framework for strengthening international capital standards (Basel III). The eligible retail deposits of GSIB are covered by the U.K. Financial Services Compensation Scheme to the extent provided by law.
+The table below presents GSIB’s risk-based capital requirements.
+The table below presents information about GSIB’s risk-based capital ratios.
+In the table above, the risk-based capital ratios as of December 2024 reflected profits that are still subject to annual audit by GSIB’s external auditors and approval by GSIB’s Board of Directors for inclusion in risk-based capital. These profits contributed 213 basis points to the CET1 capital ratio as of December 2024.
+The table below presents GSIB’s leverage ratio requirement and leverage ratio.
+In the table above, the leverage ratio as of December 2024 reflected profits that are still subject to annual audit by GSIB’s external auditors and approval by GSIB’s

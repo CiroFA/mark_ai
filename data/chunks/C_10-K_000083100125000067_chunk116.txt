@@ -1,0 +1,20 @@
+assumption that market interest rates, as well as rates paid to depositors and charged to borrowers, do not fall below zero (i.e., the “flooring assumption”). The interest rate scenarios are also impacted by convexity related to mortgage products and deposit pricing.
+Note: Each scenario assumes that the rate change will occur instantaneously. Changes in interest rates for maturities between the overnight rate and the 10-year rate are interpolated. The interest rate exposure in the table above assumes no change in deposit size or mix from the baseline forecast included in the different interest rate scenarios presented. As a result, in higher interest rate scenarios, customer activity resulting in a shift from non-interest-bearing and low interest rate deposit products to higher-yielding deposits would reduce the expected benefit to net interest income. Conversely, in lower interest rate scenarios, customer activity resulting in a shift from higher-yielding deposits to non-interest-bearing and low interest rate deposit products would reduce the expected decrease to net interest income.
+(1)
+The Scenario 1 impact of $1,068 million consists of the following top five non-U.S. dollar currencies as of December 31, 2024 by absolute size: approximately $(0.2) billion from the euro, $0.2 billion from the British pound sterling, and approximately $0.1 billion each from the Chinese yuan, Swiss franc and Indian rupee. The remaining balance is spread across more than 30 additional currencies.
+(2)
+Includes the effect of changes in interest rates on
+AOCI
+related to investment securities, cash flow hedges and pension liability adjustments.
+As presented in the table above, the estimated impact to Citi’s net interest income is larger in the short end compared to the long end as Citi’s Banking Book has relatively higher interest rate exposure to the short end of the yield curve. For the U.S. dollar, exposure to downward rate shocks is larger in magnitude than to upward rate shocks. This is because of the lower benefit to net interest income from Citi’s deposit base at higher rate levels, as well as the prepayment effects on mortgage loans and mortgage-backed securities.
+The magnitude of the impact to
+AOCI
+is greater in the short end compared to the long end. This is because Citi’s investment portfolio and pension liabilities are more sensitive to rates at shorter- and intermediate-term maturities.
+104
+Changes in Foreign Exchange Rates—Impacts on
+AOCI
+and Capital
+As of December 31, 2024, Citi estimates that an unanticipated parallel instantaneous 5% appreciation of the U.S. dollar against all of the other currencies in which Citi has invested capital could reduce Citi’s tangible common equity (TCE) by approximately $1.5 billion, or 1.0%, as a result of changes to Citi’s CTA in
+AOCI
+, net of hedges. This reduction in the TCE would be primarily driven by depreciation in the value of the euro, Mexican peso and Indian rupee.
+This reduction in the TCE does not reflect any

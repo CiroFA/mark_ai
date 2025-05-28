@@ -1,0 +1,50 @@
+sheets as of February 28, 2025 and May 31, 2024. The revenues recognized during the nine months ended February 28, 2025 and February 29, 2024 that were included in the opening deferred revenues balances as of May 31, 2024 and 2023
+were approximately $
+8.6
+billion and $
+8.5
+billion, respectively. Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial in each of the
+three and nine months ended February 28, 2025 and February 29, 2024, respectively.
+Remaining performance obligations, as defined in Note 1 of Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2024
+, were $
+130.2
+billion as of
+February 28, 2025
+, of which we expect to recognize approximately
+31
+% as revenues over the next
+twelve months
+,
+40
+% over the subsequent month
+13 to month 36
+,
+25
+% over the subsequent month
+37 to month 60
+and the remainder thereafter.
+Sales of Financing Receivables
+We offer certain of our customers the option to acquire certain of our cloud and license, hardware and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts’ dates of execution. We record the transfers of amounts due from customers to financial institutions as sales of financing receivables because we are considered to have surrendered control of these financing receivables. Financing receivables sold to financial institutions were $
+306
+million and $
+1.2
+billion for the
+three and nine months ended February 28, 2025
+, respectively, and $
+269
+million and $
+1.1
+billion for the
+three and nine months ended February 29, 2024
+, respectively.
+Non-Marketable Investments
+As of each of February 28, 2025 and May 31, 2024
+, our non-marketable debt investments and equity securities and related instruments totaled $
+2.0
+billion, and are included in other non-current assets in the accompanying condensed consolidated balance sheets and are subject to periodic credit losses and impairment reviews. Certain of these non-marketable equity securities and related instruments are adjusted for observable price changes from orderly transactions. The majority of the non-marketable investments held as of these dates were with Ampere Computing Holdings LLC (Ampere), a related party entity in which we have an ownership interest of approximately
+29
+% as of
+February 28, 2025
+. We follow the equity method of accounting for our investment in Ampere and our share of loss under the equity method of accounting is recorded in the non-operating (expenses) income, net line item in our condensed consolidated statements of operations. We also have convertible debt investments in Ampere which, under the terms of an agreement with Ampere and other co-investors, will mature in
+June 2026
+and are convertible into equity

@@ -1,0 +1,21 @@
+convert the borrowing costs into floating rates. The swaps and purchased options used to economically hedge the embedded features are derivatives and also are carried at fair value. Changes in fair value related to the notes and economic hedges are reported in Trading revenues. See Notes 2 and 5 for further information on borrowings carried at fair value.
+Senior Debt Subject to Put Options or Liquidity Obligations
+1.
+Includes obligations to support secondary market trading.
+Subordinated Debt
+Subordinated debt generally is issued to meet the capital requirements of the Firm or its regulated subsidiaries and primarily is U.S. dollar denominated. Maturities of subordinated debt range from 2025 to 2039.
+Rates for Borrowings with Original Maturities Greater than One Year
+1.
+Weighted average coupon was calculated utilizing U.S. and non-U.S. dollar interest rates and excludes financial instruments for which the fair value option was elected.
+In general, other than securities inventories and customer balances financed by secured funding sources, the majority of the Firm’s assets are financed with a combination of deposits, short-term funding, floating rate long-term debt or fixed rate long-term debt swapped to a floating rate. The Firm uses interest rate swaps to more closely match these borrowings to the duration, holding period and interest rate characteristics of the assets being funded and to manage interest rate risk. These swaps effectively convert certain of the Firm’s fixed rate borrowings into floating rate obligations. In addition, for non-U.S. dollar currency borrowings that are not used to fund assets in the same currency, the Firm has entered into currency swaps that effectively convert the borrowings into U.S. dollar obligations.
+The Firm’s use of swaps for asset and liability management affects its effective average borrowing rate.
+Other Secured Financings
+Maturities and Terms of Other Secured Financings
+1
+1.
+Excludes transfers of assets accounted for as secured financings. See subsequent table.
+2.
+Variable rate other secured financings bear interest based on a variety of indices, including SOFR and federal funds rates. Amounts include notes carried at fair value with various payment provisions, including notes linked to equity, credit, commodity or other indices.
+3.
+Includes only other secured financings with original maturities greater than one year. Weighted average coupon is calculated utilizing U.S. and non-U.S. dollar interest rates and excludes other secured financings that are linked to non-interest indices and for which the fair value option was elected.
+Other secured financings include the liabilities related to collateralized notes, transfers of financial assets that are accounted for as financings rather than sales and consolidated VIEs where the Firm is deemed to be the primary beneficiary. These liabilities are generally payable from the cash flows of the related assets accounted for as Trading assets. See Note 15 for further

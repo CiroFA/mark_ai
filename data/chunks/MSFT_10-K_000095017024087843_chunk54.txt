@@ -1,0 +1,22 @@
+LinkedIn revenue increased 9%.
+•
+Dynamics products and cloud services revenue increased 19% driven by Dynamics 365 growth of 24%.
+•
+Server products and cloud services revenue increased 22% driven by Azure and other cloud services growth of 30%.
+•
+Windows revenue increased 8% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 7% and Windows Commercial products and cloud services revenue growth of 11%.
+•
+Devices revenue decreased 15%.
+•
+Xbox content and services revenue increased 50% driven by 44 points of net impact from the Activision Blizzard Inc. (“Activision Blizzard”) acquisition. The net impact reflects the change of Activision Blizzard content from third-party to first-party.
+•
+Search and news advertising revenue excluding traffic acquisition costs increased 12%.
+On October 13, 2023, we completed our acquisition of Activision Blizzard for a total purchase price of $75.4 billion, consisting primarily of cash. The financial results of Activision Blizzard have been included in our consolidated financial statements since the date of the acquisition. Activision Blizzard is reported as part of our More Personal Computing segment. Refer to Note 8 – Business Combinations of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+39
+PART II
+Item 7
+Industry Trends
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.
+Economic Conditions, Challenges, and Risks
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers prefer evolve rapidly, influencing how users access services in the cloud and, in some cases, the user’s choice of which suite of cloud-based services to use. Aggregate demand for our software, services, and devices is also correlated to global macroeconomic and geopolitical factors, which remain dynamic. We must continue to evolve and adapt over an extended time in pace with this changing environment.
+The investments we are making in cloud and AI infrastructure and devices will continue to increase our operating costs and may decrease our operating margins. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the

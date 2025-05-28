@@ -1,0 +1,44 @@
+above explanations. For the reconciliation of profit, we have grouped the reconciling items as follows:
+•
+Corporate costs:
+These costs are related to corporate requirements primarily for compliance and legal functions for the benefit of the entire organization.
+•
+Restructuring income/costs:
+May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in
+Other operating (income) expenses
+except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold. See Note 24 for more information.
+•
+Methodology differences:
+See previous discussion of significant accounting differences between segment reporting and consolidated external reporting.
+115
+Table of Contents
+•
+Timing:
+Timing differences in the recognition of costs between segment reporting and consolidated external reporting.  For example, we report certain costs on the cash basis for segment reporting and the accrual basis for consolidated external reporting.
+For the years ended December 31, 2024, 2023 and 2022, sales and revenues by geographic region reconciled to consolidated sales and revenues were as follows:
+1
+Includes revenues from Construction Industries, Resource Industries, Energy & Transportation and All Other Segment of $
+711
+million, $
+690
+million and $
+478
+million in the years ended December 31, 2024, 2023 and 2022, respectively.
+116
+Table of Contents
+For the years ended December 31, 2024, 2023 and 2022, Energy & Transportation segment sales by end user application were as follows:
+117
+Table of Contents
+118
+Table of Contents
+119
+Table of Contents
+120
+Table of Contents
+24.
+Restructuring income/costs
+Our accounting for employee separations is dependent upon how the particular program is designed.  For voluntary programs, we recognize eligible separation costs at the time of employee acceptance unless the acceptance requires explicit approval by the company.  For involuntary programs, we recognize eligible costs when management has approved the program, the affected employees have been properly notified and the costs are estimable.
+Restructuring costs for 2024, 2023 and 2022 were as follows:
+The restructuring costs in 2024 were related to restructuring actions across the company including the divestitures of certain non-U.S. entities. The restructuring costs in 2023 were primarily related to the divestiture of the company's Longwall business within Resource Industries. The divestiture closed on February 1, 2023 and resulted in a pre-tax loss of approximately $
+586
+million, primarily a non-

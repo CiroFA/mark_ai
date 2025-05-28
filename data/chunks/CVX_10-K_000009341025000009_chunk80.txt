@@ -1,0 +1,31 @@
+per major jurisdiction. The company does not expect the standard to have a material effect on its consolidated financial statements and continues to evaluate disclosure presentation alternatives.
+Income Statement (Topic 220) Reporting Comprehensive Income - Expense Disaggregation Disclosures
+In November 2024, the FASB issued ASU 2024-03, which becomes effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. The standard requires companies to disclose disaggregated information about certain income statement expense line items. The company does not expect the standard to have a material effect on its consolidated financial statements and has begun evaluating disclosure presentation alternatives.
+Note 5
+Lease Commitments
+The company enters into leasing arrangements as a lessee; any lessor arrangements are not significant. Operating lease arrangements mainly involve land, bareboat charters, terminals, drill ships, drilling rigs, time chartered vessels, office buildings and warehouses, and exploration and production equipment. Finance leases primarily include facilities, vessels and office buildings.
+74
+Details of the right-of-use assets and lease liabilities for operating and finance leases, including the balance sheet presentation, are as follows:
+*
+Includes non-cash additions of $
+2,205
+and $
+40
+in 2024, and $
+2,556
+and $
+233
+in 2023 for right-of-use assets obtained in exchange for new and modified lease liabilities for operating and finance leases, respectively.
+Total lease costs consist of both amounts recognized in the Consolidated Statement of Income during the period and amounts capitalized as part of the cost of another asset. Total lease costs incurred for operating and finance leases were as follows:
+*
+Includes variable and short-term lease costs.
+Cash paid for amounts included in the measurement of lease liabilities was as follows:
+At December 31, 2024, the estimated future undiscounted cash flows for operating and finance leases were as follows:
+Additionally, the company has $
+403
+in future undiscounted cash flows for operating leases not yet commenced. These leases are primarily for drilling rigs, time chartered vessels, exploration and production equipment and storage tanks. For
+75
+those leasing arrangements where the underlying asset is not yet constructed, the lessor is primarily involved in the design and construction of the asset.
+Note 6
+Summarized Financial Data – Chevron U.S.A. Inc.
+Chevron U.S.A. Inc. (CUSA) is a major subsidiary of Chevron Corporation. CUSA and its subsidiaries manage and operate most of Chevron’s U.S. businesses. Assets include those related to the exploration and production of crude oil, natural gas, and natural gas liquids (NGLs) and those associated with the refining, marketing, supply and distribution of products derived from petroleum, excluding most of the regulated pipeline operations of Chevron. CUSA also holds the company’s

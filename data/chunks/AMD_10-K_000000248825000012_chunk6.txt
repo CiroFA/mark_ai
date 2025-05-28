@@ -1,0 +1,25 @@
+in the latest AMD ROCm software that increases performance in key generative AI workloads, adds expanded support and optimization for additional frameworks and libraries, and simplifies the overall developer experience.
+Our Business
+Our four reportable segments are:
+•
+the Data Center segment, which primarily includes AI accelerators, server CPUs, GPUs, APUs, DPUs, FPGAs, SmartNICs, and Adaptive SoC products for data centers;
+•
+the Client segment, which primarily includes CPUs, APUs, and chipsets for desktops and notebooks;
+•
+the Gaming segment, which primarily includes discrete GPUs, semi-custom SoC products and development services; and
+•
+the Embedded segment, which primarily includes embedded CPUs, GPUs, APUs, FPGAs, SOMs, and Adaptive SoC products.
+In addition to these reportable segments, we have an All Other category, which is not a reportable segment.
+Beginning with our fiscal year ending December 27, 2025, we plan to combine the Client and Gaming segments into one reportable segment to align with how we manage our business. As a result, we will have three reportable segments: Data Center, Client and Gaming, and Embedded.
+Data Center Segment
+Data Center Market
+The Data Center segment primarily includes server-class CPUs, GPUs, AI accelerators, DPUs, FPGAs, SmartNICs, and Adaptive SoC products. We leverage our technology to address the computational, visual data processing and AI workload acceleration needs in the data center market. Modern data centers require high performance, energy efficient, scalable and adaptable compute engines to meet the demand driven by the growing amount of data that needs to be stored, accessed, analyzed and managed. Different combinations of CPUs, GPUs, DPUs, FPGAs, SmartNICs, and Adaptive SoCs enable the optimization of performance and power for a diverse set of workloads.
+Data Center Products
+Server CPUs.
+Our CPUs for server platforms currently include the AMD EPYC Series processors. EPYC CPUs, which are based on the x86 architecture, are server-specific processors designed for high-performance computing, enterprise IT, supercomputing, and large data centers. We recently announced our 5th generation AMD EPYC family of server processors, further expanding our high-performance server CPU portfolio.
+Data Center GPUs.
+Our AMD Instinct family of GPU accelerator products, including AMD Instinct MI200, MI300 and MI325 series, are based on AMD CDNA™ architecture. AMD Instinct accelerators are designed to address the growing demand for AI training and inferencing and exascale-class scientific computing. Our visual cloud GPU offerings include products in the Radeon™ PRO V families. Our visual cloud data center GPUs include a range of solutions tailored towards workloads requiring remote visualization, such as Desktop-as-a-Service, Workstation-as-a-Service and Cloud Gaming.
+3
+Table of Contents
+FPGAs and Adaptive SoCs.
+We offer a wide range of FPGAs, Adaptive SoCs and acceleration cards for the data center. Devices

@@ -1,0 +1,20 @@
+workflows using low-code and no-code development tooling and does not require formal coding experience. App Engine delivers intuitive and intelligent development experiences, designed for speed, security and scale. Examples of the types of workflows our customers have developed using App Engine include applications for:
+•
+a healthcare institution to streamline health research for providers and patients to share and track health data in a private and secure manner;
+•
+a retailer to manage the workflow for loss prevention, fraud protection and asset protection in retail locations;
+•
+the management of licensing, contracting and compliance examinations and financial reviews, replacing a months-long, manual process with a 30-minute automated process; and
+•
+providing overnight loans in different currencies for central banks.
+7
+Table of Contents
+App Engine can also be used in conjunction with Now Assist for Creator, our AI solution, to quickly create and scale apps on the Now Platform. Trained on code from ServiceNow engineering, results generated with Now Assist for Creator are generally higher quality and more scalable and secure than other code generation technology. This solution includes text-to-code, which converts natural language text into high-quality code suggestions, and in some cases into complete code, enabling faster development and increased productivity.
+Automation Engine
+Our Automation Engine product helps workflows integrate by connecting or automating systems, documents or tasks with minimal code. Integration to data in third-party systems is executed and secured using application programming interfaces (or “APIs”), while manual work can be eliminated by leveraging robotic process automation and intelligent document processing capabilities. Automation Engine includes process mining capabilities that can uncover trends and patterns in business processes and help eliminate redundancies and drive process optimization along with cost and productivity efficiencies.
+Automation Engine can also be used in conjunction with Now Assist for Creator, our AI solution, to automate essential functions, including flow generation, code generation and app generation, allowing developers to create complex workflows and applications using natural language prompts. This automation can significantly boost productivity by reducing development time and enabling both novice and experienced developers to build more reliable applications.
+To help customers in key business functions, we also enable other workflows through Platform Privacy and Security and Source-to-Pay Operations, among other products.
+Platform Privacy and Security
+Our Platform Privacy and Security products provide premium security, privacy and encryption controls to help our customers protect and control their sensitive data in the cloud.
+Source-to-Pay Operations
+Our Source-to-Pay Operations suite connects to customers’ existing enterprise resource planning and procurement systems, delivering a

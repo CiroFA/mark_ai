@@ -1,0 +1,34 @@
+with cash flow hedges expected to be reclassified from
+AOCI
+within 12 months of December 31, 2024 is approximately $(
+0.5
+) billion. The maximum length of time over which forecasted cash flows are hedged is
+14
+years.
+The after-tax impact of cash flow hedges on
+AOCI
+is presented in Note 21.
+262
+Net Investment Hedges
+The pretax gain (loss) recorded in CTA within
+AOCI
+, related to net investment hedges, was $
+2.8
+billion, $(
+1.4
+) billion and $
+370
+million for the years ended December 31, 2024, 2023 and 2022, respectively. The year ended December 31, 2022 includes a $
+36
+million pretax loss related to net investment hedges, which were reclassified from
+AOCI
+into earnings (recorded in
+Other revenue
+).
+Credit Derivatives
+Citi is a market maker and trades a range of credit derivatives. Through these contracts, Citi either purchases or writes protection on either a single name or a portfolio of reference credits. Citi also uses credit derivatives to help mitigate credit risk in its corporate and consumer loan portfolios and other cash positions and to facilitate client transactions.
+Citi manages counterparty credit risk arising from credit derivative contracts primarily through master netting agreements, collateral agreements and daily margin settlement requirements. A majority of Citi’s top
+15
+counterparties (by receivable balance owed to Citi) are central clearing houses, banks, financial institutions or other dealers. Contracts with these counterparties do not include ratings-based termination events. However, counterparty ratings downgrades may have an incremental effect by lowering the threshold at which Citi may call for additional collateral.
+The range of credit derivatives entered into includes credit default swaps, total return swaps, credit options and credit-linked notes.
+A credit default swap is a contract in which, for a fee, a protection seller agrees to reimburse a protection buyer for any losses that occur due to a predefined credit event on a reference entity. These credit events are defined by the terms of the derivative contract and the reference entity and are generally limited to the market standard of failure to pay on indebtedness and bankruptcy of the reference entity and, in a more limited range of transactions, debt restructuring. Credit derivative transactions that reference emerging market entities also typically include additional credit events to cover the acceleration of indebtedness and the risk of repudiation or a payment moratorium. In certain transactions, protection may be provided on a portfolio of reference entities or asset-backed securities. If there is no credit event, as defined by the specific derivative contract, then the protection seller makes no payments to the protection buyer and receives only the contractually specified fee. However, if a credit event occurs as defined in the specific derivative contract sold, the protection seller will be required to make a payment to the protection buyer. Under certain

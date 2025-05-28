@@ -1,0 +1,29 @@
+application programming interfaces (APIs). We partner with both traditional and emerging players to innovate and expand the payments ecosystem, allowing them to use the resources of our platform to scale and grow their businesses more quickly and effectively.
+•
+We are accelerating the migration to digital payments
+through our network of networks strategy. We aim to provide a single connection point so that Visa clients can enable money movement for businesses, governments and consumers, regardless of which network is used to start or complete the transaction. This model ultimately helps to unify a complex payments ecosystem.
+Visa’s network of networks approach creates opportunities by facilitating person-to-person (P2P), business-to-consumer (B2C), business-to-business (B2B) and government-to-consumer (G2C) payments, in addition to consumer to business (C2B) payments.
+•
+We provide value-added services
+to our clients, including issuing solutions, acceptance solutions, risk and identity solutions, open banking solutions and advisory services.
+•
+We invest in and promote our brand
+to the benefit of our clients and partners through advertising, promotional and sponsorship initiatives with the International Olympic Committee, the International Paralympic Committee, the National Football League, and the Red Bull Formula One Teams
+—
+the Oracle Red Bull Racing Team and the Visa Cash App RB Formula One Team, among others. We also use these sponsorship assets to showcase our payment innovations.
+(1)
+The number includes an estimated 42 million locations through payment facilitators, which are technology providers that provide payment acceptance services to merchants on behalf of acquirers
+.
+Data provided to Visa by acquiring institutions and other third parties as of June 30, 2024.
+4
+Table
+of Contents
+FISCAL 2024 KEY STATISTICS
+(1)
+Please see
+Item 7
+of this report for a reconciliation of our GAAP to non-GAAP financial results.
+OUR CORE BUSINESS
+In a typical Visa C2B payment transaction, the consumer purchases goods or services from a merchant using a Visa card or payment product. The merchant presents the transaction data to an acquirer, usually a bank or third-party processing firm that supports acceptance of Visa cards or payment products, for verification and processing. Through VisaNet, the acquirer presents the transaction data to Visa, which in turn sends the transaction data to the issuer to check the account holder’s account balance or credit line for authorization. After the transaction is authorized, the issuer posts the transaction to the consumer’s account and effectively pays the acquirer an amount equal to the value of the transaction, minus the interchange reimbursement fee.
+The acquirer pays the amount of the purchase, minus the merchant discount rate (MDR), to the merchant.
+Visa earns revenue by facilitating money movement across more than 200 countries and territories among a global set of consumers, merchants, financial institutions and

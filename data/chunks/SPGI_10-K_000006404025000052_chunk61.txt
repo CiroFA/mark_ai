@@ -1,0 +1,18 @@
+statements.
+In January of 2023, we completed the acquisition of ChartIQ, a premier charting provider for the financial services industry. ChartIQ is a professional grade charting solution that allows users to visualize data with a fully interactive web-based library that works seamlessly across web, mobile and desktop. It provides advanced capabilities including trade visualization, options analytics, technical analysis and more. Additionally, ChartIQ allows clients to visualize vendor-supplied data combined with their own proprietary content, alternative datasets or analytics. The acquisition further enhances our S&P Capital IQ Pro platform and other workflow solutions to provide the industry with leading visualization capabilities. The acquisition of ChartIQ is not material to our consolidated financial statements.
+In January of 2023, we completed the acquisition of TruSight Solutions LLC (“TruSight”) a provider of third-party vendor risk assessments. The acquisition was integrated into our Market Intelligence segment and further expanded the breadth and depth of S&P Global’s third party vendor risk management solutions by offering high-quality validated assessment data to clients designed to reduce further the vendor due diligence burden on service providers to the financial services industry. The acquisition of TruSight is not material to our consolidated financial statements.
+45
+Table of Contents
+In the first quarter of  2023, we received a contingent payment following the sale of Leveraged Commentary and Data (“LCD”) that resulted in a pre-tax gain of $46 million ($34 million after-tax) which was included in (Gain) loss on dispositions, net in the consolidated statements of income.
+In June of 2022, we completed the previously announced sale of LCD, a business within our Market Intelligence segment, to Morningstar. During the year ended December 31, 2022, we recorded a pre-tax gain of $505 million ($378 million after-tax)  in (Gain) loss on dispositions, net in the consolidated statements of income for the sale of LCD.
+In March of 2022, we completed the previously announced sale of CUSIP Global Services (“CGS”), a business within our Market Intelligence segment, to FactSet Research Systems Inc. for a purchase price of
+$1.925 billion in cash, subject to customary adjustments. During the year ended December 31, 2022, we recorded a pre-tax gain of $1.342 billion ($
+1.005 billion after-tax) in (Gain) loss on dispositions, net in the consolidated statements of income related to the sale of CGS.
+See Note 2 -
+Acquisitions and Divestitures
+to the consolidated financial statements under Item 8, Consolidated Financial Statements and Supplementary Data, in this Annual Report on Form 10-K for further discussion including information on the merger with IHS Markit.
+Market Intelligence includes the following business lines:
+•
+Desktop
+—
+a product suite that provides data, analytics and third-party research for global finance and corporate professionals,

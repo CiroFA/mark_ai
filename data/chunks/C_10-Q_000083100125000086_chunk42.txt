@@ -1,0 +1,24 @@
+real estate loans.
+(5)    Asia Consumer includes balances in Korea, Poland and Russia for all periods presented.
+60
+The changes in Citigroup’s non-accrual loans were as follows:
+The table below summarizes Citigroup’s other real estate owned (OREO) assets. OREO is recorded on the Consolidated Balance Sheet within
+Other assets
+. This represents the carrying value of all real estate property acquired by foreclosure or other legal proceedings when Citi has taken possession of the collateral:
+(1)
+The International OREO details by cluster are not provided due to the immateriality of such amounts.
+(2)
+The ACLL includes the allowance for Citi’s credit card portfolios and purchased credit-deteriorated loans, while the non-accrual loans exclude credit card balances (with the exception of certain international portfolios).
+61
+This page intentionally left blank.
+62
+LIQUIDITY RISK
+For additional information on funding and liquidity at Citi, including objectives and stress testing, see “Liquidity Risk” and “Risk Factors—Liquidity Risks” in Citi’s 2024 Form 10-K.
+Overview
+Adequate and diverse sources of funding and liquidity are essential to Citi’s businesses. Funding and liquidity risks arise from several factors, many of which are mostly or entirely outside of Citi’s control, such as disruptions in the financial markets, changes in key funding sources, credit spreads, changes in Citi’s credit ratings and macroeconomic, geopolitical and other conditions.
+Citi’s funding and liquidity management objectives are aimed at (i) funding its existing asset base, (ii) growing its core businesses, (iii) maintaining sufficient liquidity, structured appropriately, so that Citi can operate under a variety of adverse circumstances, including potential Company-specific and/or market liquidity events in varying durations and severity, and (iv) satisfying regulatory requirements, including, but not limited to, those related to resolution planning. Citigroup’s primary liquidity objectives are established by entity, and in aggregate, across two major categories:
+•
+Citibank (including Citibank Europe plc, Citibank Singapore Ltd. and Citibank (Hong Kong) Ltd.); and
+•
+Citi’s non-bank and other entities, including the parent holding company (Citigroup Inc.), Citi’s primary intermediate holding company (Citicorp LLC), Citi’s broker-dealer subsidiaries (including Citigroup Global Markets Inc., Citigroup Global Markets Limited and Citigroup Global Markets Japan Inc.) and other bank and non-bank subsidiaries that are consolidated into Citigroup (including Banamex).
+At an aggregate Citigroup level, Citi’s goal is to maintain sufficient funding in amount and tenor to fully fund customer assets and to provide an appropriate amount of cash and high-quality liquid assets (as discussed below), even in times of stress, in order to meet its payment obligations as they come due. The liquidity risk management framework provides that, in addition to the aggregate requirements, certain entities be

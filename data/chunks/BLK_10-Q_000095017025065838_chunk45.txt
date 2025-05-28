@@ -1,0 +1,31 @@
+31, 2025. For the three months ended March 31, 2024
+,
+338,300
+shares primarily related to stock options were excluded from the calculation of diluted EPS because to include them would have an anti-dilutive effect. Certain performance-based RSUs for the three months ended March 31, 2025
+, and certain performance-based RSUs and options for the three months ended March 31, 2024 were excluded from the diluted EPS calculation because the designated contingencies were not met.
+23
+. Segment Information
+The Company’s management directs BlackRock’s operations as
+one
+business, the asset management business. As such, the Company operates in one asset management operating segment. See the condensed consolidated financial statements for key financial metrics, including total revenue, operating income and net income attributable to BlackRock, Inc., and for more financial information, including significant expenses on a consolidated basis, regarding the Company’s operating segment. The measure of segment assets is reported on the balance sheet as total consolidated assets.
+The following table illustrates total revenue for the
+three months ended March 31, 2025 and 2024 by geographic region. These amounts are aggregated on a legal entity basis and do not necessarily reflect where the customer resides, or affiliated services are provided.
+See Note 16,
+Revenue
+, for further information on the Company’s sources of revenue.
+The following table illustrates long-lived assets that consist of goodwill and property and equipment at
+March 31, 2025 and December 31, 2024 by geographic region. These amounts are aggregated on a legal entity basis and do not necessarily reflect where the asset is physically located.
+33
+Americas is primarily comprised of the US, and also includes Latin America and Canada. Europe is primarily comprised of the UK, Luxembourg and the Netherlands, and also includes Switzerland, Ireland and France. Asia-Pacific is primarily comprised of Hong Kong, Japan, Singapore and Australia.
+24
+. Subsequent Events
+In December 2024, BlackRock announced that it had entered into a definitive agreement to acquire
+100
+% of the business and assets of HPS Investment Partners ("HPS"), a leading global credit investment manager with
+100
+% of the consideration paid in BlackRock equity (the "HPS Transaction"). The equity will generally be delivered in units of a wholly-owned subsidiary of BlackRock (“SubCo Units”) which will be exchangeable on a one-for-one basis (subject to certain adjustments) into BlackRock common stock (accordingly, the value of each unit delivered will be based on the price of a share of BlackRock’s common stock and the specific terms of the SubCo Units). Approximately
+9.2
+million SubCo Units and RSUs will be paid at closing. Approximately
+2.9
+million SubCo Units will be paid in approximately five years, subject to the satisfaction of certain post-closing conditions. In addition, there is potential for additional consideration to be earned of up to
+1.6

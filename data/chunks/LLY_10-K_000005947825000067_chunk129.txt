@@ -1,0 +1,21 @@
+to income tax examination for years before 2014.
+The U.S. examination of tax years 2019-2021 began in 2023 and remains ongoing. For tax years 2016-2018, we are pursuing competent authority assistance through the Mutual Agreement Procedure (MAP) process for the pricing of certain intercompany transactions. The resolution of both audit periods will likely extend beyond the next 12 months.
+94
+Interest and penalties related to unrecognized tax benefits are recognized in income tax expense and were not material for the years ended December 31, 2024, 2023, and 2022. Our accrued interest and penalties related to unrecognized tax benefits were $
+594.2
+million and $
+414.9
+million at December 31, 2024 and 2023, respectively.
+Note 15:
+Retirement Benefits
+We use a measurement date of December 31 to determine the change in benefit obligation, change in plan assets, funded status, and amounts recognized in the consolidated balance sheets at December 31 for our defined benefit pension and retiree health benefit plans, which were as follows:
+The unrecognized net actuarial (gain) loss and unrecognized prior service (benefit) cost have not yet been recognized in net periodic pension costs and were included in accumulated other comprehensive loss at December 31, 2024 and 2023. Unrecognized net actuarial (gain) loss for the U.S. and Puerto Rico defined benefit pension and retiree health benefit plans are amortized over the average remaining service period of active employees in the plan. The amortization of actuarial (gains) losses for U.S. and Puerto Rico defined benefit pension plans are determined by using a 10% corridor of the greater of the market related value of assets or the projected benefit obligations.
+The $
+930.1
+million decrease in benefit obligation in 2024 was primarily driven by increases in the discount rates. The $
+1.09
+billion increase in benefit obligation in 2023 was primarily driven by decreases in the discount rates.
+95
+The following represents our weighted-average assumptions:
+We annually evaluate the expected return on plan assets in our defined benefit pension and retiree health benefit plans. In evaluating the expected return on plan assets, we consider many factors, with a primary analysis of current and projected market conditions; asset returns and asset allocations; and the views of leading financial advisers and economists. In U.S. and Puerto Rico, the expected return on plan assets uses a market-related value of assets. For U.S. dollar denominated investment grade debt securities and derivatives, the market-related value of assets is the actual fair value. For all other asset categories, the market-related value of assets uses a method that recognizes investment gains and losses arising from the difference between expected and actual returns on plan assets over a five-year period.
+We may also review our historical assumptions compared with actual results, as well as the assumptions and trend rates utilized by similar plans, where

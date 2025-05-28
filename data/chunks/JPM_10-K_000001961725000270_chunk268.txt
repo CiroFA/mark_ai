@@ -1,0 +1,35 @@
+components (that is, components that are actively quoted and can be validated to external sources); accordingly, the gains and losses in the table below include changes in fair value due in part to observable factors that are part of the valuation methodology. The Firm risk-manages the observable components of level 3 financial instruments using securities and derivative positions that are classified within level 1 or 2 of the fair value hierarchy; as these level 1 and level 2 risk management instruments are not included below, the gains or losses in the following tables do not reflect the effect of the Firm’s risk management activities related to such level 3 instruments.
+Notes to consolidated financial statements
+Notes to consolidated financial statements
+(a)
+Level 3 assets at fair value as a percentage of total Firm assets at fair value (including assets measured at fair value on a nonrecurring basis) were
+2
+% at December 31, 2024, 2023 and 2022. Level 3 liabilities at fair value as a percentage of total Firm liabilities at fair value (including liabilities measured at fair value on a nonrecurring basis) were
+9
+% at December 31, 2024, and
+8
+% at both December 31, 2023 and 2022.
+(b)
+All level 3 derivatives are presented on a net basis, irrespective of the underlying counterparty.
+(c)
+Primarily reported in principal transactions revenue, except for changes in fair value for CCB mortgage loans and lending-related commitments originated with the intent to sell, and mortgage loan purchase commitments, which are reported in mortgage fees and related income.
+(d)
+Realized gains/(losses) on AFS securities are reported in investment securities gains/(losses). Unrealized gains/(losses) are reported in OCI. Realized and unrealized gains/(losses) recorded on level 3 AFS securities were not material for the years ended December 31, 2024, 2023 and 2022.
+(e)
+Changes in fair value for MSRs are reported in mortgage fees and related income.
+(f)
+Realized (gains)/losses due to DVA for fair value option elected liabilities are reported in principal transactions revenue, and were not material for the years ended December 31, 2024, 2023 and 2022. Unrealized (gains)/losses are reported in OCI, and were $(
+50
+) million, $(
+158
+) million and $(
+529
+) million for the years ended December 31, 2024, 2023 and 2022, respectively.
+(g)
+Loan originations are included in purchases.
+(h)
+Includes financial assets and liabilities that have matured, been partially or fully repaid, impacts of modifications, deconsolidations associated with beneficial interests in VIEs and other items.
+Level 3 analysis
+Consolidated balance sheets changes
+The following describes significant changes to level 3 assets since December 31, 2023, for those items measured at fair value on a recurring basis. Refer to Assets and liabilities measured at fair value on a nonrecurring basis on page 199 for further information on changes impacting items measured at fair value on a nonrecurring basis.
+For the year

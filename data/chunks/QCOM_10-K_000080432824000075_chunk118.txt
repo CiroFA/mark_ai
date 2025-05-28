@@ -1,0 +1,36 @@
+for federal income tax purposes, we are required to capitalize and amortize domestic research and development expenditures over five years and foreign research and development expenditures over fifteen years (such expenditures were previously deducted as incurred). Our cash flows from operations are adversely affected due to significantly higher cash tax payments. However, since the resulting deferred tax asset is established at the statutory rate of
+21
+% (rather than the current effective tax rate of
+13
+% to
+16
+% after considering the FDII deduction), capitalization favorably
+F-18
+QUALCOMM Incorporated
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+affects our total provision for income taxes and results of operations. The adverse cash flow impact and favorable tax provision impact will diminish in future years as capitalized research and development expenditures continue to amortize.
+In the fourth quarter of fiscal 2024, we completed an intra-group transfer of intellectual property to better align certain intellectual property ownership within our QCT business, which resulted in the recognition of a tax benefit of $
+317
+million during the fourth quarter of fiscal 2024 from the establishment of a deferred tax asset. Such tax benefit was based on the value of the intellectual property transferred, which was measured using an income approach based on significant unobservable inputs.
+Beginning in fiscal 2019, as a result of certain court rulings in Korea, among other factors, we decided to apply for a partial refund claim for taxes previously withheld from licensees in Korea on payments due under their license agreements to which we have claimed a foreign tax credit in the United States. As a result, $
+2.2
+billion and $
+2.0
+billion was recorded as a noncurrent income taxes receivable (recorded in other assets) at September 29, 2024 and September 24, 2023, respectively, and $
+2.5
+billion and $
+2.3
+billion was recorded as a noncurrent liability for uncertain tax benefits (recorded in other liabilities) at September 29, 2024 and September 24, 2023, respectively.
+At September 29, 2024, our remaining future payments were $
+1.0
+billion for a one-time repatriation tax accrued in fiscal 2018, after application of certain tax credits, which is payable in installments over the next two years. At September 29, 2024, $
+530
+million was recorded in other current liabilities, reflecting the next installment due in January 2025, with the remaining noncurrent portion presented in other liabilities on our balance sheet.
+We had deferred tax assets and deferred tax liabilities as follows (in millions):
+(1)
+Non-current deferred tax liabilities were included in other liabilities in the consolidated balance sheets.
+At September 29, 2024, we had unused foreign net operating loss carryforwards of $
+2.6
+billion, of which substantially all may be carried forward indefinitely, unused state net operating loss carryforwards of $
+817
+million expiring from 2025 through 2037 and

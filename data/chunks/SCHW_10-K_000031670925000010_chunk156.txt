@@ -1,0 +1,56 @@
+had adjustable interest rates. Substantially all of these mortgages have initial fixed interest rates for
+three
+to
+ten years
+and interest rates that typically adjust every
+six
+to
+twelve months
+pursuant to the terms of the loan thereafter. Approximately
+26
+% of the balance of these mortgages consisted of loans with interest-only payment terms. The interest rates on approximately
+80
+% of the balance of these interest-only loans are not scheduled to reset for
+three
+or more years.
+At December 31, 2024 and 2023, Schwab had $
+171
+million and $
+157
+million, respectively, of accrued interest on bank loans, which is excluded from the amortized cost basis of bank loans and included in other assets on the consolidated balance sheets.
+The HELOC product has a
+30
+-year loan term with an initial draw period of
+ten years
+from the date of origination. After the initial draw period, the balance outstanding at such time is converted to a
+20
+-year amortizing loan. The interest rate during the initial draw period and the
+20
+-year amortizing period is a floating rate based on the prime rate plus a margin.
+- 89 -
+THE CHARLES SCHWAB CORPORATION
+Notes to Consolidated Financial Statements
+(Tabular Amounts in Millions, Except Per Share Data, Option Price Amounts, Ratios, or as Noted)
+The following table presents when current outstanding HELOCs will convert to amortizing loans:
+(1)
+Includes $
+11
+million of HELOCs converted to amortizing loans during the year ended December 31, 2024.
+At December 31, 2024, $
+336
+million of the HELOC portfolio was secured by second liens on the associated properties. Second lien mortgage loans typically possess a higher degree of credit risk given the subordination to the first lien holder in the event of default. In addition to the credit monitoring activities described previously, Schwab also monitors credit risk by reviewing the delinquency status of the first lien loan on the associated property. At December 31, 2024, the borrowers on approximately
+61
+% of HELOC loan balances outstanding only paid the minimum amount due.
+8.
+Equipment, Office Facilities, and Property
+Equipment, office facilities, and property are detailed below:
+As a result of its Ameritrade integration and restructuring efforts, the Company recognized impairment losses on fixed assets of $
+47
+million during the year ended December 31, 2023. These losses are included in
+other expense
+on the consolidated statements of income. For the purpose of measuring impairment loss, the fair value of the asset group was determined using a discounted cash flow analysis. The fair value of the asset group was not material at December 31, 2023. See Note 16 for additional information regarding the Company’s exit costs related to its Ameritrade integration and restructuring activities.
+9.
+Goodwill and Acquired Intangible Assets
+The changes in the carrying amount of goodwill, as allocated to our reportable segments, are presented in the following table:
+(1)
+In the fourth quarter of 2024, the

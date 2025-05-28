@@ -1,0 +1,22 @@
+well as an estimate for electricity delivered and not yet billed. The billed and unbilled amounts represent the value of electricity delivered to the customer. At December 31, 2024 and 2023, FPL's unbilled revenues amounted to approximately $
+573
+million and $
+633
+million, respectively, and are included in customer receivables on NEE’s and FPL’s consolidated balance sheets. Certain contracts with customers contain a fixed price with maturity dates through 2054. As of December 31, 2024, FPL expects to record approximately
+$
+590
+million
+of revenues related to the fixed price components of such contracts over the remaining terms of the related contracts. Certain of these contracts also contain a variable price component for energy usage which FPL recognizes as revenue as the energy is delivered based on rates stipulated in the respective contracts.
+NEER
+– NEER’s revenue from contracts with customers is derived primarily from the sale of energy commodities, electric capacity and electric transmission. For these types of sales, NEER recognizes revenue as energy commodities are delivered and as electric capacity and electric transmission are made available, consistent with the amounts billed to customers based on rates stipulated in the respective contracts as well as an accrual for amounts earned but not yet billed. The amounts billed and accrued represent the value of energy or transmission delivered and/or the capacity of energy or transmission available to the customer. Revenues yet to be earned under these contracts, which have maturity dates ranging from
+2025 to 2055,
+will vary based on the volume of energy or transmission delivered and/or available. NEER’s customers typically receive bills monthly with payment due within 30 days. Certain contracts with customers contain a fixed price which primarily relate to electric capacity sales through
+2038 and certain power purchase agreements with maturity dates through
+2036
+. At December 31, 2024, NEER expects to record approximately $
+800
+million of revenues related to the fixed price components of such contracts over the remaining terms of the related contracts as the capacity is provided. The power purchase agreements also contain a variable price component for energy usage which NEER recognizes as revenue as the energy is delivered based on rates stipulated in the respective contracts.
+3.
+Derivative Instruments
+NEE and FPL use derivative instruments (primarily swaps, options, futures and forwards) to manage the physical and financial risks inherent in the purchase and sale of fuel and electricity, as well as interest rate and foreign currency exchange rate risk associated primarily with outstanding and expected future debt issuances and borrowings, and to optimize the value of NEER's power generation and natural gas and oil production assets. NEE and FPL do not utilize hedge accounting for their cash flow and fair value hedges.
+With respect to commodities related to NEE's competitive energy business,

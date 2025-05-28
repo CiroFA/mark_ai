@@ -1,0 +1,61 @@
+assets and liabilities denominated in non-functional currencies.
+Apple Inc. | Q2 2025 Form 10-Q | 8
+Interest Rate Risk
+To protect the Company’s term debt or marketable securities from fluctuations in interest rates, the Company may use interest rate swaps, options or other instruments. The Company designates these instruments as either cash flow or fair value hedges.
+The notional amounts of the Company’s outstanding derivative instruments as of March 29, 2025 and September 28, 2024 were as follows (in millions):
+As of March 29, 2025 and September 28, 2024, the carrying amount of the Company’s current and non-current term debt subject to fair value hedges was $
+13.4
+billion and $
+13.5
+billion, respectively.
+Accounts Receivable
+Trade Receivables
+The Company’s third-party cellular network carriers accounted for
+37
+% and
+38
+% of total trade receivables as of March 29, 2025 and September 28, 2024, respectively. The Company requires third-party credit support or collateral from certain customers to limit credit risk.
+Vendor Non-Trade Receivables
+The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture subassemblies or assemble final products for the Company. The Company purchases these components directly from suppliers. The Company does not reflect the sale of these components in products net sales. Rather, the Company recognizes any gain on these sales as a reduction of products cost of sales when the related final products are sold by the Company. As of March 29, 2025, the Company had
+two
+vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted f
+or
+49
+%
+and
+19
+%
+. A
+s of September 28, 2024, the Company had
+two
+vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for
+44
+% and
+23
+%.
+Note 5 –
+Condensed Consolidated Financial Statement Details
+The following tables show the Company’s condensed consolidated financial statement details as of March 29, 2025 and September 28, 2024 (in millions):
+Inventories
+Property, Plant and Equipment, Net
+Apple Inc. | Q2 2025 Form 10-Q | 9
+Note 6 –
+Debt
+Commercial Paper
+The Company issues unsecured short-term promissory notes pursuant to a commercial paper program. The Company uses net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of March 29, 2025 and September 28, 2024, the Company had $
+6.0
+billion and $
+10.0
+billion of commercial paper outstanding, respectively.
+Term Debt
+As of March 29, 2025 and September 28, 2024, the Company had outstanding fixed-rate notes with varying maturities for an aggregate carrying amount of $
+92.2
+billion
+and $
+96.7
+billion, respectively (collectively the “Notes”). As of March 29, 2025 and September 28, 2024, the fair value of the Company’s Notes, based on Level 2 inputs, was
+$
+80.9
+billion and $
+88.4
+billion, respectively.

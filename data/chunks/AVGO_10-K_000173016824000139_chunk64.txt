@@ -1,0 +1,15 @@
+contributions from our infrastructure software segment were partially offset by less favorable margin within the semiconductor solutions segment driven by product mix.
+Research and Development Expense
+Research and development expense increased $4,057 million, or 77%, in fiscal year 2024, compared to the prior fiscal year. The increase was primarily due to higher compensation, including higher stock-based compensation, as a result of an increase in headcount from the VMware Merger. The increase in stock-based compensation expense was also due to annual employee equity awards granted at higher grant-date fair values.
+Selling, General and Administrative Expense
+Selling, general and administrative expense increased $3,367 million, or 211%, in fiscal year 2024, compared to the prior fiscal year. The increase was primarily due to higher compensation, including higher stock-based compensation, as a result of an increase in headcount from the VMware Merger. The increase in stock-based compensation expense was also due to annual employee equity awards granted at higher grant-date fair values.
+Amortization of Acquisition-Related Intangible Assets
+Amortization of acquisition-related intangible assets recognized in operating expenses increased $1,850 million, or 133%, in fiscal year 2024, compared to the prior fiscal year primarily due to higher amortization of customer-related intangible assets from the VMware Merger.
+Restructuring and Other Charges
+Restructuring and other charges recognized in operating expenses were $1,533 million and $244 million in fiscal years 2024 and 2023, respectively. The fiscal year 2024 charges primarily included employee termination costs from cost reduction activities related to the VMware Merger. The fiscal year 2023 charges primarily included non-recurring charges related to IP litigation.
+43
+Table of Contents
+Stock-Based Compensation Expense
+Total stock-based compensation expense was $5,670 million and $2,171 million for fiscal years 2024 and 2023, respectively. The increase was primarily due to equity awards assumed and granted in connection with the VMware Merger and annual employee equity awards granted at higher grant-date fair values.
+The following table sets forth the total unrecognized compensation cost related to unvested stock-based awards outstanding and expected to vest as of November 3, 2024. The remaining weighted-average service period was 3.0 years.
+During the first quarter of fiscal year ended November 3, 2019 (“fiscal year 2019”), our Compensation Committee approved a broad-based program of multi-year equity grants of time- and market-based RSUs (the “Multi-Year Equity Awards”) in lieu of our annual employee equity awards historically granted on March 15 of each year. Each Multi-Year Equity Award vests on the same basis as four annual grants made on March 15 of each year, beginning in fiscal year 2019, with successive four-year vesting periods. We recognize stock-based compensation expense related to the

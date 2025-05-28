@@ -1,0 +1,35 @@
+addition to the allowance for credit losses included:
+•
+$562 million in
+wholesale
+, which also reflected changes in credit quality on client-specific exposures and the impact of new lending-related commitments, and
+•
+$441 million in
+consumer
+, predominantly driven by Card Services.
+The Firm's allowance for credit losses is estimated using a weighted average of five internally developed macroeconomic scenarios. The adverse scenarios incorporate more punitive macroeconomic factors than the central case assumptions provided in the following table, resulting in:
+•
+a weighted average U.S. unemployment rate peaking at 5.8% in the first quarter of 2026, and
+•
+a weighted average U.S. real GDP level that is 2.6% lower than the central case at the end of the second quarter of 2026.
+The following table presents the Firm’s central case assumptions for the periods presented:
+(a)
+Reflects quarterly average of forecasted U.S. unemployment rate.
+(b)
+The year over year growth in U.S. real GDP in the forecast horizon of the central scenario is calculated as the percentage change in U.S. real GDP levels from the prior year.
+Subsequent changes to this forecast and related estimates will be reflected in the provision for credit losses in future periods.
+Refer to Note 13 and Note 10 of JPMorganChase’s 2024 Form 10-K for a description of the policies, methodologies and judgments used to determine the Firm’s allowance for credit losses on loans, lending-related commitments, and investment securities.
+Refer to Consumer Credit Portfolio on pages 49-51, Wholesale Credit Portfolio on pages 52-60 and Note 11 for additional information on the consumer and wholesale credit portfolios.
+Refer to Critical Accounting Estimates Used by the Firm on pages 72–75 for further information on the allowance for credit losses and related management judgments.
+61
+(a)
+Includes collateral-dependent loans, including those for which foreclosure is deemed probable, and nonaccrual risk-rated loans.
+(b)
+At March 31, 2025 and 2024, in addition to the allowance for credit losses in the table above, the Firm also had an allowance for credit losses of $283 million and $274 million, respectively, associated with certain accounts receivable in CIB.
+(c)
+The Firm’s policy is generally to exempt credit card loans from being placed on nonaccrual status as permitted by regulatory guidance.
+62
+Allocation of allowance for loan losses
+The table below presents a breakdown of the allowance for loan losses by loan class. Refer to Note 11 for further information on loan classes.
+63
+Investment portfolio risk is the risk associated with the loss of principal or a reduction in expected returns on investments arising from the investment securities portfolio or from principal investments. The investment securities portfolio is predominantly held by Treasury and CIO in connection with the Firm’s balance sheet and asset-liability management objectives. Principal investments are predominantly privately-held financial

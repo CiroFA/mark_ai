@@ -1,0 +1,30 @@
+recorded in selling and general expense related to these contracts was a net gain of $
+49
+million for the three months ended March 31, 2025 and a net loss of $
+37
+million for the three months ended March 31, 2024, respectively.
+Net Investment Hedges
+As of March 31, 2025 and December 31, 2024, we held cross currency swaps to hedge a portion of our net investment in certain European subsidiaries against volatility in the Euro/U.S. dollar exchange rate.These swaps are designated and qualify as a hedge of a net investment in a foreign subsidiary and are scheduled to mature in 2029, 2030, 2032 and 2033. The notional value of our outstanding cross currency swaps designated as a net investment hedge was $
+3.5
+billion as of March 31, 2025 and December 31, 2024. The changes in the fair value of these swaps are recognized in foreign currency translation adjustments, a
+13
+component of other comprehensive income (loss), and reported in accumulated other comprehensive loss in our consolidated balance sheet. The gain or loss will be subsequently reclassified into net earnings when the hedged net investment is either sold, liquidated or substantially liquidated. We have elected to assess the effectiveness of our net investment hedges based on changes in spot exchange rates. Accordingly, amounts related to the cross currency swaps recognized directly in net income represent net periodic interest settlements and accruals, which are recognized in interest expense, net. We recognized net interest income of $
+14
+million and $
+8
+million for the three months ended March 31, 2025 and 2024, respectively.
+Cash Flow Hedges
+Foreign Exchange Forward Contracts
+During the three months ended March 31, 2025 and the twelve months ended December 31, 2024, we entered into a series of foreign exchange forward contracts to hedge a portion of the Indian rupee, British pound, and Euro exposures through the first quarter of 2027 and the fourth quarter of 2026, respectively. These contracts are intended to offset the impact of movement of exchange rates on future revenue and operating costs and are scheduled to mature within
+twenty-four months
+. The changes in the fair value of these contracts are initially reported in accumulated other comprehensive loss in our consolidated balance sheet and are subsequently reclassified into revenue and selling and general expenses in the same period that the hedged transaction affects earnings.
+As of March 31, 2025, we estimate that $
+2
+million of pre-tax gain related to foreign exchange forward contracts designated as cash flow hedges recorded in other comprehensive income is expected to be reclassified into earnings within the next twelve months.
+As of March 31, 2025 and December 31, 2024, the aggregate notional value of our outstanding foreign exchange forward contracts designated as cash flow hedges was $
+565
+million and $
+539
+million, respectively.
+Interest Rate Swaps
+During the three months ended March 31, 2024, we terminated our interest rate

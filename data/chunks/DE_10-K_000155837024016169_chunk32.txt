@@ -1,0 +1,63 @@
+considered troubled debt restructurings when the significant modification of the receivable resulted in a concession we would not otherwise consider.
+The following table quantifies troubled debt restructurings:
+​
+​
+Troubled debt restructurings for the presented periods related to retail notes.
+In 2023 and 2022, there were no significant troubled debt restructurings that subsequently defaulted and were written off.
+Other Receivables
+Other receivables at the end of 2024 and 2023 consisted of:
+​
+​
+​
+​
+​
+​
+68
+Table of Contents
+​
+12. SECURITIZATION OF FINANCING RECEIVABLES
+Our funding strategy includes receivable securitizations, which allows us to receive cash for financing receivables immediately. While these securitization programs are administered in various forms, they are accomplished in the following basic steps:
+As part of step 1, these receivables are legally isolated from the claims of our general creditors. This ensures cash receipts from the financing receivables are accessible to pay back securitization program investors. The structure of these transactions does not meet the accounting criteria for a sale of receivables. As a result, they are accounted for as a secured borrowing. The receivables and borrowings remain on our balance sheet and are separately reported as “Financing receivables securitized – net” and
+“Short-term securitization borrowings,” respectively.
+We offer securitization programs to institutional investors and other financial institutions through public issuances or privately through a revolving credit agreement. At October 27, 2024, the revolving agreement had a financing limit of up to
+$
+2,000
+. At October 27, 2024,
+$
+1,398
+of securitization borrowings were outstanding under the revolving agreement. In November 2024, the agreement was renewed for one year with a capacity of
+$
+2,500
+.
+Restricted cash held by the SPE serves as a credit enhancement. It would be used to satisfy receivable payment deficiencies, if any. The cash restriction is removed either after all secured borrowing payments are made or proportionally as the secured receivables are collected and the borrowing obligations are reduced.
+The components of securitization programs were as follows at the end of 2024 and 2023:
+​
+​
+The weighted-average interest rates on short-term securitization borrowings at October 27, 2024 and October 29, 2023 were
+5.0
+percent and
+4.7
+percent, respectively.
+Although these securitization borrowings are classified as short-term since payment is required if the financing receivables are liquidated early, the payment schedule for these borrowings at October 27, 2024 based on the expected liquidation of the retail notes is as follows: 2025 –
+$
+4,036
+, 2026 –
+$
+2,440
+, 2027 –
+$
+1,428
+, 2028 –
+$
+500
+, 2029 –
+$
+37
+, and later years –
+$
+4
+.
+​
+13. INVENTORIES
+A majority of inventories owned by us are valued at cost on the “last-in, first-out” (LIFO) basis.
+If all inventories valued on a LIFO basis had been valued on a “first-in, first-

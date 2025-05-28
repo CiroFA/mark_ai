@@ -1,0 +1,18 @@
+senior management and/or the appropriate risk committee, on a timely basis, instances where limits have been exceeded (e.g., due to positional changes or changes in market conditions, such as increased volatilities or changes in correlations). Such instances are remediated by a reduction in the positions we hold and/or a temporary or permanent increase to the limit, if warranted.
+Metrics
+We analyze VaR at the firmwide level and a variety of more detailed levels, including by risk category, business and region. Diversification effect in the tables below represents the difference between total VaR and the sum of the VaRs for the four risk categories. This effect arises because the four market risk categories are not perfectly correlated. Substantially all positions in VaR are included within Global Banking & Markets.
+The table below presents our average daily VaR.
+Our average daily VaR decreased to $92 million in 2024 from $99 million in 2023, due to lower levels of volatility, partially offset by increased exposures. The total decrease was primarily driven by a decrease in the interest rates category, partially offset by an increase in the equity prices category.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+The table below presents our period-end VaR.
+Our period-end VaR decreased to $91 million as of December 2024 from $93 million as of December 2023, due to lower levels of volatility, partially offset by increased exposures. The total decrease was driven by an increase in the diversification effect and a decrease in the interest rates category, partially offset by an increase in the currency rates and equity prices categories.
+During 2024, there was a permanent increase to the firmwide VaR risk limit due to higher levels of volatility and increased exposures. The firmwide VaR risk limit was not exceeded during this period. During 2023, the firmwide VaR risk limit was not exceeded and there were no permanent changes to the firmwide VaR risk limit. However, the firmwide VaR risk limit was temporarily changed on four occasions as a result of changes in the market environment in the first half of 2023.
+The table below presents our high and low VaR.
+The chart below presents our daily VaR for 2024.
+The table below presents, by number of business days, the frequency distribution of our daily net revenues for positions included in VaR.
+Daily net revenues for positions included in VaR are compared with VaR calculated as of the end of the prior business day. Net losses incurred on a single day for such positions exceeded our 95% one-day VaR (i.e., a VaR exception) on two occasions during
+2024
+and
+on one occasion during 2023.
+During periods in which we have significantly more positive net revenue days than net revenue loss days, we expect to have fewer VaR exceptions because, under normal conditions, our business model generally produces positive net revenues. In periods in which our franchise revenues are adversely

@@ -1,0 +1,30 @@
+unsecured credit ratings and outlook of Group Inc.
+In the table above:
+•
+The ratings and outlook are by DBRS, Inc. (DBRS), Fitch, Inc. (Fitch), Moody’s Investors Service (Moody’s), Rating and Investment Information, Inc. (R&I), and Standard & Poor’s Ratings Services (S&P).
+•
+The ratings for trust preferred relate to the guaranteed preferred beneficial interests issued by Goldman Sachs Capital I.
+•
+The DBRS, Fitch, Moody’s and S&P ratings for preferred stock include the APEX issued by Goldman Sachs Capital II and Goldman Sachs Capital III.
+The table below presents the unsecured credit ratings and outlook of GS Bank USA, GSIB, GSBE, GS&Co. and GSI.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+We believe our credit ratings are primarily based on the credit rating agencies’ assessment of:
+•
+Our liquidity, market, credit and operational risk management practices;
+•
+Our level and variability of earnings;
+•
+Our capital base;
+•
+Our franchise, reputation and management;
+•
+Our corporate governance; and
+•
+The external operating and economic environment, including, in some cases, the assumed level of government support or other systemic considerations, such as potential resolution.
+Certain of our derivatives have been transacted under bilateral agreements with counterparties who may require us to post collateral or terminate the transactions based on changes in our credit ratings. We manage our GCLA to ensure we would, among other potential requirements, be able to make the additional collateral or termination payments that may be required in the event of a two-notch reduction in our long-term credit ratings, as well as collateral that has not been called by counterparties, but is available to them. See Note 7 to the consolidated financial statements for further information about derivatives with credit-related contingent features and the additional collateral or termination payments related to our net derivative liabilities under bilateral agreements that could have been called by counterparties in the event of a one- or two-notch downgrade in our credit ratings.
+Cash Flows
+As a global financial institution, our cash flows are complex and bear little relation to our net earnings and net assets. Consequently, we believe that traditional cash flow analysis is less meaningful in evaluating our liquidity position than the liquidity and asset-liability management policies described above. Cash flow analysis may, however, be helpful in highlighting certain macro trends and strategic initiatives in our businesses.
+Three Months Ended March 2025
+.
+Our cash and cash equivalents decreased by $14.68 billion to $167.41 billion at the end of the first quarter of 2025, due to net cash used for operating activities and investing activities, partially offset by net cash provided by financing activities and the effect of exchange rate changes on cash and cash equivalents. The net cash used for operating activities primarily reflected

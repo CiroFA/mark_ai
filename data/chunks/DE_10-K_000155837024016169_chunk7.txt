@@ -1,0 +1,17 @@
+factors, including credit quality at time of application, remaining account balances, current delinquency levels, various economic factors, and estimated recoveries on defaulted accounts. Changes in any of these factors could impact our credit losses. Conversely, changes in economic conditions have historically had limited impact on credit losses within the wholesale receivable portfolio.
+Holding all other factors constant, a 10 percent increase in the linear regression models’ forecasted defaults and a simultaneous 10 percent decrease in recovery rates would have resulted in a $70 increase to the allowance for credit losses at October 27, 2024.
+Operating Lease Residual Values
+Equipment on operating leases is depreciated to the estimated residual value over the lease term. The residual values are based on several factors, including:
+36
+Table of Contents
+​
+We review residual value estimates during the lease term. Depreciation is adjusted over the remaining lease term if residual estimates are revised. Impairments are recorded when events or circumstances necessitate.
+At the end of the majority of leases, the equipment is disposed in the following sequence:
+Operating Lease Residual Values
+Hypothetically, if (a) future market values for this equipment were to decrease 10 percent from our present estimates, and (b) all the equipment on operating leases were returned to us for remarketing at the end of the lease term, the total unfavorable impact after consideration of dealer residual value guarantees would be approximately $75. This amount would be recognized as higher depreciation expense over the remaining term of the operating leases, or potentially as an impairment.
+Income Taxes
+We are subject to federal, state, and foreign income taxes. These tax laws can be complex. Significant judgment and interpretation is required to implement them. Changes in tax laws could materially affect our consolidated financial statements. We record our tax positions in the following categories:
+Deferred income taxes represent temporary differences between the tax and the financial reporting basis of assets and liabilities. This will result in taxable or deductible amounts in the future. Loss carryforwards and tax credits are significant components of deferred tax asset balances. These assets are reviewed regularly for the following:
+Valuation allowances are established when we determine that the deferred tax benefit may not be realized. The recoverability
+analysis requires significant judgment and relies on estimates. The valuation allowance as of October 27, 2024 was $1.6 billion. Changes in foreign income tax laws, income for certain jurisdictions, or our tax structure could impact the valuation allowance balance.
+Some tax positions contain significant uncertainties. These positions may be challenged or disallowed by taxing authorities. If it is likely the position will be disallowed, no tax benefit is recorded. If it is likely the position will be sustained, a

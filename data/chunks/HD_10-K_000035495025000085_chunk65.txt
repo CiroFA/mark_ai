@@ -1,0 +1,17 @@
+consideration of a variety of factors such as current and anticipated demand, customer preferences and buying trends, age of the merchandise, and weather conditions.
+We calculate shrink based on actual inventory losses identified as a result of physical inventory counts during each fiscal period and estimated inventory losses occurring between physical inventory counts. The estimate for shrink occurring in the interim period between physical inventory counts is calculated on a store-specific basis and is primarily based on recent shrink results. A 10% increase in the shrink rate used to estimate our inventory shrink reserve would have increased cost of sales by approximately $95 million for fiscal 2024. Historically, the difference between estimated shrink and actual inventory losses has not been material to our annual financial results.
+We do not believe there is a reasonable likelihood of a material change in the estimates or assumptions we use to value our inventory under the retail inventory method. We believe that the retail inventory method provides an inventory valuation which approximates cost and results in valuing our inventory at the lower of cost or market.
+ADDITIONAL INFORMATION
+For information on our accounting policies and on accounting pronouncements that have impacted or may materially impact our financial condition, results of operations, or cash flows, see
+Note 1
+to our consolidated financial statements.
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk.
+INTEREST RATE RISK
+We have exposure to interest rate risk in connection with our long-term debt portfolio. We use interest rate swap agreements to manage our fixed/floating-rate debt portfolio, none of which are for trading or speculative purposes. At February 2, 2025, after giving consideration to our interest rate swap agreements, floating-rate debt principal was $6.0 billion, or approximately 12% of our senior notes portfolio. Our interest rate swap agreements were in an aggregate liability position of $795 million at February 2, 2025. The changes in the fair values of our interest rate swap agreements offset the changes in the fair value of the hedged long-term debt. Based on our February 2, 2025 floating-rate debt principal, a one percentage point increase in the interest rate of floating-rate debt would increase our annual interest expense by approximately $60 million.
+FOREIGN CURRENCY EXCHANGE RATE RISK
+We are exposed to risks from foreign currency exchange rate fluctuations on the translation of our foreign operations into U.S. dollars and on the purchase of goods by these foreign operations that are not denominated in their local currencies. We use derivative instruments to hedge a portion of our foreign currency exchange rate risk, none of which are for trading or speculative purposes. Our foreign currency related hedging arrangements outstanding at the end of fiscal 2024 were not material.
+Table
+of
+Contents
+COMMODITY PRICE RISK
+We experience

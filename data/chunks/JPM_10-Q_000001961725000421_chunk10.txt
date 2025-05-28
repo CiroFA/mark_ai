@@ -1,0 +1,32 @@
+Federal funds purchased and securities loaned or sold under repurchase agreements
+increased driven by Markets, reflecting higher client-driven market-making activities, higher secured financing of trading assets and the impact of lower levels of netting, as well as when compared with seasonally lower levels at year-end.
+Short-term borrowings
+increased driven by higher financing requirements in Markets.
+Refer to Liquidity Risk Management on pages 40-46 for additional information on deposits, federal funds purchased and securities loaned or sold under repurchase agreements, and short-term borrowings; and Notes 2 and 15 for deposits; and Note 10 for federal funds purchased and securities loaned or sold under repurchase agreements.
+Trading liabilities
+: refer to Notes 2 and 4 for additional information.
+Accounts payable and other liabilities
+increased due to higher client payables related to client-driven activities in CIB.
+Beneficial interests issued by consolidated VIEs
+decreased largely driven by lower levels of outstanding commercial paper as a result of a decrease in loan balances in the Firm-administered multi-seller conduits in CIB. Refer to Liquidity Risk Management on pages 40-46 and Notes 13 and 22 for additional information, specifically Firm-sponsored VIEs and loan securitization trusts.
+Long-term debt
+:
+refer to Liquidity Risk Management on pages 40-46 for additional information.
+Stockholders’ equity
+increased reflecting net income and lower unrealized losses in AOCI, predominantly driven by the impact of lower interest rates on cash flow hedges and on the AFS portfolio in Treasury and CIO, largely offset by the impact of capital actions, including net repurchases of common shares and common and preferred stock dividend payments. Refer to Consolidated statements of changes in stockholders’ equity on page 81, Capital Actions on page 37, and Note 19 for additional information.
+13
+Consolidated cash flows analysis
+The following is a discussion of cash flow activities during the three months ended March 31, 2025 and 2024.
+Operating activities
+•
+In 2025, cash used resulted from higher trading assets, higher securities borrowed, higher accrued interest and accounts receivable and lower trading liabilities.
+•
+In 2024, cash used resulted from higher trading assets and higher accrued interest and accounts receivable, partially offset by higher trading liabilities, accounts payable and other liabilities, and lower other assets.
+Investing activities
+•
+In 2025, cash used resulted from higher securities purchased under resale agreements, partially offset by net proceeds from investment securities.
+•
+In 2024, cash used resulted from higher securities purchased under resale agreements, partially offset by proceeds from sales and securitizations of loans held-for-investment.
+Financing activities
+•
+In 2025, cash provided reflected higher securities loaned or sold under repurchase agreements, higher deposits, and net proceeds from long-and short-term

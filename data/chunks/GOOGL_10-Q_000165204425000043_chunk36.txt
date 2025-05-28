@@ -1,0 +1,26 @@
+to the three months ended March 31, 2025, primarily driven by increases in employee compensation expenses of $697 million and depreciation expense of $491 million.
+Sales and Marketing
+The following table presents sales and marketing expenses (in millions, except percentages):
+Sales and marketing expenses decreased $254 million from the three months ended March 31, 2024 to the three months ended March 31, 2025 primarily driven by a decrease in employee compensation expenses of $307 million.
+General and Administrative
+The following table presents general and administrative expenses (in millions, except percentages):
+General and administrative expenses increased $513 million from the three months ended March 31, 2024 to the three months ended March 31, 2025, primarily driven by an increase in charges related to legal and other matters of $292 million and a combination of other factors, none of which were individually significant.
+Segment Profitability
+We report our segment results as Google Services, Google Cloud, and Other Bets. Additionally, certain costs are not allocated to our segments because they represent Alphabet-level activities. For further details on our segments, Note 15 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+40
+The following table presents segment operating income (loss) (in millions):
+(1)
+In addition to
+the costs included in Alphabet-level activities, hedging gains (losses) related to revenue were $72 million and
+$260 million
+for the three months ended March 31, 2024 and 2025, respectively
+. Alphabet-level activities include all of the charges related to employee severance and office space charges.
+Google Services
+Google Services operating income increased $4.8 billion from the three months ended March 31, 2024 to the three months ended March 31, 2025. The increase in operating income was primarily driven by an increase in revenues, partially offset by increases in content acquisition costs and TAC.
+Google Cloud
+Google Cloud operating income increased $1.3 billion from the three months ended March 31, 2024 to the three months ended March 31, 2025. The increase in operating income was primarily driven by an increase in revenues, partially offset by increases in usage costs for technical infrastructure and employee compensation expenses.
+Other Bets
+Other Bets operating loss increased $206 million from the three months ended March 31, 2024 to the three months ended March 31, 2025. The increase in operating loss was due to a combination of factors, none of which were individually significant.
+Other Income (Expense), Net
+The following table presents OI&E (in millions):
+OI&E, net increased $8.3 billion from the three months ended March 31, 2024 to the three months ended March 31, 2025 primarily due to an increase in net gains on equity securities. The net gains on equity securities were due to net unrealized gains on non-marketable equity securities driven by fair value

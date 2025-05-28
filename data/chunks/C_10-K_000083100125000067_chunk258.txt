@@ -1,0 +1,45 @@
+netting. Substantially all netting of cash collateral received and paid is against OTC derivative assets and liabilities, respectively.
+(5)
+The net receivables/payables include approximately $
+13
+billion
+of derivative asset and $
+15
+billion
+of derivative liability fair values not subject to enforceable master netting agreements, respectively.
+258
+(1)
+The derivative fair values are also presented in Note 26.
+(2)
+OTC derivatives are derivatives executed and settled bilaterally with counterparties without the use of an organized exchange or central clearing house. Cleared derivatives include derivatives executed bilaterally with a counterparty in the OTC market, but then novated to a central clearing house, whereby the central clearing house becomes the counterparty to both of the original counterparties. Exchange-traded derivatives include derivatives executed directly on an organized exchange that provides pre-trade price transparency.
+(3)
+Represents the netting of balances with the same counterparty under enforceable netting agreements. Approximately $
+242
+billion, $
+44
+billion and $
+22
+billion of the netting against trading account asset/liability balances is attributable to each of the OTC, cleared and exchange-traded derivatives, respectively.
+(4)
+Represents the netting of cash collateral paid and received by counterparties under enforceable credit support agreements with appropriate legal opinion supporting enforceability of netting. Substantially all netting of cash collateral received and paid is against OTC derivative assets and liabilities, respectively.
+(5)
+The net receivables/payables include approximately $
+4
+billion of derivative asset and $
+10
+billion of derivative liability fair values not subject to enforceable master netting agreements, respectively.
+259
+For the years ended December 31, 2024, 2023 and 2022, amounts recognized in
+Principal transactions
+in the Consolidated Statement of Income include certain derivatives not designated in a qualifying hedging relationship. Citigroup presents this disclosure by business classification, showing derivative gains and losses related to its trading activities together with gains and losses related to non-derivative instruments within the same trading portfolios, as this represents how these portfolios are risk managed. See Note 6 for further information.
+The amounts recognized in
+Other revenue
+in the Consolidated Statement of Income related to derivatives not designated in a qualifying hedging relationship are presented below.
+The table below does not include any offsetting gains (losses) on the economically hedged items:
+The following table summarizes the gains (losses) on the Company’s fair value hedges:
+(1)
+Gain (loss) amounts for interest rate risk hedges are included in
+Interest income/Interest expense.
+The accrued interest income on fair value hedges is recorded in
+Net interest income
+and is excluded from this table. Amounts included both hedges of AFS securities and long-term debt

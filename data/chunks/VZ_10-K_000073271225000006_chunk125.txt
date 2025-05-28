@@ -1,0 +1,32 @@
+impairment charge in the future.
+A projected sustained decline in the reporting unit's revenues and earnings could have a significant negative impact on its fair value and could result in impairment charges. Such a decline could be driven by, among other things: (1) decreases in sales volumes or long-term growth rate as a result of competitive pressures or other factors; or (2) the inability to achieve or delays in achieving the goals in strategic initiatives. Adverse changes to macroeconomic factors, such as increases in long-term interest rates, would also negatively impact the fair value of the reporting unit.
+Other Intangible Assets
+The following table displays the composition of Other intangible assets, net as well as the respective amortization period:
+The amortization expense for Other intangible assets was as follows:
+Estimated annual amortization expense for Other intangible assets is as follows:
+The following table displays the details of Property, plant and equipment, which is stated at cost:
+72
+Table of
+Contents
+We enter into various lease arrangements for network equipment including towers, distributed antenna systems, small cells, real estate and connectivity mediums including dark fiber, equipment, and other various types of assets for use in our operations. Our leases have remaining lease terms ranging from
+1
+year to
+30
+years, some of which include options that we can elect to extend the leases term for up to
+25
+years, and some of which include options to terminate the leases. For the majority of leases entered into during the current period, we have concluded it is not reasonably certain that we would exercise the options to extend the lease or not terminate the lease. Therefore, as of the lease commencement date, our lease terms generally do not include these options. We include options to extend the lease when it is reasonably certain that we will exercise that option.
+During December 2024, we completed a transaction with Vertical Bridge REIT, LLC (Vertical Bridge) pursuant to which Vertical Bridge obtained the exclusive rights to lease, operate and manage over
+6,000
+wireless towers from Verizon in exchange for an upfront payment of $
+2.8
+billion. Under the terms of the agreement, Vertical Bridge has exclusive rights to lease, operate and manage the towers over an average term of approximately
+30
+years, with the option to acquire the towers at the end of the lease terms. We have leased back a portion of the capacity on the towers from Vertical Bridge for an initial term of
+10
+years, with
+eight
+optional renewal terms of
+five years
+each, subject to certain early termination rights. We continue to include the towers in Property, plant and equipment, net in our consolidated balance sheets and depreciate them accordingly. The upfront payment, which is primarily included within Other liabilities on our consolidated balance sheet, is accounted for as prepaid rent and as a financing obligation. We recorded prepaid rent of $
+2.0
+billion

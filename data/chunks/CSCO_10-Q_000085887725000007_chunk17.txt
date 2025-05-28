@@ -1,0 +1,42 @@
+products. During the normal course of business, in order to manage manufacturing lead times and help ensure adequate component supply, we enter into agreements with contract manufacturers and suppliers that allow them to procure inventory based upon criteria as defined by us or establish the parameters defining our requirements. A significant portion of our reported purchase commitments arising from these agreements consists of firm, noncancelable, and unconditional commitments. Certain of these inventory purchase commitments are directly with suppliers, and relate to fixed-dollar commitments to secure supply and pricing for certain product components for multi-year periods. In certain instances, these agreements allow us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to firm orders being placed.
+The following table summarizes our inventory purchase commitments with contract manufacturers and suppliers by period (in millions):
+We record a liability for firm, noncancelable, and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory.
+As of January 25, 2025 and July 27, 2024, the liability for these purchase commitments was $
+383
+million and $
+498
+million, respectively, and was included in other current liabilities.
+30
+Table of Contents
+CISCO SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Unaudited)
+(b)
+Other Commitments
+We have certain funding commitments, primarily related to our privately held investments. The funding commitments were $
+0.2
+billion as of each of January 25, 2025 and July 27, 2024.
+(c)
+Product Warranties
+The following table summarizes the activity related to the product warranty liability (in millions):
+We accrue for warranty costs as part of our cost of sales based on associated material product costs, labor costs for technical support staff, and associated overhead. Our products are generally covered by a warranty for periods ranging from
+90
+days to
+five years
+, and for some products we provide a limited lifetime warranty.
+(d)
+Financing and Other Guarantees
+In the ordinary course of business, we provide financing guarantees for various third-party financing arrangements extended to channel partners customers. Payments under these financing guarantee arrangements were not material for the periods presented.
+Channel Partner Financing Guarantees
+We facilitate arrangements for third-party financing extended to channel partners, consisting of revolving short-term financing, with payment terms generally ranging from
+60
+to
+90
+days. These financing arrangements facilitate the working capital requirements of the channel partners, and, in some cases, we guarantee a portion of these arrangements. The volume of channel partner financing was $
+6.2
+billion and $
+6.6
+billion for the second quarter of fiscal 2025 and 2024, respectively, and $
+12.2
+billion and $
+14.8

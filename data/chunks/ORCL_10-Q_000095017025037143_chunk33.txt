@@ -1,0 +1,19 @@
+10-K for the fiscal year ended May 31, 2024.
+34
+Table of Contents
+Restructuring expenses in each of the fiscal 2025 and 2024 periods presented primarily related to the 2024 Restructuring Plan. Our management approved, committed to and initiated the 2024 Restructuring Plan in order to restructure and further improve efficiencies in our operations. We may incur additional restructuring expenses in future periods due to the initiation of new restructuring plans or from changes in estimated costs associated with existing restructuring plans.
+The majority of the initiatives undertaken by the 2024 Restructuring Plan were effected to implement our continued emphasis in developing, marketing, selling and delivering our cloud-based offerings. Certain of the cost savings realized pursuant to the 2024 Restructuring Plan initiatives were offset by investments in resources and geographies that we believe better address the development, marketing, sale and delivery of our cloud-based offerings, including investments in the development and delivery of our second-generation cloud infrastructure.
+Interest Expense
+:
+Fiscal Third Quarter 2025 Compared to Fiscal Third Quarter 2024
+:
+Interest expense increased in the third quarter of fiscal 2025, relative to the corresponding prior year period, primarily due to the issuance of $14.0 billion of senior notes in the first nine months of fiscal 2025, partially offset by lower interest expense due to scheduled repayments of borrowings made during the first nine months of fiscal 2025 and full year of fiscal 2024.
+First Nine Months Fiscal 2025 Compared to First Nine Months Fiscal 2024
+:
+Interest expense decreased in the first nine months of fiscal 2025, relative to the corresponding prior year period, primarily due to scheduled repayments of borrowings made during the first nine months of fiscal 2025 and full year of fiscal 2024, respectively, partially offset by higher interest expense that resulted from the issuance of senior notes mentioned above. Refer to Note 3 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information on the senior notes issued in the first nine months of fiscal 2025.
+Non-Operating (Expenses) Income, net
+:
+Non-operating (expenses) income, net consists primarily of interest income, net foreign currency exchange losses, the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Corporation Japan), net losses related to marketable and non-marketable investments, including losses attributable to equity method investments (primarily Ampere) and net other income and expenses, including net unrealized gains and losses from our investment portfolio related to our deferred compensation plan and non-service net periodic pension income and losses.
+Fiscal Third Quarter 2025 Compared to Fiscal Third Quarter 2024
+:
+Our non-operating expenses, net increased by

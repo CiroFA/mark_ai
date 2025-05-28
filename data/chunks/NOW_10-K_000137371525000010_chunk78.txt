@@ -1,0 +1,44 @@
+opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the revenue recognition process for subscription revenue. These procedures also included, among others (i) testing subscription revenue transactions, on a sample basis, by obtaining and inspecting source documents, such as contracts, invoices and cash receipts, and recalculating revenue recognized and (ii) testing outstanding customer invoice balances as of December 31, 2024, on a sample basis, by obtaining and inspecting source documents, such as contracts and subsequent cash receipts.
+/s/
+PricewaterhouseCoopers LLP
+San Jose, California
+January 29, 2025
+We have served as the Company’s auditor since 2011.
+56
+Table of Contents
+SERVICENOW, INC.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except number of shares which are reflected in thousands and per share data)
+See accompanying notes to consolidated financial statements
+57
+Table of Contents
+SERVICENOW, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions, except number of shares which are reflected in thousands and per share data)
+(1)
+Includes stock-based compensation as follows:
+See accompanying notes to consolidated financial statements
+58
+Table of Contents
+SERVICENOW, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(in millions, except number of shares which are reflected in thousands)
+See accompanying notes to consolidated financial statements
+59
+Table of Contents
+SERVICENOW, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+See accompanying notes to consolidated financial statements
+60
+Table of Contents
+SERVICENOW, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Unless the context requires otherwise, references in this report to “ServiceNow,” the “Company,” “we,” “us” and “our” refer to ServiceNow, Inc. and its consolidated subsidiaries.
+(1)
+Description of the Business
+ServiceNow was founded on a simple premise: to make work flow better. Our intelligent platform, the Now Platform, is a cloud-based solution that helps enterprises and organizations across public and private sectors digitize workflows, in line with our purpose of making the world work better for everyone. Our workflow applications built on the Now Platform are organized along four primary areas: Technology, Customer and Industry, Employee and Creator. The products under each of our workflows help customers connect, automate and empower work across systems and silos to enable great outcomes for businesses and great experiences for people. The Now Platform is the AI platform for digital transformation. As the foundation for how we deliver our cross-enterprise digital workflows, the Now Platform orchestrates work across our customers’ cloud platforms and systems of choice, allowing them to get work done regardless of their current and future preferred systems of record and collaboration platforms.
+(2)
+Summary of Significant Accounting Policies
+Principles of Consolidation
+The

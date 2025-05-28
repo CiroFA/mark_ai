@@ -1,0 +1,27 @@
+it is probable that a significant reversal of any incremental revenue will not occur. Discounts and incentive rebates are estimated based on distributors' and retailers' performance against the terms and conditions of the rebate programs.
+Tables of Contents
+Deferred Revenue
+We record deferred revenue when we have entered into a contract with a customer and cash payments are received or due prior to transfer of control or satisfaction of the related performance obligation. During the twelve months ended July 31, 2024, we recognized revenue of $
+920
+million, that was included in deferred revenue at July 31, 2023. During the twelve months ended July 31, 2023, we recognized revenue of $
+808
+million, that was included in deferred revenue at July 31, 2022.
+Our performance obligations are generally satisfied within
+12 months
+of the initial contract date. As of July 31, 2024 and 2023
+,
+the deferred revenue balance related to performance obligations that will be satisfied after 12 months was $
+4
+million and $
+5
+million, respectively, and is included in other long-term obligations on our consolidated balance sheets.
+Assets Recognized from the Costs to Obtain a Contract with a Customer
+Our sales commissions are considered incremental costs of obtaining the contract with a customer. Sales commissions for subscription offerings where we expect the benefit of those costs to continue longer than one year, are capitalized and amortized ratably over the period of benefit, which ranges from
+three
+to
+four years
+. Total capitalized costs to obtain a contract are not material and are included in prepaid expenses and other current assets and other assets on our consolidated balance sheets.
+We apply a practical expedient to expense costs incurred to obtain a contract with a customer when the period of benefit is less than one year. These costs primarily include internal and external sales commissions for our consumer and professional tax offerings.
+We record the amounts we charge our customers for the shipping and handling of our software products as product and other revenue, and we record the related costs as cost of product and other revenue in our consolidated statements of operations.
+We include the costs of customer service and technical support associated with our online or hosted offerings in cost of service revenue line in our consolidated statements of operations. We also include the costs of providing technical support for our desktop offerings in cost of service revenue. We include the costs of customer service related to desktop offerings in selling and marketing expense in our consolidated statements of operations. Customer service and technical support costs include costs associated with performing order processing, answering customer inquiries by telephone and through websites, email, and other electronic means, and providing technical support assistance to customers. We expense the cost of providing this support as incurred.
+We expense software

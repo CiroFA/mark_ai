@@ -1,0 +1,37 @@
+Securities borrowed.
+4.
+Certain prior-period amounts have been adjusted to conform with the current-period presentation. This adjustment resulted in a decrease to both interest income and interest expense of $
+4,432
+million for the year ended December 31, 2023, and no effect on net interest income, with the entire impact to the Firm recorded within the Institutional Securities segment. See  Note 2 for additional information.
+5.
+Includes interest received on Securities sold under agreements to repurchase.
+6.
+Includes fees received on Securities loaned.
+7.
+Includes fees received from Equity Financing customers related to their short transactions, which can be under either margin or securities lending arrangements.
+Interest income and Interest expense are classified in the income statement based on the nature of the instrument and related market conventions. When included as a component of the instrument’s fair value, interest is included within Trading revenues or Investments revenues. Otherwise, it is included within Interest income or Interest expense.
+Accrued Interest
+19.
+Deferred Compensation Plans and Carried Interest Compensation
+Stock-Based Compensation Plans
+Certain current and former employees of the Firm participate in the Firm’s stock-based compensation plans.
+These plans include RSUs, PSUs and an ESPP.
+Stock-Based Compensation Expense
+1.
+Total expense includes stock-based compensation anticipated to be awarded in January of the following year that does not contain a future service requirement.
+Tax Benefit Related to Stock-Based Compensation Expense
+1.
+Excludes income tax consequences related to employee share-based award conversions.
+Unrecognized Compensation Cost Related to Stock-Based Awards Granted
+1.
+Amounts do not include forfeitures or 2024 performance year compensation awarded in January 2025 which will begin to be amortized in 2025.
+In connection with awards under its stock-based compensation plans, the Firm is authorized to issue shares of common stock held in treasury or newly issued shares.
+The Firm generally uses treasury shares, if available, to deliver shares to employees or employee stock trusts and has an ongoing repurchase authorization that includes repurchases in connection with awards under its stock-based compensation plans.
+Common Shares Available for Future Awards under Stock-Based Compensation Plans
+See Note 17 for additional information on the Firm’s Share Repurchase Program.
+Restricted Stock Units
+RSUs are subject to vesting over time, generally
+one
+to
+seven years
+from the date of award, contingent upon continued employment and subject to restrictions on sale, transfer or assignment until conversion to common stock. All or a portion of an award may be forfeited if employment is terminated before the end of the relevant vesting period or canceled after the relevant vesting period in certain situations. Recipients of RSUs may have voting rights, at the Firm’s discretion, and generally receive dividend equivalents

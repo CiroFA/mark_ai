@@ -1,0 +1,25 @@
+once the previously mentioned requirements are met.
+The timely preparation of financial statements requires management to make estimates and assumptions. Those estimates affect reported amounts in these financial statements. Changes in those estimates and assumptions could have a significant effect. The following estimates are the most critical to our financial statements:
+34
+Table of Contents
+​
+These items require the most difficult, subjective, or complex judgments. Our accounting policies are described primarily in Note 2 of our consolidated financial statements.
+Sales Incentives
+We provide sales incentives to dealers. These incentives are offered in two forms:
+The estimated cost of these programs is based on:
+At the time a sale is recognized, we record an estimate of the sales incentive costs. The final cost is determined at the end of the volume bonus measurement period or at the time of the retail sale.
+There are numerous programs available at any time, and new programs may be announced after we record the equipment sale to the dealer. Changes in the mix and types of sales incentive programs affect these estimates, which are reviewed quarterly.
+Actual cost differences from the original cost estimate are recognized in “Net sales.”
+Sales Incentive Accruals
+The accruals recorded against receivables relate to programs where we have the contractual right and the intent to offset against existing receivables. The decrease in 2024 resulted from lower sales.
+A key assumption of the retail sales incentive accrual is the predictive value of the historical percent of retail sales incentive costs to retail sales. Over the last five fiscal years, this percent has varied by an average of 1.0 percent. Holding other assumptions constant, a 1.0 percent change would have modified the sales incentive accrual by about $135.
+​
+Product Warranties
+A standard warranty is provided as an assurance that our equipment will function as intended. The standard warranty period varies by product and region.
+At the time a sale is recognized, we record an estimate of future warranty costs, based on the following calculation:
+The historical claims rate is determined by a review of five-year claims costs. The estimated population is based on dealer inventories and retail sales. These estimates are reviewed quarterly. Adjustments are also made for current quality developments.
+Product Warranty Accruals
+The decrease in 2024 is the result of lower sales volumes.
+Product warranty accrual estimates are affected by the historical percent of warranty claims costs as a percentage of gross sales. Over the last five fiscal years, the percent has varied plus or minus .09 percent. Holding all other assumptions constant, if this estimated cost experience percent would have increased or decreased .09 percent, the warranty accrual at October 27, 2024 would have changed by approximately $50.
+Postretirement Benefit Obligations
+The pension and OPEB plan obligations (defined benefit) and

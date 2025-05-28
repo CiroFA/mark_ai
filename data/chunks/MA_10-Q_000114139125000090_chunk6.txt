@@ -1,0 +1,27 @@
+spreads for similar assets in active markets and are therefore included in Level 2 of the Valuation Hierarchy.
+2
+The Company’s foreign exchange and interest rate derivative asset and liability contracts measured at fair value are based on observable inputs such as broker quotes for similar derivative instruments.  See Note 16 (Derivative and Hedging Instruments) for further details.
+3
+The Company’s Marketable securities are publicly held and fair values are based on unadjusted quoted prices in their respective active markets.
+4
+The Company has a nonqualified deferred compensation plan under which assets are invested primarily in mutual funds held in a rabbi trust or are held as cash equivalents, all of which are restricted for payments to participants of the plan.  The Company has elected to use the fair value option for these assets, which are measured using quoted prices of identical instruments in active markets.  These are included in prepaid expenses and other current assets and restricted cash and restricted cash equivalents on the consolidated balance sheets.
+5
+The Company has a nonqualified deferred compensation plan under which liabilities are measured at fair value based on the quoted prices of identical instruments to the investment vehicles selected by the participants.  These are included in other liabilities on the consolidated balance sheets.
+Nonrecurring Measurements
+Nonmarketable Securities
+The Company’s Nonmarketable securities are recorded at fair value on a nonrecurring basis in periods after initial recognition under the equity method or measurement alternative method.  Nonmarketable securities are classified within Level 3 of the Valuation Hierarchy due to the absence of quoted market prices, the inherent lack of liquidity and unobservable inputs used to measure fair value that require management’s judgment.  The Company uses discounted cash flows and market assumptions to estimate the fair value of its Nonmarketable securities when certain events or circumstances indicate that impairment may exist.  Observable price changes in orderly transactions for identical or similar investments of the same issuer could also result in fair value adjustments.  See Note 5 (Investments) for further details.
+MASTERCARD MARCH 31, 2025 FORM 10-Q
+15
+PART I
+ITEM 1. CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Financial Instruments - Not Carried at Fair Value
+Debt
+Debt instruments are carried on the consolidated balance sheets at amortized cost.  The Company estimates the fair value of its debt based on either market quotes or observable market data.  Debt is classified as Level 2 of the Valuation Hierarchy as it is generally not traded in active markets.  At March 31, 2025, the carrying value and fair value of debt was $
+18.8
+billion and $
+17.6
+billion, respectively.  At December 31, 2024, the carrying value and fair value of debt was $
+18.2
+billion and $
+16.8
+billion, respectively.  See Note 9

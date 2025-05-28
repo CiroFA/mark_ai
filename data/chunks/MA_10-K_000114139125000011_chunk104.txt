@@ -1,0 +1,33 @@
+Additionally, a change in the Company’s geographic mix of earnings in 2024 contributed to the lower effective income tax rate compared to the prior year.
+The effective income tax rate for 2023 was higher than the effective income tax rate for 2022, primarily due to changes in the valuation allowance associated with the deferred tax asset related to U.S. foreign tax credits.  In 2022, the Company recognized a discrete tax benefit of $
+333
+million to release the valuation allowance resulting from U.S. tax regulations published in the first quarter of 2022 (the “2022 Regulations”).  In 2023, the treatment of foreign taxes paid under the 2022 Regulations changed due to foreign tax legislation enacted in Brazil and the Notice released by Treasury.  Therefore, the Company recognized a total $
+327
+million discrete tax expense in 2023 to establish the valuation allowance.  The discrete tax expense recognized in 2023 was partially offset by the Company’s ability to claim more U.S. foreign tax credits generated in 2022 and 2023 due to the Notice.
+97
+MASTERCARD 2024 FORM 10-K
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Singapore Income Tax Rate
+In connection with the expansion of the Company’s operations in the Asia Pacific, Middle East and Africa region, the Company’s subsidiary in Singapore, Mastercard Asia Pacific Pte. Ltd. (“MAPPL”) received an incentive grant from the Singapore Ministry of Finance in 2010.  The incentive had provided MAPPL with, among other benefits, a reduced income tax rate for the
+10
+-year period commencing January 1, 2010 on taxable income in excess of a base amount.  The Company continued to explore business opportunities in this region, resulting in an expansion of the incentives being granted by the Ministry of Finance, including a further reduction to the income tax rate on taxable income in excess of a revised fixed base amount commencing July 1, 2011 and continuing through December 31, 2025.  Without the incentive grant, MAPPL would have been subject to the statutory income tax rate on its earnings.  For 2024, 2023 and 2022, the impact of the incentive grant received from the Ministry of Finance resulted in a reduction of MAPPL’s income tax liability of $
+644
+million, or $
+0.69
+per diluted share, $
+571
+million, or $
+0.60
+per diluted share, and $
+454
+million, or $
+0.47
+per diluted share, respectively.
+Indefinite Reinvestment
+As of December 31, 2024 the Company does not accrue taxes on $
+3.8
+billion of foreign earnings that remain permanently reinvested outside the U.S.  The Company expects that taxes associated with any future repatriation of these earnings are immaterial.
+Deferred Income Taxes
+Deferred tax assets and liabilities represent the expected future tax consequences of temporary differences between the carrying amounts and the tax basis of assets and liabilities.
+The components of deferred tax assets and liabilities at December 31 were as follows:

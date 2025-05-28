@@ -1,0 +1,35 @@
+lending-related commitments, an allowance for credit losses on lending-related commitments is maintained. Refer to Note 12 for further information regarding the allowance for credit losses on lending-related commitments.
+The following table summarizes the contractual amounts and carrying values of off-balance sheet lending-related financial instruments, guarantees and other commitments at March 31, 2025 and December 31, 2024. The amounts in the table below for credit card, home equity and certain scored business banking lending-related commitments represent the total available credit for these products. The Firm has not experienced, and does not anticipate, that all available lines of credit for these commitments will be utilized at the same time. The Firm can reduce or cancel these commitments, in accordance with the contract, or to the extent otherwise permitted by law, including when there has been a demonstrable decline in the creditworthiness of the borrower or significant decrease in the value of underlying property.
+160
+(a)
+Includes certain commitments to purchase loans from correspondents.
+(b)
+Also includes commercial card lending-related commitments primarily in CIB.
+(c)
+Predominantly all consumer and wholesale lending-related commitments are in the U.S.
+(d)
+As of March 31, 2025 and December 31, 2024, reflected the contractual amount net of risk participations totaling $
+147
+million and $
+85
+million, respectively, for other unfunded commitments to extend credit; $
+9.5
+billion at both periods for standby letters of credit and other financial guarantees; $
+526
+million and $
+556
+million, respectively, for other letters of credit. In regulatory filings with the Federal Reserve these commitments are shown gross of risk participations.
+(e)
+As of March 31, 2025 and December 31, 2024, collateral held by the Firm in support of securities lending indemnification agreements was $
+376.7
+billion and $
+328.7
+billion, respectively. Securities lending collateral primarily consists of cash, G7 government securities, and securities issued by U.S. GSEs and government agencies.
+(f)
+As of March 31, 2025 and December 31, 2024, includes guarantees to the Fixed Income Clearing Corporation under the sponsored member repo program and commitments and guarantees associated with the Firm’s membership in certain clearing houses.
+(g)
+As of March 31, 2025 and December 31, 2024, primarily includes unfunded commitments to purchase secondary market loans, other equity investment commitments, and unfunded commitments related to certain tax-oriented equity investments.
+(h)
+For lending-related products, the carrying value includes the allowance for lending-related commitments and the guarantee liability; for derivative-related products, and lending-related commitments for which the fair value option was elected, the carrying value represents the fair value.
+(i)
+For lending-related commitments, the carrying value also includes fees and any purchase discounts or premiums that

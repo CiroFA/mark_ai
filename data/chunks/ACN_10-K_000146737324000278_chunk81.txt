@@ -1,0 +1,26 @@
+based on the lessor’s cost, are recognized in the Consolidated Income Statement in the period incurred.
+As of August 31, 2024 and 2023, we had no material finance leases. Operating lease expense is recorded on a straight-line basis over the lease term. Lease costs are as follows:
+Supplemental information related to operating lease transactions is as follows:
+As of August 31, 2024 and 2023, our operating leases had a weighted average remaining lease term of
+6.7
+and
+6.9
+years, respectively, and a weighted average discount rate of
+4.2
+% and
+3.8
+%, respectively.
+The following maturity analysis presents future undiscounted cash outflows (inflows) for operating leases as of August 31, 2024:
+As of August 31, 2024, we have entered into leases that have not yet commenced with future lease payments of $
+60,580
+that are not reflected in the table above. These leases are primarily related to office real estate and will commence in fiscal 2025 with lease terms of up to
+11
+years.
+9.
+Financial Instruments
+Derivatives
+In the normal course of business, we use derivative financial instruments to manage foreign currency exchange rate risk. Derivative transactions are governed by a uniform set of policies and procedures covering areas such as authorization, counterparty exposure and hedging practices. Positions are monitored using techniques such as market value and sensitivity analyses. We do not enter into derivative transactions for trading purposes. We classify cash flows from our derivative programs as cash flows from operating activities in the Consolidated Cash Flows Statements.
+Certain derivatives give rise to credit risks from the possible non-performance by counterparties. Credit risk is generally limited to the fair value of those contracts that are favorable to us, and the maximum amount of loss due to credit risk, based on the gross fair value of our derivative financial instruments that are in an asset position, was $
+119,248
+as of August 31, 2024.
+We utilize standard counterparty master agreements containing provisions for the netting of certain foreign currency transaction obligations and for set-off of certain obligations in the event of an insolvency of one of the parties to the transaction. These provisions may reduce our potential overall loss resulting from the insolvency of a counterparty and reduce a counterparty’s potential overall loss resulting from our insolvency. Additionally, these agreements contain early termination provisions triggered by adverse changes in a counterparty’s credit rating, thereby enabling us to accelerate settlement of a transaction prior to its contractual maturity and potentially decrease our realized loss on an open transaction. Similarly, a decrement in our credit rating could trigger a counterparty’s early termination rights, thereby enabling a counterparty to accelerate settlement of a transaction prior to its contractual maturity and potentially increase our realized loss on an open transaction. The aggregate

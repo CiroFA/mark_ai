@@ -1,0 +1,126 @@
+gaap:OperatingSegmentsMember
+bac:InvestmentBankingIncomeSyndicationFeesMember
+bac:GlobalMarketsSegmentMember
+2025-01-01
+2025-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingIncomeSyndicationFeesMember
+bac:GlobalMarketsSegmentMember
+2024-01-01
+2024-03-31
+0000070858
+bac:CorporateReconcilingItemsAndEliminationsMember
+bac:InvestmentBankingIncomeSyndicationFeesMember
+2025-01-01
+2025-03-31
+0000070858
+bac:CorporateReconcilingItemsAndEliminationsMember
+bac:InvestmentBankingIncomeSyndicationFeesMember
+2024-01-01
+2024-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingIncomeFinancialAdvisoryServicesMember
+bac:GlobalBankingSegmentMember
+2025-01-01
+2025-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingIncomeFinancialAdvisoryServicesMember
+bac:GlobalBankingSegmentMember
+2024-01-01
+2024-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingIncomeFinancialAdvisoryServicesMember
+bac:GlobalMarketsSegmentMember
+2025-01-01
+2025-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingIncomeFinancialAdvisoryServicesMember
+bac:GlobalMarketsSegmentMember
+2024-01-01
+2024-03-31
+0000070858
+bac:CorporateReconcilingItemsAndEliminationsMember
+bac:InvestmentBankingIncomeFinancialAdvisoryServicesMember
+2025-01-01
+2025-03-31
+0000070858
+bac:CorporateReconcilingItemsAndEliminationsMember
+bac:InvestmentBankingIncomeFinancialAdvisoryServicesMember
+2024-01-01
+2024-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingFeesMember
+bac:GlobalBankingSegmentMember
+2025-01-01
+2025-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingFeesMember
+bac:GlobalBankingSegmentMember
+2024-01-01
+2024-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingFeesMember
+bac:GlobalMarketsSegmentMember
+2025-01-01
+2025-03-31
+0000070858
+us-gaap:OperatingSegmentsMember
+bac:InvestmentBankingFeesMember
+bac:GlobalMarketsSegmentMember
+2024-01-01
+2024-03-31
+0000070858
+bac:CorporateReconcilingItemsAndEliminationsMember
+bac:InvestmentBankingFeesMember
+2025-01-01
+2025-03-31
+0000070858
+bac:CorporateReconcilingItemsAndEliminationsMember
+bac:InvestmentBankingFeesMember
+2024-01-01
+2024-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the Quarterly Period Ended
+March 31, 2025
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from          to
+Commission file number:
+1-6523
+Exact name of registrant as specified in its charter:
+Bank of America Corporation
+State or other jurisdiction of incorporation or organization:
+Delaware
+IRS Employer Identification No.:
+56-0906609
+Address of principal executive offices:
+Bank of America Corporate Center
+100 N. Tryon Street
+Charlotte
+,
+North Carolina
+28255
+Registrant’s telephone number, including area code:
+(
+704
+)
+386-5681
+Former name, former

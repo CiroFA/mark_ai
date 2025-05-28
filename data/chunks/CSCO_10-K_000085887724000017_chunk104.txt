@@ -1,0 +1,48 @@
+billion. This compares to a fair value of $
+8.7
+billion and a carrying amount of $
+8.4
+billion as of July 29, 2023. The fair value of the senior notes was determined based on observable market prices in a less active market and was categorized as Level 2.
+12.
+Borrowings
+(a)
+Short-Term Debt
+The following table summarizes our short-term debt (in millions, except percentages):
+We have a short-term debt financing program of up to $
+15.0
+billion through the issuance of commercial paper notes. We use the proceeds from the issuance of commercial paper notes for general corporate purposes.
+The effective rates for the short- and long-term debt include the interest on the notes, the accretion of the discount, the issuance costs, and, if applicable, adjustments related to hedging.
+86
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+(b)
+Long-Term Debt
+The following table summarizes our long-term debt (in millions, except percentages):
+In February 2024, we issued senior notes for an aggregate principal amount of $
+13.5
+billion.
+We entered into an interest rate swap in a prior period with an aggregate notional amount of $
+0.5
+billion designated as a fair value hedge of certain of our fixed-rate senior notes. This swap converts the fixed interest rate of the fixed-rate note to a floating interest rate based on Secured Overnight Financing Rate (SOFR). The gain and loss related to the change in the fair value of the interest rate swap substantially offsets the change in the fair value of the hedged portion of the underlying debt that is attributable to the change in market interest rates. For additional information, see Note 13.
+Interest is payable semiannually on each class of the senior fixed-rate notes. Each of the senior fixed-rate notes is redeemable by us at any time, subject to a make-whole premium. The senior notes rank at par with the commercial paper notes that have been issued pursuant to our short-term debt financing program, as discussed above under “(a) Short-Term Debt.” As of July 27, 2024, we were in compliance with all debt covenants.
+87
+Table of Conten
+ts
+CISCO SYSTEMS, INC.
+Notes to Consolidated Financial Statements (Continued)
+As of July 27, 2024, future principal payments for long-term debt, including the current portion, are summarized as follows (in millions):
+(c)
+Credit Facility
+On February 2, 2024, we entered into an amended and restated
+5
+-year $
+5.0
+billion unsecured revolving credit agreement. The interest rate for the credit agreement is determined based on a formula using certain market rates. The credit agreement requires that we comply with certain covenants, including that we maintain an interest coverage ratio (defined in the agreement as the ratio of consolidated EBITDA to consolidated interest expense) of not less than
+3.0
+to 1.0. As of July 27, 2024, we were in compliance with all associated covenants and we had
+no
+t borrowed any funds under our credit agreement.
+13.
+Derivative

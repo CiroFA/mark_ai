@@ -1,0 +1,18 @@
+energy. Derivatives used to hedge commodity price risk that do not qualify for hedge accounting treatment are marked to market each period with the resulting gains and losses recorded in corporate unallocated expenses as either cost of sales or selling, general and administrative expenses, depending on the underlying commodity. These gains and losses are subsequently reflected in division results when the divisions recognize the cost of the underlying commodity in operating profit.
+Interest Rates
+We centrally manage our debt and investment portfolios considering investment opportunities and risks, tax consequences and overall financing strategies. We use various interest rate derivative instruments including, but not limited to, interest rate swaps, cross-currency interest rate swaps, Treasury locks and swap locks to manage our overall interest expense. These instruments effectively change the interest rate of specific debt issuances. Certain of our fixed rate indebtedness have been swapped to floating rates. The notional amount, interest payment and maturity date of our interest rate swap contracts match the principal, interest payment and maturity date of the related debt, and they have terms of no more than
+six years
+. Our Treasury locks and swap locks are entered into to protect against unfavorable interest rate changes relating to forecasted debt transactions.
+As of December 28, 2024, approximately
+13
+% of total debt was subject to variable rates, after the impact of the related interest rate swap contracts, compared to approximately
+9
+% as of December 30, 2023.
+Foreign Exchange
+We are exposed to foreign exchange risks in the international markets in which our products are made, manufactured, distributed or sold. Additionally, we are exposed to foreign exchange risk from foreign currency purchases and foreign currency assets and liabilities created in the normal course of business. We manage this risk through sourcing purchases from local suppliers, negotiating contracts in local currencies with foreign suppliers and through the use of derivatives including, but not limited to, forward contracts and cross-currency interest rate swap contracts. Exchange rate gains or losses related to foreign currency transactions are recognized as transaction gains or losses on our income statement as incurred. The forward contracts and cross-currency interest rate swap contracts have terms of no more than
+two years
+and
+twelve years
+, respectively. The notional amount, interest payment and maturity date of our cross-currency interest rate swap contracts match the principal, interest payment and maturity date of the related foreign currency debt. For foreign currency derivatives that do not qualify for hedge accounting treatment, gains and losses were offset by changes in the underlying hedged items, resulting in no material net impact on earnings.
+Net Investment Hedges
+We are exposed to foreign exchange risk from net investments in our foreign operations. We

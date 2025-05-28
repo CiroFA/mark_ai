@@ -1,0 +1,20 @@
+allowance for future sales returns as of July 27, 2024 and July 29, 2023 was $
+37
+million and $
+39
+million, respectively, and was recorded as a reduction of our accounts receivable and revenue.
+Significant Judgments
+Revenue is allocated among these performance obligations in a manner that reflects the consideration that we expect to be entitled to for the promised goods or services based on standalone selling prices (SSP). SSP is estimated for each distinct performance obligation and judgment may be required in their determination. The best evidence of SSP is the observable price of a product or service when we sell the goods separately in similar circumstances and to similar customers. In instances where SSP is not directly observable, we determine SSP using information that may include market conditions and other observable inputs.
+We assess relevant contractual terms in our customer contracts to determine the transaction price. We apply judgment in identifying contractual terms and determining the transaction price as we may be required to estimate variable consideration when determining the amount of revenue to recognize. Variable consideration includes potential contractual penalties and various rebate, cooperative marketing and other incentive programs that we offer to our distributors, channel partners and customers. When determining the amount of revenue to recognize, we estimate the expected usage of these programs, applying the expected value or most likely estimate and update the estimate at each reporting period as actual utilization becomes available. We also consider the customers’ right of return in determining the transaction price, where applicable.
+We assess certain software licenses, such as for security software, that contain critical updates or upgrades which customers can download throughout the contract term. Without these updates or upgrades, the functionality of the software would diminish over a relatively short time period. These updates or upgrades provide the customer the full functionality of the purchased security software licenses and are required to maintain the security license’s utility as the risks and threats in the environment are rapidly changing. In these circumstances, the revenue from these software arrangements is recognized as a single performance obligation satisfied over the contract term.
+(r) Advertising Costs
+We expense advertising costs as incurred.
+Advertising costs included within sales and marketing expenses were approximately $
+210
+million, $
+205
+million, and $
+219
+million for fiscal 2024, 2023, and 2022, respectively.
+(s) Share-Based Compensation Expense
+We measure and recognize the compensation expense for all share-based awards made to employees and directors, including employee stock options, restricted stock units (RSUs), performance-based restricted stock units (PRSUs), and employee stock purchases related to the Employee Stock Purchase Plan (Employee Stock Purchase Rights) based on

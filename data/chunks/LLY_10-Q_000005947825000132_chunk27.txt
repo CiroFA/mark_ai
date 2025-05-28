@@ -1,0 +1,17 @@
+designated as fair value hedges of the underlying instruments. Interest rate swaps or collars that convert floating-rate debt to a fixed rate are designated as cash flow hedges. Interest expense on the debt is adjusted to include the payments made or received under the swap agreements. Cash proceeds from or payments to counterparties resulting from the termination of interest rate swaps are classified as operating activities in our consolidated condensed statements of cash flows.
+At March 31, 2025, all of our total long-term debt is at a fixed rate. We have converted approximately
+5
+percent of our long-term fixed-rate notes to floating rates through the use of interest rate swaps.
+19
+We also may enter into forward-starting interest rate swaps and treasury locks, which we designate as cash flow hedges, as part of any anticipated future debt issuances in order to reduce the risk of cash flow volatility from future changes in interest rates. The change in fair value of these instruments is recorded as part of other comprehensive income (loss) (see Note 10) and, upon completion of a debt issuance and termination of the instrument, is amortized to interest expense over the life of the underlying debt. Cash proceeds or payments from the termination of these instruments are classified as operating activities in our consolidated condensed statements of cash flows.
+The Effect of Risk-Management Instruments on the Consolidated Condensed Statements of Operations
+The following effects of risk-management instruments were recognized in other–net, (income) expense:
+During the three months ended March 31, 2025 and 2024, the amortization of losses related to the portion of our risk management hedging instruments, fair value hedges, and cash flow hedges that was excluded from the assessment of effectiveness was not material.
+The Effect of Risk-Management Instruments on Other Comprehensive Income (Loss)
+The effective portion of risk-management instruments that was recognized in other comprehensive income (loss) is as follows:
+During the three months ended March 31, 2025 and 2024, the amounts excluded from the assessment of hedge effectiveness recognized in other comprehensive income (loss) were not material. As of March 31, 2025, the amount of pre-tax gains or losses on cash flow hedges expected to be reclassified from accumulated other comprehensive income (loss) to other–net, (income) expense during the next 12 months is not material.
+20
+Fair Value of Risk-Management Instruments
+The following table summarizes certain fair value information at March 31, 2025 and December 31, 2024 for risk management assets and liabilities measured at fair value on a recurring basis:
+21
+Risk-management instruments above are disclosed on a gross basis. There are various rights of setoff associated with certain of the risk-management instruments above that are subject to enforceable master netting arrangements or similar agreements. Although various rights of setoff and master

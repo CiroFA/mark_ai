@@ -1,0 +1,27 @@
+hedge prospectively, and on an ongoing basis both retrospectively and prospectively. We report changes in fair value of these cash flow hedges as a component of accumulated other comprehensive income (loss) and subsequently reclassify into earnings in the same period the forecasted transaction affects earnings. Amounts reclassified to subscription revenues were a gain of $
+14
+million for the year ended December 31, 2024. There was no ineffectiveness in the Company’s cash flow hedging program for the year ended December 31, 2024.
+Table of Contents
+Derivatives not Designated as Hedging Instruments
+Our derivatives not designated as hedging instruments consist of foreign currency forward contracts that we primarily use to hedge monetary assets and liabilities denominated in non-functional currencies. These foreign currency forward contracts are recorded at fair value and have maturities of 12 months or less. The changes in the fair value of these contracts are recorded in other expense, net on the consolidated statements of comprehensive income. As of December 31, 2024 and 2023, we had foreign currency forward contracts with total notional values of $
+2.2
+billion and $
+1.7
+billion, respectively, which were not designated as hedging instruments. The gross fair value of these foreign currency forward contracts was immaterial as of December 31, 2024 and 2023. The gains (losses) recognized for foreign currency forward contracts from derivatives not designated as hedging instruments were immaterial for the years ended December 31, 2024, 2023 and 2022. Realized gains (losses) from settlement of the derivative assets and liabilities are classified as investing activities in the consolidated statements of cash flows.
+All foreign currency forward contracts, both designated and not designated as hedging instruments, are classified within Level 2 as the valuation inputs are based on quoted prices and market observable data of similar instruments in active markets, such as currency spot and forward rates.
+(9)
+Deferred Revenue and Performance Obligations
+Revenues recognized from beginning period deferred revenue during the years ended December 31, 2024 and 2023 were $
+5.7
+billion and $
+4.6
+billion, respectively.
+Remaining Performance Obligations
+Transaction price allocated to remaining performance obligations (“RPO”) represents contracted revenue that has not yet been recognized, which includes deferred revenue and non-cancellable amounts that will be invoiced and recognized as revenues in future periods. RPO excludes contracts that are billed in arrears, such as certain time and materials contracts, as we apply the “right to invoice” practical expedient under relevant accounting guidance.
+As of December 31, 2024, the total non-cancellable RPO under our contracts with customers was $
+22.3
+billion, and we expect to recognize revenues on approximately
+46
+% of these RPO over the following
+12
+months. The majority of the non-current RPO will be recognized over the

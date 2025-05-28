@@ -1,0 +1,31 @@
+meet state insurance regulatory requirements. We did
+no
+t hold any securities of any one issuer, excluding U.S. government obligations, with an aggregate cost or fair value exceeding
+10%
+of total shareholders’ equity at March 31, 2025 or 2024, or December 31, 2024. At March 31, 2025, we did
+no
+t hold any debt securities that were non-income producing during the preceding 12 months.
+Hybrid Securities
+Certain securities in our fixed-maturity portfolio are accounted for as hybrid securities because they contain embedded derivatives that are not deemed to be clearly and closely related to the host investments. These securities are reported at fair value:
+Since the embedded derivatives (e.g., change-in-control put option, debt-to-equity conversion, or any other feature unrelated to the credit quality or risk of default of the issuer that could impact the amount or timing of our expected future cash flows) do not have observable intrinsic values, we use the fair value option to record the changes in fair value of these securities through income as a component of net realized gains (losses).
+7
+Fixed Maturities
+The composition of fixed maturities by maturity at March 31, 2025, was:
+Asset-backed securities are classified in the maturity distribution table based upon their projected cash flows. All other securities that do not have a single maturity date are reported based upon expected average maturity. Contractual maturities may differ from expected maturities because the issuers of the securities may have the right to call or prepay obligations.
+Gross Unrealized Losses
+The following tables show the composition of gross unrealized losses by major security type and by the length of time that individual securities have been in a continuous unrealized loss position:
+A review of the securities in an unrealized loss position indicated that the issuers were current with respect to their interest obligations and that there was no evidence of deterioration of the current cash flow projections that would indicate we would not receive the remaining principal at maturity.
+We had
+three
+securities that had their credit ratings downgraded, with a combined fair value of $
+90
+million and an unrealized loss of $
+5
+million as of March 31, 2025. Based on our analysis of these securities, no credit loss allowance was required.
+8
+Allowance For Credit and Uncollectible Losses
+We are required to measure the amount of potential credit losses for all fixed-maturity securities in an unrealized loss position. We did
+no
+t record any allowances for credit losses or any write-offs for credit losses deemed to be uncollectible during the first three months of 2025 or 2024, and did
+no
+t have a material credit loss allowance balance as of March 31, 2025 and 2024, or December 31, 2024. We considered several factors and inputs related to the individual securities as part of our analysis. The methodology and significant inputs used to measure the amount of credit losses in our portfolio

@@ -1,0 +1,30 @@
+attribute carryforwards related to the Corporation’s investments in affordable housing and renewable energy partnerships and similar investments compared to 2022.
+Income tax expense for 2024, 2023 and 2022 varied from the amount computed by applying the statutory income tax rate to income before income taxes. The Corporation’s federal statutory tax rate was 21 percent for 2024, 2023 and 2022.
+A reconciliation of the expected U.S. federal income tax expense, calculated by applying the federal statutory tax rate, to the Corporation’s actual income tax expense, and the effective tax rates for 2024, 2023 and 2022 are presented in the following table.
+Tax Law changes reflect the impact of certain state legislative enactments in 2023 of approximately $
+137
+million and the 2022 U.K. enacted corporate income tax rate change, which resulted in a negative tax adjustment of approximately $
+186
+million, with corresponding adjustments of U.K. net deferred tax assets. The U.K. net deferred tax assets are primarily net operating losses (NOLs), incurred by the Corporation’s U.K. broker-dealer entity in historical periods, which do not expire under U.K. tax law and are assessed regularly for impairment. If further U.K. tax law changes are enacted, a corresponding income tax adjustment will be made based on the amount of available net deferred tax assets and applicable tax rate changes.
+Tax credits originate from investments in affordable housing and renewable energy partnerships and similar entities. Significant increases in tax credits recognized in 2024 and 2023, compared to 2022, were primarily driven by the Corporation’s growth in the volume of investments in wind and solar energy production facilities. For more information, see
+Note 6 – Securitizations and Other Variable Interest Entities
+.
+The reconciliation of the beginning unrecognized tax benefits (UTB) balance to the ending balance is presented in the table below.
+(1)
+The sum of the positions taken during prior years differs from the $(
+99
+) million, $(
+26
+) million and $(
+273
+) million in the Reconciliation of Income Tax Expense table due to temporary items, state items and jurisdictional offsets, as well as the inclusion of interest in the Reconciliation of Income Tax Expense table.
+At December 31, 2024, 2023 and 2022, the balance of the Corporation’s UTBs which would, if recognized, affect the Corporation’s effective tax rate was $
+573
+million, $
+671
+million and $
+709
+million, respectively. Included in the UTB balance are some items the recognition of which would not affect the effective tax rate, such as the tax effect of certain temporary differences, the portion of gross state UTBs that would be offset by the tax benefit of the associated federal deduction and the portion of gross non-U.S. UTBs that would be offset by tax reductions in other jurisdictions.
+It is reasonably possible that the UTB balance may decrease by as much as $
+217
+million during the next 12 months, since resolved items will be

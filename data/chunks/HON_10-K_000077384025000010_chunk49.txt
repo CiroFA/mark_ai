@@ -1,0 +1,19 @@
+certain estimates and assumptions in determining the amounts reflected in the financial statements and the related notes. Actual results could differ from those estimates.
+RECLASSIFICATIONS
+Certain prior year amounts are reclassified to conform to the current year presentation.
+During the first quarter of 2024, the Company realigned certain of its business units as reflected in Note
+22
+Segment Financial Data
+, which impacted the composition of its reportable segments. The Company recast historical periods to reflect this change in segment presentation.
+RECENT ACCOUNTING PRONOUNCEMENTS
+The Company considers the applicability and impact of all Accounting Standards Updates (ASUs) issued by the Financial Accounting Standards Board (FASB). ASUs not listed below were assessed and determined to be either not applicable or are expected to have minimal impact on the Company's Consolidated Statement of Operations, Balance Sheet, and Cash Flows (Consolidated Financial Statements).
+In November 2024, the FASB issued ASU 2024-03,
+Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+, which requires companies to disclose additional information about the types of expenses in commonly presented expense captions. The new standard requires tabular disclosure of specified natural expenses in certain expense captions, a qualitative description of amounts that are not separately disaggregated, and disclosure of the Company's definition and total amount of selling expenses. The ASU should be applied prospectively for annual reporting periods beginning after December 15, 2026, with retrospective application and early adoption permitted. The Company is currently evaluating the impacts of this guidance on the Company's Consolidated Financial Statements.
+In December 2023, the FASB issued ASU 2023-09,
+Income Taxes (Topic 740): Improvements to Income Taxes Disclosures
+, which requires greater disaggregation of income tax disclosures. The new standard requires additional information to be disclosed with respect to the income tax rate reconciliation and income taxes paid disaggregated by jurisdiction. This ASU should be applied prospectively for fiscal years beginning after December 15, 2024, with retrospective application permitted. The
+Company is currently evaluating the impacts of this guidance on the Company’s Consolidated Financial Statements.
+In November 2023, the FASB issued ASU 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+, which requires companies to enhance the disclosures about segment expenses. The new standard requires the disclosure of the Company’s Chief Operating Decision Maker (CODM), expanded incremental line-item disclosures of significant segment expenses used by the CODM for decision-making, and the inclusion of previous annual only segment disclosure requirements on a quarterly basis. This ASU should be applied

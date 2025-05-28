@@ -1,0 +1,23 @@
+annually. For the three months ended March 31, 2025, we paid a commitment fee of
+7
+basis points. There will be no sustainability pricing adjustment to our commitment fees or our margins under the credit facility for the approximately year-long period beginning April 7, 2025 as a result of our emissions performance for the year ended December 31, 2024. The credit facility contains customary affirmative and negative covenants and customary events of default. The occurrence of an event of default could result in an acceleration of the obligations under the credit facility.
+T
+he only financial covenant required is that our indebtedness to cash flow ratio, as defined in our credit facility, was not greater than
+4
+to 1, and this covenant level
+has never been exceeded.
+5.
+Derivative Instruments
+Our exposure to market risk includes changes in foreign exchange rates and interest rates. We have operations in foreign countries where the functional currency is primarily the local currency. For international operations that are determined to be extensions of the parent company, the U.S. dollar is the functional currency. We typically have naturally hedged positions in most countries from a local currency perspective with offsetting assets and liabilities. As of March 31, 2025 and December 31, 2024, we have entered into foreign exchange forward contracts to mitigate or hedge the effect of adverse fluctuations in foreign exchange rates. As of March 31, 2025 and December 31, 2024, we held cross currency swap contracts to hedge a portion of our net investment in foreign subsidiaries against volatility in foreign exchange rates. These contracts are recorded at fair value that is based on foreign currency exchange rates and interest rates in active markets; therefore, we classify these derivative contracts within Level 2 of the fair value hierarchy. We do not enter into any derivative financial instruments for speculative purposes.
+Undesignated Derivative Instruments
+During the three months ended March 31, 2025 and twelve months ended December 31, 2024, we entered into foreign exchange forward contracts in order to mitigate the change in fair value of specific assets and liabilities in the consolidated balance sheets. These forward contracts do not qualify for hedge accounting. As of March 31, 2025 and December 31, 2024, the aggregate notional value of these outstanding forward contracts was $
+2.5
+billion and $
+2.3
+billion, respectively. The changes in fair value of these forward contracts are recorded in prepaid and other assets or other current liabilities in the consolidated balance sheets with their corresponding change in fair value recognized in selling and general expenses in the consolidated statements of income. The amount recorded in prepaid and other current assets was $
+60
+million as of March 31, 2025. The amount recorded in other current liabilities was $
+2
+million and $
+42
+million as of March 31, 2025 and December 31, 2024, respectively. The amount

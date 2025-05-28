@@ -1,0 +1,38 @@
+and
+3.44
+% as of December 2023. These rates include the effect of hedging activities and excludes other secured financings held at fair value under the fair value option.
+•
+All U.S. dollar denominated short-term and non-U.S. dollar denominated long-term other secured financings were held at fair value under the fair value option.
+•
+Total other secured financings included $
+2.50
+billion as of December 2024 and $
+2.34
+billion as of December 2023 related to transfers of financial assets accounted for as financings rather than sales. Such financings were collateralized by financial assets, primarily included in trading assets, of $
+2.50
+billion as of December 2024 and $
+2.36
+billion as of December 2023.
+•
+Other secured financings collateralized by financial instruments included $
+24.39
+billion as of December 2024 and $
+8.38
+billion as of December 2023 of other secured financings collateralized by trading assets, investments and loans, and included $
+1.35
+billion as of December 2024 and $
+1.49
+billion as of December 2023 of other secured financings collateralized by financial instruments received as collateral and repledged.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+The table below presents other secured financings by maturity.
+In the table above:
+•
+Long-term other secured financings that are repayable prior to maturity at the option of the firm are reflected at their contractual maturity dates.
+•
+Long-term other secured financings that are redeemable prior to maturity at the option of the holder are reflected at the earliest dates such options become exercisable.
+Collateral Received and Pledged
+The firm receives cash and securities (e.g., U.S. government and agency obligations, other sovereign and corporate obligations, as well as equity securities) as collateral, primarily in connection with resale agreements, securities borrowed, derivative transactions and customer margin loans. The firm obtains cash and securities as collateral on an upfront or contingent basis for derivative instruments and collateralized agreements to reduce its credit exposure to individual counterparties.
+In many cases, the firm is permitted to deliver or repledge financial instruments received as collateral when entering into repurchase agreements and securities loaned transactions, primarily in connection with secured client financing activities. The firm is also permitted to deliver or repledge these financial instruments in connection with other secured financings, collateralized derivative transactions and firm or customer settlement requirements.
+The firm also pledges certain trading assets in connection with repurchase agreements, securities loaned transactions and other secured financings, and other assets (substantially all real estate and cash) in connection with other secured financings to counterparties who may or may not have the right to deliver or repledge them.
+The table below presents financial instruments at

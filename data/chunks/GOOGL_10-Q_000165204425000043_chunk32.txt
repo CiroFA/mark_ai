@@ -1,0 +1,34 @@
+Provision for Income Taxes
+Provision for income taxes represents the estimated amount of federal, state, and foreign income taxes incurred in the U.S. and the many jurisdictions in which we operate. The provision includes the effect of reserve provisions and changes to reserves that are considered appropriate as well as the related net interest and penalties.
+For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8
+in our An
+nual Report on Form 10-K for the fiscal year ended December 31, 2024 as well as Note 14 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Executive Overview
+The following table summarizes consolidated financial results (in millions, except per share information and percentages):
+(1)
+See "Use of Non-GAAP Constant Currency Information" below for details relating to our use of constant currency information.
+(2)
+For additional information on the calculation of diluted EPS, see Note 12 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+•
+R
+evenues were $90.2 billion, an increase of 12% year over year, primarily driven by an increase in Google Services revenues of $6.9 billion, or 10%, and an increase in Google Cloud revenues of $2.7 billion, or 28%.
+•
+Total constant currency revenues, which exclude the effect of hedging, increased
+14%
+year over year.
+•
+Cost of revenues wa
+s $36.4 billion, an increase of 8% ye
+ar over year, primarily driven by increases in content acquisition costs, TAC, and depreciation expense.
+35
+•
+Operating expenses were $23.3 billion, an increase of 9%
+year over year, primarily driven by increases in depreciation expense, employee compensation expenses, and
+other technical infrastructure operations costs.
+Other Information:
+•
+In March 2025, we entered into a definitive agreement to acquire Wiz, a leading cloud security platform, for $32.0 billion, subject to closing adjustments, in an all-cash transaction. The acquisition of Wiz is expected to close in 2026, subject to customary closing conditions, including the receipt of regulatory approvals. Upon the close of the acquisition, Wiz will be part of the Google Cloud segment.
+•
+In April 2025, the Board of Directors of Alphabet declared a quarterly cash dividend of $0.21 representing a 5% increase from the previous quarterly dividend of $0.20. The dividend is payable on June 16, 2025 to stockholders of record for each of the company’s Class A, Class B, and Class C shares as of June 9, 2025. For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q
+•
+Repurchases of Class A and Class C shares were $2.8 billion and $12.5 billion, respectively, totaling $15.3 billion for the three months ended March 31, 2025. For additional information, see Note 11 of the Notes to Consolidated Financial Statements included

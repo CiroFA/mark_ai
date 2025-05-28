@@ -1,0 +1,24 @@
+and maintenance on the towers, the obligation to absorb expected losses and the right to receive the expected future residual returns from the purchase option to acquire the CCI Lease
+90
+Index for Notes to the Consolidated Financial Statements
+Sites. As we determined that we are not the primary beneficiary and do not have a controlling financial interest in the Lease Site SPEs, the Lease Site SPEs are not included on our consolidated financial statements.
+However, we also considered if this arrangement resulted in the sale of the CCI Lease Sites for which we would derecognize the tower assets. By assessing whether control had transferred, we concluded that transfer of control criteria, as discussed in the revenue standard, were not met. Accordingly, we recorded this arrangement as a financing whereby we recorded debt, a financial obligation, and the CCI Lease Sites tower assets remained on our Consolidated Balance Sheets. We recorded long-term financial obligations in the amount of the net proceeds received and recognize interest on the tower obligations. The tower obligations are increased by interest expense and amortized through contractual leaseback payments made by us to CCI and through net cash flows generated and retained by CCI from the operation of the tower sites.
+Acquired CCI Tower Lease Arrangements
+Prior to the Merger, Sprint entered into a lease-out and leaseback arrangement with Global Signal Inc., a third party that was subsequently acquired by CCI, that conveyed to CCI the exclusive right to manage and operate approximately
+6,400
+tower sites (“Master Lease Sites”) via a master prepaid lease. These agreements were assumed upon the close of the Merger, at which point the remaining term of the lease-out was approximately
+17
+years with
+no
+renewal options. CCI has a fixed price purchase option for all (but not less than all) of the leased or subleased sites for approximately $
+2.3
+billion, exercisable
+one year
+prior to the expiration of the agreement and ending
+120
+days prior to the expiration of the agreement. We lease back a portion of the space at certain tower sites.
+We considered if this arrangement resulted in the sale of the Master Lease Sites for which we would derecognize the tower assets. By assessing whether control had transferred, we concluded that transfer of control criteria, as discussed in the revenue standard, were not met. Accordingly, we recorded this arrangement as a financing whereby we recorded debt, a financial obligation, and the Master Lease Sites tower assets remained on our Consolidated Balance Sheets.
+We recognize interest expense on the tower obligations. The tower obligations are increased by the interest expense and amortized through contractual leaseback payments made by us to CCI. The tower assets are reported in Property and equipment, net on our Consolidated Balance Sheets and are depreciated to their estimated residual values over the expected useful life of the towers, which is
+20
+years.
+Leaseback

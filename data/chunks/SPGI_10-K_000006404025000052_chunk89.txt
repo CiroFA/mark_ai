@@ -1,0 +1,15 @@
+estimating the amount and timing of future cash flows and the selection of appropriate discount rates, royalty rates and long-term growth rate assumptions. Changes in these estimates and assumptions could materially affect the determination of fair value for this indefinite-lived intangible asset and could result in an impairment charge, which could be material to our financial position and results of operations.
+We performed our impairment assessment of goodwill and indefinite-lived intangible assets and concluded that no impairment existed for the years ended December 31, 2024, 2023 and 2022.
+Retirement plans and postretirement healthcare and other benefits
+Our employee pension and other postretirement benefit costs and obligations are dependent on assumptions concerning the outcome of future events and circumstances, including compensation increases, long-term return on pension plan assets, discount rates and other factors. In determining such assumptions, we consult with outside actuaries and other advisors where deemed appropriate. In accordance with relevant accounting standards, if actual results differ from our assumptions, such differences are deferred and amortized over the estimated remaining lifetime of the plan participants. While we believe that the assumptions used in these calculations are reasonable, differences in actual experience or changes in assumptions could affect the expense and liabilities related to our pension and other postretirement benefits.
+The following is a discussion of some significant assumptions that we make in determining costs and obligations for pension and other postretirement benefits:
+•
+Discount rate assumptions are based on current yields on high-grade corporate long-term bonds.
+•
+The expected return on assets assumption is calculated based on the plan’s asset allocation strategy and projected market returns over the long-term.
+Our discount rate and return on asset assumptions used to determine the net periodic pension and postretirement benefit cost on our U.S. retirement plans are as follows:
+As of December 31, 2024, the Company had $1.0 billion in pension benefit obligation for our U.S. retirement plans. A 0.25 percentage point increase or decrease in the discount rate would result in an estimated decrease or increase to the accumulated benefit obligation of approximately $25 million. An increase or decrease of 1 percentage point in the expected rate of return on plan assets would result in a decrease or increase of approximately $13 million to 2025 pension expense.
+Stock-based compensation
+Stock-based compensation expense is measured at the grant date based on the fair value of the award and is recognized over the requisite service period, which typically is the vesting period. Stock-based compensation is classified as both operating-related expense and selling and general expense in our consolidated statements of income.
+Income taxes
+Deferred tax assets and liabilities are recognized for the

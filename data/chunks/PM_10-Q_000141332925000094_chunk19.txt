@@ -1,0 +1,44 @@
+recorded compensation expense related to PSU awards were as follows:
+The grant date fair value of the PSU awards subject to the other performance factors was determined by using the market price of PMI’s stock on the date of the grant. The grant date fair value of the PSU market-based awards subject to the TSR performance factor was determined by using the Monte Carlo simulation model.
+The following assumptions were used to determine the grant date fair value of the PSU awards subject to the TSR performance factor:
+(a)
+Based on the U.S. Treasury yield curve.
+(b)
+Determined using the observed historical volatility.
+As of March 31, 2025, PMI had $
+71
+million of total unrecognized compensation cost related to non-vested PSU awards.  The cost is recognized over the performance cycle of the awards, or upon death, disability or reaching the age of
+58
+.
+13
+Table of Contents
+Philip Morris International Inc. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+During the three months ended March 31, 2025,
+686,052
+PSU awards vested.  The grant date fair value of all the vested awards was approximately $
+84
+million.  The total fair value of PSU awards that vested during the three months ended March 31, 2025 was approximately $
+102
+million.
+Note 4.
+Benefit Plans:
+Pension coverage for employees of PMI’s subsidiaries is provided, to the extent deemed appropriate, through separate plans, many of which are governed by local statutory requirements. In addition, PMI provides health care and other benefits to certain U.S. retired employees and certain non-U.S. retired employees. In general, health care benefits for non-U.S. retired employees are covered through local government plans.
+Pension and other employee benefit costs per the condensed consolidated statements of earnings consisted of the following:
+Pension Plans
+Components of Net Periodic Benefit Cost
+Net periodic pension cost consisted of the following:
+(1)
+Primarily non-U.S. based defined benefit retirement plans.
+All of the amounts in the table above, other than service cost, are recognized in pension and other employee benefit costs in the condensed consolidated statement of earnings.
+Employer Contributions
+PMI makes, and plans to make, contributions, to the extent that they are tax deductible and meet specific funding requirements of its funded pension plans. Employer contributions of $
+37
+million were made to the pension plans during the three months ended March 31, 2025. Currently, PMI anticipates making additional contributions during the remainder of 2025 of approximately $
+121
+million to its pension plans, based on current tax and benefit laws. However, this estimate is subject to change as a result of changes in tax and other benefit laws, as well as asset performance significantly above or below the assumed long-term rate of return on pension assets, or changes in interest and currency rates.
+14
+Table of Contents
+Philip Morris International Inc. and Subsidiaries
+Notes

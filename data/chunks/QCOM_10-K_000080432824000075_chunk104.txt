@@ -1,0 +1,17 @@
+cash flows.
+From time to time, we also enter into forward-starting interest rate swaps to hedge the variability of forecasted interest payments on certain anticipated debt issuances. These swaps are designated as cash flow hedges of forecasted transactions. The gains and losses arising from such contracts are recorded as a component in accumulated other comprehensive income (loss) as gains and losses on derivative instruments. When the anticipated debt is issued, any associated swaps are terminated, and the hedging gains and losses in accumulated other comprehensive income (loss) are recorded to interest expense over the term of the hedged portions of the related debt issued.
+Gross Notional Amounts:
+The gross notional amounts of our foreign currency and interest rate derivatives by instrument type were as follows (in millions):
+The gross notional amounts of our derivatives by currency were as follows (in millions):
+F-9
+QUALCOMM Incorporated
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Fair Value Measurements.
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants as of the measurement date. Applicable accounting guidance provides an established hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs that market participants would use in valuing the asset or liability and are developed based on market data obtained from sources independent of us. Unobservable inputs are inputs that reflect our assumptions about the factors that market participants would use in valuing the asset or liability. There are three levels of inputs that may be used to measure fair value:
+•
+Level 1 includes financial instruments for which quoted market prices for identical instruments are available in active markets.
+•
+Level 2 includes financial instruments for which there are inputs other than quoted prices included within Level 1 that are observable for the instrument.
+•
+Level 3 includes financial instruments for which fair value is derived from valuation techniques in which one or more significant inputs are unobservable, including our own assumptions.
+Assets and liabilities measured at fair value are classified based on the lowest level of input that is significant to the fair value measurement. We review the fair value hierarchy classification on a quarterly basis. Changes in the observability of valuation inputs may result in a reclassification of levels for certain securities within the fair value hierarchy. We recognize transfers into and out of levels within the fair value hierarchy at the end of the fiscal month in which the actual event or change in circumstances that caused the transfer to

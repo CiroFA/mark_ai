@@ -1,0 +1,34 @@
+at fair value.
+Trading Cash Instruments
+Fair Value by Level.
+The table below presents trading cash instruments by level within the fair value hierarchy.
+Trading cash instruments consists of instruments held in connection with the firm’s market-making or risk management activities. These instruments are carried at fair value and the related fair value gains and losses are recognized in the consolidated statements of earnings.
+In the table above:
+•
+Assets are shown as positive amounts and liabilities are shown as negative amounts.
+•
+Corporate debt instruments includes corporate loans, debt securities, convertible debentures, prepaid commodity transactions and transfers of assets accounted for as secured loans rather than purchases.
+•
+Other debt obligations includes other asset-backed securities and money market instruments.
+•
+Equity securities includes public equities and exchange-traded funds.
+See Note 4 for an overview of the firm’s fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of trading cash instruments.
+Significant Unobservable Inputs.
+The table below presents the amount of level 3 trading cash instrument assets, and ranges and weighted averages of significant unobservable inputs used to value such trading cash instrument assets.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+In the table above:
+•
+Other includes government and agency obligations, other debt obligations, equity securities and commodities.
+•
+Ranges represent the significant unobservable inputs that were used in the valuation of each type of trading cash instrument.
+•
+Weighted averages are calculated by weighting each input by the relative fair value of the trading cash instruments.
+•
+The ranges and weighted averages of these inputs are not representative of the appropriate inputs to use when calculating the fair value of any one trading cash instrument. For example, the highest recovery rate for corporate debt instruments is appropriate for valuing a specific corporate debt instrument, but may not be appropriate for valuing any other corporate debt instrument. Accordingly, the ranges of inputs do not represent uncertainty in, or possible ranges of, fair value measurements of level 3 trading cash instruments.
+•
+Increases in yield or duration used in the valuation of level 3 trading cash instruments would have resulted in a lower fair value measurement, while increases in recovery rate or multiples would have resulted in a higher fair value measurement as of both December 2024 and December 2023. Due to the distinctive nature of each level 3 trading cash instrument, the interrelationship of inputs is not necessarily uniform within each product type.
+•
+Trading cash instruments are valued using discounted cash flows.
+•
+The significant unobservable inputs for multiples related to other trading cash instruments as of December 2024 did not have a range (and there was no weighted

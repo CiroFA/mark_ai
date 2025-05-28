@@ -1,0 +1,15 @@
+Plan. Under TJX’s stock repurchase programs, the Company repurchases its common stock on the open market. The par value of the shares repurchased is charged to Common stock with the excess of the purchase price over par first charged against any available Additional paid-in capital (“APIC”) and the balance charged to Retained earnings. Due to the volume of share repurchases under previous programs, TJX has historically had no remaining balance in APIC. All shares repurchased have been retired.
+The Inflation Reduction Act of 2022 (“IRA”) introduced a 1% excise tax after December 31, 2022 on the fair market value of certain stock that is repurchased during the taxable year. The taxable amount is reduced by the fair market value of certain issuances of stock throughout the year. Any excise tax incurred on repurchases is recognized as part of the cost of the repurchase.
+Shares issued under TJX’s Stock Incentive Plan are issued from authorized but unissued shares, and proceeds received are recorded by increasing common stock for the par value of the shares with the excess over par added to APIC. A deferred tax asset is recorded upon expensing of stock compensation in the financial statements. This deferred tax asset is recognized upon the exercise of the related stock grants. Any excess tax benefits or deficiencies are included in the provision for income taxes. The par value of performance share units and restricted stock units is added to common stock when shares are delivered following performance measurement date or service period to the extent vesting requirements have been achieved. The fair value of stock awards and units are added to APIC as the awards are amortized into earnings over the related requisite service periods.
+Share-Based Compensation
+TJX accounts for share-based compensation by estimating the fair value of each award on the date of grant. TJX uses the Black-Scholes option pricing model for options awarded and the market price on the grant date for stock awards. Compensation expense is recognized over the requisite service period for each award with forfeitures recognized as they occur. Performance-based awards are evaluated quarterly for probability of vesting and performance achievement levels.
+See Note H—Stock Incentive Plan for a detailed discussion of share-based compensation.
+Interest (Income) Expense, net
+TJX’s interest (income) expense, net is presented net of capitalized interest and interest income.
+The following is a summary of interest (income) expense, net:
+TJX capitalizes interest during the active construction period of major capital projects and adds the interest to the related assets.
+F-11
+Property and Equipment
+For financial reporting purposes, TJX provides for depreciation and amortization of property using the straight-line method over the estimated useful lives of the assets. Buildings are depreciated over
+33
+years. Leasehold costs and improvements are generally amortized over their useful life or the

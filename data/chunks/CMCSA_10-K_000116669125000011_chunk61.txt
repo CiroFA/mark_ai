@@ -1,0 +1,21 @@
+relationships. We believe our residential connectivity revenue will increase as a result of growth in average domestic broadband revenue per customer, as well as increases in domestic wireless and international connectivity revenue. At the same time, we expect continued declines in video revenue as a result of domestic customer net losses due to shifting video consumption patterns and the competitive environment, although customer net losses typically mitigate the impact of continued rate increases on programming expenses. We also expect continued declines in other revenue related to declines in wireline voice revenue.
+We believe our Business Services Connectivity segment will continue to grow by offering competitive services, including enterprise solutions.
+Table of Contents
+Connectivity & Platforms Customer Metri
+cs
+(a)
+Residential Connectivity & Platforms customer relationships generally represent the number of residential customer locations that subscribe to at least one of our services. International Residential Connectivity & Platforms customer relationships represent customers receiving Sky services in the United Kingdom and Italy. Because each of our services includes a variety of product tiers, which may change from time to time, net additions or losses in any one period will reflect a mix of customers at various tiers.
+(b)
+Business Services Connectivity customer metrics are gener
+ally counted based on the number of locations receiving services, including locations within our network in the United States, as well as locations outside of our network both in the United States and internationally. Certain arrangements whereby third parties provide connectivity services leveraging our network are also generally counted based on the number of locations served.
+(c)
+Domestic wireless lines represent the number of residential and business customers
+’
+wireless devices. An individual customer relationship may have multiple wireless lines.
+(d)
+Connectivity & Platforms domestic homes and businesses are considered passed if we can connect them to our network in the United States without further extending the transmission lines. Homes and businesses passed is an estimate based on the best available information.
+(e)
+Penetration is calculated by dividing the number of domestic customers located within our network by the number of domestic homes and businesses passed.
+(a)
+Constant currency is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measure” section on page 44 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts.
+Average monthly total revenue per customer relationship is impacted by rate adjustments and changes in the types and levels of services received by our residential and business customers, as well as changes in advertising and other revenue and in foreign currency exchange rates. While revenue from our individual service offerings is also

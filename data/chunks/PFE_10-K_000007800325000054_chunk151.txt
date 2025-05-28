@@ -1,0 +1,39 @@
+existed or that a liability had been incurred at the acquisition date, and (ii) the amount of the asset or liability can be reasonably estimated.
+•
+Environmental Matters
+—In the ordinary course of business, Seagen may incur liabilities for environmental matters such as remediation work, asset retirement obligations and environmental guarantees and indemnifications.
+•
+Legal Matters
+—Seagen is involved in various legal proceedings, including patent, intellectual property, and product liability matters of a nature considered normal to its business. The contingencies arising from legal matters are not significant to our consolidated financial statements.
+•
+Tax Matters
+—In the ordinary course of business, Seagen incurs liabilities for income taxes. Income taxes are exceptions to both the recognition and fair value measurement principles associated with the accounting for business combinations. Reserves for income tax contingencies continue to be measured under the benefit recognition model previously used by Seagen (see
+Note 1Q
+). Net liabilities for income taxes as of the acquisition date were $
+4.8
+billion, including $
+48
+million for uncertain tax positions. The net tax liability includes $
+6.3
+billion for the tax impact of fair value adjustments, partially offset by $
+1.5
+billion for deferred tax assets on which Seagen had recognized a valuation allowance.
+Goodwill is calculated as the excess of the consideration transferred over the net assets recognized and represents the future economic benefits arising from other assets acquired that could not be individually identified and separately recognized. Specifically, the goodwill recorded as part of the acquisition of Seagen includes the following:
+•
+the expected specific synergies and other benefits that we believe will result from combining the operations of Seagen with the operations of Pfizer;
+•
+any intangible assets that do not qualify for separate recognition, as well as future, as yet unidentified projects and products; and
+•
+the value of the going-concern element of Seagen’s existing businesses (the higher rate of return on the assembled collection of net assets versus if Pfizer had acquired all of the net assets separately).
+Goodwill is not amortized and is not deductible for tax purposes. All of the goodwill related to the acquisition of Seagen is related to our Biopharma segment (see
+Note 10
+).
+Actual and Pro Forma Impact of Acquisition
+—
+The following table presents information for Seagen’s operations that are included in Pfizer’s consolidated statements of operations beginning from the acquisition date, December 14, 2023, through Pfizer’s year-end in 2023:
+(a)
+Includes restructuring, integration and acquisition-related costs ($
+614
+million pre-tax) and purchase accounting charges related to (i) the fair value adjustment for acquisition-date inventory estimated to have been sold ($
+109
+million pre-tax); (ii) amortization expense related to the fair value of identifiable intangible assets

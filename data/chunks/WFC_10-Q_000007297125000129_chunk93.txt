@@ -1,0 +1,16 @@
+Term Debt
+(1)
+Represents the minimum required to avoid restrictions on capital distributions and discretionary bonus payments.
+(2)
+Our minimum TLAC and eligible unsecured long-term debt requirements are calculated based on the greater of RWAs determined under the Standardized and Advanced Approaches.
+OTHER REGULATORY CAPITAL AND LIQUIDITY MATTERS.
+For information regarding the U.S. implementation of the Basel III LCR and NSFR, see the “Risk Management – Asset/ Liability Management – Liquidity Risk and Funding – Liquidity Standards” section in this Report.
+Our principal U.S. broker-dealer subsidiaries, Wells Fargo Securities, LLC, and Wells Fargo Clearing Services, LLC, are subject to regulations to maintain minimum net capital requirements. As of March 31, 2025, these broker-dealer subsidiaries were in compliance with their respective regulatory minimum net capital requirements.
+Capital Planning and Stress Testing
+Our planned long-term capital structure is designed to meet regulatory and market expectations. We believe that our long-term targeted capital structure enables us to invest in and grow our business, satisfy our customers’ financial needs in varying environments, access markets, and maintain flexibility to return capital to our shareholders. Our long-term targeted capital structure also considers capital levels sufficient to exceed capital requirements, including the G-SIB capital surcharge and the stress capital buffer, as well as potential changes to regulatory requirements for our capital ratios, planned capital actions, changes in our risk profile and other factors. Accordingly, our long-term target capital levels are set above their respective regulatory minimums plus buffers.
+During first quarter 2025, we issued $558 million of common stock, substantially all of which was issued in connection with employee compensation and benefits, and we repurchased 45 million shares of common stock at a cost of $3.5 billion. We paid $1.6 billion of common and preferred stock dividends during first quarter 2025.
+The FRB capital plan rule establishes capital planning and other requirements that govern capital distributions, including dividends and share repurchases, by certain BHCs, including Wells Fargo. The FRB assesses, among other things, the overall financial condition, risk profile, and capital adequacy of BHCs when evaluating their capital plans.
+As part of the annual CCAR, the FRB generates a supervisory stress test. The FRB reviews the supervisory stress test results as required under the Dodd-Frank Act using a common set of capital actions for all large BHCs and also reviews the Company’s proposed capital actions.
+Federal banking regulators also require large BHCs and banks to conduct their own stress tests to evaluate whether the institution has sufficient capital to continue to operate during periods of adverse economic and financial conditions.
+Securities Repurchases
+On July 25, 2023, we announced that the Board authorized a common

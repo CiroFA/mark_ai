@@ -1,142 +1,25 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+FORM 10-Q
+INDEX
+Throughout this report the terms “American Express,” “we,” “our” or “us,” refer to American Express Company and its subsidiaries on a consolidated basis, unless stated or the context implies otherwise. The use of the term “partner” or “partnering” in this report does not mean or imply a formal legal partnership, and is not meant in any way to alter the terms of American Express’ relationship with any third parties. Refer to the “MD&A ― Glossary of Selected Terminology” for the definitions of other key terms used in this report.
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)
+Business Introduction
+American Express is a globally integrated payments company with card-issuing, merchant-acquiring and card network businesses that offer products and services to a broad range of customers, including consumers, small businesses, mid-sized companies and large corporations around the world.
+Our range of products and services includes:
+•
+Credit card, charge card, banking and other payment and financing products
+•
+Merchant acquisition and processing, servicing and settlement, fraud prevention, and point-of-sale marketing and information products and services
+•
+Network services
+•
+Travel and lifestyle services
+•
+Expense management products and services
+•
+Other services, such as the design and operation of customer loyalty programs
+These products and services are offered through various channels, including mobile and online applications, affiliate marketing, customer referral programs, third-party service providers and business partners, in-house sales teams, direct mail, telephone and direct response advertising.
+We compete in the global payments industry with networks, issuers, acquirers and other payment service providers and methods of payment, including paper-based transactions (e.g., cash and checks) and electronic transfers (e.g., wire transfers and Automated Clearing House (ACH)), as well as evolving and growing alternative mechanisms, systems and products that leverage new technologies, business models and customer relationships to create payment, financing or banking solutions. The payments industry continues to undergo dynamic changes in response to evolving technologies, consumer habits and merchant needs.
+Forward-Looking Statements and Non-GAAP Measures
+Certain of the statements in this Form 10-Q are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Refer to the “Cautionary Note Regarding Forward-Looking Statements” section. We prepare our Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America (GAAP). However, certain information included within this Form 10-Q constitutes non-GAAP financial measures. Our calculations of non-GAAP financial measures may differ from the calculations of similarly titled measures by

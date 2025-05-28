@@ -1,0 +1,23 @@
+These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent that there are differences between these estimates, judgments or assumptions and actual results, our consolidated financial statements will be affected. In many cases, the accounting treatment of a particular transaction is specifically
+70
+Table of Contents
+Index to Financial Statements
+dictated by GAAP and does not require management’s judgment in its application. There are also areas in which management’s judgment in selecting among available alternatives would not produce a materially different result.
+During the first quarter of fiscal 2023, we completed an assessment of the useful lives of our servers and increased the estimate of the useful lives from
+four years
+to
+five years
+effective at the beginning of fiscal 2023. Based on the carrying value of our servers as of May 31, 2022, this change in accounting estimate decreased our total operating expenses by $
+434
+million during fiscal 2023.
+Revenue Recognition
+Our sources of revenues include:
+•
+cloud and license revenues, which include: cloud services revenues; cloud license and on-premise license revenues; and license support revenues, which typically represent perpetual software licenses purchased by customers for use in both cloud and on-premise IT environments;
+•
+hardware revenues, which include the sale of hardware products, including Oracle Engineered Systems, servers, and storage products, and industry-specific hardware; and hardware support revenues; and
+•
+services revenues, which are earned from providing cloud-, license- and hardware-related services including consulting and advanced customer services.
+Cloud services revenues include revenues from Oracle Cloud Services offerings, which deliver applications and infrastructure technologies via cloud-based deployment models that we develop functionality for, provide unspecified updates and enhancements for, deploy, host, manage, upgrade and support and that customers access by entering into a subscription agreement with us for a stated period.
+Cloud license and on-premise license revenues primarily represent amounts earned from granting customers perpetual licenses to use our database, middleware, application and industry-specific software products, which our customers use for cloud-based, on-premise and other IT environments. The vast majority of our cloud license and on-premise license arrangements include license support contracts, which are entered into at the customer’s option.
+License support revenues are typically generated through the sale of license support contracts related to cloud license and on-premise licenses purchased by our customers at their option. License support contracts provide customers with rights to unspecified software product upgrades, maintenance releases and patches

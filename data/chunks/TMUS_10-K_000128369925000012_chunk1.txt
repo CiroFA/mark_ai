@@ -1,142 +1,179 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
-2
-Facebook
-3
-RSS
-4
-YouTube
-5
-Flickr
-6
-LinkedIn
-7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+tmus-20241231
+0001283699
+false
+2024
+FY
+P5Y
+P5Y
+P8Y
+P1Y
+P1Y
+http://fasb.org/us-gaap/2024#OtherNonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#OtherNonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#OtherNonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#OtherNonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#OtherNonoperatingIncomeExpense
+http://fasb.org/us-gaap/2024#OtherNonoperatingIncomeExpense
+P5Y
+P5Y
+P3Y
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+tmus:reporting_unit
+iso4217:EUR
+xbrli:pure
+tmus:tower_site
+tmus:segment
+tmus:class
+tmus:license
+tmus:tranche
+tmus:instrument
+tmus:renewal_option
+tmus:customer_category
+utr:D
+tmus:customer_account
+tmus:position
+0001283699
+2024-01-01
+2024-12-31
+0001283699
+tmus:CommonStockParValue0.00001PerShareMember
+2024-01-01
+2024-12-31
+0001283699
+tmus:A3.550SeniorNotesDue2029Member
+2024-01-01
+2024-12-31
+0001283699
+tmus:A3.700SeniorNotesDue2032Member
+2024-01-01
+2024-12-31
+0001283699
+tmus:A3.850SeniorNotesDue2036Member
+2024-01-01
+2024-12-31
+0001283699
+2024-06-28
+0001283699
+2025-01-24
+0001283699
+2024-12-31
+0001283699
+2023-12-31
+0001283699
+us-gaap:NonrelatedPartyMember
+2024-12-31
+0001283699
+us-gaap:NonrelatedPartyMember
+2023-12-31
+0001283699
+us-gaap:RelatedPartyMember
+2024-12-31
+0001283699
+us-gaap:RelatedPartyMember
+2023-12-31
+0001283699
+tmus:BrandedPostpaidRevenueMember
+2024-01-01
+2024-12-31
+0001283699
+tmus:BrandedPostpaidRevenueMember
+2023-01-01
+2023-12-31
+0001283699
+tmus:BrandedPostpaidRevenueMember
+2022-01-01
+2022-12-31
+0001283699
+tmus:BrandedPrepaidRevenueMember
+2024-01-01
+2024-12-31
+0001283699
+tmus:BrandedPrepaidRevenueMember
+2023-01-01
+2023-12-31
+0001283699
+tmus:BrandedPrepaidRevenueMember
+2022-01-01
+2022-12-31
+0001283699
+tmus:WholesaleAndOtherServiceRevenueMember
+2024-01-01
+2024-12-31
+0001283699
+tmus:WholesaleAndOtherServiceRevenueMember
+2023-01-01
+2023-12-31
+0001283699
+tmus:WholesaleAndOtherServiceRevenueMember
+2022-01-01
+2022-12-31
+0001283699
+us-gaap:ServiceMember
+2024-01-01
+2024-12-31
+0001283699
+us-gaap:ServiceMember
+2023-01-01
+2023-12-31
+0001283699
+us-gaap:ServiceMember
+2022-01-01
+2022-12-31
+0001283699
+tmus:ProductEquipmentMember
+2024-01-01
+2024-12-31
+0001283699
+tmus:ProductEquipmentMember
+2023-01-01
+2023-12-31
+0001283699
+tmus:ProductEquipmentMember
+2022-01-01
+2022-12-31
+0001283699
+us-gaap:ProductAndServiceOtherMember
+2024-01-01
+2024-12-31
+0001283699
+us-gaap:ProductAndServiceOtherMember
+2023-01-01
+2023-12-31
+0001283699
+us-gaap:ProductAndServiceOtherMember
+2022-01-01
+2022-12-31
+0001283699
+2023-01-01
+2023-12-31
+0001283699
+2022-01-01
+2022-12-31
+0001283699
+2022-12-31
+0001283699
+2021-12-31
+0001283699
+us-gaap:CommonStockMember
+2021-12-31
+0001283699
+us-gaap:TreasuryStockCommonMember
+2021-12-31
+0001283699
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001283699
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-12-31
+0001283699
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001283699
+us-gaap:RetainedEarningsMember
+2022-01-01
+2022-12-31
+0001283699
+us-

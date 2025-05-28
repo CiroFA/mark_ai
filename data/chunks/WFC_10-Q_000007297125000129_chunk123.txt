@@ -1,0 +1,21 @@
+on a nonrecurring basis are presented in Table 12.4 in this Note. We provide in Table 12.9 estimates of fair value for financial instruments that are not recorded at fair value, such as loans and debt liabilities carried at amortized cost.
+See Note 1 (Summary of Significant Accounting Policies) in our 2024 Form 10-K for a discussion of how we determine fair value. For descriptions of the valuation methodologies we use for assets and liabilities recorded at fair value on a recurring or nonrecurring basis, see Note 15 (Fair Value Measurements) in our 2024 Form 10-K.
+FAIR VALUE HIERARCHY
+We classify our assets and liabilities recorded at fair value as either Level 1, 2, or 3 in the fair value hierarchy. The highest priority (Level 1) is assigned to valuations based on unadjusted quoted prices in active markets and the lowest priority (Level 3) is assigned to valuations that include one or more significant unobservable inputs. See Note 1 (Summary of Significant Accounting Policies) in our 2024 Form 10-K for a detailed description of the fair value hierarchy.
+In the determination of the classification of financial instruments in Level 2 or Level 3 of the fair value hierarchy, we consider all available information, including observable market data, indications of market liquidity and orderliness of transactions, and our understanding of the valuation techniques and significant inputs used. This determination is ultimately based upon the specific facts and circumstances of each instrument or instrument category and judgments are made regarding the significance of the unobservable inputs to the instruments’ fair value measurement in its entirety. If one or more unobservable inputs is considered significant, the instrument is classified as Level 3.
+We do not classify nonmarketable equity securities in the fair value hierarchy if we use the non-published net asset value (NAV) per share (or its equivalent) as a practical expedient to measure fair value. Marketable equity securities with published NAVs are classified in the fair value hierarchy.
+Assets and Liabilities Recorded at Fair Value on a Recurring Basis
+Table 12.1 presents the balances of assets and liabilities recorded at fair value on a recurring basis.
+Table 12.1:
+Fair Value on a Recurring Basis
+(1)
+Represents balance sheet netting of derivative asset and liability balances, related cash collateral, and portfolio level valuation adjustments. See Note 11 (Derivatives) for additional information.
+Note 12:
+Fair Value Measurements
+(continued)
+Level 3 Assets and Liabilities Recorded at Fair Value on a Recurring Basis
+Table 12.2 presents the changes in Level 3 assets and liabilities measured at fair value on a recurring basis.
+Table 12.2:
+Changes in Level 3 Fair Value Assets and Liabilities on a Recurring Basis
+(1)
+All amounts represent net gains (losses) included in net income except for AFS debt securities and other assets and liabilities which also included net gains (losses) in other comprehensive

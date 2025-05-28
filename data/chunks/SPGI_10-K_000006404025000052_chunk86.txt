@@ -1,0 +1,15 @@
+the financial information prepared and presented in accordance with U.S. GAAP. Free cash flow, as we calculate it, may not be comparable to similarly titled measures employed by other companies. The following table presents a reconciliation of our cash flow provided by operating activities to free cash flow:
+N/M – Represents a change equal to or in excess of 100% or not meaningful
+CRITICAL ACCOUNTING ESTIMATES
+Our discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and related disclosure of contingent assets and liabilities.
+On an ongoing basis, we evaluate our estimates and assumptions, including those related to revenue recognition, business combinations, allowance for doubtful accounts, valuation of long-lived assets, goodwill and other intangible assets, pension plans, incentive compensation and stock-based compensation, income taxes, contingencies and redeemable noncontrolling interests. We base our estimates on historical experience, current developments and on various other assumptions that we believe to be reasonable under these circumstances, the results of which form the basis for making judgments about carrying values of assets and liabilities that cannot readily be determined from other sources. There can be no assurance that actual results will not differ from those estimates.
+Management considers an accounting estimate to be critical if it required assumptions to be made that were uncertain at the time the estimate was made and changes in the estimate or different estimates could have a material effect on our results of operations. Management has discussed the development and selection of our critical accounting estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosure relating to them in this MD&A.
+We believe the following critical accounting policies require us to make significant judgments and estimates in the preparation of our consolidated financial statements:
+65
+Table of Contents
+Revenue recognition
+Under ASC 606, revenue is recognized when a customer obtains control of promised goods or services in an amount that reflects the consideration the entity expects to receive in exchange for those goods or services. See Note 1 -
+Accounting Policies
+to our consolidated financial statements for further information.
+Business combinations
+We apply the purchase method of accounting to our business combinations. All of the assets acquired, liabilities assumed, and contingent consideration are allocated based on their estimated fair values. Fair value determinations involve significant estimates and assumptions about several highly subjective variables, including future cash flows, discount

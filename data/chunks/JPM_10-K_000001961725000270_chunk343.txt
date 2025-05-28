@@ -1,0 +1,35 @@
+changes in prepayments due to changes in home prices).
+Changes in fair value based on variations in assumptions generally cannot be easily extrapolated, because the relationship of the change in the assumptions to the change in fair value are often highly interrelated and may not be linear. In the following table, the effect that a change in a particular assumption may have on the fair value is calculated without changing any other assumption. In reality, changes in one factor may result in changes in another, which would either magnify or counteract the impact of the initial change.
+The table below outlines the key economic assumptions used to determine the fair value of the Firm’s MSRs at December 31, 2024 and 2023, and outlines the sensitivities of those fair values to immediate adverse changes in those assumptions, as defined below.
+(a)
+Includes the impact of operational risk and regulatory capital.
+Notes to consolidated financial statements
+Other intangible assets
+The Firm’s finite-lived and indefinite-lived other intangible assets are initially recorded at their fair value primarily upon completion of a business combination. Subsequently, the Firm’s finite-lived intangible assets, including core deposit intangibles, customer relationship intangibles, and certain other intangible assets, are amortized over their useful lives, estimated based on the expected future economic benefits to the Firm of the intangible asset. The Firm’s intangible assets with indefinite lives, such as asset management contracts, are not subject to amortization and are assessed periodically for impairment.
+As of December 31, 2024 and 2023, the gross carrying values of other intangible assets were $
+3.8
+billion and $
+4.2
+billion, respectively, and the accumulated amortization was $
+879
+million and $
+994
+million, respectively.
+As of December 31, 2024 and 2023, the net carrying values consist of finite-lived intangible assets of $
+1.7
+billion and $
+2.0
+billion, respectively, as well as indefinite-lived intangible assets, which are not subject to amortization, of $
+1.2
+billion at both periods.
+As of December 31, 2024, other intangible assets reflected core deposit and certain wealth management customer relationship intangibles related to the First Republic acquisition, and asset management contracts related to the Firm’s acquisition of the remaining
+51
+% interest in CIFM. Refer to Note 34 for additional information on the First Republic acquisition.
+For the years ended December 31, 2024 and 2023, amortization expense was $
+339
+million and $
+315
+million, respectively.
+The following table presents estimated future amortization expense.
+Impairment testing
+The Firm’s finite-lived and indefinite-lived other intangible assets are assessed for impairment annually or more often if events or changes in circumstances indicate that the asset might be impaired. Once the Firm determines that an impairment exists for an intangible asset, the impairment is recognized in other expense.

@@ -1,0 +1,23 @@
+other capital deductions.
+2.
+Supplementary leverage exposure is the sum of Adjusted average assets used in the Tier 1 leverage ratio and other adjustments, primarily: (i) for derivatives, potential future exposure and the effective notional principal amount of sold credit protection offset by qualifying purchased credit protection; (ii) the counterparty credit risk for repo-style transactions; and (iii) the credit equivalent amount for off-balance sheet exposures.
+3.
+Required ratios are inclusive of any buffers applicable as of the date presented.
+Regulatory Capital
+1.
+Other adjustments and deductions used in the calculation of CET1  capital primarily includes net after-tax DVA, the credit spread premium over risk-free rate for derivative liabilities, defined benefit pension plan assets, after-tax gain on sale from assets sold into securitizations, investments in our own capital instruments and certain deferred tax assets.
+RWA Rollforward
+Regulatory VaR—VaR for regulatory capital requirements
+In the current quarter, Credit risk RWA increased under both the Standardized and Advanced Approaches. Under the Standardized Approach, the increase was primarily due to higher Securities financing transactions, Derivatives exposures, Other credit risk driven by higher deferred tax assets and securitizations, and growth in lending. Under the Advanced Approach, the increase was primarily due to higher Derivatives exposures, Securities financing transactions and Other credit risk driven by higher deferred tax assets and securitizations, partially offset by decreased Corporate lending commitments.
+Market risk RWA increased in the current quarter under both the Standardized and Advanced Approaches, primarily driven by higher charges on Specific risk, and higher Regulatory Stressed VaR and Regulatory VaR, partially offset by decreased charges on incremental risk.
+The decrease in Operational risk RWA in the current quarter is related to lower execution-related losses.
+Total Loss-Absorbing Capacity, Long-Term Debt and Clean Holding Company Requirements
+The Federal Reserve has established external TLAC, long-term debt (“LTD”) and clean holding company requirements for top-tier BHCs of U.S. G-SIBs (“covered BHCs”), including the Parent Company. These requirements are designed to ensure that covered BHCs will have enough loss-
+absorbing resources at the point of failure to be recapitalized through the conversion of eligible LTD to equity or otherwise by imposing losses on eligible LTD or other forms of TLAC where an SPOE resolution strategy is used.
+Required and Actual TLAC and Eligible LTD Ratios
+1.
+Required ratios are inclusive of applicable buffers.
+2.
+External TLAC consists of CET1 capital and Additional Tier 1 capital (each excluding any noncontrolling minority interests), as well as eligible LTD.
+3.
+Consists of TLAC-eligible LTD reduced by 50% for amounts of unpaid principal due to be paid in more than one year but less than two years from each respective

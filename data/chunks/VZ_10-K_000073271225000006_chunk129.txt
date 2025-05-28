@@ -1,0 +1,23 @@
+wholly-owned subsidiary of the Company, and certain other Company affiliates (collectively, the Originators) transfer device payment plan agreement receivables and certain other receivables (collectively referred to as certain receivables) or a participation interest in certain other receivables to one of the ABS Entities, which in turn transfers such receivables and participation interest to another ABS Entity that issues the debt. Verizon entities retain the equity interests and residual interests, as applicable, in the ABS Entities, which represent the rights to all funds not needed to make required payments on the asset-backed debt and other related payments and expenses.
+Our asset-backed debt is secured by the transferred receivables and participation interest, and future collections on such receivables and underlying receivables related to such participation interest. These receivables and participation interest transferred to the ABS Entities and related assets, consisting primarily of restricted cash, will only be available for payment of asset-backed debt and expenses related thereto, payments to the Originators in respect of additional transfers of certain receivables and participation interest, and other obligations arising from our asset-backed debt transactions, and will not be available to pay other obligations or claims of Verizon’s creditors until the associated asset-backed debt and other obligations are satisfied. The Investors or Banks, as applicable, which hold our asset-backed debt have legal recourse to the assets securing the debt, but do not have any recourse to Verizon with respect to the payment of principal and interest on the debt. Under a parent support agreement, the Company has agreed to guarantee certain of the payment obligations of Cellco and the Originators to the ABS Entities.
+Cash collections on the receivables and on the underlying receivables related to the participation interest collateralizing our asset-backed debt securities are required at certain specified times to be placed into segregated accounts. Deposits to the segregated accounts are considered restricted cash and are included in Prepaid expenses and other and Other assets in our consolidated balance sheets.
+Proceeds from our asset-backed debt transactions are reflected in Cash flows from financing activities in our consolidated statements of cash flows. The asset-backed debt issued is included in Debt maturing within one year and Long-term debt in our consolidated balance sheets.
+77
+Table of
+Contents
+ABS Notes
+During the year ended December 31, 2024, we completed the following ABS Notes transactions:
+78
+Table of
+Contents
+Under the terms of each series of ABS Notes outstanding as of
+December 31, 2024,
+there is a revolving period of up to
+two years
+,
+three years
+, or
+five years
+, as applicable, during which we may transfer additional receivables to the ABS Entity. During the years ended
+December 31, 2024 and 2023
+, we made aggregate principal

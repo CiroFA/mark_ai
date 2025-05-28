@@ -1,0 +1,21 @@
+Statements of Operations:
+The Company may designate pay-fixed interest rate swaps as cash flow hedges of interest payments on floating-rate borrowings. Pay-fixed interest rate swaps effectively convert floating-rate borrowings to fixed-rate borrowings. The unrealized gains or losses from these cash flow hedges are deferred in AOCI and recognized in interest expense as the interest payments occur. The Company did not have pay-fixed interest rate swaps that were designated as cash flow hedges of interest payments at March 29, 2025 or at September 28, 2024, and gains and losses related to pay-fixed interest rate swaps recognized in earnings were not material for the quarters and six-month periods ended March 29, 2025 and March 30, 2024.
+Foreign Exchange Risk Management
+The Company transacts business globally and is subject to risks associated with foreign currency exchange rates. The Company’s objective is to reduce earnings and cash flow fluctuations associated with changes in foreign currency exchange rates, enabling management to focus on core business operations.
+The Company enters into option and forward contracts to protect the value of its existing foreign currency assets, liabilities, firm commitments and forecasted but not firmly committed foreign currency transactions. In accordance with policy, the Company hedges its forecasted foreign currency transactions for periods generally not to exceed four years within an established minimum and maximum range of annual exposure. The gains and losses on these contracts offset changes in the U.S. dollar equivalent value of the related forecasted transaction, asset, liability or firm commitment. The principal currencies hedged are the euro, British pound, Japanese yen, Chinese yuan and Canadian dollar. Cross-currency swaps are used to effectively convert foreign currency denominated borrowings into U.S. dollar denominated borrowings.
+The Company designates foreign exchange forward and option contracts as cash flow hedges of firmly committed and forecasted foreign currency transactions. As of March 29, 2025 and September 28, 2024, the notional amounts of the Company’s net foreign exchange cash flow hedges were $
+8.2
+billion and $
+9.9
+billion, respectively. Mark-to-market gains and losses on these contracts are deferred in AOCI and are recognized in earnings when the hedged transactions occur, offsetting changes in the value of the foreign currency transactions. Net deferred gains recorded in AOCI for contracts that will mature in
+31
+THE WALT DISNEY COMPANY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited; tabular dollars in millions, except for per share data)
+the next twelve months total $
+240
+million.
+The following table summarizes the effect of foreign exchange cash flow hedges on AOCI:
+(1)
+Primarily recorded in revenue.
+The Company may designate cross currency swaps as fair value hedges of foreign currency denominated borrowings. The impact from the change in foreign currency on

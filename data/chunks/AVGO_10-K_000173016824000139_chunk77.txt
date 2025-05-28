@@ -1,0 +1,30 @@
+not have any material foreign exchange forward contracts outstanding as of November 3, 2024 or October 29, 2023. The gains and losses recorded in other income (expense), net for derivative instruments not designated as hedges were not material.
+57
+Table of Contents
+During fiscal years 2023 and 2022, we entered into treasury rate lock contracts that mature in approximately one year to hedge variability of cash flows due to changes in the benchmark interest rate of anticipated future debt issuances. These treasury rate locks were designated and accounted for as cash flow hedging instruments. In August 2023, we early settled all treasury rate lock contracts, which had a $
+5.5
+billion notional amount, for a cumulative gain of $
+371
+million. The cumulative gain was recorded net of tax of $
+44
+million as a component of accumulated other comprehensive income as of October 29, 2023. The cash receipts from the settlement were included in cash flows from operating activities in the consolidated statement of cash flows during fiscal year 2023. In fiscal year 2024, upon the issuance of our $
+1.75
+billion
+4.800
+% senior notes due October 2034 as discussed in Note 10. “Borrowings”, $
+75
+million out of the $
+371
+million pre-tax cumulative gain in accumulated other comprehensive income will be amortized to interest expense through October 15, 2034 using the effective interest method. The remaining cumulative gain will be amortized to interest expense associated with future debt referencing the hedged treasury rates.
+Property, plant and equipment.
+Property, plant and equipment are stated at cost less accumulated depreciation and amortization. Additions, improvements and major renewals are capitalized, and maintenance, repairs and minor renewals are expensed as incurred. Assets are held in construction in progress until placed in service, upon which date, we begin to depreciate these assets. When assets are retired or disposed of, the assets and related accumulated depreciation and amortization are removed from our property, plant and equipment balances and the resulting gain or loss is reflected in the consolidated statements of operations. Buildings and leasehold improvements are generally depreciated over
+15
+to
+40
+years, or over the lease period, whichever is shorter, and machinery and equipment are generally depreciated over
+3
+to
+10
+years. We use the straight-line method of depreciation for all property, plant and equipment.
+Leases.
+We determine if an arrangement is a lease, or contains a lease, at the inception of the arrangement and evaluate whether the lease is an operating lease or a finance lease at the commencement date. We recognize right-of-use (“ROU”) assets and lease liabilities for operating and finance leases with terms greater than 12 months, and account for the lease and non-lease components as a single component. ROU assets represent our right to use an asset for the lease term, while lease liabilities represent our obligation to make lease

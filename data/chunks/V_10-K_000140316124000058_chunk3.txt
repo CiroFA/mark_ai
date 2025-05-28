@@ -1,0 +1,31 @@
+control and are difficult to predict. We describe risks and uncertainties that could cause actual results to differ materially from those expressed in, or implied by, any of these forward-looking statements in
+Item 1
+,
+Item 1A
+,
+Item 7
+and elsewhere in this report. Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+3
+Table
+of Contents
+PART I
+ITEM 1.    Business
+OVERVIEW
+Visa is one of the world’s leaders in digital payments. Our purpose is to uplift everyone, everywhere by being the best way to pay and be paid. We facilitate global commerce and money movement across more than 200 countries and territories among a global set of consumers, merchants, financial institutions and government entities through innovative technologies.
+Since Visa’s early days in 1958, we have been in the business of facilitating payments between consumers and businesses. We are focused on extending, enhancing and investing in our proprietary advanced transaction processing network, VisaNet, to offer a single connection point for facilitating payment transactions to multiple endpoints through various form factors. As a network of networks enabling global movement of money through all available networks, we are working to provide payment solutions and services for everyone, everywhere.
+•
+We facilitate secure, reliable and efficient money movement among consumers, issuing and acquiring financial institutions and merchants.
+We have traditionally referred to this structure as the “four-party” model. Please see
+Our Core Business
+discussion below. As the payments ecosystem continues to evolve, we have broadened this model to include digital banks, digital wallets and a range of financial technology companies (fintechs), governments and non-governmental organizations (NGOs). We provide transaction processing services (primarily authorization, clearing and settlement) to our financial institution and merchant clients through VisaNet. During fiscal 2024, 303 billion payments and cash transactions with Visa’s brand were processed by Visa or other networks, equating to an average of 829 million transactions per day. Of the 303 billion total transactions, 234 billion were processed by Visa.
+•
+We offer a wide range of Visa-branded payment products
+that our clients, including nearly 14,500 financial institutions, use to develop and offer payment solutions or services, including credit, debit, prepaid and cash access programs for individual, business and government account holders. During fiscal 2024, Visa’s total payments and cash volume were
+$16 trillion, an
+d we had 4.6 billion payment credentials, which are issued
+Visa card accounts, that
+were available to be used at more than 150 million merchant locations worldwide.
+(1)
+•
+We take an open partnership approach
+and seek to provide value by enabling access to our global network, including offering our technology capabilities through

@@ -1,0 +1,21 @@
+principally until age 65 for approximately three-fourths of those participants who are eligible for retiree health care coverage. Certain employee groups, including employees covered by most United Auto Workers bargaining agreements, are provided lifetime health care coverage.
+The funded status of the plans is measured as the difference between the plan assets at fair value and the projected benefit obligation (PBO). We have recognized the aggregate of all overfunded plans in Other assets and the aggregate of all underfunded plans in either Accrued retiree health care or Accrued pension plan liability, net. The portion of the amount by which the actuarial present value of benefits included in the PBO exceeds the fair value of plan assets, payable in the next 12 months, is reflected in Accrued liabilities.
+The components of net periodic benefit (income)/cost were as follows:
+The following tables show changes in the benefit obligation, plan assets and funded status of both pensions and OPB for the years ended December 31, 2024 and 2023. Benefit obligation balances presented below reflect the PBO for our pension plans and accumulated postretirement benefit obligations (APBO) for our OPB plans.
+94
+Table of
+Contents
+Amounts recognized in Accumulated other comprehensive loss (AOCI) at December 31 were as follows:
+95
+Table of
+Contents
+The accumulated benefit obligation (ABO) for all pension plans was $
+49,889
+and $
+53,671
+at December 31, 2024 and 2023.
+Key information for our plans with ABO and PBO in excess of plan assets as of December 31 was as follows:
+Assumptions
+The following assumptions, which are the weighted average for all plans, are used to calculate the benefit obligation at December 31 of each year and the net periodic benefit cost for the subsequent year.
+The discount rate for each plan is determined based on the plans’ expected future benefit payments using a yield curve developed from high quality bonds that are rated as Aa or better by at least half of the four rating agencies utilized as of the measurement date. The yield curve is fitted to yields developed from bonds at various maturity points. Bonds with the ten percent highest and the ten percent lowest yields are omitted. The present value of each plan’s benefits is calculated by applying the discount rates to projected benefit cash flows.
+The pension fund’s expected return on plan assets assumption is derived from a review of actual historical returns achieved by the pension trust and anticipated future long-term performance of individual asset classes. While consideration is given to historical returns, the assumption represents a long-term, prospective return. The expected return on plan assets component of the net periodic benefit cost for the upcoming plan year is determined based on the expected return on plan assets assumption and the market-related value of plan assets (MRVA). Since our adoption of the accounting standard for pensions in 1987, we have determined the MRVA

@@ -1,0 +1,49 @@
+(“IRS”) and U.S. Treasury Department. Notice 2023-55, issued in the first quarter of fiscal year 2024, delayed the effective date of final foreign tax credit regulations to fiscal year 2024 for Microsoft. Notice 2023-80, issued in the second quarter of fiscal year 2024, further delayed the effective date of final foreign tax credit regulations indefinitely. In fiscal years 2024, 2023, and 2022, there were no individually significant other reconciling items.
+The decrease in our effective tax rate for fiscal year 2024 compared to fiscal year 2023 was primarily due to tax benefits from tax law changes, including the delay of the effective date of final foreign tax credit regulations. The increase in our effective tax rate for fiscal year 2023 compared to fiscal year 2022 was primarily due to a $
+3.3
+billion net income tax benefit in the first quarter of fiscal year 2022 related to the transfer of intangible properties and a decrease in tax benefits relating to stock-based compensation.
+82
+PART II
+Item 8
+The components of the deferred income tax assets and liabilities were as follows:
+Deferred income tax balances reflect the effects of temporary differences between the carrying amounts of assets and liabilities and their tax bases and are stated at enacted tax rates expected to be in effect when the taxes are paid or recovered.
+As of June 30, 2024, we had federal, state, and foreign net operating loss carryforwards of $
+476
+million, $
+899
+million, and $
+2.6
+billion, respectively. The federal and state net operating loss carryforwards have varying expiration dates ranging
+from fiscal year
+2025
+to
+2044
+or indefinite carryforward periods
+, if not utilized. The majority of our foreign net operating loss carryforwards do not expire. Certain acquired net operating loss carryforwards are subject to an annual limitation but are expected to be realized with the exception of those which have a valuation allowance. As of June 30, 2024, we had $
+456
+million
+federal capital loss carryforwards for U.S. tax purposes from our acquisition of Nuance. The federal capital loss carryforwards are subject to an annual limitation and will expire in fiscal year
+2025
+.
+The valuation allowance disclosed in the table above relates to the foreign net operating loss carryforwards, federal capital loss carryforwards, and other net deferred tax assets that may not be realized.
+Income taxes paid, net of refunds, were $
+23.4
+billion, $
+23.1
+billion, and $
+16.0
+billion in fiscal years 2024, 2023, and 2022, respectively.
+Uncertain Tax Positions
+Gross unrecognized tax benefits related to uncertain tax positions as of June 30, 2024, 2023, and 2022, were $
+22.8
+billion, $
+17.1
+billion, and $
+15.6
+billion, respectively, which were primarily included in long-term income taxes in our consolidated balance sheets. If recognized, the resulting tax benefit would affect our effective tax rates for fiscal years 2024, 2023, and 2022 by $
+19.6
+billion, $
+14.4
+billion, and $
+13.3
+billion,

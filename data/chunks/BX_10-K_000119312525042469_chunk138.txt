@@ -1,0 +1,15 @@
+team, led by our CSO, who works closely with our senior management, including our Chief Technology Officer (“CTO”), to develop and advance the firm’s cybersecurity program and strategy.
+Our CSO and CTO have extensive experience in cybersecurity and technology, respectively. Our CSO is a Senior Managing Director in BXTI and is responsible for all aspects of cyber and physical security across Blackstone. He has over 25 years of information security, technology and engineering experience, including having previously led the international security organization at a large credit bureau.
+Our CTO is a Senior Managing Director and the head of BXTI. Our CTO has over 23 years of information security, technology and engineering experience, including having previously served as the Chief Technology and Chief Innovation Officer at a large financial institution. Our CTO is responsible for all aspects of technology across Blackstone, advises our investment teams and acts as a resource to portfolio companies on technology-related matters.
+BXTI conducts periodic cybersecurity risk assessments, including assessments or audits of third-party vendors, and assists with the management and mitigation of identified cybersecurity risks. The CSO and CTO are responsible for the review of Blackstone’s cybersecurity framework annually as well as on an event-driven basis as necessary. The CSO and CTO also review the scope of our cybersecurity measures periodically, including in the event of a change in business practices that may implicate the security or integrity of our information and systems.
+Blackstone’s
+board of directors
+is responsible for understanding the primary risks to our business.
+The audit
+committee
+of our board of directors is responsible for reviewing with management the areas of material risk to our operations and financial results (including, without limitation, applicable major financial and cybersecurity risks and exposures) and our guidelines and policies with respect to risk assessment and risk management.
+Blackstone’s CSO reports to the board of directors and the audit committee of the board of directors at least annually on cybersecurity matters, including risks. These reports also include, as applicable, an overview of cybersecurity incidents. Additionally, the CSO provides quarterly updates to management on Blackstone’s cybersecurity risks and program developments.
+82
+Table of Contents
+Our principal executive offices are located in leased office space at 345 Park Avenue, New York, New York. As of December 31, 2024, in addition to our offices in New York, we also leased offices in Hong Kong, London, Miami, New Jersey, San Francisco, Singapore, Tokyo and other cities around the world. We consider these facilities to be suitable and adequate for the management and operations of our business.
+We may from time to time be involved in litigation and claims incidental to the conduct of our business. Our businesses are also subject to extensive regulation,

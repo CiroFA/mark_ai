@@ -1,0 +1,59 @@
+reliably estimate the timing and ultimate settlement amounts until the close of an audit. Based on information currently available, we do not anticipate over the next 12-month period any significant audit activity concluding related to uncertain tax positions for which we have existing accrued liabilities.
+We recognize the additional accrual of any possible related interest and penalties relating to the underlying uncertain tax position in income tax expense. As of June 30, 2024 and 2023, we had accrued interest of $
+111
+and $
+143
+and accrued penalties of $
+15
+and $
+12
+, respectively, which are not included in the above table. During the fiscal years ended June 30, 2024, 2023 and 2022, we recognized $
+18
+, $
+23
+and $
+21
+in interest expense and $
+4
+, $
+1
+and $
+2
+in penalties expense, respectively.
+Deferred income tax assets and liabilities were comprised of the following:
+Net operating loss carryforwards were $
+2.3
+billion at June 30, 2024, and $
+2.9
+billion at June 30, 2023. If unused, approximately $
+100
+will expire between 2024 and 2043. The remainder, totaling $
+2.2
+billion at June 30, 2024, may be carried forward indefinitely.
+NOTE 6
+EARNINGS PER SHARE
+Basic net earnings per common share are calculated by dividing Net earnings attributable to Procter & Gamble less preferred dividends by the weighted average number of common shares outstanding during the period. Diluted net earnings per common share are calculated by dividing Net earnings attributable to Procter & Gamble by the diluted weighted average number of common shares outstanding during the period. The diluted shares include the dilutive effect of stock options and other share-based awards based on the treasury stock method (see Note 7) and the assumed conversion of preferred stock (see Note 8).
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        51
+Net earnings per common share were calculated as follows:
+(1)
+Excludes
+4
+million,
+19
+million and
+11
+million in 2024, 2023 and 2022, respectively, of weighted average stock options outstanding because the exercise price of these options was greater than the average market value of the Company's stock or their effect was antidilutive.
+(2)
+An overview of preferred shares can be found in Note 8.
+NOTE 7
+SHARE-BASED COMPENSATION
+The Company has two primary share-based compensation programs under which we annually grant stock option, restricted stock unit (RSU) and performance stock unit (PSU) awards to certain managers and directors.
+In our main long-term incentive program, managers can elect to receive stock options or RSUs. All options vest after
+three years
+and have a
+10-year
+life. Exercise prices on options are set equal to the market price of the underlying shares on the date of the grant. RSUs vest and settle in shares of common stock
+three years
+from the grant date.
+Senior-level executives participate in an additional long-term incentive program that awards PSUs, which are

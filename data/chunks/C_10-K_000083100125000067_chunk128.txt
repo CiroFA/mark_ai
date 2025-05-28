@@ -1,0 +1,15 @@
+supporting enterprise-wide efforts to proactively identify and remediate cybersecurity risks before they materialize as incidents that negatively affect business operations.
+To address evolving cybersecurity risks and corresponding regulations, TCCORO monitors cybersecurity legal and regulatory requirements, identifies and defines emerging risks, executes strategic cybersecurity threat assessments, performs new product and initiative reviews, performs data management risk oversight and conducts cybersecurity risk assurance reviews (inclusive of third-party assessments). In addition, this office oversees and challenges
+117
+metrics related to cybersecurity and technology and ensures they remain aligned with Citi’s overall operational risk management framework to effectively track, identify and manage risk. TCCORO presents an independent viewpoint on enterprise cybersecurity risk posture, and oversees CISO’s cybersecurity risk identification, measurement and enterprise-wide governance of cybersecurity risk.
+Internal Audit serves as Citi’s third line of defense and provides independent assurance to the Audit Committee of the Board on the effectiveness of controls operated by the first and second lines of defense to manage cybersecurity risk.
+Citi recognizes the risks associated with outsourcing services to, sharing data with, and/or technologically interacting with third parties.
+Citi has built a robust third-party information security risk management program that governs third-party engagements from selection, to the establishment of legal agreements that govern the relationship, to ongoing monitoring through the duration of the relationship.
+Third-party risk management includes reliance on contractual requirements around data and cybersecurity, vulnerability assessments, third-party information security assessments performed at intervals determined by risk level, governance to manage end-of-life and end-of-vendor-support risks, and third-party incident response protocols.
+Management Governance
+Citi’s Head of Technology and Business Enablement, who reports directly to Citi’s CEO, has overall responsibility for Citi’s first line of defense cyber and information security and technology programs.
+Citi’s
+Head of Technology and Business Enablement
+has over 30 years of experience in the financial services industry. Prior to joining Citi, he was Senior Partner at PriceWaterhouseCoopers where he oversaw the firm’s strategy and execution.
+For additional information, see “Corporate Information—Executive Officers” below.
+Citi’s Head of Foundational Services and CISO, who reports directly to Citi’s Head of Technology and Business Enablement, has primary responsibility to assess and manage Citi’s material risks from cybersecurity threats. Citi’s CISO has decades of experience in managing cybersecurity risks from prior roles as Deutsche Bank’s Chief Security Officer, the Chief Information Officer for the Central Intelligence Agency and the Chief Information

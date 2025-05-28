@@ -1,0 +1,49 @@
+are engaged in legal actions not described above arising in the ordinary course of business and, while there can be no assurance of favorable outcomes, we believe that the ultimate outcome of these actions will not have a material adverse effect on our operating results, liquidity or financial position.
+Note 13 -
+Shareholders’ Equity
+Capital Return Program
+We repurchased
+92
+million and
+83
+million shares of our common stock for $
+11.1
+billion and $
+3.7
+billion during the third quarter, and
+254
+million and
+159
+million shares of our common stock for $
+26.2
+billion and $
+7
+billion during the first nine months, of fiscal years 2025 and 2024, respectively. On August 26, 2024, our Board of Directors approved an additional $
+50
+billion to our share repurchase authorization, without expiration. As of October 27, 2024, we were authorized, subject to certain specifications, to repurchase up to $
+46.4
+billion of our common stock. Our share repurchase program aims to offset dilution from shares issued to employees while maintaining adequate liquidity to meet our operating requirements. We may pursue additional share repurchases as we weigh market factors and other investment opportunities.
+From October 28, 2024 through November 15, 2024, we repurchased
+19
+million shares for $
+2.7
+billion pursuant to a pre-established trading plan.
+We paid cash dividends to our shareholders of $
+245
+million and $
+99
+million during the third quarter, and $
+589
+million and $
+296
+million during the first nine months, of fiscal years 2025 and 2024, respectively. Our cash dividend program and the payment of future cash dividends under that program are subject to our Board of Directors' continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders.
+Note 14 -
+Segment Information
+Our Chief Executive Officer is our chief operating decision maker, or CODM, and reviews financial information presented on an operating segment basis for purposes of making decisions and assessing financial performance.
+20
+NVIDIA Corporation and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Continued)
+(Unaudited)
+The Compute & Networking segment includes our Data Center accelerated computing platforms and artificial intelligence, or AI, solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services.
+The Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; virtual GPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse Enterprise software for building and operating 3D internet applications.
+Operating results by segment include costs or expenses directly

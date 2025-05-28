@@ -1,0 +1,18 @@
+guarantees and indemnifications; however, the value of such property has not been determined.
+Performance Risk
+Citi evaluates the performance risk of its guarantees based on the assigned referenced counterparty internal or external ratings. Where external ratings are used, investment-grade ratings are considered to be Baa/BBB and above, while anything below is considered non-investment grade. Citi’s internal ratings are in line with the related external rating system. On certain underlying referenced assets or entities, ratings are not available. Such referenced assets are included in the “not rated” category. The maximum potential amount of the future payments related to the outstanding guarantees is determined to be the notional amount of these contracts, which is the par amount of the assets guaranteed.
+Presented in the tables below are the maximum potential amounts of future payments that are classified based on internal and external credit ratings. The determination of the maximum potential future payments is based on the notional amount of the guarantees without consideration of possible recoveries under recourse provisions or from collateral held or pledged. As such, Citi believes such amounts bear no relationship to the anticipated losses, if any, on these guarantees.
+296
+Credit Commitments and Lines of Credit
+The table below summarizes Citigroup’s credit commitments:
+(1)
+Consumer commitments related to the business HFS countries under sales agreements are reflected in their original categories until the respective sales are completed.
+(2)
+Other commitments and contingencies include commitments to purchase certain debt and equity securities.
+The majority of unused commitments are contingent upon customers maintaining specific credit standards. Commercial commitments generally have floating interest rates and fixed expiration dates and may require payment of fees. Such fees (net of certain direct costs) are deferred and, upon exercise of the commitment, amortized over the life of the loan or, if exercise is deemed remote, amortized over the commitment period.
+Commercial and Similar Letters of Credit
+A commercial letter of credit is an instrument by which Citigroup substitutes its credit for that of a customer to enable the customer to finance the purchase of goods or to incur other commitments. Citigroup issues a letter on behalf of its client to a supplier and agrees to pay the supplier upon presentation of documentary evidence that the supplier has performed in accordance with the terms of the letter of credit. When a letter of credit is drawn, the customer is then required to reimburse Citigroup.
+One- to Four-Family Residential Mortgages
+A one- to four-family residential mortgage commitment is a written confirmation from Citigroup to a seller of a property that the bank will advance the specified sums enabling the buyer to complete the purchase.
+Revolving Open-End Loans Secured by One- to Four-Family Residential Properties
+Revolving

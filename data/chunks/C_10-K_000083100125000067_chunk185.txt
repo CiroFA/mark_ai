@@ -1,0 +1,24 @@
+and unrestricted awards under other employee plans, the amortization of restricted stock awards and costs of other employee benefits. For its most significant pension and postretirement benefit plans (Significant Plans), Citigroup measures and discloses plan obligations, plan assets and periodic plan expense quarterly, instead of annually. The effect of remeasuring the Significant Plan obligations and assets by updating plan actuarial assumptions on a quarterly basis is reflected in
+AOCI
+and periodic plan expense. All other plans (All Other Plans) are remeasured annually. Benefits earned during the year are reported in
+Compensation and benefits
+expenses and all other components of the net annual benefit cost are reported in
+Other operating
+expenses in the Consolidated Statement of Income.
+See Note 8.
+Stock-Based Compensation
+The Company recognizes compensation expense related to stock awards over the requisite service period, generally based on the instruments’ grant-date fair value, reduced by actual forfeitures as they occur. Compensation cost related to awards granted to employees who meet certain age plus years-of-service requirements (retirement-eligible employees) is accrued in the year prior to the grant date in the same manner as the accrual for cash incentive compensation. Certain stock awards with performance conditions or certain clawback provisions are subject to variable accounting, pursuant to
+159
+which the associated compensation expense fluctuates with changes in Citigroup’s common stock price.
+See Note 7.
+Transactional and Tax Charges
+Transactional and tax charges
+, which largely comprises costs that are driven by revenues and transaction volumes, is primarily composed of brokerage exchange and clearance costs, exchange fees, regulatory memberships and certain indirect, non-income tax payments that are not recorded in
+Provision for income taxes
+in the Consolidated Statement of Income.
+Income Taxes
+The Company is subject to the income tax laws of the U.S. and its states and municipalities, as well as the non-U.S. jurisdictions in which it operates. These tax laws are complex and may be subject to different interpretations by the taxpayer and the relevant governmental taxing authorities. In establishing a provision for income tax expense, the Company must make judgments and interpretations about these tax laws. The Company must also make estimates about when in the future certain items will affect taxable income in the various tax jurisdictions, both domestic and foreign.
+Disputes over interpretations of the tax laws may be subject to review and adjudication by the court systems of the various tax jurisdictions, or may be settled with the taxing authority upon examination or audit. The Company treats interest and penalties on income taxes as a component of
+Income tax expense
+.
+Deferred taxes are recorded for the future consequences of events that have been, or will be, recognized in financial statements or tax returns in different

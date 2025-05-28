@@ -1,0 +1,50 @@
+Statements for information regarding our derivative financial instruments.
+Interest Rate Risk
+Short-Term Investments and Fixed Income Securities
+At November 29, 2024, we had debt securities classified as short-term investments of $273 million. Changes in interest rates could adversely affect the market value of these investments. A sensitivity analysis was performed on our short-term investment portfolio as of November 29, 2024, based on an estimate of the hypothetical changes in market value of the portfolio that would result from an immediate parallel shift in the yield curve. A 150 basis point increase in interest rates would lead to a $1 million decrease in the market value of our short-term investments. Conversely, a 150 basis point decrease in interest rates would lead to a $1 million increase in the market value of our short-term investments.
+Senior Notes
+As of November 29, 2024, we had $5.65 billion of senior notes outstanding which bear interest at fixed rates, and therefore do not subject us to financial statement risk associated with changes in interest rates. As of November 29, 2024, the total carrying amount of our senior notes was $5.63 billion and the related fair value based on observable market prices in less active markets was $5.51 billion.
+See Note 17 of our Notes to Consolidated Financial Statements for information regarding our senior notes.
+52
+Table of Contents
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the Consolidated Financial Statements and Notes thereto.
+53
+Table of Contents
+ADOBE INC.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except par value)
+See accompanying Notes to Consolidated Financial Statements.
+54
+Table of Contents
+ADOBE INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share data)
+See accompanying Notes to Consolidated Financial Statements.
+55
+Table of Contents
+ADOBE INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In millions)
+See accompanying Notes to Consolidated Financial Statements.
+56
+Table of Contents
+ADOBE INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(In millions)
+See accompanying Notes to Consolidated Financial Statements.
+57
+Table of Contents
+ADOBE INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+See accompanying Notes to Consolidated Financial Statements.
+58
+Table of Contents
+ADOBE INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1.
+BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+Operations
+Adobe is a global technology company with a mission to change the world through personalized digital experiences. For over four decades, Adobe’s innovations have transformed how individuals, teams, businesses, enterprises, institutions, and governments engage and interact across all

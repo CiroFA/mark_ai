@@ -1,0 +1,24 @@
+FINANCIAL STATEMENTS
+The funding levels of all qualified pension plans are in compliance with standards set by applicable law or regulation. As shown in the table below, certain smaller U.S. pension plans and a number of non-U.S. pension plans are not funded because local applicable tax rules and regulatory practices do not encourage funding of these plans. All defined benefit pension obligations, regardless of the funding status of the underlying plans, are fully supported by the financial strength of the Corporation or the respective sponsoring affiliate.
+The authoritative guidance for defined benefit pension and other postretirement plans requires an employer to recognize the overfunded or underfunded status of a defined benefit postretirement plan as an asset or liability in its Consolidated Balance Sheet and to recognize changes in that funded status in the year in which the changes occur through other comprehensive income.
+103
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The long-term expected rate of return on funded assets shown below is established for each benefit plan by developing a forward-looking, long-term return assumption for each asset class, taking into account factors such as the expected real return for the specific asset class and inflation. A single, long-term rate of return is then calculated as the weighted-average of the target asset allocation percentages and the long-term return assumption for each asset class.
+Costs for defined contribution plans were $
+415
+million, $
+383
+million, and $
+365
+million in 2024, 2023, and 2022, respectively.
+104
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+A summary of the change in accumulated other comprehensive income is shown in the table below:
+The Corporation’s investment strategy for benefit plan assets reflects a long-term view, a careful assessment of the risks inherent in plan assets and liabilities, and broad diversification to reduce the risk of the portfolio. The benefit plan assets are primarily invested in passive global equity and local currency fixed income index funds to diversify risk while minimizing costs. The equity funds hold ExxonMobil stock only to the extent necessary to replicate the relevant equity index. The fixed income funds are largely invested in investment-grade corporate and government debt securities with interest rate sensitivity designed to approximate the interest rate sensitivity of plan liabilities.
+Target asset allocations for benefit plans are reviewed periodically and set based on considerations such as risk, diversification, liquidity, and funding level. The target asset allocations for the major benefit plans range from
+15
+to
+40
+percent in equity securities and the remainder in fixed income securities. The equity allocation for the U.S. plan includes a target allocation of
+10
+percent to limited partnerships that focus on the venture capital, growth and buyout sectors of the private equity market. Certain non-U.S. plans include small allocations to

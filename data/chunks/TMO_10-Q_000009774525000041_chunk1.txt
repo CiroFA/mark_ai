@@ -1,142 +1,40 @@
-SEC.gov | File Unavailable
-Skip to Main Content
-U.S. Securities and
-Exchange Commission
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
-About
-What We Do
-Commissioners
-Securities Laws
-SEC Docket
-Reports and Publications
-Careers
-Contact
-Divisions
-Corporation Finance
-Enforcement
-Investment Management
-Economic and Risk Analysis
-Trading and Markets
-National Exam Program
-All Divisions and Offices
-Enforcement
-Litigation Releases
-Administrative Proceedings
-Opinions and Adjudicatory Orders
-Accounting and Auditing
-Trading Suspensions
-How Investigations Work
-Administrative Law Judges
-Regulation
-Proposed Rules
-Final Rules
-Interim Final Temporary Rules
-Other Orders and Notices
-Self-Regulatory Organizations
-Staff Interpretations
-Education
-Investor.gov
-Check Out a Broker or Adviser
-Investor Alerts and Bulletins
-Fast Answers
-File a Tip or Complaint
-Publications
-Filings
-EDGAR Search Tools
-Company Filings Search
-How to Search EDGAR
-Requesting Public Documents
-Forms List
-Information for Filers
-About EDGAR
-News
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-What's New
-Events
-Webcasts
-Special Studies
-Good-Bye! (Leaving the SEC Website)
-This page is temporarily unavailable.
-Please check back again soon. We regret any inconvenience, and we thank you for your interest in the SEC website.
-If the problem persists, please let us know at
-webmaster@sec.gov
-.
-Modified: Sept. 11, 2015
-STAY CONNECTED
-1
-Twitter
+QUARTERLY REPORT ON FORM 10-Q
+FOR THE QUARTER ENDED MARCH 29, 2025
 2
-Facebook
+THERMO FISHER SCIENTIFIC INC.
+PART I    FINANCIAL INFORMATION
+Item 1.    Financial Statements
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
 3
-RSS
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
 4
-YouTube
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
 5
-Flickr
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
 6
-LinkedIn
+THERMO FISHER SCIENTIFIC INC.
+CONDENSED CONSOLIDATED STATEMENTS OF REDEEMABLE NONCONTROLLING INTEREST AND EQUITY
+(Unaudited)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
 7
-Pinterest
-8
-Email Updates
-Site Map
-Accessibility
-Contracts
-Privacy
-Inspector General
-Agency Financial Report
-Budget & Performance
-Careers
-Contact
-FOIA
-No FEAR Act & EEO Data
-Whistleblower Protection
-Votes
-Open Government
-Plain Writing
-Links
-Investor.gov
-USA.gov
-U.S. Securities and Exchange Commission
-ABOUT
-DIVISIONS
-ENFORCEMENT
-REGULATION
-EDUCATION
-FILINGS
-NEWSROOM
-Newsroom
-Press Releases
-Public Statements
-Speeches
-Testimony
-Spotlight Topics
-Media Kit
-Events
-Webcasts
-What's New
-Special Studies
-RSS Feeds
-Press Releases
-Public Statements
-Speeches
-Testimony
-Litigation Releases
-Social Media
-@SEC_News
-SEC Channel
-SEC Photostream
-View All Social Media
-SEC.gov Search Form
-Search SEC.gov
-Company Filings
-|
-More Search Options
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1.
+Nature of Operations and Summary of Significant Accounting Policies
+Nature of Operations
+Thermo Fisher Scientific Inc. (the company or Thermo Fisher) enables customers to make the world healthier, cleaner and safer by helping them accelerate life sciences research, solve complex analytical challenges, increase laboratory productivity, and improve patient health through diagnostics and the development and manufacture of life-changing therapies. Markets served include pharmaceutical and biotech, academic and government, industrial and applied, as well as healthcare and diagnostics.
+Interim Financial Statements
+The interim condensed consolidated financial statements presented herein have been prepared by the company, are unaudited and, in the opinion of management, reflect all adjustments of a normal recurring nature necessary for a fair statement of the financial position at March 29, 2025, the results of operations for the three-month periods ended March 29, 2025 and March 30, 2024, and the cash flows for the three-month periods ended March 29, 2025 and March 30, 2024. Interim results are not necessarily indicative of results for a full year.
+The condensed consolidated balance sheet presented as of December 31, 2024, has been derived from the audited consolidated financial statements as of that date. The condensed consolidated financial statements and notes are presented as permitted by Form 10-Q and do not contain all information that is included in the annual financial statements and notes thereto of the company. The condensed consolidated financial statements and notes included in this report should be read in conjunction with the 2024 financial statements and notes included in the company’s Annual Report on Form 10-K filed with the Securities and

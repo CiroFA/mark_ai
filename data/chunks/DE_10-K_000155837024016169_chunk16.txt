@@ -1,0 +1,22 @@
+operations have interest rate and foreign currency exposure between (a) the receivable or lease portfolio and (b) how those portfolios are funded. We also have foreign currency exposures at some of our foreign and domestic operations related to buying, selling, and financing in currencies other than the functional currencies. In addition, we have interest rate and foreign currency exposure at certain equipment operations units for sales incentive programs.
+All derivatives are recorded at fair value on the consolidated balance sheets. Cash collateral received or paid is not offset against the derivative fair values on the balance sheets. The cash flows from the derivative contracts are recorded in operating activities in the statements of consolidated cash flows. Each derivative is designated as a cash flow hedge, fair value hedge, or remains undesignated.
+Changes in the fair value of derivatives are recorded as follows:
+All designated hedges are formally documented as to the relationship with the hedged item as well as the risk-management strategy. Both at inception and on an ongoing basis, the hedging instrument is assessed for its effectiveness. If and when a derivative is determined not to be highly effective as a hedge, the underlying hedged transaction is no longer likely to occur, the hedge designation is removed, or the derivative is terminated, hedge accounting is discontinued (see Note 26).
+Foreign Currency Translation
+The functional currencies for most of our foreign operations are their respective local currencies. The assets and liabilities of these operations are translated into U.S. dollars using the exchange rates at the end of the period. The revenues and expenses are translated at weighted-average rates for the period. The gains or losses from these translations are recorded in OCI.
+Foreign currency gains or losses and foreign exchange components of derivative contracts are included in net income, with trade flow activity recorded in “Cost of sales,” sales incentive activity recorded in “Net sales,” and all other activity recorded in “Other operating expenses.” The pretax net loss for foreign exchange in 2024, 2023, and 2022 was $
+63
+, $
+159
+, and $
+175
+, respectively.
+​
+New Accounting Pronouncements Adopted
+We closely monitor all Accounting Standard Updates (ASUs) issued by the Financial Accounting Standards Board (FASB) and other authoritative guidance. We adopted the following standards in 2024, none of which had a material effect on our consolidated financial statements:
+​
+​
+Accounting Pronouncements to be Adopted
+In November 2024, the FASB issued ASU
+2024-03
+, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which expands disclosures about specific expense categories presented on the face of the income statement. The effective date of the ASU is fiscal year 2028. We are assessing the effect of this update on our related

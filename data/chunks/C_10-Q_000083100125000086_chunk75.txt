@@ -1,0 +1,38 @@
+Financial Statements.
+100
+This page intentionally left blank.
+101
+102
+(1)
+Includes balances related to the FDIC special assessment and restructuring charges (see Notes 17 and 9, respectively).
+(2)
+Includes net cash paid (received) for purchases and sales of nonrefundable, transferable tax credits.
+(3)
+Operating and finance lease right-of-use assets and lease liabilities represent non-cash investing and financing activities, respectively, and are not included in the non-cash investing activities presented here. See Note 26 for more information and balances as of March 31, 2025.
+The Notes to the Consolidated Financial Statements are an integral part of these Unaudited Consolidated Financial Statements.
+103
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+1.
+BASIS OF PRESENTATION, UPDATED ACCOUNTING POLICIES AND ACCOUNTING CHANGES
+Basis of Presentation
+The accompanying unaudited Consolidated Financial Statements as of March 31, 2025 and for the three months ended March 31, 2025 and 2024 include the accounts of Citigroup Inc. and its consolidated subsidiaries.
+In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation have been reflected. The accompanying unaudited Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and related notes included within Citigroup’s Annual Report on Form 10-K for the year ended December 31, 2024 (2024 Form 10-K).
+Certain financial information that is usually included in annual financial statements prepared in accordance with U.S. generally accepted accounting principles (GAAP), but is not required for interim reporting purposes, has been condensed or omitted.
+Management must make estimates and assumptions that affect the Consolidated Financial Statements and the related footnote disclosures. While management uses its best judgment, actual results could differ from those estimates.
+As noted above, the Notes to these Consolidated Financial Statements are unaudited.
+Throughout these Notes, “Citigroup,” “Citi” and “the Company” refer to Citigroup Inc. and its consolidated subsidiaries.
+Certain reclassifications and updates have been made to the prior periods’ financial statements and notes to conform to the current period’s presentation.
+Cash equivalents are defined as those amounts included in
+Cash and due from banks
+and predominately all of
+Deposits with banks
+. Cash flows from risk management activities are classified in the same category as the related assets and liabilities. Amounts included in
+Cash and due from banks
+and
+Deposits with banks
+approximate fair value.
+ACCOUNTING CHANGES
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+In November 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+, intended to improve reportable segments

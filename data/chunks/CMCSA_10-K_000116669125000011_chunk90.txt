@@ -1,0 +1,17 @@
+Level 3: Values are determined using models that use significant inputs that are primarily unobservable, discounted cash flow methodologies or similar techniques, as well as instruments for which the determination of fair value requires significant management judgment or estimation.
+We use this three-tier fair value hierarchy to measure the fair value of certain financial instruments on a recurring basis, such as for investments (see Note 7); on a non-recurring basis, such as for acquisitions and impairment testing (see Note 9); and for disclosure purposes, such as for debt (see Note 6). Our assessment of the significance of a particular input to the fair value measurement requires judgment and may affect the valuation and classification within the fair value hierarchy.
+Table of Contents
+Comcast Corporation
+Recent Accounting Pronouncements
+Income Tax Disclosures
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued updated accounting guidance related to income tax disclosures. The updated accounting guidance, among other things, requires additional disclosure primarily related to the income tax rate reconciliation and income taxes paid. We will adopt the updated accounting guidance in our Annual Report on Form 10-K for the year ending December 31, 2025.
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued updated accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning in our Annual Report on Form 10-K for the year ending December 31, 2027.
+We are a global media and technology company with
+five
+segments: Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios and Theme Parks. Our segments align to our primary business operations and how our
+Chairman and Chief Executive Officer
+, the chief operating decision maker, reviews our operating results. See
+Note 3 for a description of the various products and services within each segment.
+Our segments generally report transactions with one another as if they were stand-alone businesses in accordance with GAAP, and these transactions are eliminated in consolidation. When multiple segments enter into transactions to provide products and services to third parties, revenue is generally allocated to our segments based on relative value. Transactions between our segments generally include intercompany profit consistent with third-party transactions. The Residential Connectivity & Platforms and the Business Services Connectivity segments use certain shared infrastructure, including our network in the United States, and each segment is presented with its direct costs and an allocation of shared costs, as well as revenue from its customers.
+Our financial data by segment is presented in the tables below. We do not present

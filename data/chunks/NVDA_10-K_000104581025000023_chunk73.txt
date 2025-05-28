@@ -1,0 +1,16 @@
+address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive.
+Revenue for fiscal year 2025 was $130.5 billion, up 114% from a year ago.
+Data Center revenue for fiscal year 2025 was up 142% from a year ago. The strong year-on-year growth was driven by demand for our Hopper architecture accelerated computing platform used for large language models, recommendation engines, and generative AI applications. We began shipping production systems of the Blackwell architecture in the fourth quarter of fiscal year 2025.
+Gaming revenue for fiscal year 2025 was up 9% from a year ago, driven by sales of our GeForce RTX 40 Series GPUs.
+Professional Visualization revenue for fiscal year 2025 was up 21% from a year ago, driven by the continued ramp of Ada RTX GPU workstations for use cases such as generative AI-powered design, simulation, and engineering.
+Automotive revenue for fiscal year 2025 was up 55% from a year ago, driven by sales of our self-driving platforms.
+Gross margin increased in fiscal year 2025 driven by a higher mix of Data Center revenue.
+Operating expenses for fiscal year 2025 were up 45% from a year ago, driven by higher compensation and benefits expenses due to employee growth and compensation increases, and engineering development, compute and infrastructure costs for new product introductions.
+Critical Accounting Estimates
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. Critical accounting estimates are those estimates that involve a significant level of estimation uncertainty and could have a material impact on our financial condition or results of operations. We have critical accounting estimates in the areas of inventories, income taxes, and revenue recognition. Refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for a summary of significant accounting policies.
+Inventories
+We charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to excess quantities of products or components, based on our inventory levels and future product purchase
+38
+Table of Contents
+commitments compared to assumptions about future demand and market conditions, which requires management judgment.
+Situations that may result in excess or obsolete inventory or excess product purchase commitments include changes in business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our products,

@@ -1,0 +1,30 @@
+InterSystems Corporation, among others. Moreover, we or our competitors may take certain strategic actions—including acquisitions, partnerships and joint ventures or repositioning of product lines—which invite even greater competition in one or more product offering categories.
+Key competitive factors in each of the segments in which we currently compete and may compete in the future include: total cost of ownership, performance, scalability, reliability, security, functionality, efficiency, ease of use, speed to production and quality of technical support. Our products and services sales and the relative strength of our products and services versus those of our competitors are also directly and indirectly affected by the following, among other factors:
+16
+Table of Contents
+Index to Financial Statements
+•
+market adoption of cloud-based IT offerings, including SaaS and cloud infrastructure offerings;
+•
+the ease of deployment, use, transacting for and maintenance of our products and services offerings;
+•
+compatibility between Oracle products and services deployed within local IT environments and public cloud IT environments, including our Oracle Cloud environments;
+•
+the adoption of commodity servers and microprocessors;
+•
+the broader “platform” competition between our industry standard Java technology platform and the .NET programming environment of Microsoft;
+•
+operating system competition among our Oracle Solaris and Linux operating systems, with alternatives including Microsoft’s Windows Server and other UNIX and Linux operating systems;
+•
+the adoption of open source alternatives to commercial software by enterprise software customers;
+•
+products, features and functionality developed internally by customers and their IT staff;
+•
+products, features and functionality customized and implemented for customers by consultants, systems integrators or other third parties; and
+•
+the attractiveness of offerings from business processing outsourcers.
+For more information about the competitive risks we face, refer to Item 1A Risk Factors included elsewhere in this Annual Report.
+Governmental Regulation
+We operate globally and are subject to numerous U.S. federal, state and foreign laws and regulations covering a wide variety of subject matters. For information about governmental regulations applicable to our business, refer to Item 1A Risk Factors included elsewhere in this Annual Report.
+Available Information
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed pursuant to Sections 13(a) and 15(d) of the Exchange Act are available, free of charge, on the SEC website at www.sec.gov and our Investor Relations website at www.oracle.com/investor as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the SEC. We use our Investor Relations website as a means of disclosing material non-public information. Accordingly, investors should

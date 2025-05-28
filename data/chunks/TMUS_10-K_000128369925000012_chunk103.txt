@@ -1,0 +1,15 @@
+tax asset depends on the ability to generate sufficient taxable income of the appropriate character and in the appropriate taxing jurisdictions within the carryforward periods available.
+We account for uncertainty in income taxes recognized on our consolidated financial statements in accordance with the accounting guidance for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. We assess whether it is more likely than not that a tax position will be sustained upon examination based on the technical merits of the position and adjust the unrecognized tax benefits in light of changes in facts and circumstances, such as changes in tax law, interactions with taxing authorities and developments in case law.
+Other Comprehensive Income
+Other comprehensive income primarily consists of adjustments, net of tax, related to reclassification of loss from cash flow hedges, fair value hedges, foreign currency translation, pension and other postretirement benefits. This is reported in Accumulated other comprehensive loss as a separate component of stockholders’ equity until realized in earnings.
+Stock-Based Compensation
+Stock-based compensation expense for stock awards, which include restricted stock units (“RSUs”) and performance-based restricted stock units (“PRSUs”), is measured at fair value on the grant date and recognized as expense, net of expected forfeitures, over the related service period. The fair value of stock awards is based on the closing price of our common stock on the date of grant, adjusted for expected dividend yield. RSUs are recognized as expense using the straight-line method. PRSUs are recognized as expense following a graded vesting schedule with their performance reassessed and updated on a quarterly basis, or more frequently as changes in facts and circumstances warrant.
+Stockholder Return Programs
+On September 8, 2022, our Board of Directors authorized a stock repurchase program for up to $
+14.0
+billion of our common stock through September 30, 2023 (the “2022 Stock Repurchase Program”). On September 6, 2023, our Board of Directors authorized a stockholder return program of up to $
+19.0
+billion through December 31, 2024 (the “2023-2024 Stockholder Return Program”). The 2023-2024 Stockholder Return Program consisted of additional repurchases of shares of our common stock and the payment of cash dividends. On December 13, 2024, we announced that our Board of Directors authorized our 2025 Stockholder Return Program of up to $
+14.0
+billion that will run through December 31, 2025 (“2025 Stockholder Return Program”). The 2025 Stockholder Return Program is expected to consist of additional repurchases of shares of our common stock and the payment of cash dividends. The amount available under the 2025 Stockholder Return Program for share repurchases will be reduced by the amount of any cash dividends declared and paid by us.
+The cost of repurchased shares, including equity

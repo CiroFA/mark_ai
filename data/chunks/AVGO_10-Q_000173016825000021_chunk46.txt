@@ -1,0 +1,31 @@
+likely to fluctuate in the future. These fluctuations may occur on a quarterly and annual basis and are due to a number of factors, many of which are beyond our control. In addition to many of the risks described elsewhere in this “Risk Factors” section, these factors include, among others:
+•
+the timing of launches by our customers of new products in which our products are included and changes in end-user demand for our customers’ products;
+•
+fluctuations in the levels of component or product inventories held by our customers, which may lead to increased requests to delay shipment of our semiconductor products;
+•
+the shift to cloud-based IT solutions and services, such as hyperscale computing, which may adversely affect the timing and volume of sales of our semiconductor products for use in traditional enterprise data centers;
+39
+Tab
+le of Contents
+•
+the timing and extent of our software license and subscription revenue, and other non-product revenue;
+•
+the timing of new software contracts and renewals, including the timing of software contracts that do not have termination for convenience clauses;
+•
+the timing of any terminations of software contracts that require us to refund to customers any pre-paid amounts under the contract;
+•
+the timing of contracts with distributors and channel partners to lead go-to-market and customer relationships for certain products;
+•
+our ability to timely develop, introduce and market new products and technologies;
+•
+new product announcements and introductions by us or our competitors;
+•
+seasonality or other fluctuations in demand in our markets;
+•
+timing and amount of research and development and related new product expenditures, and the timing of receipt of any research and development grant monies; and
+•
+timing of any regulatory changes, particularly with respect to trade sanctions and customs duties and tariffs, and tax reform, or changes in the interpretation or enforcement of existing requirements.
+The foregoing factors are often difficult to predict, and these, as well as other factors, could materially adversely affect our quarterly or annual operating results. In addition, a significant amount of our operating expenses are relatively fixed in nature. Any failure to adjust spending quickly enough to compensate for a revenue shortfall could magnify the adverse impact of such revenue shortfall on our results of operations. As a result, we believe that quarter-to-quarter comparisons of our revenue and operating results may not be meaningful or reliable indicators of our future performance. If our operating results in one or more future quarters fail to meet the expectations of securities analysts or investors, a significant decline in the trading price of our common stock may occur, which may happen immediately or over time.
+Competition in our industries could prevent us from growing our revenue.
+The industries in which we operate are highly competitive and characterized by rapid technological changes,

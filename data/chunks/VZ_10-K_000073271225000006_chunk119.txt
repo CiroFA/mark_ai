@@ -1,0 +1,16 @@
+customer in advance of receiving all or partial consideration for such goods and services from the customer, or the customer has made payment to Verizon in advance of obtaining control of the goods and/or services promised to the customer in the contract.
+The following table presents information about receivables from contracts with customers:
+(1)
+Balances do not include receivables related to the following: activity associated with certain vendor agreements, leasing arrangements (such as those for towers and equipment), captive reinsurance arrangements primarily related to wireless device insurance and device payment plan agreement receivables presented separately.
+(2)
+Included in device payment plan agreement receivables presented in Note 8. Receivables derived from the sale of equipment on a device payment plan through an authorized agent are excluded.
+Contract assets primarily relate to our rights to consideration for goods or services provided to customers but for which we do not have an unconditional right at the reporting date. Under a fixed-term plan, total contract revenue is allocated between wireless service and equipment revenues. In conjunction with these arrangements, a contract asset is created, which represents the difference between the amount of equipment revenue recognized upon sale and the amount of consideration received from the customer when the performance obligation related to the transfer of control of the equipment is satisfied. The contract asset is reclassified to accounts receivable as wireless services are provided and billed. We have the right to bill the customer as service is provided over time, which results in our right to the payment being unconditional. The contract asset balances are presented in our consolidated balance sheets as Prepaid expenses and other and Other assets. We recognize the allowance for credit losses at inception and reassess quarterly based on management's expectation of the asset's collectability.
+Contract assets increased $
+128
+million during the year ended December 31, 2024. The change in contract assets was primarily due to new contracts and increases in sales promotions recognized upfront, driven by customer activity related to wireless and Fios services. These items were partially offset by reclassifications to accounts receivable due to billings on existing contracts and impairment charges of $
+53
+million.
+Contract liabilities arise when we bill our customers and receive consideration in advance of providing the goods or services promised in the contract. We typically bill service one month in advance, which is the primary component of the contract liability balance. Contract liabilities are recognized as revenue when services are provided to the customer. The contract liability balances are presented in our consolidated balance sheets as Other current liabilities and Other liabilities.
+Contract liabilities increased $
+776
+million during the year ended December 31, 2024. The change

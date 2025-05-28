@@ -1,0 +1,18 @@
+options, and forward contracts. The company applies cash flow hedge accounting to certain commodity transactions, where appropriate, to manage the market price risk associated with forecasted sales of crude oil. The company’s derivatives are not material to the company’s financial position, results of operations or liquidity. The company believes it has no material market or credit risks to its operations, financial position or liquidity as a result of its commodity derivative activities.
+The company uses derivative commodity instruments traded on the New York Mercantile Exchange and on electronic platforms of the Inter-Continental Exchange and Chicago Mercantile Exchange. In addition, the company enters into swap contracts and option contracts principally with major financial institutions and other oil and gas companies in the “over-the-counter” markets, which are governed by International Swaps and Derivatives Association agreements and other master netting arrangements. Depending on the nature of the derivative transactions, bilateral collateral arrangements may also be required.
+Derivative instruments measured at fair value at December 31, 2024, 2023 and 2022, and their classification on the Consolidated Balance Sheet and Consolidated Statement of Income are as follows:
+Consolidated Balance Sheet: Fair Value of Derivatives
+78
+Consolidated Statement of Income: The Effect of Derivatives
+The amount reclassified from AOCL to “Sales and other operating revenues” from designated hedges was a net loss of $
+25
+in 2024, compared with a net loss of $
+33
+in the prior year. At December 31, 2024, before-tax deferred losses in AOCL related to outstanding crude oil price hedging contracts were $
+17
+, all of which is expected to be reclassified into earnings during the next 12 months as the hedged crude oil sales are recognized in earnings.
+The table below represents gross and net derivative assets and liabilities subject to netting agreements on the Consolidated Balance Sheet at December 31, 2024 and 2023.
+Consolidated Balance Sheet: The Effect of Netting Derivative Assets and Liabilities
+Derivative assets and liabilities are classified on the Consolidated Balance Sheet as “Accounts and notes receivable,” “Long-term receivables,” “Accounts payable,” and “Deferred credits and other noncurrent obligations.” Amounts not offset on the Consolidated Balance Sheet represent positions that do not meet all the conditions for “a right of offset.”
+Concentrations of Credit Risk
+The company’s financial instruments that are exposed to concentrations of credit risk consist primarily of its cash equivalents, marketable securities, derivative financial instruments and trade receivables. The company’s short-term investments are placed with a wide array of financial institutions with high credit ratings. Company investment policies limit the company’s exposure both to credit risk and to concentrations of credit risk. Similar policies on diversification and creditworthiness

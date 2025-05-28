@@ -1,0 +1,106 @@
+0000100885
+us-gaap:SubsequentEventMember
+2025-04-01
+2025-04-23
+0000100885
+us-gaap:TreasuryStockCommonMember
+2025-02-18
+2025-02-18
+0000100885
+us-gaap:AdditionalPaidInCapitalMember
+2025-02-18
+2025-02-18
+0000100885
+unp:TTXCompanyMember
+unp:UPRRMember
+2025-03-31
+0000100885
+unp:TTXCompanyMember
+unp:UPRRMember
+2024-12-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2025-01-01
+2025-03-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2024-01-01
+2024-03-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2025-03-31
+0000100885
+us-gaap:EquityMethodInvesteeMember
+unp:UPRRMember
+2024-12-31
+0000100885
+unp:KennyG.RockerMember
+2025-01-01
+2025-03-31
+0000100885
+unp:KennyG.RockerMember
+2025-03-31
+0000100885
+unp:JenniferL.HamannMember
+2025-01-01
+2025-03-31
+0000100885
+unp:JenniferL.HamannMember
+2025-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+For the quarterly period ended
+March 31, 2025
+OR
+For the transition period from __________ to ____________
+Commission File Number
+1-6075
+UNION PACIFIC CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+(
+402
+)
+544-5000
+(Registrant’s telephone number, including area code)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☑
+Yes
+☐
+No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☑
+Yes
+☐
+No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐
+Yes
+☑
+No
+As of April 17, 2025, there were
+597,475,610
+shares of the Registrant's Common Stock outstanding.
+Table of
+Contents
+TABLE OF CONTENTS
+UNION PACIFIC CORPORATION
+AND SUBSIDIARY COMPANIES
+2
+Table of
+Contents
+PART I. FINANCIAL INFORMATION
+Item 1. Condensed Consolidated Financial Statements
+Condensed Consolidated Statements of Income (Unaudited)
+Union Pacific

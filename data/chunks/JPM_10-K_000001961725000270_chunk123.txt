@@ -1,0 +1,19 @@
+Firmwide resiliency framework that is intended to enable it to prepare for and adapt to changing conditions and withstand and recover from, and address any adverse effects on its operations caused by, disruptions that may impact critical business functions and supporting assets, including its staff, technology, data and facilities and those of third-party service providers.
+Although not every form of disruption can be anticipated or defended against, JPMorganChase
+Part I
+strives for resiliency or recovery in a range of scenarios in the event of a disruption, including due to the occurrence of an extraordinary event beyond its control. There can be no assurance that JPMorganChase’s Firmwide resiliency framework will fully mitigate all potential resiliency risks to JPMorganChase, its clients, and customers and third parties with which it does business, or that its resiliency framework will be adequate to address the effects of simultaneous occurrences of multiple or extended disruption events. In addition, JPMorganChase’s ability to respond effectively to a  disruption event could be hampered to the extent that the members of its workforce, physical assets,  systems and other support infrastructure, or those of its third-party service providers, that are needed to address the event are geographically dispersed, or conversely, if such an event were to occur in an area in which they are concentrated. Further, should extraordinary events or the factors that cause or contribute to those events become more chronic, the disruptive effects of those events on JPMorganChase’s business and operations, and on its clients, customers, counterparties and employees, could become more significant and long-lasting.
+Any significant failure or disruption of JPMorganChase’s operations or operational systems, or the occurrence of one or more extraordinary events that are beyond its control, could:
+•
+hinder JPMorganChase’s ability to provide services to its clients and customers or to transact with its counterparties
+•
+require it to expend significant resources to correct the failure or disruption or to address the event
+•
+cause it to incur losses or liabilities, including from loss of revenue, damage to or loss of property, or injuries
+•
+disrupt market infrastructure systems on which JPMorganChase’s businesses rely
+•
+expose it to litigation or regulatory fines, penalties or other sanctions, and
+•
+harm its reputation.
+The occurrence of one or more extraordinary events could also negatively impact the financial condition or creditworthiness of JPMorganChase’s clients and customers, and could lead to an increase in delinquencies, additions to the allowance for credit losses and higher net charge-offs, which can reduce JPMorganChase’s earnings.
+Data quality is essential to JPMorganChase’s business and operations, and if JPMorganChase fails to maintain adequate data management processes, this could adversely affect its ability to effectively manage its businesses, comply

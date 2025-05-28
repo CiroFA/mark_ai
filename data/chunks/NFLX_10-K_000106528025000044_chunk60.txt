@@ -1,0 +1,16 @@
+Disaggregation of Income Statement Expenses
+, requiring public entities to disclose additional information about specific expense categories in the notes to the financial statements on an interim and annual basis.  ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods beginning after December 15, 2027, with early adoption permitted.  The Company is currently evaluating the impact of adopting ASU 2024-03.
+Recently adopted accounting pronouncements
+In November 2023, the FASB issued ASU 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+, requiring public entities to disclose information about their reportable segments’ significant expenses and other segment items on an interim and annual basis.  Public entities with a single reportable segment are required to apply the disclosure requirements in ASU 2023-07, as well as all existing segment disclosures and reconciliation requirements in ASC 280 on an interim and annual basis.  The Company adopted ASU 2023-07 during the year ended December 31, 2024.  See Note 12
+Segment and Geographic Information
+in the accompanying notes to the consolidated financial statements for further detail.
+Cash Equivalents and Short-term Investments
+The Company considers investments in instruments purchased with an original maturity of 90 days or less to be cash equivalents. The Company also classifies amounts in transit from payment processors for customer credit card and debit card transactions that it expects to settle within several days as cash equivalents.
+The Company classifies short-term investments, which consist of marketable securities with original maturities in excess of 90 days as available-for-sale. Short-term investments are reported at fair value, with allowances for credit losses included in “Interest and other income (expense)” in the Consolidated Statements of Operations and unrealized gains and losses included in “Accumulated other comprehensive income (loss)” within Stockholders’ equity in the Consolidated Balance Sheets. The Company uses the specific identification method to determine cost in calculating realized gains and losses upon the sale of short-term investments.
+42
+Table of Contents
+Short-term investments are reviewed periodically for allowances for credit losses and impairment. When evaluating the investments, the Company reviews factors such as the extent to which the fair value of the security is less than the amortized cost basis, adverse conditions specifically related to the security, the financial condition of the issuer, the Company’s intent to sell, and whether it would be more likely than not that the Company would be required to sell the investments before the recovery of their amortized cost basis.
+Content
+The Company acquires, licenses and produces content, including original programming, in order to offer members unlimited viewing of video entertainment.  The content licenses are for a fixed fee and

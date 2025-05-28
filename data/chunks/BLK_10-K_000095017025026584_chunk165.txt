@@ -1,0 +1,24 @@
+in the future. This allowance will result in additional income tax expense. Further, the Company records its income taxes receivable and payable based upon its estimated income tax position.
+Earnings per Share (“EPS”)
+. Basic EPS is calculated by dividing net income applicable to common shareholders by the weighted-average number of shares outstanding during the period. Diluted EPS includes the determinants of basic EPS and common stock equivalents outstanding during the period. Diluted EPS is computed using the treasury stock method.
+Business Segments
+. The Company’s management directs BlackRock’s operations as
+one
+business, the asset management business. The Company utilizes a consolidated approach to assess performance and allocate resources. As such, the Company operates in one business segment.
+Fair Value Measurements
+Hierarchy of Fair Value Inputs.
+The Company uses a fair value hierarchy that prioritizes inputs to valuation approaches used to measure fair value. The fair value hierarchy gives the highest priority to quoted prices (unadjusted) in active markets for identical assets or liabilities and the lowest priority to unobservable inputs. Assets and liabilities measured and reported at fair value are classified and disclosed in one of the following categories:
+Level 1 Inputs:
+Quoted prices (unadjusted) in active markets for identical assets or liabilities at the reporting date.
+•
+Level 1 assets may include listed mutual funds, ETFs, listed equities, commodities and certain exchange-traded derivatives.
+Level 2 Inputs:
+Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities that are not active; quotes from pricing services or brokers for which the Company can determine that orderly transactions took place at the quoted price or that the inputs used to arrive at the price are observable; and inputs other than quoted prices that are observable, such as models or other valuation methodologies.
+•
+Level 2 assets may include debt securities, loans held within consolidated CLOs, short-term floating-rate notes, asset-backed securities, as well as over-the-counter derivatives, including interest rate swaps and foreign currency exchange contracts that have inputs to the valuations that generally can be corroborated by observable market data.
+Level 3 Inputs:
+Unobservable inputs for the valuation of the asset or liability, which may include nonbinding broker quotes. Level 3 assets include investments for which there is little, if any, market activity. These inputs require significant management judgment or estimation.
+•
+Level 3 assets may include direct private equity investments, including those held within CIPs, investments in CLOs and loans held within consolidated CLOs and CIPs.
+•
+Level 3 liabilities may include borrowings of consolidated CLOs and contingent liabilities related to acquisitions valued using the income approach based on unobservable market data, or other

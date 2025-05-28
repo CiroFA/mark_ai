@@ -1,0 +1,44 @@
+1 in the table above were derived from quoted market prices and active markets for these instruments that exist. Our valuation techniques used to measure the fair values of Level 2 instruments listed in the table above were derived from the following: non-binding market consensus prices that were corroborated by observable market data, quoted market prices for similar instruments, or pricing models, such as discounted cash flow techniques, with all significant inputs derived from or corroborated by observable market data including reference rate yield curves, among others.
+Based on the trading prices of the $
+86.5
+billion and $
+89.9
+billion of senior notes and other long-term borrowings and the related fair value hedges (refer to Note 7 for additional information) that we had outstanding as of May 31, 2024 and 2023, respectively, the estimated fair values of the senior notes and other long-term borrowings and the related fair value hedges using Level 2 inputs at May 31, 2024 and 2023 were $
+77.2
+billion and $
+79.9
+billion, respectively.
+5.
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment, net consisted of the following:
+(1)
+Amounts primarily consist of computer equipment to be built and deployed at our data centers.
+83
+Table of Contents
+Index to Financial Statements
+6.
+INTANGIBLE ASSETS AND GOODWILL
+The changes in intangible assets for fiscal 2024 and the net book value of intangible assets as of May 31, 2024 and 2023 were as follows:
+(1)
+Represents weighted-average useful lives (in years) of intangible assets acquired during fiscal 2024.
+As of May 31, 2024, estimated future amortization expenses related to intangible assets were as follows (in millions):
+The changes in the carrying amounts of goodwill, net, which is generally not deductible for tax purposes, for our operating segments for fiscal 2024 and 2023 were as follows:
+(1)
+Amounts include any changes in goodwill balances for the period presented that resulted from foreign currency translations and certain other adjustments.
+84
+Table of Contents
+Index to Financial Statements
+7.
+NOTES PAYABLE AND OTHER BORROWINGS
+Notes payable and other borrowings consisted of the following:
+(1)
+In July 2013, we issued €
+750
+million of 3.125% senior notes due July 2025 (July 2025 Notes). Principal and unamortized discount/issuance costs for the July 2025 Notes in the table above were calculated using foreign currency exchange rates, as applicable, as of May 31, 2024 and May 31, 2023, respectively. The July 2025 Notes are registered and trade on the New York Stock Exchange.
+85
+Table of Contents
+Index to Financial Statements
+(2)
+In fiscal 2018 we entered into certain cross-currency interest rate swap agreements that have the economic effect of converting our fixed-rate, Euro-denominated debt, including annual interest payments and the payment of principal at maturity, to a variable-rate, U.S. Dollar-denominated debt of $
+871
+million based on LIBOR. The effective interest rates as of May 31, 2024

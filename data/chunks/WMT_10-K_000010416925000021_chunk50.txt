@@ -1,0 +1,17 @@
+cybersecurity risks, threats, vulnerabilities and incidents. We collaborate with public and private entities and industry groups and engage third-party service providers to expand the capabilities and capacity of our cybersecurity program when deemed appropriate. Certain key components of our cybersecurity program include the following:
+Protecting our technology and information systems:
+When we implement significant changes to our technologies or information systems, we conduct risk-based security and privacy impact assessments and deploy technical safeguards that are designed to reasonably protect our technology and information systems from cybersecurity threats. We actively monitor and proactively research potential cybersecurity threats to our technologies and information systems. We use what we learn to evolve our security controls over time to mitigate risks posed by such threats.
+Incident response and recovery planning:
+We maintain incident response and recovery plans that address our response to cybersecurity incidents, including incidents that we become aware of at third parties that support our operations. These plans guide how we evaluate and assign incident severity levels and reporting thresholds; escalate and engage incident response teams; and manage and mitigate the related risks.
+Third-party risk management:
+We maintain a risk-based approach to identifying and managing cybersecurity threats presented to Walmart by third-party systems that support our operations, as well as third-party users of our data and systems, including vendors, service providers and subcontractors.
+Training and awareness:
+We provide recurring information security training (which includes cybersecurity training) to our associates and certain third parties based on access, risk, roles, policies, standards and behaviors.
+Assessments and testing:
+We engage in periodic assessment and testing of our policies, standards, processes and practices that are designed to address cybersecurity threats. These efforts include tabletop exercises, threat modeling, vulnerability testing and other exercises focused on evaluating the effectiveness of our cybersecurity measures and planning.
+We regularly engage assessors, consultants, auditors or other third parties to assist with our assessments and testing.
+Where appropriate we adjust our cybersecurity policies, standards, processes and practices accordingly based on internal and external assessment and testing results.
+29
+Certain of Walmart's systems and those of our third-party service providers have experienced cybersecurity incidents and threats.
+Based on the information available as of the date of this Annual Report on Form 10-K, we are not aware of any risks from cybersecurity threats, including as a result of any cybersecurity incidents, which have materially affected us or are reasonably likely to materially affect us, including our business strategy, results of operations, or financial condition.
+Despite our security

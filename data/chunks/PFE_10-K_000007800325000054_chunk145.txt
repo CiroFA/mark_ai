@@ -1,0 +1,24 @@
+the carrying amount. If the carrying amount is greater, we record an impairment loss for the excess of book value over fair value. In addition, we reevaluate the remaining useful lives of the assets and modify them, as appropriate.
+•
+For indefinite-lived intangible assets, such as brands and IPR&D assets, when necessary, we determine the fair value of the asset and record an impairment loss, if any, for the excess of book value over fair value. In addition, in all cases of an impairment review other than for IPR&D assets, we re-evaluate whether continuing to characterize the asset as indefinite-lived is appropriate.
+•
+For goodwill, when necessary, we determine the fair value of each reporting unit and record an impairment loss, if any, for the excess of the book value of the reporting unit over the implied fair value.
+N.
+Restructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives
+We incur restructuring charges in connection with acquisitions when we implement plans to restructure and integrate the acquired operations or in connection with our cost-reduction and productivity initiatives.
+•
+In connection with acquisition activity, we typically incur costs associated with executing the transactions, integrating the acquired operations (which may include expenditures for consulting and the integration of systems and processes), and restructuring the combined company (which may include charges related to employees, assets and activities that will not continue in the combined company); and
+•
+In connection with our cost-reduction/productivity initiatives, we typically incur costs and charges for site closings and other facility rationalization actions, workforce reductions and the expansion of shared services, including the development of global systems.
+Included in
+Restructuring charges and certain acquisition-related costs
+are all restructuring charges, as well as certain other costs associated with acquiring and integrating an acquired company. If the restructuring action results in a change in the estimated useful life of an asset, that incremental impact is classified in
+Cost of sales, Selling, informational and administrative expenses
+and/or
+Research and development expenses
+, as appropriate. Employee termination costs are generally recorded when the actions are probable and estimable and include accrued severance benefits, pension and postretirement benefits, many of which may be paid out during periods after termination.
+Transaction costs, such as banking, legal, accounting and other similar costs incurred in connection with a business acquisition are expensed as incurred
+.
+Our business may be impacted by these actions, including sales and marketing, manufacturing and R&D, as well as our corporate enabling functions.
+O. Cash Equivalents and Statement of Cash Flows
+Cash equivalents include items almost as liquid as cash, such as certificates of deposit and time deposits with maturity periods of

@@ -1,0 +1,29 @@
+detect, respond to, and recover from cybersecurity incidents that impact our company. The program is built on the following pillars:
+•
+NIST Cybersecurity Framework
+-
+Our program is aligned to the National Institute of Standards and Technology’s (NIST) Cybersecurity Framework, which outlines the core components and responsibilities necessary to sustain a healthy and well-balanced cybersecurity program.
+•
+Risk identification
+-
+We continually assess the cybersecurity threat and vulnerability landscape using various commercial, government and publicly available information sources.
+•
+Risk detection
+-
+We use both manual and automated detection methods on a scheduled and ad-hoc basis to identify vulnerabilities within, and threats to, our operations and network infrastructure.
+•
+Risk evaluation
+-
+Once a cybersecurity vulnerability is detected, we assign a threat severity classification based on the risk profile associated with the vulnerability.
+•
+Remediation
+-
+Verizon’s information security team reports all cybersecurity vulnerabilities and their associated threat classification to the appropriate business team for remediation. Deadlines for remediation are set based on the severity of the threat and closely tracked in a central system of record. In the instances when a remediation deadline cannot be met, the information security team and the business team work together to deploy appropriate mitigating or compensating controls until the remediation work is complete.
+•
+Metrics and analysis
+-
+We track the performance of our cybersecurity program by collecting, retaining and analyzing a broad range of data related to our threat identification, detection and response activity. We use this data to assess threat trends, for strategic planning purposes and to enhance management accountability for cybersecurity.
+Our processes for assessing, identifying, and managing cybersecurity risks include tabletop exercises to test and reinforce our incident response controls, control gap analyses, penetration tests, data recovery testing, internal and external security assessments, and threat intelligence monitoring. We also conduct annual cybersecurity and data privacy training, which is mandatory for all our full- and part-time employees.
+In addition to our in-house cybersecurity capabilities, we also engage assessors, consultants and other third parties to assist with various cybersecurity matters. For example,
+Verizon validates enterprise cybersecurity maturity every two years through a third-party maturity assessment.
+This assessment measures Verizon’s ability to identify, prevent, detect, respond to, and recover from threats to systems, assets and data. The results of the assessment serve as the baseline for enterprise cybersecurity across the company. In addition to this baseline, certain subsets of our technology environment are subject to incremental cybersecurity certification and periodic third party validation under applicable regulatory or contractual

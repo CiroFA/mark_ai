@@ -1,0 +1,17 @@
+digital information officer (“CDIO”), who oversees enterprise-wide digital transformation
+•
+Chief information security officer (“CISO”), who oversees the security function and reports to the CCO
+•
+Chief technology officer (“CTO”), who oversees product engineering and advanced technologies
+•
+General Counsel, who oversees the legal and compliance functions
+These individuals, among others, also serve as members of management’s Security Steering Committee (the “Security Committee”), which is a governing body that drives alignment on security decisions across the Company. The Security Committee meets quarterly to review security performance metrics, identify security risks, and assess the status of approved security enhancements. The Security Committee also considers and makes recommendations on security policies and procedures, security service requirements, and risk mitigation strategies.
+Our CCO has served in various roles in information technology and information security for over 20 years, including serving as our Chief Information Officer (“CIO”) and either the Chief Technology Officer or CIO of three other public companies. He holds an undergraduate degree in computer engineering. Our CDIO has served in various roles in information technology for over 20 years, including serving as our Senior Vice President of Digital Technology Experience and in similar senior roles at two other public companies. Our CISO has served in various roles in information technology
+31
+Table of Contents
+and information security for almost 20 years, including serving as the Chief Information Security Officer or Chief Security Officer at two other large public companies. He holds an undergraduate and master’s degree in computer science. Our CTO has served in various roles in information technology for over 25 years and has been with us since 2011. Our General Counsel has over 20 years of experience managing risks, including risks arising from cybersecurity threats, at several large public technology companies.
+32
+Table of Contents
+Our principal office is located in Santa Clara, California, where we lease approximately 972,000 square feet of space under lease agreements for our business operations and product development. We also maintain offices globally. All of our properties are currently leased. We believe our existing facilities are adequate to meet our current requirements. Refer to Note 17 in the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for more information about our lease commitments.
+We are party to certain litigation and other legal proceedings. While legal proceedings are inherently unpredictable and subject to uncertainties, we do not believe that the ultimate resolution of any such proceedings, whether taken individually or in the aggregate, is likely to have a material adverse effect on our business, financial position, results of operations or cash flows.
+For additional information regarding legal

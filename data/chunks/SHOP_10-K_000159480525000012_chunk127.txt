@@ -1,0 +1,44 @@
+of interest receivable (December 31, 2023 - $
+10
+million, December 31, 2022 - $
+3
+million).
+Certain loans and merchant cash advances are facilitated by the Company and originated by a bank partner, from whom the Company then purchases the loans and merchant cash advances obtaining all rights, title and interest or discount. In the year ended December 31, 2024, the Company purchased $
+3.0
+billion of merchant cash advances and loans to Shopify merchants (December 31, 2023 - $
+2.0
+billion). For some loans, the Company sells its full rights, title and interest to third-party investors. We account for the asset transfer as a sale and derecognize the full amount the Company paid to its bank partner to originate the loan and record a gain on sale of the loans sold to the third-party investor as revenue upon transfer of title. In the year ended December 31, 2024, the Company sold $
+212
+million of loans to third-party investors (December 31, 2023 - $
+82
+million).
+In the year ended December 31, 2024, the Company recognized revenue of $
+205
+million related to interest and fees earned on the Company's lending services, which do not represent revenues recognized in the scope of ASC 606, Revenue from Contracts with Customers (December 31, 2023 - $
+147
+million).
+Loans
+The following table summarizes the activities of the Company’s allowance for credit losses related to uncollectible loans receivable:
+97
+Table of Contents
+The following table presents the delinquency status of the gross amount of merchant loans by year of origination. The delinquency status is determined based on the number of days past the contractual or expected repayment date for which the Company anticipates to receive the amounts outstanding. The "current" category represents balances that are within 29 days of the contractual repayment dates, or within 29 days of the expected repayment date.
+The Company maintains an internal monitoring list related to its outstanding loans. A merchant's ability and willingness to repay the financing receivables outstanding under the program is analyzed for a variety of factors that include, but are not limited to current or expected age of the financing, merchant subscription or financing status, merchant GMV trends and other changes to merchant credit profiles.
+Merchant Cash Advances
+The following table summarizes the activities of the Company’s allowance for credit losses related to uncollectible merchant cash advances receivable:
+98
+Table of Contents
+9.
+Other Current Assets
+10.
+Property and Equipment
+(1)
+$
+12
+million of leasehold improvements that were impaired and disposed of in the year ended December 31, 2023. See Note 11 for details.
+During the year ended December 31, 2024, the Company disposed of and retired computer equipment with an original cost of $
+8
+million (December 31, 2023 - $
+6
+million). There was
+no
+material gain or loss recognized in the consolidated statement of operations and comprehensive income (loss) as a result of the retirement and

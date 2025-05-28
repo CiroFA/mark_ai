@@ -1,0 +1,27 @@
+sales motions.
+Corporate Social Responsibility
+Commitment to Sustainability
+Microsoft’s approach to addressing climate change starts with the sustainability of our own business. In 2020, we committed to being a carbon negative, water positive, and zero waste company by 2030.
+Since announcing that commitment, we have seen major changes both in the technology sector and in our understanding of what it will take to meet our climate goals. New technologies, including generative AI, hold promise for new innovations that can help address the climate crisis. At the same time, the infrastructure and electricity needed for these technologies create new challenges for meeting sustainability commitments across the tech sector.
+In May 2024, we released our Environmental Sustainability Report which looked back at our progress in several areas during fiscal year 2023. In four areas we are on track, and in each of these we see progress that has the potential to have global impact beyond our own sustainability work. These are:
+•
+Reducing our direct operational emissions (Scope 1 and 2).
+•
+Accelerating carbon removal.
+•
+Designing for circularity to minimize waste and reusing cloud hardware.
+•
+Improving biodiversity and protecting more land than we use.
+At the same time, there are two areas where we’re not yet on track, and in each of these we are intensively engaged in work to identify and pursue additional breakthroughs. These are:
+•
+Reducing our indirect emissions (Scope 3).
+•
+Reducing our water use and replenishing more water than we consume in our datacenter operations.
+6
+PART I
+Item 1
+Even amid the challenges, we remain optimistic. We’re encouraged by ongoing progress across our campuses and datacenters, and throughout our value chain.
+Addressing Racial Injustice and Inequity
+In June 2020, we outlined a series of multi-year commitments designed to address the racial injustice and inequity experienced by racial and ethnic minorities in the United States, including Black and African American communities. We remain committed to addressing racial injustice and inequity and helping improve lived experiences at Microsoft, in employees’ communities, and beyond.
+In fiscal year 2024, we continued to collaborate with partners and worked within neighborhoods and communities to advance projects and programs. We grew our Nonprofit Tech Acceleration for Black and African American Communities program, to help more than 3,000 local organizations in nearly 1,900 Black and African American communities use technical solutions to modernize and streamline operations. We also expanded our Technology Education and Learning Support (“TEALS”) program to reach nearly 550 high schools across 21 racial equity expansion regions with the support of nearly 1,500 volunteers, 12% of whom identify as Black or African American.
+We have committed $150 million in Minority Depository Institutions and funds supporting Black and African American-owned small businesses. These commitments drive

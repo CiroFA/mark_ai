@@ -1,0 +1,15 @@
+financial and income tax reporting based on enacted tax laws and rates. The Company evaluates tax positions to determine whether the benefits of tax positions are more likely than not of being sustained upon audit based on the technical merits of the tax position. For tax positions that are more likely than not of being sustained upon audit, the Company recognizes the amount of the benefit that is greater than 50% likely of being realized upon ultimate settlement in the financial statements. For tax positions that are not more likely than not of being sustained upon audit, the Company does not recognize any portion of the benefit in the financial statements. The Company recognizes interest and penalties associated with uncertain tax positions as a component of
+Taxes on Income
+. The Company accounts for the tax effects of the tax on global intangible low-taxed income (GILTI) of certain foreign subsidiaries in the income tax provision in the period the tax arises. The Company’s policy for releasing disproportionate income tax effects from
+AOCL
+is to utilize the item-by-item approach.
+Reclassifications —
+Certain reclassifications have been made to prior year amounts to conform to the current year presentation.
+Use of Estimates —
+The consolidated financial statements are prepared in conformity with accounting principles generally accepted in the U.S. (GAAP) and, accordingly, include certain amounts that are based on management’s best estimates and judgments. Estimates are used when accounting for amounts recorded in connection with acquisitions, including initial fair value determinations of assets and liabilities in a business combination (primarily IPR&D, other intangible assets and contingent consideration), as well as subsequent fair value measurements. Additionally, estimates are used in determining such items as provisions for sales discounts, rebates and returns, depreciable and amortizable lives, recoverability of inventories, including those produced in preparation for product launches, amounts recorded for contingencies, environmental liabilities, accruals for contingent sales-
+83
+Table of Content
+s
+based milestone payments and other reserves, pension and other postretirement benefit plan assumptions, share-based compensation assumptions, restructuring costs, impairments of long-lived assets (including intangible assets and goodwill) and investments, and taxes on income. Because of the uncertainty inherent in such estimates, actual results may differ from these estimates.
+Recently Adopted Accounting Standards —
+In August 2023, the Financial Accounting Standards Board (FASB) issued amended guidance that requires a newly formed joint venture to recognize and initially measure its assets and liabilities at fair value upon formation. The amended guidance includes exceptions to fair value measurement that are consistent with the accounting for business combinations guidance. The Company adopted the guidance effective July 1, 2024 on a

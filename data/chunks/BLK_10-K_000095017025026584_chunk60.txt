@@ -1,0 +1,18 @@
+markets, by their nature, are prone to uncertainty and subject participants to a variety of risks. While BlackRock devotes significant resources across all of its operations to identify, measure, monitor, manage and analyze market, operating, legal, compliance, reputational, fiduciary and investment risks, BlackRock’s business, financial condition, operating results and nonoperating results could be materially adversely affected and the Company’s stock price could decline as a result of any of these risks and uncertainties, including the ones discussed below.
+RISKS RELATED TO MARKET AND COMPETITION
+Changes in the value levels of equity, debt, real assets, commodities, foreign exchange or other asset markets, including from the impact of global trade policies and tariffs, may cause assets under management (“AUM”), revenue and earnings to decline.
+BlackRock’s investment management revenue is primarily comprised of fees based on a percentage of the value of AUM and, in some cases, performance fees which are normally expressed as a percentage of returns to the client. Numerous factors, including price movements in the equity, debt or currency markets, or movements in the price of real assets, commodities, digital assets or other alternative investments in which BlackRock invests on behalf of its clients, including from the impact of global fiscal, monetary and trade policies, could cause:
+•
+the value of AUM, or BlackRock's returns on AUM, to decrease;
+•
+client redemptions from BlackRock’s products;
+•
+client rebalancing or reallocating of assets into BlackRock products that yield lower fees;
+•
+an impairment to the value of intangible assets and goodwill; or
+•
+a decrease in the value of seed or co-investment capital.
+These risks may also be heightened by market volatility, illiquid market conditions or other market disruptions. The occurrence of any of the above events may cause the Company’s AUM, revenue and earnings to decline.
+Changes in interest or foreign exchange rates and/or divergent beta may cause BlackRock’s AUM and base fees to fluctuate and introduce volatility to the Company’s net income and operating cash flows.
+BlackRock’s business is directly and indirectly affected by changes in global interest rates, as well as changes in global markets, which have experienced substantial volatility in recent years. Similarly, due to the global nature of BlackRock’s operations, a portion of its business is conducted in currencies other than the United States ("US") dollar. Fluctuations in BlackRock’s AUM related to its exposure to foreign exchange rates relative to the US dollar and interest rates may introduce volatility to the Company’s base fees, net income and operating cash flows.
+In addition, beta divergence between equity markets, where certain markets perform differently than others, may lead to an increase in the proportion of BlackRock AUM weighted toward lower fee equity products, resulting in a decline in BlackRock’s effective fee rate.

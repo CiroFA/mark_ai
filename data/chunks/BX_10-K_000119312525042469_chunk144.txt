@@ -1,0 +1,16 @@
+equal to Interest and Dividend Revenue less Interest Expense, adjusted for the impact of consolidation of Blackstone Funds, and interest expense associated with the Tax Receivable Agreement.
+Taxes and Related Payables represent the total GAAP tax provision adjusted to include only the current tax provision (benefit) calculated on Income (Loss) Before Provision (Benefit) for Taxes and including the Payable under the Tax Receivable Agreement. Further, the current tax provision utilized when calculating Taxes and Related Payables and Distributable Earnings reflects the benefit of deductions available to the company on certain expense items that are excluded from the underlying calculation of Segment Distributable Earnings and Total Segment Distributable Earnings, such as equity-based compensation charges and certain Transaction-Related and
+Non-Recurring
+Items where there is a current tax provision or benefit. The economic assumptions and methodologies that impact the implied income tax provision are the same as those methodologies and assumptions used in calculating the current income tax provision for Blackstone’s Consolidated Statements of Operations under GAAP, excluding the impact of divestitures and accrued tax contingencies and refunds which are reflected when paid or received. Management believes that including the amount payable under the Tax Receivable Agreement and utilizing the current income tax provision adjusted as described above when calculating Distributable Earnings is meaningful as it increases comparability between periods and more accurately reflects earnings that are available for distribution to stockholders.
+Segment Distributable Earnings
+Segment Distributable Earnings is Blackstone’s segment profitability measure used to make operating decisions and assess performance across Blackstone’s four segments. Blackstone believes it is useful to stockholders to review the measure that management uses in assessing segment performance. Segment Distributable Earnings represents the net realized earnings of Blackstone’s segments and is the sum of Fee Related Earnings and Net Realizations for each segment. Blackstone’s segments are presented on a basis that deconsolidates Blackstone Funds, eliminates
+non-controlling
+ownership interests in Blackstone’s consolidated operating partnerships, removes the amortization of intangible assets and removes Transaction-Related and
+Non-Recurring
+Items. Transaction-Related and
+Non-Recurring
+Items arise from corporate actions including acquisitions, divestitures, Blackstone’s initial public offering and
+non-recurring
+gains, losses, or other charges, if any. They consist primarily of equity-based compensation charges, gains and losses on contingent consideration arrangements, changes in the balance of the Tax Receivable Agreement resulting from a change in tax law or similar event, transaction costs, gains or losses associated with these corporate actions and
+non-recurring
+gains, losses or other charges

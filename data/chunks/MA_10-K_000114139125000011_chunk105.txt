@@ -1,0 +1,23 @@
+MASTERCARD 2024 FORM 10-K
+98
+PART II
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The changes in the Company’s valuation allowance on deferred tax assets were as follows:
+1
+The 2022 activity resulted in a full release of the valuation allowance associated with the U.S. foreign tax credit carryforward due to final U.S. tax regulations published in 2022.  The 2023 activity resulted in the establishment of the valuation allowance associated with the U.S. foreign tax credit carryforward due to foreign tax legislation enacted in Brazil and the Notice released by Treasury.
+2
+Capital losses are included within other items in the deferred tax assets section of the components of the Deferred Income Taxes table above.
+The recognition of foreign tax credits is dependent upon the realization of future foreign source income in the appropriate foreign tax credit basket in accordance with U.S. federal income tax law.  The recognition of the net operating and capital losses is dependent on the timing and character of future taxable income in the applicable jurisdictions.  As of December 31, 2024, the Company had a foreign tax credit carryforward and tax effected net operating loss carryforwards of $
+736
+million and $
+468
+million, respectively.  The foreign tax credits begin to expire in 2029 and the majority of the net operating losses can be carried forward indefinitely.
+A reconciliation of the beginning and ending balance for the Company’s unrecognized tax benefits for the years ended December 31, is as follows:
+1
+Includes immaterial translational impact of currency.
+As of December 31, 2024, the amount of unrecognized tax benefit was $
+304
+million.  This amount, if recognized, would reduce income tax expense by $
+246
+million.  In 2024, the decrease in the Company’s unrecognized tax benefits was primarily due to the withdrawal of a prior year refund claim, which had no impact on the consolidated results of operations or financial condition.
+The Company is subject to tax in the United States, Belgium, Singapore, the United Kingdom and various other foreign jurisdictions, as well as state and local jurisdictions.  Uncertain tax positions are reviewed on an ongoing basis and are adjusted after considering facts and circumstances, including progress of tax audits, developments in case law and closing of statutes of limitation.  Within the next twelve months, the Company believes that the resolution of certain federal, foreign and state and local examinations is reasonably possible and that a change in estimate, reducing unrecognized tax benefits, may occur.  While such a change may be significant, it is not possible to provide a range of the potential change until the examinations progress further or the related statutes of limitation expire.  The Company has effectively settled its U.S. federal income tax obligations through 2014.  With limited exception, the Company is no longer subject to state and local or

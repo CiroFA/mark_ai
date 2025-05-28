@@ -1,0 +1,18 @@
+March 31, 2025 and December 31, 2024, respectively. These liquidity agreements and letters of credit are offset by reimbursement agreements with various term-out provisions.
+162
+Asset-Based Financing
+The primary types of Citi’s asset-based financings, total assets of the unconsolidated VIEs with significant involvement and Citi’s maximum exposure to loss are presented below. For Citi to realize the maximum loss, the VIE (borrower) would have to default with no recovery from the assets held by the VIE.
+163
+22.
+DERIVATIVES
+In the ordinary course of business, Citigroup enters into various types of derivative transactions. All derivatives are recorded in
+Trading account assets/Trading account liabilities
+on the Consolidated Balance Sheet. For additional information regarding Citi’s use of and accounting for derivatives, see Note 24 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+Information pertaining to Citigroup’s derivatives activities, based on notional amounts, is presented in the table below. Derivative notional amounts are reference amounts from which contractual payments are derived and do not represent a complete measure of Citi’s exposure to derivative transactions. Citi’s derivative exposure arises primarily from
+market fluctuations (i.e., market risk), counterparty failure (i.e., credit risk) and/or periods of high volatility or financial stress (i.e., liquidity risk), as well as any market valuation adjustments that may be required on the transactions. Moreover, notional amounts presented below do not reflect the netting of offsetting trades. For example, if Citi enters into a receive-fixed interest rate swap with $100 million notional, and offsets this risk with an identical but opposite pay-fixed position with a different counterparty, $200 million in derivative notionals is reported, although these offsetting positions may result in de minimis overall market risk.
+In addition, aggregate derivative notional amounts can fluctuate from period to period in the normal course of business based on Citi’s market share, levels of client activity and other factors.
+Derivative Notionals
+(1)
+Credit derivatives are arrangements designed to allow one party (protection purchaser) to transfer the credit risk of a “reference asset” to another party (protection seller). These arrangements allow a protection seller to assume the credit risk associated with the reference asset without directly purchasing that asset. The Company enters into credit derivative positions for purposes such as risk management, yield enhancement, reduction of credit concentrations and diversification of overall risk, and as a market-maker to facilitate client transactions.
+164
+The following tables present the gross and net fair values of the Company’s derivative transactions and the related offsetting amounts as of March 31, 2025 and December 31, 2024. Gross positive fair values are offset against gross negative fair values by counterparty, pursuant to

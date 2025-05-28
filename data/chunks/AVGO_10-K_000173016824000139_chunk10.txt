@@ -1,0 +1,23 @@
+to content including enterprise-ready curated distributions of open source software technologies used for storing and processing data. It also includes Tanzu AI Solutions, a set of capabilities that help application teams deliver generative AI-powered, intelligent applications quickly, safely, and at scale. Tanzu Platform also offers teams full-stack visibility from applications to infrastructure and efficient modern application lifecycle management across public and private clouds with Cloud Foundry and/or with any conformant Kubernetes.
+•
+Tanzu Data:
+A suite of data services that provides advanced analytical data warehouse capabilities and real-time transactions and processing at massive scale with an in-memory data grid with vector database capabilities for AI use cases.
+•
+Tanzu CloudHealth:
+This solution simplifies financial management, streamlines operations, and improves organizational collaboration across the multi-cloud environment.
+•
+Tanzu Labs:
+This service provides hands-on cloud native consulting services to help customers move software to production while strengthening platform engineering skills.
+VeloCloud Portfolio.
+VeloCloud provides networking solutions to connect, secure and optimize workloads across distributed locations. By combining our VeloRAIN (Robust AI Networking) architecture with seamless connectivity and outcome-based quality of service, VeloCloud provides users and devices with compute and connectivity to optimize performance, security and reliability across fixed or mobile environments, while simplifying operations.
+•
+SD-WAN and SASE
+: Our SD-WAN (software-defined wide area network) solution, whether a part of our SASE (secure access service edge) architecture offering or standalone, provides a platform for enterprises to distribute modern applications and advanced AI systems while delivering security and ubiquity of access for distributed applications. Our SD-WAN or SASE solutions bring software-defined networking, security and AIOps together to support ubiquitous access across fiber, cellular and satellite for optimal performance and availability for modern applications.
+•
+VeloRAIN
+: Our architecture uses AI or machine learning to improve the performance and security of distributed workloads.
+•
+Fixed Wireless Access
+: This solution provides enterprises with reliable 5G connectivity to businesses and enterprise branches at the edge while optimizing the network through intelligence and network programmability.
+Application Networking and Security Software Portfolio.
+Our application networking and security software delivers zero-trust lateral security and load balancing solutions enabling global digital organizations to combat malware and ransomware. These software-defined solutions provide distributed and scale-out architectures, deep visibility, plug-and-play operations and self-service consumption. Customers can deploy our solutions at speed and operate them at scale across all their private cloud applications,

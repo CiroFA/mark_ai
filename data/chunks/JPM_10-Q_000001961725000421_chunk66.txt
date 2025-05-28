@@ -1,0 +1,28 @@
+as part of client-driven activities
+•
+Certain long-term beneficial interests issued by CIB’s consolidated securitization trusts where the underlying assets are carried at fair value
+Changes in fair value under the fair value option election
+The following table presents the changes in fair value included in the Consolidated statements of income for the three months ended March 31, 2025 and 2024, for items for which the fair value option was elected. The profit and loss information presented below only includes the financial instruments that were elected to be measured at fair value; related risk management instruments, which are required to be measured at fair value, are not included in the table.
+(a)
+Unrealized gains/(losses) due to instrument-specific credit risk (DVA) for liabilities for which the fair value option has been elected are recorded in OCI, while realized gains/(losses) are recorded in principal transactions revenue. Realized gains/(losses) due to instrument-specific credit risk recorded in principal transactions revenue were not material for the three months ended March 31, 2025 and 2024.
+(b)
+Long-term debt measured at fair value predominantly relates to structured notes. Although the risk associated with the structured notes is actively managed, the gains/(losses) reported in this table do not include the income statement impact of the risk management instruments used to manage such risk.
+(c)
+Reported in mortgage fees and related income.
+(d)
+Reported in other income.
+(e)
+Changes in fair value exclude contractual interest, which is included in interest income and interest expense for all instruments other than certain hybrid financial instruments in CIB. Refer to Note 6 for further information regarding interest income and interest expense.
+96
+Difference between aggregate fair value and aggregate remaining contractual principal balance outstanding
+The following table reflects the difference between the aggregate fair value and the aggregate remaining contractual principal balance outstanding as of March 31, 2025 and December 31, 2024, for loans, long-term debt and long-term beneficial interests for which the fair value option has been elected.
+(a)
+These balances are excluded from nonaccrual loans as the loans are insured and/or guaranteed by U.S. government agencies.
+(b)
+There were
+no
+performing loans that were ninety days or more past due as of March 31, 2025 and December 31, 2024.
+(c)
+Includes loans insured and/or guaranteed by U.S. government agencies less than 90 days past due.
+(d)
+Remaining contractual principal is not applicable to nonprincipal-protected structured notes and long-term beneficial interests. Unlike principal-protected structured notes and long-term beneficial interests, for which the Firm is obligated to return a stated amount of principal at maturity, nonprincipal-protected structured notes and long-term beneficial interests do not obligate the Firm to return a stated amount of principal at maturity, but for

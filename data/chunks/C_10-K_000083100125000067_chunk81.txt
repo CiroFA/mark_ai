@@ -1,0 +1,28 @@
+management lifecycle. The ERM Framework covers the risk management roles and responsibilities of the Citigroup Board of Directors (the Board), Citi’s Executive Management Team (see “Risk Governance—Executive Management Team” below) and employees across the lines of defense. The underlying pillars of the framework encompass:
+•
+Culture
+—the core principles and behaviors that underpin a strong culture of risk awareness, in line with Citi’s Mission and Value Proposition, and Leadership Principles;
+•
+Governance
+—the committee structure and reporting arrangements that support the appropriate oversight of risk management activities at the Board and Executive
+Management Team levels and establish Citi’s Lines of Defense model;
+•
+Risk Management
+—the end-to-end risk management cycle including the identification, measurement, monitoring, controlling and reporting of all risks including top, material, growing, idiosyncratic and emerging risks, and aggregated to an enterprise-wide level; and
+•
+Enterprise Programs
+—the key risk management programs performed across the risk management lifecycle for all risk categories.
+Each of these pillars is underpinned by supporting capabilities covering people, infrastructure and tools that are in place to enable the execution of the ERM Framework. Controls are established to mitigate the risks associated with the execution of these pillars and supporting capabilities.
+Citi’s approach to risk management requires that its risk-taking be consistent with its risk appetite. Risk appetite is the aggregate level of risk that Citi is willing to tolerate in order to achieve its strategic objectives and business plan. Risk limits and thresholds represent allocations of Citi’s risk appetite to businesses and risk categories. Concentration risks are controlled through a subset of these limits and thresholds.
+Citi’s risks are generally categorized and summarized as follows:
+•
+Credit risk
+is the risk of loss resulting from the decline in credit quality (or downgrade risk) or failure of a borrower, counterparty, third party or issuer to honor its financial or contractual obligations.
+•
+Liquidity risk
+is the risk that Citi will not be able to efficiently meet both expected and unexpected current and future cash flow and collateral needs without adversely affecting either daily operations or financial conditions of Citi. Risk may be exacerbated by the inability of the Company to access funding sources or monetize assets and the composition of liability funding and liquid assets.
+•
+Market risk
+(
+trading and non-trading
+): Market risk of trading portfolios is the risk of economic or trading loss arising from changes in the value of Citi’s assets and liabilities resulting from changes in market variables, such as interest rates, equity and commodity prices, foreign exchange rates or credit spreads. Market risk of non-trading portfolios is the impact of adverse changes in market variables such as interest rates, foreign exchange rates, credit

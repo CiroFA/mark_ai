@@ -1,0 +1,49 @@
+through securitization transactions. See Note 23 for additional information about mortgage- and asset-backed securitizations in which the Company has other involvement.
+(3)
+Amortized cost excludes unallocated portfolio-layer cumulative basis adjustments of $(
+0.2
+) billion as of December 31, 2024.
+(4)
+Includes corporate, asset-backed and other debt securities.
+204
+Debt Securities Held-to-Maturity
+The carrying value and fair value of debt securities HTM were as follows:
+(1)
+Amortized cost is reported net of ACL of $
+137
+million and $
+95
+million at December 31, 2024 and 2023, respectively.
+(2)
+The Company invests in mortgage- and asset-backed securities. These securitizations are generally considered VIEs. The Company’s maximum exposure to loss from these VIEs is equal to the carrying amount of the securities, which is reflected in the table above. See Note 23 for mortgage- and asset-backed securitizations in which the Company has other involvement.
+(3)
+In January 2023, Citi adopted ASU 2022-01. Upon adoption, Citi transferred $
+3.3
+billion (amortized cost) of mortgage-backed securities from HTM classification to AFS classification as allowed under the ASU. At the time of transfer, the securities were in an unrealized gain position of $
+0.1
+billion, which was recorded in
+AOCI
+upon transfer
+.
+See Note 1.
+The Company has the positive intent and ability to hold these securities to maturity or, where applicable, until the exercise of any issuer call option, absent any unforeseen significant changes in circumstances, including deterioration in credit or changes in regulatory capital requirements.
+The net unrealized losses classified in
+AOCI
+for HTM debt securities primarily relate to debt securities previously classified as AFS that were transferred to HTM, and include any cumulative fair value hedge adjustments. The net unrealized loss amount also includes any non-credit-related changes in fair value of HTM debt securities that have suffered credit impairment recorded in earnings. The
+AOCI
+balance related to HTM debt securities is amortized as an adjustment of yield, in a manner consistent with the accretion of any difference between the carrying value at the transfer date and par value of the same debt securities.
+205
+The following table presents the carrying value and fair value of HTM debt securities by contractual maturity dates:
+(1)
+Amortized cost is reported net of ACL of $
+137
+million at December 31, 2024.
+(2)
+Weighted-average yields are weighted based on the amortized cost of each security. The effective yield considers the contractual coupon, amortization of premiums and accretion of discounts and excludes the effects of any related hedging derivatives.
+(3)
+Includes corporate and asset-backed securities.
+HTM Debt Securities Delinquency and Non-Accrual
+Details
+Citi did no
+t have any HTM debt securities that were delinquent or on non-accrual status at December 31, 2024 and 2023.
+There were no purchased credit-deteriorated HTM debt securities

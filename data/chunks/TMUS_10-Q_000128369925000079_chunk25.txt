@@ -1,0 +1,20 @@
+Financial Statements
+Balance Sheets. These differences generally represent credit or liquidity risk, referred to as a basis spread, and the time value of money (“excluded components”). The value of the excluded components is recognized in earnings using a systematic and rational method by accruing the current-period swap settlements into Interest expense, net, on our Condensed Consolidated Statements of Comprehensive Income. If an amount remains in Accumulated other comprehensive loss on our Condensed Consolidated Balance Sheets upon settlement of the derivative, those amounts will be reclassified to earnings at that time.
+The following table summarizes the activity of our cross-currency swaps:
+Interest Rate Lock Derivatives
+In April 2020, we terminated our interest rate lock derivatives entered into in October 2018. Aggregate changes in the fair value of our terminated interest rate lock derivatives, net of amortization, of $
+914
+million and $
+960
+million are presented in Accumulated other comprehensive loss on our Condensed Consolidated Balance Sheets as of March 31, 2025, and December 31, 2024, respectively.
+For the three months ended March 31, 2025 and 2024, $
+62
+million and $
+57
+million, respectively, were amortized from Accumulated other comprehensive loss into Interest expense, net, on our Condensed Consolidated Statements of Comprehensive Income. We expect to amortize $
+259
+million of the Accumulated other comprehensive loss associated with the derivatives into Interest expense, net, over the 12 months ending March 31, 2026.
+Debt
+The fair values of our Senior Notes and spectrum-backed Senior Secured Notes to third parties were determined based on quoted market prices in active markets. Accordingly, our Senior Notes and spectrum-backed Senior Secured Notes to third parties were classified as Level 1 within the fair value hierarchy. The fair value of our Senior Notes to affiliates was determined based on the fair value of the Senior Notes to third parties with similar terms and maturities. Accordingly, our Senior Notes to affiliates were classified as Level 2 within the fair value hierarchy. The fair values of our Senior Notes to third parties (EUR-denominated) and asset-backed notes (“ABS Notes”) were primarily based on quoted prices in inactive markets for identical instruments and observable changes in market interest rates, both of which are Level 2 inputs. Accordingly, our Senior Notes to third parties (EUR-denominated) and ABS Notes were classified as Level 2 within the fair value hierarchy.
+The fair value of our ECA Facility (as defined below) was determined based on a discounted cash flow approach using market interest rates of instruments with similar maturities and credit risk. Accordingly, our ECA Facility was classified as Level 2 within the fair value hierarchy.
+Although we have determined the estimated fair values using available market information and commonly accepted valuation methodologies, judgment was required in

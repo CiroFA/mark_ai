@@ -1,0 +1,21 @@
+are no longer subject to examination by those taxing authorities for years before 2016. Although the outcome of tax audits is always uncertain and could result in significant cash tax payments, we do not believe the outcome of these audits will have a material adverse effect on our consolidated financial position or results of operations. We believe that it is reasonably possible that our unrecognized tax benefits could decrease by approximately $
+414,000
+or increase by approximately $
+719,000
+in the next 12 months as a result of settlements, lapses of statutes of limitations, tax audit activity and other adjustments. The majority of these amounts relate to transfer pricing matters in both U.S. and non-U.S. tax jurisdictions.
+12.
+Retirement and Profit Sharing Plans
+Defined Benefit Pension and Postretirement Plans
+In the United States and certain other countries, we maintain and administer defined benefit retirement plans and postretirement medical plans for certain current, retired and resigned employees. In addition, our U.S. defined benefit pension plans include a frozen plan for former pre-incorporation partners, which is unfunded. Benefits under the employee retirement plans are primarily based on years of service and compensation during the years immediately preceding retirement or termination of participation in the plan. The defined benefit pension disclosures include our U.S. and material non-U.S. defined benefit pension plans.
+Assumptions
+The weighted-average assumptions used to determine the defined benefit pension obligations as of August 31 and the net periodic pension expense are as follows:
+We utilize a full yield curve approach to estimate the service and interest cost components by applying specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows. This approach provides a correlation between projected benefit cash flows and the corresponding yield curve spot rates and provides a precise measurement of service and interest costs. The discount rate assumptions are based on the expected duration of the benefit payments for each of our defined benefit pension and postretirement plans as of the annual measurement date and are subject to change each year.
+The expected long-term rate of return on plan assets should, over time, approximate the actual long-term returns on defined benefit pension and postretirement plan assets and is based on historical returns and the future expectations for returns for each asset class, as well as the target asset allocation of the asset portfolio.
+Assumed U.S. Health Care Cost Trend
+Our U.S. postretirement plan assumed annual rate of increase in the per capita cost of health care benefits is
+8.8
+% for the plan year ending August 31, 2025. The rate is assumed to decrease on a straight-line basis to
+4.0
+% for the plan year ending August 31, 2049 and remain at that level thereafter.
+Pension and Postretirement Expense
+Pension expense

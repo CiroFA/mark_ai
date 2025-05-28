@@ -1,0 +1,32 @@
+those securities.
+Repurchase Agreements and Securities Loaned Transactions Accounted for as Secured Borrowings
+The following tables present securities sold under agreements to repurchase and securities loaned by remaining contractual term to maturity and class of collateral pledged. Included in “Other” are transactions where the Corporation acts as the
+lender in a securities lending agreement and receives securities that can be pledged as collateral or sold. Certain agreements contain a right to substitute collateral and/or terminate the agreement prior to maturity at the option of the Corporation or the counterparty. Such agreements are included in the table below based on the remaining contractual term to maturity.
+(1)
+No
+agreements have maturities greater than
+four years
+.
+Under repurchase agreements, the Corporation is required to post collateral with a market value equal to or in excess of the principal amount borrowed. For securities loaned transactions, the Corporation receives collateral in the form of cash, letters of credit or other securities. To determine whether the market value of the underlying collateral remains sufficient, collateral is generally valued daily, and the Corporation may be required to deposit additional collateral or may receive or return collateral pledged when appropriate. Repurchase agreements and securities loaned transactions are generally either overnight, continuous (i.e., no stated term) or short-term. The Corporation manages liquidity risks related to these agreements by sourcing funding from a diverse group of counterparties, providing a range of securities collateral and pursuing longer durations, when appropriate.
+Short-term Borrowings
+The Corporation classifies borrowings with an original maturity of less than one year as short-term borrowings on the Consolidated Balance Sheet. At December 31, 2024 and 2023, the majority of short-term borrowings consisted of Federal Home Loan Bank advances, which totaled $
+12.7
+billion and $
+13.2
+billion, and commercial paper, which totaled $
+24.2
+billion and $
+13.1
+billion.
+Collateral
+The Corporation accepts securities and loans as collateral that it is permitted by contract or practice to sell or repledge. At December 31, 2024 and 2023, the fair value of this collateral was $
+925.7
+billion and $
+911.3
+billion, of which $
+882.2
+billion and $
+870.9
+billion were sold or repledged. The primary source of this collateral is securities borrowed or purchased under agreements to resell.
+The Corporation also pledges company-owned securities and loans as collateral in transactions that include repurchase agreements, securities loaned, public and trust deposits, U.S. Treasury tax and loan notes, and short-term borrowings. This collateral, which in some cases can be sold or repledged by the counterparties to the transactions, is parenthetically disclosed on the Consolidated Balance Sheet.
+In certain cases, the Corporation has transferred assets to consolidated VIEs where those

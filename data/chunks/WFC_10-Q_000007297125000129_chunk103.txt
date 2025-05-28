@@ -1,0 +1,26 @@
+information in our evaluation of the appropriateness of the ACL for debt securities. The credit quality indicators that we most closely monitor include credit ratings and delinquency status and are based on information as of our financial statement date.
+CREDIT RATINGS.
+Credit ratings express opinions about the credit quality of a debt security. We determine the credit rating of a security according to the lowest credit rating made available by national recognized statistical rating organizations (NRSROs). Debt securities rated investment grade, that is those with ratings similar to BBB-/Baa3 or above, as defined by NRSROs, are generally considered by the rating agencies and market
+participants to be low credit risk. Conversely, debt securities rated below investment grade, labeled as “speculative grade” by the rating agencies, are considered to be distinctively higher credit risk than investment grade debt securities. For debt securities not rated by NRSROs, we determine an internal credit grade of the debt securities (used for credit risk management purposes) equivalent to the credit ratings assigned by major credit agencies. Substantially all of our debt securities were rated by NRSROs at March 31, 2025, and December 31, 2024.
+Table 3.4 shows the percentage of fair value of AFS debt securities and amortized cost of HTM debt securities determined to be rated investment grade, inclusive of securities rated based on internal credit grades.
+Table 3.4:
+Investment Grade Debt Securities
+(1)
+99
+% were rated AA- and above at both March 31, 2025, and December 31, 2024.
+(2)
+Includes federal agency mortgage-backed securities.
+(3)
+100
+% were rated AA- and above at both March 31, 2025, and December 31, 2024.
+(4)
+Includes non-U.S. government, non-agency mortgage-backed, and all other debt securities.
+DELINQUENCY STATUS AND NONACCRUAL DEBT SECURITIES.
+Debt security issuers that are delinquent in payment of amounts due under contractual debt agreements have a higher probability of recognition of credit losses. As such, as part of our monitoring of the credit quality of the debt security portfolio, we consider whether debt securities we own are past due in payment of principal or interest payments and whether any securities have been placed into nonaccrual status.
+Debt securities that are past due and still accruing or in nonaccrual status were insignificant at both March 31, 2025, and December 31, 2024. Net charge-offs on debt securities were insignificant in the first quarter of both 2025 and 2024.
+Note 3:
+Available-for-Sale and Held-to-Maturity Debt Securities
+(continued)
+Unrealized Losses of Available-for-Sale Debt Securities
+Table 3.5 shows the gross unrealized losses and fair value of AFS debt securities by length of time those individual securities in each category have been in a continuous loss position. Debt securities on which we have recorded credit impairment are
+categorized as being “less than 12 months” or “12 months or more” in a continuous loss

@@ -1,0 +1,24 @@
+and losses result from the sale of instruments, closing out or termination of transactions, or interim cash payments.
+–
+Unrealized gains and losses result from changes in valuation.
+In connection with its client-driven market-making activities, the Firm transacts in debt and equity instruments, derivatives and commodities, including physical commodities inventories and financial instruments that reference commodities.
+Principal transactions revenue also includes realized and unrealized gains and losses related to:
+•
+derivatives designated in qualifying hedge accounting relationships, primarily fair value hedges of commodity and foreign exchange risk;
+•
+derivatives used for specific risk management purposes, primarily to mitigate credit, foreign exchange and interest rate risks.
+Refer to Note 5 for further information on the income statement classification of gains and losses from derivatives activities.
+In the financial commodity markets, the Firm transacts in OTC derivatives (e.g., swaps, forwards, options) and ETD that reference a wide range of underlying commodities. In the physical commodity markets, the Firm primarily purchases and sells precious and base metals, natural gas, and may hold other commodities inventories under financing and other arrangements with clients.
+The following table presents all realized and unrealized gains and losses recorded in principal transactions revenue. This table excludes interest income and interest expense on trading assets and liabilities, which are an integral part of the overall performance of the Firm’s client-driven market-making activities in CIB and fund deployment activities in Treasury and CIO. Refer to Note 7 for further information on interest income and interest expense.
+Trading revenue is presented primarily by instrument type. The Firm’s client-driven market-making businesses generally utilize a variety of instrument
+Notes to consolidated financial statements
+types in connection with their market-making and related risk-management activities; accordingly, the trading revenue presented in the table below is not representative of the total revenue of any individual LOB.
+(a)
+Includes the impact of changes in funding valuation adjustments on derivatives.
+(b)
+Includes the impact of changes in credit valuation adjustments on derivatives, net of the associated hedging activities.
+(c)
+Includes net markdowns on held-for-sale positions, primarily unfunded commitments, in the bridge financing portfolio.
+Principal transactions revenue is earned primarily by CIB.
+Lending- and deposit-related fees
+Lending-related fees include fees earned from loan commitments, standby letters of credit, financial guarantees, and other loan-servicing activities. Deposit-related fees include fees earned from performing cash management activities, and providing overdraft and other deposit account services. Deposit-related fees also include the impact of credits earned by clients that reduce such fees. Lending- and deposit-

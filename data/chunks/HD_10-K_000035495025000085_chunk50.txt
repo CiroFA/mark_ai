@@ -1,0 +1,17 @@
+subjective assumptions, estimates and judgments. Implementation of new accounting standards or changes in existing accounting standards or their application or interpretation, or changes in underlying assumptions, estimates or judgments, could significantly change our reported or expected financial performance or financial condition. The implementation of, or changes to, accounting standards could also require certain systems, internal processes, internal controls, and other changes that could increase our operating costs.
+We are involved from time to time in a number of legal, regulatory and governmental enforcement proceedings. While we cannot predict the outcomes of those proceedings and other contingencies with certainty, certain of them could adversely affect our operations and reputation and/or increase our costs.
+We are involved in a number of legal proceedings and regulatory matters, including government inquiries and investigations, and consumer, employment, tort and other litigation that arise from time to time in the ordinary course of business. Litigation is inherently unpredictable, and the outcome of some of these proceedings and other contingencies could require us to take or refrain from taking actions, which could adversely affect our operations or could result in excessive adverse verdicts, fines, or results. Additionally, as we have seen in the past, involvement in such lawsuits, investigations and inquiries, and other proceedings, as well as compliance with any settlements or consent decrees that result from those proceedings, could involve significant expense, divert management’s attention and resources from other matters, and impact the reputation of the Company.
+Item 1B.  Unresolved Staff Comments.
+Not applicable.
+Table
+of
+Contents
+Item 1C.  Cybersecurity.
+Risk Management and Strategy
+We recognize the importance of assessing, identifying, and managing material risks associated with cybersecurity threats. We have implemented cybersecurity processes, technologies, and controls to aid in our efforts to assess, identify, and manage such risks. Our cybersecurity program prioritizes threat mitigation, while focusing on maintaining the integrity and resilience of our
+systems
+. We leverage the National Institute of Standards and Technology (“NIST”) Cybersecurity Framework as guidelines in the development of our cybersecurity program. We also adhere to applicable Payment Card Industry Data Security Standards.
+The cybersecurity risk management process and related governance processes are integrated into our broader enterprise risk management framework, which is designed to appropriately identify, prioritize, manage, and oversee risks.
+Overseeing our cybersecurity efforts on a day-to-day basis is our cybersecurity team, led by our Chief Information Security Officer (“CISO”)
+.
+Our cybersecurity team, in partnership with third parties, designs and implements our data security and cybersecurity programs, risk assessments, monitoring

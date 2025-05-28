@@ -1,0 +1,20 @@
+Per Share Data, Except Where Noted)
+Other Revenue
+— Other Revenue consists of miscellaneous income and foreign exchange gains and losses arising on transactions denominated in currencies other than U.S. dollars.
+Fair Value of Financial Instruments
+GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observability used in measuring financial instruments at fair value. Market price observability is affected by a number of factors, including the type of financial instrument, the characteristics specific to the financial instrument and the state of the marketplace, including the existence and transparency of transactions between market participants. Financial instruments with readily available quoted prices in active markets generally will have a higher degree of market price observability and a lesser degree of judgment used in measuring fair value.
+Financial instruments measured and reported at fair value are classified and disclosed based on the observability of inputs used in the determination of fair values, as follows:
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the determination of which category within the fair value hierarchy is appropriate for any given financial instrument is based on the lowest level of input that is significant to the fair value measurement. Blackstone’s assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the financial instrument.
+Level II Valuation Techniques
+Financial instruments classified within Level II of the fair value hierarchy comprise debt instruments, debt securities sold, not yet purchased and certain equity securities and derivative instruments valued using observable inputs.
+16
+9
+Table of Contents
+Blackstone Inc.
+Notes to Consolidated Financial Statements—Continued
+(All Dollars are in Thousands, Except Share and Per Share Data, Except Where Noted)
+The valuation techniques used to value financial instruments classified within Level II of the fair value hierarchy are as follows:
+Level III Valuation Techniques
+In the absence of observable market prices, Blackstone values its investments using valuation methodologies applied on a consistent basis. For some investments little market activity may exist; management’s determination of fair value is then based on the best information available in the circumstances, and may incorporate management’s own assumptions and involves a significant degree of judgment, taking into consideration a combination of internal and external factors, including the appropriate risk adjustments for non-performance and liquidity risks. Investments for which market prices are not observable include private investments in the equity of operating companies, real estate properties and investments in non-consolidated CLO vehicles.
+Real Estate Investments
+—

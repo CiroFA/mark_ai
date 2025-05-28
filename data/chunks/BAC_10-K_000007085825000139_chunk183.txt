@@ -1,0 +1,36 @@
+qualifying allowance for credit losses.
+(4)
+Reflects total average assets adjusted for certain Tier 1 capital deductions.
+At December 31, 2024, CET1 capital was $201.1 billion, an increase of $6.2 billion from December 31, 2023, primarily due to earnings, partially offset by capital distributions. Tier 1 capital increased $135 million primarily driven by the increase in CET1 capital, partially offset by preferred stock redemptions. Total capital under the Standardized approach increased $4.0 billion primarily due to an increase in subordinated debt, adjusted allowance  for  credit  losses  included  in Tier 2 capital, and the
+increase in Tier 1 capital. RWA under  the Standardized approach, which yielded the lower CET1 capital ratio at December 31, 2024, increased $44.5 billion during 2024 to $1,696 billion primarily driven by client activity in
+Global Markets
+and lending activity in
+GWIM, Global Banking
+and
+Consumer Banking
+. Supplementary leverage exposure at December 31, 2024 increased $142.0 billion primarily driven by increased activity in
+Global Markets
+and
+ALM activities in
+All Other.
+Table 11 shows the capital composition at December 31, 2024 and 2023.
+(1)
+December 31, 2024 and 2023 include 25 percent and 50 percent of the CECL transition provision’s impact as of December 31, 2021.
+(2)
+Includes amounts in accumulated other comprehensive income (OCI) related to the hedging of items that are not recognized at fair value on the Consolidated Balance Sheet.
+(3)
+Includes the impact of transition provisions related to the CECL accounting standard.
+Table 12 shows the components of RWA as measured under Basel 3 at December 31, 2024 and 2023.
+n/a = not applicable
+Bank of America, N.A. Regulatory Capital
+Table 13 presents regulatory capital information for BANA in accordance with Basel 3 Standardized and Advanced approaches as measured at December 31, 2024 and 2023. BANA met the definition of well capitalized under the PCA framework for both periods.
+(1)
+Capital ratios as of December 31, 2024 and 2023 are calculated using the regulatory capital rule that allows a five-year transition period related to the adoption of the CECL accounting standard on January 1, 2020.
+(2)
+Risk-based capital regulatory minimums at both December 31, 2024 and 2023 are the minimum ratios under Basel 3 including a capital conservation buffer of 2.5 percent. The regulatory minimums for the leverage ratios as of both period ends are the percent required to be considered well capitalized under the PCA framework.
+(3)
+Total capital under the Advanced approaches differs from the Standardized approach due to differences in the amount permitted in Tier 2 capital related to the qualifying allowance for credit losses.
+(4)
+Reflects total average assets adjusted for certain Tier 1 capital deductions.
+Total Loss-Absorbing Capacity Requirements
+Total loss-absorbing capacity (TLAC) consists of the Corporation’s Tier 1 capital and eligible long-term debt issued directly by the Corporation.

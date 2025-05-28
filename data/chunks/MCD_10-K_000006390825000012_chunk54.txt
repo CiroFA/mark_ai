@@ -1,0 +1,15 @@
+from conventional franchised restaurants include rent and royalties based on a percent of sales with minimum rent payments, and initial fees. Revenues from restaurants licensed to developmental licensees and affiliates include a royalty based on a percent of sales, and generally include initial fees. The Company’s Other revenues are primarily comprised of fees paid by franchisees to recover a portion of costs incurred by the Company for various technology platforms, revenues from brand licensing arrangements to market and sell consumer packaged goods using the McDonald’s brand and third-party revenues for the Dynamic Yield business, for periods prior to its sale on April 1, 2022.
+Sales by Company-owned and operated restaurants are recognized on a cash basis at the time of the underlying sale and are presented net of sales tax and other sales-related taxes. Royalty revenues are based on a percent of sales and recognized at the time the underlying sales occur. Rental income includes both minimum rent payments, which are recognized straight-line over the franchise term and variable rent payments based on a percent of sales, which are recognized at the time the underlying sales occur. Initial fees are recognized as the Company satisfies the performance obligation over the franchise term, which is generally
+20
+years.
+The Company provides goods or services related to various technology platforms to certain franchisees that are distinct from the franchise agreement because they do not require integration with other goods or services that the Company provides. The Company has determined that it is the principal in these arrangements. Accordingly, the related revenue is presented on a gross basis on the Consolidated Statement of Income. These revenues are recognized as the goods or services are transferred to the franchisee, and related expenses are recognized as incurred, primarily within Other restaurant expenses. There may be a timing difference between the costs the Company incurs and the related fees the Company receives from franchisees, but the various technology platform fees are not designed to generate margins for the Company. Brand licensing arrangement revenues are based on a percent of sales and are recognized at the time the underlying sales occur.
+For periods prior to April 1, 2022, Dynamic Yield third party revenues were generated from providing software as a service solutions to customers and were recognized over the applicable subscription period as the service was performed.
+PROPERTY AND EQUIPMENT
+Property and equipment are stated at cost, with depreciation and amortization provided using the straight-line method over the following estimated useful lives: buildings–up to
+40
+years; leasehold improvements–the lesser of useful lives of assets or lease terms, which generally include certain option periods; and equipment–
+3
+to
+12
+years.
+The Company periodically reviews these lives relative to physical factors, economic factors and industry

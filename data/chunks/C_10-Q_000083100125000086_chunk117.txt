@@ -1,0 +1,30 @@
+most lending transactions across the Company.
+The following table provides information about certain credit products carried at fair value:
+In addition to the amounts reported above, $
+207
+million and $
+280
+million of unfunded commitments related to certain credit products selected for fair value accounting were outstanding as of March 31, 2025 and December 31, 2024, respectively.
+192
+Changes in the fair value of funded and unfunded credit products are classified in
+Principal transactions
+in Citi’s Consolidated Statement of Income. Related interest income is measured based on the contractual interest rates and reported as
+Interest income
+on
+Trading account assets
+or loan interest depending on the balance sheet classifications of the credit products. The changes in fair value for the three months ended March 31, 2025 and 2024 due to instrument-specific credit risk were a gain of $
+24
+million and a loss of $(
+16
+) million, respectively. Changes in fair value due to instrument-specific credit risk are estimated based on changes in borrower-specific credit spreads and recovery assumptions.
+Certain Investments in Unallocated Precious Metals
+Citigroup invests in unallocated precious metals accounts (e.g., gold, silver, platinum and palladium) as part of its commodity trading activities. Under ASC 815, the investment is bifurcated into a debt host contract and a commodity derivative instrument. Citigroup elects the fair value option for the debt host contract and reports the contract within
+Trading account assets
+on the Company’s Consolidated Balance Sheet.
+As part of its commodity trading activities, Citi trades unallocated precious metals investments and executes forward purchase and forward sale derivative contracts with trading counterparties. When Citi sells an unallocated precious metals investment, Citi’s receivable from its depository bank is repaid and Citi derecognizes its investment in the unallocated precious metal. The forward purchase or sale contract with the trading counterparty indexed to unallocated precious metals is accounted for as a derivative, at fair value through earnings.
+Certain Mortgage Loans Held-for-Sale (HFS)
+Citigroup has elected the fair value option for certain purchased and originated prime fixed-rate and conforming adjustable-rate first mortgage loans HFS. These loans are intended for sale or securitization and are economically hedged with derivative instruments. The Company has elected the fair value option to mitigate accounting mismatches in cases where hedge accounting is complex and to achieve operational simplifications.
+The following table provides information about certain mortgage loans HFS carried at fair value:
+The changes in the fair values of these mortgage loans are reported in
+Other revenue
+in the Company’s Consolidated Statement of Income. There was no net change in fair value during the three months ended March 31, 2025 and 2024 due to instrument-specific credit risk. Changes in fair value due to

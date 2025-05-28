@@ -1,0 +1,34 @@
+accumulated other comprehensive loss in our consolidated balance sheet. The gain or loss will be subsequently reclassified into net earnings when the hedged net investment is either sold, liquidated or substantially liquidated. We have elected to assess the effectiveness of our net investment hedges based on changes in spot exchange rates. Accordingly, amounts related to the cross currency swaps recognized directly in net income represent net periodic interest settlements and accruals, which are recognized in interest expense, net. We recognized net interest income of $
+41
+million, net interest income of $
+25
+million and net interest expense of $
+31
+million during the twelve months ended December 31, 2024, 2023 and 2022, respectively.
+98
+Table of Contents
+Cash Flow Hedges
+Foreign Exchange Forward Contracts
+During the twelve months ended December 31, 2024, 2023 and 2022, we entered into a series of foreign exchange forward contracts to hedge a portion of the Indian rupee, British pound, and Euro exposures through the fourth quarter of 2026, 2025 and 2024, respectively. These contracts are intended to offset the impact of movement of exchange rates on future revenue and operating costs and are scheduled to mature within
+twenty-four months
+. The changes in the fair value of these contracts are initially reported in accumulated other comprehensive loss in our consolidated balance sheet and are subsequently reclassified into revenue and selling and general expenses in the same period that the hedged transaction affects earnings.
+As of December 31, 2024, we estimate that $
+1
+million of pre-tax gain related to foreign exchange forward contracts designated as cash flow hedges recorded in other comprehensive income is expected to be reclassified into earnings within the next twelve months.
+As of December 31, 2024 and 2023, the aggregate notional value of our outstanding foreign exchange forward contracts designated as cash flow hedges was $
+539
+million and $
+529
+million, respectively.
+Interest Rate Swaps
+In the first quarter of 2024, we terminated our interest rate swap contracts with an aggregate notional value of $
+813
+million and received net proceeds of $
+155
+million upon termination. These contracts were designated as cash flow hedges and were scheduled to mature beginning in the first quarter of 2027. We performed a final effectiveness test upon the termination of each swap, and the effective portion of the gain of $
+155
+million was recorded in accumulated other comprehensive loss in our consolidated balance sheet. The gain will be recognized into interest expense, net over the term which related interest payments will be made when we enter into anticipated future debt refinancing.
+The following table provides information on the location and fair value amounts of our cash flow hedges and net investment hedges as of December 31, 2024 and December 31, 2023:
+99
+Table of Contents
+The following table provides information on the location and amounts of

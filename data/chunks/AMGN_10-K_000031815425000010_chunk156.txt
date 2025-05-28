@@ -1,0 +1,15 @@
+limited partnership investments are measured by using our proportionate share of the net asset values of the underlying investments held by the limited partnerships, with such changes included in Other income (expense), net, in the Consolidated Statements of Income.
+Recently adopted accounting pronouncements
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, to improve reportable segment disclosure requirements through enhanced disclosures about significant segment expenses and additional interim segment reporting disclosures, including for companies with a single reportable segment. The standard is effective for public business entities such as Amgen for annual periods beginning after December 15, 2023, and interim periods beginning after December 15, 2024, with retrospective application required for all prior periods presented. We adopted this standard in fiscal year 2024, which resulted in incremental segment disclosures. See Note 2, Segment and other information.
+Recent accounting pronouncements not yet adopted
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, to improve income tax disclosure requirements by requiring more detailed information on several income tax
+F-13
+disclosures, such as enhancing disclosure of income taxes paid and requiring disaggregation of the effective income tax rate reconciliation. The standard is effective for public business entities such as Amgen for annual periods beginning after December 15, 2024. Early adoption is permitted, and entities may apply the standard prospectively or retrospectively. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and related disclosures.
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, to improve disclosures about a public business entity’s expenses by requiring disaggregated disclosures of certain types of expenses, including purchases of inventory, employee compensation, depreciation, intangible amortization and depletion, as applicable, for each income statement caption that includes those expenses. In addition, the standard will require entities to define and disclose total selling expenses. The standard is effective for public business entities such as Amgen for annual periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027. Early adoption is permitted, and entities may apply the standard prospectively or retrospectively. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and related disclosures.
+2.
+Segment and other information
+We operate our business in
+one
+operating segment, which also represents
+one
+reportable segment: human

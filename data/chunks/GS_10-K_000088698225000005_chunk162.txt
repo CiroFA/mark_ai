@@ -1,0 +1,18 @@
+decreases in transaction banking deposits and other deposits), partially offset by common stock repurchases and net repayments of unsecured long-term borrowings.
+Year Ended December 2023
+.
+Our cash and cash equivalents decreased by $248 million to $241.58 billion at the end of 2023, due to net cash used for investing and operating activities, partially offset by net cash provided by financing activities and the effect of exchange rate changes on cash and cash equivalents. The net cash used for investing activities primarily reflected net purchases of U.S. government obligations accounted for as held-to-maturity securities. The net cash used for operating activities primarily reflected cash outflows from trading assets and customer and other receivables and payables, net (reflecting a decrease in customer and other payables, partially offset by a decrease in customer and other receivables), partially offset by cash inflows from collateralized transactions (reflecting an increase in collateralized financings, partially offset by an increase in collateralized agreements), net earnings and trading liabilities. The net cash provided by financing activities primarily reflected cash inflows from deposits (reflecting increases in consumer deposits, brokered certificates of deposit and other deposits, partially offset by decreases in deposits sweep program balances and private bank deposits), partially offset by net repayments of unsecured long-term borrowings. The increase in cash and cash equivalents as a result of changes in foreign exchange rates was due to the U.S. dollar weakening during 2023.
+For an analysis of cash flows for the year ended December 2022, see Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2023.
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis
+Market Risk Management
+Overview
+Market risk is the risk of an adverse impact to our earnings due to changes in market conditions. Our assets and liabilities that give rise to market risk primarily include positions held for market making for our clients and for our investing and financing activities, and these positions change based on client demands and our investment opportunities. We employ a variety of risk measures, each described in the respective sections below, to monitor market risk. Categories of market risk include the following:
+•
+Interest rate risk: results from exposures to changes in the level, slope and curvature of yield curves, the volatilities of interest rates, prepayment speeds and credit spreads;
+•
+Equity price risk: results from exposures to changes in prices and volatilities of individual equities, baskets of equities and equity indices;
+•
+Currency rate risk: results from exposures to changes in spot prices, forward prices and volatilities of currency rates; and
+•
+Commodity price risk: results from exposures to

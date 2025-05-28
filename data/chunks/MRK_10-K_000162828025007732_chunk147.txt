@@ -1,0 +1,16 @@
+maturities at inception of less than six months. The cash flows from these contracts are reported as operating activities in the Consolidated Statement of Cash Flows.
+A sensitivity analysis to changes in the value of the U.S. dollar on foreign currency denominated derivatives, investments and monetary assets and liabilities indicated that if the U.S. dollar uniformly weakened by 10% against all currency exposures of the Company at December 31, 2024 and 2023,
+Income Before Taxes
+would have declined by approximately $239 million and $221 million in 2024 and 2023, respectively. Because the Company was in a net short (payable) position relative to its major foreign currencies after consideration of forward contracts, a uniform weakening of the U.S. dollar will yield the largest overall potential net loss in earnings due to exchange. This measurement assumes that a change in one foreign currency relative to the U.S. dollar would not affect other foreign currencies relative to the U.S. dollar. Although not predictive in nature, the Company believes that a 10% threshold reflects reasonably possible near-term changes in Merck’s major foreign currency exposures relative to the U.S. dollar. The cash flows from these contracts are reported as operating activities in the Consolidated Statement of Cash Flows.
+The Company also uses forward exchange contracts to hedge a portion of its net investment in foreign operations against movements in foreign exchange rates. The forward contracts are designated as hedges of the net investment in a foreign operation. The unrealized gains or losses on these contracts are recorded in foreign currency translation adjustment within
+OCI
+and remain in
+AOCL
+until either the sale or complete or substantially complete liquidation of the subsidiary. The Company excludes certain portions of the change in fair value of its derivative instruments from the assessment of hedge effectiveness (excluded components). Changes in fair value of the excluded components are recognized in
+OCI
+. The Company recognizes in earnings the initial value of the excluded components on a straight-line basis over the life of the derivative instrument, rather than using the mark-to-market approach. The cash flows from these contracts are reported as investing activities in the Consolidated Statement of Cash Flows.
+Foreign exchange risk is also managed through the use of foreign currency debt. Certain of the Company’s senior unsecured euro-denominated notes have been designated as, and are effective as, economic hedges of the net investment in a foreign operation. Accordingly, foreign currency transaction gains or losses due to spot rate fluctuations on the euro-denominated debt instruments are included in foreign currency translation adjustment within
+OCI
+.
+Interest Rate Risk Management
+The Company may use interest rate swap contracts on certain investing and borrowing transactions to manage its net exposure to interest rate changes and to reduce its overall

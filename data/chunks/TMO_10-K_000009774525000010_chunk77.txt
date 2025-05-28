@@ -1,0 +1,49 @@
+The company has stock-based compensation plans for its key employees, directors and others. These plans permit the grant of a variety of stock and stock-based awards, including restricted stock units, stock options or performance-based shares, as determined by the compensation committee of the company’s Board of Directors or, for certain non-officer grants, by the company’s employee equity committee, which consists of its chief executive officer. The company generally issues new shares of its common stock to satisfy option exercises and restricted unit vesting. Grants of stock options and restricted units generally provide that in the event of both a change in control of the company and a qualifying termination of an option or unit holder’s employment, all options and service-based restricted unit awards held by the recipient become immediately vested (unless an employment or other agreement with the employee provides for different treatment).
+Stock Options
+The weighted average assumptions used in the Black-Scholes option pricing model are as follows:
+The total intrinsic value of options exercised during the same periods was $
+395
+million, $
+320
+million and $
+336
+million, respectively. The intrinsic value is the difference between the market value of the shares on the exercise date and the exercise price of the option.
+A summary of the company’s option activity for the year ended December 31, 2024 is presented below:
+As of December 31, 2024, there was $
+176
+million of total unrecognized compensation cost related to unvested stock options granted. The cost is expected to be recognized through 2028 with a weighted average amortization period of
+2.1
+years.
+Restricted Share/Unit Awards
+A summary of the company’s restricted unit activity for the year ended December 31, 2024 is presented below:
+72
+THERMO FISHER SCIENTIFIC INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+The weighted average per share grant-date fair values of restricted units granted during 2023 and 2022 were $
+545.73
+and $
+520.83
+, respectively. The total fair value of shares vested during 2024, 2023 and 2022 was $
+165
+million, $
+207
+million and $
+163
+million, respectively.
+As of December 31, 2024, there was $
+225
+million of total unrecognized compensation cost related to unvested restricted stock unit awards. The cost is expected to be recognized through 2028 with a weighted average amortization period of
+1.9
+years.
+Employee Stock Purchase Plans
+Qualifying employees are eligible to participate in an employee stock purchase plan sponsored by the company. Shares may be purchased under the program at
+95
+% of the fair market value at the end of the purchase period and the shares purchased are not subject to a holding period. Shares are purchased through payroll deductions of up to
+10
+% of each participating employee’s qualifying gross wages. The company issued
+0.1
+million,
+0.1
+million and
+0.2
+million shares, respectively, of its common stock in 2024, 2023 and 2022 under the

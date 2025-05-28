@@ -1,0 +1,20 @@
+“Other income (expense), net” on our consolidated statements of operations. These warrants are classified as Level 2 and 3 assets.
+These non-marketable investments are included within “Other assets” on our consolidated balance sheets.
+Certain of our investments represent a variable interest in an entity. We do not consolidate the entities in which we hold these investments because we are not the primary beneficiary.
+Long-Lived Assets
+Long-lived assets, other than goodwill and indefinite-lived intangible assets, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an asset is used, or any other significant adverse change that would indicate that the carrying amount of an asset or group of assets may not be recoverable.
+For long-lived assets used in operations, including lease assets, impairment losses are only recorded if the asset’s carrying amount is not recoverable through its undiscounted, probability-weighted future cash flows. We measure the impairment loss based on the difference between the carrying amount and estimated fair value. Long-lived assets are considered held for sale when certain criteria are met, including when management has committed to a plan to sell the asset, the asset is available for sale in its immediate condition, and the sale is probable within one year of the reporting date. Assets held for sale are reported at the lower of cost or fair value less costs to sell.
+Assets held for sale were not significant as of December 31, 2023 and 2024.
+Accrued Expenses and Other
+Included in “Accrued expenses and other” on our consolidated balance sheets are liabilities primarily related to tax-related liabilities, leases and asset retirement obligations, self-insurance liabilities, payroll and related expenses, current debt, unredeemed gift cards, customer liabilities, marketing liabilities, acquired digital media content, and other operating expenses.
+As of December 31, 2023 and 2024, our liabilities for payroll related expenses were $
+7.7
+billion and $
+7.5
+billion and our liabilities for unredeemed gift cards were $
+5.3
+billion and $
+5.4
+billion. We reduce the liability for a gift card when redeemed by a customer. The portion of gift cards that we do not expect to be redeemed is recognized based on customer usage patterns.
+Self-Insurance Liabilities
+Although we maintain certain high-deductible, third-party insurance coverage for catastrophic losses, we effectively self-insure for exposure primarily related to workers’ compensation, employee healthcare benefits, general and product liability, and automobile liability, including liability resulting from third-party transportation service providers. We estimate self-insurance liabilities by considering

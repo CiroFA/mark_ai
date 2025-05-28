@@ -1,0 +1,44 @@
+total risk-weighted assets.
+CFO:
+Chief Financial Officer
+CGMHI:
+Citigroup Global Markets Holdings Inc.
+CGMI:
+Citigroup Global Markets Inc.
+CGML:
+Citigroup Global Markets Limited
+Citi:
+Citigroup Inc.
+Citibank or CBNA:
+Citibank, N.A. (National Association)
+320
+Classifiably managed:
+Loans primarily evaluated for credit risk based on internal risk rating classification.
+Client investment assets:
+Represent assets under management, trust and custody assets.
+Cluster revenues:
+Cluster revenues are primarily based on where the underlying transaction is managed.
+CODM:
+Chief operating decision maker. For Citi, the Chief Executive Officer.
+Collateral dependent:
+A loan is considered collateral dependent when repayment of the loan is expected to be provided substantially through the operation or sale of the collateral when the borrower is experiencing financial difficulty, including when foreclosure is deemed probable based on borrower delinquency.
+Commercial card spend volume:
+Represents the total global spend volumes using Citi-issued commercial cards net of refunds and returns.
+Commercial cards:
+Provides a wide range of payment services to corporate and public sector clients worldwide through commercial card products. Services include procurement, corporate travel and entertainment, expense management services and business-to-business payment solutions.
+Consent Orders:
+In October 2020, Citigroup and Citibank entered into consent orders with the FRB and OCC that require Citigroup and Citibank to make improvements in various aspects of enterprise-wide risk management, compliance, data quality management related to governance, and internal controls. In July 2024, the FRB and OCC entered into civil money penalty consent orders with Citigroup and Citibank to address remediation effort shortcomings.
+CRE:
+Commercial real estate
+Credit cycle:
+A period of time over which credit quality improves, deteriorates and then improves again (or vice versa). The duration of a credit cycle can vary from a couple of years to several years.
+Credit derivatives:
+Financial instruments whose value is derived from the credit risk associated with the debt of a third-party issuer (the reference entity), which allow one party (the protection purchaser) to transfer that risk to another party (the protection seller).
+Criticized:
+Criticized loans, lending-related commitments and derivative receivables that are classified as special mention, substandard and doubtful categories for regulatory purposes.
+Cross-border transaction value:
+Represents the total value of cross-border FX payments processed through Citi’s proprietary Worldlink and Cross-Border Funds Transfer platforms, including payments from consumer, corporate, financial institution and public sector clients.
+CTA:
+Cumulative translation adjustment (also known as currency translation adjustment). A separate component of equity within
+AOCI
+reported net of tax. For Citi, represents the impact of translating non-USD balance sheet items

@@ -1,0 +1,23 @@
+including expected lifetime credit losses, interest rates, prepayment rates, and primary origination or secondary market spreads. For certain loans, the fair value is measured based on the value of the underlying collateral. Carrying value of the loan takes into account the loan’s allowance for loan losses, which represents the loan’s expected credit losses over its remaining expected life. The difference between the estimated fair value and carrying value of a loan is generally attributable to changes in market interest rates, including credit spreads, market liquidity premiums and other factors that affect the fair value of a loan but do not affect its carrying value.
+(b)
+Excludes lending-related commitments disclosed in the table below.
+The majority of the Firm’s lending-related commitments are not carried at fair value on a recurring basis on the Consolidated balance sheets. The carrying value and the estimated fair value of these wholesale lending-related commitments were as follows for the periods indicated.
+(a)
+Excludes the current carrying values of the guarantee liability and the offsetting asset, each of which is recognized at fair value at the inception of the guarantees.
+(b)
+Includes the wholesale allowance for lending-related commitments.
+The Firm does not estimate the fair value of consumer off-balance sheet lending-related commitments. In many cases, the Firm can reduce or cancel these commitments with or without notice to the borrower, as permitted by law, or in accordance with the contract. Refer to page 183 of JPMorganChase’s 2024 Form 10-K for a further discussion of the valuation of lending-related commitments.
+95
+Note 3 –
+Fair value option
+The fair value option provides an option to elect fair value for selected financial assets, financial liabilities, unrecognized firm commitments, and written loan commitments.
+The Firm has elected to measure certain instruments at fair value for several reasons including to mitigate income statement volatility caused by the differences between the measurement basis of elected instruments (e.g., certain instruments that otherwise would be accounted for on an accrual basis) and the associated risk management arrangements that are accounted for on a fair value basis, as well as to better reflect those instruments that are managed on a fair value basis.
+The Firm’s election of fair value includes the following instruments:
+•
+Loans purchased or originated as part of securitization warehousing activity, subject to bifurcation accounting, or managed on a fair value basis, including lending-related commitments
+•
+Certain securities financing agreements
+•
+Owned beneficial interests in securitized financial assets that contain embedded credit derivatives, which would otherwise be required to be separately accounted for as a derivative instrument
+•
+Structured notes and other hybrid instruments, which are predominantly financial instruments that contain embedded derivatives, that are issued or transacted

@@ -1,0 +1,39 @@
+commingled and LP structures rely on the NAV of these investments as the practical expedient for the valuations.
+100
+Table of
+Contents
+The following tables summarizes the changes of Level 3 assets, reconciled by asset class, held during the years ended December 31, 2024 and 2023. Transfers into and out of Level 3 are reported at the beginning-of-year values.
+For the year ended December 31, 2024, the changes in unrealized (losses)/gains for Level 3 assets still held at December 31, 2024 were ($
+7
+) for corporate fixed income securities, and $
+1
+for mortgage backed and asset backed fixed income securities.
+For the year ended December 31, 2023, the changes in unrealized gains for Level 3 assets still held at December 31, 2023 were $
+2
+for corporate fixed income securities, $
+6
+for mortgage backed and asset backed fixed income securities, and $
+3
+for other fixed income securities.
+OPB Plan Assets
+The majority of OPB plan assets are invested in two commingled index funds (with daily liquidity) which are held at a target allocation of approximately
+60
+% in the equity fund and
+40
+% in the debt fund. The commingled funds are valued daily at their NAVs which are calculated by the
+101
+Table of
+Contents
+investment manager. The expected rate of return on these assets does not have a material effect on the net periodic benefit cost.
+Cash Flows
+Contributions
+Required pension contributions under the Employee Retirement Income Security Act (ERISA), as well as rules governing funding of our non-US pension plans, are not expected to be significant in 2025. We do not expect to make discretionary contributions to our pension plans in 2025.
+Estimated Future Benefit Payments
+The table below reflects the total pension benefits expected to be paid from the plans or from our assets, including both our share of the benefit cost and the participants’ share of the cost, which is funded by participant contributions. OPB payments reflect our portion only.
+Termination Provisions
+Certain of the pension plans provide that, in the event there is a change in control of the Company which is not approved by the Board of Directors and the plans are terminated within five years thereafter, the assets in the plan first will be used to provide the level of retirement benefits required by ERISA, and then any surplus will be used to fund a trust to continue present and future payments under the postretirement medical and life insurance benefits in our group insurance benefit programs.
+Should we terminate certain pension plans under conditions in which the plan’s assets exceed that plan’s obligations, the U.S. government will be entitled to a fair allocation of any of the plan’s assets based on plan contributions that were reimbursed under U.S. government contracts.
+Defined Contribution Plans
+We provide certain defined contribution plans to all eligible employees. The principal plans are the Company-sponsored 401(k) plans. The expense for these defined contribution plans was $
+1,670
+, $

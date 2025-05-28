@@ -1,0 +1,30 @@
+opportunity cost from lost revenues
+•
+increased operational costs, or
+•
+harm to JPMorganChase’s reputation.
+JPMorganChase’s risk management framework and control environment will not be effective in identifying and mitigating every risk to JPMorganChase.
+Any inadequacy or lapse in JPMorganChase’s risk management framework, governance structure, practices, models or reporting systems, or in its control environment, could expose it to unexpected losses, and its financial condition or results of operations could be materially and adversely affected. Any such inadequacy or lapse could:
+•
+hinder the timely escalation of material risk issues to JPMorganChase’s senior management and Board of Directors
+•
+lead to business decisions that have negative outcomes for JPMorganChase
+•
+require significant resources and time to remediate
+•
+lead to non-compliance with laws, rules and regulations
+•
+attract heightened regulatory scrutiny
+•
+expose JPMorganChase to litigation, regulatory investigations or regulatory fines, penalties or other sanctions
+•
+lead to potential harm to customers and clients, and any liability associated with that harm
+•
+harm its reputation, or
+•
+otherwise diminish confidence in JPMorganChase.
+Many of JPMorganChase’s risk management strategies and techniques consider historical market behavior and to some degree are based on management’s subjective judgment or assumptions. For example, many models used by JPMorganChase are based on assumptions regarding historical
+correlations among prices of various asset classes or other market indicators. In times of market stress, including difficult or less liquid market environments, or in the event of other unforeseen circumstances, previously uncorrelated indicators may become correlated. Conversely, previously-correlated indicators may become uncorrelated at those times. Sudden market movements and unanticipated market or economic events could, in some circumstances, limit the effectiveness of JPMorganChase’s risk management strategies, causing it to incur losses.
+JPMorganChase could recognize unexpected losses, its capital levels could be reduced and it could face greater regulatory scrutiny if its models, estimations or judgments, including those used in its financial statements, are inadequate or incorrect.
+JPMorganChase has developed and uses a variety of models and other analytical and judgment-based estimations to measure, monitor and implement controls over its market, credit, capital, liquidity, operational and other risks. JPMorganChase also uses internal models and estimations as a basis for its stress testing and in connection with the preparation of its financial statements under U.S. generally accepted accounting principles (“U.S. GAAP”).
+These models and estimations are based on a variety of assumptions and historical trends, and are periodically reviewed and modified as necessary. The models and estimations that JPMorganChase uses, including those that use machine learning or

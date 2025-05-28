@@ -1,0 +1,33 @@
+2025 includes an increase of approximately $50 million related to FX translation.
+(3)
+The fourth quarter of 2024 includes a decrease of approximately $103 million related to FX translation.
+57
+(4)
+The third quarter of 2024 includes approximately $23 million related to an acquired portfolio and a decrease of approximately $93 million related to FX translation.
+(5)
+The second quarter of 2024 includes a decrease of approximately $156 million related to FX translation.
+(6)
+The first quarter of 2024 includes an increase of approximately $32 million related to FX translation.
+(7)
+March 31, 2025, December 31, 2024, September 30, 2024, June 30, 2024 and March 31, 2024 exclude $8.2 billion, $8.0 billion, $8.1 billion, $8.5 billion and $8.9 billion, respectively, of loans that are carried at fair value.
+(8)
+Represents additional credit reserves recorded as
+Other liabilities
+on the Consolidated Balance Sheet.
+(9)
+See “Significant Accounting Policies and Significant Estimates” below. Attribution of the allowance is made for analytical purposes only and is available to absorb probable credit losses inherent in the overall portfolio.
+Allowance for Credit Losses on Loans (ACLL)
+The following tables detail information on Citi’s ACLL, loans and coverage ratios:
+(1)
+Excludes loans carried at fair value, since they do not have an ACLL and are excluded from the ACLL ratio calculation.
+(2)
+Includes both Branded Cards and Retail Services. As of March 31, 2025, the $13.4 billion of ACLL represented approximately 21 months of coincident net credit loss coverage (based on 1Q25 NCLs). As of March 31, 2025, Branded Cards ACLL as a percentage of EOP loans was 6.6% and Retail Services ACLL as a percentage of EOP loans was 11.8%. As of December 31, 2024, the $13.6 billion of ACLL represented approximately 22 months of coincident net credit loss coverage (based on 4Q24 NCLs). As of December 31, 2024, Branded Cards ACLL as a percentage of EOP loans was 6.4% and Retail Services ACLL as a percentage of EOP loans was 11.3%.
+(3)
+Includes residential mortgages, retail loans and personal, small business and other loans, including those extended through the Private Bank network.
+58
+(4)
+The above corporate loan classifications are broadly based on the loan’s collateral, purpose and type of borrower, which may be different from the following industry table. For example, commercial and industrial, financial institutions, and installment and other loan classifications include various forms of loans to borrowers across multiple industries, whereas mortgage and real estate includes loans secured primarily by real estate.
+N/A Not applicable
+The following table details Citi’s corporate credit ACLL by industry exposure:
+(1)    Funded exposure excludes loans carried at fair value of $7.9 billion that are not subject to the ACLL under the CECL standard.
+(2)    As of March 31, 2025, the portion of the ACLL attributed to the total funded CRE exposure (including the Private Bank) was approximately

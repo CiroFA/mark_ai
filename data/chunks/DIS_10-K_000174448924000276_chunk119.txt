@@ -1,0 +1,26 @@
+determining any such additional amount payable by the Company, awaits the resolution of the confidential arbitration.
+During the initial phase of the appraisal process, the Company’s appraiser arrived at a valuation that falls below the guaranteed floor value, while NBCU’s appraiser arrived at a valuation substantially in excess of the guaranteed floor value. Once the arbitration is completed, determination of the final equity fair value will take into account the valuation of a third appraiser pursuant to the appraisal process as resolved by the arbitration. If the third appraiser’s equity fair value determination were equal to or below the guaranteed floor value, the Company would not be required to pay NBCU any additional amount. Conversely, if NBCU’s appraiser’s valuation were deemed to be valid and the third appraiser’s equity fair value determination were consistent with the NBCU’s appraiser’s valuation, the Company would be required to pay NBCU an additional amount of approximately $
+5
+billion as its share of the difference between the equity fair value and the guaranteed floor value. If the third appraiser’s equity fair value determination were between the valuations of the Company’s and NBCU’s appraisers, the incremental amount would likewise be between
+zero
+and approximately $
+5
+billion.
+Any incremental amount determined to be payable to NBCU to acquire NBCU’s interest in Hulu would be recorded as “Net income from continuing operations attributable to noncontrolling interests” and thus reduce “Net income attributable to Disney” in the Consolidated Statements of Income in the period recorded.
+BAMTech LLC
+In November 2022, the Company purchased MLB’s
+15
+% redeemable noncontrolling interest in BAMTech LLC, which holds the Company’s domestic DTC sports business, for $
+900
+million (MLB buy-out). MLB’s interest was recorded in the Company’s financial statements at $
+828
+million prior to the MLB buy-out. The $
+72
+million difference was recorded as an increase in “Net income from continuing operations attributable to noncontrolling interests” in the Consolidated Statements of Income.
+During the fiscal year ended 2023, Hearst Corporation (Hearst) contributed $
+710
+million to the domestic DTC sports business, in part to fund its
+20
+% share of the MLB buy-out and in part to fund its share of the domestic DTC sports business’s operating cash requirements, which had been funded by the Company through intercompany loans.
+Earnings Per Share
+The Company presents both basic and diluted earnings per share (EPS) amounts. Basic EPS is calculated by dividing net income attributable to Disney by the weighted average number of common shares outstanding during the year. Diluted EPS is based upon the weighted average number of common and common equivalent shares outstanding during the year, which is calculated using the treasury-stock method for equity-based awards (Awards). Common equivalent shares are excluded from the computation in periods for which they

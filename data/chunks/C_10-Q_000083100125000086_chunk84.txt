@@ -1,0 +1,44 @@
+underlying collateral:
+119
+12.
+BROKERAGE RECEIVABLES AND BROKERAGE PAYABLES
+The Company has receivables and payables for financial instruments sold to and purchased from brokers, dealers and customers, which arise in the ordinary course of business.
+For additional information on these receivables and payables, see Note 13 to the Consolidated Financial Statements in Citi’s 2024 Form 10-K.
+Brokerage receivables
+and
+Brokerage payables
+consisted of the following:
+(1)     Includes brokerage receivables and payables recorded by Citi’s broker-dealer entities that are accounted for in accordance with the AICPA Accounting Guide for Brokers and Dealers in Securities as codified in ASC 940-320.
+120
+13.
+INVESTMENTS
+For additional information regarding Citi’s investment portfolios, including evaluating investments for impairment, see Note 14 to the Consolidated Financial Statements
+in Citi’s 2024 Form 10-K.
+The following table presents Citi’s investments by category:
+(1)
+Carried at adjusted amortized cost basis, net of any ACL.
+(2)
+Unrealized gains and losses are recognized in earnings.
+(3)
+Includes $
+29
+million and $
+23
+million of investments in funds for which the fair values are estimated using the net asset value of the Company’s ownership interest in the funds at March 31, 2025 and December 31, 2024, respectively.
+(4)
+Impairment losses and adjustments to the carrying value as a result of observable price changes are recognized in earnings. See “Non-Marketable Equity Securities Not Carried at Fair Value” below.
+(5)    Represents shares issued by the Federal Reserve Bank, Federal Home Loan Banks and certain exchanges of which Citigroup is a member.
+(6)    Not included in the balances above is approximately $
+2
+billion of accrued interest receivable at March 31, 2025 and December 31, 2024, which is included in
+Other assets
+on the Consolidated Balance Sheet. The Company does not recognize an allowance for credit losses on accrued interest receivable for AFS and HTM debt securities, consistent with its non-accrual policy, which results in timely write-off of accrued interest. The Company did not reverse through interest income any accrued interest receivables for the quarters ended March 31, 2025 and 2024.
+The following table presents interest and dividend income on investments:
+The following table presents realized gains and losses on the sales of investments, which exclude impairment losses:
+121
+Debt Securities Available-for-Sale
+The amortized cost and fair value of AFS debt securities were as follows:
+(1)
+The Company invests in mortgage- and asset-backed securities, which are typically issued by VIEs through securitization transactions. The Company’s maximum exposure to loss from these VIEs is equal to the carrying amount of the securities, which is reflected in the table above. See Note 21 for mortgage- and asset-backed securitizations in which the Company has other involvement.
+(2)
+Amortized cost includes unallocated portfolio-layer cumulative basis

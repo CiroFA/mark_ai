@@ -1,0 +1,40 @@
+income tax liabilities related to unrecognized tax benefits of $
+1.4
+billion, recorded under Other long-term liabilities in the Company’s Consolidated Balance Sheets.
+The Company is subject to taxation in the U.S. and foreign jurisdictions. Earnings from non-U.S. activities are subject to local country income tax. The material jurisdiction in which the Company is subject to potential examination by the taxing authority is the United States, where tax years from 2008 are open for audit. Pre-acquisition Xilinx U.S. tax returns for fiscal years 2018 and 2019 are currently under audit by the IRS. It is possible the Company may have tax audits close in the next 12 months that could materially change the balance of the uncertain tax benefits; however, the timing of tax audit closures and settlements are highly uncertain.
+Under current U.S. tax law, the impact of future distributions of undistributed earnings that are indefinitely reinvested are anticipated to be subject to withholding taxes from local jurisdictions and non-conforming U.S. state jurisdictions. There were no cumulative undistributed earnings that are indefinitely reinvested that could be subject to withholding taxes as of December 28, 2024.
+83
+Table of Contents
+NOTE 16 –
+Other Income (Expense), Net
+The following table summarizes the components of Other income (expense), net:
+NOTE 17 –
+Commitments and Guarantees
+Operating Leases
+The Company has entered into operating and finance leases for its corporate offices, data centers, research and development facilities and certain equipment. The leases expire at various dates through 2038, some of which include options to extend the lease for up to ten years.
+For 2024, 2023 and 2022, the Company recorded $
+147
+million, $
+127
+million and $
+118
+million, respectively, of operating lease expense, including short-term lease expense. For 2024, 2023, and 2022, the Company recorded $
+83
+million, $
+46
+million, and $
+40
+million respectively, of variable lease expense, which primarily included operating expenses and property taxes associated with the usage of facilities under the operating leases. For 2024, 2023, and 2022 cash paid for operating leases included in operating cash flows was $
+155
+million $
+147
+million and $
+108
+million, respectively. The Company’s finance and short-term leases are immaterial to the Company’s consolidated financial statements.
+Supplemental information related to leases is as follows:
+Future minimum lease payments under non-cancellable operating lease liabilities as of December 28, 2024 are as follows:
+Certain other operating leases contain provisions for escalating lease payments subject to changes in the consumer price index.
+84
+Table of Contents
+Commitments
+The Company’s purchase commitments primarily include the Company’s obligations to purchase wafers and substrates from third parties and future payments related to certain software and technology licenses and IP licenses. Purchase commitments include obligations made under

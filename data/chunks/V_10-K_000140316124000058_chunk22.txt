@@ -1,0 +1,19 @@
+Form 10-Q, our current reports on Form 8-K, proxy statements and any amendments to those reports filed or furnished pursuant to the U.S. Securities Exchange Act of 1934 can be viewed at
+sec.gov
+and our investor relations website at
+investor.visa.com
+as soon as reasonably practicable after these materials are electronically filed with or furnished to the U.S. Securities and Exchange Commission (SEC). In addition, we routinely post financial and other information, which could be deemed to be material to investors, on our investor relations website. Information regarding our corporate responsibility and sustainability initiatives is also available on our website at
+visa.com/crs.
+The content of any of our websites referred to in this report is not incorporated by reference into this report or any other filings with the SEC.
+18
+Table
+of Contents
+ITEM 1A. Risk Factors
+Regulatory Risks
+We are subject to complex and evolving global regulations that could harm our business and financial results.
+As a global payments technology company, we are subject to complex and evolving regulations that govern our operations. See
+Item 1
+—
+Government Regulation
+for more information on the most significant areas of regulation that affect our business. The impact of these regulations on us, our clients, and other third parties could limit our ability to enforce our payments system rules; require us to adopt new rules or change existing rules; affect our existing contractual arrangements; increase our compliance costs; and require us to make our technology or intellectual property available to third parties, including competitors, in an undesirable manner. As discussed in more detail below, we may face differing rules and regulations in matters like interchange reimbursement rates, preferred routing, domestic processing and localization requirements, currency conversion, point-of-sale transaction rules and practices, privacy, data use and protection, licensing requirements, and associated product technology. As a result, the Visa operating rules and our other contractual commitments may differ from country to country, state to state, or by products. Complying with these and other regulations increases our costs and operational complexity, and reduces our revenue opportunities.
+If widely varying regulations come into existence worldwide, we may have difficulty rapidly adjusting our products, services, fees and other important aspects of our business to comply with the regulations. Our compliance programs and policies are designed to support our compliance with a wide array of regulations and laws, such as regulations regarding anti-money laundering, anti-corruption, competition, money transfer services, privacy, and sanctions, and we continually adjust our compliance programs as regulations evolve. However, we cannot guarantee that our practices will be deemed compliant by all applicable regulatory authorities. In the event our controls should fail or we are found to be

@@ -1,0 +1,30 @@
+manufacturing and support organizations, such as facilities, procurement and logistics, provide support to our operating segments, including those in Other. Costs incurred by these organizations, including depreciation, are charged to the segments on a per-unit basis. Consequently, depreciation expense is not an independently identifiable component within the segments’ results and, therefore, is not provided.
+With the exception of goodwill, we do not identify or allocate assets by operating segment, nor does the CODM evaluate operating segments using discrete asset information. We have no material intersegment revenue. The accounting policies of the segments are consistent with those described in the significant accounting policies and practices.
+The CODM assesses the performance of our segments and decides how to allocate resources based on each segment’s revenue growth, gross margin and operating profit. The CODM utilizes these metrics by comparing budget versus actual results as well as benchmarking to our competitors.
+Segment information
+30
+Geographic area information
+Our estimate for revenue based on the geographic location of our end customers’ headquarters, which represents where critical decisions are made, is as follows:
+(a)
+Revenue from end customers headquartered in Germany was
+11
+%,
+13
+% and
+11
+% of total revenue in 2024, 2023 and 2022, respectively.
+Property, plant and equipment by geographic area, based on physical location:
+31
+Major customer
+One of our end customers accounted for
+12
+% of revenue in 2024 recognized primarily in our Analog segment. No end customer accounted for 10% or more of revenue in 2023 or 2022.
+2.
+Basis of presentation and significant accounting policies and practices
+Basis of presentation
+The consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (GAAP). The basis of these financial statements is comparable for all periods presented herein.
+The consolidated financial statements include the accounts of all subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. All dollar and share amounts in the financial statements and tables in these notes, except per-share amounts, are presented in millions unless otherwise indicated. We have reclassified certain amounts in the prior periods’ financial statements to conform to the 2024 presentation.
+The preparation of financial statements requires the use of estimates from which final results may vary.
+Significant accounting policies and practices
+Revenue recognition
+We generate revenue primarily from the sale of semiconductor products, either directly to a customer or to a distributor, and recognize revenue when control is transferred. Control is considered transferred when title and risk of loss pass, when the customer becomes obligated to pay and, where required, when the customer has accepted the products. This transfer generally occurs at a point in

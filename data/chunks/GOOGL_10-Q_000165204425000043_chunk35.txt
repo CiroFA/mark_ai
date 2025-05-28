@@ -1,0 +1,21 @@
+addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of performance presented in accordance with GAAP.
+38
+Th
+e following table presents the foreign currency exchange effect on international revenues and total revenues (in millions, except percentages):
+(1)
+Total constant currency revenues of $91.6 billion for the three months ended March 31, 2025 increased $11.1 billion compared to $80.5 billion in revenues, excluding hedging effect, for the three months ended March 31, 2024.
+EMEA revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the euro.
+APAC revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Japanese yen, Australian dollar, and South Korean won.
+Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Brazilian real.
+Costs and Expenses
+Cost of Revenues
+The following table presents cost of revenues, including TAC (in millions, except percentages):
+Cost of revenues increased $2.6 billion from the three months ended March 31, 2024 to the three months ended March 31, 2025 due to an increase in other cost of revenues and TAC of $1.8 billion and $802 million, respectively.
+The
+increase
+in TAC from the three months ended March 31, 2024 to the three months ended March 31, 2025 was largely due to an increase in TAC paid to distribution partners, primarily driven by growth in revenues subject to TAC. The TAC rate decreased from 21.0% to 20.6% from the three months ended March 31, 2024 to the three months ended March 31, 2025 primarily due to a revenue mix shift from Google Network properties to Google Search & other properties. The TAC rate on Google Search & other revenues increased from the three months ended March 31, 2024 to the three months ended March 31, 2025 primarily due to increases related to mobile searches, which carries higher TAC because more mobile searches are channeled through paid access points. The TAC rate on Google Network revenues decreased from the three months ended March 31, 2024 to the three months ended March 31, 2025 due to a combination of factors, none of which were individually significant.
+The increase in other cost of revenues from the three months ended March 31, 2024 to the three months ended March 31, 2025 was primarily due to increases in content acquisition costs, largely for YouTube,  depreciation expense, and other technical infrastructure operations costs.
+39
+Research and Development
+The following table presents R&D expenses (in millions, except percentages):
+R&D expenses increased $1.7 billion from the three months ended March 31, 2024

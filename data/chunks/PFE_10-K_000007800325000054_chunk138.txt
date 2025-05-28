@@ -1,0 +1,27 @@
+and liabilities at fair value, either upon initial recognition or for subsequent accounting or reporting. We estimate fair value using an exit price approach, which requires, among other things, that we determine the price that would be received to sell an asset or paid to transfer a liability in an orderly market. The determination of an exit price is considered from the perspective of market participants, considering the highest and best use of non-financial assets and, for liabilities, assuming that the risk of non-performance will be the same before and after the transfer.
+When estimating fair value, depending on the nature and complexity of the asset or liability, we may use one or all of the following techniques:
+•
+Income approach, which is based on the present value of a future stream of net cash flows.
+•
+Market approach, which is based on market prices and other information from market transactions involving identical or comparable assets or liabilities.
+•
+Cost approach, which is based on the cost to acquire or construct comparable assets, less an allowance for functional and/or economic obsolescence.
+Our fair value methodologies depend on the following types of inputs:
+•
+Quoted prices for identical assets or liabilities in active markets (Level 1 inputs).
+•
+Quoted prices for similar assets or liabilities in active markets, or quoted prices for identical or similar assets or liabilities in markets that are not active, or inputs other than quoted prices that are directly or indirectly observable, or inputs that are derived principally from, or corroborated by, observable market data by correlation or other means (Level 2 inputs).
+•
+Unobservable inputs that reflect estimates and assumptions (Level 3 inputs).
+The following inputs and valuation techniques are used to estimate the fair value of our financial assets and liabilities:
+•
+Available-for-sale debt securities—third-party matrix-pricing model that uses significant inputs derived from or corroborated by observable market data and credit-adjusted yield curves.
+•
+Equity securities with readily determinable fair values—quoted market prices and observable NAV prices.
+•
+Derivative assets and liabilities—third-party matrix-pricing model that uses inputs derived from or corroborated by observable market data. Where applicable, these models use market-based observable inputs, including interest rate yield curves to discount future cash flow amounts, and forward and spot prices for currencies. The credit risk impact to our derivative financial instruments was not significant.
+•
+Money market funds—observable NAV prices.
+We periodically review the methodologies, inputs and outputs of third-party pricing services for reasonableness. Our procedures can include, for example, referencing other third-party pricing models, monitoring key observable inputs (like benchmark interest rates) and selectively performing test-comparisons of values with actual sales of financial instruments.
+F.
+Foreign Currency

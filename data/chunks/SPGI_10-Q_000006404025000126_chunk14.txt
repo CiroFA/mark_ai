@@ -1,0 +1,44 @@
+adjustments.
+2
+As of March 31, 2025, $
+4,239
+million relates to our redeemable noncontrolling interest in the Indices business.
+Accumulated Other Comprehensive Loss
+The following table summarizes the changes in the components of accumulated other comprehensive loss for the three months ended March 31:
+1
+Includes an unrealized gain related to our cross currency swaps. See Note 5 –
+Derivative Instruments
+for additional detail of items recognized in accumulated other comprehensive loss.
+2
+Reflects amortization of net actuarial losses and is net of a tax benefit of less than $
+1
+million for the three months ended March 31, 2025. See Note 6 —
+Employee Benefits
+for additional details of items reclassed from accumulated other comprehensive loss to net earnings.
+3
+See Note
+5 — Derivative
+Instruments
+for additional details of items reclassified from accumulated other comprehensive loss to net earnings.
+9.
+Earnings Per Share
+Basic earnings per common share (“EPS”) is computed by dividing net income attributable to the common shareholders of the Company by the weighted-average number of common shares outstanding. Diluted EPS is computed in the same manner as basic EPS, except the number of shares is increased to include additional common shares that would have been outstanding if potential common shares with a dilutive effect had been issued. Potential common shares consist primarily of restricted performance shares and stock options calculated using the treasury stock method.
+18
+The calculation of basic and diluted EPS for the three months ended March 31 is as follows:
+We have certain stock options and restricted performance shares that are potentially excluded from the computation of diluted EPS. The effect of the potential exercise of stock options is excluded when the average market price of our common stock is lower than the exercise price of the related option during the period or when a net loss exists because the effect would have been antidilutive. Additionally, restricted performance shares are excluded because the necessary vesting conditions had not been met or when a net loss exists.
+For the three months ended March 31, 2025 and 2024, there were
+no
+stock options excluded. Restricted performance shares outstanding of
+0.7
+million and
+0.9
+million
+as of March 31, 2025 and 2024, respectively, were excluded.
+10.
+Restructuring
+We continuously evaluate our cost structure to identify cost savings associated with streamlining our management structure. Our 2025 and 2024 restructuring plans consisted of a company-wide workforce reduction of approximately
+230
+and
+1,230
+positions, respectively, and are further detailed below. The charges for each restructuring plan are classified as selling and general expenses within the consolidated statements of income and the reserves are included in other current liabilities in the consolidated balance sheets.
+In certain circumstances, reserves are no longer needed because employees previously identified for separation

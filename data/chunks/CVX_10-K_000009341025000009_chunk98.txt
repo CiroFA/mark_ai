@@ -1,0 +1,50 @@
+which account for
+73
+percent of the company’s pension plan assets at the beginning of the year.
+The market-related value of assets of the main U.S. pension plan used in the determination of pension expense was based on the market values in the
+three months
+preceding the year-end measurement date. Management considers the
+three-month
+time period long enough to minimize the effects of distortions from day-to-day market volatility and still be contemporaneous to the end of the year. For other plans, market value of assets as of year-end is used in calculating the pension expense.
+Discount Rate
+The discount rate assumptions used to determine the U.S. and international pension and OPEB plan obligations and expense reflect the rate at which benefits could be effectively settled, and are equal to the equivalent single rate resulting from yield curve analysis. This analysis considered the projected benefit payments specific to the company’s plans and the yields on high-quality bonds. The projected cash flows were discounted to the valuation date using the yield curve for the main U.S. pension and OPEB plans. The effective discount rates derived from this analysis were
+5.7
+percent,
+5.0
+percent, and
+5.2
+percent for 2024, 2023, and 2022, respectively, for the main U.S. pension plan and
+5.6
+percent,
+5.0
+percent, and
+5.2
+percent for 2024, 2023, and 2022, respectively, for the main U.S. OPEB plans.
+96
+Other Benefit Assumptions
+For the measurement of accumulated post-employment benefit obligation at December 31, 2024, for the main U.S. OPEB plan, the assumed health care cost-trend rates start with
+8.4
+percent in 2025 and gradually decline to
+4.5
+percent for 2034 and beyond. For this measurement at December 31, 2023, the assumed health care cost-trend rates started with
+8.4
+percent in 2024 and gradually declined to
+4.5
+percent for 2033 and beyond.
+Plan Assets and Investment Strategy
+The fair value measurements of the company’s pension plans for 2024 and 2023 are as follows:
+1
+There were
+no
+investments in the company’s common stock at December 31, 2024 or December 31, 2023.
+2
+Collective Trusts/Mutual Funds for U.S. plans are entirely index funds; for International plans, they are mostly unit trust and index funds.
+3
+Mixed funds are composed of funds that invest in both equity and fixed-income instruments in order to diversify and lower risk.
+4
+The year-end valuations of the U.S. real estate assets are based on third-party appraisals that occur at least once a year for each property in the portfolio.
+5
+The “Other” asset class includes net payables for securities purchased but not yet settled (Level 1); dividends and interest- and tax-related receivables (Level 2); insurance contracts (Level 3); and investments in private-equity limited partnerships (NAV).
+97
+The effects of fair value measurements using significant unobservable inputs on changes in Level 3 plan assets are outlined below:
+The primary investment objectives of the pension plans are to achieve the

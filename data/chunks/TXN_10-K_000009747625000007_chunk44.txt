@@ -1,0 +1,39 @@
+event not captured by the statistical allowance. We write off inventory in the period in which disposal occurs.
+Government incentives
+Incentives provided by government entities are recognized when we have reasonable assurance that we will comply with the conditions of the incentive, if any, and the incentive will be received. Incentives, which include non-income tax incentives, related to the acquisition or construction of fixed assets are recognized as a reduction in the carrying amounts of the related assets and reduce depreciation expense over the useful lives of the assets. Incentives for specific operating activities are offset against the related expense in the period the expense is incurred.
+The U.S. CHIPS and Science Act (CHIPS Act) provides funding for manufacturing grants and research investments, and it establishes a 25% investment tax credit (ITC) for certain investments in U.S. semiconductor manufacturing.
+We expect to benefit from the ITC on qualifying manufacturing investments through 2034. We have also entered into an agreement with the U.S. Department of Commerce to receive direct funding of up to $
+1.6
+billion for our
+three
+large-scale 300mm wafer fabs currently under construction in Sherman, Texas, and Lehi, Utah. Direct funding of the award will be based on the achievement of certain milestones. The agreement contains representations, warranties and covenants that relate to compliance with requirements for awards provided for in the CHIPS Act. In addition, the agreement includes certain events of default and related rights and remedies, including clawbacks.
+As of December 31, 2024, we have recognized $
+3.15
+billion of CHIPS Act receivables, which are comprised of $
+904
+million in prepaid expenses and other current assets and $
+2.25
+billion in
+other long-term assets
+. We have also recognized deferred income of $
+600
+million in
+other long-term liabilities
+for eligible expenditures that have not yet been incurred. See Note 11 for additional information.
+In 2024, the total cash benefit related to the ITC was $
+588
+million, which was used to reduce our income taxes payable. The CHIPS Act ITC and direct funding incentives have reduced the carrying amounts of
+manufacturing assets
+by $
+3.14
+billion, of which $
+1.78
+billion was recognized in 2024.
+Cost of revenue
+benefited by $
+159
+million and $
+45
+million from the CHIPS Act incentives, recognized as a reduction of depreciation expense in 2024 and 2023, respectively.
+Property, plant and equipment and other capitalized costs
+Property, plant and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method. Our cost basis includes certain assets acquired in business combinations that were initially recorded at fair value as of the date of acquisition. Leasehold improvements are amortized using the straight-line method over the shorter of the remaining lease term or the estimated useful lives of the improvements. We amortize acquisition-

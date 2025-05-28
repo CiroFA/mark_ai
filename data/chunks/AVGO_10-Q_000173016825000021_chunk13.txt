@@ -1,0 +1,39 @@
+Compensation Expense
+_______________
+(a)
+Does not include stock-based compensation expense related to discontinued operations recognized during the fiscal quarter ended February 4, 2024, which was included in income from discontinued operations, net of income taxes in our condensed consolidated statement of operations.
+As of February 2, 2025, the total unrecognized compensation cost related to unvested stock-based awards was $
+10,745
+million, which is expected to be recognized over the remaining weighted-average service period of
+2.9
+years.
+17
+Tab
+le of Contents
+Equity Incentive Award Plans
+A summary of time- and market-based RSU activity is as follows:
+The aggregate fair value of time- and market-based RSUs that vested during the fiscal quarter ended February 2, 2025 was $
+5,276
+million, which represented the market value of our common stock on the date that the RSUs vested. The number of RSUs vested included shares of common stock that we withheld for settlement of employees’ tax obligations due upon the vesting of RSUs.
+9.
+Income Taxes
+The benefit from income taxes was $
+13
+million for the fiscal quarter ended February 2, 2025 and was primarily due to excess tax benefits from stock-based awards partially offset by income before income taxes and a shift in the jurisdictional mix of revenue and expenses.
+The provision for income taxes was $
+68
+million for the fiscal quarter ended February 4, 2024 and was primarily due to income before income taxes partially offset by excess tax benefits from stock-based awards and a valuation allowance release.
+As of February 2, 2025, we had $
+6,589
+million of gross unrecognized tax benefits and accrued interest and penalties. It is possible that our existing unrecognized tax benefits may change up to $
+3,474
+million within the next 12 months as a result of lapses of statutes of limitations for certain audit periods, anticipated closures of audit examinations, and changes in balances related to tax positions to be taken during the current fiscal year.
+10.
+Segment Information
+Reportable Segments
+We have
+two
+reportable segments: semiconductor solutions and infrastructure software.
+Each segment has separate financial information that is utilized on a regular basis by the CODM in determining how to allocate resources and evaluate performance. The reportable segments are determined based on several factors including, but not limited to, customer base, homogeneity of products, technology, delivery channels and similar economic characteristics.
+Semiconductor solutions
+. We provide semiconductor solutions for managing the movement of data in data center, service provider, and enterprise networking applications, including AI networking and connectivity. We provide a broad variety of radio frequency semiconductor devices, wireless connectivity solutions, custom touch controllers, and inductive charging solutions for mobile applications. We also provide semiconductor solutions for enabling the set-top box and broadband

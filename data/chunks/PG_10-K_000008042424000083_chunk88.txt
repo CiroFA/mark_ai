@@ -1,0 +1,40 @@
+equivalents were $
+8.0
+billion and $
+6.8
+billion as of June 30, 2024 and 2023, respectively, and are classified as Level 1 within the fair value hierarchy. The Company had no other material investments in debt or equity securities during the periods presented.
+The fair value of long-term debt was $
+27.7
+billion and $
+26.9
+billion as of June 30, 2024 and 2023, respectively. This includes the current portion of long-term debt instruments ($
+3.8
+billion as of June 30, 2024, and $
+3.9
+billion as of June 30, 2023). Certain long-term debt (debt designated as a fair value hedge) is recorded at fair value. All other long-term debt is recorded at amortized cost but is measured at fair value for disclosure purposes. We consider our debt to be Level 2 in the fair value hierarchy. Fair values are generally estimated based on quoted market prices for identical or similar instruments.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+60        The Procter & Gamble Company
+Disclosures about Financial Instruments
+The notional amounts and fair values of financial instruments used in hedging transactions as of June 30, 2024 and 2023, are as follows:
+The fair value of the interest rate derivative asset/(liability) directly offsets the cumulative amount of the fair value hedging adjustment included in the carrying amount of the underlying debt obligation. The carrying amount of the underlying debt obligation, which includes the unamortized discount or premium and the fair value adjustment, was $
+2.7
+billion and $
+3.6
+billion as of June 30, 2024 and 2023, respectively. In addition to the foreign currency derivative contracts designated as net investment hedges, certain of our foreign currency denominated debt instruments are designated as net investment hedges. The carrying value of those debt instruments designated as net investment hedges, which includes the adjustment for the foreign currency transaction gain or loss on those instruments, was  $
+11.9
+billion and $
+11.8
+billion as of June 30, 2024 and 2023, respectively.
+Derivative assets
+are presented in Prepaid expenses and other current assets or Other noncurrent assets.
+Derivative liabilities
+are presented in Accrued and other liabilities or Other noncurrent liabilities. Changes in the fair value of net investment hedges are recognized in the Foreign currency translation component of Other comprehensive income (OCI). All of the Company's derivative assets and liabilities measured at fair value are classified as Level 2 within the fair value hierarchy.
+Before tax gains/(losses) on our financial instruments in hedging relationships are categorized as follows:
+(1)
+For the derivatives in net investment hedging relationships, the amount of gain excluded from effectiveness testing, which was recognized in earnings, was $
+229
+and $
+238
+for the fiscal years ended June 30, 2024 and 2023, respectively.
+(2)
+In addition to the foreign currency derivative contracts designated as net

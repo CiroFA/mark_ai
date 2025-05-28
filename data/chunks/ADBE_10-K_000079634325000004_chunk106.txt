@@ -1,0 +1,16 @@
+the policies or procedures may deteriorate.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Performance obligations in cloud-enabled software subscriptions
+As discussed in Note 1 to the consolidated financial statements, cloud-enabled services are highly integrated and interrelated with on-premise or on-device software licenses in the Company’s Creative Cloud and Document Cloud subscription offerings. Because of this, the cloud-based services and the on-premise/on-device software licenses are not considered distinct from each other and the applicable subscription is accounted for as a single performance obligation.
+We identified the assessment of performance obligations in these cloud-enabled software subscription offerings as a critical audit matter. A high degree of subjective auditor judgment was required to assess the nature of the Company’s Creative Cloud and Document Cloud offerings, their intended benefit to customers as an integrated offering, and the level of integration that exists between the cloud-enabled services and the on-premise/on-device licenses.
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of an internal control related to the assessment of distinct performance obligations. We read the Creative Cloud and Document Cloud subscription offering agreements to understand the contractual terms and conditions. We participated in product demonstrations and performed interviews with the Company’s product and engineering department to both understand and observe specific functionalities of the integrated offering and evaluate the nature of the promise made to the Company’s Creative Cloud and Document Cloud customers. We evaluated the features and functionalities of the Creative Cloud and Document Cloud subscription that can be accessed only when using the on-premise/on-device software while connected to the Adobe cloud to assess that customers receive the intended benefit from each solution only as an integrated offering.
+/s/
+KPMG LLP
+We have served as the Company’s auditor since 1983.
+Santa Clara, California
+January 13, 2025
+92
+Table of Contents
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.

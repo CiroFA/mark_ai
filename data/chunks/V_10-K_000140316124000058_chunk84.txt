@@ -1,0 +1,26 @@
+2—Acquisitions
+Pending Acquisition
+In September 2024, Visa entered into a definitive agreement to acquire Featurespace Limited, a developer of real-time artificial intelligence payments protection technology that prevents and mitigates payments fraud and financial crime risks. This acquisition is subject to customary closing conditions, including applicable regulatory approvals.
+Fiscal 2024 Acquisition
+In January 2024, Visa acquired Pismo Holdings, a global cloud-native issuer processing and core banking platform, for a purchase consideration of $
+929
+million. The Company allocated $
+139
+million of the purchase consideration to technology, customer relationships, other net assets acquired and deferred tax liabilities and the remaining $
+790
+million to goodwill.
+Note 3—Revenue
+The nature, amount, timing and uncertainty of the Company’s revenue and cash flows and how they are affected by economic factors are most appropriately depicted through the Company’s revenue categories and geographical markets. The following tables disaggregate the Company’s net revenue by revenue category and by geography:
+70
+Table of Contents
+Remaining performance obligations are comprised of deferred revenue and contract revenue that will be invoiced and recognized as revenue in future periods primarily related to value-added services. As of September 30, 2024, the remaining performance obligations were $
+4.1
+billion. The Company expects approximately half to be recognized as revenue in the next
+two years
+and the remaining thereafter. However, the amount and timing of revenue recognition is affected by several factors, including contract modifications and terminations, which could impact the estimate of amounts allocated to remaining performance obligations and when such revenue could be recognized.
+Note 4—Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+The Company reconciles cash, cash equivalents, restricted cash and restricted cash equivalents reported on the consolidated balance sheets that aggregate to the beginning and ending balances shown in the consolidated statements of cash flows as follows:
+Prepaid expenses and other current assets include restricted cash and restricted cash equivalents related to funds held by the Company on behalf of clients in segregated bank accounts that generally cannot be withdrawn or used for general operating activities. These amounts are offset by corresponding liabilities recorded in accrued liabilities on the Company’s consolidated balance sheets.
+Note 5—U.S. and Europe Retrospective Responsibility Plans
+U.S. Retrospective Responsibility Plan
+The Company has established several related mechanisms designed to address potential liability under certain litigation (U.S. covered litigation). These mechanisms are included in and referred to as the U.S. retrospective responsibility plan and consist of a U.S. litigation escrow agreement, the conversion feature of the Company’s shares of class B common stock, the

@@ -1,0 +1,27 @@
+our business.
+In the first three months of 2025, we generated $4,370 million in cash from operating activities, an increase of $202 million compared to the first three months of 2024. Our free cash flow for the three months ended March 31, 2025 was $1,962 million, an increase of $52 million versus the prior-year period. Refer to pages
+58
+through
+59
+for additional information on free cash flow. We invested $7,098 million in acquisitions primarily for the acquisition of HashiCorp which completed this quarter and we returned $1,549 million to shareholders through dividends in the first three months of 2025.
+Our pension plans were well funded at the end of 2024, with worldwide qualified plans funded at 116 percent. Overall pension funded status as of the end of March 2025 was fairly consistent with year-end 2024. We expect contributions for all retirement-related plans to be approximately $1.3 billion in 2025, essentially flat compared to the prior year.
+IBM Working Capital
+Working capital decreased $1,109 million from the year-end 2024 position. Current assets increased $854 million ($358 million adjusted for currency) primarily due to an increase in cash and cash equivalents, restricted cash and marketable securities; partially offset by decreases in receivables mainly from collections of seasonally higher year-end balances. Current liabilities increased $1,964 million ($1,473 million adjusted for currency) primarily due to an increase in short-term debt driven by reclassifications from long-term debt net of maturities and continued growth in deferred income, reflecting annual customer billings; partially offset by decreases in taxes payable and accounts payable.
+Receivables and Allowances
+Roll Forward of Total IBM Receivables Allowance for Credit Losses
+(1)
+Additions/(Releases) for allowance for credit losses are recorded in expense.
+(2)
+Refer to note A, “Significant Accounting Policies,” in our 2024 Annual Report for additional information regarding allowance for credit loss write-offs.
+54
+Table of Contents
+Management Discussion – (continued)
+Excluding receivables classified as held for sale, the total IBM receivables provision coverage was 1.6 percent at March 31, 2025, an increase of 20 basis points compared to December 31, 2024. The increase in coverage is primarily driven by a decrease in total receivables due to seasonally higher balances at year end and an increase in the unallocated allowance for credit losses on financing receivables. The majority of the write-offs during the three months ended March 31, 2025 were related to receivables which had been previously reserved. Refer to Financing's
+“
+Balance Sheet and Return on Equity Highlights
+”
+on page
+60
+for additional details regarding the Financing segment receivables and allowances.
+Noncurrent Assets and Liabilities
+Noncurrent assets increased $7,638 million ($6,795 million adjusted for currency) primarily due to an increase in goodwill and intangible assets from the HashiCorp

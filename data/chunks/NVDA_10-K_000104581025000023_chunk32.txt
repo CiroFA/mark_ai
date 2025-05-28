@@ -1,0 +1,18 @@
+capacity, we have paid premiums, provided deposits, and entered into long-term supply agreements and capacity commitments, which have increased our product costs and this may continue. We may still be unable to secure sufficient commitments for capacity to address our business needs.
+If we inaccurately estimate demand, or our customers change orders, as we have experienced in the past, we may not be able to reduce our supply commitments in time, at the same rate, or at all. Significant mismatches between supply and demand have varied across our market platforms, resulted in both product shortages and excess inventory, significantly harmed our financial results and could reoccur. If we underestimate demand, and our foundry partners and contract manufacturers are unable to increase production or provide sufficient supply, we may not be able to meet increased customer demand in a timely manner, or at all. Our reputation and customer relationships could be damaged and we could lose revenue and market share. Additionally, since some of our products are part of a complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact. For example, our ability to sell certain products has been and could be impeded if components necessary for the finished products are not available from third parties.
+If we overestimate demand, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to utilize on-hand inventory or reduce purchase commitments accordingly. We have had to reduce average selling prices, including due to our channel pricing programs, increase prices for certain of our products as a result of our suppliers’ increase in prices, write down our inventory, incur cancellation penalties, and record impairments, and may have to do so in the future. These impacts would be amplified by our non-cancellable and non-returnable purchase orders placed in advance of our historical lead times and could be exacerbated if we need to make changes to the design of future products. The risk of these impacts has increased and may continue to increase as our purchase obligations and prepaids have grown and are expected to continue to grow and become a greater portion of our total supply. All of these factors may negatively impact our gross margins and financial results.
+Factors that have caused and/or could in the future cause us to underestimate or overestimate demand, and impact the timing and volume of our revenue, include:
+•
+changes in product development cycles and time to market;
+•
+competing technologies and competitor product releases, announcements or other actions;
+•
+changes in business and economic conditions;
+•
+sudden or sustained government lockdowns or public health issues;
+•
+rapidly changing technology or customer requirements;
+•
+the availability of sufficient data center capacity or energy for customers to procure;
+•
+new

@@ -1,0 +1,23 @@
+Capitalization of software costs commences once the final selection of the specific software solution has been made and management authorizes and commits to funding the software project and ceases once the project is ready for its intended use. Capitalized software costs are included in Property and equipment, net on our Consolidated Balance Sheets and are amortized on a straight-line basis over the estimated useful life of the asset. Costs incurred during the preliminary project stage, as well as maintenance and training costs, are expensed as incurred.
+Other Intangible Assets
+Intangible assets that do not have indefinite useful lives are amortized over their estimated useful lives.
+Customer relationships are amortized using the sum-of-the-years digits method. The remaining finite-lived intangible assets are amortized using the straight-line method.
+See
+Note 7 - Goodwill, Spectrum License Transactions and Other Intangible Assets
+for further information.
+Impairment
+We assess potential impairments to our long-lived assets when events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. If any indicators of impairment are present, we test recoverability. The carrying value of a long-lived asset or asset group is not recoverable if the carrying value exceeds the sum of the estimated undiscounted future cash flows expected to be generated from the use and eventual disposition of the asset or asset group. If the estimated undiscounted future cash flows do not exceed the asset or asset group’s carrying amount, then an impairment loss is recorded, measured as the amount by which the carrying amount of a long-lived asset or asset group exceeds its estimated fair valu
+e.
+Business Combinations
+Assets acquired and liabilities assumed as part of a business combination are generally recorded at their fair value at the date of acquisition. The excess of purchase price over the fair value of assets acquired and liabilities assumed is recorded as goodwill. Determining fair value of identifiable assets, particularly intangibles, and liabilities acquired requires management to make estimates, which are based on all available information and in some cases assumptions with respect to the timing and amount of future revenues and expenses associated with an asset or liability. See
+Note 2 – Business Combinations
+for further discussion of our acquisitions.
+62
+Index for Notes to the Consolidated Financial Statements
+Goodwill and Indefinite-Lived Intangible Assets
+Goodwill
+Goodwill consists of the excess of the purchase price over the fair value of identifiable net assets acquired in a business combination and is assigned to our
+one
+reporting unit: wireless.
+Spectrum Licenses
+Spectrum licenses are carried at costs incurred to acquire the spectrum licenses and the costs to prepare the spectrum licenses for their intended use, such as costs to clear acquired spectrum licenses. The FCC issues spectrum licenses which provide us with

@@ -1,0 +1,21 @@
+Businesses/Assets
+–
+net
+In 2024, the change in gains on disposal of businesses/assets – net primarily reflect the September 2024 sales of ownership interests in connection with the pipeline joint venture and the renewable assets joint venture. See Note 1 – Disposal of Businesses/Assets.
+Equity in Earnings (Losses) of Equity Method Investees
+NEER recognized $267 million and $649 million of equity in losses of equity method investees in 2024 and 2023, respectively. The change in 2024 primarily reflects a 2024 impairment charge of approximately $0.8 billion ($0.6 billion after tax) compared to
+41
+Table of Content
+s
+a 2023 impairment charge of $1.2 billion ($0.9 billion after tax) related to the investment in XPLR (see Note 4 – Nonrecurring Fair Value Measurements).
+Income Taxes
+NEER's effective income tax rate for 2024 and 2023 was approximately (165)% and 7%, respectively, and is primarily based on the composition of pretax income in 2024 and 2023 as well as the impact of renewable energy tax credits. PTCs from wind and solar projects and ITCs from solar, battery storage and certain wind projects are included in NEER’s earnings. PTCs are recognized as wind and solar energy is generated and sold based on a per kWh rate prescribed in applicable federal and state statutes. During the year ended December 31, 2024, renewable energy tax credits increased by approximately $477 million reflecting growth in NEER's business. See Note 1 – Income Taxes for a discussion of renewable energy tax credits, Note 5 and Note 16.
+Corporate and Other: Results of Operations
+Corporate and Other is primarily comprised of the operating results of other business activities, as well as corporate interest income and expenses. Corporate and Other allocates a portion of NEECH's corporate interest expense to NextEra Energy Resources. Interest expense is allocated based on a deemed capital structure of 70% debt and differential membership interests sold by NextEra Energy Resources' subsidiaries.
+Corporate and Other's results increased $904 million during 2024 primarily due to favorable after-tax impacts of approximately $934 million, as compared to the prior year, related to non-qualifying hedge activity as a result of changes in the fair value of interest rate derivative instruments used to manage interest rate and foreign currency exchange rate risk associated primarily with outstanding and expected future debt issuances and borrowings (see Note 3).
+LIQUIDITY AND CAPITAL RESOURCES
+NEE and its subsidiaries require funds to support and grow their businesses. These funds are used for, among other things, working capital (see Note 1
+– Storm Funds, Storm Reserves and Storm Cost Recovery
+), capital expenditures (see Note 15
+–
+Commitments), investments in or acquisitions of assets and businesses (see Note 6), payment of maturing debt and related derivative obligations (see Note 13 and Note 3) and, from time to time, redemption or repurchase of outstanding debt or equity securities. It

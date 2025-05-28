@@ -1,0 +1,33 @@
+12 month period prior.
+Allowance for Credit Losses Rollforward and Allocation—Loans and Lending Commitments
+1.
+Percent of loans to total loans represents loans held for investment by loan type to total loans held for investment.
+The allowance for credit losses for loans and lending commitments was relatively unchanged in 2024, reflecting provisions for certain specific commercial real estate loans and growth in the corporate loan portfolio, offset by charge-offs related to commercial real estate lending, mainly in the office sector, and improvements in the macroeconomic outlook. The base scenario used in our ACL models as of December 31, 2024 was generated using a combination of consensus economic forecasts, forward rates, and internally developed and validated models. This scenario assumes continued economic growth as well as lower interest rates relative to the prior year forecast. The ACL calculation incorporates key macroeconomic variables, including U.S. real GDP growth rate. The significance of key macroeconomic variables on the ACL calculation varies depending on portfolio composition and economic conditions. Other key macroeconomic variables used in the ACL calculation include corporate credit spreads, interest rates and commercial real estate indices.
+See Note 2 for a description of the ACL calculated under the CECL methodology, including credit quality indicators, used for held-for-investment loans.
+Gross Charge-offs by Origination Year
+CRE—Commercial real estate
+SBL—Securities-based lending
+Selected Credit Ratios
+Employee Loans
+1.
+These loans are predominantly current.
+2.
+These loans are predominantly past due for a period of 90 days or more.
+Employee loans are granted in conjunction with a program established primarily to recruit certain Wealth Management financial advisors, are full recourse and generally require periodic repayments, and are due in full upon termination of employment with the Firm. These loans are recorded in Customer and other receivables in the balance sheet. See Note 2 for a description of the CECL allowance methodology, including credit quality indicators, for employee loans.
+10.
+Goodwill and Intangible Assets
+Goodwill Rollforward
+1.
+Balances represent the amount of the Firm’s goodwill after accumulated impairments.
+2.
+There were
+no
+impairments recorded in 2024, 2023 or 2022.
+Intangible Assets Rollforward
+Intangible Assets by Type
+Intangible Assets Estimated Future Amortization Expense
+The Firm’s annual goodwill and non-amortizable intangible asset impairment testing as of July 1, 2024 did not indicate any impairment. For more information, see Note 2.
+11.
+Other Assets and Leases
+Equity Method Investments
+Equity method investments, other than investments in certain fund interests, are summarized above and are included in Other assets in the balance sheet with related income or loss included in Other revenues in the income statement. See “Net Asset Value Measurements—Fund Interests” in Note 4 for the carrying value

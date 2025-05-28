@@ -1,0 +1,31 @@
+payments are estimated by applying a probability-weighted expected payment model for contingent milestone payments and a Monte Carlo simulation model for contingent royalty payments, which are then discounted to present value. Changes to the fair value of the contingent consideration liabilities can result from changes to one or a number of inputs, including discount rates, the probabilities of achieving the milestones, the time required to achieve the milestones and estimated future sales. Significant judgment is employed in determining the appropriateness of certain of these inputs. Changes to the inputs described above could have a material impact on the company's financial position and results of operations in any given period.
+The fair value of the company's contingent consideration liabilities was calculated using the following significant unobservable inputs:
+(a) Unobservable inputs were weighted by the relative fair value of the contingent consideration liabilities.
+There have been
+no
+transfers of assets or liabilities into or out of Level 3 of the fair value hierarchy.
+The following table presents the changes in fair value of total contingent consideration liabilities which are measured using Level 3 inputs:
+(a) Additions during the three months ended March 31, 2025, represent contingent consideration liabilities related to the Nimble acquisition.
+The change in fair value recognized in net earnings is recorded in other expense, net in the condensed consolidated statements of earnings.
+Certain financial instruments are carried at historical cost or some basis other than fair value.
+The book values, approximate fair values and bases used to measure the approximate fair values of certain financial instruments as of March 31, 2025 are shown in the table below:
+The book values, approximate fair values and bases used to measure the approximate fair values of certain financial instruments as of December 31, 2024 are shown in the table below:
+AbbVie also holds investments in equity securities that do not have readily determinable fair values. The company records these investments at cost and remeasures them to fair value based on certain observable price changes or impairment events as they occur. The carrying amount of these investments was $
+157
+million as of March 31, 2025 and $
+169
+million as of December 31, 2024. No significant cumulative upward or downward adjustments have been recorded for these investments as of March 31, 2025.
+Concentrations of Risk
+Of total net accounts receivable,
+three
+U.S. wholesalers accounted for
+81
+% as of March 31, 2025 and December 31, 2024, and substantially all of AbbVie’s pharmaceutical product net revenues in the United States were to these
+three
+wholesalers.
+Debt and Credit Facilities
+Issuance and Repayment of Long-Term Debt
+In February 2025, the company issued $
+4.0
+billion aggregate principal amount of unsecured senior notes. The following table summarizes the issued debt:
+The notes are unsecured,

@@ -1,0 +1,36 @@
+$
+902
+million, $
+5.1
+billion and $
+12.4
+billion for the years ended December 31, 2024, 2023 and 2022, respectively, which are predominantly sourced through the correspondent origination channel and underwritten in accordance with the Firm’s standards.
+(d)
+Includes loans acquired in the First Republic acquisition consisting of $
+91.9
+billion in Consumer, excluding credit card and $
+59.2
+billion in Wholesale. Refer to Note 34 for additional information.
+Gains and losses on sales of loans
+Net gains/(losses) on sales of loans and lending-related commitments (including adjustments to record loans and lending-related commitments held-for-sale at the lower of cost or fair value) recognized in noninterest revenue were $
+154
+million for the year ended December 31, 2024, of which $
+113
+million were related to loans. Net gains/(losses) on sales of loans and lending-related commitments were $
+56
+million for the year ended December 31, 2023, of which $
+62
+million were related to loans. Net gains/(losses) on sales of loans and lending-related commitments were $(
+186
+) million for the year ended December 31, 2022, of which $(
+48
+) million were related to loans. In addition, the sale of loans may also result in write downs, recoveries or changes in the allowance recognized in the provision for credit losses.
+Notes to consolidated financial statements
+Consumer, excluding credit card loan portfolio
+Consumer loans, excluding credit card loans, consist primarily of scored residential mortgages, home equity loans and lines of credit, auto and business banking loans, with a focus on serving the prime consumer credit market. These loans include home equity loans secured by junior liens, prime mortgage loans with an interest-only payment period, and certain payment-option loans that may result in negative amortization.
+The following table provides information about retained consumer loans, excluding credit card, by class.
+Delinquency rates are the primary credit quality indicator for consumer loans. Loans that are more than
+30
+days past due provide an early warning of borrowers who may be experiencing financial difficulties and/or who may be unable or unwilling to repay the loan. As the loan continues to age, it becomes more clear whether the borrower is likely to be unable or unwilling to pay. In the case of residential real estate loans, late-stage delinquencies (greater than 150 days past due) are a strong indicator of loans that will ultimately result in a foreclosure or similar liquidation transaction. In addition to delinquency rates, other credit quality indicators for consumer loans vary based on the class of loan, as follows:
+•
+For residential real estate loans, the current estimated LTV ratio, or the combined LTV ratio in the case of junior lien loans, is an indicator of the potential loss severity in the event of default. Additionally, LTV or combined LTV ratios can provide insight into a borrower’s continued willingness to pay, as the delinquency rate of

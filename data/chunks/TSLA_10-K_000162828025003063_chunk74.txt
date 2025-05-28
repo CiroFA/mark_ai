@@ -1,0 +1,26 @@
+sheet.
+For solar energy systems where customers purchase electricity from us under PPAs prior to January 1, 2019, we have determined that these agreements should be accounted for as operating leases pursuant to ASC 840,
+Leases
+. Revenue is recognized based on the amount of electricity delivered at rates specified under the contracts, assuming all other revenue recognition criteria are met.
+We record as deferred revenue any amounts that are collected from customers, including lease prepayments, in excess of revenue recognized, which is recognized as revenue ratably over the respective customer contract term. As of December 31, 2024 and 2023, deferred revenue related to such customer payments amounted to $
+164
+million and $
+181
+million, respectively. Deferred revenue also includes the portion of rebates and incentives received from utility companies and various local and state government agencies, which is recognized as revenue over the lease term. As of December 31, 2024 and 2023, deferred revenue from rebates and incentives was immaterial.
+57
+We capitalize initial direct costs from the execution of agreements for solar energy systems and PPAs, which include the referral fees and sales commissions, as an element of solar energy systems, net, and subsequently amortize these costs over the term of the related agreements.
+Cost of Revenues
+Automotive Segment
+Automotive Sales
+Cost of automotive sales revenue includes direct and indirect materials, labor costs, manufacturing overhead, including depreciation costs of tooling and machinery, shipping and logistic costs, vehicle connectivity costs, FSD (Supervised) ongoing maintenance costs, electricity costs for our free Supercharging programs and reserves for estimated warranty expenses. Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand. Additionally, cost of automotive sales revenue benefits from manufacturing credits earned, amounting to $
+625
+million and $
+359
+million for the years ended December 31, 2024 and 2023, respectively.
+Automotive Leasing
+Cost of automotive leasing revenue includes the depreciation of operating lease vehicles, cost of goods sold associated with direct sales-type leases and warranty expense related to leased vehicles.
+Services and Other
+Costs of services and other revenue includes cost of used vehicles including refurbishment costs, costs associated with providing non-warranty after-sales services, costs associated with our body shops and part sales, costs of paid Supercharging, costs to provide vehicle insurance and costs of retail merchandise sales.
+Energy Generation and Storage Segment
+Energy Generation and Storage
+Cost of energy generation and storage revenue includes direct and indirect material and labor costs, manufacturing overhead, including

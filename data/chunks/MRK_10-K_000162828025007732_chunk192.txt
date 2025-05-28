@@ -1,0 +1,61 @@
+on a Recurring Basis
+Financial assets and liabilities measured at fair value on a recurring basis at December 31 are summarized below:
+(1)
+Investments included in other assets are restricted as to use, including for the payment of benefits under employee benefit plans.
+(2)
+Balance at December 31, 2024 includes securities with a fair value of $
+81
+million, which are subject to a contractual sale restriction that expires in March 2025. Balance at December 31, 2023 includes securities with a fair value of $
+177
+million, which were subject to a contractual sale restriction that expired in July 2024.
+(3)
+The fair value determination of derivatives includes the impact of the credit risk of counterparties to the derivatives and the Company’s own credit risk, the effects of which were not significant.
+As of December 31, 2024 and 2023,
+Cash and cash equivalents
+included $
+12.3
+billion and $
+6.0
+billion of cash equivalents, respectively (which would be considered Level 2 in the fair value hierarchy).
+Contingent Consideration
+Summarized information about the changes in the fair value of liabilities for contingent consideration associated with business combinations is as follows:
+(1)
+Recorded in
+Cost of sales,
+Research and development
+expenses, and
+Other (income) expense, net
+.
+Includes cumulative translation adjustments.
+(2)
+Balance
+at December 31, 2024 includes $
+148
+million of current liabilities, of which $
+123
+million relates to the termination of the Sanofi Pasteur MSD joint venture in 2016. As part of the termination, Merck recorded a liability for contingent future royalty payments of
+11.5
+% on net sales of all Merck products that were previously sold by the joint venture through December 31, 2024. The fair value of this liability is determined utilizing the estimated amount and timing of projected cash flows using a risk-adjusted discount rate to present value the cash flows.
+100
+Table of Content
+s
+The payments of contingent consideration in 2024 include $
+126
+million related to the Sanofi Pasteur MSD liabilities described above and $
+25
+million related to the first commercial sale of
+Lyfnua
+(gefapixant) in the European Union (EU). The payments of contingent consideration in 2023 relate to the Sanofi Pasteur MSD liabilities.
+Other Fair Value Measurements
+Some of the Company’s financial instruments, such as cash and cash equivalents, receivables and payables, are reflected in the balance sheet at carrying value, which approximates fair value due to their short-term nature.
+The estimated fair value of loans payable and long-term debt (including current portion) at December 31, 2024, was $
+32.6
+billion compared with a carrying value of $
+37.1
+billion and at December 31, 2023, was $
+32.0
+billion compared with a carrying value of $
+35.1
+billion. Fair value was estimated using recent observable market prices and would be considered Level 2 in the fair value hierarchy.
+Concentrations of Credit Risk
+On an ongoing basis, the Company monitors concentrations

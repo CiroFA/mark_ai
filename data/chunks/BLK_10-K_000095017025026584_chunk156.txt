@@ -1,0 +1,17 @@
+the activities of the entity that most significantly impact the entity’s economic performance, to determine if the investment product is a VIE.
+The PB of a VIE is defined as the variable interest holder that has a controlling financial interest in the VIE. A controlling financial interest is defined as (1) the power to direct the activities of the VIE that most significantly impact its economic performance and (2) the obligation to absorb losses of the entity or the right to receive benefits from the entity that potentially could be significant to the VIE. The Company generally consolidates VIEs in which it holds an economic interest of
+10
+% or greater and deconsolidates such VIEs once economic interest falls below
+10
+%.
+Management continually reconsiders whether the Company is deemed to be a VIE’s PB.
+Consolidation of Voting Rights Entities
+. BlackRock is required to consolidate an investee to the extent that BlackRock can exert absolute control over the financial and operating policies of the investee, which generally exists if there is a greater than 50% voting equity interest.
+Retention of Specialized Investment Company Accounting Principles.
+Upon consolidation of sponsored investment products, the Company retains the specialized investment company accounting principles of the underlying funds. All of the underlying investments held by such CIPs are carried at fair value with corresponding changes in the investments’ fair values reflected in net income within nonoperating income (expense). When the Company no longer controls these funds due to reduced ownership percentage or other reasons, the funds are deconsolidated and accounted for as an equity method investment or equity securities FVTNI.
+F-
+10
+Separate Account Assets and Liabilities
+.
+Separate account assets are maintained by BlackRock Life Limited, a wholly owned subsidiary of the Company, which is a registered life insurance company in the United Kingdom ("UK"), and represent segregated assets held for purposes of funding individual and group pension contracts. The life insurance company does not underwrite any insurance contracts that involve any insurance risk transfer from the insured to the life insurance company. The separate account assets primarily include equity securities, debt securities, money market funds and derivatives. The separate account assets are not subject to general claims of the creditors of BlackRock. These separate account assets and the related equal and offsetting liabilities are recorded as separate account assets and separate account liabilities on the consolidated statements of financial condition.
+The net investment income attributable to separate account assets supporting individual and group pension contracts accrues directly to the contract owner and is not reported on the consolidated statements of income. While BlackRock has no economic interest in these separate account assets and liabilities, BlackRock earns policy administration and management

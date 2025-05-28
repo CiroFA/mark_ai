@@ -1,0 +1,68 @@
+provides information regarding the location and amount of pretax gains and losses of derivatives designated in fair value or cash flow hedging relationships:
+(1)
+Interest expense is a component of
+Other (income) expense, net.
+The table below provides information regarding the income statement effects of derivatives not designated as hedging instruments:
+(1)
+These derivative contracts primarily mitigate changes in the value of remeasured foreign currency denominated monetary assets and liabilities attributable to changes in foreign currency exchange rates.
+(2)
+These derivative contracts serve as economic hedges of forecasted transactions
+.
+At March 31, 2025, the Company estimates $
+16
+million of pretax net unrealized gains on derivatives maturing within the next 12 months that hedge foreign currency denominated sales over that same period will be reclassified from
+AOCL
+to
+Sales
+. The amount ultimately reclassified to
+Sales
+may differ as foreign exchange rates change. Realized gains and losses are ultimately determined by actual foreign exchange rates at maturity.
+Investments in Debt and Equity Securities
+Information on investments in debt and equity securities is as follows:
+(1)
+Unrealized net gains of $
+115
+million were recorded in
+Other (income) expense, net
+in the first quarter of 2025 on equity securities still held at March 31, 2025. Unrealized net gains of $
+143
+million were recorded in
+Other (income) expense, net
+in the first quarter 2024 on equity securities still held at March 31, 2024.
+At March 31, 2025 and March 31, 2024, the Company also had $
+872
+million and $
+851
+million, respectively, of equity investments without readily determinable fair values included in
+Other Assets
+. The Company records unrealized gains on these equity investments based on favorable observable price changes from transactions involving similar investments of the same
+- 14 -
+Notes to Condensed Consolidated Financial Statements (unaudited)
+(continued)
+investee and records unrealized losses based on unfavorable observable price changes, which are included in
+Other (income) expense, net
+. During the first quarter
+of 2025
+,
+the Company recorded unrealized losses of $
+11
+million related to certain of these equity investments still held at March 31, 2025. During the first quarter of 2024
+,
+the Company recorded unrealized gains of $
+4
+million and unrealized losses of $
+5
+million related to certain of these equity investments still held at March 31, 2024. Cumulative unrealized gains and cumulative unrealized losses based on observable price changes for investments in equity investments without readily determinable fair values still held at March 31, 2025 were $
+309
+million and $
+118
+million, respectively.
+At March 31, 2025 and March 31, 2024, the Company also had $
+249
+million and $
+396
+million, respectively, recorded in
+Other Assets
+for equity securities held through ownership interests in investment funds. Losses recorded in
+Other (income) expense, net
+relating to

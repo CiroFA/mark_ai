@@ -1,0 +1,34 @@
+the years ended December 31, 2024, 2023 and 2022, FPL recorded gains of approximately $
+50
+million, $
+5
+million and $
+211
+million, respectively, related to commodity contracts as regulatory liabilities on its consolidated balance sheets.
+Notional Volumes of Derivative Instruments
+– The following table represents net notional volumes associated with derivative instruments that are required to be reported at fair value in NEE's and FPL's consolidated financial statements. The table includes significant volumes of transactions that have minimal exposure to commodity price changes because they are variably priced agreements. These volumes are only an indication of the commodity exposure that is managed through the use of derivatives. They do not represent net physical asset positions or non-derivative positions and the related hedges, nor do they represent NEE's and FPL's net economic exposure, but only the net notional derivative positions that fully or partially hedge the related asset positions.
+NEE and FPL had derivative commodity contracts for the following net notional volumes:
+At December 31, 2024 and 2023, NEE had interest rate contracts with a net notional amount of approximately $
+35.2
+billion and $
+25.6
+billion, respectively, and foreign currency contracts with a notional amount of approximately $
+1.2
+billion and $
+0.5
+billion, respectively.
+86
+Table of Contents
+NEXTERA ENERGY, INC. AND FLORIDA POWER & LIGHT COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Credit-Risk-Related Contingent Features
+– Certain derivative instruments contain credit-risk-related contingent features including, among other things, the requirement to maintain an investment grade credit rating from specified credit rating agencies and certain financial ratios, as well as credit-related cross-default and material adverse change triggers. At December 31, 2024 and 2023, the aggregate fair value of NEE's derivative instruments with credit-risk-related contingent features that were in a liability position was approximately $
+3.8
+billion ($
+11
+million for FPL) and $
+4.7
+billion ($
+14
+million for FPL), respectively.
+If the credit-risk-related contingent features underlying these derivative agreements were triggered, certain subsidiaries of NEE, including FPL, could be required to post collateral or settle contracts according to contractual terms which generally allow netting of contracts in offsetting positions. Certain derivative contracts contain multiple types of credit-related triggers. To the extent these contracts contain a credit ratings downgrade trigger, the maximum exposure is included in the following credit ratings collateral posting requirements. If FPL's and NEECH's credit ratings were downgraded to BBB/Baa2 (a three level downgrade for FPL and a one level downgrade for NEECH from the current lowest applicable rating), applicable NEE subsidiaries would be required to post collateral such that the total posted collateral would be approximately $

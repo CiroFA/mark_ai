@@ -1,0 +1,15 @@
+the contracts under early-termination provisions. In such circumstances, the counterparties
+F-48
+could request immediate settlement of these contracts for amounts that approximate the then current fair values of the contracts. In addition, our derivative contracts are not subject to any type of master netting arrangement, and amounts due either to or from a counterparty under the contracts may be offset against other amounts due either to or from the same counterparty only if an event of default or termination, as defined, were to occur.
+The cash flow effects of our derivative contracts in the Consolidated Statements of Cash Flows are included in Net cash provided by operating activities, except for the settlement of notional amounts of cross-currency swaps, which are included in Net cash (used in) provided by financing activities.
+20.
+Contingencies and commitments
+Contingencies
+In the ordinary course of business, we are involved in various legal proceedings, government investigations and other matters that are complex in nature and have outcomes that are difficult to predict. See Part I, Item 1A. Risk Factors—
+Our business may be affected by litigation and government investigations.
+We describe our legal proceedings and other matters that are significant or that we believe could become significant in this footnote.
+We record accruals for loss contingencies to the extent that we conclude it is probable that a liability has been incurred and the amount of the related loss can be reasonably estimated. We evaluate, on a quarterly basis, developments in legal proceedings and other matters that could cause an increase or decrease in the amount of the liability that has been accrued previously.
+Our legal proceedings involve various aspects of our business and a variety of claims, some of which present novel factual allegations and/or unique legal theories. In each of the matters described in this filing, in which we could incur a liability, our opponents seek an award of a not-yet-quantified amount of damages or an amount that is not material. In addition, a number of the matters pending against us are at very early stages of the legal process, which in complex proceedings of the sort we face often extend for several years. As a result, none of the matters described in this filing, in which we could incur a liability, have progressed sufficiently through discovery and/or the development of important factual information and legal issues to enable us to estimate a range of possible loss, if any, or such amounts are not material. While it is not possible to accurately predict or determine the eventual outcomes of these matters, an adverse determination in one or more of these matters currently pending could have a material adverse effect on our consolidated results of operations, financial position or cash flows.
+Certain recent developments concerning our legal proceedings and other matters are discussed below.
+Repatha Patent Litigation
+Patent Disputes in

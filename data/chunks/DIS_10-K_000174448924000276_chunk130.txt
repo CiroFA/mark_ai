@@ -1,0 +1,28 @@
+2025. Final minimum funding requirements for fiscal 2025 will be determined based on a January 1, 2025 funding actuarial valuation, which is expected to be received during the fourth quarter of fiscal 2025.
+105
+TABLE OF
+CONTENTS
+Estimated Future Benefit Payments
+The following table presents estimated future benefit payments for the next ten fiscal years:
+(1)
+Estimated future benefit payments are net of expected Medicare subsidy receipts of $
+36
+million.
+Assumptions
+Assumptions, such as discount rates, long-term rate of return on plan assets and the healthcare cost trend rate, have a significant effect on the amounts reported for net periodic benefit cost as well as the related benefit obligations.
+Discount Rate
+— The assumed discount rate for pension and postretirement medical plans reflects the market rates for high-quality corporate bonds currently available. The Company’s discount rate was determined by considering yield curves constructed of a large population of high-quality corporate bonds and reflects the matching of the plans’ liability cash flows to the yield curves. The Company measures service and interest costs by applying the specific spot rates along that yield curve to the plans’ liability cash flows.
+Long-term rate of return on plan assets
+— The long-term rate of return on plan assets represents an estimate of long-term returns on an investment portfolio consisting of a mixture of equities, fixed income and alternative investments. When determining the long-term rate of return on plan assets, the Company considers long-term rates of return on the asset classes (both historical and forecasted) in which the Company expects the pension funds to be invested.
+The following long-term rates of return by asset class were considered in setting the long-term rate of return on plan assets assumption:
+Healthcare cost trend rate
+— The Company reviews external data and its own historical trends for healthcare costs to determine the healthcare cost trend rates for the postretirement medical benefit plans. The 2024 actuarial valuation assumed a
+7.00
+% annual rate of increase in the per capita cost of covered healthcare claims with the rate decreasing in even increments over nineteen years until reaching
+4.00
+%.
+Sensitivity
+—
+A one percentage point change in the discount rate and expected long-term rate of return on plan assets would have the following effects as of September 28, 2024 and for fiscal 2025:
+Multiemployer Benefit Plans
+The Company participates in a number of multiemployer pension plans under union and industry-wide collective bargaining agreements that cover our union-represented employees and expenses its contributions to these plans as incurred. These plans generally provide for retirement, death and/or termination benefits for eligible employees within the applicable collective bargaining units, based on specific eligibility/participation requirements, vesting periods and benefit formulas. The risks of participating in these
