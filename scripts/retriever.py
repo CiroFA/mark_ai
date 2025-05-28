@@ -1,3 +1,8 @@
+# 🔍 Versione migliorata di retriever.py
+# - Aggiunto filtro per azienda/ticker nei chunk
+# - Parametro opzionale: company_hint
+# - Protezione fallback da mismatch
+
 import os
 import json
 import faiss
@@ -13,7 +18,6 @@ INDEX_PATH = os.path.join(ROOT_DIR, "data", "index", "company_index.faiss")
 METADATA_PATH = os.path.join(ROOT_DIR, "data", "index", "metadata.json")
 EMBEDDING_MODEL = "text-embedding-3-small"
 
-# 🔐 API Key
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=api_key)
@@ -30,7 +34,7 @@ def get_query_embedding(query):
     )
     return np.array(response.data[0].embedding, dtype="float32").reshape(1, -1)
 
-def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2):
+def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2, company_hint=None):
     query_vector = get_query_embedding(query)
     distances, indices = index.search(query_vector, 50)
 
@@ -42,6 +46,11 @@ def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2):
             continue
         meta = metadata[idx]
         fname = meta["filename"]
+
+        # 🎯 Filtro per azienda specifica nel fallback
+        if company_hint and not fname.startswith(company_hint):
+            continue
+
         with open(os.path.join(ROOT_DIR, meta["path"]), "r", encoding="utf-8") as f:
             text = f.read()
 
@@ -51,7 +60,6 @@ def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2):
             "text": text.strip()
         }
 
-        # ✅ Almeno per_company_k per ciascun ticker se specificato
         matched = False
         if tickers:
             for t in tickers:
@@ -63,7 +71,6 @@ def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2):
         if matched:
             continue
 
-        # ✅ Completa fino a total_k
         if len(results) < total_k:
             results.append(chunk)
 
@@ -71,3 +78,21 @@ def retrieve_chunks_by_company(query, tickers=None, total_k=8, per_company_k=2):
             break
 
     return results
+
+# 🔁 Fallback semantico (già presente prima)
+from sentence_transformers import SentenceTransformer, util
+
+GENERAL_TOPICS = [
+    "mercato della frutta", "agricoltura", "tecnologia",
+    "sanità", "consumi", "materie prime", "settore industriale"
+]
+st_model = SentenceTransformer('all-MiniLM-L6-v2')
+
+def find_closest_general_topic(query):
+    q_emb = st_model.encode(query, convert_to_tensor=True)
+    sims = [
+        (topic, float(util.cos_sim(q_emb, st_model.encode(topic, convert_to_tensor=True))))
+        for topic in GENERAL_TOPICS
+    ]
+    sims.sort(key=lambda x: x[1], reverse=True)
+    return sims[0] if sims else (None, 0)

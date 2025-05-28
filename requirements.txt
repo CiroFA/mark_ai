@@ -8,4 +8,5 @@ numpy
 pymysql
 python-dotenv
 lxml
+sentence-transformers
 
