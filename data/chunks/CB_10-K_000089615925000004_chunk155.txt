@@ -1,0 +1,18 @@
+investment portfolio, including those portfolios supporting certain participating policies, and are classified within Level 2. Also included are life insurance policies collateralizing investments held in rabbi trusts maintained by Chubb for deferred compensation plans and supplemental retirement plans. These policies are carried at cash surrender value and are classified in the valuation hierarchy within Level 2.
+Securities lending collateral
+The underlying assets included in Securities lending collateral in the Consolidated balance sheets are fixed maturities which are cl
+assified in the valuation hierarchy on the same basis as other fixed maturities. Excluded from the valuation hierarchy is the corresponding liability related to Chubb’s obligation to return the collateral plus interest as it is reported at contract value and not fair value in the Consolidated balance sheets.
+Investment derivatives
+Actively traded investment derivative instruments, including futures, options, and forward contracts are classified within Level 1 as fair values are based on quoted market prices. These derivative instruments are recorded in either Other assets or Accounts payable, accrued expenses, and other liabilities in the Consolidated balance sheets.
+Derivatives designated as hedging instruments
+Certain of our derivatives are cross-currency swaps designated as fair value and net investment hedging instruments. The fair value of cross-currency swaps and interest rate swaps is based on market valuations and is classified within Level 2. These derivative instruments are recorded in either Other assets or Accounts payable, accrued expenses, and other liabilities in the Consolidated balance sheets.
+Other derivative instruments
+We maintain positions in exchange-traded equity futures contracts designed to limit exposure to a severe equity market decline, which would cause an increase in expected market risk benefits (MRB) claims, and therefore an increase in MRB reserves. Our positions in exchange-traded equity futures contracts are classified within Level 1. The fair value of the majority of the remaining positions in other derivative instruments is based on significant observable inputs including equity security and interest rate indices. Accordingly, these are classified within Level 2. Other derivative instruments are recorded in either Other assets or Accounts payable, accrued expenses, and other liabilities in the Consolidated balance sheets. Chubb also maintains positions in convertible securities that contain embedded derivatives. Convertible securities are recorded in either Fixed maturities available-
+F-31
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+for-sale (FM AFS) or Equity securities (ES) and are classified as either Level 1 or Level 2 depending on the underlying investment.
+Separate account assets
+Separate account assets represent segregated funds where investment risks are borne by the

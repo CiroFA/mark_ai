@@ -1,0 +1,16 @@
+flows and future cash flow assumptions consistent with those used in the measurement of the liability for future policy benefits and remeasured quarterly. The DPL is amortized in proportion to the discounted in-force policies. Interest is accreted on the balance of the DPL using the discount rate consistent with the interest accretion on the FPBL. The recalculated DPL, including adjusted amortization through the current period, is compared to the current carrying amount and the difference is recognized as an adjustment to Policy benefits in the Consolidated statements of operations as a remeasurement gain or loss.
+m)
+Market Risk Benefits
+Chubb reinsures various death and living benefit guarantees associated with variable annuities issued primarily in the United States, which meet the definition of Market risk benefits (MRB). These reinsurance contracts provide protection to the ceding entity from, and expose us to, other-than-nominal capital market risk. Market risk benefits are measured at fair value using a valuation model based on current net exposures, market data, our experience, and other factors. Changes in fair value are
+F-18
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+recognized in Market risk benefits gains (losses) in the Consolidated statements of operations, except the change in fair value due to a change in the instrument-specific credit risk, which is recognized in other comprehensive income.
+We generally receive a monthly premium during the accumulation phase of the covered annuities (in-force) based on a percentage of either the underlying accumulated account values or the underlying accumulated guaranteed values. Depending on an annuitant's age, the accumulation phase can last many years. To limit our exposure under these programs, all reinsurance treaties include annual or aggregate claim limits and many include an aggregate deductible.
+The guarantees which are payable on death, referred to as guaranteed minimum death benefits (GMDB), principally cover shortfalls between accumulated account value at the time of an annuitant's death and either i) an annuitant's total deposits; ii) an annuitant's total deposits plus a minimum annual return; or iii) the highest accumulated account value attained at any policy anniversary date. In addition, a death benefit may be based on a formula specified in the variable annuity contract that uses a percentage of the growth of the underlying contract value.
+Under reinsurance programs covering guaranteed living benefits (GLB), we assume the risk of guaranteed minimum income benefits (GMIB) associated with variable annuity contracts. The GMIB risk is triggered if, at the time the contract holder elects to convert the accumulated account value to a periodic payment stream (annuitize), the accumulated account value is not sufficient to provide a guaranteed minimum level of monthly income.
+n)
+Separate accounts
+Separate account assets

@@ -1,0 +1,50 @@
+Company did
+no
+t pay any interest related to the Convertible Notes or 2025 Convertible Notes during the three months ended March 31, 2024. The Company has
+no
+t paid any additional interest or special interest related to the Convertible Notes to date.
+On June 14, 2021, the Company issued $
+500
+million aggregate principal amount of
+6.125
+% Senior Secured Notes due 2028 (the “2028 Secured Notes”) in a private offering. These notes, which were guaranteed by MicroStrategy Services Corporation, a wholly owned subsidiary of the Company (the “Subsidiary Guarantor”), bore a fixed interest rate of
+6.125
+% per annum, payable
+semiannually
+, with a maturity date of
+June 15, 2028
+, unless earlier redeemed or repurchased in accordance with their terms and subject to a springing maturity feature described in the indenture governing the 2028 Secured Notes. The 2028 Secured Notes were secured by a first priority security interest in the Company's and the Subsidiary Guarantor’s assets, including bitcoins acquired by the Company or the Subsidiary Guarantor after June 14, 2021. The Company redeemed all 2028 Secured Notes on
+September 26, 2024
+, at a redemption price equal to $
+523.9
+million, and all collateral securing the 2028 Secured Notes was released.  For additional information about the 2028 Secured Notes, see Note 8 to the Company’s Consolidated Financial Statements of the Company’s Annual Report on Form 10-K for the year ended December 31, 2024.
+For the three months ended March 31, 2024, interest expense related to the 2028 Secured Notes was as follows (in thousands):
+The Company did
+no
+t pay any interest related to the 2028 Secured Notes during the three months ended March 31, 2024.
+14
+Other long-term secured debt
+In June 2022, the Company, through a wholly-owned subsidiary, entered into a secured term loan agreement in the amount of $
+11.1
+million, bearing interest at an annual rate of
+5.2
+%, and maturing in
+June 2027
+. The loan is secured by certain non-bitcoin assets of the Company that are not otherwise serving as collateral for any of the Company’s other indebtedness. After monthly payments made under the terms of the agreement, the loan had a net carrying value of $
+9.6
+million and $
+9.7
+million as of
+March 31, 2025 and December 31, 2024, respectively, and an outstanding principal balance of $
+9.7
+million and $
+9.8
+million as of
+March 31, 2025 and December 31, 2024, respectively. As of March 31, 2025 and December 31, 2024
+, $
+0.5
+million and $
+0.5
+million of the respective net carrying values were short-term and were presented in “Current portion of long-term debt, net” in the Consolidated Balance Sheets.
+Maturities
+The following table shows the maturities of the Company’s debt instruments outstanding as of March 31, 2025 (in thousands). The principal payments related to the 2028 Convertible Notes, 2029 Convertible Notes, 2030A Convertible Notes, 2030B Convertible Notes, 2031 Convertible Notes, and 2032 Convertible Notes are included in the table below

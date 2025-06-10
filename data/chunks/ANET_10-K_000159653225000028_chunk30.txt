@@ -1,0 +1,22 @@
+and 15(d) of the Securities Exchange Act of 1934, as amended (“Exchange Act”), are available free of charge on the Investors portion of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission ("SEC"). The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov.
+Webcasts of our earnings calls and certain events we participate in or host with members of the investment community are on our investor relations website. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading “Governance.” The contents of our websites, or information that can be accessed through our websites, are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only.
+13
+Item 1A. Risk Factors
+You should consider carefully the risks and uncertainties described below, together with all of the other information in this Annual Report on Form 10-K, which could materially affect our business, financial condition, results of operations and prospects. The risks described below are not the only risks facing us. Risks and uncertainties not currently known to us or that we currently deem to be immaterial may also materially affect our business, financial condition, results of operations and prospects.
+Risk Factors Summary
+Our business is subject to numerous risks and uncertainties. These risks include, but are not limited to, the following:
+Risks Related to Our Business and Industry
+•
+large purchases by a limited number of customers represent a substantial portion of our revenue;
+•
+adverse economic conditions, continuing uncertain economic conditions or reduced information technology and network infrastructure spending may adversely affect our business;
+•
+some key components in our products come from sole or limited sources of supply and increases the risk of supply shortages, extended lead times or supply changes;
+•
+our revenue and revenue growth rates are volatile and may decline or not meet our or our investor's expectations;
+•
+our results of operations may vary significantly from period to period and can be unpredictable;
+•
+the networking market is rapidly evolving;
+•
+failure to

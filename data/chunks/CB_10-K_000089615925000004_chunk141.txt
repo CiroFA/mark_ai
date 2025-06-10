@@ -1,0 +1,16 @@
+Unpaid losses and loss expenses is the fair value adjustment of $
+60
+million and $
+62
+million at December 31, 2024 and 2023, respectively, principally related to Chubb Corp’s historical unpaid losses and loss expenses. The estimated fair value consists of the present value of the expected net unpaid loss and loss adjustment expense payments adjusted for an estimated risk margin. The estimated cash flows are discounted at a risk-free rate. The estimated risk margin varies based on the inherent risks associated with each type of reserve. The fair value is amortized through Amortization of purchased intangibles on the Consolidated statements of operations based on the estimated payout patterns of unpaid loss and loss expenses at the acquisition date.
+Our loss reserves are presented net of contractual deductible recoverable amounts due from policyholders. Under the terms of certain high deductible policies which we offer, such as workers’ compensation and general liability, our customers are responsible to reimburse us for an agreed-upon dollar amount per claim. In nearly all cases we are required under such policies to pay covered claims first, and then seek reimbursement for amounts within the applicable deductible from our customers. We generally seek to mitigate this risk through collateral agreements.
+F-17
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+Prior period development arises from changes to loss estimates recognized in the current year that relate to loss reserves first reported in previous calendar years and excludes the effect of losses from the development of earned premiums from previous accident years.
+For purposes of analysis and disclosure, management views prior period development to be changes in the nominal value of loss estimates from period to period, net of premium and profit commission adjustments on loss sensitive contracts. Prior period development generally excludes changes in loss estimates that do not arise from the emergence of claims, such as those related to uncollectible reinsurance, interest, unallocated loss adjustment expenses, or foreign currency. Accordingly, specific items excluded from prior period development include the following: gains/losses related to foreign currency remeasurement; losses recognized from the early termination or commutation of reinsurance agreements that principally relate to the time value of money; changes in the value of reinsurance business assumed reflected in losses incurred but principally related to the time value of money; and losses that arise from changes in estimates of earned premiums from prior accident years. Except for foreign currency remeasurement, which is included in Net realized gains (losses), these items are included in current year losses within Losses and loss expenses on the Consolidated statements of operations.
+l)
+Future policy benefits
+For traditional and limited-payment contracts, contracts are

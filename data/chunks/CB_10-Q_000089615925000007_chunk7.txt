@@ -1,0 +1,52 @@
+equities of $
+14,769
+million, measured using NAV as a practical expedient.
+(4)
+Refer to Note 10 for additional information on Market risk benefits.
+14
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+Level 3 financial instruments
+The following tables present a reconciliation of the beginning and ending balances of financial instruments measured at fair value using significant unobservable inputs (Level 3).
+Excluded from the tables above is the reconciliation of Market risk benefits, which are presented in Note 10 Market risk benefits. Refer to Note 10 for additional information.
+b) Financial instruments disclosed, but not measured, at fair value
+Chubb uses various financial instruments in the normal course of its business. Our insurance contracts are excluded from fair value of financial instruments accounting guidance, and therefore, are not included in the amounts discussed below.
+The carrying values of cash, other assets, other liabilities, and other financial instruments not included below approximated their fair values. Refer to Note 4 b) of our 2024 Form 10-K for information on the fair value methods and assumptions for private debt held-for-investment, repurchase agreements, short-term and long-term debt, and hybrid debt.
+15
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following tables present fair value, by valuation hierarchy, and carrying value of the financial instruments not measured at fair value:
+5.
+Reinsurance
+Reinsurance recoverable on ceded reinsurance
+(1)
+Net of valuation allowance for uncollectible reinsurance.
+16
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents a roll-forward of valuation allowance for uncollectible reinsurance related to Reinsurance recoverable on losses and loss expenses:
+For additional information, refer to Note 1 e) to the Consolidated Financial Statements of our 2024 Form 10-K.
+6.
+Deferred policy acquisition costs
+The following tables present a roll-forward of deferred policy acquisition costs on long-duration contracts included in the Life Insurance segment:
+17
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+7.
+Unpaid losses and loss expenses
+The following table presents a reconciliation of beginning and ending Unpaid losses and loss expenses:
+(1)
+Net of valuation allowance for uncollectible reinsurance.
+(2)
+Relates to prior period loss reserve development only and excludes prior period development related to reinstatement premiums, expense adjustments, earned premiums, and A&H long-duration lines totaling $(
+18
+) million and $
+46
+million for the three months ended March 31, 2025 and 2024, respectively.
+Net unpaid losses and loss expenses increased $
+1,120
+million for the three months ended March 31,

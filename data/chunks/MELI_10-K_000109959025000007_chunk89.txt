@@ -1,0 +1,15 @@
+and financial income. This was partially offset by a decrease in product and technology development expenses as a percentage of net revenues and financial income, mainly related to the one-off charge recorded in 2023, because the risk of losing the case became probable in certain disputed amounts regarding withholding income tax contingencies in Brazil.
+Other income (expenses), net
+Other income (expenses), net consists primarily of interest income derived from our investments and cash equivalents and, interest expense and other financial charges related to financial liabilities not related to Mercado Pago’s operations, and foreign currency gains or losses. The following table presents Other income (expenses), net for the years indicated:
+(1)
+Recast for consistency with the current presentation due to the change in the presentation of certain financial results. Please refer to Note 2 – Summary of significant accounting policies - Change in the presentation of certain financial results and reclassification of prior years results to our audited consolidated financial statements for further details.
+49
+|
+MercadoLibre, Inc.
+Table of Contents
+For the year ended December 31, 2024, the decrease in other income (expense), net as compared to the year ended December 31, 2023 was primarily attributable to lower foreign exchange losses of $334 million due to acquisitions of financial instruments in the Argentine market at a price that reflects an additional cost of accessing U.S. dollars through an indirect mechanism due to restrictions imposed by the Argentine government for buying U.S. dollars at the official exchange rate, and due to lower foreign exchange losses from our Argentine subsidiaries. This was partially offset by higher foreign exchange losses from our Brazilian and Mexican subsidiaries.
+Income tax
+We are subject to federal and state income tax in the United States, as well as foreign taxes in the multiple jurisdictions where we operate. Our tax obligations consist of current and deferred income taxes incurred in these jurisdictions. We account for income taxes following the liability method of accounting. A valuation allowance is recorded when, based on the available evidence, it is more likely than not that all or a portion of our deferred tax assets will not be realized. Therefore, our income tax expense consists of taxes currently payable, if any (given that in certain jurisdictions we still have net operating loss carry-forwards), plus the change in our deferred tax assets and liabilities during each period.
+The following table summarizes the composition of our income taxes for the years ended December 31, 2024, 2023 and 2022:
+The following table presents income tax expense for the years indicated:
+During the year ended December 31, 2024 as compared to the year ended December 31, 2023, income tax expense decreased mainly as a result of lower taxable income in Argentina during 2024 primarily driven by lower non-deductible expenses. This

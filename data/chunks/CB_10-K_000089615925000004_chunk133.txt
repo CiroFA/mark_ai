@@ -1,0 +1,22 @@
+appropriate. We then apply the applicable default factor for that rating class. For balances recoverable from unrated reinsurers for which the ceded reserve is below a certain threshold, we generally apply a default factor of
+11.2
+percent, consistent with published statistics of a major rating agency;
+•
+For balances recoverable from reinsurers that are either insolvent or under regulatory supervision, we establish a default factor and resulting valuation allowance for uncollectible reinsurance based on reinsurer-specific facts and circumstances. Upon initial notification of an insolvency, we generally recognize an expense for a substantial portion of all balances outstanding, net of collateral, through a combination of write-offs of recoverable balances and increases to the valuation allowance for uncollectible reinsurance. When regulatory action is taken on a reinsurer, we generally recognize a default factor by estimating an expected recovery on all balances outstanding, net of collateral. When sufficient credible information becomes available, we adjust the valuation allowance for uncollectible reinsurance by establishing a default factor pursuant to information received; and
+F-12
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+•
+For other recoverables, management determines the valuation allowance for uncollectible reinsurance based on the specific facts and circumstances.
+The methods used to determine the reinsurance recoverable balance and related valuation allowance for uncollectible reinsurance are regularly reviewed and updated, and any resulting adjustments are reflected in earnings in the period identified.
+The methods used to determine the valuation allowance for uncollectible high deductible recoverable amounts and valuation allowance for insurance and reinsurance balances receivable are similar to the processes used to determine the valuation allowance for uncollectible reinsurance recoverable. For information on high deductible policies, refer to section k) Unpaid losses and loss expenses, below.
+Prepaid reinsurance premiums represent the portion of premiums ceded to reinsurers applicable to the unexpired coverage terms of the reinsurance contracts in-force.
+f)
+Investments
+Fixed maturities, equity securities, and short-term investments
+Fixed maturities are primarily classified as available-for-sale (AFS) and are reported at fair value, net of a valuation allowance for credit losses, with changes in fair value recorded as a separate component of AOCI in Shareholders' equity.
+Equity securities are reported at fair value with changes in fair value recorded in Net realized gains (losses) on the Consolidated statements of operations.
+Short-term investments comprise securities due to mature within one year of the date of purchase and are recorded at fair value which typically approximates cost.
+Interest, dividend income, and amortization of fixed maturity market premiums and

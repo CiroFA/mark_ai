@@ -1,0 +1,55 @@
+December 31, 2024 and 2023, renegotiations represented
+1.4
+% and
+2.8
+% of the loans receivable portfolio, respectively.
+As described in Note 2 – Summary of significant accounting policies, the Company places loans on non-accrual status at
+90
+days past due, except for credit card loans which are placed on non-accrual status
+60
+to
+65
+days past due. Interests related to loans on non-accrual status are recognized on cash-basis. There are no loans receivable on non-accrual status for which there is no related allowance for doubtful accounts.
+109
+|
+MercadoLibre, Inc.
+Table of Contents
+NOTE 8.
+GOODWILL AND INTANGIBLE ASSETS
+Goodwill and intangible assets
+The composition of goodwill and intangible assets is as follows:
+Goodwill
+The changes in the carrying amount of goodwill for the years ended December 31, 2024 and 2023 are as follows:
+Intangible assets with definite useful life
+Intangible assets with definite useful life are comprised of customer lists, non-compete and non-solicitation agreements, hubs network, acquired software licenses and other acquired intangible assets including developed technologies and trademarks. Aggregate amortization expense for intangible assets totale
+d
+$
+5
+million, $
+6
+million and $
+9
+million for the years ended December 31, 2024, 2023 and 2022, respectively.
+110
+|
+MercadoLibre, Inc.
+Table of Contents
+The following table summarizes the remaining amortization of intangible assets with definite useful life as of December 31, 2024:
+NOTE 9.
+INTANGIBLE ASSETS AT FAIR VALUE
+The following table presents the digital assets name, cost basis, fair value, and number of units for each significant digital asset holding as of December 31, 2024 and 2023:
+(1) Cost basis of the digital assets is net of $
+21
+million of impairment losses recognized prior to the adoption of ASU 2023-08.
+The following table summarizes the digital assets rollforward activity during the years ended December 31, 2024 and 2023:
+The method used by the Company for determining the cost basis of its digital assets was the weighted average price method.
+NOTE 10.
+SEGMENTS
+The Company manages the business country-by-country to understand and focus on the specific needs and opportunities in those markets. The Company’s chief executive officer is responsible for allocating resources and assessing performance and is therefore its chief operating decision maker (“CODM”). The Company’s segments include Brazil, Argentina, Mexico and other countries (which includes Chile, Colombia, Costa Rica, Ecuador, Peru, Uruguay and the U.S.).
+The CODM makes decisions considering all business lines within a country as whole and taking into account the synergies between the different lines in each of the countries’ integrated digital ecosystems.
+The CODM evaluates the performance of the Company’s operating segments based on their Direct Contribution.
+111
+|
+MercadoLibre, Inc.
+Table of Contents
+Direct contribution consists of net revenues and financial income from external customers less

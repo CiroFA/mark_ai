@@ -1,0 +1,24 @@
+these risks and uncertainties, the matters referred to in the forward-looking statements contained herein may not in fact occur. The forward-looking statements made herein relate only to events as of the date on which the statements were made. Except as may be required by law, we undertake no obligation to update our forward-looking statements to reflect events and circumstances after the date on which the statements were made or to reflect the occurrence of unanticipated events.
+6
+PAR
+T I
+Item 1.
+Business
+Overview
+Strategy
+TM
+is the world's first and largest Bitcoin Treasury Company. We are a publicly traded company that has adopted Bitcoin as our primary treasury reserve asset. By using proceeds from equity and debt financings, as well as cash flows from our operations, we strategically accumulate Bitcoin and advocate for its role as digital capital. Our treasury strategy is designed to provide investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments.
+In addition, we provide industry-leading AI-powered enterprise analytics software, advancing our vision of Intelligence Everywhere. We leverage our development capabilities to explore innovation in Bitcoin applications, integrating analytics expertise with our commitment to digital asset growth. We believe our combination of operational excellence, strategic Bitcoin reserve, and focus on technological innovation positions us as a leader in both the digital asset and enterprise analytics sectors, offering a unique opportunity for long-term value creation.
+Bitcoin Strategy
+We believe that bitcoin is an attractive asset because (i) it can serve as a store of value, supported by a robust and public open-source architecture, that is untethered to sovereign monetary policy, (ii) due to its limited supply, bitcoin offers the potential to serve as a hedge against inflation in the long-term and, if its adoption increases, the opportunity for appreciation in value, and (iii) the Bitcoin network provides the infrastructure and opportunity for the development of financial and technological innovations.
+In
+September
+2020, our Board of Directors adopted a Treasury Reserve Policy (as amended to date, the “Treasury Reserve Policy”) that updated our treasury management and capital allocation strategies, under which our treasury reserve assets will consist of:
+•
+cash and cash equivalents and short-term investments (“Cash Assets”) held by us that exceed working capital requirements; and
+•
+bitcoin held
+by
+us, with bitcoin serving as the primary treasury reserve asset on an ongoing basis, subject to market conditions and anticipated needs of the business for Cash Assets.
+In the first quarter of 2021, we adopted, in addition to and in conjunction with our Treasury Reserve Policy, a corporate strategy of acquiring and holding bitcoin, including with the proceeds of capital raising transactions.
+Our bitcoin strategy generally involves from

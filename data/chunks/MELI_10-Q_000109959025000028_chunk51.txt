@@ -1,0 +1,19 @@
+Market during the final 60 trading days of 2019, 2020, 2021, 2022, 2023 and 2024 defined as $553.45, $1,431.26, $1,391.81, $888.69, $1,426.11 and $1,944.47 for the 2020, 2021, 2022, 2023, 2024 and 2025 LTRPs, respectively. The “Applicable Year Stock Price” shall equal the average closing price of our common stock on the NASDAQ Global Select Market during the final 60 trading days of the year preceding the applicable payment date.
+As of March 31, 2025, the total contractual obligation fair value of our outstanding LTRP Variable Payment obligation subject to equity price risk amounted to $738 million. As of March 31, 2025, the accrued liability related to the outstanding Variable Payment of the LTRP included in Salaries and social security payable in our consolidated balance sheet amounted to $44 million. The following table shows a sensitivity analysis of the risk associated with our total contractual obligation fair value related to the outstanding LTRP Variable Award Payment subject to equity price risk if our common stock price per share were to increase or decrease by up to 40%:
+(1)
+Present value of average closing stock price for the last 60 trading days of the year preceding the applicable payment date.
+ITEM 4. CONTROLS AND PROCEDURES
+We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”) is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and that such information is accumulated and communicated to our Management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+Evaluation of Disclosure Controls and Procedures
+Based on the evaluation of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) required by Exchange Act Rules 13a-15(b) or 15d-15(b), our Chief Executive Officer and our Chief Financial Officer have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were effective.
+Changes in Internal Control Over Financial Reporting
+There have been no changes in our internal control over financial reporting (as such term is defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act) during the three-month period ended March 31, 2025, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+55
+|
+MercadoLibre, Inc.
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+See Item 1 of Part I, “Financial Statements — Note 10 – Commitments and Contingencies — Litigation and Other Legal Matters.”
+ITEM 1A. RISK FACTORS
+As of March 31, 2025, there have been no material changes in our risk factors from those disclosed in the Company’s 2024

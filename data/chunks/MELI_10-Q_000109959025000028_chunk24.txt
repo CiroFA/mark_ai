@@ -1,0 +1,26 @@
+combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements.
+These statements are based on currently available information and our current assumptions, expectations and projections about future events. While we believe that our assumptions, expectations and projections are reasonable in view of the currently available information, you are cautioned not to place undue reliance on our forward-looking statements. These statements are not guarantees of future performance.
+The discussion and analysis of our financial condition and results of operations has been organized to present the following:
+■
+a brief overview of our Company;
+■
+a review of our critical accounting policies and estimates;
+■
+a discussion of our principal trends and results of operations for the three-month periods ended March 31, 2025 and 2024;
+■
+a discussion of the principal factors that influence our results of operations, financial condition and liquidity;
+■
+a discussion of our liquidity and capital resources and a discussion of our capital expenditures;
+■
+a description of our key performance indicators; and
+■
+a description of our non-GAAP financial measures.
+Certain monetary amounts included elsewhere in this document have been subject to rounding adjustments. Accordingly, figures shown as totals in certain tables may not be the arithmetic aggregation of the figures that precede them.
+Other Information
+MercadoLibre, Inc. (together with its subsidiaries “us,” “we,”“our” or the “Company”) routinely post important information for investors on our Investor Relations website, investor.mercadolibre.com. We use this website as a means of disclosing material, non-public information and for complying with our disclosure obligations under SEC Regulation FD (Fair Disclosure). Accordingly, investors should monitor our Investor Relations website, in addition to following our press releases, SEC filings, public conference calls and webcasts. The information contained on, or that may be accessed through, our website is not incorporated by reference into, and is not a part of, this report.
+33
+|
+MercadoLibre, Inc.
+Table of Contents
+Business Overview
+We are the leading online commerce and fintech ecosystem in Latin America. Our e-commerce platform is the leader in the region based on gross merchandise volume (“GMV”), and our fintech platform is the leader in monthly active users (“MAUs”) among fintech companies in Mexico, Argentina and Chile, and the second largest in Brazil. Mercado Libre's e-commerce platform is present in 18 countries (Argentina, Brazil, Mexico, Chile, Colombia, Peru, Uruguay, Venezuela, Bolivia, Costa Rica, Dominican Republic, Ecuador, Guatemala, Honduras, Nicaragua, Panama, Paraguay and El Salvador) and our fintech platform, Mercado Pago, is present in eight countries (Argentina, Brazil, Mexico, Chile, Colombia, Peru, Uruguay and Ecuador). Our ecosystem provides consumers and merchants with a complete portfolio

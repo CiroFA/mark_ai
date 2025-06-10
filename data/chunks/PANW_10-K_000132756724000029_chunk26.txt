@@ -1,0 +1,19 @@
+laptop and mobile device users irrespective of their location. When a remote user logs into the device, GlobalProtect automatically determines the closest gateway available to the roaming device and establishes a secure connection. Regardless of the operating systems, laptops, tablets, and phones will stay connected to the corporate network when they are on a network of any kind and, as a result, are protected as if they never left the corporate campus. GlobalProtect ensures that the same secure application enablement policies that protect users at the corporate site are enforced for all users, independent of their location.
+•
+Enterprise DLP.
+This cloud-delivered security service provides consistent, reliable protection of sensitive data, such as personally identifiable information and intellectual property, for all traffic types, applications, and users. Native integration with our products makes it simple to deploy, and advanced machine learning minimizes management complexity. Enterprise DLP allows organizations to consistently discover, classify, monitor, and protect sensitive data, wherever it may reside. It helps minimize the risk of a data breach both on-premises and in the cloud—such as in Office/Microsoft 365™, Salesforce
+®
+, and Box—and assists in meeting stringent data privacy and compliance regulations, including the E.U. General Data Protection Regulation, the California Consumer Privacy Act, the Payment Card Industry Data Security Standard , HIPAA (Health Insurance Portability and Accountability Act) requirements, and others.
+•
+AI Access Security.
+GenAI applications can inadvertently expose sensitive company data, such as intellectual property, trade secrets, source code, financial records and customer information, leading to significant business and compliance risks. In addition, public GenAI tools can be exploited to spread malware and compromise cybersecurity defenses. AI Access Security classifies and prioritizes GenAI applications to assess risk, detect anomalies and visualize insights across multiple GenAI-specific attributes. It prevents sensitive data loss and defends against malicious responses, ensuring safe and effective AI adoption.
+- 6
+-
+Table of Contents
+•
+AIOps:
+AIOps is available in both free and licensed premium versions. AIOps redefines network operational experience by empowering security teams to proactively strengthen security posture and resolve network disruptions. AIOps provides continuous best practice recommendations powered by machine learning based on industry standards, security policy context, and advanced telemetry data collected from our network security customers to improve security posture. It also intelligently predicts health, performance, and capacity problems up to seven days in advance and provides actionable insights to resolve the predicted disruptions.
+Secure Access Service Edge:
+•
+Prisma Access.
+Prisma Access is a cloud-delivered security offering that helps organizations deliver consistent

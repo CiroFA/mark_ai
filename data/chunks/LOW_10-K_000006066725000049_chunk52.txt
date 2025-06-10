@@ -1,0 +1,16 @@
+actual results are not consistent with the assumptions and estimates used, we could be exposed to additional adjustments that could positively or negatively impact gross margin and inventory.  However, substantially all receivables
+Table of Contents
+associated with these activities do not require subjective long-term estimates because they are collected within the following fiscal year.  Adjustments to gross margin and inventory in the following fiscal year have historically not been material.
+Self-Insurance
+Description
+We are self-insured for certain losses relating to workers’ compensation, automobile, property, general and product liability, extended protection plans, and certain medical and dental claims.  We have excess insurance coverage above certain retention amounts to limit exposure from single events and earnings volatility.  Our self-insured retention or deductible, as applicable, is limited to $2 million per occurrence involving workers’ compensation, and $10 million per occurrence involving general liability, product liability, and automobile liability.  We do not have any excess insurance coverage for self-insured extended protection plan or medical and dental claims.  Self-insurance claims filed and claims incurred but not reported are accrued based upon our estimates of the discounted ultimate cost for self-insured claims incurred using actuarial assumptions followed in the insurance industry and historical experience.
+During fiscal 2024, our self-insurance liabilities decreased approximately $138 million to $966 million as of January 31, 2025.
+Judgments and uncertainties involved in the estimate
+These estimates are subject to changes in the regulatory environment, utilized discount rate, projected exposures including payroll, sales and vehicle units, as well as the frequency, lag and severity of claims.
+Effect if actual results differ from assumptions
+We have not made any material changes in the methodology used to establish our self-insurance liability during the past three fiscal years.  Although we believe that we have the ability to reasonably estimate losses related to claims, it is possible that actual results could differ from recorded self-insurance liabilities
+.  A 10% change in our self-insurance liability would have affected net earnings by approximately $72 million for fiscal 2024.  A 100 basis point change in our discount rate would have affected net earnings by approximately $18 million for fiscal 2024.
+Item 7A - Quantitative and Qualitative Disclosures about Market Risk
+In addition to the risks inherent in our operations, we are exposed to certain market risks, including changes in interest rates and commodity prices.
+Interest Rate Risk
+We use interest rate swap agreements as fair value hedges on certain debt.  The fair value of our derivative financial instruments as of January 31, 2025, was not material.  Fluctuations in interest rates do not have a material impact on our financial condition and results of

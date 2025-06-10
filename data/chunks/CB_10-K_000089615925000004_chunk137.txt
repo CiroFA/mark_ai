@@ -1,0 +1,15 @@
+Unrealized gains and losses on non-qualified separate account assets are reflected in Other (income) expense.
+Investments in partially-owned insurance companies
+Investments in partially-owned insurance companies primarily represent direct investments in which Chubb has significant influence and as such, meet the requirements for equity method accounting. Generally, we own twenty percent or more of the investee’s shares. We report our share of the net income or loss of the partially-owned insurance companies in Other (income) expense.
+Securities lending program
+Chubb participates in a securities lending program operated by a third-party banking institution whereby certain assets are loaned to qualified borrowers and from which we earn an incremental return which is recorded within Net investment income in the Consolidated statements of operations.
+Borrowers provide collateral, in the form of either cash or approved securities, at a minimum of
+102
+percent of the fair value of the loaned securities. Each security loan is deemed to be an overnight transaction. Cash collateral is invested in a collateral pool which is managed by the banking institution. The collateral pool is subject to written investment guidelines with key objectives which include the safeguard of principal and adequate liquidity to meet anticipated redemptions. The fair value of the loaned securities is monitored on a daily basis, with additional collateral obtained or refunded as the fair value of the loaned securities changes. The fair value of the securities on loan is included in Fixed maturities available-for-sale and Equity securities in the Consolidated balance sheets. The collateral is held by the third-party banking institution, and the collateral can only be accessed in the event that the institution borrowing the securities is in default under the lending agreement. As a result of these restrictions, we consider our securities lending activities to be non-cash investing and financing activities. An indemnification agreement with the lending agent protects us in the event a borrower becomes insolvent or fails to return any of the securities on loan. The securities lending collateral is reported as a separate line in the Consolidated balance sheets with a related liability reflecting our obligation to return the collateral plus interest.
+F-15
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+Repurchase agreements
+Similar to securities lending arrangements, securities sold under repurchase agreements, whereby Chubb sells securities and repurchases them at a future date for a predetermined price, are accounted for as collateralized investments and borrowings and are recorded at the contractual repurchase amounts plus accrued interest. Assets to be repurchased are the same or substantially the same as the assets transferred, and the transferor, through right of substitution, maintains the right and ability to redeem the

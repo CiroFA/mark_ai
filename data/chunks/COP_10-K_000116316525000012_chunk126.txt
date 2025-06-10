@@ -1,0 +1,43 @@
+534
+million)
+Revolving Credit Facility and Credit Rating Information
+We have a revolving credit facility totaling $
+5.5
+billion with an expiration date of February 2027. Our revolving credit facility may be used for direct bank borrowings, the issuance of letters of credit totaling up to $
+500
+million, or as support for our commercial paper program. The revolving credit facility is broadly syndicated among financial institutions and does not contain any material adverse change provisions or any covenants requiring maintenance of specified financial ratios or credit ratings. The facility agreement contains a cross-default provision relating to the failure to pay principal or interest on other debt obligations of $
+200
+million or more by ConocoPhillips, or any of its consolidated subsidiaries. The amount of the facility is not subject to redetermination prior to its expiration date.
+Credit facility borrowings may bear interest at a margin above the Secured Overnight Financing Rate (SOFR). The facility agreement calls for commitment fees on available, but unused, amounts. The facility agreement also contains early termination rights if our current directors or their approved successors cease to be a majority of the Board of Directors.
+The revolving credit facility supports our ability to issue up to $
+5.5
+billion of commercial paper. Commercial paper is generally limited to maturities of 90 days and is included in short-term debt on our consolidated balance sheet. With no commercial paper outstanding and
+no
+direct borrowings or letters of credit, we had access to $
+5.5
+billion in available borrowing capacity under our revolving credit facility at December 31, 2024 and December 31, 2023.
+For information on Finance Leases,
+see Note
+14
+.
+The current credit ratings on our long-term debt are:
+•
+Fitch: “A” with a “stable” outlook
+•
+S&P: “A-” with a “stable” outlook
+•
+Moody's:
+"
+A2
+"
+with a
+"
+stable
+"
+outlook
+We do not have any ratings triggers on any of our corporate debt that would cause an automatic default, and thereby impact our access to liquidity upon downgrade of our credit ratings. If our credit ratings are downgraded from their current levels, it could increase the cost of corporate debt available to us and restrict our access to the commercial paper markets. If our credit ratings were to deteriorate to a level prohibiting us from accessing the commercial paper market, we would still be able to access funds under our revolving credit facility.
+At both December 31, 2024 and 2023, we had $
+283
+million of certain variable rate demand bonds (VRDBs) outstanding with maturities ranging through 2035. The VRDBs are redeemable at the option of the bondholders on any business day. If they are ever redeemed, we have the ability and intent to refinance on a long-term basis, therefore, the VRDBs are included in the “Long-term debt” line on our consolidated balance sheet.
+Note 9—Guarantees
+At December 31, 2024, we were liable for certain contingent obligations

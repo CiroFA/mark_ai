@@ -1,0 +1,18 @@
+hold in the VIE.
+•
+Determining whether a legal entity qualifies as a VIE - For those entities where KKR holds a variable interest, management determines whether each of these entities qualifies as a VIE and, if so, whether or not KKR is the primary beneficiary. The assessment of whether the entity is a VIE is generally performed qualitatively, which requires judgment. These judgments include: (a) determining whether the equity investment at risk is sufficient to permit the entity to finance its activities without additional subordinated financial support, (b) evaluating whether the equity holders, as a group, can make decisions that have a significant effect on the economic performance of the entity, (c) determining whether two or more parties’ equity interests should be aggregated, and (d) determining whether the equity investors have proportionate voting rights to their obligations to absorb losses or rights to receive returns from an entity. Entities that do not qualify as VIEs are generally assessed for consolidation as voting interest entities. Under the voting interest entity model, KKR consolidates those entities it controls through a majority voting interest.
+•
+Concluding whether KKR has an obligation to absorb losses or the right to receive benefits that could potentially be significant to the VIE - As there is no explicit threshold in GAAP to define “potentially significant,” we must apply judgment and evaluate both quantitative and qualitative factors to conclude whether this threshold is met.
+Changes to these judgments could result in a change in the consolidation conclusion for a legal entity.
+Fair Value Measurements
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date under current market conditions.
+GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observability used in measuring financial instruments at fair value.  Investments and other financial instruments measured and reported at fair value are classified and disclosed based on the observability of inputs used in the determination of fair values, as follows:
+Level I
+Pricing inputs are unadjusted, quoted prices in active markets for identical assets or liabilities as of the measurement date.
+Level II
+Pricing inputs are other than quoted prices in active markets, which are either directly or indirectly observable as of the measurement date, and fair value is determined through the use of models or other valuation methodologies.
+152
+Table of
+Contents
+Level III
+Pricing inputs are unobservable for the financial instruments and include situations where there is little, if any, market activity for the financial instrument. The inputs into the determination of fair value require significant management judgment or estimation. The valuation of our Level III investments at March 31, 2025 represents management's

@@ -1,0 +1,31 @@
+equity classification. Transaction costs related to the issuance of the notes were allocated to the liability and equity components using the same proportions as the proceeds from the notes. Transaction costs attributable to the liability component were netted with the liability component and amortized to interest expense using the effective interest method over the term of the notes. Transaction costs attributable to the equity component were netted with the equity component of the notes in additional paid-in capital. Upon the notes becoming convertible, the net carrying amount of the liability component was classified as a current liability and a portion of the equity component representing the conversion option was reclassified to temporary equity. The portion of the equity component classified as temporary equity was measured as the difference between the principal and net carrying amount of the notes, excluding debt issuance costs.
+Upon adoption of the new debt guidance on August 1, 2021, our convertible senior notes are accounted for entirely as a liability and measured at their amortized cost. Transaction costs related to the issuance of the notes are netted with the liability and are amortized on a straight-line basis, which approximates the effective interest rate method, to interest expense over the term of the notes.
+We adopted the new debt guidance using the modified-retrospective approach. The adoption of this standard resulted in an increase to convertible senior notes, net of $
+444.3
+million, a decrease to accumulated deficit of $
+266.7
+million, a decrease to additional paid-in capital of $
+581.9
+million, and a decrease to temporary equity of $
+129.1
+million on August 1, 2021.
+Revenue Recognition
+Our revenue consists of product revenue and subscription and support revenue. Revenue is recognized when control of promised products, subscriptions and support services are transferred to customers, in an amount that reflects the expected consideration in exchange for those products and services.
+- 70
+-
+Table of
+Contents
+We determine revenue recognition through the following steps:
+•
+Identification of the contract, or contracts, with a customer.
+•
+Identification of the performance obligations in the contract.
+•
+Determination of the transaction price.
+•
+Allocation of the transaction price to the performance obligations in the contract.
+•
+Recognition of revenue when, or as, we satisfy a performance obligation.
+Revenues are reported net of sales taxes. Shipping charges billed to our customers are included in revenue and related costs are included in cost of revenue.
+Product Revenue
+Product revenue is derived primarily from sales of our appliances. Product revenue also includes revenue derived from software licenses of Panorama, SD-WAN, and the VM-Series. Our appliances and software licenses include a broad set of built-in networking and security features and functionalities. We recognize product revenue at the time of hardware shipment or

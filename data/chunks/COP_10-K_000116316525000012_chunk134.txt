@@ -1,0 +1,37 @@
+designated swaps.
+Financial Instruments
+We invest in financial instruments with maturities based on our cash forecasts for the various accounts and currency pools we manage. The types of financial instruments in which we currently invest include:
+•
+Time deposits: Interest bearing deposits placed with financial institutions for a predetermined amount of time.
+•
+Demand deposits: Interest bearing deposits placed with financial institutions. Deposited funds can be withdrawn without notice.
+•
+Commercial paper: Unsecured promissory notes issued by a corporation, commercial bank or government agency purchased at a discount to mature at par.
+•
+U.S. government or government agency obligations: Securities issued by the U.S. government or U.S. government agencies.
+•
+Foreign government obligations: Securities issued by foreign governments.
+•
+Corporate bonds: Unsecured debt securities issued by corporations.
+•
+Asset-backed securities: Collateralized debt securities.
+The following investments are carried on our consolidated balance sheet at cost, plus accrued interest and the table reflects remaining maturities at December 31, 2024 and 2023:
+The following investments in debt securities classified as available for sale are carried at fair value on our consolidated balance sheet at December 31, 2024 and 2023:
+Cash and cash equivalents and Short-term investments have remaining maturities within one year. Investments and long-term receivables have remaining maturities that vary from greater than one year through four years.
+The following table summarizes the amortized cost basis and fair value of investments in debt securities classified as available for sale at December 31:
+As of December 31, 2024, total unrealized gains for debt securities classified as available for sale with net gains were $
+5
+million and total unrealized losses for debt securities classified as available for sale with net losses were $
+1
+million. As of December 31, 2023, total unrealized gains for debt securities classified as available for sale with net unrealized gains were $
+5
+million.
+No
+allowance for credit losses has been recorded on investments in debt securities which are in an unrealized loss position.
+For the years ended December 31, 2024 and 2023, proceeds from sales and redemptions of investments in debt securities classified as available for sale were $
+868
+million and $
+983
+million, respectively. Gross realized gains and losses included in earnings from those sales and redemptions were negligible. The cost of securities sold and redeemed is determined using the specific identification method.
+Credit Risk
+Financial instruments potentially exposed to concentrations of credit risk consist primarily of cash equivalents, short-term investments, long-term investments in debt securities, OTC derivative contracts and trade receivables. Our cash equivalents and short-term investments are placed in high-quality commercial paper, government money market funds, U.S. government and

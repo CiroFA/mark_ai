@@ -1,0 +1,19 @@
+available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies, and results of recent operations. If we determine that we would be able to realize deferred tax assets in the future in excess of their net recorded amount, an adjustment to the deferred tax asset valuation allowance would be made to reduce the provision for income taxes.
+We record uncertain tax positions on the basis of a two-step process in which determinations are made (i) whether it is more likely than not that the tax positions will be sustained on the basis of the technical merits of the position and (ii) for those tax positions that meet the more-likely-than-not recognition threshold, we recognize the largest amount of tax benefit that is more than 50% likely to be realized upon ultimate settlement with a tax authority.
+55
+Table
+of
+Contents
+We recognize interest and penalties related to unrecognized tax benefits in the income tax expense line in our consolidated statement of operations. Accrued interest and penalties are included in the other non-current liabilities line in the consolidated balance sheet.
+Recent Accounting Pronouncements
+See Note 2 to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted as of the dates of the statement of financial position included in this Annual Report on 10-K.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+We are exposed to market risks in the ordinary course of our business, which primarily relate to fluctuations in interest rates and foreign exchange.
+Interest Rate Fluctuation Risk
+As of December 31, 2024, we had unrestricted cash and cash equivalents of $741.4 million. A hypothetical 100 basis point increase in interest rates would not have a material impact on our financial condition or results of operations due to the short-term nature of our cash equivalents.
+The Senior Notes have fixed annual interest rates, and therefore we do not have economic interest rate exposure on these debt obligations. However, the fair values of the Senior Notes are exposed to interest rate risk. Generally, the fair values of the Senior Notes will increase as interest rates fall and decrease as interest rates rise.
+Future borrowings under our 2024 Credit Agreement will bear interest, which varies based on the underlying index rates. Because the interest rates applicable to borrowings under the 2024 Credit Agreement are variable, we are exposed to market risk from changes in the underlying index rates, which affect our cost of borrowing.
+For additional information, see Note 9 to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+Foreign Currency Exchange Risk
+Translation Exposure
+We are exposed to foreign exchange rate fluctuations as we translate

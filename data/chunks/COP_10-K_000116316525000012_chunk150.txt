@@ -1,0 +1,33 @@
+acquisitions/dispositions/revisions and the effect of translating foreign financial statements.
+Valuation allowances have been established to reduce deferred tax assets to an amount that will, more likely than not, be realized. At December 31, 2024, we have maintained a valuation allowance with respect to substantially all U.S. foreign tax credit carryforwards, basis differences in our APLNG investment, and certain net operating loss carryforwards for various jurisdictions. During 2024, the valuation allowance movement charged to earnings primarily relates to the ability to utilize a portion of ConocoPhillips foreign tax credit carryforwards due to the acquisition of Marathon Oil. During 2022, the valuation allowance movement charged to earnings primarily related to the impact of 2022 changes to Norway’s Petroleum Tax System which is partly offset by the U.S. tax impact of the disposition of our CVE common shares. Other movements are primarily related to valuation allowances on expiring tax attributes. Based on our historical taxable income, expectations for the future and available tax-planning strategies, management expects deferred tax assets, net of valuation allowances, will primarily be realized as offsets to reversing deferred tax liabilities.
+See
+Note
+3
+.
+As a result of the acquisition of Marathon Oil, we utilized foreign tax credits previously offset by a valuation allowance. During the fourth quarter of 2024, a tax benefit of $
+394
+million was recorded as a result of the acquisition and the subsequent utilization of the foreign tax credits.
+See
+Note
+3
+.
+During the second quarter of 2022, Norway enacted changes to the Petroleum Tax System. As a result of the enactment, a valuation allowance of $
+58
+million was recorded during the second quarter to reflect changes to our ability to realize certain deferred tax assets under the new law.
+At December 31, 2024, unremitted income considered to be permanently reinvested in certain foreign subsidiaries and foreign corporate joint ventures totaled approximately $
+5,226
+million. Deferred income taxes have not been provided on this amount, as we do not plan to initiate any action that would require the payment of income taxes. The estimated amount of additional tax, primarily local withholding tax, that would be payable on this income if distributed is approximately $
+261
+million.
+The following table shows a reconciliation of the beginning and ending unrecognized tax benefits for 2024, 2023 and 2022:
+Included in the balance of unrecognized tax benefits for 2024, 2023 and 2022 were $
+368
+million, $
+378
+million and $
+701
+million, respectively, which, if recognized, would impact our effective tax rate.
+The balance of the unrecognized tax benefits decreased in 2024 due to the resolution of certain items with U.S. and Norwegian taxing authorities. The balance of our unrecognized tax benefits increased in 2024 primarily due to U.S. tax credits acquired through our acquisition of Marathon Oil.
+See
+Note
+3

@@ -1,0 +1,17 @@
+Preferred Stock and our class A common stock will result in an adjustment to the conversion rate of our Perpetual Strike Preferred Stock
+The conversion rate of our Perpetual Strike Preferred Stock is subject to adjustment for certain events, including:
+•
+certain stock dividends, splits and combinations;
+•
+the issuance of certain rights, options or warrants to holders of our class A common stock;
+•
+certain distributions of assets, debt securities, capital stock or other property to holders of our class A common stock;
+•
+cash dividends on our class A common stock; and
+•
+certain tender or exchange offers.
+We are not required to adjust the conversion rate for other events, such as third-party tender offers or an issuance of class A common stock (or securities exercisable for, or convertible into, class A common stock) for cash, that may adversely affect the value of our Perpetual Strike Preferred Stock and the trading price of our class A common stock. An event may occur that adversely affects the value of our Perpetual Strike Preferred Stock and the trading price of the underlying shares of our class A common stock but that does not result in an adjustment to the conversion rate.
+74
+Certain events that can significantly reduce, or eliminate entirely, the option value of the conversion right of our Perpetual Strike Preferred Stock will not require an adjustment to the conversion rate. For example, if we are party to a business combination transaction pursuant to which our class A common stock is acquired solely for cash, then, our Perpetual Strike Preferred Stock will become convertible solely into cash, which will eliminate the time value, and may harm the option value, of the conversion right of our Perpetual Strike Preferred Stock. Similarly, a de-listing of our class A common stock will likely severely reduce the liquidity of the market for our class A common stock and the volatility of the trading price of our class A common stock, which, in turn, will likely reduce the option value of the conversion right of our Perpetual Strike Preferred Stock significantly. None of these, or certain other, events will, in themselves, require an adjustment to the conversion rate to compensate preferred stockholders for their lost option value.
+Many convertible instruments contain “make-whole” provisions that adjust the conversion rate in a manner that is designed to compensate investors for lost option value upon the occurrence of specified events. Our Perpetual Strike Preferred Stock does not contain such a provision. Accordingly, we may engage in transactions that significantly reduce the option value of the conversion right of our Perpetual Strike Preferred Stock without a corresponding adjustment to the conversion rate.
+Recent and future regulatory actions, changes in market conditions and other events may adversely affect the trading price and liquidity of our Perpetual Strike Preferred Stock and the ability of investors to implement a convertible

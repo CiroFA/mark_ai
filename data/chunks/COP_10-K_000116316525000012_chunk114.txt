@@ -1,0 +1,16 @@
+guarantee liability to the related income statement line item based on the nature of the guarantee. When it becomes probable that we will have to perform on a guarantee, we accrue a separate liability if it is reasonably estimable, based on the facts and circumstances at that time. We reverse the fair value liability only when there is no further exposure under the guarantee.
+•
+Share-Based Compensation
+—We recognize share-based compensation expense over the shorter of the service period (i.e., the stated period of time required to earn the award) or the period beginning at the start of the service period and ending when an employee first becomes eligible for retirement. We have elected to recognize expense on a straight-line basis over the service period for the entire award, whether the award was granted with ratable or cliff vesting.
+•
+Income Taxes
+—Deferred income taxes are computed using the liability method and are provided on all temporary differences between the financial reporting basis and the tax basis of our assets and liabilities, except for deferred taxes on income and temporary differences related to the cumulative translation adjustment considered to be permanently reinvested in certain foreign subsidiaries and foreign corporate joint ventures. Allowable tax credits are applied currently as reductions of the provision for income taxes. Interest related to unrecognized tax benefits is reflected in interest and debt expense, and penalties related to unrecognized tax benefits are reflected in production and operating expenses.
+•
+Taxes Collected from Customers and Remitted to Governmental Authorities
+—Sales and value-added taxes are recorded net.
+•
+Net Income (Loss) Per Share of Common Stock
+—Basic net income (loss) per share (EPS) is calculated using the two-class method. Under the two-class method, all earnings (distributed and undistributed) are allocated to common stock (including fully vested stock and unit awards that have not yet been issued as common stock) and participating securities. ConocoPhillips grants Restricted Stock Units (RSUs) under its share-based compensation programs, the majority of which entitle recipients to receive non-forfeitable dividends during the vesting period on a basis equivalent to dividends paid to holders of the company’s common stock.
+See Note
+15
+. These unvested RSUs meet the definition of participating securities based on their respective rights to receive non-forfeitable dividends and are treated as a separate class of securities in computing basic EPS. Participating securities are not included as incremental shares in computing diluted EPS. Diluted EPS includes the potential impact of contingently issuable shares, including awards which require future service as a condition of delivery of the underlying common stock. Diluted EPS is calculated under both the two-class and treasury stock methods, and the more dilutive amount is reported. Diluted net loss per share does not assume conversion or

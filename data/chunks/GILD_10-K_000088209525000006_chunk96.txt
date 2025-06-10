@@ -1,0 +1,21 @@
+revised estimated fair value of the NSCLC IPR&D intangible asset was below its carrying value. As a result, we recognized a partial impairment charge of $
+1.8
+billion in In-process research and development impairments on our Consolidated Statements of Operations during the third quarter of 2024.
+To arrive at the revised estimated fair values as of March 31, 2024 and September 30, 2024, we used a probability-weighted income approach that discounts expected future cash flows to present value, which requires the use of Level 3 fair value measurements and inputs, including critical estimated inputs, such as: revenues and operating profits related to the planned utilization of SG in NSCLC, which includes inputs such as addressable patient population, projected market share, treatment duration, and the life of the potential commercialized product; the probability of technical and regulatory success; the time and resources needed to complete the development and approval of SG in NSCLC; an appropriate discount rate based on the estimated weighted-average cost of capital for companies with profiles similar to our profile; and risks related to the viability of and potential alternative treatments in any future target markets. We used a discount rate of
+7.00
+%
+which is based on the
+estimated weighted-average cost of capital for companies with profiles similar to ours.
+2023 Impairments
+In 2023, we wrote off the remaining $
+51
+million balance of a finite-lived intangible asset, charged to Cost of goods sold on our Consolidated Statements of Operations, due to the termination of a global development cost-sharing arrangement with Galapagos related to filgotinib and their obligation to pay tiered royalties to us on net sales in Europe.
+Due to a change in anticipated timing of FDA approval, we also recognized a $
+50
+million partial impairment of our bulevirtide IPR&D intangible asset in In-process research and development impairments on our Consolidated Statements of Operations in 2023.
+2022 Impairment
+In connection with our acquisition of Immunomedics in 2020, we allocated a portion of the purchase price to acquired IPR&D intangible assets. Approximately $
+8.8
+billion was assigned to IPR&D intangible assets related to Trodelvy for treatment of patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative (“HR+/HER2-”) breast cancer. In March 2022, we received data from the Phase 3 TROPiCS-02 study evaluating Trodelvy in patients with HR+/HER2- metastatic breast cancer who have received prior endocrine therapy, cyclin-dependent kinase 4/6 inhibitors and two to four lines of chemotherapy (“third-line plus patients”). Based on our evaluation of the study results, and in connection with the preparation of the financial statements for the first quarter, we updated our estimate of the fair value of our HR+/HER2- IPR&D intangible asset to $
+6.1
+billion as of March 31, 2022. Our estimate of fair value used a probability-weighted income

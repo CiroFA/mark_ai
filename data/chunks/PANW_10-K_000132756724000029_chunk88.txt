@@ -1,0 +1,24 @@
+during these periods was not significant.
+Stock Price Performance Graph
+This performance graph shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference into any filing of Palo Alto Networks, Inc. under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+This performance graph compares the cumulative total return on our common stock with that of the Nasdaq 100 Index, the Standard & Poor’s 500 Index, and the Standard & Poor’s 500 Information Technology Index for the five years ended July 31, 2024. This performance graph assumes $100 was invested on July 31, 2019, in each of the common stock of Palo Alto Networks, Inc., the Nasdaq 100 Index, the Standard & Poor’s 500 Index, and the Standard & Poor’s 500 Information Technology Index, and assumes the reinvestment of any dividends. The stock price performance on this performance graph is not necessarily indicative of future stock price performance.
+- 41
+-
+Table of Contents
+Palo Alto Networks, Inc. Comparison of Total Return Performance
+Item 6. [Reserved]
+- 42
+-
+Table of Contents
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. The following discussion and analysis contains forward-looking statements based on current expectations and assumptions that are subject to risks and uncertainties, which could cause our actual results to differ materially from those anticipated or implied by any forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Annual Report on Form 10-K, and in particular, the risks discussed under the caption “Risk Factors” in Part I, Item 1A of this report.
+Our Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is organized as follows:
+•
+Overview.
+A discussion of our business and overall analysis of financial and other highlights in order to provide context for the remainder of MD&A.
+•
+Key Financial Metrics.
+A summary of our U.S. GAAP and non-GAAP key financial metrics, which management monitors to evaluate our performance.
+•
+Results of Operations.
+A discussion of the nature and trends in our financial results and an analysis of our financial results comparing fiscal 2024 to fiscal 2023. For discussion and analysis related to our financial results comparing fiscal 2023 to 2022, refer to Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for fiscal 2023, which was filed with the Securities and Exchange Commission

@@ -10,7 +10,7 @@ ROOT_DIR = os.path.dirname(BASE_DIR)
 CSV_PATH = os.path.join(ROOT_DIR, "data", "documents_raw", "company_list.csv")
 SAVE_FOLDER = os.path.join(ROOT_DIR, "data", "documents_raw")
 FORM_TYPES = ["10-K", "10-Q"]
-MAX_COMPANIES = 100 
+MAX_COMPANIES = 120
 HEADERS = {'User-Agent': 'Gerardo DArco gerardo@email.com'}
 
 os.makedirs(SAVE_FOLDER, exist_ok=True)

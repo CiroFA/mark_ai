@@ -1,0 +1,17 @@
+were not available, fair values for financial assets and liabilities classified within Level 2 were determined using pricing models, and the
+Table of Contents
+inputs to those pricing models were based on observable market inputs.  The inputs to the pricing models were typically benchmark yields, reported trades, broker-dealer quotes, issuer spreads and benchmark securities, among others.
+The Company has performance-based contingent consideration related to the fiscal 2022 sale of the Canadian retail business which is classified as a Level 3 long-term investment, and such contingent consideration had an estimated fair value of
+zero
+as of May 2, 2025, May 3, 2024, and January 31, 2025.  The Company’s measurements of fair value of the contingent consideration are based on an income approach, which requires certain assumptions considering operating performance of the business and a risk-adjusted discount rate.  Changes in the estimated fair value of the contingent consideration are recognized within selling, general and administrative expenses (SG&A) in the consolidated statements of earnings.
+Assets and Liabilities that are Measured at Fair Value on a Nonrecurring Basis
+During the three months ended May 2, 2025, and May 3, 2024, the Company had no material measurements of assets and liabilities at fair value on a nonrecurring basis subsequent to their initial recognition.
+Other Fair Value Disclosures
+The Company’s financial assets and liabilities not measured at fair value on a recurring basis include cash and cash equivalents, accounts receivable, short-term borrowings, accounts payable, and long-term debt and are reflected in the financial statements at cost.  With the exception of long-term debt, cost approximates fair value for these items due to their short-term nature.  As further described in
+Note 7
+, certain long-term debt is associated with a fair value hedge and the changes in fair value of the hedged debt is included in the carrying value of long-term debt in the consolidated balance sheets.  The fair values of the Company’s unsecured notes were estimated using quoted market prices.  The fair values of the Company’s mortgage notes were estimated using discounted cash flow analyses, based on the future cash outflows associated with these arrangements and discounted using the applicable incremental borrowing rate.
+Carrying amounts and the related estimated fair value of the Company’s long-term debt, excluding finance lease obligations, are as follows:
+Note 6:
+Accounts Payable
+The Company has an agreement with a third party to provide a supplier finance program which facilitates participating suppliers’ ability to finance payment obligations from the Company with designated third-party financial institutions.  Participating suppliers may, at their sole discretion, make offers to finance one or more payment obligations of the Company prior to their scheduled due dates at a discounted price to participating financial institutions.
+The

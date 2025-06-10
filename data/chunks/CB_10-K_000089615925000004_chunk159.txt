@@ -1,0 +1,34 @@
+development tables under section c) below, present Chubb’s historical incurred and paid claims development by broad product line through December 31, 2024, net of reinsurance, as well as the cumulative number of reported claims, IBNR balances, and other supplementary information.
+F-42
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+The following table presents a reconciliation of the loss development tables to the liability for unpaid losses and loss expenses in the consolidated balance sheet:
+F-43
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+Business excluded from the loss development tables
+“Other” shown in the reconciliation table comprises businesses excluded from the loss development tables:
+•
+Corporate segment business, which includes run-off liabilities such as asbestos, environmental, and molestation and other mass tort exposures and which impact accident years older than those shown in the loss development tables;
+•
+North America Agricultural Insurance segment business, which is short-tailed with the majority of the liabilities expected to be resolved in the ensuing twelve months; and
+•
+Certain subsets of our business due to data limitations or unsuitability to the loss development table presentation, including:
+•
+Various loss portfolio transfers; by convention, all premium and losses associated with these transactions are recorded to the policy period of the transaction, even though the accident dates of the claims covered may be a decade or more in the past. We also underwrite certain high attachment, high limit, multiple-line and excess of aggregate coverages for large commercial clients. Changes in incurred loss and cash flow patterns are volatile and sufficiently different from those of typical insureds. This category includes the Alternative Risk Solutions business within the North America Commercial P&C Insurance segment;
+•
+2015 paid history on a subset of previously acquired international businesses, within the Overseas General Insurance segment, due to limitations on the data prior to the acquisition;
+•
+Huatai P&C business and International A&H lines, where incurred loss development is shorter-tailed than the majority of the liabilities in the Overseas General segment and reported claims are high frequency and low severity in nature;
+•
+Purchase accounting adjustments related to unpaid losses and loss expenses for Chubb Corp;
+•
+Reinsurance recoverable bad debt; and
+•
+Balances with insufficient detail.
+a) Description of Reserving Methodologies
+Our recorded reserves represent management's best estimate of the provision for unpaid claims as of the balance sheet date. The process of establishing loss and loss expense reserves can be complex and is subject to considerable uncertainty as it requires the use of estimates and judgments based on circumstances underlying the insured loss at the date of accrual. The reserves

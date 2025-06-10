@@ -1,0 +1,42 @@
+measured using exchange prices. The fair value of investments in debt securities categorized as Level 2 in the fair value hierarchy is measured using pricing provided by brokers or pricing service companies that are corroborated with market data.
+See
+Note
+10
+.
+•
+Accounts payable (including related parties) and floating-rate debt: The carrying amount of accounts payable and floating-rate debt reported on the balance sheet approximates fair value.
+•
+Fixed-rate debt: The estimated fair value of fixed-rate debt is measured using prices available from a pricing service that is corroborated by market data; therefore, these liabilities are categorized as Level 2 in the fair value hierarchy.
+•
+Commercial paper: The carrying amount of our commercial paper instruments approximates fair value and is reported on the balance sheet as short-term debt.
+The following table summarizes the net fair value of financial instruments (i.e., adjusted where the right of setoff exists for commodity derivatives):
+Note 12—Accumulated Other Comprehensive Income (Loss)
+Accumulated other comprehensive income (loss) in the equity section of our consolidated balance sheet includes:
+The following table summarizes reclassifications out of accumulated other comprehensive income (loss) and into net income (loss):
+*The above amounts are included in the computation of net periodic benefit cost and are presented net of tax expense of $
+2
+million and $
+2
+million for the three-month periods ended March 31, 2025 and March 31, 2024, respectively.
+See Note
+14
+.
+Note 13—Cash Flow Information
+For additional information on cash and non-cash changes to our consolidated balance sheet,
+See Note 3
+regarding assets sold and assets classified as held for sale during the period.
+Note 14—Employee Benefit Plans
+Pension and Postretirement Plans
+The components of net periodic benefit cost, other than the service cost component, are included in the "Other expenses" line of our consolidated income statement.
+Note 15—Related Party Transactions
+The following tables summarize the related party balances and activities which are primarily with equity affiliates:
+Note 16—Sales and Other Operating Revenues
+Revenue from Contracts with Customers
+The following table provides further disaggregation of our consolidated sales and other operating revenues:
+Revenues from contracts outside the scope of ASC Topic 606 relate primarily to physical gas contracts at market prices, which qualify as derivatives accounted for under ASC Topic 815, “Derivatives and Hedging,” and for which we have not elected NPNS. There is no significant difference in contractual terms or the policy for recognition of revenue from these contracts and those within the scope of ASC Topic 606.
+The following disaggregation of revenues is provided in conjunction with
+Note
+18
+—Segment Disclosures and Related Information:
+Practical Expedients
+Typically, our commodity sales contracts are less than 12 months in duration; however, in certain specific cases

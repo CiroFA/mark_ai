@@ -1,0 +1,20 @@
+decrease was partially offset by i) higher income tax expense in Mexico in 2024 mainly driven by the income tax gains recognized in Mexico during 2023 as a result of the reversal of the valuation allowance in one of our Mexican subsidiaries (please see Note 15 – Income taxes of our audited consolidated financial statements for further information regarding this valuation allowance reversal) and ii) higher income tax expense due to withholding tax on intercompany dividends.
+Our effective tax rate is defined as income tax expense as a percentage of net income before income tax expense.
+The following table summarizes the changes in our effective tax rate for the years ended December 31, 2024, 2023 and 2022:
+50
+|
+MercadoLibre, Inc.
+Table of Contents
+Our effective tax rate for the year ended December 31, 2024 as compared to 2023, decreased largely as a result of i) no foreign exchange losses recognition during the year related to the acquisition of our own common stock in the Argentine market, which was considered as a non-deductible expense (please see Note 24 – Share repurchase program for further information); and (ii) lower taxable foreign exchange gains accounted for in Argentina for local tax purposes that are not recorded for accounting purposes since, under U.S. GAAP, the Argentine operations’ functional currency is the U.S. dollar due to the highly inflationary status of the country. This decrease was partially offset by lower reversal of the valuation allowance in the year 2024 as compared to 2023 (please see Note 15 – Income taxes of our audited consolidated financial statements for further information regarding this valuation allowances reversal).
+Deferred Income Tax
+The following table summarizes the composition of our deferred tax assets, before the valuation allowance, as of December 31, 2024 and 2023:
+As of December 31, 2024 and 2023 our deferred tax assets, were comprised mainly of i) U.S. foreign tax credits representing 36.6% and 27.3% of our total deferred tax assets, respectively; ii) allowance for doubtful accounts representing 25.7% and 21.0% of our total deferred tax assets, respectively; and (iii) provisions representing 21.4% and 24.7% of our total deferred tax assets, respectively.
+The following table summarizes the composition of our deferred tax assets from loss carryforwards as of December 31, 2024 and 2023:
+We also assess the likelihood that our net deferred tax assets will be realized from future taxable income. To the extent we believe that it is more likely than not that some portion or the total deferred tax assets will not be realized, we establish a valuation allowance.
+As of December 31, 2024 and 2023, our valuation allowance amounted to $584 million and $374 million, respectively.
+The following table summarizes the composition of our valuation allowance as of December 31, 2024 and 2023:
+51
+|
+MercadoLibre, Inc.
+Table of Contents
+Our valuation allowance is based on our assessment that it is more likely than not

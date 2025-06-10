@@ -1,0 +1,16 @@
+factors on the Company's financial condition, liquidity, operations, suppliers, industry, and workforce. The extent of the impact of these factors on our operational and financial performance, including our ability to execute our business strategies and initiatives in the expected time frame, will depend on future developments, the impact on our customers, partners, employees, contract manufacturers and supply chain, all of which continue to evolve and are unpredictable. In addition, any continued or renewed disruption in manufacturing and supply and uncertainty about international trade policy and tariff rates could negatively impact our business, and as a result we may face challenges in implementing countermeasures and responding to these changing trading conditions. Furthermore, any prolonged economic disruptions or further deterioration in the global economy could have a negative impact on demand from our customers in future periods, particularly in the enterprise market where we are continuing to expand our penetration. Accordingly, current results and financial conditions discussed herein may not be indicative of future operating results and trends.
+18
+Table of Contents
+Results of Operations
+Three Months Ended March 31, 2025 Compared to Three Months Ended March 31, 2024
+Revenue, Cost of Revenue and Gross Margin (in millions, except percentages)
+Revenue by Geography (in millions, except percentages)
+Revenue
+Product revenue primarily consists of sales of our switching and routing products, and related network applications. Service revenue is primarily derived from sales of PCS contracts, which are typically purchased in conjunction with our products, and subsequent renewals of those contracts. We expect our revenue may vary from period to period based on, among other things, the timing, size, and complexity of orders, especially with respect to our large customers.
+Product revenue increased by $363.7 million, or 27.4% for the three months ended March 31, 2025, compared to the same period in 2024. This increase reflects increased demand for our switching and routing platforms across our customer base. In addition, service revenue increased by $69.7 million, or 28.7% for the three months ended March 31, 2025, compared to the same period in 2024, as a result of continued growth in initial and renewal support contracts as our customer installed base has continued to expand.
+International revenue represented
+20.3%
+of total revenue for the three months ended March 31, 2025, increasing from 20.1% for
+the same period in the prior year, which was primarily influenced by changes in the geographic mix of sales to our large global customers.
+Cost of Revenue and Gross Margin
+Cost of product revenue primarily consists of amounts paid for inventory to our third-party contract manufacturers and merchant silicon vendors, overhead costs of our manufacturing operations, including freight, and other costs associated with manufacturing our products and managing

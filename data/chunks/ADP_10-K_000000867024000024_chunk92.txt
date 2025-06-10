@@ -1,0 +1,25 @@
+agreements, and purchase and maintenance agreements on our software, equipment, and other assets, of which $
+322.1
+million relates to fiscal 2025, $
+426.7
+million relates to the fiscal years ending June 30, 2026 through fiscal 2027, $
+117.7
+million relates to fiscal years ending June 30, 2028 through fiscal 2029, and the remaining relates to fiscal years thereafter.
+75
+In May 2020, a putative class action complaint was filed against ADP, TotalSource and related defendants in the U.S. District Court, District of New Jersey. The complaint asserts violations of the Employee Retirement Income Security Act of 1974 (“ERISA”) in connection with the ADP TotalSource Retirement Savings Plan’s fiduciary administrative and investment decision-making. The complaint seeks statutory and other unspecified monetary damages, injunctive relief and attorney’s fees. The Company is unable to estimate any reasonably possible loss, or range of loss, with respect to this matter. The Company is vigorously defending against this lawsuit.
+The Company is subject to various claims, litigation, and regulatory compliance matters in the normal course of business. When a loss is considered probable and reasonably estimable, the Company records a liability in the amount of its best estimate for the ultimate loss. Management currently believes that the resolution of these claims, litigation and regulatory compliance matters against us, individually or in the aggregate, will not have a material adverse impact on our consolidated results of operations, financial condition or cash flows. These matters are subject to inherent uncertainties and management's view of these matters may change in the future.
+It is not the Company’s business practice to enter into off-balance sheet arrangements. In the normal course of business, the Company may enter into contracts in which it makes representations and warranties that relate to the performance of the Company’s services and products. The Company does not expect any material losses related to such representations and warranties.
+76
+NOTE 13.
+RECLASSIFICATION OUT OF ACCUMULATED OTHER COMPREHENSIVE INCOME ("AOCI")
+Comprehensive income is a measure of income that includes both net earnings and other comprehensive income (loss).  Other comprehensive (loss)/income results from items deferred on the Consolidated Balance Sheets in stockholders' equity.  Other comprehensive (loss)/income was $
+497.5
+million, ($
+312.1
+) million, and ($
+2,004.3
+) million in fiscal 2024, 2023, and 2022, respectively.
+Changes in Accumulated Other Comprehensive Income (“AOCI”) by component are as follows:
+(A) Reclassification adjustments out of AOCI are included within Other (income)/expense, net, on the Statements of Consolidated Earnings.
+(B) Reclassification adjustments out of AOCI are included in net pension (income)/expense (see Note 10).
+(C) Reclassification adjustments out of AOCI are included in Interest expense on the Statements of Consolidated Earnings (see Note

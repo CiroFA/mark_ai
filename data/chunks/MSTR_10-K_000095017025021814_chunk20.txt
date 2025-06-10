@@ -1,0 +1,28 @@
+counterparties;
+Risks Related to Our Enterprise Analytics Software Business Strategy
+•
+We derive revenue from a single software platform and related services as well as revenue from our installed customer base;
+•
+As our customers increasingly shift from a product license model to a cloud subscription model, we could face higher future rates of attrition, and such a shift could continue to affect the timing of revenue recognition or reduce product licenses and product support revenues;
+•
+Integration of artificial intelligence into our enterprise analytics product offerings and our use of artificial intelligence in our operations could result in reputational or competitive harm, legal liability, and other adverse effects on our business;
+Risks Related to Our Technology and Intellectual Property
+•
+Third parties may claim we infringe their intellectual property rights;
+•
+Changes in third-party software or systems or the emergence of new industry standards could materially adversely affect the operation of and demand for our existing software;
+•
+The nature of our software makes it particularly susceptible to undetected errors, bugs, or security vulnerabilities, which could cause problems with how the software performs and, in turn, reduce demand for our software, reduce our revenue, and lead to litigation claims against us;
+Risks Related to Our Operations
+•
+Business disruptions could materially adversely affect our operating results or result in a material weakness in our internal controls;
+•
+We face a variety of risks in doing business with U.S. and foreign federal, state, and local governments and government agencies, including risks related to the procurement process, budget constraints and cycles, termination of contracts, and compliance with government contracting requirements;
+•
+If we are unable to recruit or retain skilled personnel, or if we lose the services of Michael J. Saylor, our business, operating results, and financial condition could be materially adversely affected;
+•
+Changes in laws or regulations relating to privacy or the collection, processing, disclosure, storage, localization, or transmission of personal data, or any actual or perceived failure by us or our third-party service providers to comply with such laws and regulations, contractual obligations, or applicable privacy policies, could materially adversely affect our business;
+•
+If we experience a disruption due to a cybersecurity attack or security breach and unauthorized parties obtain access to data, networks or other systems, we may incur significant legal and financial liabilities, and our business could be materially adversely affected;
+•
+Our having entered into an indemnification agreement with Michael J. Saylor, our Chairman of the Board of Directors and Executive Chairman, that supplements our conventional director and officer liability insurance provided by third-party insurance carriers could negatively affect our business and the market price of our listed

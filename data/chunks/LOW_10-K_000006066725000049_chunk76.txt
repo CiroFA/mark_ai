@@ -1,0 +1,47 @@
+Company uses historical data to estimate the timing and amount of forfeitures.
+The Company’s performance share units contain performance and service conditions that must be satisfied for an employee to earn the right to benefit from the award, as well as a market condition modifier.  The performance condition for these awards continues to be based primarily on the achievement of the Company’s return on invested capital (ROIC) targets.  The market condition is based on the Company’s total shareholder return (TSR) compared to the median TSR of companies listed in the S&P 500 Index over a
+three-year
+performance period.  The Company uses a Monte-Carlo simulation to determine the grant date fair value for these awards, which takes into consideration the market price of a share of the Company’s common stock on the date of grant less the present value of dividends expected during the requisite service period, as well as the possible outcomes pertaining to the TSR market condition.
+Table of Contents
+The weighted-average assumptions used in the Monte Carlo simulations for these awards granted in 2024, 2023, and 2022 are as follows:
+In general,
+0
+% to
+200
+% of the Company’s performance share units vest at the end of a
+three-year
+service period from the date of grant based upon achievement of the performance condition, or a combination of the performance and market conditions, specified in the performance share unit agreement.
+The weighted-average grant-date fair value per unit of performance share units classified as equity awards granted was $
+273.37
+, $
+209.50
+, and $
+200.06
+in 2024, 2023, and 2022, respectively.  The total fair value of performance share units vesting was approximately $
+55
+million, $
+105
+million and $
+74
+million in 2024, 2023 and 2022, respectively.
+Transactions related to performance share units classified as equity awards for the fiscal year ended January 31, 2025, are summarized as follows:
+1
+The number of units presented is based on achieving the targeted performance goals as defined in the performance share unit agreements.  As of January 31, 2025, the maximum number of nonvested units that could vest under the provisions of the agreements was
+0.9
+million.
+Restricted Stock Units
+Restricted stock units do not have dividend rights and are valued at the market price of a share of the Company’s common stock on the date of grant less the present value of dividends expected during the requisite service period.  In general, these awards vest ratably over a
+three-year
+period from the date of grant.  Certain awards vest
+50
+% at the end of a
+two-year
+period from the date of grant and
+50
+% at the end of a
+three-year
+period from the date of grant, or vest
+100
+% at the end of a
+three-year
+period from the date of grant.  All awards are expensed on a straight-line basis over that period, which is considered to be the requisite service period.  The Company uses historical data to estimate the timing and amount of forfeitures.  The weighted-

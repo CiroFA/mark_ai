@@ -1,0 +1,15 @@
+table presents the aggregate fair value of assets, by major investment asset type, supporting separate accounts:
+76
+Table of Contents
+18.
+INCOME TAXES
+KKR & Co. Inc. is a domestic corporation for U.S. federal income tax purposes and is subject to U.S. federal, state and local income taxes at the entity level on its share of taxable income. In addition, KKR Group Partnership and certain of its subsidiaries operate as partnerships for U.S. federal tax purposes but as taxable entities for certain state, local or non-U.S. tax purposes. Moreover, certain corporate subsidiaries of KKR, including certain subsidiaries of Global Atlantic, are domestic corporations for U.S. federal income tax purposes and are subject to U.S. federal, state, and local income taxes.
+For the three months ended March 31, 2025 and 2024, the effective tax rates for KKR & Co Inc. were
+11.2
+% and
+19.7
+%, respectively. The effective tax rate differs from the statutory rate primarily due to the portion of the reported net income (loss) before taxes not being attributable to KKR but rather being attributable to (i) third-party limited partner interests in consolidated investment funds and (ii) exchangeable securities representing ownership interests in KKR Group Partnership until they are exchanged for common stock of KKR & Co. Inc.
+During the three months ended March 31, 2025, there were no material changes to KKR's uncertain tax positions and KKR believes there will not be a material increase or decrease to these uncertain tax positions within 12 months of March 31, 2025.
+Each reporting period, KKR assesses all available positive and negative evidence to estimate whether sufficient future taxable income will be generated to realize existing deferred tax assets. Global Atlantic continues to maintain that its deferred tax assets are more likely than not to be realized and, therefore, no valuation allowance is needed. It is reasonably possible that prolonged market volatility may negatively affect Global Atlantic's operating results and its ability to execute on its tax planning strategies and may warrant the establishment of a valuation allowance on a portion of its deferred tax assets within the next 12 months.
+On December 27, 2023, the Government of Bermuda enacted the Bermuda Corporate Income Tax (“Bermuda CIT”). Commencing on January 1, 2025, the Bermuda CIT generally will impose a 15% corporate income tax on in-scope entities that are resident in Bermuda or have a Bermuda permanent establishment, without regard to any assurances pursuant to the Exempted Undertakings Tax Protection Act 1966. KKR reviewed the potential impact and does not expect that the Bermuda CIT will have a material impact on income taxes for 2025.
+On August 16, 2022, the Inflation Reduction Act (the “IRA”) was signed into law. The IRA enacted a new 15% corporate minimum tax ("CAMT") on the "adjusted financial statement income" of certain large corporations, which became effective on January 1, 2023. In

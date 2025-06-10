@@ -1,0 +1,29 @@
+interest, cash advances and fees from credit cards, merchant and consumer loans granted under our lending solution;
+■
+revenues from our asset management product;
+■
+interest earned on investments as part of Mercado Pago activities, including those required due to fintech regulations, net of interest gains passed through to our Brazilian users in connection with our asset management product;
+■
+commissions that we charge from transactions carried out with Mercado Pago credit and debit cards;
+■
+revenues from the sale of mobile points of sale products;
+■
+revenues from insurtech fees;
+■
+commissions from additional fees we charge when our sellers elect to withdraw cash; and
+■
+fees from other ancillary services.
+Although we also process payments on the Marketplace, we do not charge sellers an added commission for this service, as it is already included in the Marketplace final value fee that we charge.
+We have a highly fragmented customer revenue base given the large numbers of sellers and buyers who use our platforms. For the three-month periods ended March 31, 2025 and 2024, no single customer accounted for more than 5.0% of our net revenues and financial income.
+Our net revenues and financial income are generated in multiple foreign currencies and then translated into U.S. dollars at the average monthly exchange rate. The functional currency for each country’s operations is the country’s local currency, except for Argentina, where the functional currency is the U.S. dollar due to Argentina’s status as a highly inflationary economy. Please refer to Note 2 – Summary of significant accounting policies to our unaudited interim condensed consolidated financial statements for further detail on foreign currency translation.
+Our net revenues and financial income grew during the three-month period ended March 31, 2025 as compared to the same period in 2024, boosted by the growth of credit originations from our lending solution, an increase in total payment volume and fees due to payment in installments in our Mercado Pago platform, and the growth in gross merchandise volume.
+The following table summarizes our consolidated net revenues and financial income for the three-month periods ended March 31, 2025 and 2024:
+36
+|
+MercadoLibre, Inc.
+Table of Contents
+The following table summarizes our consolidated net revenues and financial income by revenue stream and geographic segment for the three-month periods ended March 31, 2025 and 2024:
+See Note 8 – Segments of our unaudited interim condensed consolidated financial statements for further information regarding our net revenues and financial income disaggregated by similar products and services for the three-month periods ended March 31, 2025 and 2024.
+Our Commerce revenues grew $807 million, or 32.3%, for the three-month period ended March 31, 2025, as compared to the same period in 2024. This increase in Commerce revenues was primarily attributable to:
+■
+an increase of $573 million in our Commerce services

@@ -1,0 +1,19 @@
+known as “Blue Chip Swap Rate”). Recently, the Blue Chip Swap Rate has diverged significantly from Argentina’s official exchange rate (commonly known as the exchange spread), being the Blue Chip Swap Rate has been higher than Argentina’s official exchange rate. As of December 31, 2024 and 2023, the spread of the Blue Chip Swap was
+14.7
+% and
+20.4
+%, respectively (see Note 24 – Share repurchase program of these audited consolidated financial statements).
+96
+|
+MercadoLibre, Inc.
+Table of Contents
+As part of the exchange controls, since 2019, the Argentine government imposes a tax on the acquisition of foreign currency through the official exchange market in certain circumstances. On July 24, 2023, through the Executive Power Decree No. 377/2023, the Argentine government extended the application of this tax to the following cases: (i) certain services acquired from abroad or services rendered by foreign residents in Argentina (i.e. technical, legal, accounting, management, advertising, engineering, audiovisual services, among others), which will be subject to a 25% tax rate, (ii) freight and other transportation services for import and export of goods, which will be subject to a 7.5% tax rate; and (iii) imported goods, which will be subject to a 7.5% tax rate, with certain exemptions (such as fuels and products of the basic food basket). Later, the Decree No. 29/2023, modified the tax rate for the cases mentioned above under ii) and iii) from 7.5% to 17.5%. On September 2, 2024, the Decree No. 777/2024 reestablished the tax rate for cases ii) and iii) mentioned above from 17.5% to 7.5%. Finally, on December 18, 2024, the General Resolution 5,617/2024 confirmed that the maturity of this tax would not be prolonged and, therefore, it ceased to be valid as of December 23, 2024.
+Revenue recognition
+Revenues are recognized when control of the promised services or goods is transferred to customers, in an amount that reflects the consideration the Company expects to be entitled to in exchange for them.
+Contracts with customers may include promises to transfer multiple services including discounts on current or future services. Determining whether services are considered distinct performance obligations that should be accounted for separately versus together may require judgment.
+Revenues are recognized when each performance obligation is satisfied by transferring the promised good or service to the customer according to the following criteria described for each type of service:
+Commerce transactions
+■
+Revenues from intermediation services derived from final value fees and flat fees paid by sellers. Revenues related to final value fees and flat fees are recognized at the time that the transaction is successfully concluded (which occurs when the marketplace transaction is confirmed right after processing the payment).
+■
+Revenues from shipping services are generated when a buyer elects to receive an item through the Company’s shipping service and the service

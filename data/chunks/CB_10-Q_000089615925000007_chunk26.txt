@@ -1,0 +1,21 @@
+includes adjustments relating to either profit commission reserves or policyholder dividend reserves based on actual claim experience that develops after the policy period ends. The expense adjustments correlate to the prior period loss development on these same policies.
+Refer to the Non-GAAP Reconciliation section for further information on reinstatement premiums on catastrophe losses and adjustments to prior period development.
+Catastrophe losses through March 31, 2025 and 2024, were primarily from the following events:
+•
+2025: California wildfire losses of $1.47 billion, flooding in the U.S., hail, tornadoes, wind events, and winter-related storms.
+•
+2024: Severe weather-related events in the U.S. and internationally.
+Pre-tax net favorable PPD for the three months ended March 31, 2025, was $268 million in our active companies, including favorable development of $313 million in short-tail lines, principally in credit-related lines, A&H, and property. Favorable development was partially offset by net adverse development of $45 million in long-tail lines, with adverse and favorable updates across several lines of business. Our corporate run-off portfolio had adverse development of $13 million.
+Pre-tax net favorable PPD for the three months ended March 31, 2024, was $216 million in our active companies, including
+favorable
+development of $311 million in short-tail lines,
+principally in property and credit-related lines, and adverse
+development of $95 million
+in long-tail lines,
+principally in large account commercial excess and umbrella lines. Our corporate run-off portfolio had adverse development of $9 million.
+Refer to the prior period development discussion in Note 7 to the Consolidated Financial Statements for additional information.
+50
+Table of Contents
+P&C Combined Ratio
+In evaluating our segments, excluding Life Insurance financial performance, we use the P&C combined ratio, the loss and loss expense ratio, the policy acquisition cost ratio, and the administrative expense ratio. We calculate these ratios by dividing the respective expense amounts by net premiums earned. We do not calculate these ratios for the Life Insurance segment as we do not use these measures to monitor or manage the business in that segment. The P&C combined ratio is determined by adding the loss and loss expense ratio, the policy acquisition cost ratio, and the administrative expense ratio. A P&C combined ratio under 100 percent indicates underwriting income, and a combined ratio exceeding 100 percent indicates underwriting loss. P&C CAY combined ratio excluding catastrophe losses (CATs) excludes CATs and prior period development (PPD) from the P&C combined ratio.
+The P&C combined ratio increased for the three months ended March 31, 2025, reflecting California wildfire losses of $1.47 billion, including the unfavorable impact of $37 million of net ceded reinstatement premiums on the expense ratio (i.e., lower premium resulting in a higher expense ratio). The

@@ -1,0 +1,15 @@
+Statements of Operations on a straight-line basis over the lease term. Variable lease payments that are not included
+80
+in the measurement of the lease liability are recognized in the period when the obligations for those payments are incurred. In the Company’s lease agreements, these variable payments typically include certain taxes, utilities, and maintenance costs, and other fees.
+The Company uses its incremental borrowing rate as the discount rate for all of its leases, as the rate implicit in the lease is not readily determinable in any of its lease contracts. In order to estimate a collateralized borrowing rate curve, the Company first estimates a synthetic credit rating and then applies modeling methodologies to an unsecured borrowing rate curve. In determining the incremental borrowing rate of each lease, the Company uses a centralized treasury approach and considers the currency of the contract, the economic environment in which the lease exists, and the term of the lease.
+The Company does not recognize lease liabilities or ROU assets for any short-term leases with a non-cancellable lease term of 12 months or less. Instead, the lease payments for these short-term leases are expensed on a straight-line basis over the lease term, and any variable payments are recognized in the period when the obligations for those payments are incurred.  The Company believes that, using this methodology, the expense recorded reasonably reflects the Company’s short-term lease commitments.
+(j) Software Development Costs
+The Company did
+no
+t capitalize any software development costs during the years ended December 31,
+2024, 2023, and 2022
+.  Due to the pace of the Company’s software development efforts and frequency of its software releases, the Company’s software development costs are expensed as incurred within “Research and development” in the Consolidated Statements of Operations.
+(k) Loss Contingencies and Legal Costs
+The Company accrues loss contingencies that are believed to be probable and can be reasonably estimated.  As events evolve during the administration and litigation process and additional information becomes known, the Company reassesses its estimates related to loss contingencies.  Legal costs are expensed in the period in which the costs are incurred.
+(l) Deferred Revenue and Advance Payments
+Deferred revenue and advance payments are contract liabilities that represent amounts received or due from customers in advance of the Company transferring its software or services to the customer under an enforceable contract. Revenue is subsequently recognized in the period(s) in which control of the software or services is transferred to the customer. Deferred revenue is comprised of deferred product licenses and subscription services, product support, or other services revenue based on the transaction price allocated to the specific performance obligation in the contract with the customer, and presented as either current or non-current in the

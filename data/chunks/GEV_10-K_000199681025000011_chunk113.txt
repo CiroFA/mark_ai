@@ -1,0 +1,53 @@
+(e.g., per hour of usage) and
+upon the occurrence of a major maintenance event within the contract, such as an outage. The differences between the timing of our
+revenue recognized (based on costs incurred) and customer billings (based on contractual terms) result in changes to our contract asset or
+contract liability positions. See Note
+9
+for further information.
+We also enter into long-term service agreements, which we refer to as
+flexible
+service agreements, in our Wind segment. Revenues are
+recognized for these arrangements on a straight-line basis consistent with the nature, timing and extent of our services, which primarily
+relate to routine maintenance and as needed equipment repairs. We generally invoice periodically as services are provided.
+Performance Obligations Satisfied at a Point in Time.
+We sell certain tangible products, largely spare parts, through our services
+businesses. We recognize revenues and bill our customers at the point in time that the customer obtains control of the good, which is at the
+point in time we deliver the spare part to the customer
+.
+Cash, Cash Equivalents and Restricted Cash
+.
+Short-term investments and money market instruments with original maturities of three
+months or less are included in Cash, cash equivalents, and restricted cash. Restricted cash primarily relates to funds restricted in
+connection with contractual and legal restrictions
+and amounted to
+$
+438
+million
+and
+$
+50
+million
+as of December 31, 2024 and 2023,
+respectiv
+ely. See Note
+22
+for further information.
+Customer Receivables.
+Amounts due from customers arising from the sales of equipment and services are recorded at the outstanding
+amount, less allowance for losses. We regularly monitor the recoverability of our receivables.
+See Note
+4
+for further information.
+Allowance for Credit Losses.
+When we record customer receivables, contract assets, and financing receivables, as well as financial
+guarantees and certain commitments, we record an allowance for credit losses for the current expected credit losses inherent in the asset
+over its expected life. The allowance for credit losses is a valuation account deducted from the amortized cost basis of the assets to
+present the assets’ net carrying value at the amount expected to be collected. In each period, the allowance for credit losses is adjusted
+through earnings to reflect expected credit losses over the remaining lives of the assets.
+We estimate expected credit losses based on relevant information about past events, including historical experience, current conditions,
+and reasonable and supportable forecasts that affect the collectability of the reported amount. When measuring expected credit losses, we
+pool assets with similar country risk and credit risk characteristics. Changes in the relevant information may significantly affect the
+estimates of expected credit losses.
+Inventories
+.
+All inventories are stated at lower of cost or realizable values. Cost of inventories is primarily

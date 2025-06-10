@@ -1,0 +1,19 @@
+Based Compensation
+—The Company measures and recognizes stock-based compensation expense for share-based awards, primarily including restricted stock units ("RSUs"), p
+erformance-based RSUs (“PSUs”)
+with both service and market-based conditions, stock options and stock purchase rights granted under the Employee Stock Purchase Plan ("ESPP"), based on the grant-date fair value of the awards.
+The Company accounts for forfeitures for all awards as they occur.
+The fair value of RSUs is based on the closing price of the Company's Class A common stock on the grant date, with stock-based compensation expense recognized on a straight-line basis over the requisite service period, which is generally one or four years.
+The fair value of PSUs with both service and market conditions is estimated using the Monte Carlo simulation pricing model, which incorporates various assumptions including the expected stock price volatility, the risk-free interest rate, the expected dividend yield and the discount for awards subject to post-vesting restrictions, with stock-based compensation expense recognized using the accelerated attribution method over the derived service period ranging from
+0.5
+to
+3.1
+years, regardless of whether the stock price targets are achieved. If the stock price targets are achieved earlier than the derived service period, the Company adjusts its stock-based compensation expense to reflect the cumulative expense associated with the vested awards.
+71
+Table
+of
+Contents
+The fair value of stock options and purchase rights granted under the ESPP is estimated using the Black-Scholes option-pricing model, which incorporates various assumptions including the expected term, the expected stock price volatility, the risk-free interest rate, and the expected dividend yield, with stock-based compensation expense recognized on a straight-line basis over the requisite service period.
+Income Taxes
+—The Company accounts for income taxes under the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the financial statements. Under this method, the Company determines deferred tax assets and liabilities on the basis of the differences between the financial statement and tax bases of assets and liabilities by using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date.
+The Company recognizes deferred tax assets to the extent that these assets are more likely than not to be realized. In making such a determination, the Company considers all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies, and results of recent operations. If the Company determines

@@ -1,0 +1,32 @@
+pricing model, calculated using the significant unobservable inputs such as total equity value, volatility, and expected term.  Subsequent measurements of fair value of the contingent consideration are based on an income approach, which requires certain assumptions considering operating performance of the business and a risk-adjusted discount rate.
+The rollforward of the fair value of contingent consideration is as follows:
+Assets and Liabilities that are Measured at Fair Value on a Nonrecurring Basis
+For the fiscal years ended January 31, 2025, and February 2, 2024, the Company had no material measurements of assets and liabilities at fair value on a nonrecurring basis subsequent to their initial recognition.
+Other Fair Value Disclosures
+Table of Contents
+The Company’s financial assets and liabilities not measured at fair value on a recurring basis include cash and cash equivalents, accounts receivable, short-term borrowings, accounts payable, and long-term debt and are reflected in the financial statements at cost.  With the exception of long-term debt, cost approximates fair value for these items due to their short-term nature.  As further described in
+Note 8
+, certain long-term debt is associated with a fair value hedge, and the changes in fair value of the hedged debt is included in the carrying value of long-term debt on the consolidated balance sheets.  The fair values of the Company’s unsecured notes were estimated using quoted market prices.  The fair values of the Company’s mortgage notes were estimated using discounted cash flow analyses, based on the future cash outflows associated with these arrangements and discounted using the applicable incremental borrowing rate.
+Carrying amounts and the related estimated fair value of the Company’s long-term debt, excluding finance lease obligations, are as follows:
+NOTE 4:
+Property and Accumulated Depreciation
+Property is summarized by major class in the following table:
+Included in property, less accumulated depreciation are right-of-use assets under finance leases.  The related amortization expense for right-of-use assets under finance leases is included in depreciation and amortization expense.  The Company recognized depreciation and amortization expense, inclusive of amounts presented in cost of sales, of $
+2.0
+billion in 2024, and $
+1.9
+billion in 2023 and 2022.
+Table of Contents
+NOTE 5:
+Leases
+The lease-related assets and liabilities recorded on the balance sheet are summarized in the following table:
+1
+Finance lease assets are recorded net of accumulated amortization of $
+373
+million as of January 31, 2025, and $
+326
+million as of February 2, 2024.
+The table below presents the lease costs for finance and operating leases:
+1
+Includes short-term leases and sublease income, which are immaterial.
+The future minimum rental payments required under operating and finance lease obligations as of January 31, 2025, having initial or remaining non-cancelable lease terms in excess of one year are

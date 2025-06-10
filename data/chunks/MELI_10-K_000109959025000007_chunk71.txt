@@ -1,0 +1,17 @@
+address cybersecurity threats and incidents. These include, among other things: mandatory trainings and drills on social engineering, phishing and ransomware attacks for all our employees; tabletop exercises for employees of the information security team; cybersecurity events in which management and/or certain employees participate and/or organize; ransomware prevention and phishing controls allowing for automatic and timely detection and response; and penetration testing, red team exercises and a bug bounty program to help us evaluate the effectiveness of our information security processes and improve our security measures and planning.
+We also have teams in place to oversee and manage our cybersecurity risk management processes, including: (i) an information security team, organized around our various services and products, responsible for day-to-day cybersecurity matters related to the respective services and products; (ii) a risk committee that is comprised of members of management and oversees the Company’s financial and non-financial risks, including cybersecurity risks, as described in more detail below under the heading “Governance”; and (iii) internal local, corporate and strategic crisis management teams that form part of our crisis management framework.
+Our risk management framework further includes processes to manage cybersecurity risks associated with third parties, including, a
+third-party risk management program
+that focuses on identifying security and data privacy risks arising out of our interactions with critical third-party suppliers and payment methods, and a program focused on assessing risks arising in mergers and acquisitions transactions.
+In connection with our cybersecurity risk management processes, while we do not regularly engage assessors, consultants, auditors, or other third parties to assess, identify, and manage material risks from cybersecurity threats, we do involve such parties if there has been a cybersecurity incident that we believe requires an assessment by a third party.
+Our business strategy, results of operations and financial condition have not been materially affected by risks from cybersecurity threats, including as a result of previous cybersecurity incidents, but we cannot provide assurance that they will not be materially affected in the future by such risks and any future material incidents. In the last fiscal three years, we have not experienced any material information security breach incidents and the expenses we have incurred from information security breach incidents were immaterial.
+See “Risk Factors” in Item 1A of this Annual Report on Form 10-K for more information on our cybersecurity-related risks.
+36
+|
+MercadoLibre, Inc.
+Table of Contents
+Governance
+Management
+The cybersecurity risk management processes described above are managed by our
+Cybersecurity VP
+under the supervision of the risk committee. The Audit Committee of the board of directors provides additional oversight as needed.

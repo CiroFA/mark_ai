@@ -1,0 +1,35 @@
+management process
+that includes expectations regarding
+information protection and cybersecurity. That process, among other things, provides for GE Vernova to perform cybersecurity
+assessments on certain suppliers based on their risk profile and a related rating process. GE Vernova also seeks contractual
+commitments from key suppliers to appropriately secure and maintain their IT systems and protect our information that is
+processed on their systems.
+•
+Third-party assessments.
+We have third-party cybersecurity companies engaged to periodically assess GE Vernova’s
+cybersecurity posture and assist in identifying and remediating risks from cybersecurity threats.
+GE Vernova considers cybersecurity, along with other top risks, within our enterprise risk management framework. The enterprise risk
+management framework includes internal reporting at the enterprise level with consideration of key risk indicators, trends, and
+countermeasures for cybersecurity and other types of significant risks.
+GE Vernova does not believe that there are currently any known
+incidents from cybersecurity threats that are reasonably likely to materially affect GE Vernova or its business strategy, results of operations,
+or financial condition
+. As is the case for all large, global companies, we face certain ongoing risks from cybersecurity threats that, if
+realized, are reasonably likely to materially affect the Company, including our operations, business strategy, results of operations, or
+financial condition. See Item 1A. "Risk Factors—Risks Relating to Technology and Intellectual Property" for further information about these
+risks. We outsource certain cybersecurity functions and will continue to look for opportunities to utilize managed security service providers.
+In addition, we collaborate with GE Aerospace on certain cybersecurity functions and will continue to do so during a transition period
+following our Spin-Off. These arrangements increase our overall cyber risk given the degree of our interconnectedness with these third
+parties and the potential impact on our outsourced functions that could be caused by an attack on them.
+The Audit Committee of the GE Vernova’s Board of Directors is responsible for board-level oversight of cybersecurity risk, and the Audit
+Committee reports back to the full Board about this and other areas within its responsibility
+.
+As part of its oversight role, the Audit
+Committee receives reporting about GE Vernova’s practices, programs, notable threats or incidents, and other developments related to
+cybersecurity throughout the year, including through periodic updates from our
+Chief Information Security Officer (CISO)
+. The Audit
+Committee also receives information about cybersecurity risks as part of GE Vernova’s enterprise risk management framework and
+reporting. In addition to receiving reports from the Audit Committee, the Board also periodically receives direct reports from the CISO on the
+Company's cybersecurity risk management.
+GE

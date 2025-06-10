@@ -1,0 +1,48 @@
+determined on a first-in, first-out
+basis. Write-downs for excess, slow moving, and obsolete inventory are recorded as necessary. To determine these amounts, inventory
+quantities on-hand are regularly reviewed and compared to historical utilization and estimates of future product demand, market conditions,
+and technological developments.
+See Note
+5
+for further information.
+Property, Plant, and Equipment.
+The cost of property, plant, and equipment is generally depreciated on a straight-line basis over its
+estimated economic life.
+See Note
+6
+for further information.
+2024 FORM 10-K
+59
+Leases
+.
+At lease commencement, we record a lease liability and corresponding right-of-use (ROU) asset, included in Property, plant, and
+equipment. Options to extend the lease are included as part of the ROU asset and liability when it is reasonably certain the Company will
+exercise the option. We have elected to include lease and non-lease components in determining our lease liability for all leased assets
+except our vehicle leases. Non-lease components are generally services that the lessor performs for the Company associated with the
+leased asset. As the Company’s leases typically do not provide an implicit rate, the present value of our lease liability is determined using
+the Company
+’s incremental collateralized borrowing rat
+e at lease commencement. For leases with an initial term of 12 months or less, an
+ROU asset and lease liability are not recognized and lease expense is recognized on a straight-line basis over the lease term. Certain of
+our leases include provisions for variable lease payments which are based on, but not limited to, maintenance, insurance, taxes, index
+escalations, and usage based amounts. The Company recognizes variable lease payments not included in its lease liabilities in the period
+in which the obligation for those payments is incurred. We test ROU assets whenever events or changes
+in
+circumstance indicate that the
+asset may be impaired.
+See Notes
+6
+and
+7
+for further information.
+Goodwill and Other Intangible Assets.
+We test goodwill for impairment at the reporting unit level annually in the fourth quarter of each
+year using October 1st as the measurement date. We also test goodwill for impairment when an event occurs or circumstances change that
+would more likely than not reduce the fair value of a reporting unit below its carrying value. We recognize an impairment charge if the
+carrying amount of a reporting unit exceeds its fair value.
+For other intangible assets, cost is generally amortized on a straight-line basis over the asset’s estimated economic life. Amortizable
+intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the related carrying amounts
+may not be recoverable. In these circumstances, they are tested for impairment based on undiscounted cash flows and, if impaired, written
+down to estimated fair value based on either discounted cash flows or appraised values.
+See Note
+8

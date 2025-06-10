@@ -1,0 +1,30 @@
+commissions, transfers, assumption changes, fair value changes, and the impact of hedge fair value adjustments.
+(4)
+Net amount at risk represents the difference between the face value of the insurance policy and the reserve accumulated under that same policy.
+(5)
+Cash surrender values are reported net of any applicable surrender charges, net of reinsurance.
+The following table presents the account values by range of guaranteed minimum crediting rates and the related range of differences, in basis points, between rates being credited to policyholders and the respective guaranteed minimums. Account values, as disclosed below, differ from policyholder account balances as they exclude balances associated with index credits, contractholder deposit fund host balances, funding agreements, and other associated reserves. In addition, policyholder account balances include discounts and premiums on assumed business which are not reflected in account values.
+71
+Table of Contents
+Liability for Future Policy Benefits
+The following tables summarize the balances of, and changes in, the liability for future policy benefits for traditional and limited-payment contracts for the three months ended March 31, 2025 and 2024:
+72
+Table of Contents
+(1)
+Payout annuities generally only have a single premium received at contract inception. As a result, the liability for future policy benefits generally would not reflect a present value for future premiums for payout annuities.
+(2)
+“Other” consists of activity related to long-term care insurance, variable annuities, traditional life insurance, preneed insurance, and fixed-rate annuity products. Mortality and morbidity risks associated with the long-term care insurance have been ceded to a third-party reinsurer.
+(3)
+Reinsurance recoverables associated with the liability for future policy benefits is net of the effect of changes in discount rate assumptions of $
+155.8
+million and $(
+141.4
+) million for the three months ended March 31, 2025 and 2024, respectively.
+The following table summarizes the amount of gross premiums related to traditional and limited-payment contracts recognized in the consolidated statements of operations for the three months ended March 31, 2025 and 2024:
+The following table reflects the weighted-average duration and weighted-average interest rates of the future policy benefit liability as of March 31, 2025 and December 31, 2024:
+The following reflects the undiscounted ending balance of expected future gross premiums and expected future benefits and payments for traditional and limited-payment contracts, as of March 31, 2025 and December 31, 2024:
+73
+Table of Contents
+Additional Liability for Annuitization, Death, or Other Insurance Benefits
+The following tables reflect the additional liability for annuitization, death, or other insurance benefits roll-forward for the three months ended March 31, 2025 and 2024:
+The additional liability for annuitization, death, or other insurance benefits relates

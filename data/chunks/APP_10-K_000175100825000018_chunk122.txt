@@ -1,0 +1,17 @@
+Company paid or promised to pay a total of $
+209.6
+million in bonuses to publishers consisting primarily of non-recurring bonuses to migrate publishers to MAX, the Company's own in-app mediation platform. The Company accounted for such publisher bonuses as a reduction to revenue since the publishers receiving such bonuses are also customers of the Company.
+Cash and Cash Equivalents
+—Cash and cash equivalents primarily consist of cash on deposit with banks and highly liquid investments with original maturities of 90 days or less from the date of purchase.
+Non-Marketable Equity Investments
+—Non-marketable equity securities are investments without readily determinable fair values that are recorded using a measurement alternative measured at cost less any impairment, plus or minus changes resulting from qualifying observable price changes. An impairment loss is recorded when an event or circumstance indicates a decline in value. For certain securities, the Company applies the net asset value (NAV) practical expedient, where NAV represents the estimated fair value of these investments. See Note 3 - Financial Instruments and Fair Value Measurements for additional information.
+Accounts Receivable, net
+—The Company records accounts receivable at the invoiced amount, net of allowance for potentially uncollectible amounts. The Company reviews accounts receivable periodically and estimates the allowance based on known troubled accounts, historical experience, and other currently available evidence. As of December 31, 2024 and 2023, the allowance for uncollectible amounts was not material.
+Derivatives
+—The Company accounts for derivative instruments at fair value within its consolidated balance sheets, and the accounting treatment for each derivative is based on its hedge designation. The Company does not enter into derivative instruments for trading or speculative purposes. Changes in the fair value of derivatives that are designated as cash flow hedges are recorded within accumulated other comprehensive income (loss) until earnings are affected by the variability of cash flows. Changes in the fair value of non-designated derivatives are recorded immediately through earnings. The Company classifies cash flows from derivatives in a manner consistent with the underlying hedged item
+.
+See Note 3 - Financial Instruments and Fair Value Measurements for additional information.
+Fair Value of Financial Instruments
+—The Company uses a three-tier fair value hierarchy to classify and disclose all assets and liabilities measured at fair value on a recurring basis, as well as assets and liabilities measured at fair value on a non-recurring basis, in periods subsequent to their initial measurement. The hierarchy requires the Company to use observable inputs when available, and to minimize the use of unobservable inputs when determining fair value. The three tiers are defined as follows:
+Level 1
+—Observable inputs that reflect quoted prices (unadjusted) for identical

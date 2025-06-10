@@ -1,0 +1,22 @@
+default, any overdraft balances incurred would be guaranteed by our collective entities participating in the pool.
+Litigation
+We are subject to legal proceedings, claims, tax matters, and litigation arising in the ordinary course of business, including, for instance, intellectual property and patent litigation. We accrue for contingencies when we believe that a loss is probable and that we can reasonably estimate the amount of any such loss.
+Legal matters could include speculative, substantial or indeterminate monetary amounts. Significant judgment is required to determine both the likelihood of there being a loss and the estimated amount of a loss related to such matters, and we may be unable to estimate the reasonably possible loss or range of loss. The outcomes of outstanding legal matters are inherently unpredictable, and could, either individually or in aggregate, have a material adverse effect on us and our results of operations. To the extent there is a reasonable possibility that a loss exceeding any amounts already recognized may be incurred, we will either disclose the estimated additional loss or state that such an estimate cannot be made.
+The following matters arose in the ordinary course of business.
+Centripetal Networks, Inc. v. Palo Alto Networks
+On March 12, 2021, Centripetal Networks, Inc., filed a lawsuit against us in the United States District Court for the Eastern District of Virginia. The lawsuit alleges that our products infringe multiple Centripetal patents. We successfully challenged certain of these patents, which were found unpatentable by the U.S. Patent and Trademark Office (“PTO”). The case went to jury trial on January 22, 2024, on
+four
+patents. On January 31, 2024, the jury returned a verdict of non-willful infringement with a lump sum amount of $
+151.5
+million, plus statutory interest. We have filed motions to overturn the verdict and seek a new trial, which are pending before the court.
+Three
+patents are still pending review in the PTO and are currently subject to a stay at the trial court. In addition, Centripetal filed infringement contentions on certain of their patents in the European Patent Office in Germany, to which we filed invalidity challenges. Those matters are still pending.
+As of July 31, 2024, we accrued $
+184.4
+million for the verdict amount and estimated interest. The accrual is recorded in other long-term liabilities on our consolidated balance sheets with the corresponding charge included in general and administrative expense on our consolidated statements of operations for the year ended July 31, 2024.
+- 85
+-
+Table of
+Contents
+Finjan, Inc. v. Palo Alto Networks
+On November 4, 2014, Finjan, Inc., filed a lawsuit against us in the United States District Court for the Northern District of California. The lawsuit alleges that our products infringe multiple Finjan patents. The complaint requests injunctive relief, monetary damages, and attorneys fees. A trial date is set for June 9, 2025. We are

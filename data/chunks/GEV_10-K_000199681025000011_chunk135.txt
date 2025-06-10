@@ -1,0 +1,67 @@
+in AOCI related to net investment hedges was a net gain of
+$
+33
+million
+and
+$
+225
+million
+as of
+December 31, 2024
+and
+2023
+,
+respectively.
+The Company uses the spot method to assess hedge effectiveness for its net investment hedges. As such, for derivative instruments
+designated as net investment hedges, changes in fair value of the designated hedging instruments attributable to fluctuations in foreign
+currency spot exchange rates only are initially recorded as a component of the cumulative translation adjustments in AOCI until the hedged
+investment is either sold or substantially liquidated. All other changes in the fair value of the hedging instrument are recognized in current
+earnings.
+Non-Designated Hedges. The Company also executes derivative instruments, such as foreign currency forward contracts and commodity
+swaps, that are not designated in qualifying hedging relationships under U.S. GAAP. These derivatives are intended to serve as economic
+hedges of foreign currency and commodity price risk, and depending on the derivative type, hedges of monetary assets and liabilities,
+including intercompany balances subject to remeasurement.
+The changes in fair value of non-designated hedges are recorded in line items in the Consolidated and Combined Statement of Income
+(Loss) based on the nature of the derivative contract and the underlying item being economically hedged. The cash flows associated with
+non-designated hedges are recorded in the same category as the cash flows from the items being economically hedged and are thus
+primarily through investing and operating activities of the Consolidated and Combined Statement of Cash Flows.
+The following table presents the gross fair values of our outstanding derivative instruments as of the dates indicated:
+GROSS FAIR VALUE OF OUTSTANDING DERIVATIVE INSTRUMENTS
+(a)
+The
+netting of derivative receivables and payables is permitted when a legally enforceable master netting agreement exists. Amounts
+include fair value adjustments related to our own and counterparty non-performance risk.
+2024 FORM 10-K
+79
+(a)
+The
+netting of derivative receivables and payables is permitted when a legally enforceable master netting agreement exists. Amounts
+include fair value adjustments related to our own and counterparty non-performance risk.
+PRE-TAX GAINS (LOSSES) RECOGNIZED IN AOCI RELATED TO CASH FLOW AND NET INVESTMENT HEDGES
+The tables below show the effect of our derivative financial instruments in the Consolidated and Combined Statement of Income (Loss):
+The amount excluded for cash flow hedges was a gain (loss) of
+$
+20
+million
+,
+$(
+13
+) million
+, and
+$
+26
+million
+for the
+years ended
+December
+31, 2024
+,
+2023
+, and
+2022
+, respectively. This amount is recognized in Sales of equipment, Sales of services, Cost of equipment, and Cost
+of services in our Consolidated and Combined Statement of Income (Loss).
+2024 FORM 10-K
+80
+Counterparty Credit Risk.
+The Company would be exposed to credit-related losses in the event of non-

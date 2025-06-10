@@ -1,0 +1,87 @@
+eliminate, the impact of foreign currency exchange rate and commodity price movements. The
+Company does not enter into or hold derivative instruments for speculative trading purposes.
+2024 FORM 10-K
+78
+We use foreign currency contracts to reduce the volatility of cash flows related to forecasted revenues, expenses, assets, and liabilities.
+These contracts are generally
+one
+to
+11
+months
+in duration but with maximum remaining maturities of up to
+15
+years
+as of
+December 31,
+2024
+. The objective of the foreign currency contracts is to ultimately reduce the extent to which functional currency or U.S. dollar-equivalent
+cash flows are affected by changes in the applicable foreign currency exchange rates. We evaluate the effectiveness of our foreign
+currency contracts designated as cash flow hedges on a quarterly basis.
+The embedded derivatives the Company recognizes primarily consist of foreign currency related features in our purchase or sales contracts
+where the currency is not the functional currency of either party to the contract.
+Cash Flow Hedges.
+For derivative instruments designated as cash flow hedges, changes in the fair value of designated hedging
+instruments are initially recorded as a component of AOCI and subsequently reclassified to earnings in the period in which the hedged
+transaction occurs and to the same financial statement line item impacted by the hedged forecasted transaction.
+The total amount in AOCI related to cash flow hedges was a net
+$
+33
+million
+gain and a net
+$
+26
+million
+gain as of
+December 31, 2024
+and
+2023
+, respectively, of which a net
+$
+22
+million
+gain and a net
+$
+12
+million
+gain, respectively, related to our share of AOCI recognized at our
+non-consolidated joint ventures. We expect to reclassify
+$
+45
+million
+of pre-tax net losses associated with designated cash flow hedges to
+earnings in the next 12 months, contemporaneously with the earnings effects of the related forecasted transactions. The Company
+reclassified net gains (losses) from AOCI into earnings of
+$(
+21
+) million
+,
+$(
+24
+) million
+and
+$(
+24
+) million
+for the
+years ended
+December 31,
+2024
+,
+2023
+, and
+2022
+,
+respectively. As of
+December 31, 2024
+, the maximum length of time over which we are hedging forecasted
+transactions was approximately
+10
+years
+. The cash flows associated with cash flow hedges are recorded through the operating activities
+section of the Consolidated and Combined Statement of Cash Flows. The Company assesses effectiveness for foreign currency cash flow
+hedges related to long-term projects based on spot-to-spot foreign currency movements and excludes forward points from the assessment
+of effectiveness.
+Net Investment Hedges.
+We enter into foreign exchange forwards designated as the hedging instruments in net investment hedging
+relationships in order to mitigate the foreign currency risk attributable to the translation of the Company’s net investment in certain non
+USD-functional subsidiaries and equity method investees. The total amount

@@ -1,0 +1,19 @@
+Digital Currencies. To achieve these objectives, the executive order established a working group on digital asset markets within the National Economic Council, comprised of representatives from key federal agencies, with a tight timeline for examining existing regulations and proposing a new regulatory framework. There have also been several bills introduced in Congress that propose to establish additional regulation and oversight of the digital asset markets.
+Enterprise Analytics Software Strategy
+Strategy is a pioneer in AI-powered business intelligence (BI), and a global leader in enterprise analytics solutions. We provide software and services designed to turn complex, chaotic data environments into rich, reliable, and convenient information feeds for our customers. Our vision is to drive growth and competitive advantage for our customers by delivering Intelligence Everywhere.
+Our cloud-native flagship, Strategy One, powers some of the largest analytics deployments in the world for customers spanning a wide range of industries, including retail, banking, technology, manufacturing, insurance, consulting, healthcare, telecommunications, and the public sector.
+Integral to the Strategy One platform are Generative AI capabilities that are designed to automate and accelerate the deployment of AI-enabled applications across the enterprise. By making advanced analytics accessible through conversational AI, Strategy One provides non-technical users with timely, actionable insights for decision-making.
+The Strategy One Platform
+Strategy One combines the flexibility and scalability afforded by a modern, cloud application with the reliability and security of our robust data governance model. It empowers users by making rich analytics easily accessible and personalized, while enabling organizations to harness the value of their data wherever it is needed.
+Key Capabilities and Competitive Differentiators:
+Our key capabilities and competitive differentiators include the following:
+1.
+Built for the cloud.
+Our cloud-native, containerized architecture has been optimized for all three hyperscalers – AWS, Azure, and GCP – giving our customers freedom of choice and making it easy to embed analytics into custom or third-party cloud and mobile applications.
+2.
+Auto, the AI assistant.
+Our AI bot, Auto, simplifies and automates complex functions using a natural language interface, including SQL generation, dashboard creation, data discovery and advanced analytics like forecasting and key driver analysis.  Auto is designed to make analytics accessible to non-technical users and extend data-driven decision making across the organization. With Auto, customers also can build their own fully customized bot for any application in a matter of minutes.
+3.
+HyperIntelligence
+
+. This innovative feature presents context-based, click-free insights to the user by hovering over keywords on the screen. It can be implemented on mobile, web, or custom applications to enrich

@@ -1,0 +1,18 @@
+other policies and procedures designed to ensure the assessment, identification, and management of material risks from cybersecurity threats, and to facilitate timely disclosure of material cybersecurity incidents in accordance with SEC rules.
+Our policies provide for cybersecurity awareness training for employees and engagement in due diligence processes in accordance with industry best practices for third-party vendors, including those handling critical services or sensitive data on our behalf.
+Our policies also provide for regular, senior management-led table-top exercises simulating cyberattack scenarios to ensure preparedness and response agility. We undertake an annual review of our policies to help ensure their effectiveness and relevance in light of evolving cybersecurity threats.  Additionally, we maintain cyber insurance to help cover costs associated with the occurrence of certain cybersecurity events. We do not currently
+engage
+any other third parties as part of our cybersecurity risk management framework, but we do use third party services and products in the ordinary course with respect to certain common cybersecurity threats.
+Our IRPs, which are tailored to address potential cybersecurity threats in both our product and corporate infrastructure technology environments, are designed to provide a comprehensive, structured response to cybersecurity incidents, and apply to all Strategy personnel, including employees, directors, temporary staff, and contractors.  In accordance with our IRPs, we train our personnel to report any cybersecurity incidents to our Information Security Team (IST).
+Upon identification of a cybersecurity incident, the IRPs mandate that the IST conduct an immediate evaluation and assign a severity rating to the incident and, depending on the severity, report the incident to our Chief Information Security Officer (CISO)
+.
+Based
+on the severity of the incident, a Security Incident Response Team (SIRT), the members of which include our Chief Technology Officer (CTO), the CISO, and personnel from various departments,
+43
+including
+legal, is convened.
+The SIRT, with assistance from the IST, is tasked with executing a timely and effective response to the incident, and SIRT members are assigned specific roles and responsibilities, including assessment of the incident's materiality for disclosure purposes
+.
+Our CTO and CISO oversee our cybersecurity preparedness.
+Our CTO has over 25 years of experience in the technology sector, including specifically in the cybersecurity industry, and held various leadership positions prior to joining Strategy in 2018. Our CISO, who joined Strategy as CISO in 2021, has over 20 years of experience with cybersecurity and privacy, and has experience with IT infrastructure technologies, including cloud, network, server, endpoint, and mobile technologies.  Our CISO holds a master’s degree in computer science and multiple industry-recognized cybersecurity certifications.
+The IST operates under

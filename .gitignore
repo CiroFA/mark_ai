@@ -1,2 +1,6 @@
 # ignore sensitive configuration file
 .env
+
+# ignore compiled Python files and cache folders
+__pycache__/
+*.pyc

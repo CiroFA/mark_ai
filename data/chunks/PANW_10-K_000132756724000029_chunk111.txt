@@ -1,0 +1,16 @@
+collectability. Management regularly reviews the adequacy of the allowance for credit losses on a collective basis by considering the age of each outstanding invoice, each customer’s expected ability to pay and collection history, current market conditions, and, where appropriate, reasonable and supportable forecasts of future economic conditions. Accounts receivable deemed uncollectible are charged against the allowance for credit losses.
+For the years ended July 31, 2024 and 2023, the allowance for credit losses activity was not significant.
+- 68
+-
+Table of
+Contents
+Financing Receivables
+We provide financing arrangements for certain qualified end-customers and channel partners to purchase our products and services. Payment terms on these financing arrangements are up to
+five years
+. Financing receivables are recorded at amortized cost, which approximates fair value. We may sell, in certain instances, these financing arrangements on a non-recourse basis to third-party financial institutions. The financing receivables are derecognized upon transfer as these sales qualify as true sales.
+We evaluate the allowance for credit losses by assessing the risks and losses inherent in our financing receivables on either an individual or a collective basis. Our assessment considers various factors, including lifetime expected losses determined using customer risk profile, current economic conditions that may affect a customer’s ability to pay, and forward-looking economic considerations. Financing receivables deemed uncollectible are charged against the allowance for credit losses.
+Derivatives
+We are exposed to foreign currency exchange risk, and we use derivative financial instruments to manage our foreign currency exchange risk. Our derivative financial instruments are recorded at fair value, on a gross basis, as either assets or liabilities on our consolidated balance sheets.
+Our revenue is transacted in U.S. dollars, however, a portion of our operating expenditures are incurred outside of the United States and are denominated in foreign currencies, making them subject to fluctuations in foreign currency exchange rates. We enter into foreign currency derivative contracts with maturities of
+24
+months or less, which we designate as cash flow hedges, to manage the foreign currency exchange risk associated with our operating expenditures. Gains or losses related to the effective portion of our cash flow hedges are recorded as a component of AOCI on our consolidated balance sheets and are reclassified into the financial statement line item associated with the underlying hedged transaction on our consolidated statements of operations when the underlying hedged transaction is recognized in earnings. In the event the underlying hedged transactions do not occur, or it becomes probable that they will not occur within the defined hedge period, the gains or losses on these related cash flow hedges are recognized in other income, net on our consolidated statements of

@@ -1,0 +1,15 @@
+its risk oversight function and has delegated to the
+Audit Committee
+(Committee) oversight of cybersecurity and other information technology risks.
+The Committee oversees management’s implementation of our cybersecurity risk management program.
+The Committee receives quarterly reports from our Vice
+51
+President and Chief Information Security Officer (CISO), in conjunction with other senior managers, on cybersecurity risks.
+In addition, these managers update the Committee, as necessary, regarding any material cybersecurity incidents, as well as incidents with lesser impact potential. The
+Committee
+reports to the full Board on cybersecurity no less frequently than once annually. The full Board also receives briefings from management on our cyber risk management program on a periodic basis.
+Our cybersecurity program includes an annual funding and forecast process, and we have further established processes to secure additional funding in response to emerging risks, threats and identified improvement opportunities.
+Our IS team, led by one of our Vice Presidents who also serves as our CISO, is responsible for assessing and managing risks from cybersecurity threats. The IS team has primary responsibility for our overall cybersecurity risk management program and supervises both our internal cybersecurity personnel and our external cybersecurity consultants.
+Our CISO has over 20 years of experience in the cybersecurity industry and has been instrumental in building several key security technologies, viz. Network Intrusion Prevention Systems (NIPS), Host Intrusion Prevention Systems (HIPS), Web Application Firewalls (WAF), Whitelisting, Endpoint/Server Host Monitoring (EDR) and Virtualization Based Security (VBS). Previously, our CISO served in senior executive and technical leadership roles in several security companies. In addition, our CISO has experience as a pen-tester and has in-depth knowledge of operating system, networking and security products. Our CISO holds a bachelor’s degree in computer science and a master’s degree in software systems. In addition, our IS team includes over 20 members each with experience in network security related roles, with the two IS leads reporting to our CISO each having more than 20 years of security experience.
+Our management team, including our CISO in consultation with our Chief Technology Officer and Chief Financial Officer, supervises efforts to prevent, detect, mitigate, and remediate cybersecurity risks and incidents, which may include: briefings from internal security personnel; threat intelligence and other information obtained from governmental, public or private sources, including external cybersecurity consultants; and alerts and reports produced by security tools deployed in our IT environment. However, as indicated above, we cannot guarantee that our efforts will prevent any cybersecurity incident from occurring.
+As part of our IT security program, our Cybersecurity Executive Committee and Information

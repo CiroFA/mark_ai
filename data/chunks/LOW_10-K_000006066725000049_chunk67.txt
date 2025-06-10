@@ -1,0 +1,29 @@
+Accounting Pronouncements Recently Adopted -
+Effective November 2, 2024, the Company adopted Accounting Standards Update (ASU) 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures.
+The ASU expands public entities’ segment disclosures by requiring disclosure of significant segment expenses that are regularly provided to the chief operating decision maker and included within each reported measure of segment profit or loss, an amount and description of its composition for other segment items, and interim disclosures of a reportable segment’s profit or loss and assets.  Under the ASU, all disclosure requirements in this update and ASC 280,
+Segment Reporting
+, are required for public entities with a single reportable segment.  See
+Note 1
+7
+for additional details of the Company’s reportable segment.
+Accounting Pronouncements Not Yet Adopted
+-
+In December 2023, the Financial Accounting Standards Board (FASB) issued ASU 2023-09,
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+.  The ASU expands income tax disclosures in the effective tax rate reconciliation table and income taxes paid.  The ASU is effective for the Company’s Annual Report on Form 10-K for the fiscal year ended January 30, 2026.  The Company is currently evaluating the impact of adopting this ASU on its disclosures.
+In November 2024, the FASB issued ASU 2024-03,
+Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures
+.  The ASU requires a public business entity to provide disaggregated disclosures of certain categories of expenses on an annual and interim basis including purchases of inventory, employee compensation, depreciation, and intangible asset amortization for each income statement line item that contains those expenses.  The ASU is effective for the Company’s Annual Report on Form 10-K for the fiscal year ended January 28, 2028, and subsequent interim periods, with early adoption permitted.  The Company is currently evaluating the impact of adopting this ASU on its disclosures.
+Recent accounting pronouncements pending adoption not discussed in this Form 10-K are either not applicable to the Company or are not expected to have a material impact on the Company.
+NOTE 2:
+Revenue
+Net sales consists primarily of revenue, net of sales tax, associated with contracts with customers for the sale of goods and services in amounts that reflect consideration the Company is entitled to in exchange for those goods and services.
+The following table presents the Company’s sources of revenue:
+The balances and classification within the consolidated balance sheets for anticipated sales returns and the associated right of return assets are as follows:
+Deferred revenue - retail and stored-value cards
+Deferred revenue for retail and stored-value cards are as follows:
+Table of Contents
+Deferred revenue - Lowe’s protection plans
+Deferred revenue associated with Lowe’s protection plans is as follows:
+Lowe’s protection plan

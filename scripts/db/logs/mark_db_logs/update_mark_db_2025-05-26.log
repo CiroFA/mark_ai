@@ -2543,3 +2543,15 @@
 2025-05-28 11:20:30 [WARNING] ⚠️ 3 fields ignored for MMM in 'info' due to unsupported types or length
 2025-05-28 11:20:30 [INFO] ➕ 1 new row inserted into 'info' for MMM
 2025-05-28 11:20:30 [INFO] ➕ 10 new rows inserted into 'officers' for MMM
+2025-05-28 12:14:42 [INFO] ➕ 15957 new rows inserted into 'history' for MMM
+2025-05-28 12:14:43 [INFO] ➕ 5 new rows inserted into 'balance_sheet' for MMM
+2025-05-28 12:14:43 [INFO] ➕ 5 new rows inserted into 'cashflow' for MMM
+2025-05-28 12:14:43 [INFO] ➕ 5 new rows inserted into 'financials' for MMM
+2025-05-28 12:14:44 [INFO] ➕ 252 new rows inserted into 'dividends' for MMM
+2025-05-28 12:14:44 [INFO] ➕ 4 new rows inserted into 'recommendations' for MMM
+2025-05-28 12:14:45 [INFO] ➕ 5 new rows inserted into 'splits' for MMM
+2025-05-28 12:14:45 [WARNING] ⚠️ 1 fields ignored for MMM in 'sustainability' due to unsupported types or length
+2025-05-28 12:14:45 [INFO] ➕ 1 new row inserted into 'sustainability' for MMM
+2025-05-28 12:14:46 [WARNING] ⚠️ 3 fields ignored for BP in 'info' due to unsupported types or length
+2025-05-28 12:14:46 [INFO] ➕ 1 new row inserted into 'info' for BP
+2025-05-28 12:14:46 [INFO] ➕ 10 new rows inserted into 'officers' for BP

@@ -1,0 +1,28 @@
+compensation expense over the shorter of the service period (i.e., the stated period of time required to earn the award) or, for awards that provide for retirement-based vesting, the period beginning at the start of the service period and ending upon the date when an employee first becomes eligible for retirement vesting under award terms. Other than certain retention awards, our share-based compensation programs generally provide accelerated vesting in whole or in part (i.e., a waiver of the remaining period of service required to earn an award) for awards held by employees at the time of their retirement. Some of our share-based awards vest ratably (i.e., portions of the award vest at different times) while some of our awards cliff vest (i.e., all of the award vests at the same time). We recognize expense on a straight-line basis over the service period for the entire award, whether the award was granted with ratable or cliff vesting.
+Compensation Expense
+—Total share-based compensation expense recognized in net income (loss) and the associated tax benefit were:
+Stock Options
+—Stock options granted under the provisions of the Omnibus Plan and prior plans permit purchase of our common stock at exercise prices equivalent to the average fair market value of ConocoPhillips common stock on the date the options were granted. The options have terms of
+10
+years and generally vest ratably on the first, second and third anniversaries of the date of grant. Options awarded to certain employees already eligible for retirement vest within
+six months
+of the grant date, but those options do not become exercisable until the end of the normal vesting period. Beginning in 2018, stock option grants were discontinued.
+The following summarizes our stock option activity for the year ended December 31, 2024:
+The weighted-average remaining contractual term of outstanding options, vested options and exercisable options at December 31, 2024, were all
+1.47
+years. The aggregate intrinsic value of options exercised was $
+58
+million in 2023 and $
+308
+million in 2022.
+During 2024, we received $
+83
+million in cash and realized a tax benefit of $
+13
+million from the exercise of options. At December 31, 2024, all outstanding stock options were fully vested and there was no remaining compensation cost to be recorded.
+Stock Unit Programs
+—RSUs granted annually under the provisions of the Omnibus Plan and the general and executive RSU programs vest in
+one
+installment on the third anniversary of the grant date. RSUs granted under the Omnibus Plan for a variable long-term incentive retention program vest ratably on the first, second and third anniversaries of the grant date. RSUs are also granted ad hoc to attract or retain key personnel, or assumed as a result of an acquisition, and the terms and conditions under which these RSUs vest vary by award.
+Stock-Settled
+Upon vesting, these RSUs are settled by issuing one share of ConocoPhillips common stock per unit. Units awarded to

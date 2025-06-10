@@ -1,0 +1,33 @@
+planning strategies that generate future income, and projected future taxable income. If, based upon
+all available evidence, both positive and negative, it is more likely than not such deferred tax assets will not be realized, a valuation
+allowance is recorded to adjust the deferred tax assets to the net amount which is more likely than not to be realized.
+See Note
+15
+for further information.
+Postretirement Benefit Plans
+. Certain employees, former employees, and retirees of the Company participate in postretirement benefit
+plans sponsored by the Company.
+Management presents these plans sponsored by the Company in
+three
+categories: principal pension plans, other pension plans, and
+principal retiree benefit plans. Plan assets are categorized for disclosure purposes in accordance with the fair value hierarchy. Benefits are
+calculated using significant inputs to the actuarial models that measure benefit obligations and related effects on operations. The Company
+evaluates critical assumptions, including discount rates and expected return on assets, at least annually on a plan and country-specific
+basis. Actual results in any given year often will differ from actuarial assumptions because of economic and other factors.
+Projected benefit obligations are measured as the present value of expected payments. We discount those cash payments using the
+weighted average of market-observed yields for high-quality fixed-income securities with maturities that correspond to the expected timing
+of benefit payments. Generally, lower discount rates increase present values and increase subsequent-year pension expense, while higher
+discount rates decrease present values and decrease subsequent-year pension expense. The components of net periodic benefit costs,
+other than the service cost component, are recognized within Non-operating benefit income in the Consolidated and Combined Statement
+of Income (Loss). The Company delays recognition of gains and losses and subsequently amortizes these amounts into earnings over the
+remaining average future service of active employees or the expected life of inactive participants, as applicable, who participate in the plan.
+For the principal pension plans, gains and losses are amortized using a straight-line method with a separate layer for each year's gains and
+losses. For most other pension plans and principal retiree benefit plans, gains and losses are amortized using a straight-line or a corridor
+amortization method. See Note
+13
+for further information.
+Loss Contingencies.
+Loss contingencies are existing conditions, situations or circumstances involving uncertainty as to possible loss that
+will ultimately be resolved when future events occur or fail to occur. Such contingencies include, but are not limited to warranties,
+environmental obligations, litigation, regulatory investigations and proceedings, and losses resulting from other events and developments.
+When a loss is considered probable and reasonably estimable, we record

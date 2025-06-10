@@ -1,0 +1,23 @@
+Convertible Notes for redemption, then a holder may surrender all or any part of such of its Convertible Notes as called for redemption for conversion at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; (d) in the case of the 2030B Convertible Notes, the Company calls any 2030B Convertible Notes for redemption, then the holders of such 2030B Convertible Note may convert such 2030B Convertible Notes at any time before the close of business on the second business day immediately before the related redemption date; and (e) upon occurrence of specified corporate events as described in each applicable indenture governing the respective Convertible Notes.
+(10)
+The Company may redeem for cash all or a portion of the Outstanding Convertible Notes at its option, on or after the stated dates, if the last reported sale price of the Company’s class A common stock has been at least
+130
+% of the conversion price of the respective Convertible Notes then in effect for at least
+20
+trading days (whether or not consecutive), including the trading day immediately preceding the date on which the Company provides a notice of redemption, during any
+30
+consecutive trading day period ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption. The redemption price will be equal to
+100
+% of the principal amount of the Convertible Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. See below “Conversions and Redemption of Convertible Notes” subsection for information regarding the Company’s redemption of the 2027 Convertible Notes.
+(11)
+“
+Redemption Date” for the 2027 Convertible Notes is the date on which the Company redeemed all outstanding 2027 Convertible Notes.
+If the Company undergoes a “fundamental change,” as defined in the respective indentures governing the Convertible Notes prior to maturity, subject to certain conditions, holders may require the Company to repurchase for cash all or any portion of their respective Convertible Notes at a fundamental change repurchase price equal to
+100
+% of the principal amount of the respective Convertible Notes to be repurchased, plus any accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+The respective indentures governing the Convertible Notes contain customary terms and covenants, including that upon certain events of default occurring and continuing, either the trustee of the respective Convertible Notes or the holders of at least
+25
+% in principal amount outstanding of the respective Convertible Notes may declare
+100
+% of the principal of, and accrued and unpaid interest, if any, on, all the respective Convertible Notes to be due and payable.
+Although the Convertible Notes contain embedded conversion features, the Company accounts for the Convertible Notes in their entirety as a liability because the conversion

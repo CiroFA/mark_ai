@@ -1,0 +1,17 @@
+companies in our industry, may not use free cash flow, may calculate free cash flow in a different manner than we do, or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of free cash flow as a comparative measure. A reconciliation of free cash flow to cash flow provided by operating activities, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP, is provided below:
+- 28 -
+Table of Contents
+Results of Operations
+The following table summarizes our results of operations for the periods presented and as a percentage of our total revenue for those periods based on our condensed consolidated statements of operations data. The period-to-period comparison of results is not necessarily indicative of results for future periods.
+(1)
+Includes share-based compensation as follows:
+- 29 -
+Table of Contents
+REVENUE
+Our revenue consists of product revenue and subscription and support revenue. Revenue is recognized upon transfer of control of the corresponding promised products and subscriptions and support to our customers in an amount that reflects the consideration we expect to be entitled to in exchange for those products and subscriptions and support. We expect our revenue to vary from quarter to quarter based on seasonal and cyclical factors.
+PRODUCT REVENUE
+Product revenue is derived from sales of our appliances, primarily our ML-Powered Next-Generation Firewall. Product revenue also includes revenue derived from software licenses of Panorama, SD-WAN, and the VM-Series. Our appliances and software licenses include a broad set of built-in networking and security features and functionalities. We recognize product revenue at the time of hardware shipment or delivery of software license.
+Product revenue increased for the three and nine months ended April 30, 2025 compared to the same periods in 2024 driven by increased demand for our new generation of hardware products and accessories, and an increase in price of and allocation to on-premise software licenses due to enhanced features and capabilities beginning in the second quarter of fiscal 2025, partially offset by decreased demand for our prior generation of hardware products.
+SUBSCRIPTION AND SUPPORT REVENUE
+Subscription and support revenue is derived primarily from sales of our subscription and support offerings. Our subscription and support contracts are typically one to five years. We recognize revenue from subscriptions and support over time as the services are performed. As a percentage of total revenue, we expect our subscription and support revenue to vary from quarter to quarter and increase over the long term as we introduce new subscriptions, renew existing subscription and support contracts, and expand our installed end-customer base.
+Subscription and support revenue increased for the three and nine months ended April 30, 2025 compared to the same periods in 2024 primarily due to increased

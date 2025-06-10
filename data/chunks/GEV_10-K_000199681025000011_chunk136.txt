@@ -1,0 +1,105 @@
+performance by counterparties on
+executed derivative instruments. The credit exposure of derivative contracts is represented by the fair value of contracts as of the reporting
+date. The fair value of the Company’s derivatives can change significantly from period to period based on, among other factors, market
+movements, and changes in our positions.
+We manage concentration of counterparty credit risk by limiting acceptable counterparties to major financial institutions with investment
+grade credit ratings, by limiting the amount of credit exposure to individual counterparties, and by actively monitoring counterparty credit
+ratings and the amount of individual credit exposure.
+We also employ master netting arrangements that limit the risk of counterparty non-payment on a particular settlement date to the net gain
+that would have otherwise been received from the counterparty. Although not completely eliminated, we do not consider the risk of
+counterparty default to be significant as a result of these protections. Further, none of our derivative instruments are subject to collateral or
+other security arrangements, nor do they contain provisions that are dependent on our credit ratings from any credit rating agency.
+NOTE
+21
+.
+VARIABLE INTEREST ENTITIES (VIEs)
+.
+In our Consolidated and Combined Statement of Financial Position, we have
+assets of
+$
+111
+million
+and
+$
+122
+million
+and liabilities of
+$
+134
+million
+and
+$
+156
+million
+as of
+December 31, 2024
+and
+2023
+, respectively, from
+consolidated
+VIEs
+. These entities were created to help our customers facilitate or finance the purchase of GE Vernova equipment and
+services, and to manage our insurance exposure through an insurance captive, and have no features that could expose us to losses that
+would significantly exceed the difference between the consolidated assets and liabilities.
+Our investments in unconsolidated VIEs were
+$
+90
+million
+and
+$
+1,323
+million
+as of
+December 31, 2024
+and
+2023
+, respectively. Of these
+investments,
+$
+37
+million
+and
+$
+1,272
+million
+as of
+December 31, 2024
+and 2023
+, respectively,
+were owned by our Financial Services
+business. At
+December 31, 2023, these investments
+w
+ere
+substantially all related to renewable energy U.S. tax equity investments
+that
+were subsequently retained by GE in connection with the Spin-Off
+. See Note
+11
+for further information.
+Our maximum exposure to loss in
+respect of unconsolidated VIEs is increased by our commitments to make additional investments in these entities described in Note
+22
+.
+NOTE
+22
+.
+COMMITMENTS
+, GUARANTEES, PRODUCT WARRANTIES AND OTHER LOSS CONTINGENCIES
+Commitments.
+We had total investment commitments of
+$
+73
+million
+and unfunded lending commitments of
+$
+96
+million
+at December 31,
+2024. The commitments primarily consist of obligations to make investments in or provide funding by our Financial Services and Gas
+Power businesses. See Note
+21
+for further information.
+Guarantees
+.
+As of December 31, 2024, we were committed under the

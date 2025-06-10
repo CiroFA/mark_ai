@@ -1,0 +1,19 @@
+governments, trade restrictions, and fiat currency devaluations;
+•
+developments in mathematics or technology, including in digital computing, algebraic geometry and quantum computing, that could result in the cryptography used by the Bitcoin blockchain becoming insecure or ineffective; and
+•
+changes in national and international economic and political conditions, including, without limitation, federal government policies, trade tariffs and trade disputes, and the adverse impacts attributable to global conflicts, including those between Russia and Ukraine and in the Middle East.
+Bitcoin and other digital assets are novel assets, and are subject to significant legal, commercial, regulatory and technical uncertainty
+Bitcoin and other digital assets are relatively novel and are subject to significant uncertainty, which could adversely impact their price. The application of state and federal securities laws and other laws and regulations to digital assets is unclear in certain respects, and it is possible that regulators in the United States or foreign countries may interpret or apply existing laws and regulations in a manner that adversely affects the price of bitcoin or the ability of individuals or institutions such as us to own or transfer bitcoin.
+The U.S. federal government, states, regulatory agencies, and foreign countries may also enact new laws and regulations, or pursue regulatory, legislative, enforcement or judicial actions, that could materially impact the price of bitcoin or the ability of individuals or institutions such as us to own or transfer bitcoin. For example, within the past several years:
+•
+President Trump signed an executive order instructing a working group comprised of representatives from key federal agencies to evaluate measures that can be taken to provide regulatory clarity and certainty built on technology-neutral regulations for individuals and firms involved in digital assets, including through well-defined jurisdictional regulatory boundaries;
+•
+in January 2025, the SEC announced the formation of a “Crypto Task Force,” which will seek to provide clarity on the application of the federal securities laws to the crypto asset market and to recommend policy measures with respect to digital asset security status, registration and listing of digital asset-based investment vehicles, and digital asset custody, lending and staking;
+•
+in June 2023, the SEC filed complaints against Binance Holdings Ltd. and Coinbase, Inc., and their respective affiliated entities, relating to, among other claims, that each party was operating as an unregistered securities exchange, broker, dealer, and clearing agency;
+•
+in November 2023, the SEC filed a complaint against Payward Inc. and Payward Ventures Inc., together known as Kraken, alleging, among other claims, that Kraken’s crypto trading platform was operating as an unregistered securities exchange, broker, dealer, and clearing agency;
+54
+•
+the European Union adopted Markets in Crypto

@@ -1,0 +1,17 @@
+third-party service providers, including cybersecurity risks. An initial assessment is conducted to assess the cybersecurity risks associated with a third-party provider based on various criteria, such as whether the third-party provider has access to our network, data, and information systems. Third-party providers that are identified through the initial assessment as warranting further review are subject to additional risk assessment. In parallel, we have designed a contracting process to mitigate cybersecurity risks by specifying the rights and responsibilities of the parties.
+Risks from Material Cybersecurity Threats
+While we are subject to ongoing cybersecurity threats, we do not believe that the risks from previous threats have materially affected or are reasonably likely to materially affect the company, including our business strategy, results of operations or financial condition.
+Nevertheless, we recognize cybersecurity threats are on-going and evolving, and our program is designed to identify and manage those threats.
+See item 1A. Risk Factors—
+Our technologies, systems and networks are subject to cybersecurity threats
+for more information on our risks relating to our technologies, systems, and networks.
+Cybersecurity Governance
+Management's Role
+A dedicated
+CISO
+leads the IT/OT Security Team and is responsible for our cybersecurity risk management and strategy.
+The CISO has over 20 years of experience in security, of which 15 years is specific to cybersecurity and has served as a CISO since 2013, having joined ConocoPhillips as CISO in 2022. The CISO holds a master’s degree and is a Certified Information Security Professional. The CISO reports to the CD&IO, who holds a master’s degree in information technology and has served as Chief Information Officer/Chief Technology Officer and various roles in information technology for over 28 years.
+The CD&IO reports to the Executive Vice President and Chief Financial Officer. This management team assesses and manages risks associated with cybersecurity.
+Board of Directors' Oversight
+While our cybersecurity management team is responsible for the day-to-day assessment and management of material risks from cybersecurity threats, the ConocoPhillips Board of Directors has oversight responsibility for our ERM program and the individual risk management programs comprising our ERM program, including cybersecurity risk management. To help maintain effective Board of Directors' oversight across the entire enterprise, the Board of Directors delegates certain elements of its oversight function to individual committees. The AFC assists the Board of Directors in fulfilling its oversight of our ERM program and cybersecurity.
+The Board of Directors receives a report on cybersecurity annually, and the AFC receives reports on cybersecurity multiple times a year. For meetings where cybersecurity is not on the formal agenda, the AFC will receive a pre-read that includes cybersecurity updates or discussion topics.

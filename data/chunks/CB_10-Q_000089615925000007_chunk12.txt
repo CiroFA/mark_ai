@@ -1,0 +1,27 @@
+limit equity exposure in the market risk benefit (MRB) book of business. Derivative instruments are principally recorded in either Other assets (OA) or Accounts payable, accrued expenses, and other liabilities (AP) in the Consolidated balance sheets. Convertible securities are recorded in either Fixed maturities available-for-sale (FM AFS) or Equity securities (ES), depending on the underlying investment. These are the most numerous and frequent derivative transactions. In addition, Chubb, from time to time, purchases to be announced mortgage-backed securities (TBAs) as part of its investing activities.
+As a global company, Chubb entities transact business in multiple currencies. Our policy is to generally match assets, liabilities, and required capital for each individual jurisdiction in local currency, which would include the use of derivatives discussed below. Some of Chubb's derivatives satisfy hedge accounting requirements, as discussed below. We also consider economic hedging for planned cross border transactions.
+29
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents the balance sheet location, fair value in an asset or (liability) position, and notional value/payment provision of our derivative instruments:
+(1)
+Includes fair value of embedded derivatives.
+(2)
+Related to MRB book of business.
+At March 31, 2025, and December 31, 2024, net derivative liabilities of $
+223
+million and $
+199
+million, respectively, included in the table above were subject to a master netting agreement. The remaining derivatives included in the table above were not subject to a master netting agreement.
+b) Hedge accounting
+We designate certain derivatives as fair value hedges and net investment hedges for accounting purposes to hedge foreign currency exposure associated with portions of our euro denominated debt and the net investment in certain foreign subsidiaries, respectively. These derivatives comprise cross-currency swaps, which are agreements under which two counterparties exchange interest payments and principal denominated in different currencies at a future date. These hedges have been and are expected to be highly effective.
+(i) Cross-currency swaps - fair value hedges
+Chubb holds certain cross-currency swaps designated as fair value hedges. The objective of these cross-currency swaps is to hedge the foreign currency risk on €
+1.7
+billion, or approximately $
+1.9
+billion at March 31, 2025, of euro denominated debt by converting cash flows back into the U.S. dollar.
+These hedges are carried at fair value, with changes in fair value recorded in Other comprehensive income (OCI). The gains or losses on the fair value hedges offsetting the foreign currency remeasurement on the hedged euro denominated senior notes are reclassified from OCI into Net realized gains (losses), and an additional portion is reclassified into Interest expense as follows:
+30
+Table of Contents

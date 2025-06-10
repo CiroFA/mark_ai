@@ -1,0 +1,22 @@
+fluctuations between the U.S. dollar and various foreign currencies, primarily the Euro. To manage this risk, we hedge a portion of our foreign currency exposures related to outstanding monetary assets and liabilities as well as forecasted product sales using foreign currency exchange forward contracts. In general, the market risk related to these contracts is offset by corresponding gains and losses on the hedged transactions. The credit risk associated with these contracts is driven by changes in interest and currency exchange rates and, as a result, varies over time. By working only with major banks and closely monitoring current market conditions, we seek to limit the risk that counterparties to these contracts may be unable to perform. We also seek to limit our risk of loss by entering into contracts that permit net settlement at maturity. Therefore, our overall risk of loss in the event of a counterparty default is limited to the amount of any unrealized gains on outstanding contracts (i.e., those contracts that have a positive fair value) at the date of default. We do not enter into derivative contracts for trading purposes.
+The derivative instruments we use to hedge our exposures for certain monetary assets and liabilities that are denominated in a non-functional currency are not designated as hedges. The derivative instruments we use to hedge our exposures for forecasted product sales are designated as cash flow hedges and have maturities of
+18
+months or less.
+We held foreign currency exchange contracts with outstanding notional amounts of $
+3.4
+billion and $
+2.9
+billion as of March 31, 2025 and December 31, 2024, respectively.
+While all our derivative contracts allow us the right to offset assets and liabilities, we have presented amounts on our Condensed Consolidated Balance Sheets on a gross basis.
+The following table summarizes the classification and fair values of derivative instruments, including the potential effect of offsetting:
+12
+The following table summarizes the effect of our derivative contracts on our Condensed Consolidated Financial Statements:
+The majority of gains and losses related to the hedged forecasted transactions reported in Accumulated other comprehensive income as of March 31, 2025 are expected to be reclassified to Product sales within
+12
+months. There were
+no
+discontinuances of cash flow hedges for the three months ended March 31, 2025 and 2024.
+The cash flow effects of our derivative contracts for the three months ended March 31, 2025 and 2024 were included within Net cash provided by operating activities on our Condensed Consolidated Statements of Cash Flows.
+6.
+ACQUISITIONS, COLLABORATIONS AND OTHER ARRANGEMENTS
+We enter into acquisitions, licensing and strategic collaborations and other similar arrangements with third parties for the research, development and commercialization of certain products and product candidates. The collaborations involve two or more parties who are active participants in the

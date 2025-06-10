@@ -1,0 +1,26 @@
+a maximum possible undiscounted value of $
+113
+million. As of December 31, 2024, the fair value of the contingent future payments has been reduced to $
+6
+million based primarily on lower revenue in 2023 and 2024 compared to the initial estimates at closing. This reduction is presented in Other income - net on the Consolidated Statements of Income.
+Other Fair Value Measurements
+Long-term debt and the current portion of long-term debt had a carrying value of $
+9,152
+million and fair value of $
+8,651
+million at December 31, 2024 compared to $
+9,261
+million and $
+8,924
+million, respectively, at December 31, 2023. The fair value of Eaton's debt instruments was estimated using prevailing market interest rates on debt with similar creditworthiness, terms and maturities and is considered a Level 2 fair value measurement.
+65
+Table of Contents
+Short-Term Investments
+Eaton invests excess cash generated from operations in short-term marketable investments. Short-term investments are recorded at carrying value, which approximates the fair value due to the short-term maturities of these investments.
+A summary of short-term investments is as follows:
+Note 16.
+DERIVATIVE FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES
+In the normal course of business, Eaton is exposed to certain risks related to fluctuations in interest rates, currency exchange rates and commodity prices. The Company uses various derivative and non-derivative financial instruments, primarily interest rate swaps, currency forward exchange contracts, currency swaps and commodity contracts to manage risks from these market fluctuations. The instruments used by Eaton are straightforward, non-leveraged instruments. The counterparties to these instruments are financial institutions with strong credit ratings. Eaton maintains control over the size of positions entered into with any one counterparty and regularly monitors the credit rating of these institutions. Such instruments are not purchased and sold for trading purposes.
+Derivative financial instruments are accounted for at fair value and recognized as assets or liabilities in the Consolidated Balance Sheets. Accounting for the gain or loss resulting from the change in the fair value of the derivative financial instrument depends on whether it has been designated as part of a hedging relationship, is effective and the nature of the hedging activity. Eaton formally documents all relationships between derivative financial instruments accounted for as designated hedges and the hedged item, as well as its risk-management objective and strategy for undertaking the hedge transaction. This process includes linking derivative financial instruments to a recognized asset or liability, specific firm commitment, forecasted transaction, or net investment in a foreign operation. These financial instruments can be designated as:
+•
+Hedges of the change in the fair value of a recognized fixed-rate asset or liability, or the firm commitment to acquire such an asset or

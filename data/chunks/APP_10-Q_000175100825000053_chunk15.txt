@@ -1,0 +1,28 @@
+A common stock upon repurchases, and records the excess of repurchase price over par value for shares repurchased to retained earnings to the extent the Company has retained earnings. If the Company has an accumulated deficit, the Company records the excess of repurchase price over par value for shares repurchased first to additional paid-in capital, to the extent the Company has additional paid-in capital, until depleted, and then to accumulated deficit in the Company’s consolidated statements of redeemable noncontrolling interest and stockholders’ equity.
+7.
+Stock-based Compensation
+The Company maintains
+three
+equity compensation plans that provide for the issuance of shares of its common stock to the Company’s employees, directors, consultants and other service providers: the 2021 Equity Incentive Plan (the "2021 Plan"), the 2021 Partner Studio Incentive Plan, and the 2021 Employee Stock Purchase. There were no material equity award issuances during the three months ended March 31, 2025.
+14
+Table of
+C
+ontents
+Stock-based compensation expense included in the Company's condensed consolidated statements of operations is as follows (in thousands):
+8.
+Earnings Per Share
+The rights, including the liquidation and dividend rights, of the holders of Class A and Class B common stock are identical, except with respect to voting and conversion. Each share of Class A common stock is entitled to
+one
+vote per share and each share of Class B common stock is entitled to
+20
+votes per share. Each share of Class B common stock is convertible into one share of Class A common stock voluntarily at any time by the holder, and automatically upon certain events. The Class A common stock has no conversion rights. As the liquidation and dividend rights are identical for Class A and Class B common stock, the undistributed earnings are allocated on a proportional basis and the resulting net income per share attributable to common stockholders will, therefore, be the same for both Class A and Class B common stock on an individual or combined basis.
+The following table sets forth the computation of basic and diluted net income per share attributable to common stockholders (in thousands, except share and per share data):
+15
+Table of
+C
+ontents
+The following table presents the forms of antidilutive potential common shares:
+As of March 31, 2024, the table above excludes any unvested PSUs since the related market conditions had not yet been met. There were no unvested PSUs as of March 31, 2025.
+9.
+Income Taxes
+The Company is subject to income taxes in the U.S. and in foreign jurisdictions. The Company bases the interim tax accruals on an estimated annual effective tax rate applied to year-to-date income and records the discrete tax items in the period to which they relate. Each quarter, the Company updates the estimated annual effective tax rate and makes a year-to-date adjustment to the tax provision as necessary. The Company’s calendar year 2025 annual effective tax rate

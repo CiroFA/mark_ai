@@ -1,0 +1,34 @@
+sales previously recorded as deferred revenue and claim expenses incurred are as follows:
+Disaggregation of Revenues
+The following table presents the Company’s net sales disaggregated by merchandise division:
+Note:  Merchandise division net sales for prior periods have been reclassified to conform to the current year presentation.
+1
+Home Decor includes the following product categories: Appliances, Décor, Flooring, Kitchens & Bath, and Paint
+2
+Building Products includes the following product categories: Building Materials, Electrical, Lumber, Millwork, and Rough Plumbing
+3
+Hardlines includes the following product categories: Hardware, Lawn & Garden, Seasonal & Outdoor Living, and Tools
+The following table presents the Company’s net sales disaggregated by geographical area:
+1
+The Canadian retail business was sold on February 3, 2023.
+NOTE 3:
+Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.  The authoritative guidance for fair value measurements establishes a three-level hierarchy, which encourages an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.  The three levels of the hierarchy are defined as follows:
+•
+Level 1
+-
+inputs to the valuation techniques that are quoted prices in active markets for identical assets or liabilities
+•
+Level 2
+-
+inputs to the valuation techniques that are other than quoted prices but are observable for the assets or liabilities, either directly or indirectly
+•
+Level 3
+-
+inputs to the valuation techniques that are unobservable for the assets or liabilities
+Table of Contents
+Assets and Liabilities that are Measured at Fair Value on a Recurring Basis
+The following table presents the Company’s financial assets and financial liabilities measured at fair value on a recurring basis.
+There were no transfers between Levels 1, 2, or 3 during any of the periods presented.
+When available, quoted prices were used to determine fair value.  When quoted prices in active markets were available, financial assets were classified within Level 1 of the fair value hierarchy.  When quoted prices in active markets were not available, fair values for financial assets and liabilities classified within Level 2 were determined using pricing models, and the inputs to those pricing models were based on observable market inputs.  The inputs to the pricing models were typically benchmark yields, reported trades, broker-dealer quotes, issuer spreads, and benchmark securities, among others.
+In addition, the Company has received performance-based contingent consideration related to the fiscal 2022 sale of the Canadian retail business and is classified as a Level 3 long-term investment.  The Company determined the initial fair value for contingent consideration as of February 3, 2023, based on an income approach using an option

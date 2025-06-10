@@ -1,0 +1,20 @@
+levels of coverage provided. Therefore, we urge caution in using these very simplistic ratios to gauge reserve adequacy.
+76
+Table of Contents
+Catastrophe Management
+We activel
+y monitor and manage our catastrophe risk accumulation around the world from natural perils, which includes setting risk limits based on probable maximum loss (PML) and purchasing catastrophe reinsurance to ensure sufficient liquidity and capital to meet the expectations of regulators, rating agencies, and policyholders, and to provide shareholders with an appropriate risk-adjusted return. Chubb uses internal and external data together with sophisticated, analytical catastrophe loss and risk modeling techniques to ensure an appropriate understanding of risk, including diversification and correlation effects, across different product lines and territories. The table below presents our modeled pre-tax estimates of natural catastrophe PML, net of reinsurance, at December 31, 2024, and does not represent our expected catastrophe losses for any one year.
+(1)
+Worldwide aggregate includes modeled losses arising from tropical cyclones, convective storms, earthquakes, wildfires, and inland floods
+a
+nd excludes
+"non-modeled" perils such as man-made and other catastrophe risks including pandemic.
+(2)
+U.S. hurricane modeled losses include losses from wind, storm-surge, and related precipitation-induced flooding.
+(3)
+California earthquake modeled losses include the fire-following sub-peril.
+The PML for worldwide and key U.S. peril regions are based on our in-force portfolio at October 1, 2024, and reflect the September 1, 2024, reinsurance program as well as inuring reinsurance protection coverage. As of April 1, 2024, we increased retention in North America by $500 million and increased limits by $1.7 billion. On August 31, 2024, a $500 million catastrophe treaty covering named windstorms and earthquakes within Northeast States expired and was not renewed. Refer to the Global Property Catastrophe Reinsurance section for more information. These estimates assume that reinsurance recoverable is fully collectible.
+According to the model, for the 1-in-100 return period scenario, there is a one percent chance that our pre-tax annual aggregate losses incurred in any year from U.S. hurricane events could be in excess of $3,831 million (or 6.0 percent of total Chubb shareholders’ equity at December 31, 2024). Effective March 31, 2024, our worldwide and U.S. Hurricane PMLs reflect the latest North Atlantic hurricane vulnerability model.
+The above estimates of Chubb’s loss profile are inherently uncertain for many reasons, including the following:
+•
+While the use of third-party modeling packages to simulate potential catastrophe losses is prevalent within the insurance industry, the models are reliant upon significant meteorology, seismology, and engineering assumptions to estimate catastrophe losses. In particular, modeled catastrophe events are not always a representation of actual events and

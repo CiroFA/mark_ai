@@ -1,0 +1,30 @@
+of operations could be adversely affected.
+The failure to attract new clients, the loss of clients, or a reduction in spending by these clients could adversely affect our business, financial condition, and results of operations.
+A significant portion of our revenue is Advertising Revenue and In-App Advertising ("IAA") Revenue from our Apps. Advertising Revenue is mostly from AppDiscovery and is generated from our advertisers, typically on a performance-based, cost-per-install basis, then shared with our advertising publishers, typically on a cost per impression model. IAA Revenue generated from our Apps comes from advertisers that purchase ad inventory from our diverse portfolio of mobile games. As is common in the advertising ecosystem, our clients do not have long-term advertising commitments with us. Our success depends in part on our ability to satisfy our advertising partners.
+Revenue could also be impacted by a number of other factors, including:
+•
+our ability to attract and retain clients, including, for example, in new markets such as e-commerce and social;
+•
+our ability to improve the effectiveness and predictability of our advertising and maintain and improve our AI-powered advertising engine AXON;
+•
+our ability to maintain or increase advertiser demand and third-party publisher supply, the quantity, or quality of advertisements shown to users, or our pricing of advertisements;
+•
+our ability to continue to increase user access to and engagement with our Apps;
+•
+mobile app changes or inventory management decisions we may make that change the size, format, frequency, or relative prominence of advertisements displayed on our Apps;
+•
+changes in measuring or pricing of mobile or other advertising markets;
+•
+our ability to recruit, train, and retain personnel to support continued growth of our Advertising solutions;
+•
+our ability to establish and maintain our brand and reputation;
+•
+loss of market share to our competitors, including if competitors offer lower priced, more integrated, or otherwise more effective products;
+•
+the development and success of technologies designed to block the display of advertisements or block our ad measurement tools, which have in the past impacted and may in the future impact our business, or technologies that make it easier for users to opt out of behavioral targeting;
+•
+the availability, accuracy, utility, and security of analytics and measurement solutions offered by us or third parties that demonstrate the value of our Advertising solutions to advertisers, developers and publishers, or our ability to further improve such tools;
+•
+government actions or legislative, regulatory, or other legal developments relating to AI or advertising, including developments that may impact our ability to deliver, target, or measure the effectiveness of advertising;
+•
+changes that limit our ability to deliver, target, or measure the effectiveness of advertising, including changes to policies by mobile operating system and

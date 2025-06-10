@@ -1,0 +1,25 @@
+net carrying amount of the 2025 Notes was classified as a current liability on our consolidated balance sheet as of July 31, 2024 and 2023.
+The following table sets forth the net carrying amount of our 2025 Notes (in millions):
+The total estimated fair value of the 2025 Notes was $
+3.2
+billion and $
+5.0
+billion as of July 31, 2024 and 2023, respectively. The fair value was determined based on the closing trading price per $100 of the 2025 Notes as of the last day of trading for the period. We consider the fair value of the 2025 Notes at July 31, 2024 and 2023 to be a Level 2 measurement. The fair value of the 2025 Notes is primarily affected by the trading price of our common stock and market interest rates.
+The following table sets forth interest expense recognized related to the Notes (dollars in millions):
+Note Hedges
+To minimize the impact of potential economic dilution upon conversion of our convertible senior notes, we entered into separate convertible note hedge transactions (the “2023 Note Hedges,” with respect to the 2023 Notes, the “2025 Note Hedges,” with respect to the 2025 Notes, and the 2023 Note Hedges together with 2025 Note Hedges, the “Note Hedges”) with respect to our common stock concurrent with the issuance of each series of the Notes.
+- 82
+-
+Table of
+Contents
+The following table presents details of our Note Hedges (in millions):
+(1)
+The 2023 Note Hedges were settled as a result of the conversions of the 2023 Notes prior to or on July 1, 2023.
+The Note Hedges cover shares of our common stock at a strike price per share that corresponds to the initial applicable conversion price of the applicable series of the Notes, which are also subject to adjustment, and are exercisable upon conversion of the applicable series of the Notes. The Note Hedges will expire upon maturity of the applicable series of the Notes. The Note Hedges are separate transactions and are not part of the terms of the applicable series of the Notes. Holders of the Notes of either series will not have any rights with respect to the Note Hedges. Any shares of our common stock receivable by us under the Note Hedges are excluded from the calculation of diluted earnings per share as they are antidilutive. The aggregate amounts paid for the Note Hedges are included in additional paid-in capital on our consolidated balance sheets.
+As a result of the conversions of the Notes settled during the years ended July 31, 2024 and 2023, we exercised the corresponding portion of our Note Hedges and received
+7.0
+million and
+11.4
+million shares of our common stock during the respective periods.
+Warrants
+Separately, but concurrently with the issuance of each series of our convertible senior notes, we entered into transactions whereby we sold warrants (the “2023 Warrants,” with respect to the 2023 Notes, the “2025 Warrants,” with respect to the 2025 Notes, and the 2023 Warrants together with the 2025 Warrants, the “Warrants”) to acquire shares of our common stock, subject to anti-

@@ -1,0 +1,30 @@
+reporting unit below its carrying value. An impairment charge is recognized if the carrying amount of a reporting
+unit exceeds its fair value.
+We determine fair value for each of the reporting units using the market approach, when available and appropriate, or the income
+approach, or a combination of both. We assess the valuation methodology based upon the relevance and availability of the data at the time
+we perform the valuation. If multiple valuation methodologies are used, the results are weighted appropriately.
+Under the market approach fair value is derived from metrics of publicly traded companies or historically completed transactions of
+comparable businesses, when available. The selection of comparable businesses is based on the markets in which the reporting units
+operate giving consideration to risk profiles, size, geography, and diversity of products and services. A market approach is limited to
+reporting units for which there are publicly traded companies that have characteristics similar to our businesses.
+Under the income approach, fair value is determined based on the present value of estimated future cash flows, discounted at an
+appropriate risk-adjusted rate. We use discount rates that are commensurate with the risks and uncertainty inherent in the respective
+businesses and in our internally developed forecasts.
+Based on the results of the impairment tests as of October 1, 2024, the fair values of our reporting units substantially exceeded their
+carrying values. Estimating the fair value of reporting units involves the use of significant judgments that are based on a number of factors
+including actual operating results, internal forecasts, such as forecasts of costs, margins, investments and capital expenditures, market
+observable pricing multiples of similar businesses and comparable transactions, possible control premiums, determining the appropriate
+discount rate and long-term growth rate assumptions, and, if multiple approaches are being used, determining the appropriate weighting
+applied to each approach. It is reasonably possible that the judgments and estimates described above could change in future periods.
+See
+Note
+8
+in the Notes to the consolidated and combined financial statements
+for further information.
+Income Taxes.
+Prior to the Spin-Off, GE Vernova was included in the consolidated U.S. federal, state and foreign income tax returns of
+GE, where eligible, through April 2, 2024. We have adopted the separate return method in preparing a provision for income taxes for the
+periods prior to the Spin-off. The calculation of income taxes on a separate return basis requires considerable judgment and use of both
+estimates and allocations. As a result, our provision for income taxes and deferred tax assets and liabilities reflected in our consolidated
+and combined financial statements for the periods 2022, 2023, and the first quarter of 2024 have been estimated as if we were a separate
+taxpayer. Following the Spin-off, GE

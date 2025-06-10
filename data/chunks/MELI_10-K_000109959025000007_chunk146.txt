@@ -1,0 +1,39 @@
+loans receivable amounts to $
+1,708
+million and $
+1,102
+million as of December 31, 2024 and 2023, respectively, which includes $
+30
+million and $
+18
+million related to unused agreed loan commitment on credit cards portfolio presented in Other liabilities of the consolidated balance sheets as of December 31, 2024 and 2023, respectively.
+As of December 31, 2024 and 2023, the Company is exposed to off-balance sheet unused agreed loan commitment on credit cards portfolio which expose the Company to credit risks for $
+2,872
+million and $
+934
+million, respectively. For the years ended December 31, 2024, 2023 and 2022 the Company recognized in Provision for doubtful accounts $
+18
+million, $
+8
+million and $
+8
+million as expected credit losses, respectively.
+From time to time, the Company sells loans receivable related to its lending solution. In this regard, during 2024, the Company signed a contract with a third party to sell an amount up to $
+100
+million dollar of its loans receivable, as part of its funding strategy. These loans were originated by its Mexican subsidiary and provided to its local users. This transaction is accounted for as a true sale and the Company has a continuing involvement related to a servicing fee charged to the purchaser for collection services and regarding a beneficial interest retained by the Company over the transferred assets. Both involvement events do not preclude the fact that this operation qualifies as a true sale as the purchaser has full control over the transferred assets. As of December 31, 2024, the Company sold $
+44
+million of loans receivable and recorded a gain of $
+1
+million related to the aforementioned contract.
+107
+|
+MercadoLibre, Inc.
+Table of Contents
+The following tables summarize the allowance for doubtful accounts activity during the years ended December 31, 2024, 2023 and 2022:
+The Company closely monitors credit quality for all loans receivable on a recurring basis to assess and manage its exposure to credit risk. To assess merchants and consumers seeking a loan under the lending solution, the Company uses, among other indicators, risk models internally developed, as a credit quality indicator to help predict the merchant’s and consumer’s ability to repay the principal balance and interest related to the credit. The risk model uses multiple variables as predictors of the merchant’s and consumer’s ability to repay the credit, including external and internal indicators. Internal indicators consider user behavior related to credit/payment history, and with lower weight in the risk models, the Company uses number of transactions in the Company’s ecosystem and merchant’s annual sales volume, among other indicators. In addition, the Company considers external bureau information to enhance the model and the decision making process.
+108
+|
+MercadoLibre, Inc.
+Table of Contents
+The amortized cost of the loans receivable classified by the Company’s credit quality internal indicator was as follows:
+As of

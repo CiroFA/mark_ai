@@ -1,0 +1,26 @@
+Sales commissions for initial contracts that are commensurate and sales commissions for renewal contracts are amortized over the related contractual period.
+We classify deferred contract costs as short-term or long-term based on when we expect to recognize the expense. The amortization of deferred contract costs is included in sales and marketing expense on our consolidated statements of operations. Deferred contract costs are periodically reviewed for impairment.
+We did not recognize any impairment losses on our deferred contract costs during the years ended July 31, 2024, 2023, or 2022.
+- 71
+-
+Table of
+Contents
+Software Development Costs
+Internally developed software includes security software developed to deliver our cloud-based subscription offerings to our end-customers. These capitalized costs consist of internal compensation-related costs and external direct costs incurred during the application development stage and will be amortized over a useful life of
+three years
+. As of July 31, 2024 and 2023, we capitalized as other assets on our consolidated balance sheets $
+129.2
+million and $
+132.1
+million in costs, respectively, net of accumulated amortization, for security software developed to deliver our cloud-based subscription offerings. We recognized amortization expense of $
+77.2
+million, $
+79.5
+million, and $
+62.4
+million related to these capitalized costs as cost of subscription and support revenue on our consolidated statements of operations during the years ended July 31, 2024, 2023, and 2022, respectively.
+The costs to develop software that is marketed externally have not been capitalized as we believe our current software development process is essentially completed concurrent with the establishment of technological feasibility. As such, all related software development costs are expensed as incurred and included in research and development expense on our consolidated statements of operations.
+Share-Based Compensation
+Compensation expense related to share-based transactions is measured at fair value on the grant date. We recognize share-based compensation expense for awards with only service conditions on a straight-line basis over the requisite service period. We recognize share-based compensation expense for awards with market conditions and awards with performance conditions on a straight-line basis over the requisite service period for each separately vesting portion of the award. We recognize share-based compensation expense for awards with performance conditions when it is probable that the performance condition will be achieved. We account for forfeitures of all share-based payment awards when they occur.
+Leases
+We determine if an arrangement is a lease at inception. We evaluate the classification of leases at commencement and, as necessary, at modification. Operating lease related balances are included in operating lease right-of-use assets, accrued and other liabilities, and long-term operating lease liabilities on our

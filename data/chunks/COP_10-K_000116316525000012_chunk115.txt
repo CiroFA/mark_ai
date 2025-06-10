@@ -1,0 +1,33 @@
+exelrcise of securities that would have an antidilutive effect. Treasury stock is excluded from the daily weighted-average number of common shares outstanding in both calculations.
+See Note
+22
+.
+Note 2—Inventories
+Inventories at December 31 were:
+The estimated excess of current replacement cost over LIFO cost of inventories was approximately $
+113
+million and $
+91
+million at December 31, 2024 and 2023, respectively.
+Note 3—Acquisitions and Dispositions
+All gains or losses on asset dispositions are reported before-tax and are included net in the “
+Gain (loss) on dispositions
+” line on our consolidated income statement. Cash proceeds and payments are included in the “Cash Flows From Investing Activities” section of our consolidated statement of cash flows except for cash payments associated with a contingent consideration arrangement that are included in the "Cash Flows From Financing Activities" section.
+2024
+Acquisition of Marathon Oil Corporation (Marathon Oil)
+In November 2024, we completed our acquisition of Marathon Oil, an independent oil and gas exploration and production company with operations across the Lower 48 and in Equatorial Guinea. At close, the transaction was valued at $
+16.5
+billion, which primarily represented
+0.255
+shares of ConocoPhillips common stock exchanged for each outstanding share of Marathon Oil common stock.
+*Represents the fair value of approximately
+143
+million shares of ConocoPhillips common stock issued to Marathon Oil stockholders. The fair value is based on the number of eligible shares of Marathon Oil common stock at a
+0.255
+exchange ratio and ConocoPhillips' average stock price on November 22, 2024, which was $
+111.93
+.
+**Cash transferred at close primarily represents funds contributed to Marathon Oil for repayment of Marathon Oil's estimated commercial paper liabilities as of the closing date.
+***Liabilities incurred are related to cash settled share-based awards and payment of cash in lieu of fractional Marathon Oil shares outstanding. These liabilities were settled prior to the end of 2024.
+The transaction was accounted for as a business combination under FASB Topic ASC 805 using the acquisition method, which requires assets acquired and liabilities assumed to be measured at their acquisition date fair values. Fair value measurements were made for acquired assets and liabilities, and adjustments to those measurements may be made in subsequent periods, up to one year from the acquisition date, as we identify new information about facts and circumstances that existed as of the acquisition date to consider. At December 31, 2024, remaining items to finalize include allocation of fair value to unproved properties. The impact of finalizing the fair value allocation is not expected to have a material impact to our consolidated financial statements.
+Oil and gas properties were valued using a discounted cash flow approach incorporating market participant and internally generated price assumptions; production

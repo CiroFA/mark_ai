@@ -1,0 +1,17 @@
+platform. CloudVision eliminates burdensome manual tasks so organizations can become more agile in making changes to network infrastructure. Fewer manual configurations enable faster time to service and improved availability for our customers. Our open APIs enable standards-based integration with third-party tools as well, supporting additional automation capabilities.
+Total Cost of Ownership
+We believe our programmable, scalable leaf-spine architectures, combined with our applications, significantly reduce networking costs when compared to legacy network designs, enabling faster time to service and improved availability. Our automation tools reduce the operational costs of provisioning, managing and monitoring a data center network and speed up service delivery. Our tools provide visibility into complex network environments without the need for additional data collection equipment.
+Cognitive Campus Solutions
+Arista’s Cognitive Campus is based on a data driven architecture and offers consistent, unified management across the campus edge for wired and wireless networks as well as integrated security & proactive network assurance. Our Cognitive Campus networking solutions are based on three pillars:
+Universal Networking
+- Customers want a network that minimizes planned and unplanned downtime. Arista delivers that through capabilities such as smart software upgrades that can update a switch to a new version of code without taking an outage. Moreover, Arista’s standards-based offerings minimize the learning curve for operators both in the wired and the wireless space.
+Zero Touch Operations
+- Arista’s solutions are designed from the ground up for real-time telemetry, automation, and AI for networking based on our unified network data lake architecture. As a result, customers can achieve faster deployment to new locations and lower their cost of network operations.
+Zero Trust Network
+- Arista delivers a combination of capabilities that help customers secure their campus networks, from controlling who can get on the network via network access control ("CloudVision AGNI") to detecting threats using network detection and response ("Arista NDR") or wireless intrusion prevention. Arista also provides identity-based micro segmentation ("Arista MSS") to ensure the zero trust posture extends to every critical asset within the organization.
+5
+Table of Contents
+Our Competitive Strengths
+We believe the following strengths will allow us to maintain and extend our technology leadership position in data-driven cloud networking and next-generation data center and campus workspace Ethernet products:
+Purpose-Built Cloud Networking Platform
+We have developed a highly scalable cloud networking platform that uses software to address the needs of large-scale cloud companies, cloud service providers, and large enterprises, including AI, virtualization, big data and low-latency applications. As a result, our cloud networking platform does not have the inherent limitations of

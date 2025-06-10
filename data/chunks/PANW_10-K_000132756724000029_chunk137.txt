@@ -1,0 +1,33 @@
+incentive plans using the treasury stock method.
+The following table presents the computation of basic and diluted net income (loss) per share of common stock (in millions, except per share data):
+The following securities were excluded from the computation of diluted net income (loss) per share of common stock as their effect would have been antidilutive or issuance of such shares is contingent upon the satisfaction of certain conditions which were not satisfied by the end of the applicable period (in millions):
+17.
+Other Income, Net
+The following table sets forth the components of other income, net (in millions):
+- 94
+-
+Table of
+Contents
+18.
+Segment Information
+We conduct business globally and sales are primarily managed on a geographic theater basis. Our chief operating decision maker reviews financial information presented on a consolidated basis accompanied by information about revenue by geographic region for purposes of allocating resources and evaluating financial performance. We have
+one
+business activity and there are no segment managers who are held accountable for operations, operating results, and plans for levels, components, or types of products or services below the consolidated unit level. Accordingly, we are considered to be in a single reportable segment and operating unit structure.
+The following table presents our long-lived assets, which consist of property and equipment, net and operating lease right-of-use assets, by geographic area (in millions):
+Refer to Note 2. Revenue for revenue by geographic theater and revenue for groups of similar products and services for the years ended July 31, 2024, 2023, and 2022.
+19.
+Subsequent Events
+Acquisition
+On May 15, 2024, we entered into a definitive agreement with International Business Machines Corporation to acquire certain QRadar assets, including intellectual property, customer relationships, and customer contracts. We agreed to pay $
+500.0
+million in cash upon closing, and to make additional post-closing payments contingent upon the migration of QRadar on-premise customers to Cortex XSIAM through December 31, 2027. We expect the acquisition will help accelerate the growth of our Cortex XSIAM business. On August 31, 2024, we completed this acquisition, which will be accounted for as a business combination in the first quarter of fiscal 2025. We are currently in the process of determining the initial purchase accounting for this transaction.
+2025 Notes Conversion
+Subsequent to July 31, 2024, $
+285.8
+million in aggregate principal amount of the 2025 Notes was converted or had been submitted by the holders for conversion and will settle during the fiscal quarter ending October 31, 2024.
+Share Repurchase
+On August 15, 2024, our board of directors authorized a $
+500.0
+million increase to our share repurchase program, bringing the total remaining authorization for future share repurchases to $
+1.0
+billion. The expiration date of the repurchase authorization was extended to December 31,

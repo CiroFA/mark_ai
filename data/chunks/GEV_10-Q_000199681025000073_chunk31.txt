@@ -1,0 +1,48 @@
+our Annual Report on Form 10-K for the fiscal
+year ended December 31, 2024.
+ITEM 4. CONTROLS AND PROCE
+DURE
+S
+.
+Evaluation of Disclosure Controls and Procedures.
+Under the supervision and with the participation of the Company's management,
+including the Chief Executive Officer and Chief Financial Officer, the Company evaluated its disclosure controls and procedures as defined
+in Rules 13(a)-15(e) and 15(d)-15(e) under the Exchange Act.
+Based on this evaluation, the Chief Executive Officer and Chief Financial
+Officer concluded that the Company's disclosure controls and procedures were effective as of March 31,
+2025
+, and that the information
+required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized,
+and reported, within the time periods specified in the SEC's rules and forms, and that such information is accumulated and communicated
+to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding
+required disclosure.
+Changes in Internal Control Over Financial Reporting
+.
+During the
+quarter
+ended March 31, 2025, the Company continued to exit from
+various transition service agreements with GE Aerospace primarily related to h
+uman resources
+(including payroll and benefit plan
+administration) and associated information technology systems. Consequently, responsibility for execution and related internal controls
+transferred to the Company, including certain general information technology controls in connection with information technology
+environment changes.
+Other than those discussed in the preceding sentences, no change in the Company’s internal control over financial
+reporting occurred during the three months ended March 31, 2025, that has materially affected, or is reasonably likely to materially affect,
+the Company's internal control over financial reporting.
+*Non-GAAP Financial Measure
+2025 1Q FORM 10-Q
+31
+PART II
+ITEM 1. LEGAL PROCEEDINGS
+.
+We are reporting the following m
+atter
+in compliance with SEC requirements to disclose
+administrative proceedings arising under laws that regulate the discharge of materials into the environment where a governmental authority
+is a party and that involve potential monetary sanctions of $300,000 or greater. In March 2024, one of our Australian subsidiaries received
+notice from the Australian Department of Climate Change, Energy, the Environment and Water (DCCEEW) of its intention to issue
+infringement notices imposing administrative fines on the subsidiary for importing equipment containing SF6 gas without an equipment
+license, as required by local law related to synthetic greenhouse gas management and seek a court order to impose civil penalties for
+delinquent reporting under such law. The applicable local law regulates the import to Australia of synthetic greenhouse gases in equipment,
+including certain of our switchgear products, and our subsidiary had neglected

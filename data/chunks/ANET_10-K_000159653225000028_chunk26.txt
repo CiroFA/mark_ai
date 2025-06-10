@@ -1,0 +1,18 @@
+costs;
+•
+performance and scale;
+•
+programmability and extensibility;
+•
+interoperability with other products;
+•
+ability to be bundled with other vendor offerings;
+•
+product availability and shipment lead times; and
+•
+quality of service, support and fulfillment.
+We believe our products compete favorably with respect to these factors. Our EOS software offers high reliability, integrates with existing network protocols and is open and programmable. We believe the combination of EOS, a set of network applications and our 1/2.5/5/10/25/40/50/100/200/400/800 Gigabit Ethernet platforms make our offering highly competitive for both cloud and enterprise data centers. However, many of our competitors have greater name recognition, longer operating histories, larger sales and marketing budgets and resources, broader distribution and established relationships with channel partners and end customers, greater access to larger customer bases, greater customer support resources, greater manufacturing resources, the ability to leverage their sales efforts across a broader portfolio of products, the ability to leverage purchasing power when purchasing subcomponents, the ability to bundle competitive offerings with other products and services, the ability to develop their own silicon chips, the ability to set more aggressive pricing policies, lower labor and development costs, greater resources to make acquisitions, larger intellectual property portfolios and substantially greater financial, technical, research and development or other resources.
+Intellectual Property
+Our success and ability to compete depend substantially upon our core technology and intellectual property. We rely on patent, trademark and copyright laws, trade secret protection and confidentiality agreements with our employees, customers, resellers, systems integrators, manufacturers, and others to protect our intellectual property rights. We file U.S and foreign patent applications to protect our intellectual property and believe that the duration of our issued patents is adequate relative to the expected lives of our products. Patents generally have a duration of twenty years from filing. The remaining duration on the individual patents in our patent portfolio varies.
+We cannot assure that any of our patent applications will result in the issuance of a patent or whether the examination process will result in patents of valuable breadth or applicability. In addition, any patents that may be issued may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing upon them. We also license software from third parties for integration into our products, including open-source software and other software available on commercially reasonable terms. We own a number of trademarks in the U.S. and other jurisdictions, and Arista, EOS, and CloudVision are among our core trademarks.
+We control access to and use of our software, technology and

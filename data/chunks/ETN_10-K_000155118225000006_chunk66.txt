@@ -1,0 +1,39 @@
+currency translation and related hedging instruments, changes in unrecognized costs of pension and other postretirement benefits, and changes in the effective portion of open derivative contracts designated as cash flow hedges.
+The following table summarizes the pre-tax and after-tax amounts recognized in Comprehensive income (loss):
+60
+Table of Contents
+The changes in Accumulated other comprehensive loss are as follows:
+The reclassifications out of Accumulated other comprehensive loss are as follows:
+1
+These components of Accumulated other comprehensive loss are included in the computation of net periodic benefit cost. See Note 10 for additional information about pension and other postretirement benefits items.
+61
+Table of Contents
+Net Income Per Share Attributable to Eaton Ordinary Shareholders
+A summary of the calculation of net income per share attributable to Eaton ordinary shareholders is as follows:
+In 2024 and 2023, all stock options were included in the calculation of diluted net income per share attributable to Eaton ordinary shareholders because they were all dilutive. In 2022,
+0.1
+million of stock options were excluded from the calculation of diluted net income per share attributable to Eaton ordinary shareholders because the exercise price of the options exceeded the average market price of the ordinary shares during the period and their effect, accordingly, would have been antidilutive.
+Note 14.
+EQUITY-BASED COMPENSATION
+Eaton recognizes equity-based compensation expense based on the grant date fair value of the award. Awards with service conditions or both service and market conditions are expensed over the period during which an employee is required to provide service in exchange for the award. Awards with both service and performance conditions are expensed over the period an employee is required to provide service based on the number of units for which achievement of the performance objective is probable. The Company estimates forfeitures as part of recording equity-based compensation expense.
+Restricted Stock Units and Awards
+Restricted stock units (RSUs) and restricted stock awards (RSAs) have been issued to certain employees and directors. The fair value of RSUs and RSAs are determined based on the closing market price of the Company’s ordinary shares at the date of grant. The RSUs entitle the holder to receive
+one
+ordinary share for each RSU upon vesting, generally over
+three years
+. RSAs are issued and outstanding at the time of grant, but remain subject to forfeiture until vested, generally over
+ten years
+.
+A summary of the RSU and RSA activity for 2024 is as follows:
+Information related to RSUs and RSAs is as follows:
+As of December 31, 2024, total compensation expense not yet recognized related to non-vested RSUs and RSAs was $
+93
+million, and the weighted-average period in which the expense is expected to be recognized is
+2.3
+years. Excess tax benefit for RSUs and RSAs totaled $
+8
+million, $
+4
+million, and $
+5
+million

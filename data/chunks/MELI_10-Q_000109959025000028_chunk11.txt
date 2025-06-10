@@ -1,0 +1,45 @@
+transactions in the Company’s ecosystem and merchant’s annual sales volume, among other indicators. In addition, the Company considers external bureau information to enhance the model and the decision making process.
+The amortized cost of the loans receivable classified by the Company’s credit quality internal indicator was as follows:
+As of March 31, 2025 and December 31, 2024, renegotiations represented
+1.3
+% and
+1.4
+% of the loans receivable portfolio, respectively.
+13
+|
+MercadoLibre, Inc.
+Table of Contents
+MercadoLibre, Inc.
+Notes to unaudited interim condensed consolidated financial statements
+NOTE 6.
+GOODWILL AND INTANGIBLE ASSETS
+Goodwill and intangible assets
+The composition of goodwill and intangible assets is as follows:
+Goodwill
+The changes in the carrying amount of goodwill for the three-month period ended March 31, 2025 and the year ended December 31, 2024 are as follows:
+Intangible assets with definite useful life
+Intangible assets with definite useful life are comprised of naming rights, customer lists, non-compete and non-solicitation agreements, hubs network, acquired software licenses and other acquired intangible assets including developed technologies and trademarks. Aggregate amortization expense for intangible assets for the three-month periods ended March 31, 2025 and 2024 amounted to $
+2
+million and $
+1
+million, respectively.
+14
+|
+MercadoLibre, Inc.
+Table of Contents
+MercadoLibre, Inc.
+Notes to unaudited interim condensed consolidated financial statements
+The following table summarizes the remaining amortization of intangible assets (in millions) with definite useful life as of March 31, 2025:
+NOTE 7.
+INTANGIBLE ASSETS AT FAIR VALUE
+The following tables present the digital assets name, cost basis, fair value, and number of units for each significant digital asset holding as of March 31, 2025 and December 31, 2024:
+(1)
+Cost basis of the digital assets is net of $
+21
+million of impairment losses recognized prior to the adoption of ASU 2023-08.
+NOTE 8.
+SEGMENTS
+The Company manages the business country-by-country to understand and focus on the specific needs and opportunities in those markets. The Company’s chief executive officer is responsible for allocating resources and assessing performance and is therefore its chief operating decision maker (“CODM”). The Company’s segments include Brazil, Mexico, Argentina and other countries (which includes Chile, Colombia, Costa Rica, Ecuador, Peru, Uruguay and the U.S.).
+The CODM makes decisions considering all business lines within a country as whole, taking into account the synergies between the different lines in each of the countries’ integrated digital ecosystems.
+The CODM evaluates the performance of the Company’s operating segments based on their direct contribution.
+Direct contribution consists of net revenues and financial income from external customers less segment costs, which include expenses, such as shipping operation costs (including warehousing costs), carrier and

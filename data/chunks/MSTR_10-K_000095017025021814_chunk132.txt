@@ -1,0 +1,45 @@
+sold on a standalone basis and because pricing is highly variable, the Company establishes SSP of product licenses using a residual approach after first establishing the SSP of standard product support based on observable standalone sales with pricing within a narrow range as a percentage of the net license fee.
+We identified the evaluation of the SSP for standard product support as a critical audit matter. Especially subjective auditor judgment was required in evaluating the range of prices used to establish the SSP for standard product support which directly affects the amount of product license revenue recognized using a residual approach. Changes to the product support fee range could have a significant impact on the determination of the SSP for standard product support, impacting the amount and timing of revenues recognized.
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls over the Company’s revenue process, including controls over the methodology used to determine the standard product support SSP and controls over the Company’s validation of the underlying data used in the SSP analysis. We assessed the range of prices based on observable inputs the Company used to determine SSP of standard product support by comparing them to the selling prices of standalone renewals for standard product support and evaluating whether the standalone prices were sufficiently clustered within a narrow range.
+/s/ KPMG LLP
+We have served as the Company’s auditor since 2013.
+McLean, Virginia
+February 18, 2025
+72
+MICROSTRATEGY INCORPORATED
+CONSOLIDATED B
+ALANCE SHEETS
+(in thousands, except per share data)
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+73
+MICROSTRATEGY INCORPORATED
+CONSOLIDATED STATEM
+ENTS OF OPERATIONS
+(in thousands, except per share data)
+(1)
+Basic and fully diluted (loss) earnings per share for class A and class B common stock are the same.
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+74
+MICROSTRATEGY INCORPORATED
+CONSOLIDATED STATEMENTS
+OF COMPREHENSIVE (LOSS) INCOME
+(in thousands)
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+75
+MICROSTRATEGY INCORPORATED
+CONSOLIDATED STATEMENTS
+OF STOCKHOLDERS’ EQUITY (DEFICIT)
+(in thousands)
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+76
+MICROSTRATEGY INCORPORATED
+CONSOLIDATED STATEME
+NTS OF CASH FLOWS
+(in thousands)
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+77
+MICROSTRATEGY INCORPORATED
+NOTES TO CONSOLIDATED
+FINANCIAL STATEMENTS
+(1) Organization
+MicroStrategy Incorporated d/b/a Strategy (the “Company”) is the world’s first and largest Bitcoin Treasury Company. By using proceeds from equity and debt financings, as well as cash flows from its operations, the

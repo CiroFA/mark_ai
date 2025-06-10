@@ -1,0 +1,106 @@
+outstanding
+pertain to GE equity-based awards issued by GE in prior periods that were
+converted to GE Vernova equity-based awards as part of the Spin-Off. The conversion to GE Vernova awards was considered a
+modification of the original award. Incremental fair value recognized was not significant.
+(b)
+Vesting of PSUs associated with performance shares originally awarded and recognized by GE
+.
+2024 FORM 10-K
+77
+Share-based compensation expense is recognized within Cost of equipment, Cost of services, Selling, general, and administrative
+expenses, and Research and development expenses, as appropriate, in the Consolidated and Combined Statement of Income (Loss).
+(a) Amortized over a weighted average period of
+1.1
+years
+.
+(b) Represents data after the Spin-Off as employees participated in GE equity-based awards prior to separation.
+NOTE
+18
+.
+EARNINGS PER SHARE INFORMATION
+.
+On
+April 2, 2024
+, there were approximately
+274
+million
+shares of GE Vernova
+common stock outstanding. The computation of basic and diluted earnings (loss) per common share for all periods through
+April 1, 2024
+was calculated using
+274
+million
+common shares and is net of Net loss (income) attributable to noncontrolling interests. For periods prior to
+the Spin-Off, there were no dilutive equity instruments as there were no equity awards of GE Vernova outstanding prior to the Spin-Off. The
+dilutive effect of outstanding stock options, restricted stock units, and performance share units is reflected in the denominator for diluted
+EPS using the treasury stock method.
+(a) Diluted earnings (loss) per share excludes certain shares issuable under share-based compensation plans because the effect would
+have been antidilutive.
+NOTE
+19
+.
+OTHER INCOME (EXPENSE)
+–
+NET
+(a)
+2024 i
+ncludes a pre-tax gain of
+$
+964
+million
+related to the sale of a portion of Steam Power
+nuclear activities to EDF and a pre-tax gain
+of
+$
+66
+million
+related to the sale of a portion of our
+China XD Electric Co., Ltd.
+equity method investment in our Electrification segment.
+2023 includes a pre-tax gain of
+$
+90
+million
+related to the sale of an equity method investment at Financial Services. See Notes
+3
+,
+11
+,
+15
+,
+and
+16
+for further information.
+NOTE
+20
+.
+FINANCIAL INSTRUMENTS
+Loans and Other Receivables.
+The Company’s financial assets not carried at fair value primarily consist of loan receivables and
+noncurrent customer and other receivables. The net carrying amount was
+$
+318
+million
+and
+$
+328
+million
+as of
+December 31, 2024
+and
+2023, respectively. The estimated fair value was
+$
+315
+million
+and
+$
+324
+million
+as of
+December 31, 2024
+and 2023, respectively. All of these
+assets are considered to be Level 3.
+Derivatives and Hedging.
+Our primary objective in executing and holding derivatives is to reduce the earnings and cash flow volatility
+associated with fluctuations in foreign currency exchange rates and commodity prices over the terms of our customer contracts. These
+hedge contracts reduce, but do not entirely

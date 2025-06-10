@@ -1,0 +1,19 @@
+for the year ended December 31, 2024, contained in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 filed with the Securities and Exchange Commission (“SEC”) (the “Company’s 2024 10-K”). The Company has evaluated all subsequent events through the date these unaudited interim condensed consolidated financial statements were issued. The interim condensed consolidated statements of income, comprehensive income, equity and cash flows for the periods presented herein are not necessarily indicative of results expected for any future period. For a more detailed discussion of the Company’s significant accounting policies, see Note 2 to the financial statements in the Company’s 2024 10-K. During the three-month period ended March 31, 2025, there were no material updates made to the Company’s significant accounting policies.
+Use of estimates
+The preparation of these unaudited interim condensed consolidated financial statements in conformity with U.S. GAAP requires Management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Estimates are used for, but not limited to, accounting and disclosures for allowance for doubtful accounts and chargeback provisions, inventories valuation reserves, recoverability of goodwill, intangible assets with indefinite useful lives and deferred tax assets, impairment of cash and cash equivalents, short-term and long-term investments, impairment of long-lived assets, separation of lease and non lease components for aircraft leases, asset retirement obligation, compensation costs relating to the Company’s long term retention program, fair value of certain loans payable and other financial liabilities, fair value of loans receivable, fair value of derivative instruments, income taxes, contingencies and determination of the incremental borrowing rate at commencement date of lease operating agreements. Actual results could differ from those estimates.
+7
+|
+MercadoLibre, Inc.
+Table of Contents
+MercadoLibre, Inc.
+Notes to unaudited interim condensed consolidated financial statements
+Supplier finance programs
+The Company and certain financial institutions participate in a supplier finance program that enables certain of the Company’s suppliers, at their own election, to request the payment of their invoices to the financial institutions earlier than the terms stated in the Company’s payment policy.
+As of March 31, 2025 and December 31, 2024, the obligations outstanding that the Company has confirmed as valid to the financial institutions amounted to $
+444
+million and $
+425
+million, respectively.
+For further information related to Supplier Finance Programs please refer to Note 6 to the consolidated financial statements in the Company’s 2024 10-K.
+Revenue recognition
+Revenue recognition criteria for

@@ -1,0 +1,17 @@
+Return Index for The Nasdaq Stock Market (U.S. Companies) (the “Nasdaq Composite Index”) and (ii) the Nasdaq Computer Index.  The graph assumes the investment of $100.00 on December 31, 2019 in our class A common stock, the Nasdaq Composite Index, and the Nasdaq Computer Index, and assumes that any dividends on our class A common stock are reinvested. Measurement points are December 31, 2019, December 31, 2020, December 31, 2021, December 30, 2022, December 29, 2023, and December 31, 2024.
+45
+NOTE: Prepared by Zacks Investment Research, Inc. Used with permission. All rights reserved. Copyright 1980-2025.
+NOTE: Index Data: Copyright NASDAQ OMX, Inc. Used with permission. All rights reserved.
+Item 6. [
+Reserved]
+46
+Item 7. Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+Forward-Looking Information
+The following discussion and analysis provides information which our management believes is relevant to an assessment and understanding of our financial condition and results of operations. This discussion and analysis should be read together with our consolidated financial statements and related notes that are included elsewhere in this Annual Report on Form 10-K. In addition to historical financial information, this discussion and analysis contains forward-looking statements that are based upon our current expectations, beliefs, estimates and projections, and various assumptions, many of which, by their nature, are inherently uncertain and beyond our control. See the section of this Annual Report on Form 10-K entitled “Forward Looking Information and Risk Factor Summary.” Actual results and timing of selected events may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under “Part I. Item 1A. Risk Factors” or elsewhere in this Annual Report on Form 10-K.
+10-for-1 stock split
+On August 7, 2024, we completed a 10-for-1 stock split of our class A and class B common stock. See Note 2(a), Summary of Significant Accounting Policies – Basis of Presentation, to the Consolidated Financial Statements, for further information. As a result of the stock split, all applicable share and per share information presented within this “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” has been retroactively adjusted to reflect the stock split for all periods presented.
+Management’s Discussion and Analysis for the Year Ended December 31, 2022
+Management’s discussion and analysis of financial condition and results of operations for the year ended December 31, 2022, including comparison of our results for the years ended December 31, 2023 and 2022, is included in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2023.
+Business Overview
+Strategy is the world's first and largest Bitcoin Treasury Company. We are a publicly traded company that has adopted Bitcoin as our primary treasury

@@ -1,0 +1,17 @@
+comprehensive cybersecurity backed by artificial intelligence (“AI”) and automation. A key element of our strategy is to help our customers simplify their security architectures through consolidating disparate point products. We execute on this strategy by developing our capabilities and packaging our offerings into platforms which are able to cover many of our customers’ needs in the markets in which we operate. Our platformization strategy combines various products and services into a tightly integrated architecture and makes security faster, less complex, and more cost-effective. We focus on delivering value in four sectors of the cybersecurity industry:
+Network Security:
+•
+Our network security platform, designed to deliver complete zero trust solutions to our customers, includes our hardware and software ML-Powered Next-Generation Firewalls, Prisma AIRS
+TM
+, as well as a cloud-delivered Secure Access Service Edge (“SASE”). Prisma
+®
+Access, our Security Services Edge (“SSE”) solution, when combined with Prisma SD-WAN, provides a comprehensive single-vendor SASE offering that is used to secure remote workforces and securely enable the cloud-delivered branch. Prisma Access Browser extends SASE security and data protection to the end user device, giving workers complete device freedom to access business applications securely using a secure browser. Our network security platform also includes our cloud-delivered security services, such as Advanced Threat Prevention, Advanced WildFire
+®
+, Advanced URL Filtering, Advanced DNS Security, IoT/OT Security, GlobalProtect
+®
+, Enterprise Data Loss Prevention (“Enterprise DLP”), AI for IT Operations (“AIOps”), software as a service (“SaaS”) Security, and AI Access Security. Through these add-on security services, our customers are able to secure their content, applications, users, and devices across their entire organization. Prisma AIRS is a comprehensive AI security platform that protects customers’ AI ecosystem—AI apps, agents, models, and data—and aims to make it secure at every step. Strata Cloud Manager, our network security management solution, centrally manages our network security platform irrespective of form factor, location, or scale. Strata Cloud Manager includes Strata Copilot, which offers a natural language interface to simplify and strengthen network security, and Autonomous Digital Experience Monitoring.
+Security Operations and Cloud Security:
+Our AI-driven Cortex platform transforms end-to-end security operations with unified data, AI, and automation for more secure, faster, and cost effective outcomes. We have merged our industry-leading Security Operations and Cloud Security capabilities on a single comprehensive platform to provide centralized visibility, proactive protection, real-time prevention, AI-driven insights, and automated remediation across enterprise and cloud.
+•
+Security Operations.
+We deliver the next generation of security operations capabilities that unifies standalone

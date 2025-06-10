@@ -1,0 +1,17 @@
+a calculation of taxes payable under currently enacted tax laws in each jurisdiction and an analysis of temporary differences between the book and tax bases of our assets and liabilities, including various accruals, allowances, depreciation and amortization. The tax effect of these temporary differences and the estimated tax benefit from our tax net operating losses are reported as deferred tax assets and liabilities in our consolidated balance sheets. We also assess the likelihood that our net deferred tax assets will be realized from future taxable income. To the extent we believe that it is more likely than not that some portion or all of our deferred tax assets will not be realized, we establish a valuation allowance. As far we establish a valuation allowance or change the allowance in a period, we reflect the change with a corresponding increase or decrease in our “Income tax expense” line in our consolidated statements of income. Please refer to Note 2 – Summary of significant accounting policies and Note 15 – Income taxes to our audited consolidated financial statements for additional information regarding income tax.
+Results of operations
+Principal trends in results of operations
+The information include in this section sets forth, for the years presented, certain data from our consolidated statements of income. This information should be read in conjunction with our audited consolidated financial statements and the notes to those statements included elsewhere in this report.
+Net revenues and financial income
+We disaggregate revenues into four geographical reporting segments. Within each of our segments, the services we provide and the products we sell generally fall into two distinct revenue streams: “Commerce” and “Fintech”.
+Commerce revenues are mainly generated from:
+■
+marketplace fees that include final value fees and flat fees. Final value fees represent a percentage of the sale value that is charged to the seller once an item is successfully sold and flat fees represent a fixed charge for certain transactions below a certain merchandise value;
+■
+first party sales, which are generated when control of the good is transferred, upon delivery to our customers;
+■
+shipping fees, which are generated when a buyer elects to receive an item through our shipping service, net of the third-party carrier costs (when we act as an agent). When the Company acts as principal, revenues derived from shipping services are recognized upon delivery of the good to the customer, and presented on a gross basis. In addition, the Company generates storage fees, which are charged to the seller for the utilization of the Company’s fulfillment facilities;
+■
+ad sales fees due to advertising services provided to sellers, vendors, brands and others, through performance products (product ads and brand ads) and display formats, which are recognized based on the number of clicks and impressions, respectively;
+■
+classifieds fees due to offerings in vehicles, real estate

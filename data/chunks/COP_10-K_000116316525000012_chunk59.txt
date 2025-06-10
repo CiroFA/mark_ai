@@ -1,0 +1,18 @@
+assets or businesses. We may not be able to complete these transactions on favorable terms, on a timely basis, or at all. Even if we do complete such transactions, our cash flow from operations may be adversely impacted or otherwise the transactions may not result in the benefits anticipated due to various risks, including, but not limited to (i) the failure of the acquired assets or businesses to meet or exceed expected returns, including risk of impairment; (ii) the inability to dispose of noncore assets and businesses on satisfactory terms and conditions; and (iii) the discovery of unknown and unforeseen liabilities or other issues related to any acquisition for which contractual protections are inadequate or we lack insurance or indemnities, including environmental liabilities, or with regard to divested assets or businesses, claims by purchasers to whom we have provided contractual indemnification. In addition, we may face difficulties in integrating the operations, technologies, products and personnel of any acquired assets or businesses.
+Our technologies, systems and networks are subject to cybersecurity threats.
+Our business is faced with growing cybersecurity threats as we increasingly rely on digital technologies across our business. Cybersecurity risks to our business, including our suppliers, third-party service providers, contractors, joint venture partners and external business partners, include but are not limited to:
+•
+Unauthorized access to, or control of or disclosure of sensitive information about our business and our employees;
+•
+Compromise of our data or systems, including corruption, sabotage, encryption or acts that otherwise render our data or systems unusable (or those of third parties with whom we do business, including third-party cloud and information technology (IT) service providers);
+•
+Theft or manipulation of our proprietary information;
+•
+Ransom;
+•
+Extortion;
+•
+Threats to the security of our facilities and infrastructure; and
+•
+Cyber terrorism.
+In addition, we have exposure to cybersecurity risks where our data and proprietary information are collected, hosted, and/or processed by third-party cloud and service providers. In addition, many of our vendors, including suppliers that are closely integrated into our business, have been victims of cybersecurity attacks that have accessed and exfiltrated information from their systems. Our risks may be exacerbated by a delay or failure to detect a cybersecurity incident or understand the full extent of such incident notwithstanding our risk management processes and controls. We face risks associated with new and ever-increasing phishing techniques, hidden malware, as well as risks associated with electronic data proliferation and technology digitization. We also face increased risk with the increased sophistication of generative artificial intelligence capabilities, which may improve or expand the existing capabilities of cybercriminals described above in a manner we

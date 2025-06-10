@@ -1,0 +1,15 @@
+our checkout or link payment solution for merchants, and 4) QR code payment volume.
+(8)
+Number of all transactions paid for using Mercado Pago, excluding peer-to-peer transactions. As of January 1, 2024 we no longer include peer-to-peer transactions in our total payment transactions in accordance with the metric and understanding criteria used by our Mercado Pago team, which Management then employs to make strategic decisions. Consequently, total payment volume for the years ended December 31, 2023 and 2022, have been recast to exclude peer-to-per transactions.
+(9)
+Net interest margins after losses (“NIMAL”) represents the annualized ratio between the total credits revenues (excluding the results of sale of loans receivables) less funding costs and provision for doubtful accounts for the year (excluding the results of sale of loans receivables) and total average gross loans receivable for the year. Management uses NIMAL to monitor how effective our pricing is and managing the credit products relative to their risk and setting targets. Accordingly, Management is of the opinion that NIMAL provides useful information to investors and others related to our risk appetite through the different periods and shows how we effectively prices risk.
+60
+|
+MercadoLibre, Inc.
+Table of Contents
+Non-GAAP Measures of Financial Performance
+To supplement our audited consolidated financial statements presented in accordance with U.S. GAAP, we present earnings before interest income and other financial gains, interest expense and other financial losses, foreign currency losses, net, income tax expense, depreciation and amortization and equity in earnings of unconsolidated entity (“Adjusted EBITDA”), net debt, foreign exchange (“FX”) neutral measures and Adjusted free cash flow and Net increase (decrease) in available cash and investments as non-GAAP measures. Reconciliation of these non-GAAP financial measures to the most comparable U.S. GAAP financial measures can be found in the tables below.
+These non-GAAP measures should not be considered in isolation or as a substitute for measures of performance prepared in accordance with U.S. GAAP and may be different from non-GAAP measures used by other companies. In addition, these non-GAAP measures are not based on any comprehensive set of accounting rules or principles. Non-GAAP measures have limitations in that they do not reflect all of the amounts associated with our results of operations as determined in accordance with U.S. GAAP. These non-GAAP financial measures should only be used to evaluate our results of operations in conjunction with the most comparable U.S. GAAP financial measures.
+We believe that reconciliation of these non-GAAP measures to the most directly comparable GAAP measure provides investors an overall understanding of our current financial performance and its prospects for the future.
+Adjusted EBITDA
+Adjusted EBITDA is a non-GAAP financial measure that represents our net income, adjusted to eliminate

@@ -1,0 +1,36 @@
+for our various product lines each require different qualitative and quantitative assumptions and judgments to be made. Management's best estimate is developed after collaboration with actuarial, underwriting, claims, legal, and finance departments and culminates with the input of reserve committees. Each business unit reserve committee includes the participation of the relevant parties from actuarial, finance, claims, and unit senior management and has the responsibility for finalizing, recommending and approving the estimate to be used as management's best estimate. Reserves are further reviewed by Chubb's Chief Actuary and senior management. The objective of such a process is to determine a single estimate that we believe represents a better estimate than any other and which is viewed by management to be the best estimate of ultimate loss settlements. This estimate is based on a combination of exposure and experience-based actuarial methods (described below) and other considerations such as claims reviews, reinsurance recovery assumptions and/or input from other knowledgeable parties such as underwriting. Exposure-based methods are most commonly used on relatively immature origin years (i.e., the year in which the losses were incurred — “accident year” or “report year”), while experience-based methods provide a view based on the projection of loss experience that has emerged as of the valuation date. Greater reliance is placed upon experience-based methods as the pool of emerging loss experience grows and where it is deemed sufficiently credible and reliable as the basis for the estimate. In comparing the held reserve for any given origin year to the actuarial projections, judgment is required as to the credibility, uncertainty and inherent limitations of applying actuarial techniques to historical data to project future loss experience. Examples of factors that impact such judgments include, but are not limited to, the following:
+•
+nature and complexity of underlying coverage provided and net limits of exposure provided;
+•
+segmentation of data to provide sufficient homogeneity and credibility for loss projection methods;
+•
+extent of credible internal historical loss data and reliance upon industry information as required;
+•
+historical variability of actual loss emergence compared with expected loss emergence;
+•
+reported and projected loss trends;
+•
+extent of emerged loss experience relative to the remaining expected period of loss emergence;
+•
+rate monitor information for new and renewal business;
+•
+changes in claims han
+dling practice;
+•
+inflation;
+•
+the legal environment;
+•
+facts and circumstances of large claims;
+•
+terms and conditions of the contracts sold to our insured parties;
+•
+impact of applicable reinsurance recoveries; and
+•
+nature and extent of underlying assumptions.
+F-44
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+Actuarial staff within each of our business units

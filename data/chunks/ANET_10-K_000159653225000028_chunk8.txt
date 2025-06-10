@@ -1,0 +1,31 @@
+by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes
+☐
+No
+☒
+The aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant was approximately $
+90.2
+billion as of
+June 28, 2024 (the last business day of the registrant's most recently completed second fiscal quarter) b
+ased on the closing price of the registrant’s common stock on the New York Stock Exchange on such date. Shares held by persons who may be deemed affiliates have been excluded. This determination of affiliate status is not necessarily a conclusive determination for other purposes.
+On February 12, 2025,
+1,261,122,596
+shares of the registrant’s common stock were outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s definitive Proxy Statement relating to its 2025 Annual Meeting of Stockholders to be filed pursuant to Regulation 14A within 120 days after the registrant’s fiscal year end of December 31, 2024 are incorporated by reference into Part III of this Annual Report on Form 10-K.
+ARISTA NETWORKS, INC.
+TABLE OF CONTENTS
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K, including the sections entitled “Business,” “Risk Factors,” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which statements involve substantial risks and uncertainties. The words “believe,” “may,” “will,” “potentially,” "likely" “estimate,” “continue,” “anticipate,” “intend,” “could,” “would,” "should", “project,” “plan,” “predict,” “expect”, the negative of any of these words and similar expressions that convey uncertainty of future events or outcomes are intended to identify forward-looking statements.
+These forward-looking statements include, but are not limited to, statements concerning the following:
+•
+our ability to maintain an adequate rate of revenue growth and our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin and operating expenses;
+•
+our belief that the networking market is rapidly evolving and has a significant potential opportunity for growth;
+•
+our business plan and our ability to effectively manage our growth;
+•
+our ability to expand our leadership position in the networking industry and to develop new products

@@ -1,0 +1,47 @@
+of incorporation has been challenged in legal proceedings. If a
+court were to find the exclusive choice of forum provision contained in our certificate of incorporation to be inapplicable or unenforceable in
+an action, we may incur additional costs associated with resolving such action in other jurisdictions.
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+None.
+ITEM 1C.
+CYBERSECURITY
+.
+The description in this section addresses certain cybersecurity matters relating to GE Vernova following
+the Spin-Off.
+GE Vernova has processes for assessing, identifying, and managing cybersecurity risks that are
+built into our risk management program
+and IT functions
+. These processes are designed to help protect our information assets from internal and external cyber threats, protect
+employee information from unauthorized access or attack, and secure our networks, systems, and products. We have developed and
+implemented a cybersecurity framework intended to assess, identify, and manage risks from threats to the security of our information,
+systems, products, and networks using a risk-based approach.
+The framework is informed in part by industry standards such as the
+National Institute of Standards and Technology (NIST) Cybersecurity Framework and International Organization for Standardization 27001
+(ISO 27001) Framework. This approach does not imply that GE Vernova meets all technical standards, specifications, or requirements
+under the NIST Cybersecurity Framework or ISO 27001.
+2024 FORM 10-K
+32
+Our key cybersecurity processes include:
+•
+Risk-based controls for information systems and information on our network.
+We seek to maintain an IT infrastructure that
+implements physical, administrative, and technical controls that are calibrated based on risk and designed to protect the
+confidentiality, integrity, and availability of our information systems and information stored on the Company’s networks, including
+customer information, employee information, IP, and proprietary information.
+•
+Cybersecurity incident response plan and testing.
+We have a cybersecurity incident response plan and a dedicated team to
+respond to cybersecurity incidents. When a cybersecurity incident occurs or a vulnerability is identified, GE Vernova has cross-
+functional teams that are responsible for leading the initial assessment of priority and severity. External experts may also be
+engaged as appropriate. GE Vernova’s cybersecurity team assists in responding to incidents depending on severity levels and
+seeks to improve our cybersecurity incident management plan through periodic tabletops or simulations at the enterprise and
+business levels.
+•
+Training.
+We provide security awareness training to help employees understand their information protection and cybersecurity
+responsibilities. We also provide additional role-based training to applicable employees based on customer requirements,
+regulatory obligations, and industry risks.
+•
+Supplier risk assessments.
+We have implemented a
+third-party risk

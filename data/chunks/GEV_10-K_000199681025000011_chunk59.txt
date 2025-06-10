@@ -1,0 +1,26 @@
+or power plants, could
+pose broader disruptions and adversely affect our business even if such an attack does not involve our products, solutions, services, or
+systems. We have also observed an increase in third-party cyber incidents and ransomware attacks on our suppliers, service providers and
+software providers, and our efforts to mitigate adverse effects on us if this trend continues may not be successful in the future. The large
+number of suppliers that we work with requires significant effort for the initial and ongoing verification of their implementation of effective
+cybersecurity requirements. The increasing degree of interconnectedness and shared liability between us and our partners, suppliers, and
+customers also poses a risk to the security of our network as well as the larger ecosystem in which we operate. There can be no assurance
+that our various cybersecurity measures - including employee training, monitoring and testing, performing security reviews and requiring
+business partners with connections to our network to appropriately secure their IT systems, and maintaining protective systems and
+contingency plans - will be sufficient to prevent, detect, and limit the impact of cyber-related attacks, and we remain vulnerable to known or
+unknown threats. For example, we outsource certain cybersecurity functions and will continue to look for opportunities to utilize managed
+security service providers.
+In addition, we collaborate with GE Aerospace on certain cybersecurity functions and will continue to do so
+during a transition period following our Spin-Off. These
+arrangements will increase our overall cyber risk given the degree of our
+interconnectedness with the provider and the potential impact on our outsourced functions that could be caused by an attack on such a
+provider.
+In addition to existing risks from the integration of digital technologies into our business portfolio, the adoption of new technologies in the
+future may also increase our exposure to cybersecurity incidents and failures. An unknown vulnerability or compromise could potentially
+impact the security of our software or connected products and lead to the misuse or unintended use of our products, loss of our IP,
+misappropriation of sensitive, confidential or personal information, safety risks or unavailability of products.
+We also have access to sensitive, confidential or personal information or information in our businesses that is subject to privacy and
+security laws, regulations or customer-imposed controls. We have vulnerability to security incidents, theft, misplaced, lost or corrupted data,
+programming errors, employee errors or malfeasance (including misappropriation by departing employees) that could potentially lead to the
+material compromise of sensitive, confidential or personal information, improper use of our systems, software solutions or networks,
+unauthorized access, use, disclosure, modification or destruction of or denial of access to information,

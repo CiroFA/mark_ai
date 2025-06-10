@@ -1,0 +1,34 @@
+Federal Court, whereas on April 3, 2024, the Superior Court of Justice decided to analyze whether the matter under consideration is capable of becoming a binding precedent. In April 2024, the Company submitted a petition claiming that the case is fully capable of being judged as a binding precedent and the civil association Câmara Brasileira da Economia Digital submitted a petition as amicus curiae with the same arguments. On October 14, 2024, the Superior Court of Justice decided the matter under consideration will be judged as a binding precedent.
+Besides, in cases involving other taxpayers which also applied the convention signed between Brazil and Argentina to prevent double taxation (
+“
+Convention
+”
+) as amended by the 2017 protocol, the Superior Court of Justice decided the IRRF is due in the State of the source (i.e. Brazil), given that the Convention grants such rights regardless whether the services provided between the parties contain transfer of technology or not. Management’s opinion, based on the opinion of external legal counsel, is that the risk of losing the case is probable based on the technical merits of the Company’s tax position and the existence of adverse decisions issued by the Superior Court of Justice previously mentioned. For that reason, the Company has recorded a provision for the disputed amounts, which was
+$
+338
+million
+as of December 31, 2024, and which was recorded in non-current other liabilities in the consolidated balance sheets, net of the corresponding judicial deposits for
+$
+307
+million
+(which includes
+$
+60
+million
+of interest income).
+Considering that the Brazil-Argentina Treaty to prevent double taxation was amended in 2017, the Company started a new tax claim for the period from January 2019 onwards, and the court granted a preliminary injunction recognizing the right of collecting the withholding tax at a
+10
+% rate. As a result of this preliminary injunction, further judicial deposits of withholding tax will be based on a rate of
+10
+%. According to the current stage of both cases, the Company maintains the provision considering a
+15
+% rate.
+Interstate rate of ICMS-DIFAL on interstate sales
+Interstate rate of ICMS-DIFAL on interstate sales without Complementary Law
+During 2020 and 2021, the Brazilian subsidiaries, eBazar.com.br Ltda. and Mercado Pago Instituição de Pagamento Ltda., filed
+15
+writs of mandamus with the State Courts of Justice where these companies have sales branches in order to prevent Brazilian states from collecting the ICMS on interstate sales at a differential rate (“ICMS-DIFAL”) without the existence of a complementary law.
+Four
+of these cases were filed in 2020 (for the branches of Barueri and Louveira) and the other
+11
+were filed in 2021, after eBazar.com.br Ltda. opened a new branch in Extrema. On February 24, 2021, the Brazilian Supreme Court ruled on the controversy in a binding precedent, which declared the unconstitutionality of ICMS-DIFAL without the proper complementary law.

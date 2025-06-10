@@ -1,0 +1,40 @@
+Secured Notes. The Company accounted for these issuance costs as a reduction to the principal amount of the 2028 Secured Notes and amortized the issuance costs to interest expense over the contractual term of the 2028 Secured Notes at an effective interest rate of
+6.58
+%. As of December 31,
+2023, the net carrying value of the 2028 Secured Notes was classified as a long-term liability in the “Long-term debt, net” line item in the Company’s Consolidated Balance Sheet.
+The following is a summary of the 2028 Secured Notes as of December 31,
+2023 (in thousands):
+The fair value of the 2028 Secured Notes was determined using observable market data other than quoted prices, specifically the last traded price at the end of the reporting period of identical instruments in the over-the-counter market (Level 2).
+For the years ended December 31,
+2024, 2023, and 2022, interest expense related to the 2028 Secured Notes was as follows (in thousands):
+The Company paid $
+23.9
+million, $
+30.6
+million, and $
+30.6
+million, respectively, in interest related to the 2028 Secured Notes during the years ended December 31,
+2024, 2023, and 2022.
+Secured Term Loan
+On March 23, 2022, MacroStrategy, a wholly-owned subsidiary of the Company, entered into a Credit and Security Agreement (the “Credit and Security Agreement”) with Silvergate pursuant to which Silvergate issued the $
+205.0
+million 2025 Secured Term Loan to MacroStrategy.
+On March 24, 2023, MacroStrategy and Silvergate entered into a Prepayment, Waiver and Payoff to Credit and Security Agreement, pursuant to which MacroStrategy voluntarily prepaid Silvergate approximately $
+161.0
+million (the “Payoff Amount”), in full repayment, satisfaction, and discharge of the 2025 Secured Term Loan and all other obligations under the Credit and Security Agreement. Upon Silvergate’s receipt of the Payoff Amount on March 24, 2023, the Credit and Security Agreement was terminated and Silvergate released its security interest in all of MacroStrategy’s assets collateralizing the 2025 Secured Term Loan, including the bitcoin that was serving as collateral.
+The Payoff Amount consisted of a $
+159.9
+million payment to repay the full $
+205.0
+million outstanding principal amount of the 2025 Secured Term Loan as of March 24, 2023 and a $
+1.1
+million payment for accrued unpaid interest on the 2025 Secured Term Loan as of March 24, 2023. The Company also incurred $
+0.1
+million in third party fees in connection with the repayment of the 2025 Secured Term Loan. The net carrying value of the 2025 Secured Term Loan as of March 24, 2023, immediately prior to the loan’s repayment, was $
+204.7
+million, which resulted in a $
+44.7
+million gain on debt extinguishment recognized in the Company’s Consolidated Statement of Operations in the first quarter of 2023.
+96
+Prior to the prepayment, the 2025 Secured Term Loan was a senior secured obligation of MacroStrategy that bore interest at a floating rate equal to the
+Secured Overnight Financing Rate 30 Day

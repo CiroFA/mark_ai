@@ -1,0 +1,15 @@
+cash expense that we believe is not reflective of our general business performance, and for which the accounting requires management judgment. Consequently, our accounting for share-based compensation expense could vary significantly in comparison to other companies. The following is a reconciliation of our non-GAAP loss from operations to loss from operations, its most directly comparable GAAP measure, (in thousands) for the periods indicated:
+46
+Non-GAAP net loss attributable to common stockholders and non-GAAP diluted loss per common share
+Non-GAAP net loss attributable to common stockholders and non-GAAP diluted loss per common share each exclude the impact of (i) share-based compensation expense, (ii) interest expense arising from the amortization of debt issuance costs on our long-term debt, (iii) gains and losses on extinguishment of debt, if any, and (iv) related income taxes. We believe non-GAAP net loss attributable to common stockholders and non-GAAP diluted loss per common share offer management and investors insight as they exclude significant non-cash expenses, gains and losses on debt extinguishment, and their related income tax effects. The following are reconciliations of our non-GAAP net loss attributable to common stockholders and non-GAAP diluted loss per common share to net loss attributable to common stockholders and diluted loss per common share, respectively, their most directly comparable GAAP measures (in thousands, except per share data), for the periods indicated.
+(1)
+Income tax effects reflect the net tax effects of share-based compensation, which includes tax benefits and expenses on exercises of stock options and vesting of share-settled restricted stock units interest expense for amortization of debt issuance costs, and gains and losses on debt extinguishment, if any.
+(2)
+For reconciliation purposes, the non-GAAP diluted earnings (loss) per common share calculations use the same weighted average common shares outstanding as that used in the GAAP diluted earnings (loss) per common share calculations for the same period. For example, in periods of GAAP net loss, otherwise dilutive potential shares of common stock from our share-based compensation arrangements, Perpetual Strike Preferred Stock and Convertible Notes are excluded from the GAAP diluted loss per common share calculation as they would be antidilutive, and therefore are also excluded from the non-GAAP diluted earnings or loss per common share calculation.
+47
+Item 3. Quantitative and Qualitat
+ive Disclosures About Market Risk
+The following discussion about our market risk exposures involves forward-looking statements. Actual results could differ materially from those projected in the forward-looking statements.
+We are exposed to the impact of market price changes in bitcoin and foreign currency fluctuations.
+Market Price Risk of Bitcoin.
+We have used a significant portion of our cash, including cash generated from capital raising transactions, to acquire

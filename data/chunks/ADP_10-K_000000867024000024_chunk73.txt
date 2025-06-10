@@ -1,0 +1,17 @@
+amortized cost basis and its fair value.  If the Company does not intend to sell a security or it is not more likely than not that it will be required to sell the security before recovery, the unrealized loss is separated into an amount representing the credit loss, which is recognized in earnings, and the amount related to all other factors, which is recognized in accumulated other comprehensive income (loss).
+52
+Premiums and discounts are amortized or accreted over the life of the related available-for-sale security as an adjustment to yield using the effective-interest method.  Dividend and interest income are recognized when earned.
+G.
+Fair Value Measurements.
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date and is based upon the Company’s principal, or most advantageous, market for a specific asset or liability.
+U.S. GAAP provides for a three-level hierarchy of inputs to valuation techniques used to measure fair value, defined as follows:
+Level 1  Fair value is determined based upon quoted prices for identical assets or liabilities that are traded in active markets.
+Level 2  Fair value is determined based upon inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the asset or liability, including:
+· quoted prices for similar assets or liabilities in active markets;
+· quoted prices for identical or similar assets or liabilities in markets that are not active;
+· inputs other than quoted prices that are observable for the asset or liability; or
+· inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+Level 3  Fair value is determined based upon inputs that are unobservable and reflect the Company’s own assumptions about the assumptions that market participants would use in pricing the asset or liability based upon the best information available in the circumstances (e.g., internally derived assumptions surrounding the timing and amount of expected cash flows).
+The Company's corporate investments and funds held for clients (see Note 4) are measured at fair value on a recurring basis as described below. Over
+99
+% of the Company's available-for-sale securities included in Level 2 are valued based on prices obtained from an independent pricing service. To determine the fair value of the Company's Level 2 investments, the independent pricing service uses pricing models for each asset class that are consistent with what other market participants would use, including the market approach.  Inputs and assumptions to the pricing model used by the independent pricing service are derived from market observable sources including:  benchmark yields, reported trades, broker/dealer quotes, issuer spreads, benchmark securities, bids, offers and

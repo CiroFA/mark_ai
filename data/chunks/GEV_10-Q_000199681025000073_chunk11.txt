@@ -1,0 +1,124 @@
+$
+325
+million
+a
+nd
+$
+318
+million
+as of
+March 31, 2025
+and
+December 31, 2024
+, respectively. The estimated fair value was
+$
+321
+million
+and
+$
+315
+million
+as of
+March 31, 2025
+and
+December 31,
+2024
+,
+respectively. All of these assets are considered to be Level 3.
+Derivatives and Hedging.
+Our primary objective in executing and holding derivatives is to reduce the earnings and cash flow volatility
+associated with fluctuations in foreign currency exchange rates and commodity prices over the terms of our customer contracts. These
+hedge contracts reduce, but do not entirely eliminate, the impact of foreign currency exchange rate and commodity price movements. The
+Company does not enter into or hold derivative instruments for speculative trading purposes.
+We use foreign currency contracts to reduce the volatility of cash flows related to forecasted revenues, expenses, assets, and liabilities.
+These contracts are generally
+one
+to
+12
+months
+in duration but with maximum remaining maturities of up to
+15
+years
+as of
+March 31, 2025
+.
+Cash Flow Hedges.
+The total amount in AOCI related to cash flow hedges was a net
+$
+54
+million
+gain and a net
+$
+33
+million
+gain as of
+March 31, 2025
+and
+December 31, 2024
+, respectively, of which a net
+$
+26
+million
+gain and a net
+$
+22
+million
+gain, respectively, related to our
+share of AOCI recognized at our non-consolidated joint ventures. We expect to reclassify
+$
+38
+million
+of pre-tax net losses associated with
+designated cash flow hedges to earnings in the next 12 months, contemporaneously with the earnings effects of the related forecasted
+transactions. The Company reclassified net gains (losses) from AOCI into earnings of
+$(
+9
+) million
+and
+$(
+13
+) million
+for the
+three months
+ended
+March 31, 2025
+and
+2024
+,
+respectively. As of
+March 31, 2025
+, the maximum length of time over which we are hedging forecasted
+transactions was approximately
+10
+years
+.
+2025 1Q FORM 10-Q
+16
+Net Investment Hedges.
+We enter into foreign exchange forwards designated as the hedging instruments in net investment hedging
+relationships in order to mitigate the foreign currency risk attributable to the translation of the Company’s net investment in certain non
+USD
+-functional subsidiaries and equity method investees. The total amount in AOCI related to net investment hedges was a net gain of
+$
+31
+million
+and
+$
+33
+million
+as of
+March 31, 2025
+and
+December 31, 2024
+,
+respectively.
+The following table presents the gross fair values of our outstanding derivative instruments as of the dates indicated:
+GROSS FAIR VALUE OF OUTSTANDING DERIVATIVE INSTRUMENTS
+(a)
+The
+netting of derivative receivables and payables is permitted when a legally enforceable master netting agreement exists. Amounts
+include fair value adjustments related to our own and counterparty non-performance risk.
+(a)
+The
+netting of derivative receivables and payables is permitted when a legally enforceable master netting agreement exists. Amounts
+include fair value adjustments related to our own

@@ -1,0 +1,21 @@
+allowance for uncollectible reinsurance;
+•
+the valuation of our investment portfolio and assessment of valuation allowance for expected credit losses;
+•
+the valuation of deferred income taxes; and
+•
+the assessment of goodwill for impairment.
+We believe our accounting policies for these items are of critical importance to our Consolidated Financial Statements. The following discussion provides more information regarding the estimates and assumptions required to arrive at these amounts and should be read in conjunction with the sections entitled: Prior Period Development, Asbestos and Environmental (A&E), Reinsurance Recoverable on Ceded Reinsur
+ance, Investments, and Net Realized and Unrealized Gains (Losses).
+Unpaid losses and loss expenses
+As an insurance and reinsurance company, we are required by applicable laws and regulations and U.S. GAAP to establish loss and loss expense reserves for the estimated unpaid portion of the ultimate liability for losses and loss expenses under the terms of our policies and agreements with our insured and reinsured customers. With the exception of certain structured settlements, for which the timing and amount of future claim payments are reliably determinable, and certain reserves for unsettled claims, our loss reserves are not discounted for the time value of money. The net undiscounted reserves related to structured settlements and certain reserves for unsettled claims are immaterial.
+The following table presents a roll-forward of our unpaid losses and loss expenses:
+(1)
+Net of valuation allowance for uncollectible reinsurance.
+The estimate of the liabilities includes provisions for claims that have been reported but are unpaid at the balance sheet date (case reserves) and for obligations on claims that have been incurred but not reported (IBNR) at the balance sheet date. IBNR may also include provisions to account for the possibility that reported claims may settle for amounts that differ from the established case reserves. Loss reserves also include an estimate of expenses associated with processing and settling unpaid claims (loss expenses). Our loss reserves comprise approximately 77 percent casualty-related business, which typically encompasses long-tail risks, and
+other risks where a high degree of judgment is required.
+The process of establishing loss reserves for property and casualty claims can be complex and is subject to considerable uncertainty as it requires the use of informed estimates and judgments based on circumstances underlying the insured losses
+42
+Table of Contents
+known at the date of accrual. For example, the reserves established for high excess casualty claims, asbestos and environmental claims, claims from major catastrophic events, or for our various product lines each require different assumptions and judgments to be made. The effects of inflation create additional uncertainty, while climate change could, over time, add new uncertainties to the loss reserving process.
+Necessary

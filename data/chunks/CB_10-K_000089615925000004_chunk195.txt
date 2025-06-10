@@ -1,0 +1,42 @@
+and $
+82
+million actuarial loss experienced in 2024 and 2023, respectively, were principally driven by the change in discount rates. In addition, for the non-U.S. pension plans, the $
+54
+million actuarial gain and $
+29
+million actuarial loss experienced in 2024 and 2023, respectively, were principally driven by the change in discount rates.
+The accumulated benefit obligation for the pension benefit plans was $
+3.3
+billion and $
+3.5
+billion at December 31, 2024 and 2023, respectively. The accumulated benefit obligation is the present value of pension benefits earned as of the measurement date based on employee service and compensation prior to that date. For the non-U.S. pension plans, this differs from the pension (projected) benefit obligation in the table above in that the accumulated benefit obligation includes no assumptions regarding future compensation levels.
+F-95
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+Chubb’s funding policy is to contribute amounts that meet regulatory requirements plus additional amounts determined based on actuarial valuations, market conditions and other factors. All benefit plans satisfy minimum funding requirements of the Employee Retirement Income Security Act of 1974 (ERISA).
+The following table provides information on pension plans where the benefit obligation is in excess of plan assets at December 31, 2024 and 2023:
+For other postretirement benefit plans with an accumulated benefit obligation in excess of plan assets, the accumulated benefit obligation was $
+20
+million and $
+21
+million at December 31, 2024 and 2023, respectively. These plans have no plan assets.
+At December 31, 2024, we estimate that we will contribute $
+15
+million to the pension plans and $
+1
+million to the other postretirement benefits plan in 2025. The estimate is subject to change due to contribution decisions that are affected by various factors including our liquidity, market performance, and management discretion.
+At December 31, 2024, our estimated expected future benefit payments are as follows:
+F-96
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+The weighted-average assumptions used to determine the projected benefit obligation were as follows:
+(
+1)
+For the U.S. Pension Plans, benefit accruals were frozen as of December 31, 2019
+.
+The projected benefit cash flows were discounted using the corresponding spot rates derived from a yield curve, which resulted in a single discount rate that would produce the same liability at the respective measurement dates. The same process was applied to service cost cash flows to determine the discount rate associated with the service cost. In general, the discount rates for the non-U.S. plans were developed using a similar methodology by using country-specific yield curves.
+The components of net pension and other postretirement benefit costs (benefits) reflected in Net income and

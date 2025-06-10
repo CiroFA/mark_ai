@@ -1,0 +1,20 @@
+approximately $
+87
+million to the MRB fair value, recognized as a Market risk benefits loss.
+•
+We refreshed our partial withdrawal and annuitization assumptions to include an additional year of experience. The annuitization updates included treaty-based and age-based behavior.
+•
+We updated the lapse assumptions to include an additional year of experience and refined the lapse rates for policies with guaranteed values far in excess of their account values.
+•
+We updated the mortality assumptions to include an additional year of experience.
+For MRB, Chubb estimates fair value using an internal valuation model which includes a number of factors including interest rates, equity markets, credit risk, current account value, market volatility, expected annuitization rates and other policyholder behavior, and changes in policyholder mortality. All reinsurance treaties contain claim limits, which are also factored into the valuation model.
+F-74
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+(1)
+The weighted-average lapse and annuitization rates are determined by weighting each treaty's rates by the MRB contract's fair value.
+The most significant policyholder behavior assumptions include lapse rates for MRBs, and GLB annuitization rates. Assumptions regarding lapse rates and GLB annuitization rates differ by treaty, but the underlying methodologies to determine rates applied to each treaty are comparable.
+A lapse rate is the percentage of in-force policies surrendered in a given calendar year. All else equal, as lapse rates increase, ultimate claim payments will decrease. In general, the base lapse function assumes low lapse rates during the surrender charge period, followed by a "spike" lapse rate in the year immediately following the surrender charge period, and then reverting to an ultimate lapse rate, typically over a 2-year period. This base rate is adjusted downward for policies with more valuable guarantees (policies with guaranteed values far in excess of their account values). Partial withdrawals and the impact of older policyholders with tax-qualified contracts (due to required minimum distributions) are also reflected in our modeling.
+The GLB annuitization rate is the percentage of policies for which the policyholder will elect to annuitize using the guaranteed benefit provided under the GLB. All else equal, as GLB annuitization rates increase, ultimate claim payments will increase, subject to treaty claim limits. All GLB reinsurance treaties include claim limits to protect Chubb in the event that actual annuitization behavior is significantly higher than expected. In general, Chubb assumes that GLB annuitization rates will be higher for policies with more valuable guarantees (policies with guaranteed values far in excess of their account values). Chubb also assumes that GLB annuitization rates increase as policyholders get older. In addition, it is also assumed that GLB annuitization rates

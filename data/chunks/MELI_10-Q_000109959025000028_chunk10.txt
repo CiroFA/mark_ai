@@ -1,0 +1,35 @@
+million and $
+1,708
+million as of March 31, 2025 and December 31, 2024, respectively, which includes $
+20
+million and $
+30
+million related to unused agreed loan commitment on credit cards portfolio presented in Other liabilities of the interim condensed consolidated balance sheets as of March 31, 2025 and December 31, 2024, respectively.
+As of March 31, 2025 and December 31, 2024, the Company is exposed to off-balance sheet unused agreed loan commitment on credit cards portfolio which expose the Company to credit risks for $
+3,580
+million and $
+2,872
+million, respectively. For the three-month periods ended March 31, 2025 and 2024, the Company recognized in Provision for doubtful accounts a gain of $
+13
+million and a loss of less than $
+1
+million as expected credit losses, respectively.
+From time to time, the Company sells loans receivable related to its lending solution. In this regard, during 2024, the Company signed a contract with a third party to sell an amount up to $
+100
+million of its loans receivable, as part of its funding strategy. These loans were originated by its Mexican subsidiary and provided to local users. This transaction is accounted for as a true sale and the Company has a continuing involvement related to a servicing fee charged to the purchaser for collection services and regarding a beneficial interest retained by the Company over the transferred assets. Such involvements do not preclude the fact that this operation qualifies as a true sale because the purchaser has full control over the transferred assets. During the three-month period ended March 31, 2025 the Company sold $
+31
+million of loans receivable and recorded a gain of $
+1
+million related to the aforementioned contract. As of December 31, 2024, the Company sold $
+44
+million of loans receivable and no gains or losses were recorded in the three-month period ended March 31, 2024.
+The following tables summarize the allowance for doubtful accounts activity during the three-month periods ended March 31, 2025 and 2024:
+12
+|
+MercadoLibre, Inc.
+Table of Contents
+MercadoLibre, Inc.
+Notes to unaudited interim condensed consolidated financial statements
+(1)
+The Company writes off loans when customer balance becomes 360 days past due.
+The Company closely monitors credit quality for all loans receivable on a recurring basis to assess and manage its exposure to credit risk. To assess merchants and consumers seeking a loan under the lending solution, the Company uses, among other indicators, risk models internally developed, as a credit quality indicator to help predict the merchant’s and consumer’s ability to repay the principal balance and interest related to the credit. The risk model uses multiple variables as predictors of the merchant’s and consumer’s ability to repay the credit, including external and internal indicators. Internal indicators consider user behavior related to credit/payment history, and with lower weight in the risk models, the Company uses number of

@@ -1,0 +1,27 @@
+described in each applicable indenture governing the respective Convertible Notes.
+(10)
+The Company may redeem for cash all or a portion of the Convertible Notes at its option, on or after the stated dates, if the last reported sale price of the Company’s class A common stock has been at least
+130
+% of the conversion price of the respective Convertible Notes then in effect for at least
+20
+trading days (whether or not consecutive), including the trading day immediately preceding the date on which the Company provides a notice of redemption, during any
+30
+consecutive trading day period ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption. The redemption price will be equal to
+100
+% of the principal amount of the Convertible Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. See below “Conversions and Redemption of 2025 Convertible Notes” subsection for information regarding the Company’s notice of redemption of the 2025 Convertible Notes.
+(11)
+“Redemption Date” for the 2025 Convertible Notes is the date on which the Company redeemed all outstanding 2025 Convertible Notes. See discussion further below under “Conversions and Redemption of 2025 Convertible Notes” pertaining to redemption of the 2025 Convertible Notes. “Redemption Date” for the 2027 Convertible Notes is the date on which the Company will redeem all outstanding 2027 Convertible Notes, as discussed under
+Note 18, Subsequent Events
+, to the Consolidated Financial Statements.
+If the Company undergoes a “fundamental change,” as defined in the respective indentures governing the Convertible Notes prior to maturity, subject to certain conditions, holders may require the Company to repurchase for cash all or any portion of their respective Convertible Notes at a fundamental change repurchase price equal to
+100
+% of the principal amount of the respective Convertible Notes to be repurchased, plus any accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+The respective indentures governing the Convertible Notes contain customary terms and covenants, including that upon certain events of default occurring and continuing, either the Trustee or the holders of at least
+25
+% in principal amount outstanding of the respective Convertible Notes may declare
+100
+% of the principal of, and accrued and unpaid interest, if any, on, all the respective Convertible Notes to be due and payable.
+Although the Convertible Notes contain embedded conversion features, the Company accounts for the Convertible Notes in their entirety as a liability because the conversion features are indexed to the Company’s class A common stock and meet the criteria for classification in stockholders’ equity and therefore do not qualify for separate derivative accounting.
+Conversions and Redemption of 2025 Convertible Notes
+93
+On June 13, 2024, the Company announced that it delivered a

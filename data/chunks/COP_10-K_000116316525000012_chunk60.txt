@@ -1,0 +1,16 @@
+cannot predict at this time.
+Our increasing reliance on IT in our production, distribution and marketing systems may allow cybersecurity threats to disrupt our oil and gas operations, both domestically and abroad.
+If our data, IT, operational technology (OT), including industrial control and supervisory control and data acquisition (SCADA) systems were to be breached, damaged or disrupted due to a cybersecurity incident or cyber-attack (directly, indirectly through third parties or through the IT networks, servers, software, or infrastructure on which they rely), we could be subject to serious negative consequences. These consequences could include physical damage to production, distribution or storage assets; delay or prevention of delivery to markets; disruption or prevention of accurate accounting for production and settlement of transactions; negative impacts on public health, safety, the environment, economic security, or national security; financial impacts; business interruption; reputational damage; loss of employee, supplier, contractor, partner and/or public trust; reimbursement or other costs; increased compliance costs; regulatory investigations; litigation exposure and legal liability or regulatory fines; penalties or other external intervention.
+Although we have business continuity plans in place, our operations may be adversely affected by significant and widespread disruption to our systems and infrastructure that support our business. If we seek insurance against cybersecurity risks, it may be limited by the availability and increasing expense of sufficient coverage.
+For additional information regarding our cybersecurity risk management, strategy and governance,
+see Item 1C. Cybersecurity
+.
+Item 1B. Unresolved Staff Comments
+None.
+Item 1C. Cybersecurity
+Cybersecurity Risk Management and Strategy
+Cybersecurity Risk Assessment and Management
+We take a multilayered approach to cybersecurity risk management and strategy.
+Our IT/OT Security Program integrates administrative, technical, and physical controls against evolving cybersecurity threats, and includes enterprise IT and OT security architecture, cybersecurity operations, data privacy and governance, supply chain security, and governance, risk, and compliance.
+Additionally, it is designed to identify, assess, and manage cybersecurity risks and protect the confidentiality, integrity, and availability of our data, IT, and OT.
+Cybersecurity is a component of our IT/OT Security Program, which we periodically review and adapt to respond to new and evolving circumstances, cybersecurity threats and regulations. We evaluate security, privacy, and resiliency risks, including those related to cybersecurity, in our overall Enterprise Risk Management (ERM) program's annual risk assessment process. This annual risk assessment process takes into account broader risks based on likelihood, potential consequences, and mitigations, such as operational and economic impact; health, safety and

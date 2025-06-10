@@ -1,0 +1,30 @@
+class. We rely on a variety of independent market forecasts in developing the expected rate of return for each class of assets.
+During 2024, the actuarial gains related to the benefit obligations for international plans were primarily related to an increase in the discount rates. During 2023, the actuarial losses related to the benefit obligations for U.S. and international plans were primarily related to a decrease in the discount rates.
+The following tables summarize information related to the company's pension plans with projected and accumulated benefit obligations in excess of the fair value of the plans' assets:
+Included in accumulated other comprehensive income (loss) at December 31 were the following before-tax amounts that had not been recognized in net periodic benefit cost:
+*Includes settlement (gains) losses recognized in 2024 and 2023.
+The components of net periodic benefit cost of all defined benefit plans are presented in the following table:
+The components of net periodic benefit cost, other than the service cost component, are included in the “
+Other expenses
+” line item on our consolidated income statement.
+We recognized pension settlement losses of $
+6
+million in 2023 and $
+37
+million in 2022 as lump-sum benefit payments from certain U.S. and international pension plans exceeded the sum of service and interest costs for those plans and led to recognition of settlement losses.
+In determining net pension and other postretirement benefit costs, we amortize prior service costs on a straight-line basis over the average remaining service period of employees expected to receive benefits under the plan. For net actuarial gains and losses, we amortize
+10
+percent of the unamortized balance each year.
+We have multiple non-pension postretirement benefit plans for health and life insurance. The health care plans are contributory and subject to various cost sharing features, most with participant and company contributions adjusted annually; the life insurance plans are noncontributory. The measurement of the U.S. pre-65 retiree medical accumulated postretirement benefit obligation assumes a health care cost trend rate of
+6.5
+percent in 2025 that declines to
+5
+percent by 2032. The measurement of the U.S. post-65 retiree medical accumulated postretirement benefit obligation assumes a health care cost trend rate of
+4.6
+percent in 2025 that increases to
+5
+percent by 2030.
+Plan Assets
+We follow a policy of broadly diversifying pension plan assets across asset classes and individual holdings. As a result, our plan assets have no significant concentrations of credit risk. Asset classes that are considered appropriate include U.S. equities, non-U.S. equities, U.S. fixed income, non-U.S. fixed income, real estate and private equity investments. Plan fiduciaries may consider and add other asset classes to the investment program from time to time. The target allocations for plan assets, aggregated across U.S. and international plans, are
+26
+percent in

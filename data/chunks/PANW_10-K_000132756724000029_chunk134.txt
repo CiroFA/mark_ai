@@ -1,0 +1,18 @@
+July 31, 2024, our benefit from income taxes was $
+1.6
+billion, a net change of $
+1.7
+billion compared to a provision for income taxes of $
+126.6
+million for the year ended July 31, 2023, primarily due to the release of our valuation allowance on U.S. federal, U.S. states other than California, and United Kingdom (“U.K.”) deferred tax assets in fiscal 2024, partially offset by the deferred tax provision in our U.S. federal tax provision to recognize the indirect effect on basis differences relating to our global intangible low-taxed income in connection with the release of our valuation allowance in the U.K.
+For the year ended July 31, 2023, our provision for income taxes increased compared to the year ended July 31, 2022, primarily due to our profitability in fiscal 2023 and an increase in U.S. taxes driven by capitalization of research and development expenditure with no offsetting deferred benefit due to our valuation allowance.
+The following table presents the items accounting for the difference between income taxes computed at the federal statutory income tax rate and our provision for (benefit from) income taxes:
+- 91
+-
+Table of
+Contents
+The following table presents the components of our deferred tax assets and liabilities as of July 31, 2024 and 2023 (in millions):
+We regularly assess the need for a valuation allowance on our deferred tax assets. In making this assessment, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of available evidence, whether it is more likely than not that some or all the deferred tax assets will not be realized. The assessment requires significant judgment and is performed for each of the applicable jurisdictions. Based on our analysis of all positive and negative evidence during the year ended July 31, 2024, we concluded it is more likely than not that our U.S. federal, U.S. states other than California, and U.K. deferred tax assets will be realizable based on our recent profitability and continued forecasted income. In making these judgments, we considered our recent and expected ongoing profitability, which supports our conclusion of the realization of the deferred tax assets. We continue to maintain a valuation allowance for our California deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the “more likely than not” realization criterion. We expect future research and development tax credit generation in California to exceed our ability to use the existing tax credits.
+As a result of the valuation allowance release, during the year ended July 31, 2024, we recognized a deferred tax benefit of $
+3.4
+billion for the U.S. federal, U.S. states other than California, and U.K. deferred tax assets. Our U.S. federal and state deferred tax assets largely consist of capitalized research expenditures and accelerated recognition of deferred revenue for tax

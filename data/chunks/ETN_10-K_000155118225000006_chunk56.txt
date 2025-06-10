@@ -1,0 +1,27 @@
+presented in the tables to permit a reconciliation to total plan assets.
+49
+Table of Contents
+Pension Plans
+A summary of the fair value of pension plan assets at December 31, 2024 and 2023, is as follows:
+1
+These pension plan assets include private equity, private credit and private real estate funds that generally have redemption notice periods of six months or longer and are often not eligible for redemption until the underlying assets are liquidated or distributed. The Company has unfunded commitments to these funds of approximately $
+128
+million at December 31, 2024, which will be satisfied by a reallocation of pension plan assets.
+50
+Table of Contents
+1
+These pension plan assets include private equity, private credit and private real estate funds that generally have redemption notice periods of six months or longer, and are often not eligible for redemption until the underlying assets are liquidated or distributed. The Company has unfunded commitments to these funds of approximately $
+154
+million at
+December 31, 2023, which will be satisfied by a reallocation of pension plan assets.
+The fair value measurement of plan assets using significant unobservable inputs (Level 3) changed during 2024 and 2023 due to the following:
+51
+Table of Contents
+Other Postretirement Benefits Plans
+A summary of the fair value of other postretirement benefits plan assets at December 31, 2024 and 2023, is as follows:
+Valuation Methodologies
+Following is a description of the valuation methodologies used for pension and other postretirement benefits plan assets measured at fair value. There have been no changes in the methodologies used at December 31, 2024 and 2023.
+Common collective and other trusts -
+Valued at the net unit value of units held by the trust at year end. The unit value is determined by the total value of fund assets divided by the total number of units of the fund owned. The equity investments in collective trusts are predominantly in index funds for which the underlying securities are actively traded in public markets based upon readily measurable prices. The investments in other trusts are predominantly in exchange traded funds for which the underlying securities are actively traded in public markets based upon readily measurable prices. Common collective and other trusts measured at fair value using the net asset value per share practical expedient have not been categorized in the fair value hierarchy and are being presented in the tables above to permit a reconciliation of the fair value hierarchy to the total plan assets.
+Fixed income securities -
+These securities consist of publicly traded United States and non-United States fixed interest obligations (principally corporate and government bonds and debentures). The fair value of corporate and government debt securities is determined through third-party pricing models that consider various assumptions, including time value, yield curves, credit ratings, and current market prices. The Company

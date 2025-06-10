@@ -1,0 +1,27 @@
+use the specified trademarks granted to us under this agreement and may
+result in our having to negotiate a new or reinstated agreement with less favorable terms or cause us to lose our rights under the
+Trademark License Agreement, which would require us to change our corporate name and undergo significant rebranding efforts. These
+rebranding efforts may require significant resources and expenses and may affect our ability to attract and retain customers, all of which
+could have an adverse effect on our business results, cash flows, financial condition, or prospects. We own the “Vernova” trademark and
+have taken steps to protect it. We have filed trademark applications and have been issued registrations for this trademark around the world.
+We cannot be certain that, notwithstanding the legal protections, others do not or will not infringe or misappropriate our IP rights in this
+trademark.
+2024 FORM 10-K
+25
+Increased cybersecurity requirements, vulnerabilities, threats, and more sophisticated and targeted computer crimes pose a risk
+to our systems, networks, products, solutions, services, and data, as well as our reputation, which could adversely affect our
+business.
+We manufacture and sell products that rely upon software and computer systems to operate properly and process and store
+confidential information. Our products often are connected to, and reside within, our customers’ information technology (IT) infrastructures.
+In some jurisdictions, we are expected to design our products to include appropriate cybersecurity protections, and regulatory authorities
+review such protections when granting marketing authorizations. The measures we take to protect our products and IT systems from
+unauthorized access may not be effective, particularly because techniques used to obtain unauthorized access or to sabotage systems
+change frequently, increase in sophistication, and often are not recognized until launched against a target. These risks apply to our installed
+base of products, products we currently sell, new products we will introduce in the future, and older technology that we no longer sell or
+service but remains in use by customers.
+Increased global cybersecurity vulnerabilities, threats, computer viruses, and more sophisticated and targeted cyber-related attacks, such
+as ransomware, as well as cybersecurity failures resulting from human error and technological errors, pose a risk to our security. They also
+pose a risk to the security of our customers', partners', suppliers', and third-party service providers' infrastructure, products, systems, and
+networks and the confidentiality, availability, and integrity of our data and our customers’ data, as well as associated financial risks. As
+attackers become more capable (including sophisticated state or state-affiliated actors), and as critical infrastructure increasingly becomes
+digitized, the risks in this area continue to grow. A significant cyber-related attack, such as an attack on power grids

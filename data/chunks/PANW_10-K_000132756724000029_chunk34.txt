@@ -1,0 +1,28 @@
+specialized vendors, as well as larger vendors that may continue to acquire or bundle their products more effectively.
+- 10
+-
+Table of Contents
+The principal competitive factors in our market include:
+•
+product features, reliability, performance, and effectiveness;
+•
+product line breadth, diversity, and applicability;
+•
+product extensibility and ability to integrate with other technology infrastructures;
+•
+price and total cost of ownership;
+•
+adherence to industry standards and certifications;
+•
+strength of sales and marketing efforts; and
+•
+brand awareness and reputation.
+We believe we generally compete favorably with our competitors on the basis of these factors as a result of the features and performance of our portfolio, the ease of integration of our security solutions with technological infrastructures, and the relatively low total cost of ownership of our products. However, many of our competitors have substantially greater financial, technical, and other resources, greater name recognition, larger sales and marketing budgets, broader distribution, more diversified product lines, and larger and more mature intellectual property portfolios.
+SALES, MARKETING, SERVICES, AND SUPPORT
+Customers.
+Our end-customers are predominantly medium to large enterprises, service providers, and government entities. Our end-customers operate in a variety of industries, including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications. Our end-customers deploy our portfolio of solutions for a variety of security functions across a variety of deployment scenarios. Typical deployment scenarios include the enterprise network, the enterprise data center, cloud locations, and branch or remote locations. No single end-customer accounted for more than 10% of our total revenue in fiscal 2024, 2023, or 2022.
+Distribution.
+We primarily sell our products and subscription and support offerings to end-customers through our channel partners utilizing a two-tier, indirect fulfillment model whereby we sell our products and subscription and support offerings to our distributors, which, in turn, sell to our resellers, which then sell to our end-customers. Sales are generally subject to our standard, non-exclusive distributor agreement, which provides for an initial term of one year, one-year renewal terms, termination by us with 30 to 90 days written notice prior to the renewal date, and payment to us from the channel partner within 30 to 45 calendar days of the date we issue an invoice for such sales. For fiscal 2024, 59.0% of our total revenue was derived from sales to four distributors.
+We also sell our VM-Series virtual firewalls directly to end-customers through Amazon’s AWS Marketplace, Microsoft’s Azure Marketplace, and Alphabet’s Google Cloud Marketplace under a usage-based licensing model.
+Sales.
+Our sales organization is responsible for large-account acquisition and overall market

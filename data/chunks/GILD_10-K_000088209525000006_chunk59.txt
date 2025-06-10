@@ -1,0 +1,18 @@
+the probability of technical and regulatory success; the time and resources needed to complete the development and approval of SG in NSCLC; an appropriate discount rate based on the estimated weighted-average cost of capital for companies with profiles similar to our profile; and risks related to the viability of and potential alternative treatments in any future target markets. Our revised discounted cash flows for the March 31, 2024 fair value estimation primarily reflected the smaller addressable market that Trodelvy could serve among metastatic NSCLC patients and a delay in expected launch timing for second-line plus patients. Our revised discounted cash flows for the September 30, 2024 fair value estimation primarily reflected the removal of cash flows associated with second-line plus patients.
+There were no IPR&D impairment charges in the three months ended December 31, 2024. Therefore, total In-process research and development impairments on our Consolidated Statements of Operations were $4.2 billion in 2024, and the revised estimated fair value of the NSCLC IPR&D intangible asset was $1.8 billion as of December 31, 2024, which reflects Trodelvy’s opportunity as a combination therapy in first-line metastatic NSCLC patients supported by its ongoing Phase 3 clinical trial in this patient population.
+42
+In 2023, In-process research and development impairments included $50 million related to a partial impairment charge on our bulevirtide IPR&D intangible asset due to a change in assumptions primarily around probability and timing of regulatory approval.
+If future events result in adverse changes in the key assumptions used in determining fair value, including the timing of product launches, information on the competitive landscape of treatments in this indication, changes to the probability of technical or regulatory success, failure to obtain anticipated regulatory approval or discount rate, among others, additional impairments may be recorded and could be material to our financial statements.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses are recorded when incurred and consist primarily of personnel costs, facilities and overhead costs, and selling, marketing and advertising expenses, as well as other general and administrative costs related to finance, human resources, legal and other administrative activities.
+The following table summarizes our Selling, general and administrative expenses and period-over-period changes:
+Selling, general and administrative expenses were $6.1 billion and remained relatively flat in 2024, compared to 2023.
+Selling and marketing expenses increased mainly due to:
+•
+media spend across multiple therapeutic areas, including launch preparation activities for lenacapavir for the investigational use of HIV PrEP as well as for Livdelzi;
+•
+integration costs related to the acquisition of CymaBay; and
+•
+higher restructuring costs; partially offset by
+•
+a decrease in our

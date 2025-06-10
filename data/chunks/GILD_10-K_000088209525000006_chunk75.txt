@@ -1,0 +1,15 @@
+for which we have elected the fair value option, are recorded at fair market value, and unrealized gains and losses are included in Other (income) expense, net on our Consolidated Statements of Operations.
+Equity securities without readily determinable fair values are recorded using the measurement alternative of cost less impairment, if any, adjusted for observable price changes in orderly transactions for identical or similar investments of the same issuer. Any impairments or adjustments are recorded in Other (income) expense, net on our Consolidated Statements of Operations.
+For investments in entities over which we have significant influence but do not meet the requirements for consolidation and have not elected the fair value option, we use the equity method of accounting, with our share of the underlying income or loss of such entities reported in Other (income) expense, net on our Consolidated Statements of Operations.
+Our investments in equity securities are classified in Prepaid and other current assets or Other long-term assets on our Consolidated Balance Sheets, generally depending on marketability and whether the securities are subject to lock-up provisions. We regularly review our securities for indicators of impairment.
+61
+Property, Plant and Equipment
+Property, plant and equipment is stated at cost less accumulated depreciation and amortization. Depreciation and amortization are recognized using the straight-line method. Repairs and maintenance costs are expensed as incurred.
+Estimated useful lives in years are generally as follows:
+See “Impairment of Long-Lived Assets” for additional information.
+Leases
+We determine if an arrangement contains a lease at inception and classify each lease as operating or financing. Right-of-use assets and lease liabilities are recognized at the commencement date based on the present value of the lease payments over the lease term, which is the non-cancelable period stated in the contract adjusted for any options to extend or terminate when it is reasonably certain that we will exercise that option. Right-of-use assets are adjusted for prepaid lease payments, lease incentives and initial direct costs incurred. Operating lease expense for the minimum lease payments is recognized on a straight-line basis over the lease term.
+We account for lease and nonlease components in our lease agreements as a single lease component in determining lease assets and liabilities. In addition, we do not recognize the right-of-use assets and liabilities for leases with lease terms of one year or less.
+As most of our operating leases do not provide an implicit interest rate, we generally utilize a collateralized incremental borrowing rate, applied in a portfolio approach when relevant, based on the information available at the commencement date to determine the lease liability.
+Acquisitions, including Goodwill, Intangible Assets and Contingent Consideration
+We account for business combinations using the acquisition

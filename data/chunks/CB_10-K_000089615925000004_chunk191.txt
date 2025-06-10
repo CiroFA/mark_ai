@@ -1,0 +1,41 @@
+and performance stock units representing target awards and premium awards are issued when the awards are approved and are subject to forfeiture if applicable performance criteria are not met at the end of the
+3
+-year performance period. Chubb recognizes compensation cost for performance-based restricted stock when we conclude that it is probable that the performance conditions will be achieved.
+Under the Amended 2016 LTIP,
+32,900,000
+Common Shares are authorized to be issued (which includes all shares available for delivery since the establishment of the Chubb Limited 2016 Long-Term Incentive Plan in 2016). This is in addition to any shares subject to awards outstanding under the ACE Limited 2004 Long-Term Incentive Plan (2004 LTIP) immediately prior to the effective date of the Amended 2016 LTIP that are forfeited, expired or canceled after such effective date without delivery of shares (or which result in forfeiture of shares back to Chubb). At December 31, 2024, a total of
+10,072,965
+shares remain available for future issuance under the Amended 2016 LTIP, which includes shares forfeited, expired or canceled relating to grants under the 2004 LTIP.
+Under the Employee Stock Purchase Plan (ESPP),
+9,000,000
+shares are authorized to be issued. At December 31, 2024, a total of
+2,738,105
+shares remain available for issuance under the ESPP.
+Chubb generally issues Common Shares for the exercise of stock options, restricted stock, and purchases under the ESPP from Common Shares in treasury.
+The following table presents pre-tax and after-tax share-based compensation expense:
+(1)
+The windfall tax benefit recorded to Income tax expense in the Consolidated statement of operations was $
+42
+million, $
+19
+million, and $
+29
+million for the years ended December 31, 2024, 2023, and 2022, respectively.
+F-91
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+Unrecognized compensation expense related to the unvested portion of Chubb's employee share-based awards of restricted stock, restricted stock units, and stock options was $
+400
+million at December 31, 2024, and is expected to be recognized over a weighted-average period of approximately
+1.5
+years.
+Stock options
+Both incentive and non-qualified stock options are principally granted at an option price per share equal to the grant date fair value of Chubb's Common Shares. Stock options are generally granted with a
+3
+-year vesting period and a
+10
+-year term. Stock options vest in equal annual installments over the respective vesting period, which is also the requisite service period.
+Chubb's 2024 share-based compensation expense includes a portion of the cost related to the 2021 through 2024 stock option grants. Stock option fair value was estimated on the grant date using the Black-Scholes option-pricing model that uses the weighted-average assumptions noted below:
+The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of

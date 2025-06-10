@@ -1,0 +1,21 @@
+collect and transmit.
+ADP has implemented a cybersecurity program designed to assess, identify, and manage risks from cybersecurity threats. Our cybersecurity policies, processes, and standards are informed by industry practices and by industry frameworks and standards such as the National Institute of Standards and Technology (“NIST”) Cybersecurity Framework and the International Organization for Standardization information security standards, including those standards for which we do not have a certification, but we do exercise judgment in selecting applicable controls from such framework or standards. Our cybersecurity program includes:
+•
+Technical Safeguards.
+We have implemented a layered approach to defend against cybersecurity threats. We periodically evaluate technical controls through application security assessments, vulnerability management, penetration testing, and security audits.
+•
+Incident Management and Response.
+A global team monitors our key applications and systems 24/7/365 to detect, investigate and respond to anomalies and incidents. This team addresses reported or detected issues by following a defined incident lifecycle and uses an incident management system to record facts, impact and remedial actions taken. We have established a cybersecurity incident response plan and escalation process, outlining processes for responding to incidents from identification to mitigation and notifying members of senior leadership, the board of directors and external advisors, as appropriate. We test our plans and processes through simulation exercises, scenario planning and tabletop exercises, using findings to improve processes.
+•
+External and Internal Assessments.
+We periodically engage assessors, consultants, auditors, and other third parties to evaluate our technology, security, and related controls and benchmark against industry practices.
+We engage in both internal and external assurance and audit activities across the company multiple times a year including an annual third-party review of our overall cybersecurity program.
+•
+Threat Intelligence.
+We maintain affiliations with cybercrime task forces and other third-party monitoring organizations. In addition, we collaborate with professional security organizations, law enforcement and technology companies to proactively identify malicious activity.
+•
+Business Resiliency Program.
+We have established a global, integrated business resiliency program designed to manage the impacts of technological, environmental, process and health risks on service delivery. This program uses an integrated framework that lays out our mitigation, preparedness, response and recovery process.
+•
+Third-Party Risk Management.
+We maintain a third-party risk management process, designed to identify and manage risks associated with our vendors and other third parties, that includes conducting security assessments prior to engagement and periodically during the engagement. We also seek to include security and privacy

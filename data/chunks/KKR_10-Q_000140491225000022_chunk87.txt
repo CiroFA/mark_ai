@@ -1,0 +1,35 @@
+to ensure that the types of transactions entered into and the results obtained from those transactions are consistent with both Global Atlantic's risk management strategy and its policies and procedures.
+The restricted cash which was held in connection with open derivative transactions with exchange brokers was $
+93.7
+million and $
+135.7
+million as of March 31, 2025 and December 31, 2024, respectively.
+Global Atlantic also has embedded derivatives related to reinsurance contracts that are accounted for on a modified coinsurance and funds withheld basis. An embedded derivative exists because the arrangement exposes the reinsurer to third-party credit risk. These embedded derivatives are included in funds withheld receivable and payable at interest in the consolidated statements of financial condition.
+Credit Risk
+Global Atlantic may be exposed to credit-related losses in the event of nonperformance by its counterparties to derivatives. Generally, the current credit exposure of Global Atlantic’s derivatives is limited to the positive fair value of derivatives less any collateral received from the counterparty.
+34
+Table of Contents
+Global Atlantic manages the credit risk on its derivatives by entering into derivative transactions with highly rated financial institutions and other creditworthy counterparties and, where feasible, by trading through central clearing counterparties. Global Atlantic further manages its credit risk on derivatives via the use of master netting agreements, which require the daily posting of collateral by the party in a liability position. Counterparty credit exposure and collateral values are monitored regularly and measured against counterparty exposure limits. The provisions of derivative transactions may allow for the termination and settlement of a transaction if there is a downgrade to Global Atlantic’s financial strength ratings below a specified level.
+The fair value and notional value of the derivative assets and liabilities were as follows:
+(1)
+Excludes embedded derivatives. The fair value of these embedded derivatives related to assets was $
+101.8
+million and the fair value of these embedded derivatives related to liabilities was $
+3.6
+billion as of March 31, 2025.
+(2)
+Represents netting of derivative exposures covered by qualifying master netting agreements.
+35
+Table of Contents
+(1)
+Excludes embedded derivatives. The fair value of these embedded derivatives related to assets was $
+125.9
+million and the fair value of these embedded derivatives related to liabilities was $
+3.2
+billion as of December 31, 2024.
+(2)
+Represents netting of derivative exposures covered by qualifying master netting agreements.
+Derivatives Designated as Accounting Hedges
+Where Global Atlantic has derivative instruments that are designated and qualify as accounting hedges, these derivative instruments receive hedge accounting.
+Fair Value Hedges
+Global Atlantic has designated foreign exchange derivative contracts, including forwards and

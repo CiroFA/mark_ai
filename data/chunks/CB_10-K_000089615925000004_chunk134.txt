@@ -1,0 +1,20 @@
+discounts, related to these securities are recorded in Net investment income, net of investment management and custody fees, in the Consolidated statements of operations. Realized gains or losses on sales of investments are determined on a first-in, first-out basis.
+For mortgage-backed securities and any other holdings for which there is a prepayment risk, prepayment assumptions are evaluated and revised, as necessary. Any adjustments required due to the resultant change in effective yields and maturities are recognized prospectively. Prepayment fees or call premiums that are only payable when a security is called prior to its maturity are earned when received and reflected in Net investment income.
+Valuation allowance for fixed income securities
+Management evaluates expected credit losses (ECL) for AFS securities when fair value is below amortized cost. AFS securities are evaluated for potential credit loss on an individual security level, but the evaluation may use assumptions consistent with expectations of credit losses for a group of similar securities. If management has the intent to sell or will be required to sell the security before recovery, the entire impairment loss will be recorded through income to Net realized gains and losses. If management does not have the intent to sell or will not be required to sell the security before recovery, an allowance for credit losses is established and is recorded through income to Net realized gains and losses, and the non-credit loss portion is recorded through other comprehensive income.
+Examples of criteria that are collectively evaluated to determine if a credit loss has occurred include the following:
+•
+The extent to which the fair value is less than amortized cost;
+•
+Adverse conditions related to the security, industry, or geographic area;
+•
+Downgrades in the security's credit rating by a rating agency; and
+•
+Failure of the issuer to make scheduled principal or interest payments.
+AFS securities that meet any one of the criteria included above will be subject to a discounted cash flow analysis by comparing the present value of expected future cash flows with the amortized cost basis. Projected cash flows are driven primarily by assumptions regarding probability of default and the timing and amount of recoveries associated with defaults. Chubb developed the projected cash flows using market data, issuer-specific information, and credit ratings. In combination with contractual cash flows and the use of historical default and recovery data by Moody's Investors Service (Moody's) rating category, we generate expected cash flows using the average cumulative issuer-weighted global default rates by letter rating.
+F-13
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+If the present value of expected future cash flows is less than the amortized cost, a credit loss exists and an allowance for credit losses will be recognized. If the present value of

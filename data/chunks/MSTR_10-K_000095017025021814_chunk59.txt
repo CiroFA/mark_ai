@@ -1,0 +1,15 @@
+forced to sell our bitcoin at a significant loss, in order to meet our working capital requirements, our business and financial condition could be negatively impacted.
+If we or our third-party service providers experience a security breach or cyberattack and unauthorized parties obtain access to our bitcoin, or if our private keys are lost or destroyed, or other similar circumstances or events occur, we may lose some or all of our bitcoin and our financial condition and results of operations could be materially adversely affected
+Substantially all of the bitcoin we own is held in custody accounts at institutional-grade digital asset custodians.  Security breaches and cyberattacks are of particular concern with respect to our bitcoin. Bitcoin and other blockchain-based cryptocurrencies and the entities
+25
+that provide services to participants in the bitcoin ecosystem have been, and may in the future be, subject to security breaches, cyberattacks, or other malicious activities. For example, in October 2021 it was reported that hackers exploited a flaw in the account recovery process and stole from the accounts of at least 6,000 customers of the Coinbase exchange (our principal market for bitcoin), although the flaw was subsequently fixed and Coinbase reimbursed affected customers. Similarly, in November 2022, hackers exploited weaknesses in the security architecture of the FTX Trading digital asset exchange and reportedly stole over $400 million in digital assets from customers. A successful security breach or cyberattack could result in:
+•
+a partial or total loss of our bitcoin in a manner that may not be covered by insurance or the liability provisions of the custody agreements with the custodians who hold our bitcoin;
+•
+harm to our reputation and brand;
+•
+improper disclosure of data and violations of applicable data privacy and other laws; or
+•
+significant regulatory scrutiny, investigations, fines, penalties, and other legal, regulatory, contractual and financial exposure.
+Further, any actual or perceived data security breach or cybersecurity attack directed at other companies with digital assets or companies that operate digital asset networks, regardless of whether we are directly impacted, could lead to a general loss of confidence in the broader Bitcoin blockchain ecosystem or in the use of the Bitcoin network to conduct financial transactions, which could negatively impact us.
+Attacks upon systems across a variety of industries, including industries related to bitcoin, are increasing in frequency, persistence, and sophistication, and, in many cases, are being conducted by sophisticated, well-funded and organized groups and individuals, including state actors. The techniques used to obtain unauthorized, improper or illegal access to systems and information (including personal data and digital assets), disable or degrade services, or sabotage systems are constantly evolving, may be difficult to detect quickly, and often are not recognized or

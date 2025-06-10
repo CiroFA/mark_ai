@@ -1,0 +1,27 @@
+obligations include commodity futures prices and inflation rates. Purchases of LNG under these commitments are expected to be offset in the same or approximately same periods by cash received from the related sales transactions. Total payments under these agreements were $
+24
+million in 2024, $
+26
+million in 2023 and $
+26
+million in 2022.
+Note 11—Derivative and Financial Instruments
+We use futures, forwards, swaps and options in various markets to meet our customer needs, capture market opportunities and manage foreign exchange currency risk.
+Commodity Derivative Instruments
+Our commodity business primarily consists of natural gas, crude oil, bitumen, NGLs, LNG and power.
+Commodity derivative instruments are held at fair value on our consolidated balance sheet. Where these balances have the right of setoff, they are presented on a net basis. Related cash flows are recorded as operating activities on our consolidated statement of cash flows. On our consolidated income statement, gains and losses are recognized either on a gross basis if directly related to our physical business or a net basis if held for trading. Gains and losses related to contracts that meet and are designated with the NPNS exception are recognized upon settlement. We generally apply this exception to eligible crude contracts and certain gas contracts. We do not apply hedge accounting for our commodity derivatives.
+The following table presents the gross fair values of our commodity derivatives, excluding collateral, on our consolidated balance sheet:
+The gains (losses) from commodity derivatives included in our consolidated income statement are presented in the following table:
+The table below summarizes our net exposures resulting from outstanding commodity derivative contracts:
+Interest Rate Derivative Instruments
+In 2023, PALNG executed interest rate swaps that had the effect of converting
+60
+percent of the projected term loans outstanding to finance the cost of development and construction of Phase 1 from floating to fixed rate. These swaps were designated and qualified for hedge accounting under ASC Topic 815, “Derivatives and Hedging,” as a cash flow hedge with changes in the fair value of the designated hedging instruments reported as a component of other comprehensive income and to be reclassified into earnings in the same periods that the hedged transactions will affect earnings.
+In 2024, PALNG de-designated a portion of the interest rate swaps as a cash flow hedge. Changes in the fair value of the de-designated hedging instruments are reported in the "Equity in earnings of affiliates" line on our consolidated income statement.
+For the years ended December 31, 2024, and 2023, we recognized an unrealized loss of $
+56
+million and an unrealized gain of $
+78
+million in other comprehensive income, respectively, related to the hedge accounted swaps. For the year ended December 31, 2024, we recognized $
+35
+million in "Equity in earnings of affiliates" related to the de-

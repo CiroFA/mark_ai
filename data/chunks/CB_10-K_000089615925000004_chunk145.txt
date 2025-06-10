@@ -1,0 +1,37 @@
+assets in the Consolidated balance sheets. At December 31, 2024, property and equipment totaled $
+3.1
+billion, consisting principally of capitalized software costs of $
+1.9
+billion incurred to develop or obtain computer software for internal use and company-owned facilities of $
+431
+million. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. For capitalized software, the estimated useful life is generally
+three years
+to
+five years
+(for security and analytics systems), but can be as long as
+15
+years (for systems of record such as our general ledger and processing systems such as our policy administration systems). For company-owned facilities the estimated useful life is
+40
+years. At December 31, 2023, property and equipment totaled $
+2.9
+billion.
+F-19
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+q)
+Foreign currency remeasurement and translation
+The functional currency for each of our foreign operations is generally the currency of the local operating environment. Transactions in currencies other than a foreign operation's functional currency are remeasured into the functional currency, and the resulting foreign exchange gains and losses are reflected in Net realized gains (losses) in the Consolidated statements of operations. Functional currency assets and liabilities are translated into the reporting currency, U.S. dollars, using period end exchange rates and the related translation adjustments are recorded as a separate component of AOCI in Shareholders' equity. Functional statement of operations amounts expressed in functional currencies are translated using average exchange rates.
+r)
+Administrative expenses
+Administrative expenses generally include all operating costs other than policy acquisition costs. The North America Commercial P&C Insurance segment manages and uses an in-house third-party claims administrator, ESIS Inc. (ESIS). ESIS performs claims management and risk control services for domestic and international organizations that self-insure P&C exposures as well as internal P&C exposures. The net operating income (loss) of ESIS is included within Administrative expenses in the Consolidated statements of operations and was $
+7
+million, $(
+2
+) million, and $
+12
+million for the years ended December 31, 2024, 2023, and 2022, respectively.
+s)
+Asset management and performance fee revenue and expenses
+Huatai's asset management companies recognize revenue and expenses from the management of third-party assets which are unrelated to Chubb's core insurance operations. These revenues include management fees, which are recognized in the period in which the services are performed, and asset performance fees, which are recognized to the extent it is probable that a significant reversal will not occur. These fees and expenses are included in Other (income) expense on the Consolidated statements of operations. Refer to Note 18 for

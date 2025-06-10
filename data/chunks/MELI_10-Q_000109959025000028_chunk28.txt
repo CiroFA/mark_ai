@@ -1,0 +1,29 @@
+no significant changes in our critical accounting policies, Management estimates or accounting policies since the year ended December 31, 2024 and disclosed in the Company’s 2024 10-K under the heading “Critical Accounting Policies and Estimates.”
+Results of operations for the three-month period ended March 31, 2025 compared to the three-month period ended March 31, 2024
+The selected financial data for the three-month periods ended March 31, 2025 and 2024 discussed herein is derived from our unaudited interim condensed consolidated financial statements included in Item 1 of Part I of this report. The results of operations for the three-month period ended March 31, 2025, are not necessarily indicative of the results that may be expected for the full year ending December 31, 2025 or for any other period.
+Principal trends in results of operations
+Net revenues and financial income
+We disaggregate revenues into four geographical reporting segments. Within each of our segments, the services we provide and the products we sell generally fall into two distinct revenue streams: “Commerce” and “Fintech.”
+Commerce revenues are mainly generated from:
+■
+marketplace fees that include final value fees and flat fees. Final value fees represent a percentage of the sale value that is charged to the seller once an item is successfully sold and flat fees represent a fixed charge for certain transactions below a certain merchandise value;
+■
+first party sales, which are generated when control of the good is transferred, upon delivery to our customers;
+■
+shipping fees, which are generated when an item is delivered through our shipping service, net of the third-party carrier costs (when we act as an agent). When the Company acts as principal, revenues derived from shipping services are recognized upon delivery of the good to the customer, and presented on a gross basis. In addition, the Company generates storage fees, which are charged to the seller for the utilization of the Company’s fulfillment facilities;
+35
+|
+MercadoLibre, Inc.
+Table of Contents
+■
+ad sales fees due to advertising services provided to sellers, vendors, brands and others, through product searches (product ads and brand ads) and display formats (including video ads and display programmatic), which are recognized based on the number of clicks and impressions, respectively;
+■
+classifieds fees due to offerings in vehicles, real estate and services, which are charged to sellers who opt to give their listings greater exposure throughout our websites; and
+■
+fees from other ancillary businesses.
+Fintech revenues and financial income are attributable to:
+■
+commissions representing a percentage of the payment volume processed that are charged to sellers in connection with off-Marketplace platform transactions;
+■
+commissions from additional fees we charge when a buyer elects to pay in installments through our Mercado Pago platform, for transactions that occur either on or off our Marketplace platform;
+■

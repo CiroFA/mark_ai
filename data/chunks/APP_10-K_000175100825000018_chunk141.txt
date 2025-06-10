@@ -1,0 +1,52 @@
+Employee Stock Purchase Plan
+The ESPP permits participants to purchase shares of the Company’s Class A common stock through contributions of up to
+15
+% of their eligible compensation. The ESPP provides for consecutive, overlapping
+24-month
+offering periods, during which the contributed amount by the participant will be used to purchase shares of the Company’s Class A common stock at the end of each
+6-month
+purchase period with the purchase price of the shares being
+85
+% of the lower of the fair market value of the Company’s Class A common stock on the first day of an offering period or on the exercise date. The ESPP has an automatic reset feature, whereby the offering period resets if the fair value of the Company’s common stock on a purchase date is less than that on the original offering date. No participant may purchase, in any one purchase period, more than
+590
+shares of Class A common stock, or
+3,500
+shares of Class A common stock for offering periods commencing on or after May 20, 2023. Participants may end their participation at any time during an offering and will be paid their accrued contributions that have not yet been used to purchase shares. Participation ends automatically upon termination of employment with the Company.
+A total of
+7,800,000
+shares of the Company’s Class A common stock were initially reserved for issuance under the ESPP. The number of shares available for issuance under the ESPP also include an annual increase of shares, equal to the least of: (a)
+7,800,000
+shares, (b) one percent (
+1
+%) of the outstanding shares of all classes of the Company’s common stock as of the last day of the immediately preceding fiscal year, or (c) such other amount as the Company’s board of directors may determine. As of December 31, 2024, there were
+17,582,902
+shares available for future issuance under the ESPP.
+RSUs
+A summary of the RSU activities for the year ended December 31, 2024 is as follows:
+The weighted-average grant-date fair value of RSUs granted during the years ended December 31, 2023 and 2022 was $
+25.11
+and $
+23.08
+, respectively. The total fair value of RSUs vested as of the vesting dates during the years ended December 31, 2024, 2023, and 2022 was $
+844.2
+million, $
+403.1
+million, and $
+88.0
+million, respectively.
+PSUs
+In March 2023, the Company granted
+6,902,000
+PSUs under the 2021 Plan to each of Adam Foroughi, its CEO and Chairperson, and Vasily Shikin, its CTO. In April 2023, the Company granted an additional
+3,451,000
+PSUs to certain non-executive employees under the same plan. These PSUs, divided into
+five
+tranches, vest upon achieving stock price targets ranging from $
+36.00
+to $
+79.00
+, based on the minimum closing price of the Company’s Class A common stock over any
+30
+consecutive trading days during a
+five-year
+performance period from the respective grant date, subject to continued employment through the applicable vesting date. In the event of a change in control, unvested PSUs may vest a pro-rata amount if the

@@ -1,0 +1,45 @@
+in the fair value accounting guidance. The guidance defines fair value as the price to sell an asset or transfer a liability (an exit price) in an orderly transaction between market participants and establishes a three-level valuation hierarchy based on the reliability of the inputs. The fair value hierarchy gives the highest priority to quoted prices in active markets and the lowest priority to unobservable data.
+12
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The three levels of the hierarchy are as follows:
+•
+Level 1 – Unadjusted quoted prices for identical assets or liabilities in active markets;
+•
+Level 2 – Includes, among other items, inputs other than quoted prices that are observable for the asset or liability such as
+interest rates and yield curves, quoted prices for similar assets and liabilities in active markets, and quoted prices for identical or similar assets and liabilities in markets that are not active; and
+•
+Level 3 – Inputs that are unobservable and reflect management’s judgments about assumptions that market participants
+would use in pricing an asset or liability.
+We categorize financial instruments within the valuation hierarchy at the balance sheet date based upon the lowest level of inputs that are significant to the fair value measurement.
+We use pricing services to obtain fair value measurements for the majority of our investment securities. Based on management’s understanding of the methodologies used, these pricing services only produce an estimate of fair value if there is observable market information that would allow them to make a fair value estimate. Based on our understanding of the market inputs used by the pricing services, all applicable investments have been valued in accordance with U.S. GAAP. We do not adjust prices obtained from pricing services. Refer to Note 4 a) of our 2024 Form 10-K for further information on the valuation and leveling of assets and liabilities measured at fair value.
+Financial instruments measured at fair value on a recurring basis, by valuation hierarchy
+(1)
+Excluded from the table above is a fund of $
+5,031
+million, measured using NAV as a practical expedient.
+(2)
+Excluded from the table above are other investments of $
+1,329
+million, principally policy loans, measured using NAV as a practical expedient.
+(3)
+Excluded from the table above are private equities of $
+15,506
+million, measured using NAV as a practical expedient.
+(4)
+Refer to Note 10 for additional information on Market risk benefits.
+13
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+(1)
+Excluded from the table above is a fund of $
+4,978
+million, measured using NAV as a practical expedient.
+(2)
+Excluded from the table above are other investments of $
+1,241
+million, principally policy loans, measured using NAV as a practical expedient.
+(3)
+Excluded from the table above are private

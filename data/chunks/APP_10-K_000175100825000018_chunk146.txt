@@ -1,0 +1,39 @@
+a reasonable allocation methodology, which are generally related to sales and marketing activities and general and administrative overhead. Revenue and expenses exclude transactions between the Company's operating segments.
+The CODM uses segment Adjusted EBITDA to allocate resources during the annual budgeting and forecasting process. The CODM considers segment Adjusted EBITDA when making decisions on operating and capital resource allocation. Additionally, the CODM uses segment Adjusted EBITDA to evaluate operating strategy and assess segment performance by comparing the results of each segment.
+The CODM does not evaluate operating segments using asset information, and, accordingly, the Company does not report asset information by segment.
+88
+Table
+of
+Contents
+The following tables provide information about the Company's reportable segments and a reconciliation of the total segment Adjusted EBITDA to consolidated income (loss) before income taxes (in thousands):
+1
+In connection with the MoPub acquisition, the Company incurred certain one-time, non-recoupable costs to incentivize publishers to migrate to its MAX mediation solution. As these costs were not historically significant nor expected to be in the future, the Company excluded their impact from the Advertising Adjusted EBITDA.
+2
+Other segment items for the Advertising reportable segment include professional services costs, facilities costs, advertising costs, software costs, and other individually insignificant costs.
+3
+Other segment items for the Apps reportable segment include personnel related expenses, data center costs, facilities costs, software costs, and other individually insignificant costs.
+The following table presents long-lived assets by geographic area which consist of property and equipment, net (in thousands):
+For information regarding revenue disaggregated by geography, see Note 2 - Summary of Significant Accounting Policies
+.
+89
+Table
+of
+Contents
+15.
+Restructuring
+For the year ended December 31, 2024, the Company implemented certain workforce reduction measures, resulting in
+restructuring charges
+of $
+20.2
+million for the Advertising segment and $
+5.7
+million for the Apps segment. These charges consisted primarily of one-time termination benefits. As of December 31, 2024, $
+6.9
+million remained unpaid and was included in accrued and other current liabilities in the Company's consolidated balance sheets.
+For the year ended December 31, 2022, the Company implemented certain workforce reduction measures and recorded a total restructuring charge of $
+10.8
+million comprising primarily of one-time termination benefits, which had been paid in full prior to 2024.
+16.
+Related Party Transactions
+Stock Repurchase Transactions
+In February 2024, the Company entered into an underwriting agreement (the “Underwriting Agreement”) with KKR Denali, and BofA Securities, Inc., acting for themselves and as representative of other underwriters (collectively, the “Underwriters”), in connection

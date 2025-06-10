@@ -1,0 +1,24 @@
+timing and amount of capital expenditures and share repurchases; the effects of worldwide economic and geopolitical conditions, including but not limited to hostilities in Israel and the surrounding regions, inflation, interest rate levels, public or administration policies, trade regulations, trade policy, growth rates and other conditions, on our operating and financial results and performance; the manufacture, delivery and cost of certain of our products; the effects of litigation or regulatory developments involving us or affecting our industry; and other statements regarding our future operations, financial condition and prospects, and business strategies. These forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties, which could cause our actual results to differ materially from those anticipated or implied by any forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Quarterly Report on Form 10-Q and, in particular, the risks discussed under the caption “Risk Factors” in Part II, Item 1A of this report and those discussed in other documents we file with the Securities and Exchange Commission (“SEC”) from time to time. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+Our Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is organized as follows:
+•
+Overview.
+A discussion of our business and overall analysis of financial and other highlights in order to provide context for the remainder of MD&A.
+•
+Key Financial Metrics.
+A summary of our U.S. GAAP and non-GAAP key financial metrics, which management monitors to evaluate our performance.
+•
+Results of Operations.
+A discussion of the nature and trends in our financial results and an analysis of our financial results comparing the three and nine months ended April 30, 2025 to the three and nine months ended April 30, 2024.
+•
+Liquidity and Capital Resources.
+An analysis of changes on our balance sheets and cash flows, and a discussion of our financial condition and our ability to meet cash needs.
+•
+Critical Accounting Estimates.
+A discussion of our accounting policies that require critical estimates, assumptions, and judgments.
+•
+Recent Accounting Pronouncements.
+A discussion of expected impacts of impending accounting changes on financial information to be reported in the future.
+- 24 -
+Table of Contents
+Overview
+We empower enterprises, organizations, service providers, and government entities to protect themselves against today’s most sophisticated cyber threats. Our cybersecurity platforms and services help secure enterprise users, networks, clouds, and endpoints by delivering

@@ -1,0 +1,16 @@
+Accounting Standards Board (“FASB”) issued Accounting Standards Update No. 2023-08,
+Intangibles—Goodwill and Other—Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of Crypto Assets
+(“ASU 2023-08”). ASU 2023-08 requires in-scope crypto assets (including the Company's bitcoin holdings) to be measured at fair value in the statement of financial position, with gains and losses from changes in the fair value of such crypto assets recognized in net income each reporting period. ASU 2023-08 also requires certain interim and annual disclosures for crypto assets within the scope of the standard. The Company will adopt this guidance effective January 1, 2025 on a prospective basis, with a cumulative-effect adjustment to the opening balance of retained earnings. Prior periods will not be restated. The Company is in the process of implementing changes to internal controls over financial reporting to allow the Company to timely compile the information needed to account for crypto assets under this new guidance.
+The Company expects the adoption of ASU 2023-08 will have a material impact on its consolidated balance sheets, statements of operations, statements of cash flows and disclosures. Although the Company will continue to initially record its bitcoin purchases at cost, upon adopting ASU 2023-08, any subsequent increases or decreases in fair value will be recognized as incurred in the Company's Consolidated Statements of Operations, and the fair value of the Company’s bitcoin will be reflected within the Company's Consolidated Balance Sheets each reporting period-end. Upon adopting ASU 2023-08, the Company will no longer account for its bitcoin under a cost-less-impairment accounting model and will no longer establish a deferred tax asset related to bitcoin impairment losses. Instead, the Company will establish a deferred tax liability if the market value of bitcoin at the reporting date is greater than the average cost basis of the Company’s bitcoin holdings at such reporting date, and any subsequent increases or decreases in the market value of bitcoin will increase or decrease the deferred tax liability.
+The Company estimates the adoption of ASU 2023-08 will increase its 2025 beginning retained earnings balance by approximately $
+12.745
+billion, which reflects a $
+17.880
+billion increase in digital assets, partially offset by a $
+3.969
+billion increase in deferred tax liabilities, and a $
+1.166
+billion decrease in deferred tax assets. Additionally, the Company will provide quantitative and qualitative disclosures to meet the new requirements under ASU 2023-08, including a roll-forward of its bitcoin holdings during the reporting period and period-end cost basis, fair value, number of units held, and restrictions.
+The U.S. enacted the Inflation Reduction Act of 2022 (“IRA”) in August 2022. Among other things, unless an exemption by statute or regulation applies, a provision of the IRA imposes a
+15
+% corporate alternative minimum tax (“CAMT”)

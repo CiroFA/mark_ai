@@ -1,0 +1,23 @@
+engagement patterns have changed over time, and user engagement can be difficult to measure, particularly as we introduce new and different Apps. Any number of factors can adversely affect user growth and engagement, including if:
+•
+users increasingly engage with mobile apps offered by competitors or mobile apps in categories other than those of our Apps;
+•
+we fail to introduce new Apps or features that users find engaging or that achieve a high level of market acceptance or we introduce new Apps, or make changes to existing Apps that are not favorably received;
+•
+users feel that their experience is diminished as a result of the decisions we make with respect to the frequency, prominence, format, size, and quality of advertisements that we display;
+•
+users have difficulty installing, updating, or otherwise accessing our Apps as a result of actions by us or third parties;
+•
+we are unable to continue to develop Apps that work with a variety of mobile operating systems and networks;
+•
+there are changes mandated by legislation, government and regulatory authorities, or litigation that adversely affect our products or users; and
+•
+questions about the quality of our Apps, our data practices or concerns related to privacy and sharing or other processing of user data, safety, security, or other factors.
+Additionally, we expect it will become increasingly difficult and more expensive for us to acquire users for our Apps for a variety of reasons, including the increasingly competitive nature of the mobile app ecosystem and the significant amount of time and attention users are dedicating to competing entertainment options. Further, we believe that the changes that Apple has implemented during the last several years to its platform, particularly the removal of the Top Grossing rankings and decreasing the prominence of the Top Free rankings as well as transparency and IDFA changes, have adversely affected the number of organic downloads of our Apps. If our competitors increase their user acquisition spending, we could experience higher costs per an install for our Apps, which would adversely affect our revenue and margins. Furthermore, our spending on user acquisition is based on certain assumptions about their projected behavior, particularly for new Apps for which we do not have similar Apps in our portfolio to aid us in our modeling efforts. If we are unable to grow our user base and increase our user engagement levels, or unable to do so cost effectively, our business, financial condition, and results of operations
+53
+Table of
+C
+ontents
+could be adversely affected.
+We have experienced recent rapid growth, which may not be indicative of our future growth. We may be unable to effectively manage the growth of our business, which could adversely affect our business, financial condition, and results of operations.
+We have experienced rapid growth in the scale, scope, and complexity of our business. For example, our Advertising Revenue has expanded rapidly, in

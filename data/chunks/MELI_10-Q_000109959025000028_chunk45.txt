@@ -1,0 +1,22 @@
+measure provides useful information to investors and other market participants in showing the evolution of the Company’s indebtedness and its capability of repayment as a means to, alongside other measures, monitor our leverage based on widely-used measures.
+50
+|
+MercadoLibre, Inc.
+Table of Contents
+The following table presents a reconciliation of net debt for each of the periods indicated:
+(1)
+Excludes time deposits and foreign government debt securities restricted and held in guarantee.
+(2)
+Excludes foreign government debt securities restricted, investments held in VIEs as a consequence of securitization transactions and equity securities held at cost.
+FX neutral
+We believe that FX neutral measures provide useful information to both Management and investors by excluding the foreign currency exchange rate impact that may not be indicative of our core operating results and business outlook.
+The FX neutral measures were calculated by using the average monthly exchange rates for each month during 2024 and applying them to the corresponding months in 2025, so as to calculate what our results would have been had exchange rates remained stable from one year to the next. The table below excludes intercompany allocation FX effects. Finally, these measures do not include any other macroeconomic effect such as local currency inflation effects, the impact on impairment calculations or any price adjustment to compensate local currency inflation or devaluations.
+The following table sets forth the FX neutral measures related to our reported results of the operations for the three-month period ended March 31, 2025:
+See Note 2 – Summary of significant accounting policies - Foreign currency translation - Argentine currency status and macroeconomic outlook and Argentine exchange regulations of our unaudited interim condensed consolidated financial statements for further detail on the currency status and the exchange regulations of our Argentine segment.
+51
+|
+MercadoLibre, Inc.
+Table of Contents
+Adjusted free cash flow and Net increase (decrease) in available cash and investments
+Adjusted free cash flow
+Adjusted free cash flow represents cash from operating activities less the increase (decrease) in cash and cash equivalents and investments related to customer funds due to regulatory requirements and other restrictions and equity securities held at cost, investments in property and equipment and intangible assets, changes in loans receivable, net and net proceeds from/payments on loans payable and other financial liabilities related to our Fintech solutions, since we consider those liabilities as the working capital of the Fintech activities. We consider adjusted free cash flow to be a measure of liquidity generation that provides useful information to management and investors since it shows how much cash the Company generates with its core activities that can be used for discretionary purposes and to repay its corporate and/or commerce debt. A limitation of the

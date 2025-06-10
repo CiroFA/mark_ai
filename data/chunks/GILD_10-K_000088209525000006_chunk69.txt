@@ -1,0 +1,84 @@
+SCIENCES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+See accompanying notes.
+57
+GILEAD SCIENCES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1.
+SUMMARY OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+Business
+Gilead Sciences, Inc. (including its consolidated subsidiaries, referred to as “Gilead,” the “company,” “we,” “our” or “us”) is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. We are committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, coronavirus disease 2019 (“COVID-19”), cancer and inflammation. We operate in more than
+35
+countries worldwide, with headquarters in Foster City, California.
+Our portfolio of marketed products includes AmBisome
+®
+, Atripla
+®
+, Biktarvy
+®
+, Cayston
+®
+, Complera
+®
+, Descovy
+®
+, Descovy for PrEP
+®
+, Emtriva
+®
+, Epclusa
+®
+, Eviplera
+®
+, Genvoya
+®
+, Harvoni
+®
+, Hepcludex
+®
+, Hepsera
+®
+, Jyseleca
+®
+, Letairis
+®
+, Livdelzi
+®
+, Odefsey
+®
+, Sovaldi
+®
+, Stribild
+®
+, Sunlenca
+®
+, Tecartus
+®
+, Trodelvy
+®
+, Truvada
+®
+, Truvada for PrEP
+®
+, Tybost
+®
+, Veklury
+®
+, Vemlidy
+®
+, Viread
+®
+, Vosevi
+®
+, Yescarta
+®
+and Zydelig
+®
+. The approval status of Hepcludex and Jyseleca vary worldwide, and Hepcludex and Jyseleca are not approved in the U.S. We also sell and distribute authorized generic versions of Epclusa and Harvoni in the U.S. through our separate subsidiary, Asegua Therapeutics, LLC. In addition, we sell and distribute certain products through our corporate partners under collaborative agreements. See Note 2. Revenues for a summary of disaggregated revenues by product and geographic region.
+We have
+one
+operating segment which primarily focuses on the discovery, development and commercialization of innovative medicines in areas of unmet medical need. See Note 17. Segment Information for further details.
+Significant Accounting Policies
+Basis of Presentation
+The accompanying Consolidated Financial Statements have been prepared in accordance with U.S. generally accepted accounting principles and include the accounts of Gilead, our wholly-owned subsidiaries and any variable interest entities (“VIEs”) for which we are the primary beneficiary. All intercompany transactions have been eliminated. For any consolidated entities where we own or are exposed to less than 100% of the economics, we record net income or loss attributable to noncontrolling interests in our Consolidated Statements of Operations equal to the attributable economic or ownership interest retained in such entities by the respective noncontrolling parties.
+When we obtain a variable interest in another entity, we assess at the inception of the relationship and upon occurrence of certain significant events whether the entity is a VIE and, if so, whether we are the primary beneficiary of the VIE based on our power to direct the activities of the VIE that most

@@ -1,0 +1,20 @@
+been required to post $
+49
+million of additional collateral, either with cash or letters of credit.
+Note 12—Fair Value Measurement
+We carry a portion of our assets and liabilities at fair value that are measured at the reporting date using an exit price (i.e., the price that would be received to sell an asset or paid to transfer a liability) and disclosed according to the quality of valuation inputs under the fair value hierarchy.
+The classification of an asset or liability is based on the lowest level of input significant to its fair value. Those that are initially classified as Level 3 are subsequently reported as Level 2 when the fair value derived from unobservable inputs is inconsequential to the overall fair value, or if corroborated market data becomes available. Assets and liabilities initially reported as Level 2 are subsequently reported as Level 3 if corroborated market data is no longer available. There were no material transfers into or out of Level 3 during 2024 or 2023.
+Recurring Fair Value Measurement
+Financial assets and liabilities reported at fair value on a recurring basis include our investments in debt securities classified as available for sale, commodity derivatives, and our contingent consideration arrangement related to the Surmont acquisition.
+See
+Note
+3
+.
+•
+Level 1 derivative assets and liabilities primarily represent exchange-traded futures and options that are valued using unadjusted prices available from the underlying exchange. Level 1 financial assets also include our investments in U.S. government obligations classified as available for sale debt securities, which are valued using exchange prices.
+•
+Level 2 derivative assets and liabilities primarily represent OTC swaps, options and forward purchase and sale contracts that are valued using adjusted exchange prices, prices provided by brokers or pricing service companies that are all corroborated by market data. Level 2 financial assets also include our investments in debt securities classified as available for sale including investments in corporate bonds, commercial paper, asset-backed securities, U.S. government agency obligations and foreign government obligations that are valued using pricing provided by brokers or pricing service companies that are corroborated with market data.
+•
+Level 3 derivative assets and liabilities consist of OTC swaps, options and forward purchase and sale contracts where a significant portion of fair value is calculated from underlying market data that is not readily available. The derived value uses industry standard methodologies that may consider the historical relationships among various commodities, modeled market prices, time value, volatility factors and other relevant economic measures. The use of these inputs results in management’s best estimate of fair value. Level 3 commodity derivative activity was not material for all periods presented.
+•
+Level 3 liabilities include the fair value of future quarterly contingent

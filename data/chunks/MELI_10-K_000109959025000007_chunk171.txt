@@ -1,0 +1,43 @@
+functional currencies are the Brazilian Real. These transactions were not designated as hedges for accounting purposes. As of December 31, 2024, there are no outstanding derivatives hedging the foreign currency fluctuation not designated as hedging instruments.
+In addition, the Company entered into full cross currency swap contracts to hedge the interest rate fluctuation and foreign currency fluctuations of its financial debt nominated in U.S. dollars held by its Brazilian subsidiaries. These transactions were not designated as hedges for accounting purposes. As of December 31, 2024, there are no outstanding derivatives hedging the interest rate and foreign currency fluctuation not designated as hedging instruments.
+Finally, as of December 31, 2024, the Company entered into swap contracts to hedge the interest rate fluctuation of certain portion of its financial debt in its Brazilian subsidiaries and VIEs. These transactions were not designated as hedges for accounting purposes.
+The following table presents the notional amounts of the Company’s outstanding derivative instruments:
+139
+|
+MercadoLibre, Inc.
+Table of Contents
+Derivative instruments contracts
+The fair values of the Company’s outstanding derivative instruments as of December 31, 2024 and 2023 were as follows:
+The effects of derivative contracts designated as hedging instruments on the consolidated statements of comprehensive income as of December 31, 2024 and 2023 were as follows:
+The effect of the Company’s fair value hedge relationships over its fixed-rate financial debt on the consolidated statements of income for the years ended December 31, 2024, 2023 and 2022 was a gain of $
+51
+million, a loss of $
+19
+million and a loss of less than $
+1
+million, respectively, and affected Cost of net revenues and financial expenses and Foreign currency losses, net.
+The carrying amount of the hedged items for fair value hedges over its fixed-rate financial debt included in the “Loans payable and other financial liabilities” lines item of the consolidated balance sheets as of December 31, 2024 and 2023 are $
+401
+million and $
+216
+million, respectively.
+140
+|
+MercadoLibre, Inc.
+Table of Contents
+The effect of the Company’s fair value hedge relationships over its fixed-rate financial debt on the consolidated balance sheets related to cumulative basis adjustments for fair value hedges as of December 31, 2024 and 2023 are $
+2
+million and $
+1
+million, respectively.
+The effects of derivative contracts not designated as hedging instruments on the consolidated statements of income during the years ended December 31, 2024, 2023 and 2022 were as follows:
+141
+|
+MercadoLibre, Inc.
+Table of Contents
+NOTE 24.
+SHARE REPURCHASE PROGRAM
+On February 21, 2023, the Board authorized the Company to repurchase shares of the Company’s common stock, for an aggregate consideration of up to $
+900
+million.
+The Company acquired shares of its own common stock in the Argentine market and pays for them in Argentine Pesos at a

@@ -1,0 +1,16 @@
+requirements of the Delaware General Corporation Law.
+Capital expenditures
+Our capital expenditures comprised of our investments in property and equipment (such as certain assets used in our fulfillment centers) and intangible assets (excluding digital assets) for the years ended December 31, 2024 and 2023 amounted to $860 million and $509 million, respectively.
+During the year ended December 31, 2024, we invested $316 million in information and technology assets in Brazil, Argentina and Mexico, and $484 million in our Argentine, Brazilian and Mexican shipping premises and offices.
+We are continually increasing our level of investment in hardware and software licenses necessary to improve and update our platform’s technology and computer software developed internally. We anticipate continued investments in capital expenditures related to information technology and logistics network capacity in the future as we strive to maintain our position in the Latin American e-commerce and fintech market.
+59
+|
+MercadoLibre, Inc.
+Table of Contents
+We believe that our existing cash and cash equivalents, including the sale of credit card receivables, short-term investments and cash generated from operations, will be sufficient to fund our operating activities, property and equipment expenditures and to pay or repay obligations in the foreseeable future.
+Other Data
+The following table includes eight key performance indicators, which are calculated as defined in the footnotes to the table. We continuously address the adequacy of our key performance indicators based on the growth and ever-changing nature of our business. Each of these indicators provides a different measure of the level of activity on our ecosystem, which we use to monitor the performance of the business.
+(1)
+Figures have been calculated using rounded amounts. Growth calculations based on this table may not total due to rounding. As of December 31, 2024, we no longer disclose the key performance indicator "Number of items shipped." Management believes that "Number of items shipped," as a complementary disclosure to "items sold," no longer provides useful information to investors to better understand our business. Following years of investment, our logistics network now ships 95% of items sold. As such, the two performance metrics, "Number of items sold" and "Number of items shipped," have converged so we no longer see a benefit for investors in disclosing both.
+(2)
+As of January 1, 2024, we have replaced “Unique Active Users” with “Fintech monthly active users” and “Unique active buyers” as our main indicators of our Fintech and Commerce revenue lines. Management believes that the significant growth of our Fintech business merits a standalone metric to more precisely measure its footprint and user base growth and to make the best strategic decisions for the development of the Fintech business. Fintech monthly active users is defined as Fintech payers and/or collectors as of December 31, 2024,

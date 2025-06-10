@@ -1,0 +1,26 @@
+on September 1, 2023.
+•
+Liquidity and Capital Resources.
+An analysis of changes on our balance sheets and cash flows, and a discussion of our financial condition and our ability to meet cash needs.
+•
+Critical Accounting Estimates.
+A discussion of our accounting policies that require critical estimates, assumptions, and judgments.
+•
+Recent Accounting Pronouncements.
+A discussion of expected impacts of impending accounting changes on financial information to be reported in the future.
+Overview
+We empower enterprises, organizations, service providers, and government entities to protect themselves against today’s most sophisticated cyber threats. Our cybersecurity platforms and services help secure enterprise users, networks, clouds, and endpoints by delivering comprehensive cybersecurity backed by AI and automation. A key element of our strategy is to help our customers simplify their security architectures through consolidating disparate point products. We execute on this strategy by developing our capabilities and packaging our offerings into platforms which are able to cover many of our customers’ needs in the markets in which we operate. Our platformization strategy combines various products and services into a tightly integrated architecture and makes security faster, less complex, and more cost-effective. We focus on delivering value in four sectors of the cybersecurity industry:
+Network Security:
+•
+Our network security platform, designed to deliver complete zero trust solutions to our customers, includes our hardware and software ML-Powered Next-Generation Firewalls, AI Runtime Security, as well as a cloud-delivered SASE. Prisma
+®
+Access, our SSE solution, when combined with Prisma SD-WAN, provides a comprehensive single-vendor SASE offering that is used to secure remote workforces and securely enable the cloud-delivered branch. Our network security platform also includes our cloud-delivered security services, such as Advanced Threat Prevention, Advanced WildFire
+®
+, Advanced URL Filtering, Advanced DNS Security, IoT/OT Security, GlobalProtect
+®
+, Enterprise DLP, AIOps, SaaS Security, and AI Access Security. Through these add-on security services, our customers are able to secure their content, applications, users, and devices across their entire organization. Strata Cloud Manager, our network security management solution, can centrally manage our network security platform irrespective of form factor, location, or scale. Strata Cloud Manager includes the Strata Copilot which provides a natural language interface to simplify and accelerate platform management.
+Cloud Security:
+•
+We deliver scalable and comprehensive security across the cloud application development lifecycle through our Code to Cloud
+TM
+platform, Prisma Cloud. As a comprehensive CNAPP, Prisma Cloud secures multi- and hybrid-cloud environments for applications, data, GenAI ecosystem, and the entire cloud native technology stack across the full development lifecycle, from code to

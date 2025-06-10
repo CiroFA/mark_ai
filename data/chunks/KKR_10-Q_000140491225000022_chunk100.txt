@@ -1,0 +1,40 @@
+Collateral within each investment vehicle is also available only against borrowings by that investment vehicle and not against the borrowings of other investment vehicles or KKR.
+In certain other cases, investments and other assets held directly by majority-owned consolidated levered investment vehicles and other entities have been funded with borrowings that are collateralized by the investments and assets they own. These borrowings are non-recourse to KKR beyond the investments or assets serving as collateral or the capital that KKR has committed to fund such investment vehicles. Such borrowings have varying maturities and generally bear interest at fixed rates.
+68
+Table of Contents
+In addition, consolidated CFEs issue debt securities to third-party investors which are collateralized by assets held by the CFE. Debt securities issued by CFEs are supported solely by the assets held at the CFEs and are not collateralized by assets of any other KKR entity. CFEs also may have warehouse facilities with banks to provide liquidity to the CFE. The CFE's debt obligations are non-recourse to KKR beyond the assets of the CFE.
+As of March 31, 2025, other debt obligations consisted of the following:
+(1)
+Includes borrowings collateralized by fund investments, fund co-investments, and other assets held by levered investment vehicles of $
+3.3
+billion.
+(2)
+The senior notes of the consolidated CFEs had a weighted average interest rate of
+5.6
+%. The subordinated notes of the consolidated CLOs do not have contractual interest rates but instead receive a pro rata amount of the net distributions from the excess cash flows of the respective CLO vehicle. Accordingly, weighted average borrowing rates for the subordinated notes are based on cash distributions during the period, if any.
+Debt obligations of consolidated CLOs are collateralized by assets held by each respective CLO vehicle and assets of one CLO vehicle may not be used to satisfy the liabilities of another. As of March 31, 2025, the fair value of the consolidated CLO assets was $
+30.0
+billion. This collateral consisted of Cash and Cash Equivalents, Investments, and Other Assets.
+Global Atlantic's debt obligations consisted of the following:
+(1)
+Carrying value of debt as of March 31, 2025 and December 31, 2024, includes purchase accounting adjustments of $
+32.3
+million and $
+34.1
+million, respectively, net debt issuance costs of $(
+57.2
+) million and $(
+57.9
+) million, respectively, and cumulative fair value loss on hedged debt obligations of $(
+182.2
+) million and $(
+233.2
+) million, respectively. The amortization of the purchase accounting adjustments was $
+1.8
+million and $
+0.8
+million for the three months ended March 31, 2025 and 2024, respectively.
+(2)
+These debt obligations are classified as Level III within the fair value hierarchy and valued using the same valuation methodologies as KKR's Level III credit investments.
+(3)
+These debt obligations primarily include debt obligations of consolidated

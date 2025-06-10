@@ -1,0 +1,18 @@
+opposite effect. Significant increases and decreases in these inputs in isolation could result in significantly higher or lower fair value measurements.
+(4)
+The directional change from an increase in the weight ascribed to the market comparables approach would increase the fair value of the Level III investments if the market comparables approach results in a higher valuation than the discounted cash flow approach and transaction price. The opposite would be true if the market comparables approach results in a lower valuation than the discounted cash flow approach and transaction price.
+(5)
+The directional change from an increase in the weight ascribed to the discounted cash flow approach would increase the fair value of the Level III investments if the discounted cash flow approach results in a higher valuation than the market comparables approach, transaction price and direct income capitalization approach. The opposite would be true if the discounted cash flow approach results in a lower valuation than the market comparables approach, transaction price and direct income capitalization approach.
+(6)
+The directional change from an increase in the weight ascribed to the transaction price or milestones would increase the fair value of the Level III investments if the transaction price or milestones results in a higher valuation than the market comparables and discounted cash flow approach. The opposite would be true if the transaction price or milestones results in a lower valuation than the market comparables approach and discounted cash flow approach.
+51
+Table of Contents
+(7)
+The directional change from an increase in the weight ascribed to the direct income capitalization approach would increase the fair value of the Level III investments if the direct income capitalization approach results in a higher valuation than the discounted cash flow approach. The opposite would be true if the direct income capitalization approach results in a lower valuation than the discounted cash flow approach.
+(8)
+The total energy fair value amount includes multiple investments (in multiple locations throughout North America) that are held in different investment funds and produce varying quantities of oil, condensate, natural gas liquids, and natural gas. Commodity price may be measured using a common volumetric equivalent where one barrel of oil equivalent ("BOE") is determined using the ratio of six thousand cubic feet of natural gas to one barrel of oil, condensate or natural gas liquids. The price per BOE is provided to show the aggregate of all price inputs for the various investments over a common volumetric equivalent although the valuations for specific investments may use price inputs specific to the asset for purposes of our valuations. The discounted cash flows include forecasted production of liquids (oil, condensate, and natural gas liquids) and natural gas with a forecasted revenue ratio of approximately
+86
+% liquids and
+14
+% natural gas.
+(9)

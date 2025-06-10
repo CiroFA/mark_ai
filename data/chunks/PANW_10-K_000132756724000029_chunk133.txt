@@ -1,0 +1,35 @@
+$
+184.0
+million, respectively.
+Shares Available for Grant
+The following table presents the stock activity and the total number of shares available for grant under our equity incentive plans as of July 31, 2024 (in millions):
+- 89
+-
+Table of
+Contents
+Share-Based Compensation
+We record share-based compensation awards based on estimated fair value as of the grant date. The fair value of RSUs and PSUs not subject to market conditions is based on the closing market price of our common stock on the date of grant.
+The fair value of the PSUs subject to market conditions is estimated on the grant date using a Monte Carlo simulation model.
+The following table summarizes the assumptions used and the resulting grant-date fair value of our PSUs subject to market conditions granted during the years ended July 31, 2024, 2023, and 2022:
+The expected volatility is based on the historical volatility of our common stock. The expected term is based on the length of each tranche’s performance period from the grant date. The dividend yield assumption is based on our current expectations about our anticipated dividend policy. The risk-free interest rate is based on the implied yield available on U.S. Treasury zero-coupon issues with maturities that approximate the expected term.
+The fair value of PSOs was estimated on the grant date using a Monte Carlo simulation model, which predicts settlement of the PSOs midway between the vesting term and the contractual term.
+No
+PSOs were granted during the years ended July 31, 2024, 2023, and 2022.
+The fair value of shares issued under our 2012 ESPP are estimated on the grant date using the Black-Scholes option pricing model.
+The following table summarizes the assumptions used and the resulting grant-date fair values of our ESPP:
+The expected volatility is based on a combination of implied volatility from traded options on our common stock and the historical volatility of our common stock. The expected term represents the term from the first day of the offering period to the purchase dates within each offering period. The dividend yield assumption is based on our current expectations about our anticipated dividend policy. The risk-free interest rate is based on the implied yield available on U.S. Treasury zero-coupon issues with maturities that approximate the expected term.
+The following table summarizes share-based compensation included in costs and expenses (in millions):
+As of July 31, 2024, total compensation cost related to unvested share-based awards not yet recognized was $
+2.0
+billion. This cost is expected to be amortized over a weighted-average period of approximately
+2.6
+years. Future grants will increase the amount of compensation expense to be recorded in these periods.
+- 90
+-
+Table of
+Contents
+15.
+Income Taxes
+The following table presents the components of income (loss) before income taxes (in millions):
+The following table summarizes our provision for (benefit from) income taxes (in millions):
+For the year ended

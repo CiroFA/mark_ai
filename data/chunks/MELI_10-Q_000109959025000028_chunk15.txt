@@ -1,0 +1,41 @@
+these would be classified as Level 2. As of March 31, 2025 and December 31, 2024, the estimated fair value of the 2026 Sustainability Notes would be $
+356
+million and $
+351
+million, respectively, and the estimated fair value of the 2031 Notes would be $
+487
+million and $
+475
+million, respectively, which is based on Level 2 inputs.
+NOTE 10.
+COMMITMENTS AND CONTINGENCIES
+Litigation and Other Legal Matters
+The Company is subject to certain contingent liabilities with respect to existing or potential claims, lawsuits and other proceedings. The Company accrues liabilities when it considers it to be probable that future costs will be incurred and such costs can be reasonably estimated. Proceeding-related liabilities are based on developments to date and historical information related to actions filed against the Company. As of March 31, 2025, the Company had accounted for estimated liabilities involving proceeding-related contingencies and other estimated contingencies of
+$
+153
+million
+(net of judicial deposits) within non current other liabilities to cover legal actions against the Company for which Management has assessed the likelihood of a final adverse outcome as probable. Expected legal costs related to litigations are accrued when the legal service is actually provided.
+In addition, as of March 31, 2025, the Company and its subsidiaries are subject to certain legal actions considered by the Company’s Management and its legal counsels to be reasonably possible of resulting in a loss for an estimated aggregate amount up to
+$
+276
+million
+.
+No
+loss amounts have been accrued for such reasonably possible legal actions.
+21
+|
+MercadoLibre, Inc.
+Table of Contents
+MercadoLibre, Inc.
+Notes to unaudited interim condensed consolidated financial statements
+For further information related to contingent liabilities please refer to Note 16 to the consolidated financial statements in the Company’s 2024 10-K.
+Tax Claims
+Exclusion of ICMS tax benefits from federal taxes base
+The tax claim related to the exclusion of ICMS tax benefits from the tax base of the Corporate Income Tax (“IRPJ”) and of the Social Contribution on Net Profits (“CSLL”) is described in Note 16 to the consolidated financial statements in the Company’s 2024
+10-K. On April 4, 2025, the case, whose risk of losing was deemed not more likely than not, became final and unappealable in favor of the Company in relation to the period up to December 2023. The Company had recorded a corresponding income tax benefit arising from the ICMS tax incentives from September 2021 up to December 2023, which amounted to
+$
+36
+million
+considering the exchange rate as of March 31, 2025.
+Buyer protection program
+The buyer protection program (“BPP”) is designed to protect buyers in the Marketplace from losses due primarily to fraud or counterparty non-performance for all transactions completed through the Company’s online payment solution Mercado Pago (except for certain excluded categories). The Company’s BPP provides

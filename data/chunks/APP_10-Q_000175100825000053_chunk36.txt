@@ -1,0 +1,40 @@
+enforceability, and validity of third-party proprietary rights, or to establish our proprietary rights. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources, and other factors.
+ITEM 1A. RISK FACTORS
+You should carefully consider the risks and uncertainties described below, together with all of the other information in this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our unaudited condensed consolidated financial statements and the related notes, before making a decision to invest in our Class A common stock. Our business, financial condition, results of operations, or prospects could also be adversely affected by risks and uncertainties that are not presently known to us or that we currently believe are not material. If any of the risks actually occur, our business, financial condition, results of operations, and prospects could be adversely affected. In that event, the market price of our Class A common stock could decline, and you could lose all or part of your investment.
+34
+Table of
+C
+ontents
+Risk Factor Summary
+Investing in our Class A common stock involves a high degree of risk because our business is subject to numerous risks and uncertainties, as further described below. The principal factors and uncertainties that make investing in our Class A common stock subject to risk include, among other things:
+Business, Operational, and Industry Factors
+•
+the fluctuation in our results of operations;
+•
+security breaches, improper access to or disclosure of data, or other cyber incidents;
+•
+our reliance on third-party platforms to distribute our AppLovin Apps and collect revenue;
+•
+our reliance on certain key employees and our ability to attract, retain, and motivate key personnel;
+•
+our ability to maintain our culture;
+•
+our ability to attract new clients, the loss of clients, or reduction in spend by clients;
+•
+competition in our industry and our ability to adapt to technological change;
+•
+our ability to address or mitigate technical limitations in our systems and to maintain and scale our technical infrastructure;
+•
+concentration of our revenue sources;
+•
+our future growth into new business opportunities;
+•
+the impact of macroeconomic conditions and the geopolitical climate;
+•
+risks related to the expansion and diversification of our operations, in the United States and globally, and possibly through future strategic acquisitions and partnerships, such as our indication of interest to the President of the United States to explore a purchase of TikTok in all markets outside of China;
+•
+risks related to our international operations;
+•
+risks related to our strategic acquisitions and partnerships, including integration, managing growth and tax risks;
+•
+our ability

@@ -1,0 +1,19 @@
+liabilities. The Company’s U.S. tax returns for tax years from
+2021
+and forward are subject to potential examination by the Internal Revenue Service.  However, due to the Company’s use of state NOL carryovers in the United States, state tax authorities may attempt to reduce or fully offset the amount of state NOL carryovers from tax years ended 2011 and forward that the Company used in later tax years. The Company’s major foreign tax jurisdictions and the tax years that remain subject to potential examination are Italy and Poland for tax years
+2020
+and forward; and Spain, Germany, and the United Kingdom for tax years
+2021
+and forward.  To date there have been no material audit assessments related to audits in the United States or any of the applicable foreign jurisdictions.
+The U.S. enacted the IRA in August 2022. Among other things, unless an exemption by statute or regulation applies, a provision of the IRA imposes a
+15
+% CAMT on a corporation with respect to an initial tax year and subsequent tax years, if the average annual adjusted financial statement income for any consecutive three-tax-year period preceding the initial tax year exceeds $
+1
+billion. On September 12, 2024, the Department of Treasury and the Internal Revenue Service issued proposed regulations with respect to the application of the CAMT.
+Due to the Company’s adoption of ASU 2023-08, the Company is required to recognize a cumulative-effect adjustment of $
+12.745
+billion to the opening balance of its retained earnings as of January 1, 2025. The Company will additionally be required to recognize unrealized gains or losses from changes in the fair value of digital assets in future reporting periods as income or losses. For purposes of calculating the adjusted financial statement income, the Company will be required to ratably allocate from 2025 through 2028 the increase to the Company’s retained earnings.
+When determining whether the Company is subject to CAMT and when calculating any related tax liability for an applicable tax year, the proposed regulations provide that, among other adjustments, the Company’s adjusted financial statement income must include this ratable amount in addition to any unrealized gains or losses reported in the applicable tax year. Accordingly, as a result of the enactment of the IRA and the Company’s adoption of ASU 2023-08 on January 1, 2025, unless the IRA is amended or the proposed regulations, when finalized, are revised to provide relief (or other interim relief is granted), the Company could become subject to CAMT in the tax years 2026 and beyond. If the Company becomes subject to the CAMT, it could result in a material tax obligation that the Company would need to satisfy in cash, which could materially affect its financial results, including its earnings and cash flow, and its financial condition.
+(11) Share-based Compensation
+Stock Incentive Plans
+On May 24, 2023, the Company’s stockholders approved the Company’s 2023 Equity Plan, which

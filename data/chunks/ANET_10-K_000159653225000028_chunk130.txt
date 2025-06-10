@@ -1,0 +1,21 @@
+circumstances indicate that the carrying value of these assets may not be recoverable. Recoverability of these assets is measured by comparison of the carrying amount of each asset to the future undiscounted cash flows the asset is expected to generate over its remaining life. If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset.
+No
+impairment of any long-lived assets was identified for any of the periods presented in the consolidated financial statements.
+Loss Contingencies
+In the ordinary course of business, we are a party to claims and legal proceedings including matters relating to commercial, employee relations, business practices and intellectual property. In assessing loss contingencies, we use significant judgments and assumptions to estimate the likelihood of loss, impairment of an asset or the incurrence of a liability, as well as our ability to reasonably estimate the amount of loss. We record a provision for contingent losses when it is both probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. We record a charge equal to the minimum estimated liability for litigation costs or a loss contingency only when both of the following conditions are met: (i) information available prior to issuance of our consolidated financial statements indicates that it is probable that a liability had been incurred at the date of the financial statements, and (ii) the range of loss can be reasonably estimated. We regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required.
+83
+Table of Contents
+Revenue Recognition
+We generate revenue from sales of our products, which incorporate our EOS software and accessories such as cables and optics, to direct customers and channel partners together with post-contract customer support (“PCS”). We typically sell products and PCS in a single contract. We recognize revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to be entitled to receive in exchange for those products or services. We apply the following five-step revenue recognition model:
+•
+Identification of the contract, or contracts, with a customer
+•
+Identification of the performance obligations in the contract
+•
+Determination of the transaction price
+•
+Allocation of the transaction price to the performance obligations in the contract
+•
+Recognition of revenue when (or as) we satisfy the performance obligation
+Post-Contract Customer Support ("PCS")
+PCS, which includes technical support, hardware repair and replacement parts beyond standard warranty, bug fixes, patches and unspecified upgrades on a when-and-if-available basis, is offered under renewable, fee-based contracts. We initially defer PCS revenue and

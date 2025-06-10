@@ -1,0 +1,26 @@
+CECL estimate that could have a material effect on its measurement. Significant assumptions and judgments with respect to the CECL estimate include definition of default, portfolio segmentation that considers its credit quality and key inputs used for loss given default.
+76
+|
+MercadoLibre, Inc.
+Table of Contents
+How we addressed the matter in our audit
+We obtained an understanding, evaluated the design and tested the operating effectiveness of the Company’s controls related to the CECL estimate. The controls we tested included, among others, controls over the development of the model, as well as controls over the key inputs and assumptions used to calculate the CECL estimate. We also tested the controls over the completeness and accuracy of the data used in the calculation.
+To test the CECL estimate, our audit procedures included, among others, involving our credit risk modelling specialists to assist us in assessing the methodology and significant assumptions used by management, including definition of default, portfolio segmentation and the key inputs identified above that were used for loss given default. We have also performed independent recalculations to test the mathematical accuracy of management’s model and assessed the adequacy of the CECL estimate financial statement disclosures.
+/s/
+PISTRELLI, HENRY MARTIN Y ASOCIADOS S.A.
+Member of Ernst & Young Global Limited
+We have served as the Company’s auditor since 2021.
+City of
+Buenos Aires, Argentina
+February 21, 2025
+77
+|
+MercadoLibre, Inc.
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Shareholders and the Board of Directors of MercadoLibre, Inc.
+Opinion on Internal Control Over Financial Reporting
+We have audited MercadoLibre, Inc.'s internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, MercadoLibre, Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2024 and 2023, the related consolidated statements of income, comprehensive income, equity and cash flows for each of the three years in the period ended December 31, 2024, and the related notes, and our report dated February 21, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our

@@ -1,0 +1,18 @@
+$4.1 billion, $3.0 billion of which can be used for revolving credit. At December 31, 2024, our usage under these facilities was $978 million in LOCs. Our access to credit under these facilities is dependent on the ability of the bank counterparties
+to meet their funding commitments. Should the existing credit providers on these facilities experience financial difficulty, we may be required to replace credit sources, possibly in a difficult market. If we cannot obtain adequate capital or sources of credit on favorable terms, on a timely basis, or at all, our business, operating results, and financial condition could be adversely affected. To date, we have not experienced difficulty accessing our credit facilities or establishing additional facilities when needed.
+In the event we are required to provide alternative security to clients, the security could take the form of additional insurance trusts supported by our investment portfolio or funds withheld using our cash resources. The value of LOCs required is driven by, among other things, statutory liabilities reported by variable annuity guarantee reinsurance clients, loss development of existing reserves, the payment pattern of such reserves, the expansion of business, and loss experience of such business.
+The facilities noted above require that we maintain certain financial covenants, all of which have been met at December 31, 2024. These covenants are shown below including our actual values at
+December 31, 2024
+:
+(i)
+a minimum consolidated net worth required by the group syndicated and other credit facilities, excluding noncontrolling interest, of not less than $41.959 billion and a minimum consolidated net worth required by one remaining credit facility, excluding noncontrolling interest, of not less than $52.819 billion (Actual is $72.7 billion); and
+(ii)
+a ratio of consolidated debt to total capitalization of not greater than 0.35 to 1 (Actual is 0.19 to 1)
+1
+.
+1.
+As calculated under the covenant, the ratio excludes the fair value adjustment of debt acquired through the Chubb Corp acquisition and noncontrolling interest.
+Our failure to comply with the covenants under any credit facility would, subject to grace periods in the case of certain covenants, result in an event of default. This could require us to repay any outstanding borrowings or to cash collateralize LOCs under such facility. Our failure to repay material financial obligations, as well as our failure with respect to certain other events expressly identified, would result in an event of default under the facility.
+ITEM 7A.  Quantitative and Qualitative Disclosures about Market Risk
+Market Sensitive Instruments and Risk Management
+Market risk represents the potential for loss due to adverse changes in the fair value of financial instruments. We are exposed to potential losses from various market risks including changes in interest rates, equity prices, and foreign currency exchange rates. Further, through writing guaranteed

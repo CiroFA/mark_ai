@@ -1,0 +1,26 @@
+rate can vary based on the amount of pre-tax income or loss.
+Results of Operations
+In this section, we discuss the results of our operations for the year ended December 31, 2024 compared to the year ended December 31, 2023.
+The following tables summarize our consolidated statement of operations:
+_______
+1
+Includes stock-based compensation expense as follows:
+_______
+2
+Includes amortization expense related to acquired intangibles as follows:
+49
+Table
+of
+Contents
+The following table sets forth the components of our consolidated statements of operations for each of the periods presented as a percentage of revenue
+1
+:
+_______
+1
+Totals of percentages of revenue may not foot due to rounding.
+Comparison of Our Results of Operations for the Twelve Months Ended December 31, 2024, 2023, and 2022
+Revenue
+For the twelve months ended December 31, 2024, our Advertising Revenue increased by $1.4 billion, or 75%, from the prior year period primarily due to improved AppDiscovery performance, where the volume of installations increased 50% and net revenue per installation increased 22% compared to the prior year period. We do not recognize Advertising Revenue from transactions with our studios.
+For the twelve months ended December 31, 2024, our Apps Revenue increased by $43.9 million, or 3%, from the prior year period. Our IAA Revenue from Apps increased by $30.2 million, or 7%, compared to the prior year period, due to a 34% increase in the volume of advertising impressions, partially offset by a 20% decrease in price per advertising impression. We do not recognize IAA Revenue from transactions with our studios. For the twelve months ended December 31, 2024, our IAP Revenue from Apps increased by $13.6 million, or 1%, from the prior year period, primarily due to a 3% increase in price per in-app purchase, partially offset by a 2% decrease in the volume of in-app purchases. We do not recognize IAA Revenue from transactions with our studios.
+For the twelve months ended December 31, 2023, our Advertising Revenue increased by $792.6 million, or 76%, from the prior year period primarily due to publisher bonuses of $209.6 million accounted for as a reduction to revenue in the prior year period. The increase in Advertising Revenue was also due to improved AppDiscovery performance, where installations increased 17% and net revenue per installation increased 35% compared to the prior year period. We do not recognize Advertising Revenue from transactions with our studios.
+For the twelve months ended December 31, 2023, our Apps Revenue decreased by $326.6 million, or 18%, from the prior year period. For the twelve months ended December 31, 2023, our IAP Revenue from Apps decreased by $190.1 million, or 16%, from the prior year period, primarily due to a 12% decrease in the volume of IAPs and a 5% decrease in price per IAP. Our IAA Revenue from Apps decreased by $136.4 million, or 23%, compared to the prior year period, due to a 45% decrease in price per advertising

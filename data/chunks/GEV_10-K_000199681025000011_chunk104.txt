@@ -1,0 +1,46 @@
+consolidated and combined financial statements for further information regarding our net gains (losses) from foreign currency
+transactions.
+*Non-GAAP Financial Measure
+2024 FORM 10-K
+48
+Foreign exchange rate risk is managed with a variety of techniques, including selective use of derivatives. It is our policy to minimize
+currency exposures
+by
+conducting operations either within functional currencies or using the protection of hedging strategies.
+A 10%
+increase in exchange rates
+against the U.S. dollar would have decreased our net income for the year ended December 31, 2024 by
+approximately $0.1 billion. This analysis considered the net currency exposure of foreign currency denominated monetary items and
+hedging instruments.
+Interest Rate Risk.
+We are subject to interest rate risks in the ordinary course of our business. The level of our interest rate risk is
+dependent on our debt exposure and capital structure and is sensitive to changes in the general level of interest rates. Historical
+fluctuations in interest rates have not been significant for us; however, this may vary in the future as our capital structure changes.
+Commodity Risk
+.
+Our operations require the use of various commodities
+.
+Fluctuations in the prices and availability of these commodities
+can impact our cost of equipment sold and thus our profitability. To mitigate this risk, we have implemented various strategies, including
+commercial actions, diversification of supplier base, and derivative instruments. We continuously monitor our exposure to commodity price
+fluctuations and adjust our risk management strategies as necessary.
+See Note
+20
+in the Notes to the consolidated and combined financial statements for further information regarding our risk exposures, our
+use of derivatives, and the effects of this activity on our consolidated and combined financial statements.
+2024 FORM 10-K
+49
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+AUDITOR'S REPORT
+Report of Independent Registered Public Accounting Firm
+To the stockholders and the Board of Directors of GE Vernova Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated and combined statements of financial position of GE Vernova Inc. and subsidiaries (the
+"Company") as of December 31, 2024, and 2023, the related consolidated and combined statements of income (loss), comprehensive
+income (loss), changes in equity, and cash flows for each of the three years in the period ended December 31, 2024, and the related notes
+(collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the
+financial position of the Company as of December 31, 2024, and 2023, and the results of its operations and its cash flows for each of the
+three years in the period ended December 31, 2024, in conformity with accounting principles generally accepted in the United States of
+America.
+Basis for Opinion
+These financial statements are the

@@ -1,0 +1,22 @@
+price, to reflect new information obtained about facts and circumstances that existed as of the acquisition date. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings.
+Goodwill and Acquired Intangible Assets
+Goodwill represents the excess of the purchase price over the fair value of net assets acquired in a business combination. The Company has
+one
+reporting unit and tests goodwill for impairment at least annually in the fourth quarter or more frequently if indicators of potential impairment exist. We first perform a qualitative assessment to determine whether it is more likely than not that the fair value of our reporting unit is less than its carrying amount. If the reporting unit does not pass the qualitative assessment, a quantitative test is performed by comparing the fair value of our reporting unit with its carrying amount. We would recognize an impairment loss for the amount by which the carrying amount exceeds the fair value. There were
+no
+impairment charges in any of the periods presented in the consolidated financial statements. See Note 4. Acquisition, Goodwill and Acquisition-Related Intangible Assets for additional information.
+Acquired intangible assets are carried at cost less accumulated amortization. All acquired intangible assets have been determined to have definite lives and are amortized on a straight-line basis over their estimated useful lives, ranging from
+three
+to
+eight years
+. Acquired intangible assets are reviewed for impairment under the long-lived asset model described below. There were
+no
+impairment charges in any of the periods presented in the consolidated financial statements.
+See Note 4. Acquisition, Goodwill and Acquisition-Related Intangible Assets for additional information.
+Equity Investments in Privately-Held Companies
+Our equity investments in privately-held companies without readily determinable fair values are measured using the measurement alternative, defined by ASC 321 -
+Investments-Equity Securities
+as cost, less impairments, and remeasured based on observable price changes from orderly transactions of identical or similar securities of the same issuer. Any adjustments resulting from impairments and/or observable price changes are recorded within other income, net, in our consolidated statements of income. This election is reassessed each reporting period to determine whether investments in privately-held companies have a readily determinable fair value, in which case they would no longer be eligible for this election.
+The Company did not hold investments in privately-held companies whose fair value was readily determinable as of December 31, 2024 and 2023.
+Impairment of Long-Lived Assets and Investments in Privately-Held Companies
+The carrying amounts of our long-lived assets, including property and equipment, intangible assets, ROU assets and investments in privately-held companies, are periodically reviewed for impairment whenever events or changes in

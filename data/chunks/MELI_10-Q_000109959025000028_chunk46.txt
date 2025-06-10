@@ -1,0 +1,17 @@
+utility of adjusted free cash flow as a measure of liquidity generation is that it is a partial representation of the total increase or decrease in our available cash and investments balance for the period. Therefore, we believe it is important to view the adjusted free cash flow measure only as a complement to our entire consolidated statements of cash flows.
+Net increase (decrease) in available cash and investments
+Net increase (decrease) in available cash and investments represents adjusted free cash flow less net proceeds from/payments on loans payable and other financial liabilities, related to our Commerce and corporate activities, payments of finance lease obligations, other investing and/or financing activities not considered above and the effect of exchange rates changes on available cash and investments. We consider Net increase (decrease) in available cash and investments to be a measure of liquidity availability that provides useful information to management and investors after netting out all other debt and corporate payments and activities from the adjusted free cash flow.
+The following table shows a reconciliation of Net cash provided by operating activities to Adjusted free cash flow and Net increase in available cash and investments:
+(1)
+Includes accrued interest and financial income net of interest received from available and restricted investments.
+(2)
+Includes cash and cash equivalents, short-term investments (excluding time deposits and foreign government debt securities restricted and held in guarantee) and long-term investments (excluding foreign government debt securities restricted, investments held in VIEs as a consequence of securitization transactions and equity securities held at cost).
+52
+|
+MercadoLibre, Inc.
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We are exposed to market risks arising from our business operations. These market risks arise mainly from macroeconomic instability and the possibility that changes in interest rates and the U.S. dollar exchange rate with local currencies, particularly the Brazilian Real, Mexican Peso and Argentine Peso due to Brazil’s, Mexico’s and Argentina’s respective share of our revenues, may affect the value of our financial assets and liabilities.
+We are also exposed to market risks arising from our LTRPs. These market risks arise from our obligations to pay employees cash payments in amounts that vary based on the market price of our stock.
+Foreign currencies
+We have significant operations internationally that are denominated in foreign currencies, primarily the Brazilian Real, Argentine Peso, Mexican Peso, Colombian Peso and Chilean Peso, subjecting us to foreign currency risk, which may adversely impact our financial results. We transact business in various foreign currencies and have significant international revenues and costs. In addition, we charge our international subsidiaries for their use of intellectual property and

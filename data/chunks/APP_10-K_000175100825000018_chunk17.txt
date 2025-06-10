@@ -1,0 +1,28 @@
+targeted users for advertisers and enables publishers to achieve better competitive prices for each impression. Many developers who integrate MAX have experienced a measurable increase in their average revenue per daily active user ("ARPDAU") over traditional monetization tools and save countless hours because they are able to automate manual monetization work through its advanced feature set. As a result, MAX has become the preferred in-app bidding solution for many publishers worldwide, helping drive meaningful growth and momentum for AppLovin.
+MAX includes the following features:
+•
+Advanced in-app bidding technology:
+MAX’s competitive auctions happen in real time with most bidding platforms in the industry bidding simultaneously for developers’ inventory at high volume. The competitive global demand helps maximize average revenue per user on each impression with many developers experiencing a measurable increase when moving to MAX.
+•
+Automated monetization:
+MAX saves developers time through its extensive suite of APIs for automation.
+•
+Ad quality assurance and review:
+MAX drives superior user experience with exclusive features that automatically flag risky content to keep developers’ brands safe.
+•
+Powerful insights:
+MAX helps developers better understand the LTV for each user and increase revenue to maximize yield for each ad opportunity.
+Adjust
+Adjust is our measurement and analytics marketing platform which provides the visibility, insights, and tools marketers need to grow their apps from early stage to maturity. Our software-as-a-service ("SaaS") platform is an end-to-end solution for optimizing ad performance and maximizing returns, powered by accurate attribution data and in-depth reporting that are essential for meeting business goals. Adjust allows clients to better understand their users’ journey while allowing marketers to make smarter decisions through measurement, attribution, and fraud prevention.
+The Adjust product solutions allow customers to benefit from the following key features:
+•
+Impact through measurement:
+Drive results faster with accurate, timely measurement on marketing and ad spend across channels.
+•
+Insights through real-time data and reports:
+Easily share timely, actionable insights with stakeholders to drive their business forward.
+•
+Strategic growth with automated attribution solutions:
+Scale profits with automated solutions that attribute sources and help customers work smarter and accomplish more.
+Wurl
+Wurl is our connected TV ("CTV") platform which distributes streaming video for content companies and provides advertising and publishing solutions to maximize Advertising Revenue, grow their CTV viewership, and strengthen their brand value. Wurl focuses on driving the streaming industry forward with market-leading solutions that help connect the right viewers to the right content. It brings data-driven advertising and measurement to Connected TV. The technology helps companies engage with the highest-value

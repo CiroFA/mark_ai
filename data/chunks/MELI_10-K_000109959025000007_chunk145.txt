@@ -1,0 +1,66 @@
+2024, includes $
+42
+million of collateral as part of credit card scheme arrangement rules in Brazil, and is considered restricted. As of December 31, 2024 and 2023, the time deposits in excess of $
+100
+thousand, are in majority foreign deposits.
+(5)
+As of December 31, 2024, $
+337
+million foreign government debt securities and $
+1
+million corporate debt securities are held by a consolidated VIE.
+(6)
+As of December 31, 2024, includes $
+2
+million considered restricted due to Brazilian stock market mandatory guarantee to operate with futures contracts.
+102
+|
+MercadoLibre, Inc.
+Table of Contents
+NOTE 6.
+BALANCE SHEET COMPONENTS
+Accounts receivable, net
+The following table summarizes the allowance for doubtful accounts activity during the years ended December 31, 2024, 2023 and 2022:
+Credit card receivables and other means of payments, net
+103
+|
+MercadoLibre, Inc.
+Table of Contents
+The following tables summarize the allowance for chargebacks and the allowance for doubtful accounts activity during the years ended December 31, 2024, 2023 and 2022:
+Other assets
+104
+|
+MercadoLibre, Inc.
+Table of Contents
+Property and equipment, net
+(1)
+Estimated useful life attributable to “building”.
+Depreciation
+Other liabilities
+105
+|
+MercadoLibre, Inc.
+Table of Contents
+Supplier
+finance programs
+The Company and certain financial institutions participate in a supplier finance program (“SFP”) that enables certain of the Company’s suppliers, at their own election, to request the payment of their invoices to the financial institutions earlier than the terms stated in the Company’s payment policies. Suppliers’ voluntary inclusion of invoices in the SFP does not change the Company’s payment terms, the amounts paid or liquidity. The supplier invoices that have been confirmed as valid under the program require payment in full according to the terms established in the Company’s payment policies (a range of
+60
+and
+90
+days from the invoicing date). There are no assets pledged as security or other forms of guarantees provided for the committed payment to the financial institution. The Company has no economic interest in a supplier’s decision to participate in the SFP and has no financial impact in connection with the SFP.
+As of December 31, 2024 and 2023, the obligations outstanding that the Company has confirmed as valid to the financial institutions amounted to $
+425
+million and $
+381
+million, respectively, and are included in the consolidated balance sheets within
+accounts payable and accrued expenses
+line.
+The rollforward of the Company’s outstanding obligations confirmed as valid under its supplier finance program for the year ended December 31, 2024 is as follows:
+NOTE 7.
+LOANS RECEIVABLE, NET
+106
+|
+MercadoLibre, Inc.
+Table of Contents
+The Company classifies loans receivable as “Merchant”, “Consumer”, “Credit cards” and “Asset-backed”. As of December 31, 2024 and 2023, Loans receivable, net were as follows:
+The allowance for doubtful accounts with respect to the Company’s

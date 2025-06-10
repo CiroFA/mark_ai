@@ -26,11 +26,12 @@ schema additions stay consistent across tables.
 """
 import os
 import logging
+
 from dotenv import load_dotenv
 import yfinance as yf
 from sqlalchemy import create_engine, text, inspect, MetaData
 from sqlalchemy.exc import SQLAlchemyError
-from datetime import datetime
+from datetime import datetime, timedelta
 from sqlalchemy.dialects.mysql import insert as mysql_insert
 from sqlalchemy.types import Text, Boolean, Integer, Float, String
 import pandas as pd
@@ -61,6 +62,11 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
+# Silence verbose error messages from yfinance (e.g., "no price data" duplicates)
+logger_yf = logging.getLogger("yfinance")
+logger_yf.setLevel(logging.CRITICAL)   # show only critical issues
+logger_yf.propagate = False            # do not propagate to root logger
+
 # Database connection parameters loaded from environment variables
 MYSQL_USER = os.getenv("MYSQL_USER")
 MYSQL_PASSWORD = os.getenv("MYSQL_PASSWORD")
@@ -83,12 +89,33 @@ csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '
 df_companies = pd.read_csv(csv_path)
 tickers = df_companies["ticker"].dropna().unique().tolist()
 
+# Add CLI arguments for slicing the tickers list
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--start", type=int, default=0, help="Starting index of ticker list")
+parser.add_argument("--end", type=int, default=None, help="Ending index of ticker list (non-inclusive)")
+args = parser.parse_args()
+
+tickers = tickers[args.start:args.end]
+
 # Function to insert or update data in the 'info' table
 # This function retrieves stock information from yfinance, dynamically updates the database schema if new fields are found,
 # and performs an upsert operation (insert or update) for the given ticker.
 # 
 # Note: This function currently handles only the 'info' table, but the structure and approach can be replicated for other tables
 # such as 'history', 'financials', etc., by creating similar functions following this pattern.
+def sanitize_value(value):
+    """
+    Normalizza valori speciali; NON converte ticker completamente maiuscoli (es. 'NAN').
+    """
+    if isinstance(value, str):
+        s = value.strip()
+        # Tratta 'nan', 'infinity', ... come null **solo** se la stringa NON è tutta maiuscola.
+        if s.lower() in {"nan", "infinity", "+infinity", "-infinity"} and not s.isupper():
+            return None
+    return value
+
 def insert_info_data(ticker):
     # Retrieve stock data from yfinance
     stock = yf.Ticker(ticker)
@@ -170,7 +197,11 @@ def insert_info_data(ticker):
                 return
 
     # Prepare data dictionary for insert or update, including all known columns except the primary key 'company_id'
-    insert_data = {col: info.get(col, None) for col in updated_columns if col != "company_id"}
+    insert_data = {
+        col: sanitize_value(info.get(col, None))
+        for col in updated_columns
+        if col != "company_id"
+    }
 
     # Perform upsert operation: update if symbol exists, otherwise insert new row
     with engine.begin() as conn:
@@ -282,129 +313,162 @@ def insert_officers_data(ticker, company_id):
     if updated_count:
         logging.info(f"🔁 {updated_count} rows updated in 'officers' for {ticker}")
 
-# Function to insert or update daily price and corporate‑action data in the 'history' table
-# It downloads the full history from yfinance and performs an upsert per (company_id, date).
-def insert_history_data(ticker):
-    # ── 1. Download all historical rows ───────────────────────────────────────
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Fast upsert of price history (OHLCV + corporate actions)
+# Uses a composite PRIMARY KEY (company_id, date) and a single
+# INSERT … ON DUPLICATE KEY UPDATE to minimise round‑trips.
+# A 5‑day “safety window” before the last stored date is re‑downloaded to
+# capture late Yahoo! Finance revisions (dividends, splits).
+# ─────────────────────────────────────────────────────────────────────────────
+def insert_history_data(ticker: str):
     try:
-        df = yf.Ticker(ticker).history(period="max", actions=True)
-    except Exception as e:
-        logging.error(f"❌ Failed to download history for {ticker}: {e}")
-        return
+        def nan_to_none(v):
+            return None if pd.isna(v) else v
 
-    if df.empty:
-        logging.warning(f"⚠️ No history data found for {ticker}")
-        return
-
-    # ── 2. Normalise dataframe ───────────────────────────────────────────────
-    df.index = df.index.tz_localize(None)          # remove timezone info
-    df.reset_index(inplace=True)                   # move index to column
-    df.rename(
-        columns={
-            "Date": "date",
-            "Open": "open",
-            "High": "high",
-            "Low": "low",
-            "Close": "close",
-            "Volume": "volume",
-            "Dividends": "dividends",
-            "Stock Splits": "stock_splits",
-        },
-        inplace=True,
-    )
-    df["date"] = pd.to_datetime(df["date"]).dt.date
-
-    # Retain only the columns actually present in the MySQL table
-    expected_cols = [
-        "date",
-        "open",
-        "high",
-        "low",
-        "close",
-        "volume",
-        "dividends",
-        "stock_splits",
-    ]
-    df = df[expected_cols]
-
-    # ── 3. Resolve company_id ────────────────────────────────────────────────
-    metadata = MetaData()
-    metadata.reflect(bind=engine)
-    with engine.begin() as conn:
-        row = conn.execute(
-            text("SELECT company_id FROM info WHERE symbol = :sym"),
-            {"sym": ticker},
-        ).fetchone()
-    if not row:
-        logging.warning(f"⚠️ No company_id found for {ticker}; skipping history insert")
-        return
-    company_id = row[0]
-
-    # ── 4. Upsert each row inside a single transaction ───────────────────────
-    inserted = 0
-    updated = 0
-    with engine.begin() as conn:
-        for _, rec in df.iterrows():
-            # Convert NaN to None for SQL
-            clean = {
-                k: (None if pd.isna(v) else v)
-                for k, v in rec.to_dict().items()
-            }
-            clean["company_id"] = company_id
-
-            exists = conn.execute(
-                text(
-                    """
-                    SELECT history_id
-                    FROM history
-                    WHERE company_id = :cid AND date = :d
-                    """
-                ),
-                {"cid": company_id, "d": clean["date"]},
+        # 1 ── Resolve company_id ────────────────────────────────────────────
+        with engine.begin() as conn:
+            row = conn.execute(
+                text("SELECT company_id FROM info WHERE symbol = :sym"),
+                {"sym": ticker},
             ).fetchone()
+        if not row:
+            logging.warning(f"⚠️ {ticker} not found in 'info'. Skipping history.")
+            return
+        company_id = row[0]
 
-            if exists:
-                conn.execute(
-                    text(
-                        """
-                        UPDATE history
-                        SET open=:open,
-                            high=:high,
-                            low=:low,
-                            close=:close,
-                            volume=:volume,
-                            dividends=:dividends,
-                            stock_splits=:stock_splits
-                        WHERE company_id=:cid AND date=:d
-                        """
-                    ),
-                    {
-                        **clean,
-                        "cid": company_id,
-                        "d": clean["date"],
-                    },
+        # 2 ── Last 5 stored dates (indexed lookup) ──────────────────────────
+        with engine.begin() as conn:
+            last5_rows = conn.execute(
+                text("""
+                    SELECT date
+                    FROM history
+                    WHERE company_id = :cid
+                    ORDER BY date DESC
+                    LIMIT 5
+                """),
+                {"cid": company_id},
+            ).fetchall()
+
+        last5_dates = {row[0] for row in last5_rows}
+        max_past_date = max(last5_dates) if last5_dates else None
+
+        # 3 ── Download data from Yahoo Finance (fallback: max → 10y → 5y) ───
+        yf_tkr = yf.Ticker(ticker)
+
+        # Helper: wrap .history() to return either DataFrame or Exception
+        def _fetch_history(*, period=None, start=None):
+            try:
+                if start is not None:
+                    return yf_tkr.history(start=start).reset_index()
+                return yf_tkr.history(period=period).reset_index()
+            except Exception as exc:
+                return exc  # propagate as value
+
+        if max_past_date:
+            df_raw = _fetch_history(start=max_past_date)
+            if isinstance(df_raw, Exception) or df_raw.empty:
+                logging.warning(
+                    f"⚠️ 'history' table: {ticker} failed to fetch from {max_past_date} onward or returned no data. Skipping."
                 )
-                updated += 1
+                return
+        else:
+            # Try 'max', then fall back to '10y', then '5y'
+            for per in ("max", "10y", "5y"):
+                df_raw = _fetch_history(period=per)
+                if not isinstance(df_raw, Exception) and not df_raw.empty:
+                    if per != "max":
+                        logging.warning(
+                            f"⚠️ 'history' table: {ticker} does not support period='max'; using '{per}' instead."
+                        )
+                    break
             else:
-                conn.execute(
-                    text(
-                        """
-                        INSERT INTO history
-                        (company_id, date, open, high, low, close, volume, dividends, stock_splits)
-                        VALUES (:company_id, :date, :open, :high, :low, :close,
-                                :volume, :dividends, :stock_splits)
-                        """
-                    ),
-                    clean,
+                logging.warning(
+                    f"⚠️ 'history' table: {ticker} returned no data even with fallback periods ('10y', '5y'). Skipping."
                 )
-                inserted += 1
+                return
 
-    # ── 5. Logging summary ──────────────────────────────────────────────────
-    if inserted:
-        logging.info(f"➕ {inserted} new rows inserted into 'history' for {ticker}")
-    if updated:
-        logging.info(f"🔁 {updated} rows updated in 'history' for {ticker}")
+        # 4 ── Normalise dataframe ───────────────────────────────────────────
+        df_raw["date"] = df_raw["Date"].dt.date
+        df_raw["company_id"] = company_id
+        df = df_raw.rename(
+            columns={
+                "Open": "open",
+                "High": "high",
+                "Low": "low",
+                "Close": "close",
+                "Volume": "volume",
+                "Dividends": "dividends",
+                "Stock Splits": "stock_splits",
+            }
+        )[
+            [
+                "company_id",
+                "date",
+                "open",
+                "high",
+                "low",
+                "close",
+                "volume",
+                "dividends",
+                "stock_splits",
+            ]
+        ]
 
+        # Ensure volume is integer (BIGINT) and replace NaN
+        df["volume"] = df["volume"].fillna(0).astype("Int64")
+
+        # 5 ── Build records list for executemany ────────────────────────────
+        records = [
+            {
+                "company_id": r.company_id,
+                "date": r.date,
+                "open": nan_to_none(r.open),
+                "high": nan_to_none(r.high),
+                "low":  nan_to_none(r.low),
+                "close": nan_to_none(r.close),
+                "volume": int(r.volume) if pd.notna(r.volume) else 0,
+                "dividends": nan_to_none(r.dividends),
+                "stock_splits": nan_to_none(r.stock_splits),
+            }
+            for r in df.itertuples(index=False)
+        ]
+
+        # 6 ── Single batch upsert ───────────────────────────────────────────
+        upsert_stmt = text("""
+            INSERT INTO history
+              (company_id, date, open, high, low, close, volume, dividends, stock_splits)
+            VALUES
+              (:company_id, :date, :open, :high, :low, :close, :volume, :dividends, :stock_splits)
+            ON DUPLICATE KEY UPDATE
+              open          = VALUES(open),
+              high          = VALUES(high),
+              low           = VALUES(low),
+              close         = VALUES(close),
+              volume        = VALUES(volume),
+              dividends     = VALUES(dividends),
+              stock_splits  = VALUES(stock_splits);
+        """)
+        with engine.begin() as conn:
+            conn.execute(upsert_stmt, records)   # executemany
+
+        # Determine counts using last5_dates for updated/inserted rows
+        if last5_dates:
+            updated_ct = sum(1 for r in records if r["date"] in last5_dates)
+            inserted_ct = len(records) - updated_ct
+        else:
+            inserted_ct = len(records)
+            updated_ct = 0
+
+        # 7 ── Logging summary ───────────────────────────────────────────────
+        if inserted_ct:
+            logging.info(f"➕ {inserted_ct} new rows inserted into 'history' for {ticker}")
+        if updated_ct:
+            logging.info(f"🔁 {updated_ct} rows updated in 'history' for {ticker}")
+
+    except Exception as e:
+        logging.error(f"❌ Error while inserting history data for {ticker}: {e}")
 
 # Function to insert or update annual balance‑sheet data in the 'balance_sheet' table
 # It downloads the full balance sheet from yfinance, pivots it per‑date, and performs an
@@ -869,28 +933,57 @@ def insert_financials_data(ticker):
 
 
 # Function to insert or update dividend data in the 'dividends' table
-# It pulls the dividend series from yfinance and upserts per (company_id, datetime).
-def insert_dividends_data(ticker):
-    # 1. Download dividend series (index = dates, values = dividends)
-    try:
-        ser = yf.Ticker(ticker).dividends
-    except Exception as e:
-        logging.warning(f"⚠️ Failed to retrieve dividends data for {ticker}: {e} (possibly missing or unsupported on Yahoo Finance)")
-        return
+#   • download full dividend series with yfinance
+#   • keep only dates newer than the last stored date (fast incremental load)
+#   • update the most‑recent 3 rows, in case Yahoo revises values
+#   • store date (DATE), tz_offset (±HH:MM) and dividend (DECIMAL 12,6)
+from decimal import Decimal, ROUND_HALF_UP
 
+def insert_dividends_data(ticker):
+    """Upsert dividend history for *ticker* into the `dividends` table."""
+    # 1 ── Download dividend series ──────────────────────────────────────────
+    try:
+        ser = yf.Ticker(ticker).dividends           # pandas Series
+    except Exception as e:
+        logging.warning(f"⚠️ Failed to retrieve dividends data for {ticker}: {e}")
+        return
     if ser.empty:
         logging.warning(f"⚠️ No dividend data found for {ticker}")
         return
 
-    # 2. Convert to DataFrame with explicit columns
+    # 2 ── Convert to DataFrame (date, tz_offset, dividend) ─────────────────
     df = ser.to_frame(name="dividend")
-    df.index = df.index.tz_localize(None)  # drop timezone info
-    df.reset_index(inplace=True)              # first column now holds the dates
-    # Ensure the first column is named 'datetime' regardless of its original name
-    df.columns = ["datetime", "dividend"]
-    df["datetime"] = pd.to_datetime(df["datetime"])  # ensure datetime type
+    df.index.name = "datetime"                      # ensure index has a name
+    df.reset_index(inplace=True)                    # -> columns: datetime, dividend
+    df["date"] = df["datetime"].dt.date             # DATE part only
+    # Extract numeric offset (e.g. "-0400") and convert → "-04:00"
+    df["tz_offset"] = (
+        df["datetime"]
+        .dt.strftime("%z")                                          # "-0400"
+        .str.replace(r"([+-]\d{2})(\d{2})", r"\1:\2", regex=True)   # "-04:00"
+    )
+    df["dividend"] = (
+        df["dividend"]
+        .astype(float)
+        .apply(lambda x: Decimal(str(x)).quantize(Decimal("0.000001"), ROUND_HALF_UP))
+    )
+    df = df[["date", "tz_offset", "dividend"]]
 
-    # 3. Resolve company_id
+    if df.empty:
+        return  # nothing valid to insert
+
+    # ── Filter out implausibly high dividends (> 1 000 per share) ───────────
+    MAX_REASONABLE_DIVIDEND = Decimal("1000.0")
+    too_high = df[df["dividend"] > MAX_REASONABLE_DIVIDEND]
+    if not too_high.empty:
+        logging.warning(
+            f"⚠️ 'dividends' table: {ticker} – {len(too_high)} records skipped because dividend > {MAX_REASONABLE_DIVIDEND}"
+        )
+        df = df[df["dividend"] <= MAX_REASONABLE_DIVIDEND]
+    if df.empty:
+        return  # all rows were outliers
+
+    # 3 ── Resolve company_id ────────────────────────────────────────────────
     metadata = MetaData()
     metadata.reflect(bind=engine)
     with engine.begin() as conn:
@@ -904,58 +997,82 @@ def insert_dividends_data(ticker):
     company_id = row[0]
 
     div_table = metadata.tables["dividends"]
-    existing_cols = div_table.columns.keys()
 
-    # 4. Iterate rows and upsert
-    inserted = 0
-    updated = 0
-    total_missing = 0  # unlikely, but keep for consistency
+    # 4 ── Determine incremental window (last stored date) ───────────────────
+    with engine.connect() as conn:
+        last_date = conn.execute(
+            text("SELECT MAX(date) FROM dividends WHERE company_id = :cid"),
+            {"cid": company_id},
+        ).scalar()
+        last3_dates = conn.execute(
+            text(
+                "SELECT date FROM dividends WHERE company_id = :cid "
+                "ORDER BY date DESC LIMIT 3"
+            ),
+            {"cid": company_id},
+        ).fetchall()
+    last3_dates = {row[0] for row in last3_dates}
 
-    with engine.begin() as conn:
-        for _, rec in df.iterrows():
-            dt_val = rec["datetime"]
-            row_data = {
-                "company_id": company_id,
-                "datetime": dt_val,
-            }
+    if last_date:
+        df_insert = df[df["date"] > last_date]
+        df_update = df[df["date"].isin(last3_dates)]
+    else:
+        # Table empty for this company → insert everything
+        df_insert, df_update = df.copy(), df.iloc[0:0]
 
-            # Only one data column: dividend
-            if "dividend" in existing_cols:
-                row_data["dividend"] = None if pd.isna(rec["dividend"]) else float(rec["dividend"])
-            else:
-                total_missing += 1  # dividend column missing (should not happen)
-
-            # Upsert logic
-            exists = conn.execute(
-                text(
-                    """
-                    SELECT dividend_id
-                    FROM dividends
-                    WHERE company_id = :cid AND datetime = :dt
-                    """
-                ),
-                {"cid": company_id, "dt": dt_val},
-            ).fetchone()
-
-            if exists:
+    # 5 ── Transaction: UPDATE latest 3, INSERT new rows ────────────────────
+    try:
+        with engine.begin() as conn:
+            # a) update (if any)
+            for _, rec in df_update.iterrows():
                 conn.execute(
-                    div_table.update()
-                    .where(div_table.c.company_id == company_id)
-                    .where(div_table.c.datetime == dt_val)
-                    .values(dividend=row_data.get("dividend"))
+                    text(
+                        """
+                        UPDATE dividends
+                        SET dividend = :div, tz_offset = :tz
+                        WHERE company_id = :cid AND date = :d
+                        """
+                    ),
+                    {
+                        "div": rec["dividend"],
+                        "tz": rec["tz_offset"],
+                        "cid": company_id,
+                        "d": rec["date"],
+                    },
                 )
-                updated += 1
-            else:
-                conn.execute(div_table.insert().values(**row_data))
-                inserted += 1
+            # b) bulk insert new rows
+            if not df_insert.empty:
+                batch = [
+                    {
+                        "company_id": company_id,
+                        "date": rec.date,
+                        "tz_offset": rec.tz_offset,
+                        "dividend": rec.dividend,
+                    }
+                    for rec in df_insert.itertuples(index=False)
+                ]
+                conn.execute(div_table.insert(), batch)
 
-    # 5. Logging summary
-    if total_missing:
-        logging.warning(f"⚠️ {total_missing} fields ignored for {ticker} in 'dividends' due to absent columns")
-    if inserted:
-        logging.info(f"➕ {inserted} new rows inserted into 'dividends' for {ticker}")
-    if updated:
-        logging.info(f"🔁 {updated} rows updated in 'dividends' for {ticker}")
+    except DataError as e:
+        # Handle out‑of‑range dividend values gracefully
+        if "dividend" in str(e).lower():
+            logging.warning(
+                f"⚠️ 'dividends' table: {ticker} contains dividend values outside column range. "
+                f"Skipped those records."
+            )
+            return  # skip logging summary; nothing inserted
+        else:
+            # re‑raise if it's another kind of DataError
+            raise
+
+    # 6 ── Logging summary ───────────────────────────────────────────────────
+    inserted_count = len(df_insert)
+    updated_count = len(df_update)
+
+    if inserted_count:
+        logging.info(f"➕ {inserted_count} new rows inserted into 'dividends' for {ticker}")
+    if updated_count:
+        logging.info(f"🔁 {updated_count} rows updated in 'dividends' for {ticker}")
 
 
 # Function to insert or update recommendation‑summary data in the 'recommendations' table
@@ -1052,26 +1169,51 @@ def insert_recommendations_data(ticker):
 
 # Function to insert or update stock‑split data in the 'splits' table
 # It pulls the split series from yfinance and upserts per (company_id, date).
+# Function to insert or update stock‑split data in the 'splits' table
+#   • download full split series with yfinance
+#   • keep only dates newer than the last stored date (fast incremental load)
+#   • update the most‑recent 3 rows, in case Yahoo revises values
+#   • store date (DATE), tz_offset (±HH:MM) and split_ratio (FLOAT)
 def insert_splits_data(ticker):
-    # 1. Download split series (index = dates, values = split ratios)
+    """Upsert split history for *ticker* into the `splits` table."""
+    # 1 ── Download split series ─────────────────────────────────────────────
     try:
-        ser = yf.Ticker(ticker).splits
+        ser = yf.Ticker(ticker).splits             # pandas Series
     except Exception as e:
-        logging.warning(f"⚠️ Failed to retrieve splits data for {ticker}: {e} (possibly missing or unsupported on Yahoo Finance)")
+        logging.warning(f"⚠️ Failed to retrieve splits data for {ticker}: {e}")
         return
-
     if ser.empty:
-        logging.warning(f"⚠️ No splits data found for {ticker}")
+        logging.warning(f"⚠️ No split data found for {ticker}")
         return
 
-    # 2. Convert to DataFrame with explicit columns
+    # 2 ── Convert to DataFrame (date, tz_offset, split_ratio) ──────────────
     df = ser.to_frame(name="split_ratio")
-    df.index = df.index.tz_localize(None)  # remove timezone
+    df.index.name = "datetime"
     df.reset_index(inplace=True)
-    df.columns = ["date", "split_ratio"]
-    df["date"] = pd.to_datetime(df["date"])  # keep full datetime
+    df["date"] = df["datetime"].dt.date
+    df["tz_offset"] = (
+        df["datetime"]
+        .dt.strftime("%z")                                         # "-0400"
+        .str.replace(r"([+-]\d{2})(\d{2})", r"\1:\2", regex=True)   # "-04:00"
+        .replace("", None)                                         # empty → NULL
+    )
+    df = df[["date", "tz_offset", "split_ratio"]]
 
-    # 3. Resolve company_id
+    if df.empty:
+        return  # nothing valid to insert
+
+    # ── Filter out implausible ratios (e.g. > 100‑for‑1) ───────────────────
+    MAX_REASONABLE_RATIO = 100.0
+    too_high = df[df["split_ratio"] > MAX_REASONABLE_RATIO]
+    if not too_high.empty:
+        logging.warning(
+            f"⚠️ 'splits' table: {ticker} – {len(too_high)} records skipped because split_ratio > {MAX_REASONABLE_RATIO}"
+        )
+        df = df[df["split_ratio"] <= MAX_REASONABLE_RATIO]
+    if df.empty:
+        return
+
+    # 3 ── Resolve company_id ───────────────────────────────────────────────
     metadata = MetaData()
     metadata.reflect(bind=engine)
     with engine.begin() as conn:
@@ -1085,57 +1227,74 @@ def insert_splits_data(ticker):
     company_id = row[0]
 
     splits_table = metadata.tables["splits"]
-    existing_cols = splits_table.columns.keys()
 
-    # 4. Iterate rows and upsert
-    inserted = 0
-    updated = 0
-    total_missing = 0  # keep for consistency
+    # 4 ── Determine incremental window (last stored date) ───────────────────
+    with engine.connect() as conn:
+        last_date = conn.execute(
+            text("SELECT MAX(date) FROM splits WHERE company_id = :cid"),
+            {"cid": company_id},
+        ).scalar()
+        last3_dates = conn.execute(
+            text(
+                "SELECT date FROM splits WHERE company_id = :cid "
+                "ORDER BY date DESC LIMIT 3"
+            ),
+            {"cid": company_id},
+        ).fetchall()
+    last3_dates = {row[0] for row in last3_dates}
 
-    with engine.begin() as conn:
-        for _, rec in df.iterrows():
-            date_val = rec["date"]
-            row_data = {
-                "company_id": company_id,
-                "date": date_val,
-            }
+    if last_date:
+        df_insert = df[df["date"] > last_date]
+        df_update = df[df["date"].isin(last3_dates)]
+    else:
+        df_insert, df_update = df.copy(), df.iloc[0:0]
 
-            if "split_ratio" in existing_cols:
-                row_data["split_ratio"] = None if pd.isna(rec["split_ratio"]) else float(rec["split_ratio"])
-            else:
-                total_missing += 1
-
-            # Upsert logic
-            exists = conn.execute(
-                text(
-                    """
-                    SELECT split_id
-                    FROM splits
-                    WHERE company_id = :cid AND date = :d
-                    """
-                ),
-                {"cid": company_id, "d": date_val},
-            ).fetchone()
-
-            if exists:
+    # 5 ── Transaction: UPDATE latest 3, INSERT new rows ────────────────────
+    inserted_count = 0
+    updated_count = 0
+    try:
+        with engine.begin() as conn:
+            # a) update recent rows
+            for _, rec in df_update.iterrows():
                 conn.execute(
-                    splits_table.update()
-                    .where(splits_table.c.company_id == company_id)
-                    .where(splits_table.c.date == date_val)
-                    .values(split_ratio=row_data.get("split_ratio"))
+                    text(
+                        """
+                        UPDATE splits
+                        SET split_ratio = :ratio, tz_offset = :tz
+                        WHERE company_id = :cid AND date = :d
+                        """
+                    ),
+                    {
+                        "ratio": rec["split_ratio"],
+                        "tz": rec["tz_offset"],
+                        "cid": company_id,
+                        "d": rec["date"],
+                    },
                 )
-                updated += 1
-            else:
-                conn.execute(splits_table.insert().values(**row_data))
-                inserted += 1
+                updated_count += 1
 
-    # 5. Logging summary
-    if total_missing:
-        logging.warning(f"⚠️ {total_missing} fields ignored for {ticker} in 'splits' due to absent columns")
-    if inserted:
-        logging.info(f"➕ {inserted} new rows inserted into 'splits' for {ticker}")
-    if updated:
-        logging.info(f"🔁 {updated} rows updated in 'splits' for {ticker}")
+            # b) bulk‑insert new rows
+            if not df_insert.empty:
+                batch = [
+                    {
+                        "company_id": company_id,
+                        "date": rec.date,
+                        "tz_offset": rec.tz_offset,
+                        "split_ratio": rec.split_ratio,
+                    }
+                    for rec in df_insert.itertuples(index=False)
+                ]
+                conn.execute(splits_table.insert(), batch)
+                inserted_count = len(batch)
+    except Exception as e:
+        logging.error(f"❌ Error while inserting splits data for {ticker}: {e}")
+        return
+
+    # 6 ── Logging summary ──────────────────────────────────────────────────
+    if inserted_count:
+        logging.info(f"➕ {inserted_count} new rows inserted into 'splits' for {ticker}")
+    if updated_count:
+        logging.info(f"🔁 {updated_count} rows updated in 'splits' for {ticker}")
 
 
 # Function to insert or update ESG sustainability data in the 'sustainability' table
@@ -1288,14 +1447,136 @@ def insert_sustainability_data(ticker):
         logging.info(f"🔁 1 row updated in 'sustainability' for {ticker}")
 
 # Execute the update process for each ticker in the list
-for ticker in tickers:
-    print(f"➡️ Processing: {ticker}")
-    insert_info_data(ticker)
-    insert_history_data(ticker)
-    insert_balance_sheet_data(ticker)
-    insert_cashflow_data(ticker)
-    insert_financials_data(ticker)
-    insert_dividends_data(ticker)
-    insert_recommendations_data(ticker)
-    insert_splits_data(ticker)
-    insert_sustainability_data(ticker)
+from curl_cffi.requests.exceptions import HTTPError, Timeout
+from sqlalchemy.exc import SQLAlchemyError, DataError
+
+# ADDITION: import for time handling at the top of the file
+from datetime import datetime, timedelta
+import time  # used for per‑ticker and total timing
+
+start_time = time.time()
+total_tickers = len(tickers)
+
+# Stato per gestione errori HTTP 401
+failures_in_row = 0
+first_failure_time = None
+MAX_CONSECUTIVE_FAILURES = 3
+WAIT_MINUTES_ON_FAILURE = 30
+MAX_TIMEOUT_RETRIES = 2          # quante volte riprovare dopo un timeout
+RETRY_SLEEP_SECONDS = 5          # pausa (secondi) tra i retry
+
+for i, ticker in enumerate(tickers, start=1):
+    attempts_left = MAX_TIMEOUT_RETRIES + 1   # primo tentativo + eventuali retry
+    while attempts_left > 0:
+        ticker_start = time.time()
+
+        progress_pct = (i / total_tickers) * 100
+        msg_start = (
+            f"➡️ Processing {i}/{total_tickers} ({progress_pct:.1f}%): "
+            f"{ticker} (try {MAX_TIMEOUT_RETRIES + 1 - attempts_left + 1})"
+        )
+        print(msg_start)
+        logging.info(msg_start)
+
+        try:
+            # ── INFO (può aggiungere colonne dinamiche) ────────────────────
+            insert_info_data(ticker)
+
+            # reset contatori HTTP 401 se tutto ok
+            failures_in_row = 0
+            first_failure_time = None
+
+            # ── verifica presenza in 'info' ────────────────────────────────
+            with engine.connect() as conn:
+                row = conn.execute(
+                    text("SELECT company_id FROM info WHERE symbol = :symbol"),
+                    {"symbol": ticker},
+                ).fetchone()
+            if row is None:
+                logging.warning(f"⚠️ {ticker} not found in 'info' table. Skipping.")
+                break  # esce dal while → prossimo ticker
+
+            # ── tutti gli altri inserimenti / update ──────────────────────
+            insert_history_data(ticker)
+            insert_balance_sheet_data(ticker)
+            insert_cashflow_data(ticker)
+            insert_financials_data(ticker)
+            insert_dividends_data(ticker)
+            insert_recommendations_data(ticker)
+            insert_splits_data(ticker)
+            insert_sustainability_data(ticker)
+
+        # ───────────── Gestione timeout con retry ─────────────────────────
+        except Timeout:
+            attempts_left -= 1
+            if attempts_left > 0:
+                logging.warning(
+                    f"⏰ Timeout for {ticker}. Retrying in {RETRY_SLEEP_SECONDS}s "
+                    f"({attempts_left} retries left)…"
+                )
+                time.sleep(RETRY_SLEEP_SECONDS)
+                continue        # riprova stesso ticker
+            logging.error(
+                f"❌ Timeout for {ticker} even after {MAX_TIMEOUT_RETRIES} retries. Skipping."
+            )
+            break               # passa al ticker successivo
+
+        # ───────────────── HTTP errors ────────────────────────────────────
+        except HTTPError as e:
+            if "401" in str(e):
+                failures_in_row += 1
+                if failures_in_row == 1:
+                    first_failure_time = datetime.now()
+                logging.error(f"❌ HTTP 401 for {ticker}. {failures_in_row} consecutive failures.")
+
+                if failures_in_row >= MAX_CONSECUTIVE_FAILURES:
+                    wait_until = first_failure_time + timedelta(minutes=WAIT_MINUTES_ON_FAILURE)
+                    now = datetime.now()
+                    if now < wait_until:
+                        wait_seconds = (wait_until - now).total_seconds()
+                        logging.warning(
+                            f"⏳ Too many HTTP 401 errors. Waiting {WAIT_MINUTES_ON_FAILURE} minutes…"
+                        )
+                        time.sleep(wait_seconds)
+                    failures_in_row = 0
+                    first_failure_time = None
+                break  # passa al ticker successivo
+
+            elif "404" in str(e):
+                logging.error(f"❌ Ticker {ticker} not found on Yahoo (404). Skipping.")
+                break
+
+            else:
+                logging.error(f"❌ Unexpected HTTP error for {ticker}: {e}. Skipping.")
+                break
+
+        # ───────────────── SQL errors ─────────────────────────────────────
+        except (DataError, SQLAlchemyError) as sql_e:
+            logging.error(f"❌ SQL error for {ticker}: {sql_e}. Skipping.")
+            break
+        
+        # ───────────────── KeyboardInterrupt ────────────────────────────────
+        except KeyboardInterrupt:
+            logging.warning("🛑 Execution interrupted by user.")
+            raise  # o `break` se preferisci chiudere solo il ticker corrente
+
+        # ───────────────── Other errors ────────────────────────────────────
+        except Exception as e:
+            logging.error(f"❌ Unexpected error for {ticker}: {type(e).__name__}: {e}. Skipping.")
+            break
+        # ── Success: log and calculate timing ─────────────────────────────
+        ticker_time = time.time() - ticker_start
+        total_elapsed = int(time.time() - start_time)
+        elapsed_str = time.strftime("%H:%M:%S", time.gmtime(total_elapsed))
+        avg_time = total_elapsed / i
+        remaining = total_tickers - i
+        eta_seconds = int(avg_time * remaining) if remaining else 0
+        eta_str = time.strftime("%H:%M:%S", time.gmtime(eta_seconds))
+
+        msg_done = (
+            f"✔️ Finished {ticker} in {ticker_time:.1f}s | "
+            f"total runtime {elapsed_str} | ETA {eta_str}"
+        )
+        print(msg_done)
+        logging.info(msg_done)
+        break  # esce dal while → prossimo ticker

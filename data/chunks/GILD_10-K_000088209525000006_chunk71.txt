@@ -1,0 +1,17 @@
+charge the discount back to us.
+Rebates and chargebacks are estimated primarily based on product sales, including product mix and pricing, historical and estimated payer mix and discount rates, among other inputs, which require significant estimates and judgment. We assess and update our estimates each reporting period to reflect actual claims and other current information.
+Chargebacks that are payable to our direct customers are generally classified as reductions of Accounts receivable on our Consolidated Balance Sheets. Rebates that are payable to third party payers and healthcare providers are recorded in Accrued rebates on our Consolidated Balance Sheets.
+Patient Co-Pay Assistance
+Co-pay assistance represents financial assistance to qualified patients, assisting them with prescription drug co-payments required by insurance. Our accrual for co-pay is based on an estimate of claims and the cost per claim that we expect to receive associated with inventory that exists in the distribution channel at period end.
+Cash Discounts
+We estimate cash discounts based on contractual terms, historical customer payment patterns and our expectations regarding future customer payment patterns.
+Distributor Fees
+Under our inventory management agreements with our significant U.S. wholesalers, we pay the wholesalers a fee primarily for compliance with certain contractually-determined covenants such as the maintenance of agreed-upon inventory levels. These distributor fees are based on a contractually-determined fixed percentage of sales.
+Allowance for Sales Returns
+Allowances are made for estimated sales returns by our customers and are recorded in the period the related revenue is recognized. We typically permit returns if the product is damaged, defective, or otherwise cannot be used by the customer. In the U.S., we typically permit returns six months prior to and up to one year after the product expiration date. Outside the U.S., returns are only allowed in certain countries on a limited basis.
+Our estimates of sales returns are based primarily on analysis of our historical product return patterns, industry information reporting the return rates for similar products and contractual agreement terms. We also take into consideration known or expected changes in the marketplace specific to each product.
+Royalty, Contract and Other Revenues
+Royalty revenue is recognized in the period in which the obligation is satisfied and the corresponding sales by our corporate partners occur. Contract and other revenues are recognized when the performance obligation is satisfied.
+59
+Research and Development Expenses
+Research and development expenses are recorded when incurred and consist primarily of personnel costs including salaries, benefits and stock-based compensation expense, infrastructure, materials and supplies and other support costs, research and clinical studies performed by contract research organizations (“CROs”) and our collaboration partners and other outside

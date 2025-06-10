@@ -1,0 +1,20 @@
+Assets
+Determining the fair values of intangible assets, whether as part of a business combination or impairment assessment, involves the use of a probability-weighted income approach that discounts expected future cash flows to present value and requires the use of critical estimated inputs, including:
+•
+identification of product candidates with sufficient substance requiring separate recognition;
+•
+estimates of projected future cash flows, including revenues and operating profits related to the products or product candidates, which, for example, include significant inputs such as addressable patient population, treatment duration and projected market share;
+•
+the probability of technical and regulatory success for unapproved product candidates considering their stages of development;
+•
+the time and resources needed to complete the development and approval of product candidates;
+•
+an appropriate discount rate based on the estimated weighted-average cost of capital for companies with profiles similar to our profile, representing the rate that market participants would use to value the intangible assets;
+•
+the life of the potential commercialized products and associated risks, including the inherent difficulties and uncertainties in developing a product candidate such as obtaining FDA and other regulatory approvals; and
+•
+risks related to the viability of and potential alternative treatments in any future target markets.
+These estimates are subject to uncertainty due to the high rate of failure inherent in the discovery and development of new products; delays that can occur in development, approval and product launch processes; unanticipated decisions made by regulatory agencies; advent of competing products; unexpected changes in U.S. and global financial markets and other unanticipated events and circumstances. If future events result in adverse changes in the critical assumptions used in determining fair value, impairment charges on our intangible assets may be recorded and could be material to our financial statements. For example, in 2024, upon receiving data from our Phase 3 EVOKE-01 study of Trodelvy, which indicated the study did not meet its primary endpoint, and further discussions with regulators and external opinion leaders and completion of the evaluation of the trial data which led to the strategic decision to end the second-line indication program, we recognized in aggregate $4.2 billion in impairment charges related to our NSCLC IPR&D intangible asset, reflecting, amongst other changes, the removal of expected future cash flows associated with second-line plus patients from our valuation model.
+Legal Contingencies
+We are a party to various legal actions. Certain significant matters are described in Note 13. Commitments and Contingencies of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Critical inputs to the accruals recorded and disclosures provided in relation to these

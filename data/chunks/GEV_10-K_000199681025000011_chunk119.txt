@@ -1,0 +1,40 @@
+use of market observable inputs including interest rate curves and
+both forward and spot prices for currencies and commodities and therefore are considered Level 2. See Note
+20
+for further information.
+Nonrecurring Fair Value Measurements
+. Certain assets and liabilities are measured at fair value on a nonrecurring basis. These assets
+and liabilities may include loans and long-lived assets reduced to fair value upon classification as held for sale, impaired equity method
+investments, loans, and long-lived assets, assets acquired and liabilities assumed in connection with business combinations, and
+remeasured retained investments in formerly combined subsidiaries upon a change in control that results in the deconsolidation of that
+2024 FORM 10-K
+61
+subsidiary and retention of a noncontrolling stake in the entity. Assets written down to fair value when impaired and retained investments
+are not subsequently adjusted to fair value unless further impairment occurs.
+Equity Method Investments.
+Equity method investments are initially recorded at cost and are adjusted in each period for the Company’s
+share of the investee’s income or loss and dividends paid. In instances of impairment, equity method investments are written down to fair
+value using market observable data such as quoted prices when available. When market observable data is unavailable, investments are
+valued using either a discounted cash flow model, comparative market multiples, third-party pricing sources or a combination of these
+approaches, as appropriate. These investments are generally valued using Level 3 inputs.
+Financing Receivables.
+When financing receivables are held for sale, we generally use market data, including pricing on recently closed
+market transactions, to value financing receivables. Such financing receivables are valued using Level 2 inputs. When the data is
+unobservable, we use valuation methodologies using current market interest rate data adjusted for inherent credit risk. Such financing
+receivables are valued using Level 3 inputs.
+Long-lived Assets.
+Fair values of long-lived assets are primarily derived internally and are corroborated by available external appraisal
+information as applicable. These assets are generally valued using Level 3 inputs.
+Restructuring Cost
+s.
+We record liabilities for costs associated with exit or disposal activities in the period in which the liability is incurred.
+Employee termination costs are accrued when the restructuring actions are probable and estimable. Costs for one-time termination benefits
+in which the employee is required to render service until termination in order to receive the benefits are recognized ratably over the future
+service period.
+See Note
+23
+for further information.
+Research and Developmen
+t.
+The Company conducts research and development (R&D) activities to continually enhance our existing
+products and services, develop new products and services to meet our customers’ changing needs and requirements, and

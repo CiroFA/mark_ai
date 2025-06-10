@@ -1,0 +1,129 @@
+0001050446
+us-gaap:SubscriptionAndCirculationMember
+2024-01-01
+2024-12-31
+0001050446
+us-gaap:ConvertibleDebtMember
+mstr:ConvertibleSeniorNotesDueTwentyTwentyFiveMember
+2023-01-01
+2023-12-31
+0001050446
+us-gaap:ConvertibleDebtMember
+mstr:EventsOfDefaultMember
+2024-01-01
+2024-12-31
+0001050446
+mstr:TwoThousandAndTwentyTwoTailAgreementMember
+mstr:BoardOfDirectorsChairmanAndExecutiveChairmanMember
+2022-10-01
+2022-12-31
+0001050446
+mstr:DepositsAndOtherAssetsMember
+2023-12-31
+0001050446
+us-gaap:ConvertibleDebtMember
+mstr:ConvertibleSeniorNotesDueTwentyTwentyFiveMember
+2022-01-01
+2022-12-31
+0001050446
+us-gaap:ConvertibleDebtMember
+2023-01-01
+2023-12-31
+0001050446
+us-gaap:TreasuryStockCommonMember
+2022-12-31
+0001050446
+mstr:ConvertibleSeniorNotesDueTwentyThirtyMember
+2024-03-01
+2024-03-31
+0001050446
+mstr:ShareSettledPerformanceStockUnitsMember
+us-gaap:CommonClassAMember
+2022-01-01
+2022-12-31
+0001050446
+mstr:TwentyTwentyOneEmployeeStockPurchasePlanMember
+us-gaap:CommonClassAMember
+2022-01-01
+2022-12-31
+0001050446
+mstr:ConvertibleSeniorNotesDueTwentyTwentyNineMember
+us-gaap:CommonClassAMember
+mstr:ConvertibleUnderCertainCircumstancesMember
+2024-01-01
+2024-12-31
+0001050446
+us-gaap:SubscriptionAndCirculationMember
+2022-01-01
+2022-12-31
+0001050446
+us-gaap:ConvertibleDebtMember
+mstr:ConvertibleSeniorNotesDueTwentyTwentySevenMember
+2023-01-01
+2023-12-31
+0001050446
+us-gaap:ForeignCountryMember
+2023-12-31
+0001050446
+mstr:ConvertibleSeniorNotesDueTwentyTwentySevenMember
+2021-02-01
+2021-02-28
+0001050446
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-12-31
+0001050446
+us-gaap:CorporateNonSegmentMember
+2023-12-31
+0001050446
+us-gaap:LatestTaxYearMember
+us-gaap:StateAndLocalJurisdictionMember
+2024-01-01
+2024-12-31
+iso4217:USD
+xbrli:shares
+xbrli:pure
+mstr:Days
+iso4217:BRL
+mstr:ExtendedTerm
+mstr:Customer
+mstr:Bitcoin
+xbrli:shares
+mstr:Country
+mstr:Segment
+iso4217:USD
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+December 31
+,
+2024
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission File Number
+001-42509
+MICROSTRATEGY INCORPORATED
+(Exact Name of Registrant as Specified in Its Charter)
+Registrant’s Telephone Number, Including Area Code: (
+703
+)
+848-8600
+Securities registered pursuant to Section 12(b) of the Act:
+Securities registered pursuant to Section 12(g) of the Act:  Not applicable
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+☒
+No
+☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+☐
+No
+☒
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or

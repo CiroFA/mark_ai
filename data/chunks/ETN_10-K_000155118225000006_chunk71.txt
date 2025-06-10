@@ -1,0 +1,46 @@
+swaps outstanding at December 31, 2024, is as follows:
+Forward Starting Floating-to-Fixed Interest Rate Swaps
+Derivative Financial Statement Impacts
+The fair value of derivative financial instruments recognized in the Consolidated Balance Sheets is as follows:
+The currency exchange contracts shown in the table above as derivatives not designated as hedges are primarily contracts entered into to manage currency volatility or exposure on intercompany receivables, payables and loans. While Eaton does not elect hedge accounting treatment for these derivatives, Eaton targets managing
+95
+% to
+100
+% of the intercompany balance sheet exposure to minimize the effect of currency volatility related to the movement of goods and services in the normal course of its operations. This activity represents the great majority of these currency exchange contracts. The cash flows resulting from the settlement of these derivatives have been classified in investing activities in the Consolidated Statements of Cash Flows.
+Foreign currency denominated debt designated as non-derivative net investment hedging instruments had a carrying value on an after-tax basis of $
+3,105
+million and $
+3,140
+million at December 31, 2024 and 2023, respectively.
+67
+Table of Contents
+As of December 31, 2024, the volume of outstanding commodity contracts that were entered into to hedge forecasted transactions:
+The following amounts were recorded on the Consolidated Balance Sheets related to fixed-to-floating interest rate swaps:
+1
+At December 31, 2024 and 2023, these amounts include the cumulative liability amount of fair value hedging adjustments remaining for which the hedge accounting has been discontinued of $
+37
+million and $
+42
+million, respectively.
+The impact of cash flow and fair value hedging activities to the Consolidated Statements of Income is as follows:
+68
+Table of Contents
+69
+Table of Contents
+The impact of derivatives not designated as hedges to the Consolidated Statements of Income is as follows:
+The impact of derivative and non-derivative instruments designated as hedges to the Consolidated Statements of Income and Comprehensive Income is as follows:
+70
+Table of Contents
+The pre-tax portion of the fair value of currency exchange contracts designated as net investment hedges included in Accumulated other comprehensive loss were net gains of $
+27
+million at December 31, 2024. The pre-tax portion of the fair value of the forward points included in Accumulated other comprehensive loss were net gains of $
+1
+million at December 31, 2024.
+At December 31, 2024, a gain of $
+3
+million of estimated unrealized net gains or losses associated with our cash flow hedges were expected to be reclassified to income from Accumulated other comprehensive loss within the next twelve months. These reclassifications relate to our designated foreign currency and commodity hedges that will mature in the next twelve months.
+71
+Table of Contents
+Note 17.
+RESTRUCTURING CHARGES
+In the second quarter of

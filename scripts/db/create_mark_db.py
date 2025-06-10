@@ -67,7 +67,7 @@ from sqlalchemy import Table, Column, Integer, BigInteger, String, Float, Date, 
 info = Table(
     "info", metadata,
     Column("company_id", Integer, primary_key=True, autoincrement=True),
-    Column("symbol", String(10)),
+    Column("symbol", String(10), unique=True, nullable=False),
     Column("shortName", String(255)),
     Column("longName", String(255)),
     Column("address1", String(255)),
@@ -110,8 +110,8 @@ info = Table(
     Column("beta", Float),
     Column("trailingPE", Float),
     Column("forwardPE", Float),
-    Column("volume", Integer),
-    Column("regularMarketVolume", Integer),
+    Column("volume", BigInteger),
+    Column("regularMarketVolume", BigInteger),
     Column("averageVolume", Integer),
     Column("averageVolume10days", Integer),
     Column("averageDailyVolume10Day", Integer),
@@ -145,6 +145,7 @@ info = Table(
     Column("impliedSharesOutstanding", Float),
     Column("bookValue", Float),
     Column("priceToBook", Float),
+    Column("totalAssets", BigInteger),
     Column("lastFiscalYearEnd", Integer),
     Column("nextFiscalYearEnd", Integer),
     Column("mostRecentQuarter", Integer),
@@ -243,11 +244,11 @@ officers = Table(
     Column("unexercised_value", Float)
 )
 
+# Price history table
 history = Table(
     "history", metadata,
-    Column("history_id", Integer, primary_key=True, autoincrement=True),
-    Column("company_id", Integer, nullable=False),
-    Column("date", Date, nullable=False),
+    Column("company_id", Integer, primary_key=True, nullable=False),
+    Column("date", Date, primary_key=True, nullable=False),
     Column("open", Float),
     Column("high", Float),
     Column("low", Float),
@@ -482,12 +483,16 @@ cashflow = Table(
     Column("Net_Income_From_Continuing_Operations", Float),
 )
 
+from sqlalchemy import DECIMAL, UniqueConstraint
+
 dividends = Table(
     "dividends", metadata,
     Column("dividend_id", Integer, primary_key=True, autoincrement=True),
     Column("company_id", Integer, nullable=False),
-    Column("datetime", DateTime(timezone=True), nullable=False),
-    Column("dividend", Float),
+    Column("date", Date, nullable=False),
+    Column("tz_offset", String(6), nullable=True),
+    Column("dividend", DECIMAL(20, 6), nullable=False),
+    UniqueConstraint("company_id", "date", name="uk_company_date")
 )
 
 recommendations = Table(
@@ -555,10 +560,12 @@ sustainability = Table(
 
 splits = Table(
     "splits", metadata,
-    Column("split_id", Integer, primary_key=True, autoincrement=True),  # Align with naming convention
+    Column("split_id", Integer, primary_key=True, autoincrement=True),
     Column("company_id", Integer, nullable=False),
-    Column("date", DateTime(timezone=True), nullable=False),  # Use DateTime with timezone for clarity
-    Column("split_ratio", Float, nullable=False)  # Not nullable for data integrity
+    Column("date", Date, nullable=False),
+    Column("tz_offset", String(6), nullable=True),
+    Column("split_ratio", Float, nullable=False),
+    UniqueConstraint("company_id", "date", name="uk_company_date")
 )
 
 try:

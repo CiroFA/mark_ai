@@ -1,0 +1,28 @@
+unadjusted, quoted prices in active markets for identical assets or liabilities at the measurement date and
+Level II
+—Inputs are observable, unadjusted quoted prices in active markets for similar assets or liabilities, unadjusted quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the related assets or liabilities. We don't have any level III financial assets measured at fair value on a recurring basis.
+The following tables summarize the fair value of these financial assets by significant investment category and their levels within the fair value hierarchy (in millions):
+7
+Table of Contents
+During the three months ended March 31, 2025, the Company did not make any transfers between the levels of the fair value hierarchy.
+Debt securities
+The following table summarizes the amortized cost, unrealized gains and losses, and fair value of our debt securities measured at fair value on a recurring basis (in millions):
+For debt securities in unrealized loss positions, it is not likely that we will be required to sell such securities before recovery of their amortized cost basis nor do we have the intent to sell such securities before maturity. We invest in debt securities that have maximum maturities of
+three years
+and are generally deemed to be low risk based on their credit ratings from the major rating agencies. The longer the duration of these marketable securities, the more susceptible they are to changes in market interest rates and bond yields. Given the short-term and conservative nature of our portfolio, our debt securities are generally not subject to credit risk; therefore, we did not recognize any credit losses or non-credit-related impairments related to such securities for the three months ended March 31, 2025. All unrealized losses were recognized in other comprehensive income (loss). Realized gains or losses were immaterial for the three months ended March 31, 2025.
+The following table is an analysis of our debt securities in unrealized loss positions (in millions):
+As of March 31, 2025, we had no marketable debt securities with contractual maturities that exceeded
+three years
+.
+The fair values of marketable debt securities, by remaining contractual maturities, are as follows (in millions):
+The weighted-average remaining duration of our marketable debt securities is approximately
+1.3
+years as of March 31, 2025. As we view these marketable debt securities as available to support current operations, we classify marketable debt securities with maturities beyond 12 months as current assets under the caption "Marketable securities" on the condensed consolidated balance sheets.
+8
+Table of Contents
+3.
+Financial Statements Details
+Inventories
+Inventories consist of the following (in millions):
+(1) The balance includes evaluation inventory held at customers or partners totaling $
+435.8

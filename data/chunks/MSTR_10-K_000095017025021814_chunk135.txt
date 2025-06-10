@@ -1,0 +1,19 @@
+ratings and maturities that seek to maintain safety and liquidity.
+The Company sells its offerings to various companies across several industries throughout the world in the ordinary course of business.  The Company routinely assesses the financial strength of its customers and maintains allowances for anticipated losses.  As of December 31, 2024 and 2023
+,
+no
+individual customer accounted for 10% or more of net accounts receivable, and for the years ended December 31,
+2024, 2023, and 2022
+,
+no
+individual customer accounted for 10% or more of revenue.
+(g) Digital Assets
+The Company accounts for its digital assets, which are comprised solely of bitcoin, as indefinite-lived intangible assets in accordance with Accounting Standards Codification (“ASC”) 350,
+Intangibles—Goodwill and Other
+. The Company has ownership of and control over its bitcoin and uses third-party custodial services at multiple locations that are geographically dispersed to store its bitcoin. The Company’s digital assets are initially recorded at cost. Subsequently, they are measured at cost, net of any impairment losses incurred since acquisition.
+The Company determines the fair value of its bitcoin on a nonrecurring basis in accordance with ASC 820,
+Fair Value Measurement
+, based on quoted (unadjusted) prices on the Coinbase exchange, the active exchange that the Company has determined is its principal market for bitcoin (Level 1 inputs).  The Company performs an analysis each quarter to identify whether events or changes in circumstances, principally decreases in the quoted (unadjusted) prices on the active exchange, indicate that it is more likely than not that any of the assets are impaired.  In determining if an impairment has occurred, the Company considers the lowest price of one bitcoin quoted on the active exchange at any time since acquiring the specific bitcoin held by the Company. If the carrying value of a bitcoin exceeds that lowest price, an impairment loss has occurred with respect to that bitcoin in the amount equal to the difference between its carrying value and such lowest price.
+Impairment losses are recognized in the period in which the impairment occurs and are reflected within “Digital asset impairment losses (gains on sale), net” in the Company’s Consolidated Statements of Operations. The impaired digital assets are written down to their fair value at the time of impairment and this new cost basis will not be adjusted upward for any subsequent increase in fair value. Gains (if any) are not recorded until realized upon sale, at which point they are presented net of any impairment losses in the Company’s Consolidated Statements of Operations.  In determining the gain to be recognized upon sale, the Company calculates the difference between the sales price and carrying value of the specific bitcoins sold immediately prior to sale.
+79
+See Note 4, Digital Assets, to the Consolidated Financial Statements for further information regarding the Company’s

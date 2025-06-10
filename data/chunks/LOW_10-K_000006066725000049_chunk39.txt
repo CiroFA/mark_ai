@@ -1,0 +1,19 @@
+interest rates, bank failures or other macroeconomic conditions, or an erosion of our credit strength or declines on our credit rating could impact negatively our ability to meet capital requirements or fund working capital needs.
+Item 1B - Unresolved Staff Comments
+None.
+Table of Contents
+Item 1C - Cybersecurity
+We maintain a robust cybersecurity program that we have designed with the goal of identifying, deterring, detecting, responding to, and managing potential cybersecurity risks and threats.
+Risk Management and Strategy
+Risk management is a central part of our cybersecurity program.  We conduct regular risk assessments and monitor our information systems for potential vulnerabilities.  We employ a risk quantification model to identify, measure, and prioritize cybersecurity and technology risks, and we implement corresponding security controls and safeguards based on model outputs.
+As part of our focus on the use of AI technology in our business, we developed an AI cybersecurity strategy designed to enable the building of secure and reliable AI systems while also managing ethical, legal, cyber, data privacy, and other technology risks.  The Company also established an AI Governance Committee, which is composed of leaders across a variety of business, technology, and support functions, to oversee the creation and implementation of risk control and strategic implementation frameworks.
+In addition to cybersecurity risks being tracked, managed, and monitored directly by the information security group, cybersecurity risks are also integrated into, and are among the risks evaluated and considered by, our enterprise risk management program.
+The Company’s Chief Legal Officer provides centralized oversight of our enterprise risk management program, which is managed by our Chief Compliance Officer and the Office of Enterprise Risk Management in partnership with the Enterprise Risk Council (ERC).  The ERC is comprised of senior Company leaders with broad enterprise experience, including our Chief Information Security Officer (CISO).
+Processes and Procedures
+We have adopted physical, technological, and administrative controls on cybersecurity.  Our risk management processes include, among others, the following features:
+•
+We leverage the National Institute of Standards and Technology security frameworks as well as established internal security standards, industry practices, and applicable regulatory requirements.  Our program is designed to comply with a range of applicable industry standards, such as the Payment Card Industry Data Security Standard.
+•
+We maintain cybersecurity insurance coverage that provides protection against potential losses arising from certain cybersecurity incidents.
+•
+We require that cybersecurity awareness and data privacy training, along with company-wide and tailored training programs, be provided to associates annually.  We also regularly conduct phishing and social engineering simulations, and host events to increase

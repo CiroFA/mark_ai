@@ -1,0 +1,18 @@
+of maintenance and repairs, which are not significant improvements, are expensed when incurred.
+•
+Property Dispositions
+—When complete units of depreciable property are sold, the asset cost and related accumulated depreciation are eliminated, with any gain or loss reflected in the “Gain (loss) on dispositions” line of our consolidated income statement. When partial units of depreciable property are sold or retired which do not significantly alter the DD&A rate, the asset cost and accumulated depreciation are eliminated such that no gain or loss is recorded.
+•
+Asset Retirement Obligations and Environmental Costs
+—The
+fair value of legal obligations to retire and remove long-lived assets are recorded in the period in which the obligation is incurred (typically when the asset is installed at the production location). Fair value is estimated using a present value approach, incorporating assumptions about estimated amounts and timing of settlements and impacts of the use of technologies.
+See Note
+7
+.
+Environmental expenditures are expensed or capitalized, depending upon their future economic benefit. Expenditures relating to an existing condition caused by past operations, and those having no future economic benefit, are expensed. Liabilities for environmental expenditures are recorded on an undiscounted basis (unless acquired through a business combination, which we record on a discounted basis) when environmental assessments or cleanups are probable and the costs can be reasonably estimated. Recoveries of environmental remediation costs from other parties are recorded as assets when their receipt is probable and estimable.
+•
+Impairment of Investments in Nonconsolidated Entities
+—Investments in nonconsolidated entities are assessed for impairment whenever changes in the facts and circumstances indicate a loss in value has occurred. When such a condition is judgmentally determined to be other than temporary, the carrying value of the investment is written down to fair value. The fair value of the impaired investment is based on quoted market prices, if available, or upon the present value of expected future cash flows using discount rates and prices believed to be consistent with those used by principal market participants, plus market analysis of comparable assets owned by the investee, if appropriate.
+•
+Guarantees
+—The fair value of a guarantee is determined and recorded as a liability at the time the guarantee is given. The initial liability is subsequently reduced as we are released from exposure under the guarantee. We amortize the guarantee liability over the relevant time period, if one exists, based on the facts and circumstances surrounding each type of guarantee. In cases where the guarantee term is indefinite, we reverse the liability when we have information indicating the liability is essentially relieved or amortize it over an appropriate time period as the fair value of our guarantee exposure declines over time. We amortize the

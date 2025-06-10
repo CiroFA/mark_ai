@@ -1,0 +1,19 @@
+events that have been recognized in an entity's financial statements or tax returns. Judgment is required in addressing the future tax consequences of events that have been recognized in our Consolidated Financial Statements or tax returns (e.g., realization of deferred tax assets, changes in tax laws or interpretations thereof). A change in the assessment of the outcomes of such matters could materially impact our Consolidated Financial Statements.
+There is a financial statement recognition threshold and measurement attribute for tax positions taken or expected to be taken in a tax return. Specifically, the likelihood of an entity's tax benefits being sustained must be “more likely than not,” assuming that these positions will be examined by tax authorities with full knowledge of all relevant information prior to recording the related tax benefit in the financial statements.  If a tax position drops below the “more likely than not” standard, the benefit can no longer be recognized.  Assumptions, judgment, and the use of estimates are required in determining if the “more likely than not” standard has been met when developing the provision for income taxes.  As of June 30, 2024 and 2023, the Company's liabilities for unrecognized tax benefits,
+which include interest and penalties,
+were $
+126.9
+million and
+$
+116.9
+million, respectively.
+S.
+Workers’ Compensation Costs.
+The Company employs a third-party actuary to assist in determining the estimated claim liability related to workers’ compensation and employer's liability coverage for PEO Services worksite employees. In estimating ultimate loss rates, we utilize historical loss experience, exposure data, and actuarial judgment, together with a range of inputs which are primarily based upon the worksite employee's job responsibilities, their location, the historical frequency and severity of workers’ compensation claims, and an estimate of future cost trends. For each reporting period, changes in the actuarial assumptions resulting from changes in actual claims experience and other trends are incorporated into our workers’ compensation claims cost estimates. PEO Services has secured a workers’ compensation and employer’s liability insurance policy that caps the exposure for each claim at $
+1
+million per occurrence and has also secured aggregate stop loss insurance that caps aggregate losses at a certain level in fiscal years 2012 and prior from an admitted and licensed insurance company of AIG. The Company has obtained approximately $
+351
+million of irrevocable standby letters of credit in favor of licensed insurance companies of AIG to secure TotalSource workers’ compensation obligations if ADP were to fail to reimburse AIG for workers’ compensation payments. The Company had
+no
+drawdowns during June 30, 2024 and 2023 under the letters of credit.
+Additionally, starting in fiscal 2013, ADP Indemnity paid premiums to enter into reinsurance arrangements with ACE American Insurance Company, a wholly-owned

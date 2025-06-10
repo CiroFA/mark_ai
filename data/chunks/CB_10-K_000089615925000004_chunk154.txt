@@ -1,0 +1,15 @@
+benchmark yields, reported trades, broker/dealer quotes, issuer spreads, two-sided markets, benchmark securities, bids, offers, reference data, and industry and economic events. The extent of the use of each input is dependent on the asset class and the market conditions. Given the asset class, the priority of the use of inputs may change, or some market inputs may not be relevant. Additionally, fixed maturities valuation is more subjective when markets are less liquid due to the lack of market-based inputs (i.e., stale pricing) and may require the use
+F-30
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+of models to be priced. The lack of market-based inputs may increase the potential that an investment's estimated fair value is not reflective of the price at which an actual transaction would occur. The overwhelming majority of fixed maturities are classified within Level 2 because the most significant inputs used in the pricing techniques are observable. For a small number of fixed maturities, we obtain a single broker quote (typically from a market maker). Due to the disclaimers on the quotes that indicate that the price is indicative only, we include these fair value estimates in Level 3.
+Equity securities
+Equity securities with active markets are classified within Level 1 as fair values are based on quoted market prices. For equity securities in markets which are less active, fair values are based on market valuations and are classified within Level 2. Equity securities for which pricing is unobservable are classified within Level 3.
+Short-term investments
+Short-term investments, which comprise securities due to mature within one year of the date of purchase that are traded in active markets, are classified within Level 1 as fair values are based on quoted market prices. Securities such as commercial paper and discount notes are classified within Level 2 because these securities are typically not actively traded due to their approaching maturity, and as such, their cost approximates fair value. Short-term investments for which pricing is unobservable are classified within Level 3.
+Private equities
+Fair values for Private equities including investments in partially-owned investment companies, investment funds, and limited partnerships are based on their respective NAV and are excluded from the fair value hierarchy table below.
+Other investments
+Certain of our long-duration contracts are supported by assets that do not qualify for separate account treatment under U.S. GAAP. These assets primarily comprise mutual funds, classified within Level 1 in the valuation hierarchy on the same basis as other equity securities traded in active markets. Other investments principally include fixed maturities carried at fair value with changes in fair value recorded through Net realized gains (losses) on the Consolidated statements of operations. These fixed maturities principally relate to the Huatai

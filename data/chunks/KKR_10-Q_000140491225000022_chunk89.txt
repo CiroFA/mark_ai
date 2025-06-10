@@ -1,0 +1,41 @@
+currently designated interest rate swaps recorded in accumulated other comprehensive income (loss), respectively. Amounts deferred in accumulated other comprehensive gain (loss) are reclassified to net investment income in the same period during which the hedged investments affect earnings.
+For all cash flow hedges, Global Atlantic estimates that the amount of gains/losses in accumulated other comprehensive income (loss) to be reclassified into earnings in the next 12 months will not be material.
+36
+Table of Contents
+Net Investment Hedges
+Global Atlantic has designated cross currency swaps to hedge the foreign currency risk associated with certain foreign currency-denominated equity method investments in net investment hedges. The effectiveness of these hedges is assessed based on changes in spot rates.
+Changes in the fair value of the swaps are recognized in other comprehensive income, consistent with the translation adjustment for the hedged investment. The component comprising the difference between forward rates and spot rates is amortized to net investment income over the life of the swaps. As of March 31, 2025 and December 31, 2024, the cumulative foreign currency translation gain (loss) recorded in accumulated other comprehensive income related to net investment hedges was $(
+20.7
+) million and $(
+25.3
+) million, respectively.
+Derivative Results
+The following table presents the financial statement classification and amount of gains (losses) recognized on derivative instruments and related hedged items, where applicable. None of the Asset Management and Strategic Holdings derivatives are designated as hedge accounting instruments. The table below includes only derivatives held by Global Atlantic.
+37
+Table of Contents
+38
+Table of Contents
+Collateral
+The amount of Global Atlantic's net derivative assets and liabilities after consideration of collateral received or pledged were as follows:
+(1)
+Represents netting of derivative exposures covered by qualifying master netting agreements.
+(1)
+Represents netting of derivative exposures covered by qualifying master netting agreements.
+39
+Table of Contents
+9.
+FAIR VALUE MEASUREMENTS
+The following tables summarize the valuation of assets and liabilities measured and reported at fair value by the fair value hierarchy. Investments classified as Equity Method - Other, for which the fair value option has not been elected, and Equity Method - Capital Allocation-Based Income have been excluded from the tables below.
+Assets, at fair value:
+40
+Table of Contents
+(1)
+Real assets and other investments excluded from the fair value hierarchy table include certain funds for which fair value is measured at net asset value per share as a practical expedient. As of March 31, 2025 and December 31, 2024, the fair value of these real assets were $
+24.4
+million and $
+34.5
+million, respectively, and other investments were $
+151.6
+million and $
+4.3
+million, respectively. These fund investments have strategies primarily

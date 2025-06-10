@@ -1,0 +1,41 @@
+restricted assets are investments, primarily fixed maturities, totaling
+$
+17,945
+million
+and $
+18,242
+million, and cash of $
+261
+million and $
+172
+million, at December 31, 2024 and 2023, respectively.
+The following table presents the components of restricted assets:
+h) Variable interest entities (VIEs)
+Consolidated VIEs
+Certain subsidiaries of Huatai Group are the investment manager of, and maintain investments in, sponsored investment products that are considered VIEs. We have determined that we are the primary beneficiary and consolidate these investment products if we hold at least 10 percent ownership. Refer to Note 1 g) for further information on our consolidation criteria. The assets of these VIEs are not available to our creditors, and the investors in these VIEs have no recourse to Chubb in excess of the assets contained within the VIEs. Our economic exposures are limited to our investments based on our ownership interest in these VIEs. Our total exposure to these consolidated investment products represents the value of our economic ownership interest.
+Unconsolidated VIEs
+In December 2024, we contributed $
+5.0
+billion of fixed maturity securities and cash to a reserved alternative investment fund (Fund) sponsored and managed by a third-party investment fund manager. At the time of the contribution, the fixed maturities
+F-29
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+had a fair value of $
+4.2
+billion, resulting in a realized loss of $
+149
+million, pre-tax. The contribution of fixed maturity securities represents a non-cash investing activity and does not impact the Consolidated statements of cash flows.
+The Fund is a variable interest entity; however, Chubb is not the primary beneficiary and does not consolidate the Fund because Chubb does not receive substantially all the risks and returns of the Fund. The carrying value of this investment at December 31, 2024, was $
+5.0
+billion, which approximates our maximum risk of loss. We have elected to account for this investment using the fair value option, classified as Equity securities on the Consolidated balance sheets. We elected the fair value option so that changes in fair value of the Fund are recorded in Net realized gains (losses) and dividends from the Fund are recorded as Net investment income when declared on the Consolidated statements of operations.
+We also do not consolidate sponsored investment products where we have determined that we are not the primary beneficiary. The carrying value of these investments at December 31, 2024 and 2023, was $
+97
+million and $
+153
+million, respectively, and our maximum risk of loss approximates the carrying amount. These investments are classified within Equity securities on the Consolidated balance sheets.
+4.
+Fair value measurements
+a) Fair value hierarchy
+Fair value of financial assets and financial liabilities is estimated based on the framework established in the fair value

@@ -1,0 +1,32 @@
+viewers, and ultimately increase their revenue.
+4
+Table
+of
+Contents
+Wurl has built the following products to meet their customers’ needs:
+•
+AdPool:
+is a monetization solution that connects CTV supply with top advertisers and access to exclusive demand.
+•
+TVBits:
+is an AI-powered interactive, personalized, short-form CTV application that allows viewers to discover content and content companies and streamers the ability to increase viewership, engagement, and revenue.
+•
+BrandDiscovery:
+is an AI-powered CTV advertising tool that identifies contextual segments based on genre, brand safety, and the emotion of each scene to help advertisers deliver the right ad at the right time.
+•
+ContentDiscovery:
+is an AI-powered advertising solution that grows audiences, increases engagement, and reduces churn for streaming platforms and apps.
+•
+Global FAST Pass (GFP):
+is a distribution solution that makes it easy to launch Free Ad-supported CTV channels, monetize them instantly, and access data to grow and retain audiences.
+AppLovin Apps
+Today, our Apps consist of a globally diversified portfolio of over 200 free-to-play mobile games across five genres, run by ten studios located worldwide with a deep bench of talented developers. Our studios have developed and published games across a number of genres including: casual, match-three, card/casino, mid-core, and hyper-casual. A large portion of our portfolio are casual, match-three and card/casino games that have a lower risk of development and generally have more predictable revenue streams and return. These games can be played a few minutes at a time and appeal to a wide range of users across many highly attractive demographics. Our studios leverage live ops to quickly iterate and increase in-game monetization by optimizing app economies and improving in-game conversion on items and offers. The studios operating our portfolio of Apps utilize our Advertising solutions to market, scale, and monetize our Apps.
+On February 12, 2025, we announced that we had entered into a term sheet for the sale of our mobile gaming business to a privately held company for total consideration of $900.0 million, consisting of $400.0 million in shares of the acquirer’s common equity and $500.0 million in cash, subject to customary purchase price adjustments. For additional information, refer to Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations—Recent Developments".
+Our Strategy for Growth
+We have a comprehensive strategy to continue our growth and further enhance our market position in the advertising ecosystem:
+•
+Existing market expansion:
+We continue to have an attractive market opportunity within our current mobile app segment, which we intend to address through the optimization of our Advertising solutions.
+•
+Enhance and extend AI-based technologies:
+As we increase our scale and reach, our customers benefit from compounding improvements to AXON, our AI-powered advertising engine,

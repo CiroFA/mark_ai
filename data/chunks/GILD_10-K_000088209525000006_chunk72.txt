@@ -1,0 +1,16 @@
+services. From time to time, we enter into development and collaboration agreements in which we share expenses with a collaboration partner. We record payments received from our collaborative partners for their share of the development costs as a reduction of Research and development expenses.
+Clinical study costs are a significant component of Research and development expenses. Most of our clinical studies are performed by third-party CROs. We monitor levels of performance under each significant contract including the extent of patient enrollment and other activities through communications with our CROs. We accrue costs for clinical studies performed by CROs over the service periods specified in the contracts and adjust our estimates, if required, based upon our ongoing review of the level of effort and costs actually incurred by the CROs. All of our material CRO contracts are terminable by us upon written notice and we are generally only liable for actual services completed by the CRO and certain non-cancelable expenses incurred at any point of termination. Payments we make for research and development (“R&D”) services prior to the services being rendered are recorded as prepaid assets within Prepaid and other current assets on our Consolidated Balance Sheets and are expensed as the services are provided.
+Acquired In-Process Research and Development Expenses
+Acquired in-process research and development expenses are recorded when incurred and reflect costs of externally-developed in-process research and development (“IPR&D”) projects, acquired directly in a transaction other than a business combination, that do not have an alternative future use, including upfront and pre-commercialization milestone payments related to various collaborations and the costs of rights to IPR&D projects.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses are recorded when incurred and consist primarily of personnel costs, facilities and overhead costs, and selling, marketing and advertising expenses, as well as other general and administrative costs related to finance, human resources, legal and other administrative activities.
+Advertising expenses within Selling, general and administrative expenses, including promotional expenses, are recorded when incurred
+and were $
+869
+million, $
+826
+million and $
+778
+million for the years ended December 31, 2024, 2023 and 2022, respectively.
+Stock-Based Compensation
+We provide stock-based compensation in the form of various types of equity-based awards, including restricted stock units (“RSUs”), performance share units (“PSUs”) and stock options, and through our Employee Stock Purchase Plan and the International Employee Stock Purchase Plan (together, as amended, the “ESPP”). Stock-based compensation expense is based on the estimated fair value of the award on the grant date, or the first date of the ESPP purchase period, and recognized over the requisite service periods on our

@@ -1,0 +1,24 @@
+defined by geographic region: Alaska; Lower 48 (L48); Canada; Europe, Middle East and North Africa (EMENA); Asia Pacific (AP); and Other International (OI).
+Corporate and Other (Corporate) represents income and costs not directly associated with an operating segment, such as most interest expense; premiums on early retirement of debt; corporate overhead and certain technology activities, including licensing revenues. Corporate assets include all cash and cash equivalents and short-term investments.
+Our chief operating decision maker (CODM) is our Chairman of the Board of Directors and Chief Executive Officer, who evaluates performance and allocates resources among our operating segments based on each segment's net income (loss). This is done through the annual budget and forecasting process.
+Intersegment sales are at prices that approximate market.
+Analysis of Results by Operating Segment
+Other Segment Disclosures
+Other Segment Disclosures
+*Sales and other operating revenues are attributable to countries based on the location of the selling operation.
+**Includes bitumen and power.
+Note 19—Income Taxes
+Our effective tax rate for the three-month periods ended March 31, 2025, and March 31, 2024, was
+36.2
+percent and
+33.0
+percent, respectively. The change in the effective tax rate for the three-month period ended March 31, 2025, is primarily due to a shift in our mix of income among taxing jurisdictions and the recognition of a Malaysia tax benefit occurring in the three-month period ending March 31, 2024, described below, partly offset by a change to our valuation allowance.
+For the three-month period ended March 31, 2025, our valuation allowance decreased $
+56
+million, relating to the expected utilization of previously unrecognized capital loss carryforwards due to our agreement to sell our interests in the Ursa and Europa Fields, and the Ursa Oil Pipeline Company LLC to Shell Offshore Inc. and Shell Pipeline Company LP.
+During the first quarter of 2024, we recorded a $
+76
+million tax benefit associated with a deepwater investment tax incentive for Malaysia Blocks J and G.
+The Company has ongoing income tax audits in a number of jurisdictions. The government agents in charge of these audits regularly request additional time to complete audits, which we generally grant, and conversely occasionally close audits unpredictably. Within the next twelve months, we may have audit periods close that could significantly impact our total unrecognized tax benefits. The amount of such change is not estimable but could be significant when compared with our total unrecognized tax benefits.
+Note 20—New Accounting Standards
+In December 2023, the FASB issued ASU No. 2023-09, “Improvements to Income Tax Disclosures” which enhances the disclosure requirements within Topic 740 “Income Taxes.” The enhancements will impact our financial statement disclosures only and will be applied prospectively with retrospective application permitted. The ASU is effective for annual

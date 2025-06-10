@@ -1,0 +1,22 @@
+future in the manner and timeframe we anticipate, if at all.
+•
+The operation, financing and management of risks of our joint ventures.
+•
+The ability of our customers and other contractual counterparties to satisfy their obligations to us, including our ability to collect payments when due from the government of Venezuela or PDVSA.
+•
+Uncertainty as to the long-term value of our common stock.
+•
+The factors generally described in
+Part I—Item 1A
+in this 2024 Annual Report on Form 10-K and any additional risks described in our other filings with the SEC.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+Financial Instrument Market Risk
+We and certain of our subsidiaries hold and issue derivative contracts and financial instruments that expose our cash flows or earnings to changes in commodity prices, foreign currency exchange rates or interest rates. We may use financial and commodity-based derivative contracts to manage the risks produced by changes in the prices of natural gas, crude oil and related products; fluctuations in interest rates and foreign currency exchange rates; or to capture market opportunities.
+Our use of derivative instruments is governed by an “Authority Limitations” document approved by our Board of Directors that prohibits the use of highly leveraged derivatives or derivative instruments without sufficient liquidity. The Authority Limitations document also establishes the Value at Risk (VaR) limits for the company, and compliance with these limits is monitored daily. The Commercial organization manages our commercial marketing, optimizes our commodity flows and positions, and monitors risks. The Executive Vice President and Chief Financial Officer, who reports to the Chief Executive Officer, monitors commodity price risk and risks resulting from foreign currency exchange rates and interest rates.
+Commodity Price Risk
+Our Commercial organization uses futures, forwards, swaps and options in various markets to accomplish the following objectives:
+•
+Consistent with our policy to generally remain exposed to market prices, we use swap contracts to convert fixed-price sales contracts, which are often requested by natural gas consumers, to floating market prices.
+•
+Enable us to use market knowledge to capture opportunities such as moving physical commodities to more profitable locations and storing commodities to capture seasonal or time premiums. We may use derivatives to optimize these activities.
+We use a VaR model to estimate the loss in fair value that could potentially result on a single day from the effect of adverse changes in market conditions on the derivative financial instruments and derivative commodity contracts we hold or issue, including commodity purchases and sales contracts recorded on the balance sheet at December 31, 2024. Using Monte Carlo simulation, a 95 percent confidence level and a one-day holding period, the VaR for those instruments issued or held for trading purposes or held for purposes

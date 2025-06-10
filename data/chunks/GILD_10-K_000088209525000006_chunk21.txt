@@ -1,0 +1,16 @@
+operations could also be affected by factors, events or uncertainties that are not presently known to us or that we currently do not consider to present significant risks to our operations. Therefore, you should not consider the following risks to be a complete statement of all the potential risks or uncertainties that we face. Moreover, some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past, and instead reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.
+Product and Commercialization Risks
+Certain of our products subject us to additional or heightened risks.
+HIV
+We receive a substantial portion of our revenue from sales of our products for the treatment and prevention of HIV infection. We may be unable to sustain or increase sales of our HIV products for any number of reasons, including market share gains by competitive products, including generics, or the inability to introduce new HIV medications necessary to remain competitive. In such case, we may need to scale back our operations, including our future drug development and spending on research and development (“R&D”) efforts. For example, many of our HIV products contain tenofovir alafenamide (“TAF”), which belongs to the nucleoside class of antiviral therapeutics. If there are any changes to the treatment or prevention paradigm for HIV, and nucleoside-based therapeutics do not remain the preferred regimen, our HIV product sales would be adversely impacted.
+Cell Therapy
+Advancing a novel and personalized therapy such as Yescarta or Tecartus, which are chimeric antigen receptor (“CAR”) T-cell therapies, creates significant challenges, including:
+•
+educating and certifying medical personnel regarding the procedures and the potential side effects, such as cytokine release syndrome and neurologic toxicities, in compliance with the Risk Evaluation and Mitigation Strategy program required by the U.S. Food and Drug Administration (“FDA”);
+•
+securing sufficient supply of other medications to manage side effects, such as tocilizumab and corticosteroids, which may not be available in sufficient quantities, may not adequately control the side effects and/or may have detrimental impacts on the efficacy of cell therapy;
+•
+developing and maintaining a robust and reliable process for engineering a patient’s T cells in our facilities and infusing them back into the patient; and
+•
+conditioning patients with chemotherapy in advance of administering our therapy, which may increase the risk of adverse side effects.
+The use of engineered T cells as a potential cancer treatment is a recent development and may not be broadly accepted by physicians, patients, hospitals, cancer treatment centers, payers and others in the medical community. For example, in January

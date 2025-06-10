@@ -1,0 +1,26 @@
+typically occurs within
+30
+to
+60
+days of billing. We assess the collectability of revenues based primarily on the creditworthiness of the customer as determined by credit checks and analysis, as well as the customer's payment history and their intention to pay the consideration.
+D. Deferred Costs.
+Incremental Costs of Obtaining a Contract
+Incremental costs of obtaining a contract (e.g., sales commissions) that are expected to be recovered are capitalized and amortized on a straight-line basis over a period of
+three
+to
+eight years
+, depending on the business unit. Incremental costs of obtaining a contract include only those costs the Company incurs to obtain a contract that it would not have incurred if the contract had not been obtained. These costs are included in selling, general and administrative expenses.
+Costs to fulfill a Contract
+The Company capitalizes costs incurred to fulfill its contracts that i) relate directly to the contract ii) are expected to generate resources that will be used to satisfy the Company's performance obligations under the contract and iii) are expected to be recovered through revenue generated under the contract. Costs incurred to implement clients on our solutions (e.g., direct labor) are capitalized and amortized on a straight-line basis over the expected client relationship period if the Company expects to recover those costs. The expected client relationship period ranges from
+three
+to
+eight years
+. These costs are included in operating expenses.
+The Company has estimated the amortization periods for the deferred costs by using its historical client retention by business units to estimate the pattern during which the service transfers.
+E.
+Cash and Cash Equivalents.
+Highly liquid investment securities with a maturity of ninety days or less at the time of purchase are considered cash equivalents.  The fair value of our cash and cash equivalents approximates carrying value.
+F.
+Corporate Investments and Funds Held for Clients.
+All of the Company's marketable securities are considered to be “available-for-sale” and, accordingly, are carried on the Consolidated Balance Sheets at fair value.  Unrealized gains and losses, net of the related tax effect, are excluded from earnings and are reported as a separate component of accumulated other comprehensive income (loss) on the Consolidated Balance Sheets until realized.  Realized gains and losses from the sale of available-for-sale securities are determined on an aggregate approach basis and are included in other (income)/expense, net on the Statements of Consolidated Earnings.
+If the fair value of an available-for-sale debt security is below its amortized cost, the Company assesses whether it intends to sell the security or if it is more likely than not the Company will be required to sell the security before recovery.  If either of those two conditions is met, the Company would recognize a charge in earnings equal to the entire difference between the security's

@@ -1,0 +1,16 @@
+excludes intercompany allocation FX effects. Finally, these measures do not include any other macroeconomic effect such as local currency inflation effects, the impact on impairment calculations or any price adjustment to compensate local currency inflation or devaluations.
+The following table sets forth the FX neutral measures related to our reported results of the operations for years ended December 31, 2024, 2023 and 2022:
+(1)
+Recast for consistency with the current presentation due to the change in the presentation of certain financial results. Please refer to Note 2 – Summary of significant accounting policies - Change in the presentation of certain financial results and reclassification of prior year results - to our audited consolidated financial statements for further details.
+See Note 2 – Summary of significant accounting policies – Foreign currency translation – Argentine currency status and macroeconomic outlook and Argentine exchange regulations
+of our audited consolidated financial statements for further detail on the currency status and the exchange regulations of our Argentine segment.
+Adjusted free cash flow and Net increase (decrease) in available cash and investments
+Adjusted free cash flow
+Adjusted free cash flow represents cash from operating activities less the increase (decrease) in cash and cash equivalents and investments related to customer funds due to regulatory requirements and other restrictions and equity securities held at cost, investments in property and equipment and intangible assets, changes in loans receivable, net and net proceeds from/payments on loans payable and other financial liabilities related to our Fintech solutions, since we consider those liabilities as the working capital of the Fintech activities. We consider adjusted free cash flow to be a measure of liquidity generation that provides useful information to management and investors since it shows how much cash the Company generates with its core activities that can be used for discretionary purposes and to repay its corporate and/or commerce debt. A limitation of the utility of adjusted free cash flow as a measure of liquidity generation is that it is a partial representation of the total increase or
+63
+|
+MercadoLibre, Inc.
+Table of Contents
+decrease in our available cash and investments balance for the period. Therefore, we believe it is important to view the adjusted free cash flow measure only as a complement to our entire consolidated statements of cash flows.
+Net increase (decrease) in available cash and investments
+Net increase (decrease) in available cash and investments represents adjusted free cash flow less net proceeds from/payments on loans payable and other financial liabilities, related to our Commerce and corporate activities, payments of finance lease obligations, other investing and/or financing activities not considered above and the effect of exchange rates changes on available cash and investments. We consider Net increase

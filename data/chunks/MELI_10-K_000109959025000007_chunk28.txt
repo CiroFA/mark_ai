@@ -1,0 +1,25 @@
+the BCU, subject to the terms of the regulations, to invest its user funds in short-term investments, including “overnight” bank deposits, leveraging results and assuming associated risks.
+In July 2023, Communication No. 2023/147, superseded by Communication No. 2024/018 on February 1, 2024, established regulations for reporting security incidents. In October 2023, Communication No. 2023/196 mandated bi-monthly reports on administered fund compositions, and significant modifications addressing fast payment systems and regulatory rules were made to the payment system rules.
+On April 12, 2024, MercadoPago Uruguay S.R.L. initiated a process with the BCU to be authorized to act as a payment acquirer with transfers, as an activity related to electronic money issuances, in compliance with new regulations that came into effect on March 1, 2024. On July 3, 2024, MercadoPago Uruguay S.R.L. received authorization from the BCU to offer payment with transfers acquiring services.
+16
+|
+MercadoLibre, Inc.
+Table of Contents
+On April 17, 2024, MercadoPago Uruguay S.R.L. was approved as a participant in the automated clearing house managed by Urutec S.A. This approval allows MercadoPago Uruguay S.R.L. to participate in the fast payment system and offer a new payment method to its users: interoperable QR transfer payments. In September 2024, the BCU announced that they approved the release of the interoperable QR transfer payment feature of the payment system.
+Peru
+On November 10, 2022, the Central Reserve Bank of Peru (“BCRP”) enacted regulations related to the card payment processing system that applies to issuers, acquirers and payment facilitators. On January 27, 2023, MercadoPago Perú S.R.L. was registered by the BCRP as a payment facilitator entity, allowing it to (a) affiliate merchants to the card payment system, (b) offer POS, and (c) transmit or process card payment orders and /or participate in the process of settlement to the merchants affiliated. On February 20, 2024, the Register of Entities with Payments by Card agreement form was completed, in accordance with BCRP requirements.
+17
+|
+MercadoLibre, Inc.
+Table of Contents
+ITEM 1A. RISK FACTORS
+Summary of Risk Factors
+Our business is subject to numerous risks. The following is a summary of the principal risks that we believe are material to our stockholders and prospective stockholders and that should be carefully considered when evaluating our Company, our business and prospects:
+■
+Our business depends on the continued growth of online commerce and digital financial services, the commercial and financial activity that our users generate on our platforms and the availability and reliability of the Internet in Latin America;
+■
+We operate in a highly competitive and evolving environment;
+■
+We rely on third-party platforms, such as Google Play and Apple app stores, to access our Mercado Libre and Mercado Pago apps;
+■
+Our future success depends on our ability to expand and adapt our operations to meet

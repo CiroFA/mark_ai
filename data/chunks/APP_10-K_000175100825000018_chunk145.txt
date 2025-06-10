@@ -1,0 +1,37 @@
+in ownership; California has similar rules. The Company’s capitalization described herein may have resulted in such a change. Utilization of the net operating loss
+87
+Table
+of
+Contents
+carryforwards may be subject to annual limitations under IRC Section 382 and similar state provisions. The annual limitation may result in the expiration of the net operating loss carryforwards before utilization.
+The Company has not provided U.S. income or foreign withholding taxes on the undistributed earnings of its foreign subsidiaries as of December 31, 2024 and 2023, because it intends to permanently reinvest such earnings outside of the U.S., except for Singapore. If these foreign earnings were to be repatriated in the future, the related U.S. tax liability will be immaterial, due to the participation exemption put in place in the 2017 Tax Act.
+Uncertain Tax Positions
+The following table summarizes the activity related to the gross unrecognized tax benefits (in thousands):
+Of the unrecognized tax benefits, $
+51.1
+million and $
+23.9
+million represents the amount that if recognized, would favorably affect the effective income tax rate in 2024 and 2023, respectively. The Company does not expect a significant change to its unrecognized tax benefits or recorded liabilities over the next twelve months. The unrecognized tax benefits may increase or change during the next year for items that arise in the ordinary course of business.
+The Company records interest and penalties related to unrecognized tax benefits in income tax expense. As of December 31, 2024, 2023, and 2022, the Company had approximately $
+8.3
+million, $
+4.0
+million, and $
+2.6
+million of interest and penalties, respectively.
+The tax returns for years 2017 through 2023 remain open to examination for federal and other major domestic taxing jurisdictions and for years 2018 through 2023 for other major foreign jurisdictions.
+14.
+Segments and Geographic Information
+The Company determines its operating segments based on how its CODM manages the business, allocates resources, makes operating decisions and evaluates operating performance. The Company’s CODM is the Chief Executive Officer.
+The Company's
+two
+operating and reportable segments are as follows:
+•
+Advertising
+:
+Revenue is generated primarily from fees paid by advertisers for the placement of ads on mobile applications owned by Publishers.
+•
+Apps
+:
+Revenue is generated when a user of one of the Apps makes an in-app purchase ("IAP Revenue") and when clients purchase the digital advertising inventory of the Company's portfolio of Apps ("IAA Revenue").
+The CODM evaluates the performance of each operating segment using revenue and segment Adjusted EBITDA. The Company defines segment Adjusted EBITDA as revenue less expenses, excluding depreciation and amortization and certain items that the Company does not believe are reflective of the operating segments’ core operations. Expenses include indirect costs that are allocated to operating segments based on

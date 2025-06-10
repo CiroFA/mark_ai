@@ -1,0 +1,62 @@
+filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes
+☐
+No
+ý
+The number of shares outstanding of the registrant’s Common Stock, $0.0001 par value, as of May 1, 2025 was
+1,255,921,431
+.
+ARISTA NETWORKS, INC.
+TABLE OF CONTENTS
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements (Unaudited)
+ARISTA NETWORKS, INC.
+Condensed Consolidated Balance Sheets
+(In millions, except par value)
+The accompanying notes are an integral part of these condensed consolidated financial statements (unaudited).
+1
+Table of Contents
+ARISTA NETWORKS, INC.
+Condensed Consolidated Income Statements
+(Unaudited, in millions, except per share amounts)
+(1)
+Prior period results have been adjusted to reflect the
+four
+-for-one stock split effected in December 2024. See Note 1, Organization and Summary of Accounting Policies, for details.
+The accompanying notes are an integral part of these condensed consolidated financial statements (unaudited).
+2
+Table of Contents
+ARISTA NETWORKS, INC.
+Condensed Consolidated Statements of Comprehensive Income
+(Unaudited, in millions)
+The accompanying notes are an integral part of these condensed consolidated financial statements (unaudited).
+3
+Table of Contents
+ARISTA NETWORKS, INC.
+Condensed Consolidated Statements of Stockholders
+’
+Equity
+(Unaudited, in millions)
+(1)
+Prior period results have been adjusted to reflect the
+four
+-for-one stock split effected in December 2024. See Note 1, Organization and Summary of Accounting Policies, for details.
+The accompanying notes are an integral part of these condensed consolidated financial statements (unaudited).
+4
+Table of Contents
+ARISTA NETWORKS, INC.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited, in millions)
+The accompanying notes are an integral part of these condensed consolidated financial statements (unaudited).
+5
+Table of Contents
+ARISTA NETWORKS, INC.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+1.
+Organization and Summary of Significant Accounting Policies
+Organization
+Arista Networks, Inc. (together with our subsidiaries, “we,” “our,” "Arista," "Company" or “us”) is an industry leader in data-driven, client-to-cloud networking for large AI, data center, campus and routing environments. Our cloud networking solutions consist of our Extensible Operating System ("EOS®"), a set of network applications and our Ethernet switching and routing platforms. We are incorporated in the state of Delaware. Our corporate headquarters are located in Santa Clara, California, and we have wholly-owned subsidiaries throughout

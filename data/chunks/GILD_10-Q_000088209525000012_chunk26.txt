@@ -1,0 +1,28 @@
+Gilead’s HCV sales and marketing activities and donations to an independent charitable foundation violated the federal False Claims Act and various state false claims acts. The lawsuit seeks all available relief under these statutes.
+Health Choice Advocates, LLC (“Health Choice”) filed a qui tam lawsuit against Gilead in May 2020 in Texas state court. The lawsuit alleged that Gilead violated the Texas Medicare Fraud Prevention Act (“TMFPA”) through our clinical educator programs for Sovaldi and Harvoni and our HCV and HIV patient support programs. The lawsuit sought all available relief under the TMFPA. Health Choice voluntarily dismissed the case without prejudice in August 2023, and commenced a new action in October 2023, asserting largely identical allegations and claims. In the newly filed action, the Texas Attorney General has intervened as a plaintiff.
+20
+We intend to vigorously defend ourselves in these actions, however, we cannot predict the ultimate outcomes. If any of these plaintiffs are successful in their claims, we could be required to pay significant monetary damages, which may result in a material, adverse effect on our results of operations and financial condition, including in a particular reporting period in which any such outcome becomes probable and estimable.
+Other Matters
+We are a party to various legal actions that arose in the ordinary course of our business. We do not believe that it is probable or reasonably possible that these other legal actions will have a material adverse impact on our consolidated financial position, results of operations or cash flows.
+11.
+EARNINGS (LOSS) PER SHARE
+The following table shows the calculation of Basic and Diluted earnings (loss) per share attributable to Gilead:
+Potential shares of common stock excluded from the computation of Diluted earnings (loss) per share attributable to Gilead because their effect would have been antidilutive were
+2
+million and
+13
+million for the three months ended March 31, 2025 and 2024, respectively.
+12.
+INCOME TAXES
+The following table summarizes our Income tax expense (benefit):
+Our effective income tax rate of
+20.2
+% for the three months ended March 31, 2025 differed from the U.S. federal statutory rate of 21% primarily due to tax benefits from stock-based compensation and provision to return adjustments, partially offset by fair value losses on our equity investments that are non-deductible for income tax purposes.
+Our effective income tax rate of
+7.0
+% for the three months ended March 31, 2024 differed from the U.S. federal statutory rate of 21% primarily due to $
+3.9
+billion of non-deductible acquired IPR&D expense recorded in connection with our acquisition of CymaBay, partially offset by a decrease in state deferred tax liabilities associated with the $
+2.4
+billion NSCLC IPR&D intangible asset impairment charge and settlements with tax authorities.
+Our income tax returns are subject to audit by federal, state and foreign tax authorities. We are

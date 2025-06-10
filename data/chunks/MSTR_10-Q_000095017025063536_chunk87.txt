@@ -1,0 +1,21 @@
+of operations could be adversely affected.  AI also presents various emerging legal, regulatory and ethical issues, and the incorporation of AI into our product offerings and our use of AI applications in our operations could require us to expend significant resources in developing, testing and maintaining our product offerings and may cause us to experience brand, reputational, or competitive harm, or incur legal liability. Additionally, in March 2024, the European Commission passed the Artificial Intelligence Act. Other jurisdictions, including certain U.S. states, have adopted or may decide to adopt similar or more restrictive legislation that may render the use of such technologies challenging. These restrictions may make it harder for us to conduct our business using AI, lead to regulatory fines or penalties, require us to change our product offerings or business practices, or prevent or limit our use of AI.
+Risks Related to Our Technology and Intellectual Property
+Third parties may claim we infringe their intellectual property rights
+We periodically receive notices from third parties claiming we are infringing their intellectual property rights. The frequency of such claims may increase as we expand our offerings and branding, the number of offerings and level of competition in our industry grow, the functionality of offerings overlaps, and the volume of issued patents, patent applications, and copyright and trademark registrations continues to increase. Responding to any infringement claim, regardless of its validity, could:
+•
+be time-consuming, costly, and/or result in litigation;
+•
+divert management’s time and attention from developing our business;
+•
+require us to pay monetary damages or enter into royalty or licensing agreements that we would normally find unacceptable;
+•
+require us to stop selling certain of our offerings;
+•
+require us to redesign certain of our offerings using alternative non-infringing technology or practices, which could require significant effort and expense;
+•
+require us to rename certain of our offerings or entities; or
+•
+require us to satisfy indemnification obligations to our customers or channel partners.
+Additionally, while we monitor our use of third-party software, including open-source software, our processes for controlling such use in our offerings may not be effective. If we fail to comply with the terms or conditions associated with third-party software that we use, if we inadvertently embed certain types of third-party software into one or more of our offerings, or if third-party software that we
+62
+license is found to infringe the intellectual property rights of others, we could become subject to infringement liability and be required to re-engineer our offerings, discontinue the sale of our offerings, or make available to certain third parties or generally available, in source code form, our proprietary code, any of which could materially adversely affect our business, operating results, and

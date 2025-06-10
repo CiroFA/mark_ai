@@ -1,37 +1,114 @@
+
+
+"""
+ask_mark.py
+
+Entry‑point script for the Mark assistant.  
+Usage examples
+--------------
+Interactive mode:
+    $ python ask_mark.py
+    (then type your question and press Enter)
+
+One‑liner:
+    $ python ask_mark.py "Qual è il net income di Apple nel 2023?"
+
+The script:
+1. Acquisisce la domanda dell’utente (CLI o `input()`).
+2. La passa a `classify_question.classify_question`.
+3. Passa il risultato a `llm_wrapper.format_answer`.
+4. Stampa la risposta formattata.
+
+Assumes:
+- OPENAI_API_KEY is defined in a .env file at project root.
+"""
+
+from __future__ import annotations
+
+import json
 import os
-from retriever import retrieve_chunks_by_company
-from llm_wrapper import build_prompt, call_llm
+import sys
+from typing import Dict, Any
 
-try:
-    import tiktoken
-    enc = tiktoken.encoding_for_model("gpt-4")
+from dotenv import load_dotenv
 
-    def count_tokens(text):
-        return len(enc.encode(text))
-except ImportError:
-    def count_tokens(text):
-        return len(text.split())
+# Local imports
+from scripts.classify_question import classify_question
+from scripts.llm_wrapper import format_answer
 
-def ask_mark(query):
-    # 🔍 Recupero chunk senza filtrare su ticker (solo semantica)
-    chunks = retrieve_chunks_by_company(query, tickers=None, total_k=6)
+# --------------------------------------------------------------------------- #
+#  Environment
+# --------------------------------------------------------------------------- #
 
-    # 📥 Carica il testo associato a ciascun chunk
-    for chunk in chunks:
-        chunk_path = os.path.join(os.path.dirname(__file__), '../data/chunks', chunk["filename"])
-        if os.path.exists(chunk_path):
-            with open(chunk_path, "r", encoding="utf-8") as f:
-                chunk["text"] = f.read()
-        else:
-            chunk["text"] = ""
+load_dotenv()  # ensure OPENAI_API_KEY is available to any downstream module
 
-    if not chunks:
-        return "Non ho trovato informazioni rilevanti nei documenti disponibili."
+# --------------------------------------------------------------------------- #
+#  Helpers
+# --------------------------------------------------------------------------- #
 
-    prompt = build_prompt(query, chunks)
-    return call_llm(prompt)
 
-# 🧪 Test manuale
+def _read_question_from_cli() -> str:
+    """
+    Returns the user's question.
+
+    • If arguments were passed -> join them as the question.
+    • Otherwise, prompt via input().
+
+    Returns
+    -------
+    str
+        The user's question as a single string.
+    """
+    if len(sys.argv) > 1:
+        return " ".join(sys.argv[1:]).strip()
+
+    # Interactive prompt
+    try:
+        return input("Domanda> ").strip()
+    except (KeyboardInterrupt, EOFError):
+        print("\nInterrotto.")
+        sys.exit(0)
+
+
+def _pretty_dump(obj: Dict[str, Any]) -> str:
+    """Nicely format a dict for debug prints."""
+    return json.dumps(obj, indent=2, ensure_ascii=False)
+
+
+# --------------------------------------------------------------------------- #
+#  Main
+# --------------------------------------------------------------------------- #
+
+
+def main() -> None:
+    """
+    Full orchestrator:
+    - Collect question
+    - Classify and route
+    - Format final answer
+    - Print result
+    """
+    question = _read_question_from_cli()
+    if not question:
+        print("Nessuna domanda fornita.")
+        sys.exit(1)
+
+    # 1) Classify and retrieve raw result
+    classification_output = classify_question(question)
+
+    # Debug (optional): uncomment next line
+    # print("DEBUG raw output:", _pretty_dump(classification_output), file=sys.stderr)
+
+    # 2) Format human‑readable answer
+    final_answer: str = format_answer(
+        question=question,
+        answer_type=classification_output["type"],
+        answer_payload=classification_output["result"],
+    )
+
+    # 3) Output to user
+    print(final_answer)
+
+
 if __name__ == "__main__":
-    question = input("Scrivi la tua domanda: ")
-    print(ask_mark(question))
+    main()

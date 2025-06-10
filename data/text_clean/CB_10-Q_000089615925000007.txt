@@ -1,0 +1,1121 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+For the Quarterly Period Ended
+March 31, 2025
+OR
+For the Transition Period from             to
+Commission File No.
+1-11778
+CHUBB LIMITED
+(Exact name of registrant as specified in its charter)
+Baerengasse 32
+Zurich
+,
+Switzerland
+CH-
+8001
+(Address of principal executive offices) (Zip Code)
++
+41
+(0)43
+456 76 00
+(Registrant’s telephone number, including area code)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑                                                 No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑                                                 No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No  ☑
+The number of registrant’s Common Sh
+ares (CHF
+0.50
+par value) out
+standing as of April 18, 2025, was
+400,725,707
+.
+Table of Contents
+CHUBB LIMITED
+INDEX TO FORM 10-Q
+2
+Table of Contents
+PART I FINANCIAL INFORMATION
+CONSOLIDATED BALANCE SHEETS (Unaudited)
+Chubb Limited and Subsidiaries
+See accompanying notes to the Consolidated Financial Statements
+3
+Table of Contents
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (Unaudited)
+Chubb Limited and Subsidiaries
+See accompanying notes to the Consolidated Financial Statements
+4
+Table of Contents
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (Unaudited)
+Chubb Limited and Subsidiaries
+See accompanying notes to the Consolidated Financial Statements
+5
+Table of Contents
+CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+Chubb Limited and Subsidiaries
+See accompanying notes to the Consolidated Financial Statements
+6
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Unaudited)
+Chubb Limited and Subsidiaries
+1.
+General and significant accounting policies
+a)
+Basis of presentation
+Chubb Limited is a holding company incorporated in Zurich, Switzerland. Chubb Limited, through its subsidiaries, provides a broad range of insurance and reinsurance products to insureds worldwide. Our results are reported through the following business segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. Refer to Note 16 for additional information.
+The interim unaudited Consolidated Financial Statements include the accounts of Chubb Limited and its subsidiaries (collectively, Chubb, we, us, or our), over which Chubb exercises control, including Huatai Group, our majority-owned subsidiary, and minority-owned entities such as variable interest entities (VIEs) in which Chubb is considered the primary beneficiary. Noncontrolling interests on the Consolidated Financial Statements represent the portion of majority-owned subsidiaries and VIEs in which we do not have direct equity ownership. These interim unaudited Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP) and, in the opinion of management, reflect all adjustments necessary for a fair statement of the results and financial position for such periods. All significant intercompany accounts and transactions, including internal reinsurance transactions, have been eliminated.
+The results of operations and cash flows for any interim period are not necessarily indicative of the results for the full year. These Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and related notes included in our 2024 Form 10-K.
+b)
+Goodwill
+During the three months ended March 31, 2025, Goodwill increased $
+137
+million, primarily reflecting the impact of foreign exchange.
+c)
+New Accounting Pronouncements
+Accounting guidance not yet adopted
+Improvements to Income Tax Disclosures
+In December 2023, the FASB issued guidance that requires expanded income tax disclosures, including the disaggregation of existing disclosures related to the tax rate reconciliation and income taxes paid. The guidance is effective for our 2025 annual reporting. Prospective application is required, with retrospective application permitted. We are evaluating the impact of this disclosure-only requirement.
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued guidance that requires disclosure of specified information about certain costs and expenses in the notes to the financial statements. The guidance is effective for our 2027 annual reporting, and interim reporting periods beginning in 2028. Prospective application is required, with retrospective application permitted. We are evaluating the impact of this disclosure-only requirement.
+2.
+Acquisitions
+Liberty Mutual's P&C Insurance Businesses in Thailand and Vietnam
+On
+March 3, 2025
+, we entered into agreements to acquire the insurance businesses of Liberty Mutual in Thailand and Vietnam. The two companies, LMG Insurance in Thailand and Liberty Insurance in Vietnam, offer a range of consumer and commercial P&C products. On
+April 1, 2025
+, we completed the acquisition of LMG Insurance in Thailand. We expect to complete the acquisition of Liberty Insurance in Vietnam later in 2025 or early 2026, subject to required regulatory approvals and customary closing conditions. The results of operations of these businesses will be reported in our Overseas General Insurance segment.
+Huatai Group
+Our aggregate ownership interest in Huatai Group was approximately
+85.5
+percent as of March 31, 2025. In the second quarter of 2025, we closed on incremental ownership interests of approximately
+0.6
+percent. Chubb has total outstanding agreements for approximately
+1.0
+percent of incremental ownership interests, pending completion of certain closing conditions.
+7
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+3.
+Investments
+a) Fixed maturities
+The following table presents fixed maturities by contractual maturity:
+Expected maturities could differ from contractual maturities because borrowers may have the right to call or prepay obligations, with or without call or prepayment penalties.
+b) Gross unrealized loss
+Fixed maturities in an unrealized loss position at March 31, 2025, and December 31, 2024, comprised both investment grade and below investment grade securities for which fair value declined, principally due to rising interest rates since the date of purchase. Refer to Note 1 f) in the 2024 Form 10-K for further information on factors considered in the evaluation of expected credit losses.
+8
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following tables present, for available-for-sale (AFS) fixed maturities in an unrealized loss position (including securities on loan) that are not deemed to have expected credit losses, the aggregate fair value and gross unrealized loss by length of time the security has continuously been in an unrealized loss position:
+At March 31, 2025, the tax benefit on certain unrealized losses in our investment portfolio was reduced by a valuation allowance of $
+491
+million necessary due to limitations on the utilization of these losses for tax purposes. As part of evaluating whether it was more likely than not that we could record a tax benefit on these losses, we considered realized gains, carryback capacity and available tax planning strategies.
+The following table presents a roll-forward of valuation allowance for expected credit losses on fixed maturities:
+9
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+c) Net realized gains (losses)
+The following table presents the components of net realized gains (losses):
+(1)
+Relates to certain securities we intended to sell and securities written to market entering default.
+Realized gains and losses from Equity securities, Other investments and Private equities from the table above include sales of securities and unrealized gains and losses from fair value changes as follows:
+10
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+d) Private equities
+Private equities include investment funds, limited partnerships, and partially-owned investment companies measured at fair value using net asset value (NAV) as a practical expedient. The following table presents, by investment category, the expected liquidation period, fair value, and maximum future funding commitments for private equities:
+Included in all categories in the above table, except for Investment funds, are investments for which Chubb will never have the contractual option to redeem but receives distributions based on the liquidation of the underlying assets. Further, for all categories except for Investment funds, Chubb does not have the ability to sell or transfer the investments without the consent from the general partner of individual funds.
+Investment funds employ various investment strategies, such as long/short equity and arbitrage/distressed. Included in this category are investments for which Chubb has the option to redeem at agreed upon value as described in each investment fund’s subscription agreement. Depending on the terms of the various subscription agreements, investment fund investments may be redeemed monthly, quarterly, semi-annually, or annually. If Chubb wishes to redeem an investment fund investment, it must first determine if the investment fund is still in a lock-up period (a time when Chubb cannot redeem its investment so that the investment fund manager has time to build the portfolio). If the investment fund is no longer in its lock-up period, Chubb must then notify the investment fund manager of its intention to redeem by the notification date prescribed by the subscription agreement. Subsequent to notification, the investment fund can redeem Chubb’s investment within several months of the notification. Notice periods for redemption of the investment funds are up to 270 days. Chubb can redeem its investment funds without consent from the investment fund managers.
+e) Restricted assets
+Chubb is required to maintain assets on deposit with various regulatory authorities to support its insurance and reinsurance operations. These requirements are generally promulgated in the statutory regulations of the individual jurisdictions. The assets on deposit are available to settle insurance and reinsurance liabilities. Chubb is also required to restrict assets pledged under repurchase agreements, which represent Chubb's agreement to sell securities and repurchase them at a future date for a predetermined price. We use trust funds in certain large reinsurance transactions where the trust funds are set up for the benefit of the ceding companies and generally take the place of letter of credit (LOC) requirements. We have investments in segregated portfolios primarily to provide collateral or guarantees for LOC and derivative transactions. Included in restricted assets at March
+11
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+31, 2025, and December 31, 2024, are investments, primarily fixed maturities, totaling $
+18,079
+million and $
+17,945
+million, respectively, and cash of $
+278
+million and $
+261
+million, respectively.
+The following table presents the components of restricted assets:
+f) Variable interest entities (VIEs)
+Consolidated VIEs
+Certain subsidiaries of Huatai Group are the investment manager of, and maintain investments in, sponsored investment products that are considered VIEs. We have determined that we are the primary beneficiary and consolidate these investment products if we hold at least 10 percent ownership. Refer to Note 1 g) of our 2024 Form 10-K for further information on our consolidation criteria. The assets of these VIEs are not available to our creditors, and the investors in these VIEs have no recourse to Chubb in excess of the assets contained within the VIEs. Our economic exposures are limited to our investments based on our ownership interest in these VIEs. Our total exposure to these consolidated investment products represents the value of our economic ownership interest.
+Unconsolidated VIEs
+We recorded an investment in a reserved alternative investment fund (Fund) sponsored and managed by a third-party investment fund manager. The Fund is a variable interest entity; however, Chubb is not the primary beneficiary and does not consolidate the Fund because Chubb does not receive substantially all the risks and returns of the Fund. The carrying value of this investment at March 31, 2025, and December 31, 2024, was $
+5.0
+billion, which approximates our maximum risk of loss. We have elected to account for this investment using the fair value option, classified as Equity securities on the Consolidated balance sheets. We elected the fair value option so that changes in fair value of the Fund are recorded in Net realized gains (losses) and dividends from the Fund are recorded as Net investment income when declared on the Consolidated statements of operations.
+We also do not consolidate sponsored investment products where we have determined that we are not the primary beneficiary. The carrying value of these investments at March 31, 2025, and December 31, 2024, was $
+89
+million and $
+97
+million, respectively, and our maximum risk of loss approximates the carrying amount. These investments are classified within Equity securities on the Consolidated balance sheets.
+4.
+Fair value measurements
+a) Fair value hierarchy
+Fair value of financial assets and financial liabilities is estimated based on the framework established in the fair value accounting guidance. The guidance defines fair value as the price to sell an asset or transfer a liability (an exit price) in an orderly transaction between market participants and establishes a three-level valuation hierarchy based on the reliability of the inputs. The fair value hierarchy gives the highest priority to quoted prices in active markets and the lowest priority to unobservable data.
+12
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The three levels of the hierarchy are as follows:
+•
+Level 1 – Unadjusted quoted prices for identical assets or liabilities in active markets;
+•
+Level 2 – Includes, among other items, inputs other than quoted prices that are observable for the asset or liability such as
+interest rates and yield curves, quoted prices for similar assets and liabilities in active markets, and quoted prices for identical or similar assets and liabilities in markets that are not active; and
+•
+Level 3 – Inputs that are unobservable and reflect management’s judgments about assumptions that market participants
+would use in pricing an asset or liability.
+We categorize financial instruments within the valuation hierarchy at the balance sheet date based upon the lowest level of inputs that are significant to the fair value measurement.
+We use pricing services to obtain fair value measurements for the majority of our investment securities. Based on management’s understanding of the methodologies used, these pricing services only produce an estimate of fair value if there is observable market information that would allow them to make a fair value estimate. Based on our understanding of the market inputs used by the pricing services, all applicable investments have been valued in accordance with U.S. GAAP. We do not adjust prices obtained from pricing services. Refer to Note 4 a) of our 2024 Form 10-K for further information on the valuation and leveling of assets and liabilities measured at fair value.
+Financial instruments measured at fair value on a recurring basis, by valuation hierarchy
+(1)
+Excluded from the table above is a fund of $
+5,031
+million, measured using NAV as a practical expedient.
+(2)
+Excluded from the table above are other investments of $
+1,329
+million, principally policy loans, measured using NAV as a practical expedient.
+(3)
+Excluded from the table above are private equities of $
+15,506
+million, measured using NAV as a practical expedient.
+(4)
+Refer to Note 10 for additional information on Market risk benefits.
+13
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+(1)
+Excluded from the table above is a fund of $
+4,978
+million, measured using NAV as a practical expedient.
+(2)
+Excluded from the table above are other investments of $
+1,241
+million, principally policy loans, measured using NAV as a practical expedient.
+(3)
+Excluded from the table above are private equities of $
+14,769
+million, measured using NAV as a practical expedient.
+(4)
+Refer to Note 10 for additional information on Market risk benefits.
+14
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+Level 3 financial instruments
+The following tables present a reconciliation of the beginning and ending balances of financial instruments measured at fair value using significant unobservable inputs (Level 3).
+Excluded from the tables above is the reconciliation of Market risk benefits, which are presented in Note 10 Market risk benefits. Refer to Note 10 for additional information.
+b) Financial instruments disclosed, but not measured, at fair value
+Chubb uses various financial instruments in the normal course of its business. Our insurance contracts are excluded from fair value of financial instruments accounting guidance, and therefore, are not included in the amounts discussed below.
+The carrying values of cash, other assets, other liabilities, and other financial instruments not included below approximated their fair values. Refer to Note 4 b) of our 2024 Form 10-K for information on the fair value methods and assumptions for private debt held-for-investment, repurchase agreements, short-term and long-term debt, and hybrid debt.
+15
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following tables present fair value, by valuation hierarchy, and carrying value of the financial instruments not measured at fair value:
+5.
+Reinsurance
+Reinsurance recoverable on ceded reinsurance
+(1)
+Net of valuation allowance for uncollectible reinsurance.
+16
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents a roll-forward of valuation allowance for uncollectible reinsurance related to Reinsurance recoverable on losses and loss expenses:
+For additional information, refer to Note 1 e) to the Consolidated Financial Statements of our 2024 Form 10-K.
+6.
+Deferred policy acquisition costs
+The following tables present a roll-forward of deferred policy acquisition costs on long-duration contracts included in the Life Insurance segment:
+17
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+7.
+Unpaid losses and loss expenses
+The following table presents a reconciliation of beginning and ending Unpaid losses and loss expenses:
+(1)
+Net of valuation allowance for uncollectible reinsurance.
+(2)
+Relates to prior period loss reserve development only and excludes prior period development related to reinstatement premiums, expense adjustments, earned premiums, and A&H long-duration lines totaling $(
+18
+) million and $
+46
+million for the three months ended March 31, 2025 and 2024, respectively.
+Net unpaid losses and loss expenses increased $
+1,120
+million for the three months ended March 31, 2025, principally reflecting underlying exposure growth and net catastrophe losses, partially offset by the impact of favorable prior period development and crop activity.
+18
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+Prior Period Development
+Prior period development (PPD) arises from changes to loss estimates recognized in the current year that relate to loss events that occurred in previous calendar years and excludes the effect of losses from the development of earned premium from previous accident years. Long-tail lines include lines such as workers' compensation, general liability, and financial lines; while short-tail lines include lines such as most property lines, energy, personal accident, and agriculture.
+The following table summarizes (favorable) and adverse PPD by segment:
+Significant prior period movements by segment, principally driven by reserve reviews completed during each respective period, are discussed in more detail below. The remaining net development for long-tail lines and short-tail business for each segment and Corporate comprises numerous favorable and adverse movements across a number of lines and accident years, none of which is significant individually or in the aggregate.
+North America Commercial P&C Insurance
+.
+Net favorable development for the three months ended March 31, 2025, included $
+163
+million from short-tail lines, primarily from surety, due to lower-than-expected loss development. This favorable development was partially offset by net adverse development of $
+49
+million from long-tail lines, primarily from general casualty partially offset by favorable development in workers' compensation and financial lines.
+Net favorable development for the
+three months ended March 31, 2024, included $
+144
+million from short-tail lines, primarily from surety and property and marine lines due to lower-than-expected loss development. The favorable development was partially offset by net adverse development of $
+96
+million from long-tail lines, primarily in commercial excess and umbrella lines, driven by higher-than-expected loss development.
+Overseas General Insurance.
+Net favorable development for the three months ended March 31, 2025, included a $
+122
+million release from short-tail lines.
+Net favorable development for the three months ended March 31, 2024, included $
+88
+million from short-tail lines, primarily from property lines driven by favorable development across all regions, primarily in accident years 2020 through 2023.
+19
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+8.
+Future policy benefits
+The following tables present a roll-forward of the liability for future policy benefits included in the Life Insurance segment:
+(1)
+Net premiums collected represent the portion of gross premiums collected from policyholders that is used to fund expected benefit.
+20
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+(1)
+Net premiums collected represent the portion of gross premiums collected from policyholders that is used to fund expected benefit.
+21
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents a reconciliation of the roll-forwards above to the Future policy benefits liability presented in the Consolidated balance sheets.
+(1)
+Other business principally comprises certain Overseas General Insurance accident and health (A&H) policies and certain Chubb Life Re business.
+22
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents the amount of undiscounted and discounted expected gross premiums and expected future policy benefit payments included in the Life Insurance segment:
+The following table presents the amount of revenue and interest recognized in the Consolidated statements of operations for the Life Insurance segment:
+23
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents the weighted-average interest rates for the Life Insurance segment:
+9.
+Policyholders' account balances, Separate accounts, and Unearned revenue liabilities
+Policyholders' account balances
+The following tables present a roll-forward of policyholders' account balances:
+(1)
+Contracts included in the policyholder account balances are generally charged a premium and/or monthly assessments on the basis of the account balance.
+(2)
+Relates to Huatai Life.
+(3)
+Primarily comprises policyholder account balances related to investment linked products including endowment and investment contracts, none of which bear significant insurance risk.
+(4)
+Includes benefit payments upon maturity as well as death benefits.
+(5)
+Primarily comprises unpaid dividends on certain participating policies.
+24
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+(1)
+Contracts included in the policyholder account balances are generally charged a premium and/or monthly assessments on the basis of the account balance.
+(2)
+Relates to Huatai Life.
+(3)
+Primarily comprises policyholder account balances related to investment linked products including endowment and investment contracts, none of which bear significant insurance risk.
+(4)
+Includes benefit payments upon maturity as well as death benefits.
+(1)
+Calculated using actual interest credited for the three months ended March 31, 2025 and 2024, respectively.
+(2)
+For those guarantees of benefits that are payable in the event of death, the net amount at risk is defined as the current guaranteed minimum death benefit in excess of the current account balance at the balance sheet date.
+The following tables present the balance of account values by range of guaranteed minimum crediting rates and the related range of difference, in basis points, between rates being credited to policyholders and the respective guaranteed minimum:
+Universal Life
+25
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+Annuities
+Other policyholders' account balances
+26
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+Separate accounts
+Separate account assets represent segregated funds where investment risks are borne by the customers, except to the extent of certain guarantees made by Chubb. The assets that support variable contracts are measured at fair value and are reported as Separate account assets and corresponding liabilities are reported within Separate account liabilities on the Consolidated balance sheets. Policy charges assessed against the policyholders for mortality, administration, and other services are included in Net premiums earned on the Consolidated statements of operations.
+The following table presents the aggregate fair value of Separate account assets, by major security type:
+The following table presents a roll-forward of separate account liabilities:
+(1)
+Cash surrender value represents the amount of the policyholder's account balances distributable at the balance sheet date less certain surrender charges.
+Unearned revenue liabilities
+Unearned revenue liabilities represent policy charges for services to be provided in future periods. The charges are reflected as deferred revenue and are generally amortized into income over the expected life of the contract using the same methodology, factors, and assumptions used to amortize deferred acquisition costs. Unearned revenue liabilities pertaining to both
+27
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+policyholders' account balances and separate accounts are recorded in Policyholders' account balances in the Consolidated balance sheets.
+The following table presents a roll-forward of unearned revenue liabilities:
+10.
+Market risk benefits
+Our reinsurance programs covering variable annuity guarantees, comprising guaranteed living benefits (GLB) and guaranteed minimum death benefits (GMDB), meet the definition of Market risk benefits (MRB).
+The following table presents a roll-forward of MRB:
+(1)
+Market movements are predominantly driven by changes in equities.
+(2)
+The net amount at risk is defined as the present value of future claim payments assuming policy account values and guaranteed values are fixed at the valuation date, and reinsurance coverage ends at the earlier of the maturity of the underlying variable annuity policy or the reinsurance treaty. No withdrawals, lapses, and mortality improvements are assumed in the projection. GLB-related risks contain conservative mortality and annuitization assumptions.
+Excluded from the table above are MRB gains (losses) of $
+14
+million and $(
+134
+) million for the three months ended March 31, 2025 and 2024, respectively, reported in the Consolidated statements of operations, relating to the market risk benefits' economic hedge and other net cash flows. There is no reinsurance recoverable associated with our liability for MRB.
+For MRB, Chubb estimates fair value using an internal valuation model which includes a number of factors including interest rates, equity markets, credit risk, current account value, market volatility, expected annuitization rates and other policyholder behavior, and changes in policyholder mortality. All reinsurance treaties contain claim limits, which are also factored into the valuation model.
+28
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+(1)
+The weighted-average lapse and annuitization rates are determined by weighting each treaty's rates by the MRB contract's fair value.
+The most significant policyholder behavior assumptions include lapse rates for MRBs, and GLB annuitization rates. Assumptions regarding lapse rates and GLB annuitization rates differ by treaty, but the underlying methodologies to determine rates applied to each treaty are comparable.
+A lapse rate is the percentage of in-force policies surrendered in a given calendar year. All else equal, as lapse rates increase, ultimate claim payments will decrease.
+The GLB annuitization rate is the percentage of policies for which the policyholder will elect to annuitize using the guaranteed benefit provided under the GLB. All else equal, as GLB annuitization rates increase, ultimate claim payments will increase, subject to treaty claim limits.
+The effect of changes in key market factors on assumed lapse and annuitization rates reflect emerging trends using data available from cedants. For treaties with limited experience, rates are established by blending the experience with data received from other ceding companies. The model and related assumptions are regularly re-evaluated by management and enhanced, as appropriate, based upon additional experience obtained related to policyholder behavior and availability of updated information such as market conditions, market participant assumptions, and demographics of in-force annuities. For detailed information on our lapse and annuitization rate assumptions, refer to Note 11 to the Consolidated Financial Statements of our 2024 Form 10-K.
+11.
+Commitments, contingencies, and guarantees
+a)
+Derivative instruments
+Chubb
+maintains positions in derivative instruments such as futures, options, swaps, and foreign currency forward contracts for which the primary purposes are to manage duration and foreign currency exposure, yield enhancement, or to obtain an exposure to a particular financial market.
+Chubb
+also maintains positions in convertible securities that contain embedded derivatives, and exchange-traded equity futures contracts on equity market indices to limit equity exposure in the market risk benefit (MRB) book of business. Derivative instruments are principally recorded in either Other assets (OA) or Accounts payable, accrued expenses, and other liabilities (AP) in the Consolidated balance sheets. Convertible securities are recorded in either Fixed maturities available-for-sale (FM AFS) or Equity securities (ES), depending on the underlying investment. These are the most numerous and frequent derivative transactions. In addition, Chubb, from time to time, purchases to be announced mortgage-backed securities (TBAs) as part of its investing activities.
+As a global company, Chubb entities transact business in multiple currencies. Our policy is to generally match assets, liabilities, and required capital for each individual jurisdiction in local currency, which would include the use of derivatives discussed below. Some of Chubb's derivatives satisfy hedge accounting requirements, as discussed below. We also consider economic hedging for planned cross border transactions.
+29
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents the balance sheet location, fair value in an asset or (liability) position, and notional value/payment provision of our derivative instruments:
+(1)
+Includes fair value of embedded derivatives.
+(2)
+Related to MRB book of business.
+At March 31, 2025, and December 31, 2024, net derivative liabilities of $
+223
+million and $
+199
+million, respectively, included in the table above were subject to a master netting agreement. The remaining derivatives included in the table above were not subject to a master netting agreement.
+b) Hedge accounting
+We designate certain derivatives as fair value hedges and net investment hedges for accounting purposes to hedge foreign currency exposure associated with portions of our euro denominated debt and the net investment in certain foreign subsidiaries, respectively. These derivatives comprise cross-currency swaps, which are agreements under which two counterparties exchange interest payments and principal denominated in different currencies at a future date. These hedges have been and are expected to be highly effective.
+(i) Cross-currency swaps - fair value hedges
+Chubb holds certain cross-currency swaps designated as fair value hedges. The objective of these cross-currency swaps is to hedge the foreign currency risk on €
+1.7
+billion, or approximately $
+1.9
+billion at March 31, 2025, of euro denominated debt by converting cash flows back into the U.S. dollar.
+These hedges are carried at fair value, with changes in fair value recorded in Other comprehensive income (OCI). The gains or losses on the fair value hedges offsetting the foreign currency remeasurement on the hedged euro denominated senior notes are reclassified from OCI into Net realized gains (losses), and an additional portion is reclassified into Interest expense as follows:
+30
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+(ii) Cross-currency swaps - net investment hedges
+Chubb holds certain cross-currency swaps designated as net investment hedges. The objective of these cross-currency swaps is to hedge the foreign currency exposure in the net investments of certain foreign subsidiaries by converting cash flows from U.S. dollar to the British pound sterling, Japanese yen, Swiss franc, and Chinese yuan renminbi. The hedged risk is designated as the foreign currency exposure arising between the functional currency of the foreign subsidiary and the functional currency of its parent entity.
+These net investment hedges are carried at fair value, with changes in fair value recorded in Cumulative translation adjustments (CTA) within OCI, and a portion reclassified to Interest expense. The mark-to-market adjustments for foreign currency changes will remain in CTA until the underlying hedge subsidiary is deconsolidated or hedge accounting is discontinued.
+31
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+c) Derivative instruments not designated as hedges
+Derivative instruments which are not designated as hedges are carried at fair value with changes in fair value recorded in Net realized gains (losses) or, for futures contracts on equities related to the MRB book of business, in Market risk benefits gains (losses) in the Consolidated statements of operations.
+The following table presents net gains (losses) related to derivative instrument activity in the Consolidated statements of operations:
+(1)
+Includes embedded derivatives.
+(2)
+Related to MRB book of business.
+(i) Foreign currency exposure management
+A foreign currency forward contract (forward) is an agreement between participants to exchange specific currencies at a future date.
+Chubb
+uses forwards to minimize the effect of fluctuating foreign currencies as discussed above.
+(ii) Duration management and market exposure
+Futures
+Futures contracts give the holder the right and obligation to participate in market movements, determined by the index or underlying security on which the futures contract is based. Settlement is made daily in cash by an amount equal to the change in value of the futures contract times a multiplier that scales the size of the contract. Exchange-traded futures contracts on money market instruments, notes and bonds are used in fixed maturity portfolios to more efficiently manage duration, as substitutes for ownership of the money market instruments, bonds, and notes without significantly increasing the risk in the portfolio. Investments in futures contracts may be made only to the extent that there are assets under management not otherwise committed.
+Exchange-traded equity futures contracts are used to limit exposure to a severe equity market decline, which would cause an increase in expected claims and, therefore, an increase in market risk benefit reserves.
+Forwards
+A fixed income forward contract (forward) is an agreement between participants to exchange a specific instrument at a fixed price at a future date. Chubb uses forwards to mitigate reinvestment risk of future written premiums.
+Options
+An option contract conveys to the holder the right, but not the obligation, to purchase or sell a specified amount or value of an underlying security at a fixed price. Option contracts are used in our investment portfolio as protection against unexpected shifts in interest rates, which would affect the duration of the fixed maturity portfolio. By using options in the portfolio, the overall interest rate sensitivity of the portfolio can be reduced. Option contracts may also be used as an alternative to futures contracts in the synthetic strategy as described above.
+The price of an option is influenced by the underlying security, level of interest rates, expected volatility, time to expiration, and supply and demand.
+32
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The credit risk associated with the above derivative financial instruments relates to the potential for non-performance by counterparties. Although non-performance is not anticipated, in order to minimize the risk of loss, management monitors the creditworthiness of its counterparties and obtains collateral. The performance of exchange-traded instruments is guaranteed by the exchange on which they trade. For non-exchange-traded instruments, the counterparties are principally banks which must meet certain criteria according to our investment guidelines.
+Other
+Included within Other are derivatives intended to reduce potential losses which may arise from certain exposures in our insurance business. The economic benefit provided by these derivatives is similar to purchased reinsurance. For example,
+Chubb
+may, from time to time, enter into crop derivative contracts to protect underwriting results in the event of a significant decline in commodity prices.
+(iii) Convertible security investments
+A convertible security is a debt instrument or preferred stock that can be converted into a predetermined amount of the issuer’s equity. The convertible option is an embedded derivative within the host instruments which are classified in the investment portfolio as either available-for-sale or as an equity security.
+Chubb
+purchases convertible securities for their total return and not specifically for the conversion feature.
+(iv) TBA
+By acquiring to be announced mortgage-backed securities (TBAs), we make a commitment to purchase a future issuance of mortgage-backed securities. For the period between purchase of the TBAs and issuance of the underlying security, we account for our position as a derivative in the Consolidated Financial Statements. Chubb purchases TBAs, from time to time, both for their total return and for the flexibility they provide related to our mortgage-backed security strategy.
+(v) Futures contracts on equities
+Under the MRB program, as the assuming entity,
+Chubb
+is obligated to provide coverage until the expiration or maturity of the underlying deferred annuity contracts or the expiry of the reinsurance treaty. We may recognize a loss for changes in fair value due to adverse changes in the capital markets (e.g., declining interest rates and/or declining U.S. and/or international equity markets). To mitigate adverse changes in the capital markets, we maintain positions in exchange-traded equity futures contracts, as noted under section "(ii) Futures" above. These futures increase in fair value when the S&P 500 index decreases (and decrease in fair value when the S&P 500 index increases). The net impact of gains or losses related to changes in fair value of the MRB liability and the exchange-traded equity futures are included in Market risk benefits gains (losses) in the Consolidated statements of operations.
+d)
+Securities lending and secured borrowings
+Chubb participates in a securities lending program operated by a third-party banking institution whereby certain assets are loaned to qualified borrowers and from which we earn an incremental return. The securities lending collateral can only be drawn down by Chubb in the event that the institution borrowing the securities is in default under the lending agreement. An indemnification agreement with the lending agent protects us in the event a borrower becomes insolvent or fails to return any of the securities on loan.
+The collateral is recorded in Securities lending collateral and the liability is recorded in Securities lending payable in the Consolidated balance sheets.
+33
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents the carrying value of collateral held under securities lending agreements by investment category and remaining contractual maturity of the underlying agreements:
+At
+March 31, 2025,
+and December 31, 2024, our repurchase agreement obligations of $
+3,124
+million and $
+2,731
+million, respectively, were fully collateralized. In contrast to securities lending programs, the use of cash received is not restricted for the repurchase obligations.
+The fair value of the underlying securities sold remains in Fixed maturities available-for-sale or Other investments, and the repurchase agreement obligation is recorded in Repurchase agreements in the Consolidated balance sheets.
+The following table presents the carrying value of collateral pledged under repurchase agreements by investment category and remaining contractual maturity of the underlying agreements:
+(1)
+Per the repurchase agreements, the amount of collateral posted is required to exceed the amount of gross liability.
+Potential risks exist in our secured borrowing transactions due to market conditions and counterparty exposure. With collateral that we pledge, there is a risk that the collateral may not be returned at the expiration of the agreement. If the counterparty fails to return the collateral, Chubb will have free use of the borrowed funds until our collateral is returned. In addition, we may encounter the risk that Chubb may not be able to renew outstanding borrowings with a new term or with an existing counterparty due to market conditions including a decrease in demand as well as more restrictive terms from banks due to increased regulatory and capital constraints. Should this condition occur, Chubb may seek alternative borrowing sources or reduce borrowings. Additionally, increased margins and collateral requirements due to market conditions would increase our restricted assets as we are required to provide additional collateral to support the transaction.
+34
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+e) Fixed maturities
+At March 31, 2025, and December 31, 2024, commitments to purchase fixed income securities over the next several years were $
+1.2
+billion and $
+1.3
+billion, respectively.
+f) Private equities
+Private equities in the Consolidated balance sheets are investments in limited partnerships and partially-owned investment companies. At March 31, 2025, private equities with a carrying value of $
+15.3
+billion had commitments that could require funding of up to $
+6.4
+billion over the next several years. At December 31, 2024, these investments had a carrying value of $
+14.5
+billion with commitments of up to $
+6.4
+billion. The remaining private equities had no funding commitments.
+g) Income taxes
+At March 31, 2025, $
+97
+million of unrecognized tax benefits remain out
+standing. It is reasonably possible that, over the next twelve months, the amount of unrecognized tax benefits may change resulting from the re-evaluation of unrecognized tax benefits arising from examinations by taxing authorities, settlements, and the lapses of statutes of limitations. With few exceptions, Chubb is no longer subject to income tax examinations for years before 2012
+.
+h) Legal proceedings
+Our insurance subsidiaries are subject to claims litigation involving disputed interpretations of policy coverages and, in some jurisdictions, direct actions by allegedly-injured persons seeking damages from policyholders. These lawsuits, involving claims on policies issued by our subsidiaries which are typical to the insurance industry in general and in the normal course of business, are considered in our loss and loss expense reserves. In addition to claims litigation, we are subject to lawsuits and regulatory actions in the normal course of business that do not arise from or directly relate to claims on insurance policies. This category of business litigation typically involves, among other things, allegations of underwriting errors or misconduct, employment claims, regulatory activity, or disputes arising from our business ventures. In the opinion of management, our ultimate liability for these matters could be, but we believe is not likely to be, material to our consolidated financial condition and results of operations.
+i) Lease commitments
+At March 31, 2025, and December 31, 2024, the right-of-use asset was $
+1,052
+million and $
+824
+million, respectively, recorded within
+Other assets
+, and the lease liability was $
+1,177
+million and $
+942
+million, respectively, recorded within
+Accounts payable, accrued expenses, and other liabilities
+on the Consolidated balance sheets. These leases consist principally of real estate operating leases that are amortized on a straight-line basis over the term of the lease, which expire at various dates.
+12.
+Shareholders’ equity
+All of Chubb’s Common Shares are authorized under Swiss corporate law. Though the par value of Common Shares is stated in Swiss francs, Chubb continues to use U.S. dollars as its reporting currency for preparing the Consolidated Financial Statements. Under Swiss corporate law, dividends, including distributions from legal reserves or through a reduction in par value (par value reduction), must be stated in Swiss francs though dividend payments are made by Chubb in U.S. dollars. At March 31, 2025, our Common Shares had a par value of CHF
+0.50
+per share.
+At our May 2024 and 2023 annual general meetings, our shareholders approved annual dividends for the following year of up to $
+3.64
+per share and $
+3.44
+per share, respectively, which were paid in four quarterly installments of $
+0.91
+per share and $
+0.86
+per share, respectively, at dates determined by the Board of Directors (Board) after the annual general meetings by way of a distribution from capital contribution reserves, transferred to free reserves for payment.
+Dividend distributions per Common Share for the three months ended March 31, 2025, and 2024, were $
+0.91
+(CHF
+0.81
+) and $
+0.86
+(CHF
+0.75
+), respectively.
+Increases in Common Shares in treasury are due to open market repurchases of Common Shares and the surrender of Common Shares to satisfy tax withholding obligations in connection with the vesting of restricted stock and the forfeiture of unvested restricted stock. Decreases in Common Shares in treasury are principally due to grants of restricted stock, exercises of stock options, purchases under the Employee Stock Purchase Plan (ESPP), and share cancellations.
+On March 7, 2025, Chubb completed a share capital reduction by means of cancellation of
+7,518,565
+Common Shares purchased under our share repurchase program during 2024. The capital reduction was completed in accordance with the capital band provision for authorized share capital increases and reductions by the Board set forth in the Articles of Association. During the three months ended March 31, 2025,
+1,345,782
+shares were repurchased,
+7,518,565
+shares were canceled, and
+35
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+1,390,604
+net shares were issued under employee share-based compensation plans. At March 31, 2025,
+11,358,936
+Common Shares remain in treasury.
+Chubb Limited securities repurchase authorization
+In June 2023, the Board authorized the repurchase of up to $
+5.0
+billion
+of Chubb Common Shares effective July 1, 2023, with no expiration date. The following table presents repurchases of Chubb's Common Shares conducted in a series of open market transactions under the Board authorization:
+The following table presents changes in accumulated other comprehensive income (loss):
+36
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+37
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following table presents reclassifications from accumulated other comprehensive income (loss) to the Consolidated statements of operations:
+13.
+Share-based compensation
+The Chubb Limited 2016 Long-Term Incentive Plan, as amended and restated (the Amended 2016 LTIP), permits grants of both incentive and non-qualified stock options principally at an option price per share equal to the grant date fair value of Chubb's Common Shares. Stock options are generally granted with a
+3
+-year vesting period and a
+10
+-year term. Stock options typically vest in equal annual installments over the respective vesting period, which is also the requisite service period. On March 3, 2025, Chubb granted
+1,253,605
+stock options with a weighted-average grant date fair value of $
+74.64
+each. The fair value of the options issued is estimated on the grant date using the Black-Scholes option pricing model.
+The Amended 2016 LTIP also permits grants of service-based restricted stock and restricted stock units as well as performance shares and performance stock units. Under the Chubb Deferred Stock Unit Plan, a sub-plan of the Amended 2016 LTIP, eligible participants may defer vested performance stock units and restricted stock units to the extent such awards are U.S.-allocated compensation.
+Chubb generally grants service-based restricted stock and restricted stock units with a
+4
+-year vesting period, based on a graded vesting schedule. Performance shares and performance stock units granted comprise both target and premium awards that cliff vest at the end of a
+3
+-year performance period based on tangible book value (Chubb shareholders' equity less goodwill and intangible assets attributable to Chubb, net of tax) per share growth and P&C combined ratio compared to a defined group of peer companies. Premium awards are subject to an additional vesting provision based on total shareholder return compared to the peer group. Stock and unit awards are principally granted at market close price on the grant date. On March 3, 2025, Chubb granted
+620,237
+service-based restricted stock,
+287,268
+service-based restricted stock units,
+103,285
+performance shares, and
+288,070
+performance stock units to employees and officers with a grant date fair value of $
+289.69
+each. Each service-based restricted stock unit and performance stock unit represents our obligation to deliver to the holder one Common Share upon vesting (or the end of the deferral period, if the unit is under the Chubb Deferred Stock Unit Plan).
+38
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+14.
+Postretirement benefits
+The components of net pension and other postretirement benefit costs (benefits) reflected in Net income in the Consolidated statements of operations were as follows:
+The line items in which the service cost and non-service cost (benefit) components of net periodic cost (benefit) are included in the Consolidated statements of operations were as follows:
+39
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+15.
+Other income and expense
+Equity in net income of partially-owned entities includes our share of net income or loss, both underlying operating income and mark-to-market movement, related to partially-owned investment companies (private equity) where we own more than three percent, and partially-owned insurance companies. This line item includes mark-to-market gains (losses) on private equities of $(
+27
+) million and $
+103
+million for the three months ended March 31, 2025 and 2024, respectively.
+Also included in Other income and expense are gains (losses) from fair value changes in separate account assets that do not qualify for separate account treatment under U.S. GAAP. The offsetting movement in the separate account liabilities is included in Policy benefits in the Consolidated statements of operations.
+Asset management and performance fee revenue and expense primarily relate to the management of third-party assets by Huatai's asset management business, which is unrelated to Huatai Group's core insurance operations. These revenues and expenses are recognized in the period in which the services are performed and, for certain asset performance fees, to the extent it is probable that a significant reversal will not occur.
+Certain federal excise and capital taxes incurred as a result of capital management initiatives are included in Other income and expense as these are considered capital transactions and are excluded from underwriting results. Bad debt expense for uncollectible premiums is also included in Other income and expense.
+16.
+Segment information
+Chubb operates through six business segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. These segments distribute their products through various forms of brokers, agencies, and direct marketing programs. All business segments have established relationships with reinsurance intermediaries.
+Segment performance is reviewed by the Chief Executive Officer of Chubb Ltd, our Chief Operating Decision Maker (CODM). The CODM is ultimately responsible for evaluating the performance of our six business segments, making strategic operating decisions, and allocating resources. The financial results of our operations are reported in a manner consistent with results reviewed by the CODM in reviewing and assessing the performance of our six business segments. Excluding our Life Insurance segment, the CODM uses Underwriting income (loss) as a basis for segment performance. Chubb calculates Underwriting income (loss) by subtracting Losses and loss expenses, Policy benefits, Policy acquisition costs, and Administrative expenses from Net premiums earned. For both our P&C and Life Insurance segments, another measure of segment performance is Segment income (loss). Segment income (loss) includes Underwriting income (loss), Net investment income (loss), amortization of purchased intangibles acquired by the segment, and other operating income and expense items such as each segment's share of the operating income (loss) related to partially-owned entities, and miscellaneous income and expense items for which the segments are held accountable. We determined that this definition of Segment income (loss) is appropriate and aligns with how the business is managed. We continue to evaluate our segments as our business continues to evolve and may further refine our segments and Segment income (loss) measures.
+Revenue and expenses managed at the corporate level, including Net realized gains (losses), Market risk benefits gains (losses), Interest expense, Integration expenses, Income tax expense, and Net income (loss) attributable to noncontrolling interests are reported within Corporate. Integration expenses are one-time costs that are directly attributable to third-party consulting fees, employee-related retention costs, and other professional and legal fees primarily related to the acquisition of Cigna's business in
+40
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+Asia. These items are not allocated to the segment level as they are one-time in nature and are not related to the ongoing business activities of the segment. The CODM does not manage segment results or allocate resources to segments when considering these costs, and therefore Integration expenses are excluded from our definition of Segment income (loss).
+Certain items are presented in a different manner for segment reporting purposes than in the Consolidated Financial Statements, including:
+•
+Losses and loss expenses include realized gains and losses on crop derivatives. These derivatives were purchased to provide economic benefit, in a manner similar to reinsurance protection, in the event that a significant decline in commodity pricing impacts underwriting results. We view gains and losses on these derivatives as part of the results of our underwriting operations, and therefore, realized gains (losses) from these derivatives are reclassified to losses and loss expenses.
+•
+Policy benefits include fair value changes on separate accounts that do not qualify for separate accounting under U.S. GAAP. These gains and losses have been reclassified from Other (income) expense to Policy benefits. Policy benefits also include the impact of realized gains and losses on investment portfolios supporting certain participating policies. These realized gains and losses have been reclassified from net realized gains (losses) to policy benefits. This presentation better reflects the gains and losses from fair value changes in separate account assets and liabilities, and the economics of the participating policies by connecting the investment performance that is shared with policyholders to the liability.
+•
+Net investment income includes investment income reclassified from Other (income) expense related to partially-owned investment companies (private equity partnerships) where our ownership interest is in excess of three percent. We view investment income from these equity-method private equity partnerships as Net investment income for segment reporting purposes.
+41
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+The following tables present the Statement of Operations by segment:
+NM – not meaningful. Underwriting income is not used as a basis for segment performance for the Life Insurance segment.
+42
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+NM – not meaningful. Underwriting income is not used as a basis for segment performance for the Life Insurance segment.
+Underwriting assets are reviewed in total by management for purposes of decision-making. Other than certain insurance related balances, Goodwill and Other intangible assets, Chubb does not allocate assets to its segments.
+43
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – continued (Unaudited)
+Chubb Limited and Subsidiaries
+17.
+Earnings per share
+Excluded from weighted-average shares outstanding and assumed conversions is the impact of securities that would have been anti-dilutive during the respective periods. These securities consisted of stock options in which the underlying exercise prices were greater than the average market prices of our Common Shares. Refer to Note 16 to the Consolidated Financial Statements of our 2024 Form 10-K for additional information on stock options.
+44
+Table of Contents
+The following is a discussion of our results of operations, financial condition, and liquidity and capital resources as of and for the three months ended March 31, 2025.
+All comparisons in this discussion are to the corresponding prior year period unless otherwise indicated. All dollar amounts are rounded. However, percent changes and ratios are calculated using whole dollars. Accordingly, calculations using rounded dollars may differ.
+Our results of operations and cash flows for any interim period are not necessarily indicative of our results for the full year. This discussion should be read in conjunction with our Consolidated Financial Statements and related notes and our Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended December 31, 2024 (2024 Form 10-K).
+Other Information
+We routinely post important information for investors on our website (investors.chubb.com). We use this website as a means of disclosing material, non-public information and for complying with our disclosure obligations under Securities and Exchange Commission (SEC) Regulation FD (Fair Disclosure). Accordingly, investors should monitor the Investor Information portion of our website, in addition to following our press releases, SEC filings, public conference calls, and webcasts. The information contained on, or that may be accessed through, our website is not incorporated by reference into, and is not a part of, this report.
+45
+Table of Contents
+The Private Securities Litigation Reform Act of 1995 provides a “safe harbor” for forward-looking statements. Any written or oral statements made by us or on our behalf may include forward-looking statements that reflect our current views with respect to future events and financial performance. These forward-looking statements are subject to certain risks, uncertainties, and other factors that could, should potential events occur, cause actual results to differ materially from such statements. These risks, uncertainties, and other factors, which are described in more detail elsewhere herein and in other documents we file with the SEC, include but are not limited to:
+•
+actual amount of new and renewal business, premium rates, underwriting margins, market acceptance of our products, and risks associated with the introduction of new products and services and entering new markets; the competitive environment in which we operate, including trends in pricing or in policy terms and conditions, which may differ from our projections, and changes in market conditions that could render our business strategies ineffective or obsolete;
+•
+losses arising out of natural or man-made catastrophes; actual loss experience from insured or reinsured events and the timing of claim payments; the uncertainties of the loss-reserving and claims-settlement processes, including the difficulties associated with assessing environmental damage and asbestos-related latent injuries, the impact of aggregate-policy-coverage limits, the impact of bankruptcy protection sought by various asbestos producers and other related businesses, and the timing of loss payments;
+•
+changes in the distribution or placement of risks due to increased consolidation of insurance and reinsurance brokers; material differences between actual and expected assessments for guaranty funds and mandatory pooling arrangements; the ability to collect reinsurance recoverable, credit developments of reinsurers, and any delays with respect thereto and changes in the cost, quality, or availability of reinsurance;
+•
+uncertainties relating to governmental, legislative and regulatory policies, developments, actions, investigations, and treaties; judicial decisions and rulings, new theories of liability, legal tactics, and settlement terms; the effects of data privacy or cyber laws or regulation; global political conditions and possible business disruption or economic contraction that may result from such events;
+•
+the impact of changes in tax laws, guidance and interpretations, such as the implementation of the Organization for Economic Cooperation and Development international tax framework, or the increasing number of challenges from tax authorities in the current global tax environment;
+•
+severity of pandemics and related risks, and their effects on our business operations and claims activity, and any adverse impact to our insureds, brokers, agents, and employees; actual claims may exceed our best estimate of ultimate insurance losses incurred which could change including as a result of, among other things, the impact of legislative or regulatory actions taken in response to a pandemic;
+•
+developments in global financial markets, including changes in interest rates, stock markets, and other financial markets; increased government involvement or intervention in the financial services industry; the cost and availability of financing, and foreign currency exchange rate fluctuations; changing rates of inflation; and other general economic and business conditions, including the depth and duration of potential recession;
+•
+the availability of borrowings and letters of credit under our credit facilities; the adequacy of collateral supporting funded high deductible programs; and the amount of dividends received from subsidiaries;
+•
+changes to our assessment as to whether it is more likely than not that we will be required to sell, or have the intent to sell, available-for-sale fixed maturity investments before their anticipated recovery;
+•
+actions that rating agencies may take from time to time, such as financial strength or credit ratings downgrades or placing these ratings on credit watch negative or the equivalent;
+•
+the effects of public company bankruptcies and accounting restatements, as well as disclosures by and investigations of public companies relating to possible accounting irregularities, and other corporate governance issues;
+•
+acquisitions made performing differently than expected, our failure to realize anticipated expense-related efficiencies or growth from acquisitions, and the impact of acquisitions on our pre-existing organization;
+•
+risks associated with being a Swiss corporation, including reduced flexibility with respect to certain aspects of capital management and the potential for additional regulatory burdens; share repurchase plans and share cancellations;
+•
+loss of the services of any of our executive officers without suitable replacements being recruited in a reasonable time frame;
+46
+Table of Contents
+•
+the ability of our technology resources, including information systems and security, to perform as anticipated such as with respect to preventing material information technology failures or third-party infiltrations or hacking resulting in consequences adverse to Chubb or its customers or partners; the ability of our company to increase use of data analytics and technology as part of our business strategy and adapt to new technologies; and
+•
+management’s response to these factors and actual events (including, but not limited to, those described above).
+The words “believe,” “anticipate,” “estimate,” “project,” “should,” “plan,” “expect,” “intend,” “hope,” “feel,” “foresee,” “will likely result,” “will continue,
+” and variations thereof and similar expressions, identify forward-looking statements.
+You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the dates such statements were made. We undertake no obligation to publicly update or review any forward-looking statements, whether as a result of new information, future events, or otherwise.
+Chubb Limited is the Swiss-incorporated holding company of the Chubb Group of Companies. Chubb Limited, which is headquartered in Zurich, Switzerland, and its direct and indirect subsidiaries (collectively, the Chubb Group of Companies, Chubb, we, us, or our) are a global insurance and reinsurance organization, serving the needs of a diverse group of clients worldwide. At March 31, 2025, we had total assets of $252 billion and total Chubb shareholders’ equity, which excludes noncontrolling interests, of $66 billion. Chubb was incorporated in 1985 at which time it opened its first business office in Bermuda and continues to maintain operations in Bermuda. We operate through six business segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. For more information on our segments refer to “Segment Information” under Item 1 in our 2024 Form 10-K.
+47
+Table of Contents
+NM - not meaningful
+(1)
+On a constant-dollar basis. Amounts are calculated by translating prior period results using the same local currency exchange rates as the comparable current period.
+Financial Highlights for the Three Months Ended March 31, 2025
+•
+Net income attributable to Chubb was $1.33 billion
+compared
+with $2.14 billion in the prior year period. The decline was due to higher catastrophe losses.
+•
+Total pre-tax catastrophe losses were $1.64 billion, or 15.9 percentage points of the combined ratio, and include California wildfire losses of $1.47 billion, compared with total pre-tax catastrophe losses of $435 million, or 4.4 percentage points of the combined ratio, in the prior year. Total after-tax net catastrophe losses were $1.30 billion.
+•
+The P&C combined ratio was 95.7 percent compared with 86.0 percent in the prior year period. The P&C current accident year (CAY) combined ratio excluding catastrophe losses was 82.3 percent compared with 83.7 percent in the prior year period.
+•
+Consolidated net premiums written were $12.65 billion, up 3.5 percent, or 5.7 percent in constant dollars. P&C net premiums written were $10.93 billion, up 3.2 percent, or 5.0 percent in constant dollars, with commercial insurance up 4.6 percent and consumer insurance up 6.0 percent in constant dollars.
+•
+Life Insurance net premiums written were $1.72 billion, up 5.3 percent, or 10.3 percent in constant dollars, due to growth in both international life of 9.1 percent in constant dollars, predominantly in Asia, and Combined North America of 18.6
+48
+Table of Contents
+percent in constant dollars, primarily driven by worksite business. Life Insurance segment income was $291 million, up 8.6 percent, or 15.7 percent in constant dollars. Life insurance deposits collected increased $155 million, up 25.7 percent, or 30.0 percent in constant dollars.
+•
+Net premiums earned increased $417 million, up 3.6 percent, or 5.7 percent in constant dollars. P&C net premiums earned increased 3.3 percent, or 5.0 percent in constant dollars, comprising growth in commercial and consumer lines of 4.2 percent and 7.1 percent, respectively.
+•
+Administrative expenses are relatively flat despite growth in net premiums.
+•
+Pre-tax net investment income was $1.56 billion, up 12.2 percent compared to $1.39 billion in the prior year period, primarily due to higher average invested assets and higher reinvestment rates on fixed maturities.
+(1)
+Commercial multiple peril represents retail package business (property and general liability).
+For additional information on net premiums written, refer to the segment operating results discussions.
+49
+Table of Contents
+Catastrophe Losses and Prior Period Development
+We generally define catastrophe loss events consistent with the definition of the Property Claims Service (PCS) for events in the U.S. and Canada. PCS defines a catastrophe as an event that causes damage of $25 million or more in insured losses and affects a significant number of insureds. For events outside of the U.S. and Canada, we generally use a similar definition. Catastrophe losses are net of reinsurance and include reinstatement premiums, which are additional premiums paid on certain reinsurance agreements in order to reinstate coverage that had been exhausted by loss occurrences. The reinstatement premium amount is typically a pro rata portion of the original ceded premium paid based on how much of the reinsurance limit had been exhausted.
+Prior period development (PPD) arises from changes to loss estimates recognized in the current year that relate to loss events that occurred in previous calendar years and excludes the effect of losses from the development of earned premium from previous accident years. PPD includes adjustments relating to either profit commission reserves or policyholder dividend reserves based on actual claim experience that develops after the policy period ends. The expense adjustments correlate to the prior period loss development on these same policies.
+Refer to the Non-GAAP Reconciliation section for further information on reinstatement premiums on catastrophe losses and adjustments to prior period development.
+Catastrophe losses through March 31, 2025 and 2024, were primarily from the following events:
+•
+2025: California wildfire losses of $1.47 billion, flooding in the U.S., hail, tornadoes, wind events, and winter-related storms.
+•
+2024: Severe weather-related events in the U.S. and internationally.
+Pre-tax net favorable PPD for the three months ended March 31, 2025, was $268 million in our active companies, including favorable development of $313 million in short-tail lines, principally in credit-related lines, A&H, and property. Favorable development was partially offset by net adverse development of $45 million in long-tail lines, with adverse and favorable updates across several lines of business. Our corporate run-off portfolio had adverse development of $13 million.
+Pre-tax net favorable PPD for the three months ended March 31, 2024, was $216 million in our active companies, including
+favorable
+development of $311 million in short-tail lines,
+principally in property and credit-related lines, and adverse
+development of $95 million
+in long-tail lines,
+principally in large account commercial excess and umbrella lines. Our corporate run-off portfolio had adverse development of $9 million.
+Refer to the prior period development discussion in Note 7 to the Consolidated Financial Statements for additional information.
+50
+Table of Contents
+P&C Combined Ratio
+In evaluating our segments, excluding Life Insurance financial performance, we use the P&C combined ratio, the loss and loss expense ratio, the policy acquisition cost ratio, and the administrative expense ratio. We calculate these ratios by dividing the respective expense amounts by net premiums earned. We do not calculate these ratios for the Life Insurance segment as we do not use these measures to monitor or manage the business in that segment. The P&C combined ratio is determined by adding the loss and loss expense ratio, the policy acquisition cost ratio, and the administrative expense ratio. A P&C combined ratio under 100 percent indicates underwriting income, and a combined ratio exceeding 100 percent indicates underwriting loss. P&C CAY combined ratio excluding catastrophe losses (CATs) excludes CATs and prior period development (PPD) from the P&C combined ratio.
+The P&C combined ratio increased for the three months ended March 31, 2025, reflecting California wildfire losses of $1.47 billion, including the unfavorable impact of $37 million of net ceded reinstatement premiums on the expense ratio (i.e., lower premium resulting in a higher expense ratio). The increase was partially offset by higher favorable prior period development.
+The P&C CAY combined ratio excluding catastrophe losses decreased for the three months ended March 31, 2025, reflecting an improvement from earned rate and exposure exceeding loss trends, the favorable impact of higher net premiums earned, and the favorable impact of lower year-over-year large-structured transactions, which benefited the current year loss ratio, but had a partially offsetting unfavorable impact to the expense ratio.
+Policy benefits
+Policy benefits represent losses on contracts classified as long-duration and generally include accident and supplemental health products, term and whole life products, endowment products, and annuities. Policy benefits include (gains) losses from fair value changes in separate account liabilities that do not qualify for separate account treatment under U.S. GAAP. The offsetting movements of these liabilities are recorded in Other (income) expense in the Consolidated statements of operations. In addition, Policy benefits include the impact on the liabilities from (gains) losses on investment portfolios supporting certain participating policies. The offsetting movements of these liabilities are recorded in Realized gains (losses) in the Consolidated statements of operations. Refer to the Life Insurance segment operating results section for further discussion.
+Policy benefits were $1,227 million and $1,180 million for the three months ended March 31, 2025 and 2024, respectively.
+Refer to the respective sections that follow for a discussion of Net investment income, Other (income) expense, Net realized gains (losses), Interest expense, Amortization of purchased intangibles, and Income tax expense.
+51
+Table of Contents
+We operate through six business segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. For more information on our segments refer to “Segment Information” under Item 1 in our 2024 Form 10-K.
+North America Commercial P&C Insurance
+The North America Commercial P&C Insurance segment comprises operations that provide P&C insurance and services to large, middle market, and small commercial businesses in the U.S., Canada, and Bermuda. This segment includes our North America Major Accounts and Specialty Insurance division (large corporate accounts and wholesale business), and the North America Commercial Insurance division (principally middle market, and small commercial accounts).
+NM - Not meaningful
+Catastrophe losses were primarily from the following events:
+2025: California wildfire losses of $99 million, flooding in the U.S., hail, tornadoes, and wind events.
+2024: Flooding in the U.S., hail, tornadoes, wind events, and winter storm losses.
+Refer to Note 7 to the Consolidated Financial Statements for detail on prior period development.
+52
+Table of Contents
+Premiums
+Net premiums written increased $98 million, or 2.1 percent, for the three months ended March 31, 2025, which includes P&C growth of 2.6 percent, partially offset by financial lines decline of 1.3 percent. P&C growth was adversely impacted by 3.5 percentage points due to lower year-over-year structured transactions. The increase in premiums reflects growth of 7.6 percent in the North America Commercial Insurance division, while the North America Major Accounts and Specialty Insurance division declined 1.7 percent, primarily due to lower year-over-year large-structured transactions. The overall increase in premiums was across a number of lines, most notably in primary and excess casualty, reflecting strong new business and rate increases, partially offset by rate decreases in our Large Risk and E&S brokerage property lines, and in our financial lines.
+Net premiums earned increased $108 million, or 2.2 percent, for the three months ended March 31, 2025, reflecting the growth in net premiums written described above.
+Combined Ratio
+The combined ratio decreased for the three months ended March 31, 2025, reflecting lower catastrophe losses and higher favorable prior period development.
+The CAY combined ratio excluding catastrophe losses decreased 0.7 percentage points for the three months ended March 31, 2025, reflecting a 0.6 percentage point favorable impact of lower year-over-year large-structured transactions which benefited the current year loss ratio, but had a partially offsetting unfavorable impact to the expense ratio, and a higher percentage of net premiums earned from property lines.
+North America Personal P&C Insurance
+The North America Personal P&C Insurance segment comprises operations that provide high net worth personal lines products, including homeowners and complementary products such as valuable articles, excess liability, automobile, and recreational marine insurance and services in the U.S. and Canada.
+NM - Not meaningful
+53
+Table of Contents
+Catastrophe losses were primarily from the following events:
+2025: California wildfire losses of $1.29 billion, flooding in the U.S., hail, tornadoes, wind events, and winter-related storms.
+2024: Winter storm losses, flooding in the U.S., hail, tornadoes, and wind events.
+Refer to Note 7 to the Consolidated Financial Statements for detail on prior period development.
+Premiums
+Net premiums written increased $96 million, or 6.6 percent, for the three months ended March 31, 2025, driven by strong new business and retention, and positive rate and exposure increases in all lines. The growth in premiums was partially offset by $50 million of ceded reinstatement premiums related to the California wildfires, a 3.5 percentage point drag on net premiums written growth.
+Net premiums earned increased $103 million, or 7.0 percent, for the three months ended March 31, 2025, reflecting the growth in net premiums written described above.
+Combined Ratio
+The combined ratio increased for the three months ended March 31, 2025, reflecting the California wildfire catastrophe losses, including the unfavorable impact of the ceded reinstatement premiums on the expense ratio, which are fully earned and carry no expenses, and lower favorable prior period development.
+The CAY combined ratio excluding catastrophe losses decreased for the three months ended March 31, 2025, primarily due to an improvement in homeowners and auto from earned rate and exposure exceeding loss trends, and a lower administrative expense ratio primarily due to the impact of higher net premiums earned and strong expense management.
+54
+Table of Contents
+North America Agricultural Insurance
+The North America Agricultural Insurance segment comprises our North American based businesses that provide a variety of coverages in the U.S. and Canada including crop insurance, primarily Multiple Peril Crop Insurance (MPCI) and crop-hail through Rain and Hail Insurance Service, Inc. (Rain and Hail), as well as farm and ranch and specialty P&C commercial insurance products and services through our Agriculture P&C business.
+NM - Not meaningful
+Catastrophe losses through both March 31, 2025 and 2024, were primarily from flooding in the U.S., hail, tornadoes, wind events, and winter-related storms.
+Refer to Note 7 to the Consolidated Financial Statements for detail on prior period development.
+Premiums
+Net premiums written increased $27 million, or 11.0 percent, for the three months ended March 31, 2025, primarily due to a ceded premium increase of $41 million to the U.S. Government under the profit-sharing formula in the prior year, which impacted growth by 15.6 percentage points, partially offset by lower commodity prices in the current year.
+Net premiums earned increased $37 million, or 28.6 percent, for the three months ended March 31, 2025, reflecting the factors described above.
+55
+Table of Contents
+Combined Ratio
+The combined ratio increased for the three months ended March 31, 2025, reflecting higher catastrophe losses, and a lower impact from favorable prior period development.
+The CAY combined ratio excluding catastrophe losses decreased for the three months ended March 31, 2025, reflecting earned rate exceeding loss trend in our Agriculture P&C business, partially offset by a change in the mix of business away from products that carry a lower policy acquisition cost ratio.
+Overseas General Insurance
+Overseas General Insurance segment comprises Chubb International and Chubb Global Markets (CGM). Chubb International comprises our international commercial P&C traditional and specialty lines serving large corporations, middle market and small customers; A&H and traditional and specialty personal lines business serving local territories outside the U.S., Bermuda, and Canada. CGM, our London-based international commercial P&C excess and surplus lines business, includes Lloyd's of London (Lloyd's) Syndicate 2488. Chubb provides funds at Lloyd's to support underwriting by Syndicate 2488 which is managed by Chubb Underwriting Agencies Limited.
+56
+Table of Contents
+Catastrophe losses through March 31, 2025 and 2024, were primarily from the following events:
+•
+2025: Storms in Australia, global earthquakes, and California wildfire losses.
+•
+2024: International weather-related events.
+Refer to Note 7 to the Consolidated Financial Statements for detail on prior period development.
+(1)
+Includes the international supplemental A&H business of Combined Insurance and other international operations.
+Premiums
+Overall, net premiums written increased $68 million, or $237 million on a constant-dollar basis, for the three months ended March 31, 2025. This growth reflects an increase in commercial lines of 3.6 percent, or 7.3 percent on a constant-dollar basis, while consumer lines declined slightly by 1.1 percent, but grew 5.0 percent on a constant-dollar basis.
+Our European division increased for the three months ended March 31, 2025, supported by both our wholesale and retail divisions primarily from growth in commercial property lines due to higher new business.
+Asia increased for the three months ended March 31, 2025, reflecting growth in commercial lines due to higher new business, and in consumer lines.
+Latin America increased on a constant dollar basis for the three months ended March 31, 2025, reflecting growth in personal lines business, including automobile in Mexico. Commercial lines increased primarily in property lines from positive rate increases.
+Net premiums earned increased $11 million, or $153 million on a constant-dollar basis, for the three months ended March 31, 2025, reflecting the increase in net premiums written described above.
+Combined Ratio
+The combined ratio decreased for the three months ended March 31, 2025, primarily reflecting higher favorable prior period development, partially offset by higher catastrophe losses. The CAY combined ratio excluding catastrophe losses decreased for the three months ended March 31, 2025, reflecting underlying loss ratio improvement.
+57
+Table of Contents
+Global Reinsurance
+The Global Reinsurance segment represents our reinsurance operations comprising Chubb Tempest Re Bermuda, Chubb Tempest Re USA, Chubb Tempest Re International, and Chubb Tempest Re Canada. Global Reinsurance markets its reinsurance products worldwide primarily through reinsurance brokers under the Chubb Tempest Re brand name and provides a broad range of traditional and non-traditional reinsurance coverage to a diverse array of primary P&C companies.
+Catastrophe losses through March 31, 2025, were from California wildfire losses.
+Refer to Note 7 to the Consolidated Financial Statements for detail on prior period development.
+Premiums
+Net premiums written increased $49 million for the three months ended March 31, 2025, primarily reflecting continued growth in new business. Growth was most notably in property and casualty lines, partially offset by a decrease in specialty lines. Net premium written for the three months ended March 31, 2025, also benefited from catastrophe reinstatement premiums.
+Net premiums earned increased $73 million for the three months ended March 31, 2025, reflecting the increase in net premiums written described above including catastrophe reinstatement premiums, which were fully earned when written. The increase is also due to the impact of higher new business written in the prior year for which premiums are earned in the current year.
+58
+Table of Contents
+Combined Ratio
+The combined ratio increased for the three months ended March 31, 2025, primarily reflecting higher catastrophe losses.
+The CAY combined ratio excluding catastrophe losses improved for the three months ended March 31, 2025, primarily due to favorable market conditions in property and casualty lines.
+Life Insurance
+The Life Insurance segment comprises our international life operations, the life and asset management business of Huatai Group, Chubb Tempest Life Re (Chubb Life Re), and the North American supplemental A&H and life business of Combined Insurance.
+Premiums
+Net premiums written increased $87 million,
+or $161 million on a
+constant-dollar basis, for the three months ended March 31, 2025.
+For our international life operations, net premiums written increased 3.5 percent, or 9.1 percent on a constant-dollar basis, for the three months ended March 31, 2025. This growth was primarily due to strong new business in North Asia, notably in Hong Kong, Taiwan, and Korea through broker distribution channels. Additionally, Huatai Group's life insurance business contributed through growth in agency distribution channels.
+Net premiums written in our Combined Insurance business increased 17.3 percent for the three months ended March 31, 2025, due to 34.5 percent growth in worksite business.
+Deposits
+The following table presents deposits collected on universal life and investment contracts:
+Deposits collected on universal life and investment contracts (life deposits) are not reflected as revenues in our Consolidated statements of operations in accordance with U.S. GAAP. However, new life deposits are an important component of production, and although they do not significantly affect current period income from operations, they are key to our efforts to grow our
+59
+Table of Contents
+business. Life deposits collected increased $155 million for the three months ended March 31, 2025, primarily from investment linked products in Taiwan.
+Life Insurance segment income
+Life Insurance segment income increased $23 million, or $39 million on a constant-dollar basis, for the three months ended March 31, 2025, reflecting strong underwriting margins in A&H products, higher net investment income from growth in assets, and expense management, partially offset by higher new business strain and the absence of higher-than-expected other income totaling $8 million in the prior year period.
+Corporate
+Corporate results primarily include the results of our non-insurance companies, income and expenses not attributable to reportable segments, loss and loss expenses of asbestos and environmental (A&E) liabilities, certain other non-A&E run-off exposures including molestation, and Huatai Group's non-insurance operations results, comprising real estate and holding company activity.
+NM - not meaningful
+Integration expenses principally comprised legal and professional fees and all other costs primarily related to acquisitions. These expenses are one-time in nature and are not related to the on-going business activities of the segments. The Chief Executive Officer does not manage segment results or allocate resources to segments when considering these costs and they are therefore excluded from our definition of segment income.
+Refer to the respective sections that follow for a discussion of Net realized gains (losses), Net investment income (loss), Amortization of purchased intangibles, and Income tax expense (benefit). Refer to Notes 10 and 15 to the Consolidated Financial Statements for additional information on Market risk benefits gains (losses) and Other (income) expense, respectively.
+We take a long-term view with our investment strategy, and our investment managers manage our investment portfolio to maximize total return within specific guidelines designed to minimize risk. The majority of our investment portfolio is available-for-sale and reported at fair value.
+The effect of market movements on our fixed maturities available-for-sale portfolio impacts Net income (through Net realized gains (losses)) when securities are sold, when we write down an asset, or when we record a change to the valuation allowance for expected credit losses. For a further discussion related to how we assess the valuation allowance for expected credit losses and the related impact on Net income, refer to Note 1 f) to the Consolidated Financial Statements in our 2024 Form 10-K. The
+60
+Table of Contents
+effect of market movements on fixed maturities related to consolidated investment products and investments supporting certain participating products in the Huatai portfolio impact Net realized gains (losses). Additionally, Net income is impacted through the reporting of changes in the fair value of public and private equity securities and derivatives, including financial futures, options, and swaps. Changes in unrealized appreciation and depreciation on available-for-sale securities, resulting from the revaluation of securities held, changes in cumulative foreign currency translation adjustment, changes in current discount rate on future policy benefits, changes in instrument-specific credit risk on market risk benefits, unrealized postretirement benefit obligations liability adjustment, and cross-currency swaps designated as hedges for accounting purposes are reported as separate components of Accumulated other comprehensive income (loss) in Shareholders’ equity in the Consolidated balance sheets.
+The following table presents our net realized and unrealized gains (losses):
+Pre-tax net unrealized gains of $901 million in our investment portfolio for the three months ended March 31, 2025, were primarily driven by lower interest rates.
+Pre-tax net realized losses of $116 million for the three months ended March 31, 2025, includes net realized losses on fixed maturities, and foreign exchange, partially offset by mark-to-market gains on equity securities.
+Our effective tax rate (ETR) reflects a mix of income or losses in jurisdictions with a wide range of tax rates, permanent differences between U.S. GAAP and local tax laws, and the impact of discrete items. A change in the geographic mix of earnings could impact our ETR.
+For the three months ended March 31, 2025, our ETR was 19.3 percent compared to an ETR of 13.0 percent in the prior year. The ETR for each period was impacted by our mix of earnings among various jurisdictions and by discrete tax items.
+The ETR for the three months ended March 31, 2024,
+included an incremental deferred tax benefit of $55 million related to the Bermuda tax law enacted in December 2023.
+61
+Table of Contents
+In presenting our results, we included and discussed certain non-GAAP measures. These non-GAAP measures, which may be defined differently by other companies, are important for an understanding of our overall results of operations and financial condition. However, they should not be viewed as a substitute for measures determined in accordance with GAAP.
+We provide financial measures, including net premiums written, net premiums earned, segment income, and underwriting income on a constant-dollar basis. We believe it is useful to evaluate the trends in our results exclusive of the effect of fluctuations in exchange rates between the U.S. dollar and the currencies in which our international business is transacted, as these exchange rates could fluctuate significantly between periods and distort the analysis of trends. The impact is determined by assuming constant foreign exchange rates between periods by translating prior period results using the same local currency exchange rates as the comparable current period.
+P&C performance metrics comprise consolidated operating results (including Corporate) and exclude the operating results of the Life Insurance segment. We believe that these measures are useful and meaningful to investors as they are used by management to assess the company’s P&C operations which are the most economically similar. We exclude the Life Insurance segment because the results of this business do not always correlate with the results of our P&C operations.
+P&C combined ratio is the sum of the loss and loss expense ratio, policy acquisition cost ratio and the administrative expense ratio excluding the life business and including the realized gains and losses on the crop derivatives. These derivatives were purchased to provide economic benefit, in a manner similar to reinsurance protection, in the event that a significant decline in commodity pricing impacts underwriting results. We view gains and losses on these derivatives as part of the results of our underwriting operations.
+CAY P&C combined ratio excluding catastrophe losses (CATs) excludes CATs and prior period development (PPD) from the P&C combined ratio. We exclude CATs as they are not predictable as to timing and amount and PPD as these unexpected loss developments on historical reserves are not indicative of our current underwriting performance. The combined ratio numerator is adjusted to exclude CATs, PPD, and expense adjustments on PPD, and the denominator is adjusted to exclude net premiums earned adjustments on PPD and reinstatement premiums on CATs and PPD. In periods where there are adjustments on loss sensitive policies, these adjustments are excluded from PPD and net premiums earned when calculating the ratios. We believe this measure provides a better evaluation of our underwriting performance and enhances the understanding of the trends in our P&C business that may be obscured by these items. This measure is commonly reported among our peer companies and allows for a better comparison.
+Reinstatement premiums are additional premiums paid on certain reinsurance agreements in order to reinstate coverage that had been exhausted by loss occurrences. The reinstatement premium amount is typically a pro rata portion of the original ceded premium paid based on how much of the reinsurance limit had been exhausted.
+Net premiums earned adjustments within PPD are adjustments to the initial premium earned on retrospectively rated policies based on actual claim experience that develops after the policy period ends. The premium adjustments correlate to the prior period loss development on these same policies and are fully earned in the period the adjustments are recorded.
+Prior period expense adjustments typically relate to adjustable commission reserves or policyholder dividend reserves based on actual claim experience that develops after the policy period ends. The expense adjustments correlate to the prior period loss development on these same policies.
+62
+Table of Contents
+The following tables present the calculation of combined ratio, as reported for each segment to P&C combined ratio, adjusted for CATs and PPD:
+63
+Table of Contents
+64
+Table of Contents
+Net investment income is influenced by a number of factors including the amounts and timing of inward and outward cash flows, the level of interest rates, and changes in overall asset allocation. Net investment income increased 12.2 percent for the three months ended March 31, 2025, primarily due to higher average invested assets and higher reinvestment rates on fixed maturities. Dividend income increased primarily due to the placement of existing investment grade fixed income securities into a fund structure in December 2024, which pays a quarterly dividend instead of interest.
+For private equities where we own less than three percent, investment income is included within Net investment income in the table above. For private equities where we own more than three percent, investment income is included within Other (income) expense in the Consolidated statements of operations. Excluded from Net investment income is the mark-to-market movement for private equities, which is recorded within either Other (income) expense or Net realized gains (losses) based on our percentage of ownership. The total mark-to-market movement for private equities excluded from Net investment income was as follows:
+Our investment portfolio is invested primarily in publicly traded, investment grade, fixed income securities with an average credit quality of A/A as rated by the independent investment rating services Standard and Poor’s (S&P)/Moody’s Investors Service (Moody’s) at March 31, 2025. The portfolio is primarily managed externally by independent, professional investment managers and is broadly diversified across geographies, sectors, and issuers. We hold no collateralized debt obligations in our investment portfolio, and we provide no credit default protection. We have long-standing global credit limits for our entire portfolio across the organization. Exposures are aggregated, monitored, and actively managed by our Global Credit Committee, comprising senior executives, including our Chief Financial Officer, our Chief Risk Officer, our Chief Investment Officer, and our Treasurer. We also have well-established, strict contractual investment rules requiring managers to maintain highly diversified exposures to individual issuers and clos
+ely monitor investment manager compliance with portfolio guidelines.
+65
+Table of Contents
+The following table shows the fair value and cost/amortized cost, net of valuation allowance, of our invested assets:
+The fair value of our total investments increased $1.6 billion during the three months ended March 31, 2025, mainly due to the investing of operating cash flow and gains in fixed maturities available-for-sale. The valuation of our fixed income portfolio is impacted by changes in interest rates.
+The following tables present the fair value of our fixed income securities at March 31, 2025, and December 31, 2024. The first table lists investments according to type and second according to S&P credit rating:
+(1)
+Includes fixed maturities recorded in Other investments in the Consolidated balance sheets of $6.8 billion and $6.3 billion at March 31, 2025, and December 31, 2024, respectively.
+66
+Table of Contents
+Corporate and asset-backed securities
+The following table presents our 10 largest global exposures to corporate bonds by fair value at March 31, 2025:
+Mortgage-backed securities
+The following table shows the fair value and amortized cost, net of valuation allowance, of our mortgage-backed securities:
+Non-U.S.
+Chubb’s local currency investment portfolios have strict contractual investment guidelines requiring managers to maintain a high quality and diversified portfolio to both sector and individual issuers. Investment portfolios are monitored daily to ensure investment manager compliance with portfolio guidelines.
+Our non-U.S. investment grade fixed income portfolios are currency-matched with the insurance liabilities of our non-U.S. operations. The average credit quality of our non-U.S. fixed income securities is A/A and 40 percent of our holdings are rated AAA or guaranteed by governments or quasi-government agencies. Within the context of these investment portfolios, our government and corporate bond holdings are highly diversified across industries and geographies. Issuer limits are based on credit rating (AA—two percent, A—one percent, BBB—0.5 percent of the total portfolio) and are monitored daily via an internal compliance system. We manage our indirect exposure using the same credit rating-based investment approach. Accordingly, we do not believe our indirect exposure is material.
+67
+Table of Contents
+The following table summarizes the fair value and amortized cost, net of valuation allowance, of our non-U.S. fixed income portfolio by country/sovereign for non-U.S. government securities at March 31, 2025:
+The following table summarizes the fair value and amortized cost, net of valuation allowance, of our non-U.S. fixed income portfolio by country/sovereign for non-U.S. corporate securities at March 31, 2025:
+(1)
+The countries that are listed in the non-U.S. corporate fixed income portfolio above represent the ultimate parent company's country of risk. Non-U.S. corporate securities could be issued by foreign subsidiaries of U.S. corporations.
+Below-investment grade corporate fixed income portfolio
+Below-investment grade securities have different characteristics than investment grade corporate debt securities. Risk of loss from default by the borrower is greater with below-investment grade securities. Below-investment grade securities are generally unsecured and are often subordinated to other creditors of the issuer. Also, issuers of below-investment grade securities usually have higher levels of debt and are more sensitive to adverse economic conditions, such as recession or increasing interest rates, than investment grade issuers. At March 31, 2025, our corporate fixed income investment portfolio included below-investment grade and non-rated securities which, in total, comprised approximately 14 percent of our fixed income portfolio. Our below-investment grade and non-rated portfolio includes over 1,600 issuers, with the greatest single exposure being $174 million.
+We manage high-yield bonds as a distinct and separate asset class from investment grade bonds. The allocation to high-yield bonds is explicitly set by internal management and is targeted to securities in the upper tier of credit quality (BB/B). Our minimum rating for initial purchase is BB/B. Fifteen external investment managers are responsible for high-yield security selection and portfolio construction. Our high-yield managers have a conservative approach to credit selection and very low historical default experience. Holdings are highly diversified across industries and generally subject to a 1.5 percent issuer limit
+68
+Table of Contents
+as a percentage of high-yield allocation. We monitor position limits daily through an internal compliance system. Derivative and structured securities (e.g., credit default swaps and collateralized debt obligations) are not permitted in the high-yield portfolio.
+Refer to Item 7 in our 2024 Form 10-K for a description of our critical accounting estimates. Except as shown in the table below, there have been no material changes to our critical accounting estimates since December 31, 2024.
+Unpaid losses and loss expenses
+As an insurance and reinsurance company, we are required by applicable laws and regulations and U.S. GAAP to establish loss and loss expense reserves for the estimated unpaid portion of the ultimate liability for losses and loss expenses under the terms of our policies and agreements with our insured and reinsured customers. With the exception of certain structured settlements, for which the timing and amount of future claim payments are reliably determinable, and certain reserves for unsettled claims, our loss reserves are not discounted for the time value of money.
+The following table presents a roll-forward of our unpaid losses and loss expenses:
+(1)
+Net of valuation allowance for uncollectible reinsurance.
+The estimate of the liabilities includes provisions for claims that have been reported but are unpaid at the balance sheet date (case reserves) and for obligations on claims that have been incurred but not reported (IBNR) at the balance sheet date. IBNR may also include provisions to account for the possibility that reported claims may settle for amounts that differ from the established case reserves. Loss reserves also include an estimate of expenses associated with processing and settling unpaid claims (loss expenses).
+Refer to Note 7 to the Consolidated Financial Statements for a discussion on the changes in the loss reserves.
+69
+Table of Contents
+We actively monitor and manage our catastrophe risk accumulation around the world from natural perils, which includes setting risk limits based on probable maximum loss (PML) and purchasing catastrophe reinsurance to ensure sufficient liquidity and capital to meet the expectations of regulators, rating agencies, and policyholders, and to provide shareholders with an appropriate risk-adjusted return. Chubb uses internal and external data together with sophisticated, analytical catastrophe loss and risk modeling techniques to ensure an appropriate understanding of risk, including diversification and correlation effects, across different product lines and territories. The table below presents our modeled pre-tax estimates of natural catastrophe PML, net of reinsurance, at March 31, 2025, and does not represent our expected catastrophe losses for any one year.
+(1)
+Worldwide aggregate includes modeled losses arising from tropical cyclones, convective storms, earthquakes, wildfires, and inland floods, and excludes "non-modeled" perils such as man-made and other catastrophe risks including pandemic.
+(2)
+U.S. hurricane modeled losses include losses from wind, storm-surge, and related precipitation-induced flooding.
+(3)
+California earthquake modeled losses include the fire-following sub-peril.
+The PML for worldwide and key U.S. peril regions are based on our in-force portfolio at January 1, 2025, and reflect the April 1, 2025, reinsurance program, as well as inuring reinsurance protection coverage. Refer to the Global Property Catastrophe Reinsurance section for more information. These estimates assume that reinsurance recoverable is fully collectible.
+According to the model, for the 1-in-100 return period scenario, there is a one percent chance that our pre-tax annual aggregate losses incurred in any year from U.S. hurricane events could be in excess of $3,864 million (or 5.9 percent of total Chubb shareholders’ equity at March 31, 2025).
+The above estimates of Chubb’s loss profile are inherently uncertain for many reasons, including the following:
+•
+While the use of third-party modeling packages to simulate potential catastrophe losses is prevalent within the insurance industry, the models are reliant upon significant meteorology, seismology, and engineering assumptions to estimate catastrophe losses. In particular, modeled catastrophe events are not always a representation of actual events and ensuing additional loss potential;
+•
+There is no universal standard in the preparation of insured data for use in the models, the running of the modeling software, and interpretation of loss output. These loss estimates do not represent our potential maximum exposures and it is highly likely that our actual incurred losses would vary materially from the modeled estimates;
+•
+The potential effects of climate change add to modeling complexity; and
+•
+Changing climate conditions could impact our exposure to natural catastrophe risks. Published studies by leading government, academic, and professional organizations combined with extensive research by Chubb climate scientists reveal the potential for increases in the frequency and severity of key natural perils such as tropical cyclones, inland flood, and wildfire. To understand the potential impacts on the Chubb portfolio, we have conducted stress tests on our peak exposure zone, namely in the U.S., using parameters outlined by the Intergovernmental Panel on Climate Change (IPCC) Climate Change 2021 report. These parameters consider the impacts of climate change and the resulting climate peril impacts over a timescale relevant to our business. The tests are conducted by adjusting our baseline view of risk for the perils of hurricane, inland flood, and wildfire in the U.S. to reflect increases in frequency and severity across the modeled domains for each of these perils. Based on these tests against the Chubb portfolio we do not expect material impacts to our baseline PMLs from climate change through December 31, 2025. These tests reflect current exposures only and exclude potentially mitigating factors such as changes to building codes, public or private risk mitigation, regulation, and public policy.
+Refer to Item 7 in our 2024 Form 10-K for more information on man-made and other catastrophes.
+70
+Table of Contents
+Chubb’s core property catastrophe reinsurance program provides protection against natural catastrophes impacting its primary property operations (i.e., excluding our Global Reinsurance and Life Insurance segments).
+We regularly review our reinsurance protection and corresponding property catastrophe exposures. This may or may not lead to the purchase of additional reinsurance prior to a program’s renewal date. In addition, prior to each renewal date, we consider how much, if any, coverage we intend to buy and we may make material changes to the current structure in light of various factors, including modeled PML assessment at various return periods, reinsurance pricing, our risk tolerance and exposures, and various other structuring considerations.
+Chubb renewed its Global Property Catastrophe Reinsurance Program for our North American and International operations effective April 1, 2025, through March 31, 2026. The program consists of three layers in excess of losses retained by Chubb on a per occurrence basis. Chubb renewed its terrorism coverage (excluding nuclear, biological, chemical and radiation coverage, with an inclusion of coverage for biological and chemical coverage for personal lines) for the United States from April 1, 2025, through March 31, 2026, with the same limits, retention, and percentage placed except that the terrorism coverage is on an aggregate basis above our retentions without a reinstatement.
+(a)
+Ultimate retention will depend upon the nature of the loss and the interplay between the underlying per risk programs and certain other catastrophe programs purchased by individual business units. These other catastrophe programs have the potential to reduce our effective retention below the stated levels.
+(b)
+These coverages are both part of the same First layer within the Global Property Catastrophe Reinsurance Program and are fully placed with Reinsurers.
+(c)
+These coverages are both part of the same Second layer within the Global Property C
+atastrophe Reinsurance Program and are fully placed with Reinsurers.
+71
+Table of Contents
+Capital resources consist of funds deployed or available to be deployed to support our business operations.
+(1)
+Capital Supplementary Bonds issued by Huatai Life.
+(2)
+For purposes of calculating leverage ratios, Huatai debt is based on Chubb's share (excluding noncontrolling interest).
+Repurchase agreements are excluded from the table above and are disclosed separately from short-term debt in the Consolidated balance sheets. The repurchase agreements are collateralized borrowings where we maintain the right and ability to redeem the collateral on short notice, unlike short-term debt which comprises the current maturities of our long-term debt instruments.
+Chubb INA Holdings LLC (Chubb INA)'s $800 million of 3.15 percent senior notes due March 2025 were paid upon maturity.
+For the three months ended March 31, 2025, we repurchased $385 million of Common Shares in a series of open market transactions under the Board of Directors (Board) share repurchase authorization. At March 31, 2025, there were 11,358,936 Common Shares in treasury with a weighted-average cost of $158.37 per share, and $1.3 billion in share repurchase authorization remained. For the period April 1, 2025, through April 25, 2025, we repurchased 511,000 Common Shares for a total of $143 million in a series of open market transactions under the share repurchase authorization. At April 25, 2025, $1.2 billion in share repurchase authorization remained.
+We generally maintain the ability to issue certain classes of debt and equity securities via a Securities and Exchange Commission (SEC) shelf registration statement which is renewed every three years. This allows us capital market access for refinancing as well as for unforeseen or opportunistic capital needs.
+Dividends
+We have paid dividends each quarter since we became a public company in 1993. Under Swiss law, dividends must be stated in Swiss francs though dividend payments are made by Chubb in U.S. dollars. Refer to Note 12 to the Consolidated Financial Statements for a discussion of our dividend methodology.
+At our May 2024 annual general meeting, our shareholders approved an annual dividend for the following year of up to $3.64 per share, or CHF 3.29 per share, calculated using the USD/CHF exchange rate as published in the Wall Street Journal on May 16, 2024, expected to be paid in four quarterly installments of $0.91 per share after the general meeting by way of a distribution from capital contribution reserves, transferred to free reserves for payment. The Board determines the record and payment dates at which the annual dividend may be paid until the date of the 2025 annual general meeting and is authorized to abstain from distributing a dividend at its discretion. The four quarterly installments each of $0.91 per share were distributed by the Board as expected. The annual dividend approved in May 2024 represented a $0.20 per share increase ($0.05 per quarter) over the prior year dividend.
+72
+Table of Contents
+The following table represents dividends paid per Common Share to shareholders of record on each of the following dates:
+We anticipate that positive cash flows from operations (underwriting activities and investment income) should be sufficient to cover cash outflows under most loss scenarios for the near term. In addition to cash from operations, routine sales of investments, and financing arrangements, we have agreements with a third-party bank provider which implemented two international multi-currency notional cash pooling programs to enhance cash management efficiency during periods of short-term timing mismatches between expected inflows and outflows of cash by currency. The programs allow us to optimize investment income by avoiding portfolio disruption. Should the need arise, we generally have access to capital markets and to credit facilities. Our group syndicated credit facility has capacity of $3.0 billion and expires in October 2027. Our total letter of credit capacity is $4.1 billion, $3.0 billion of which can be used for revolving credit. At March 31, 2025, our usage under these facilities was $937 million in letters of credit. Our access to credit under these facilities is dependent on the ability of the bank counterparties to meet their funding commitments. The facilities require that we maintain certain financial covenants, all of which we met at March 31, 2025. Should the existing credit providers on these facilities experience financial difficulty, we may be required to replace credit sources, possibly in a difficult market. If we cannot obtain adequate capital or sources of credit on favorable terms, on a timely basis, or at all, our business, operating results, and financial condition could be adversely affected. To date, we have not experienced difficulty accessing our credit facility or establishing additional facilities when needed.
+The payment of dividends or other statutorily permissible distributions from our operating companies are subject to the laws and regulations applicable to each jurisdiction, as well as the need to maintain capital levels adequate to support the insurance and reinsurance operations, including financial strength ratings issued by independent rating agencies. During the three months ended March 31, 2025, we were able to meet all our obligations, including the payments of dividends on our Common Shares, with our net cash flows.
+We assess which subsidiaries to draw dividends from based on a number of factors. Considerations such as regulatory and legal restrictions as well as the subsidiary’s financial condition are paramount to the dividend decision. Chubb Limited received dividends of $310 million and nil from its Bermuda subsidiaries during the three months ended March 31, 2025, and 2024, respectively. Chubb Limited received dividends of $207 million and $91 million from its other international subsidiaries during the three months ended March 31, 2025, and 2024, respectively. During April 2025, Chubb Limited received $625 million from Chubb INA for the redemption of a portion of its ownership interest in Chubb INA, in accordance with the plan of liquidation and conversion of Chubb INA to a limited liability company. Chubb INA is expected to fully redeem, by the end of 2027, Chubb Limited's 20 percent ownership interest in Chubb INA.
+The U.S. insurance subsidiaries of Chubb INA may pay dividends, without prior regulatory approval, subject to restrictions set out in state law of the subsidiary’s domicile (or, if applicable, commercial domicile). Chubb INA’s international subsidiaries are also subject to insurance laws and regulations particular to the countries in which the subsidiaries operate. These laws and regulations sometimes include restrictions that limit the amount of dividends payable without prior approval of regulatory insurance authorities. Chubb Limited received no dividends from Chubb INA during the three months ended March 31, 2025, and 2024. Debt issued by Chubb INA is serviced by statutorily permissible distributions by Chubb INA’s insurance subsidiaries to Chubb INA as well as other group resources. Chubb INA received dividends of $366 million and nil from its subsidiaries during the three months ended March 31, 2025, and 2024, respectively.
+Cash Flows
+Our sources of liquidity include cash from operations, routine sales of investments, and financing arrangements. The following is a discussion of our cash flows for the three months ended March 31, 2025 and 2024.
+Operating cash flows were $1.6 billion in the three months ended March 31, 2025, compared to $3.2 billion in the prior year period, primarily due to higher net losses paid and income taxes paid, partially offset by higher net investment income.
+73
+Table of Contents
+Cash used for investing was $798 million in the three months ended March 31, 2025, compared to $3.7 billion in the prior year period, a decrease of $2.9 billion, which primarily included lower net purchases of fixed maturities and equity securities of $1.9 billion. Additionally, the current year period included net sales of short-term investments of $773 million compared to net purchase of short-term investments of $708 million in the prior year period. These items were partially offset by higher private equity contributions.
+Cash used for financing was $1.1 billion in the three months ended March 31, 2025, compared to cash provided by financing of $562 million in the prior year period, an additional use of cash of $1.7 billion. This was primarily due to repayments of long-term debt of $800 million compared with the issuance of long-term debt of $996 million in the prior year, additional common shares repurchased of $287 million, and lower net repayments of repurchase agreements of $285 million.
+We use repurchase agreements as a low-cost alternative source of liquidity within our operating subsidiaries. At March 31, 2025, there were $3.1 billion in repurchase agreements outstanding with various maturities over the next two months.
+Both internal and external forces influence our financial condition, results of operations, and cash flows. Claim settlements, premium levels, and investment returns may be impacted by changing rates of inflation and other economic conditions. In many cases, significant periods of time, ranging up to several years or more, may lapse between the occurrence of an insured loss, the reporting of the loss to us, and the settlement of the liability for that loss.
+Chubb INA Holdings LLC (Subsidiary Issuer) is an indirect 100 percent-owned and consolidated subsidiary of Chubb Limited (Parent Guarantor). The Parent Guarantor fully and unconditionally guarantees certain of the debt of the Subsidiary Issuer.
+The following table presents the condensed balance sheets of Chubb Limited and Chubb INA Holdings LLC, after e
+limination of investment in any non-guarantor subsidiary:
+74
+Table of Contents
+The following table presents the condensed statements of operations and comprehensive loss of Chubb Limited and Chubb INA Holdings LLC, excluding equity in earnings from non-guarantor subsidiaries:
+75
+Table of Contents
+Foreign currency management
+As a global company, Chubb entities transact business in multiple currencies. Our policy is to generally match assets, liabilities and required capital for each individual jurisdiction in local currency, which would include the use of derivatives. We occasionally engage in hedging activity for planned cross border transactions. For an estimated impact of foreign currency movement on our net assets denominated in non-U.S. currencies, refer to Item 7A in our 2024 Form 10-K. This information will be updated and disclosed in interim filings if our net assets in non-U.S. currencies change materially from the December 31, 2024, balances disclosed in the 2024 Form 10-K.
+Reinsurance of market risk benefits
+Chubb views its MRB reinsurance business as having a similar risk profile to that of catastrophe reinsurance, with the probability of long-term economic loss relatively small at the time of pricing. Adverse changes in market factors and policyholder behavior will have an impact on both MRB gains (losses) and net income. When evaluating these risks, we expect to be compensated for taking both the risk of a cumulative long-term economic net loss, as well as the short-term accounting variations caused by these market movements. Therefore, we evaluate this business in terms of its long-term economic risk and reward.
+The tables below are estimates of the sensitivities to instantaneous changes in economic inputs (e.g., equity shock, interest rate shock etc.) at March 31, 2025, for both the fair value of the MRB liability (FVL) and the fair value of specific derivative instruments held (hedge value) to partially offset the risk in the MRB reinsurance portfolio. The following assumptions should be considered when using the below tables:
+•
+Equity shocks impact all global equity markets equally
+•
+Our liabilities are sensitive to global equity markets in the following proportions: 80 percent—90 percent U.S. equity, and 10 percent—20 percent international equity.
+•
+Our current hedge portfolio is sensitive only to U.S. equity markets.
+•
+We would suggest using the S&P 500 index as a proxy for U.S. equity, and the MSCI EAFE index as a proxy for international equity.
+•
+Interest rate shocks assume a parallel shift in the U.S. yield curve
+•
+Our liabilities are also sensitive to global interest rates at various points on the yield curve, mainly the U.S. Treasury curve in the following proportions: up to 15 percent short-term rates (maturing in less than 5 years), 15 percent—30 percent medium-term rates (maturing between 5 years and 10 years, inclusive), and 65 percent—80 percent long-term rates (maturing beyond 10 years).
+•
+A change in AA-rated credit spreads impacts the rate used to discount cash flows in the fair value model. AA-rated credit spreads are a proxy for both our own credit spreads and the credit spreads of the ceding insurers.
+•
+The hedge sensitivity is from March 31, 2025, market levels and only applicable to the equity and interest rate sensitivities table below.
+•
+The sensitivities do not scale linearly and may be proportionally greater for larger movements in the market factors. Actual sensitivity of our net income may differ from those disclosed in the tables below due to fluctuations in short-term market movements.
+76
+Table of Contents
+Market Risk Benefits Net Amount at Risk
+All our MRB reinsurance treaties include annual or aggregate claim limits and many include an aggregate deductible which limit the net amount at risk under these programs. The tables below present the net amount at risk at March 31, 2025, following an immediate change in equity market levels, assuming all global equity markets are impacted equally.
+a) Reinsurance covering the GMDB risk only
+The treaty limits function as a ceiling as equity markets fall. As the shocks in the table above become incrementally more negative, the impacts begin to drop due to the specific nature of these claim limits, many of which are annual claim limits calculated as a percentage of the reinsured account value. There is also an impact due to a portion of the book under which claims are positively correlated to equity markets (claims decrease as equity markets fall).
+b) Reinsurance covering the GLB risk only
+Beyond a certain point, the treaty limits cause the net amount at risk to increase at a declining rate as equity markets fall.
+c) Reinsurance covering both the GMDB and GLB risks on the same underlying policyholders
+Beyond a certain point, the treaty limits cause the net amount at risk to increase at a declining rate as equity markets fall.
+77
+Table of Contents
+Chubb’s management, with the participation of Chubb’s Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of Chubb’s disclosure controls and procedures as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Securities Exchange Act of 1934 as of March 31, 2025. Based upon that evaluation, Chubb’s Chief Executive Officer and Chief Financial Officer concluded that Chubb’s disclosure controls and procedures are effective in allowing information required to be disclosed in reports filed under the Securities Exchange Act of 1934 to be recorded, processed, summarized, and reported within time periods specified in the rules and forms of the SEC, and that such information is accumulated and communicated to Chubb’s management, including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+There have been no changes in Chubb's internal controls over financial reporting during the three months ended March 31, 2025, that have materially affected, or are reasonably likely to materially affect, Chubb's internal controls over financial reporting.
+78
+Table of Contents
+PART II OTHER INFORMATION
+The information required with respect to this item is included in Note 11 h) to the Consolidated Financial Statements, which is hereby incorporated herein by reference.
+There have been no material changes to the risk factors described under "Risk Factors" under Item 1A of Part I of our 2024 Form 10-K.
+Issuer’s Repurchases of Equity Securities
+The following table provides information with respect to purchases by Chubb of its Common Shares during the three months ended March 31, 2025:
+(1)
+This column represents open market share repurchases and the surrender to Chubb of Common Shares to satisfy tax withholding obligations in connection with the vesting of restricted stock issued to employees and to cover the cost of the exercise of options by employees through stock swaps.
+(2)
+The aggregate value of shares purchased in the three months ended March 31, 2025, as part of the publicly announced plan was $385 million. Refer to Note 12 to the Consolidated Financial Statements for more information on the Chubb Limited securities repurchase authorization.
+(3)
+For the period April 1, 2025, through April 25, 2025, we repurchased 511,000 Common Shares for a total of $143 million in a series of open market transactions. As of April 25, 2025, $1.16 billion in share repurchase authorization remained.
+On
+March 19, 2025
+,
+John J. Lupica
+,
+Vice Chairman; Executive Chairman, North America Insurance
+,
+adopted
+a "Rule 10b5-1 trading arrangement" as defined in Item 408 of SEC Regulation S-K. The arrangement is scheduled to expire on
+September 30, 2025
+, subject to earlier termination in accordance with its terms. The aggregate number of Chubb common shares authorized to be sold pursuant to the trading arrangement is
+57,674
+.
+During the three months ended March 31, 2025, no other director or officer of Chubb (as defined in Rule 16a-1(f) under the Exchange Act) informed us of the
+adoption
+or
+termination
+of a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as those terms are defined in Item 408 of SEC Regulation S-K.
+On February 27, 2025, the Board of Directors (Board) amended Section 2.2.1(d) of the Organizational Regulations of Chubb Limited. The amendment reflects that the Board’s Compensation Committee is responsible for recommending to the Board the aggregate amount of director compensation to be submitted for shareholder vote at Chubb’s annual general meeting of shareholders. This role had previously been the responsibility of the Board’s Nominating & Governance Committee. A copy of the amended and restated Organizational Regulations is attached hereto as Exhibit 3.2 and incorporated herein by reference.
+79
+Table of Contents
+80
+Table of Contents
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+81

@@ -1,0 +1,17 @@
+EOS, offer consistent, unified management across the campus edge for wired and wireless networks as well as integrated security & proactive network assurance. Our campus products include the Arista 7300 Series spine/Spline™, 720/750 Series POE switches, and a broad range of indoor and outdoor Cognitive Wi-Fi Access Points.
+Cloud-Grade Routing
+- Arista’s Cloud-Grade Routing platforms, powered by EOS, combine high performance routing, high port density, deep buffers, integrated DWDM and wire speed encryption. Our 7280R3 Universal Leaf and 7500R3 and 7800R3 Universal Spine platforms serve a variety of use cases including high speed multi-cloud connect, Data Center Interconnect (DCI), controller-based traffic engineering, peering, business VPNs, core routing and Secure Enterprise edge routing.
+WAN Routing
+- The Arista AWE-7200R Series of WAN Routing System, purpose built by Arista and powered by Arista EOS, offers high performance and scale to meet enterprise modern WAN edge and aggregation requirements. We believe the Arista AWE-7200R Series sets the standard for aggregation and critical site interconnect by supporting 1/10/100GbE interfaces and flexible network modules. It delivers from 1Gb to over 50Gb of bidirectional AES256 encrypted traffic with high VRF and tunnel scale.
+Networking Software and Services
+Our software and services are based on subscription-based models and include the following offerings:
+CloudVision
+- CloudVision is Arista’s modern, multi-domain management platform that leverages cloud networking principles to deliver a simplified end-to-end network operations experience for our Enterprise market. Unlike traditional domain-specific management solutions, CloudVision enables consistent zero touch network operations across data center, campus wired and wireless, routing interconnect and multi-cloud networks helping to break down the complexity of siloed management approaches.
+CloudVision is built on Arista’s NetDL architecture and leverages real-time network state to provide an abstraction of the physical network to a broader, network-wide perspective allowing for a more efficient approach for several operational and network telemetry capabilities.
+7
+Table of Contents
+Arista A-Care Services
+- We have designed our customer support offerings, Arista A-Care Services, to provide our customers with high levels of support. Our global team of support engineers engages directly with client IT teams and is always available over e-mail, by phone or through our website.
+We offer multiple service options that allow our customers to select the product replacement service level that best meets their needs. We stock spare parts in over 200 locations around the world through our third-party logistics suppliers. All our service options include unlimited access to bug-fixes, new-feature-releases, online case management and our community forums.
+DANZ Monitoring Fabric (DMF)
+- DANZ Monitoring Fabric ("DMF") is a next-generation network packet broker

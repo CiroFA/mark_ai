@@ -1,0 +1,20 @@
+measurement date;
+Level II
+—Inputs are observable, unadjusted quoted prices in active markets for similar assets or liabilities, unadjusted quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the related assets or liabilities; and
+Level III
+—Unobservable inputs that are supported by little or no market data for the related assets or liabilities and typically reflect management’s estimate of assumptions that market participants would use in pricing the asset or liability.
+Foreign Currency
+The functional currency of our foreign subsidiaries is either the U.S. dollar or their local currency depending on the nature of the subsidiaries’ activities.
+Transaction re-measurement -
+Assets and liabilities denominated in a currency other than a subsidiary’s functional currency are re-measured into the subsidiary's functional currency using exchange rates in effect at the end of the reporting period, with gains and losses recorded in other income, net in the consolidated statements of income. To date, foreign currency transaction gains and losses and exchange rate fluctuations have not been material to our consolidated financial statements.
+Translation -
+Assets and liabilities of subsidiaries denominated in foreign functional currencies are translated into U.S. dollars at the closing exchange rate on the balance sheet date and equity-related balances are translated at historical exchange rates. Revenues, costs and expenses in foreign functional currencies are translated using average exchange rates that approximate those in effect during the period. Translation adjustments are recorded within accumulated other comprehensive income, a separate component of total stockholders’ equity.
+Inventory Valuation and Contract Manufacturer/Supplier Liabilities
+Inventories primarily consist of finished goods, including evaluation inventory held at customers or partners, and strategic components, primarily integrated circuits. Inventories are stated at the lower of cost (computed using the first-in, first-out method) and net realizable value. Evaluation inventory consists of new products and/or use cases at customer or partner sites for trial purposes. Title to the inventory remains with Arista during the trial period and invoicing occurs only upon completion of the trial period and when/if the products have been accepted by the customer.  Manufacturing overhead costs and inbound shipping costs are included in the cost of inventory. We record a provision when inventory is determined to be in excess of anticipated demand, or obsolete, to adjust inventory to its estimated realizable value. For the years ended December 31, 2024, 2023 and 2022, we recorded charges of $
+267.2
+million, $
+234.4
+million and $
+71.4
+million, respectively, within cost of product revenue for inventory write-downs.
+Our contract manufacturers

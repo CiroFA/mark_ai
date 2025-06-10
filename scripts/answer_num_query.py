@@ -1,98 +1,146 @@
+"""
+answer_num_query.py
+
+Risponde a domande numeriche restituendo un dizionario strutturato
+compatibile con la nuova pipeline di Mark.
+
+Schema di output
+----------------
+{
+    "result": <float|int>,
+    "company": <str>,
+    "table": <str>,
+    "column": <str>,
+    "period": <str>,
+    "function_used": "answer_value_query" | "answer_avg_query"
+}
+"""
+
+from __future__ import annotations
+
 import os
-import sys
-sys.path.append(os.path.dirname(os.path.dirname(__file__)))
-from openai import OpenAI
+import logging
+from typing import Dict, Any
+
 from dotenv import load_dotenv
+import os
+from openai import OpenAI
+
+# DB helpers
 from scripts.db.parse_num_query import parse_numerical_question
 from scripts.db.value_query import answer_value_query
 from scripts.db.parse_avg_query import parse_avg_question
 from scripts.db.avg_query import answer_avg_query
 
-# Carica l'API Key
+# --------------------------------------------------------------------------- #
+#  OpenAI setup
+# --------------------------------------------------------------------------- #
+
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def ask_mark(user_question: str) -> str:
-    # Step 1: Classificazione intelligente del tipo di domanda
-    classification_prompt = f"""
-Hai ricevuto questa domanda da un utente: \"{user_question}\"
+MODEL_NAME = "gpt-4o-mini"
+TEMPERATURE = 0.0
 
-Hai a disposizione due funzioni che puoi utilizzare per rispondere:
+_CHOOSE_FUNC_SYSTEM = (
+    "Sei un assistente che deve decidere quale funzione chiamare per rispondere "
+    "a una domanda finanziaria.\n\n"
+    "• Usa 'answer_value_query' se l'utente chiede un singolo valore puntuale, "
+    "come 'net debt di Apple nel 2023'.\n"
+    "• Usa 'answer_avg_query' se l'utente chiede una media su un intervallo, "
+    "come 'ricavi medi di Apple negli ultimi 5 anni'.\n\n"
+    "Rispondi SOLO con una delle due stringhe: 'answer_value_query' oppure "
+    "'answer_avg_query'. Nessuna spiegazione."
+)
 
-1. answer_value_query → serve per rispondere a domande in cui l’utente vuole ottenere un valore preciso, l’ultima osservazione disponibile o un singolo dato (es. Net Debt di Apple, beta di Tesla, utili di Microsoft).
 
-2. answer_avg_query → serve per domande in cui l’utente vuole calcolare una media su un certo intervallo temporale (es. prezzo medio nel 2023, ricavi medi degli ultimi 5 anni, media del cash flow di Meta).
+# --------------------------------------------------------------------------- #
+#  Internal helpers
+# --------------------------------------------------------------------------- #
 
-Rispondi solo con il nome della funzione più appropriata tra:
-- answer_value_query
-- answer_avg_query
-"""
+def _choose_function(question: str) -> str:
+    """
+    Decide se usare answer_value_query o answer_avg_query.
 
-    try:
-        classification_response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "Sei un assistente esperto che deve scegliere la funzione corretta da chiamare per una domanda."},
-                {"role": "user", "content": classification_prompt}
-            ],
-            temperature=0
-        )
-        chosen_function = classification_response.choices[0].message.content.strip()
-    except Exception as e:
-        return f"❌ Errore nella classificazione della domanda: {e}"
+    Parameters
+    ----------
+    question : str
+        Domanda grezza dell'utente.
 
-    # Step 2: Parsing + chiamata funzione corretta
-    if chosen_function == "answer_avg_query":
-        parsed = parse_avg_question(user_question)
-        function_called = "answer_avg_query"
-        if not parsed or not all(k in parsed for k in ["company", "table", "column", "period"]):
-            return "❌ Non sono riuscito a interpretare la domanda sulla media in modo strutturato."
-        result = answer_avg_query(parsed)
-
-    elif chosen_function == "answer_value_query":
-        parsed = parse_numerical_question(user_question)
-        function_called = "answer_value_query"
-        if not parsed or not all(k in parsed for k in ["company", "table", "column", "period"]):
-            return "❌ Non sono riuscito a interpretare la domanda in modo strutturato."
-        result = answer_value_query(parsed)
-
-    else:
-        return f"❌ La funzione scelta dal classificatore non è valida: {chosen_function}"
-
-    if result is None:
-        return "❌ Nessun dato trovato nel database per la metrica richiesta."
-
-    # Step 2: Costruzione prompt per risposta finale
-    prompt = f"""
-L'utente ha chiesto: \"{user_question}\"
-
-Il database ha restituito il valore: {result}
-- Tabella: {parsed['table']}
-- Colonna: {parsed['column']}
-- Azienda (ticker): {parsed['company']}
-- Periodo: {parsed['period']}
-- Funzione SQL eseguita: {function_called}
-
-Scrivi una risposta dettagliata, professionale e chiara che spieghi all’utente cosa rappresenta questo valore, cosa significa nel contesto della domanda, e quale può essere la sua rilevanza per un analista o un investitore.
-""".strip()
-
+    Returns
+    -------
+    str
+        'answer_value_query' o 'answer_avg_query'
+    """
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model=MODEL_NAME,
+            temperature=TEMPERATURE,
             messages=[
-                {"role": "system", "content": "Sei un assistente esperto di finanza aziendale."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.5
+                {"role": "system", "content": _CHOOSE_FUNC_SYSTEM},
+                {"role": "user", "content": question.strip()}
+            ]
         )
-        return response.choices[0].message.content.strip()
+        choice = response.choices[0].message.content.strip()
+        if choice not in {"answer_value_query", "answer_avg_query"}:
+            raise ValueError(f"Scelta non valida: {choice}")
+        return choice
+    except Exception as exc:  # noqa: BLE001
+        logging.error("❌ Errore nella scelta della funzione: %s", exc, exc_info=True)
+        # Fallback euristico rapido
+        q_low = question.lower()
+        if any(w in q_low for w in ["media", "average", "mean"]):
+            return "answer_avg_query"
+        return "answer_value_query"
 
-    except Exception as e:
-        return f"❌ Errore durante la generazione della risposta: {e}"
+
+# --------------------------------------------------------------------------- #
+#  Public API
+# --------------------------------------------------------------------------- #
+
+def answer_question(question: str) -> Dict[str, Any]:
+    """
+    Elabora la domanda numerica e restituisce un dizionario strutturato.
+
+    Parameters
+    ----------
+    question : str
+        Domanda originale dell'utente.
+
+    Returns
+    -------
+    dict
+        Dizionario secondo lo schema definito in testa al file.
+    """
+    chosen = _choose_function(question)
+
+    if chosen == "answer_avg_query":
+        parsed = parse_avg_question(question)
+        if not parsed:
+            raise ValueError("Impossibile interpretare la domanda sulla media.")
+        result = answer_avg_query(parsed)
+
+    else:  # answer_value_query
+        parsed = parse_numerical_question(question)
+        if not parsed:
+            raise ValueError("Impossibile interpretare la domanda numerica.")
+        result = answer_value_query(parsed)
+
+    if result is None:
+        raise ValueError("Nessun dato trovato nel database.")
+
+    parsed["result"] = result
+    parsed["function_used"] = chosen
+    return parsed
+
+
+# --------------------------------------------------------------------------- #
+#  CLI per debug rapido
+# --------------------------------------------------------------------------- #
 
 if __name__ == "__main__":
-    print("💬 Inserisci la tua domanda per Mark:")
-    user_input = input("> ")
-    response = ask_mark(user_input)
-    print("\n🧠 Risposta di Mark:")
-    print(response)
+    try:
+        q = input("Domanda> ").strip()
+        print(answer_question(q))
+    except Exception as err:
+        print(f"Errore: {err}")

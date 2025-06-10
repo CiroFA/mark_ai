@@ -1,0 +1,39 @@
+debt: The carrying amount of accounts payable and floating-rate debt reported on the balance sheet approximates fair value.
+•
+Fixed-rate debt: The estimated fair value of fixed-rate debt is measured using prices available from a pricing service that is corroborated by market data; therefore, these liabilities are categorized as Level 2 in the fair value hierarchy.
+•
+Commercial paper: The carrying amount of our commercial paper instruments approximates fair value and is reported on the balance sheet as short-term debt.
+The following table summarizes the net fair value of financial instruments (i.e., adjusted where the right of setoff exists for commodity derivatives):
+Note 13—Equity
+Common Stock
+The changes in our shares of common stock, as categorized in the equity section of the balance sheet, were:
+Preferred Stock
+We have authorized
+500
+million shares of preferred stock, par value $
+0.01
+per share,
+none
+of which was issued or outstanding at December 31, 2024 or 2023.
+Repurchase of Common Stock
+In late 2016, we initiated our current share repurchase program. In October 2024, our Board of Directors approved an increase from our prior authorization of $
+45
+billion by a total of the lesser of $
+20
+billion or the number of shares issued in our acquisition of Marathon Oil, such that the company is not to exceed $
+65
+billion in aggregate purchases. Since inception of our current program, shares repurchased totaled
+433
+million shares at a cost of $
+34.3
+billion through the end of December 2024.
+In 2021, we began a paced monetization of our CVE common shares, the proceeds of which have been applied to share repurchases. In 2022, we sold our remaining
+91
+million CVE common shares.
+Note 14—Non-Mineral Leases
+The company primarily leases office buildings and drilling equipment, as well as ocean transport vessels, tugboats, corporate aircraft, and other facilities and equipment. Certain leases include escalation clauses for adjusting rental payments to reflect changes in price indices, and other leases include payment provisions that vary based on the nature of usage of the leased asset. Additionally, the company has executed certain leases that provide it with the option to extend or renew the term of the lease, terminate the lease prior to the end of the lease term, or purchase the leased asset as of the end of the lease term. In other cases, the company has executed lease agreements that require it to guarantee the residual value of certain leased office buildings. For additional information about guarantees,
+see Note
+9
+.
+There are no significant restrictions imposed on us by the lease agreements with regard to dividends, asset dispositions or borrowing ability.
+We determine if an arrangement is or contains a lease at contract inception. Certain contractual arrangements may contain both lease and non-lease components. Only the lease components of these contractual arrangements are subject to the provisions of ASC Topic 842, and any non-lease components

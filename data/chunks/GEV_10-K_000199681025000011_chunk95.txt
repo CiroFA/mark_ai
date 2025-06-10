@@ -1,0 +1,27 @@
+finance, supply
+chain, human resources, IT, insurance, employee benefits, and other expenses that are either specifically identifiable or clearly applicable
+to GE Vernova. These expenses have been allocated to us on the basis of direct usage when identifiable, with the remainder allocated on a
+pro rata basis using an applicable measure of headcount, revenue, or other allocation methodologies that are considered to be a
+reasonable reflection of the utilization of services provided or the benefit received by GE Vernova during the periods presented.
+Management considers that such allocations have been made on a reasonable basis; however, these allocations may not be indicative of
+the actual expense that would have been incurred had we operated as an independent, stand-alone public entity.
+Revenue Recognition on Service Agreements.
+We have long-term service agreements with our customers within our Power and Wind
+segments that require us to maintain the customers’ assets over the contract terms, which generally range from 5 to 25 years.
+Power.
+Within Power, these long-term service agreements, which we refer to as contractual service agreements, generally include
+maintenance associated with major outage events and revenues are recognized as we perform under the arrangements using the
+percentage of completion method, which is based on costs incurred relative to our estimate of total expected costs. This requires us to
+make estimates of customer payments expected to be received over the contract term as well as the costs to perform required
+maintenance services.
+Customers generally pay us based on the utilization of the asset (per hour of usage for example) or upon the occurrence of a major
+maintenance event within the contract. As a result, a significant estimate in determining expected revenues of a contract is estimating how
+customers will utilize their assets over the term of the agreement. The estimate of utilization, which can change over the contract life,
+impacts both the amount of customer payments we expect to receive and our estimate of future contract costs. Customers’ asset utilization
+will influence the timing and extent of maintenance events over the life of the contract. We generally use historical utilization trends in
+developing our revenue estimates. To develop our cost estimates, we consider the timing and extent of future maintenance events,
+including the amount and cost of labor, spare parts and other resources required to perform the services.
+We routinely review estimates under long-term service agreements and regularly revise them to adjust for changes in outlook. These
+revisions are based on objectively verifiable information that is available at the time of the review. Contract modifications that change the
+rights and obligations, as well as the nature, timing and extent of future cash flows, are evaluated for potential price concessions, contract
+asset impairments and significant financing to determine if adjustments of

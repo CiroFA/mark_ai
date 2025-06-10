@@ -1,0 +1,34 @@
+2023, our aggregate ownership interest in Huatai Group was approximately
+85.5
+percent and
+76.5
+percent, respectively. The relevant amounts attributable to shareholders other than Chubb are reflected in the Consolidated Financial Statements under the captions Noncontrolling interests, Net income (loss) attributable to noncontrolling interests, and Comprehensive income (loss) attributable to noncontrolling interests. Refer to Note 2 for additional information on the acquisition of Huatai Group.
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Amounts included in the Consolidated Financial Statements reflect our best estimates and assumptions; actual amounts could differ materially from these estimates. Chubb's principal estimates include:
+•
+unpaid loss and loss expense reserves, including long-tail asbestos and environmental (A&E) reserves and non-A&E casualty exposures;
+•
+future policy benefits reserves;
+•
+the valuation of value of business acquired (VOBA);
+•
+the assessment of risk transfer for certain structured insurance and reinsurance contracts;
+•
+reinsurance recoverable, including a valuation allowance for uncollectible reinsurance;
+•
+the valuation of the investment portfolio and assessment of valuation allowance for expected credit losses;
+•
+the valuation of deferred income taxes;
+•
+the valuation and amortization of purchased intangibles; and
+•
+the assessment of goodwill for impairment.
+b)
+Premiums
+Premiums are generally recorded as written upon inception of the policy. For multi-year policies for which premiums written are payable in annual installments, only the current annual premium is included as written at policy inception due to the ability of the insured/reinsured to commute or cancel coverage within the policy term. The remaining annual premiums are recorded as written at each successive anniversary date within the multi-year term.
+F-10
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+Chubb Limited and Subsidiaries
+For property and casualty (P&C) insurance and reinsurance products, premiums written are primarily earned on a pro-rata basis over the policy terms to which they relate. Unearned premiums represent the portion of premiums written applicable to the unexpired portion of the policies in force. For retrospectively-rated policies, written premiums are adjusted to reflect expected ultimate premiums consistent with changes to incurred losses, or other measures of exposure as stated in the policy, and earned over the policy coverage period.
+Mandatory reinstatement premiums assessed on reinsurance policies are earned in the period of the loss event that gave rise to the reinstatement premiums. All remaining

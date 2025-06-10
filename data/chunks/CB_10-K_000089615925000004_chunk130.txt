@@ -1,0 +1,15 @@
+unearned premiums are recognized over the remaining coverage period.
+Premiums from long-duration contracts such as certain traditional term life, whole life, endowment, and long-duration personal accident and health (A&H) policies are generally recognized as revenue when due from policyholders. Traditional life policies include those contracts with fixed and guaranteed premiums and benefits. Benefits and expenses are recognized in relation to insurance in force resulting in the recognition of profit over the life of the contracts.
+Retroactive loss portfolio transfer (LPT) contracts in which the insured loss events occurred prior to contract inception are evaluated to determine whether they meet criteria for reinsurance accounting. If reinsurance accounting is appropriate, written premiums are fully earned and corresponding losses and loss expenses recognized at contract inception. These contracts can cause significant variances in gross premiums written, net premiums written, net premiums earned, and net incurred losses in the years in which they are written. Reinsurance contracts sold not meeting the criteria for reinsurance accounting are recorded using the deposit method.
+Reinsurance premiums assumed are based on information provided by ceding companies supplemented by our own estimates of premium when we have not received ceding company reports. Estimates are reviewed and adjustments are recorded in the period in which they are determined. Premiums are earned over the coverage terms of the related reinsurance contracts and range from
+one year
+to
+three years
+.
+c)
+Deferred policy acquisition costs (DAC)
+Deferred policy acquisition costs consist of commissions (direct and ceded), premium taxes, and certain underwriting costs related directly to the successful acquisition of new or renewal insurance contracts. Amortization is recorded in Policy acquisition costs in the Consolidated statements of operations.
+Short-duration contracts
+Policy acquisition costs are amortized ratably over the period the related premiums are earned. Policy acquisition costs are reviewed to determine if they are recoverable from future income including investment income. Unrecoverable policy acquisition costs are expensed in the period identified.
+Long-duration contracts
+Policy acquisition costs are grouped by contract type and issue year into cohorts consistent with the groupings used in estimating the associated liability and are expensed on a constant level basis over the expected term of the related contracts to approximate straight-line amortization at the contract level. The constant level basis used for amortization is the insurance in-force and is projected using the same assumptions used in estimating the liability for future policy benefits. If those projected assumptions change in future periods, they will be reflected in the cohort level amortization basis at that time. Unexpected changes in the in-force portfolio, due to variances in mortality and lapse

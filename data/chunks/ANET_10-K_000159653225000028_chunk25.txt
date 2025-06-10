@@ -1,0 +1,18 @@
+competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking vendors utilizing open-source operating systems. Most of our competitors and some strategic alliance partners have made acquisitions and/or have entered into or extended partnerships or other strategic relationships to offer more comprehensive product lines, including cloud networking solutions. For example, Broadcom has acquired VMware and Hewlett Packard Enterprises has entered into an agreement to acquire Juniper Networks.
+With the emergence of AI networking, new competitive technologies may enter the market to address the requirements of AI clusters. Ethernet, today, faces competition from both InfiniBand ("IB") and NV Link interconnects for back-end AI networking clusters. IB has traditionally been used in supercomputer clusters due to its high reliability, low latency and high bandwidth. Both IB and NV Link are often sold as part of a vertical solution along with the GPUs from Nvidia.
+We also face competition from other companies and new market entrants, current technology partners and customers who may acquire or develop network switches and cloud service solutions for internal use and/or to broaden their portfolio of products to market and sell to customers. Some of these competitors are developing "white box" networking products based on open-source network operating systems that may be provided for free and off-the-shelf or commoditized hardware technology, or “white box” hardware, while other competitors may adopt a disaggregated approach to the procurement of hardware and their proprietary software. The entrance of new competitors into our markets or the increased adoption of these new technology solutions or consumption models may cause downward pricing pressures, result in lost sales or otherwise have a material adverse effect on our business, prospects, financial condition and operating results.
+In the NDR market, our Arista NDR offerings compete with other network security vendors including Cisco, Darktrace, and ExtraHop. In the network packet broker ("NPB") market, Arista DANZ Monitoring Fabric ("DMF") competes with Cisco, Gigamon, Keysight, Netscout  and other network monitoring software providers.
+Our relationships with our strategic alliance partners or suppliers may also shift as industry dynamics change. If strategic alliance partners acquire or develop competitive products or services, our relationship with those partners may be adversely impacted, which could lead to more variability to our results of operations and impact the pricing of our solutions.
+The principal competitive factors applicable to our products include:
+•
+breadth of product offerings and features;
+•
+reliability and product quality;
+•
+ease of use;
+•
+pricing;
+10
+Table of Contents
+•
+total cost of ownership, including automation, monitoring and integration
