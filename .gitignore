@@ -1,6 +1,30 @@
-# ignore sensitive configuration file
+# sensible configuration 
 .env
 
-# ignore compiled Python files and cache folders
+# python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# environment
+mark_env/
+
+# temporary or backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+
+# log files
+*.log
+
+# Ignora tutti i file .html dentro data/documents_raw/
+data/documents_raw/*.html
+
+# Ignora tutti i file .txt dentro data/chunks/
+data/chunks/*.txt
+
+# Ignora tutti i file .txt dentro data/text_clean/
+data/text_clean/*.txt
