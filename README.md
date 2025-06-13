@@ -270,7 +270,8 @@ Both scripts write rotating logs under `scripts/db/logs/mark_db_logs/` (`create_
 
 The numerical pipeline transforms a plain‑English financial question into a **parameterized SQL query** and returns a human‑readable answer:
 
-```
+```mermaid
+flowchart LR
   A[ask_mark.py] --> B[classify_question.py]
   B -- numerical --> C[answer_num_query.py]
   C --> |single value| D1[value_query.py]
