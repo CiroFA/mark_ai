@@ -343,7 +343,7 @@ The textual pipeline turns a qualitative question (e.g. *“What does Tesla’s 
 flowchart LR
   A[ask_mark.py] --> B[classify_question.py]
   B -- textual --> C[answer_text_query.py]
-  C --> D[retriever.py (FAISS)]
+  C --> D[retriever.py]
   D --> E[llm_wrapper.py]
   E --> F((Answer))
 ```
