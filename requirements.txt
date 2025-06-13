@@ -10,4 +10,5 @@ python-dotenv
 lxml
 sentence-transformers
 flask
+treamlit 
 

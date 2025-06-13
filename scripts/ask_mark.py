@@ -80,18 +80,18 @@ def _pretty_dump(obj: Dict[str, Any]) -> str:
 # --------------------------------------------------------------------------- #
 
 
-def main() -> None:
+def main(question: str | None = None) -> str:
     """
     Full orchestrator:
-    - Collect question
+    - Collect question (from argument or CLI)
     - Classify and route
     - Format final answer
-    - Print result
+    - Return result as string
     """
-    question = _read_question_from_cli()
+    if question is None:
+        question = _read_question_from_cli()
     if not question:
-        print("Nessuna domanda fornita.")
-        sys.exit(1)
+        return "Nessuna domanda fornita."
 
     # 1) Classify and retrieve raw result
     classification_output = classify_question(question)
@@ -106,9 +106,9 @@ def main() -> None:
         answer_payload=classification_output["result"],
     )
 
-    # 3) Output to user
-    print(final_answer)
+    # 3) Return to caller
+    return final_answer
 
 
 if __name__ == "__main__":
-    main()
+    print(main())

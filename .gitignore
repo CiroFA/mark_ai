@@ -16,15 +16,17 @@ mark_env/
 *.bak
 *.tmp
 *.DS_Store
+desktop.ini
+Thumbs.db
 
 # log files
 *.log
 
-# Ignora tutti i file .html dentro data/documents_raw/
+# Ignore all file .html in data/documents_raw/
 data/documents_raw/*.html
 
-# Ignora tutti i file .txt dentro data/chunks/
+# Ignore all file .txt in data/chunks/
 data/chunks/*.txt
 
-# Ignora tutti i file .txt dentro data/text_clean/
+# Ignore all file .txt in data/text_clean/
 data/text_clean/*.txt
