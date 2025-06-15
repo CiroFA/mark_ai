@@ -1,5 +1,3 @@
-
-
 """
 ask_mark.py
 
@@ -92,6 +90,7 @@ def main(question: str | None = None) -> str:
         question = _read_question_from_cli()
     if not question:
         return "Nessuna domanda fornita."
+    print(f"Domanda ricevuta: {question}", file=sys.stderr)
 
     # 1) Classify and retrieve raw result
     classification_output = classify_question(question)
@@ -106,7 +105,8 @@ def main(question: str | None = None) -> str:
         answer_payload=classification_output["result"],
     )
 
-    # 3) Return to caller
+    # 3) Print generated answer to stderr for debug
+    print(f"Risposta generata: {final_answer}", file=sys.stderr)
     return final_answer
 
 

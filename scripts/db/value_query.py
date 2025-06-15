@@ -2,6 +2,8 @@ import pymysql
 import os
 from dotenv import load_dotenv
 from .table_metadata import TABLE_METADATA
+from .date_utils import bounds
+import datetime
 
 load_dotenv()
 MYSQL_USER     = os.getenv("MYSQL_USER")
@@ -10,6 +12,9 @@ MYSQL_HOST     = os.getenv("MYSQL_HOST")
 MYSQL_PORT     = int(os.getenv("MYSQL_PORT"))
 MYSQL_DB       = os.getenv("MYSQL_DB")
 
+class ValueNotInDatabase(Exception):
+    pass
+
 def answer_value_query(parsed: dict):
     """
     Esegue una query SQL a partire da:
@@ -17,20 +22,26 @@ def answer_value_query(parsed: dict):
         "company": "AAPL",
         "table": "financials",
         "column": "Net_Income",
-        "time_field": "fiscal_year",   # può essere None
+        "time_field": "date",       # può essere None
         "time_type":  "year",
-        "time_value": "2023"           # può essere 'latest' o None
+        "time_value": "2023"        # può essere None se latest
     }
     """
     company    = parsed.get("company")
     table      = parsed.get("table")
     column     = parsed.get("column")
     time_field = parsed.get("time_field") or TABLE_METADATA.get(table, {}).get("time_field")
+    time_type  = parsed.get("time_type", "latest")
     time_value = parsed.get("time_value")
 
     if not (company and table and column):
         print("❌ Dati insufficienti per costruire la query.")
         return None
+
+    # Se la tabella non contiene un campo temporale, accettiamo solo 'latest'
+    if time_field is None and time_type != "latest":
+        raise ValueError(f"La tabella {table} non contiene dati storici: "
+                         "il periodo deve essere 'latest'.")
 
     try:
         connection = pymysql.connect(
@@ -43,26 +54,21 @@ def answer_value_query(parsed: dict):
 
         with connection.cursor() as cursor:
             if time_field is None:
-                # Nessuna dimensione temporale (info, sustainability)
-                query = f"""
+                # Tabella statica (info, recommendations, splits, sustainability)
+                sql = f"""
                     SELECT {column}
                     FROM {table}
                     WHERE company_id = (
                         SELECT company_id FROM info WHERE symbol = %s
                     )
-                    LIMIT 1
                 """
-                cursor.execute(query, (company.upper(),))
+                cursor.execute(sql, (company.upper(),))
 
             else:
-                # Tabella con dimensione temporale
-                if time_value not in (None, "latest"):
-                    tv = str(time_value).strip()          # normalizza a stringa senza spazi
-                    if parsed.get("time_type") == "date" and len(tv) == 4 and tv.isdigit():
-                        time_value = f"{tv}-12-31"
-
-                if time_value in (None, "latest"):
-                    query = f"""
+                start, end = bounds(time_type, time_value)
+                if start is None:
+                    # Caso 'latest'
+                    sql = f"""
                         SELECT {column}
                         FROM {table}
                         WHERE company_id = (
@@ -71,23 +77,29 @@ def answer_value_query(parsed: dict):
                         ORDER BY {time_field} DESC
                         LIMIT 1
                     """
-                    cursor.execute(query, (company.upper(),))
+                    cursor.execute(sql, (company.upper(),))
                 else:
-                    query = f"""
+                    sql = f"""
                         SELECT {column}
                         FROM {table}
                         WHERE company_id = (
                             SELECT company_id FROM info WHERE symbol = %s
                         )
-                        AND {time_field} = %s
+                          AND {time_field} BETWEEN %s AND %s
+                        ORDER BY {time_field} DESC
                         LIMIT 1
                     """
-                    cursor.execute(query, (company.upper(), time_value))
+                    # PyMySQL converte automaticamente datetime.date in stringa
+                    cursor.execute(sql, (company.upper(), start, end))
 
             result = cursor.fetchone()
-            return result[0] if result else None
+            if result is None:
+                raise ValueNotInDatabase("No data found in the database.")
+            return result[0]
 
     except Exception as e:
+        if isinstance(e, ValueNotInDatabase):
+            raise
         print("❌ Errore durante l'esecuzione della query:", e)
         return None
 

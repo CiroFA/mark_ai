@@ -1,10 +1,10 @@
 TABLE_METADATA = {
     "balance_sheet": {
-        "time_field": 'reporting_date',
+        "time_field": 'date',
         "time_type": 'date',
     },
     "cashflow": {
-        "time_field": 'date',
+        "time_field": 'period',
         "time_type": 'date',
     },
     "dividends": {
@@ -12,7 +12,7 @@ TABLE_METADATA = {
         "time_type": 'date',
     },
     "financials": {
-        "time_field": 'date_column',
+        "time_field": 'date',
         "time_type": 'date',
     },
     "history": {
